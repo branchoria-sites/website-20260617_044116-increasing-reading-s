@@ -275,7 +275,7 @@ image: /assets/images/increasing_re_852ca6_rereading_reg_828352_slow_down_les_65
 
 ## Introduction
 
-One of the most useful signals that a reader should slow down is not a feeling of confusion but the appearance of repeated lookbacks. In reading research, these backward [eye movements]({{ 'eye-tradeoff/' | relative_url }}) are called [regressions]({{ 'lookbacks/' | relative_url }}). They occur naturally in skilled reading and are not signs of failure. In fact, readers move their eyes backwards roughly 10–15% of the time, often to repair a misunderstanding, reconnect a reference, or verify a relationship between ideas. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kids.frontiersin.org/articles/10.3389/frym.2023.769381" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kids.frontiersin.org">[Frontiers for Young Minds+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kids.frontiersin.org</span><span class="citation-popover-snippet">Frontiers for Young MindsEye Movements During Reading2 Feb 2023 — To “regress” means to go back. Backwards eye movements happen about 10–...</span></span></span>
+One of the most useful signals that a reader should slow down is not a feeling of confusion but the appearance of repeated lookbacks. In reading research, these backward [eye movements]({{ 'eye-tradeoff/' | relative_url }}) are called [regressions]({{ 'lookbacks/' | relative_url }}). They occur naturally in skilled reading and are not signs of failure. In fact, readers move their eyes backwards roughly 10–15% of the time, often to repair a misunderstanding, reconnect a reference, or verify a relationship between ideas.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kids.frontiersin.org/articles/10.3389/frym.2023.769381" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kids.frontiersin.org">[Frontiers for Young Minds+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kids.frontiersin.org</span><span class="citation-popover-snippet">Frontiers for Young MindsEye Movements During Reading2 Feb 2023 — To “regress” means to go back. Backwards eye movements happen about 10–...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_rereading_reg_828352_slow_down_les_65c208_regression_cu_b775bc-Illustration-1-dark.svg" | relative_url }}" alt="Lookback Cues illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_rereading_reg_828352_slow_down_les_65c208_regression_cu_b775bc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_rereading_reg_828352_slow_down_les_65c208_regression_cu_b775bc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -283,9 +283,9 @@ For people trying to increase reading speed, the important question is not wheth
 
 ## What Regressions Do During Normal Reading
 
-Reading is not a smooth left-to-right sweep across a page. The eyes pause, jump forward, occasionally skip words, and sometimes move backwards. These backward movements become more common when text is difficult, ambiguous, or unexpectedly complex. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scholarpedia.org/article/Eye_movements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholarpedia.org">[Scholarpedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholarpedia.org</span><span class="citation-popover-title">Eye movements</span><span class="citation-popover-snippet">Eye movements17 Sept 2007 — Eye movements in reading. During... 10-15% of the time readers move their eyes (regress) back to...</span></span></span>
+Reading is not a smooth left-to-right sweep across a page. The eyes pause, jump forward, occasionally skip words, and sometimes move backwards. These backward movements become more common when text is difficult, ambiguous, or unexpectedly complex.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scholarpedia.org/article/Eye_movements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholarpedia.org">[Scholarpedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholarpedia.org</span><span class="citation-popover-title">Eye movements</span><span class="citation-popover-snippet">Eye movements17 Sept 2007 — Eye movements in reading. During... 10-15% of the time readers move their eyes (regress) back to...</span></span></span>
 
-Research suggests that regressions often support comprehension by allowing readers to reprocess information that was not adequately integrated during the first pass. Studies examining the function of regressions found evidence that readers use them to reread text itself rather than merely to trigger memory of previously seen words. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">The function of these &quot;regressions&quot; is still largely unknown</span><span class="citation-popover-snippet">The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 132 — Standard text reading involves frequent...</span></span></span>
+Research suggests that regressions often support comprehension by allowing readers to reprocess information that was not adequately integrated during the first pass. Studies examining the function of regressions found evidence that readers use them to reread text itself rather than merely to trigger memory of previously seen words.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">The function of these &quot;regressions&quot; is still largely unknown</span><span class="citation-popover-snippet">The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 132 — Standard text reading involves frequent...</span></span></span>
 
 This distinction matters. If a reader briefly looks back to confirm a definition or reconnect a pronoun with its referent, the regression is performing useful work. The problem is not the lookback. The problem is continuing at the same pace when the lookback indicates that processing demands have increased.
 
@@ -308,7 +308,7 @@ Several signs suggest that slowing down may be more efficient than maintaining s
 
 </div>
 
-[Eye-tracking]({{ 'eye-tracking/' | relative_url }}) research consistently shows that regressions increase as text difficulty rises and as comprehension demands grow. More difficult material tends to produce longer fixations, shorter forward jumps, and more backward movements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scholarpedia.org/article/Eye_movements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholarpedia.org">[Scholarpedia+2Deep Blue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholarpedia.org</span><span class="citation-popover-title">Eye movements</span><span class="citation-popover-snippet">Eye movements17 Sept 2007 — Eye movements in reading. During... 10-15% of the time readers move their eyes (regress) back to...</span></span></span>
+[Eye-tracking]({{ 'eye-tracking/' | relative_url }}) research consistently shows that regressions increase as text difficulty rises and as comprehension demands grow. More difficult material tends to produce longer fixations, shorter forward jumps, and more backward movements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scholarpedia.org/article/Eye_movements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholarpedia.org">[Scholarpedia+2Deep Blue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholarpedia.org</span><span class="citation-popover-title">Eye movements</span><span class="citation-popover-snippet">Eye movements17 Sept 2007 — Eye movements in reading. During... 10-15% of the time readers move their eyes (regress) back to...</span></span></span>
 
 The practical lesson is that regressions often appear before a reader fully realises that comprehension is weakening.
 
@@ -321,7 +321,7 @@ Large-scale rereading rarely appears without warning. More often, it is preceded
 
 One common pattern occurs when a reader can still understand individual sentences but starts losing the connections between them. The eyes may briefly return to earlier [phrases]({{ 'phrases/' | relative_url }}), then move forward again. Because overall comprehension still feels intact, the reader continues at the same speed. Several paragraphs later, the argument collapses and a major restart becomes necessary.
 
-Research on comprehension monitoring suggests that regressions are closely linked to detecting inconsistencies and triggering re-analysis. Readers who actively monitor meaning often show targeted returns to relevant text when something does not fit their developing understanding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ora.ox.ac.uk/objects/uuid%3Aa16f42e2-529d-47ae-ba51-50b75dd43899/files/rkh04dp70d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ora.ox.ac.uk">[Oxford University Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ora.ox.ac.uk</span><span class="citation-popover-title">This seems to reflect sensitivity to comprehension monitoring</span><span class="citation-popover-snippet">ford University Research ArchiveComprehension monitoring during reading: an eye-tracking...March 27, 2020 — by AK Hessel · 2020 · Cite...</span><span class="citation-popover-meta">Published: March 27, 2020</span></span></span>
+Research on comprehension monitoring suggests that regressions are closely linked to detecting inconsistencies and triggering re-analysis. Readers who actively monitor meaning often show targeted returns to relevant text when something does not fit their developing understanding.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ora.ox.ac.uk/objects/uuid%3Aa16f42e2-529d-47ae-ba51-50b75dd43899/files/rkh04dp70d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ora.ox.ac.uk">[Oxford University Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ora.ox.ac.uk</span><span class="citation-popover-title">This seems to reflect sensitivity to comprehension monitoring</span><span class="citation-popover-snippet">ford University Research ArchiveComprehension monitoring during reading: an eye-tracking...March 27, 2020 — by AK Hessel · 2020 · Cite...</span><span class="citation-popover-meta">Published: March 27, 2020</span></span></span>
 
 In practical terms, useful warning signs include:
 
@@ -384,7 +384,7 @@ Identifying the relationship often resolves the need for repeated lookbacks.
 
 A page containing familiar examples can often be read quickly. A paragraph introducing several [new concepts]({{ 'new-concepts/' | relative_url }}) may require a slower rhythm.
 
-Eye-movement research shows that readers naturally adjust fixation duration and regression behaviour in response to difficulty. Deliberately supporting that adjustment can improve overall efficiency. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scholarpedia.org/article/Eye_movements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholarpedia.org">[Scholarpedia+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholarpedia.org</span><span class="citation-popover-title">Eye movements</span><span class="citation-popover-snippet">Eye movements17 Sept 2007 — Eye movements in reading. During... 10-15% of the time readers move their eyes (regress) back to...</span></span></span>
+Eye-movement research shows that readers naturally adjust fixation duration and regression behaviour in response to difficulty. Deliberately supporting that adjustment can improve overall efficiency.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scholarpedia.org/article/Eye_movements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scholarpedia.org">[Scholarpedia+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scholarpedia.org</span><span class="citation-popover-title">Eye movements</span><span class="citation-popover-snippet">Eye movements17 Sept 2007 — Eye movements in reading. During... 10-15% of the time readers move their eyes (regress) back to...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_rereading_reg_828352_slow_down_les_65c208_regression_cu_b775bc-Illustration-3-dark.svg" | relative_url }}" alt="Lookback Cues illustration 3" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_rereading_reg_828352_slow_down_les_65c208_regression_cu_b775bc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_rereading_reg_828352_slow_down_les_65c208_regression_cu_b775bc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -392,185 +392,185 @@ Eye-movement research shows that readers naturally adjust fixation duration and 
 
 A common misconception is that any slowdown reduces efficiency. The evidence from reading research points to a more nuanced picture.
 
-Regressions are part of normal reading, and many of them help readers build accurate understanding. Problems arise when readers ignore repeated regression cues and continue moving forward at a pace that exceeds their ability to integrate information. At that point, comprehension repair becomes larger, more expensive, and more disruptive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">The function of these &quot;regressions&quot; is still largely unknown</span><span class="citation-popover-snippet">The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 132 — Standard text reading involves frequent...</span></span></span>
+Regressions are part of normal reading, and many of them help readers build accurate understanding. Problems arise when readers ignore repeated regression cues and continue moving forward at a pace that exceeds their ability to integrate information. At that point, comprehension repair becomes larger, more expensive, and more disruptive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">The function of these &quot;regressions&quot; is still largely unknown</span><span class="citation-popover-snippet">The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 132 — Standard text reading involves frequent...</span></span></span>
 
 The fastest readers are not necessarily those who eliminate regressions. They are often the readers who recognise when a regression is signalling genuine processing difficulty and adjust before confusion spreads. A slight reduction in pace at the right moment can prevent an entire page of unnecessary rereading later.
 
 In that sense, the most valuable lookbacks are not interruptions to reading speed. They are early-warning signals that help preserve it.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Lookbacks Tell You to Slow Down. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Lookbacks Tell You to Slow Down. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Supports strategic rereading and purposeful review.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Supports strategic rereading and purposeful review.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Work on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lZpFCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Work" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Work">Deep Work</a>
-        </h4>
-        <p class="fr-book-author">By Cal Newport</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Work on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lZpFCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Work" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Work">Deep Work</a>
+</h4>
+<p class="fr-book-author">By Cal Newport</p>
         
-        <p class="fr-book-desc">Encourages attention management that reduces costly comprehension breakdowns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages attention management that reduces costly comprehension breakdowns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Only+Skill+that+Matters+Jonathan+A.+Levi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Only Skill that Matters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/15160962-M.jpg" alt="Cover for The Only Skill that Matters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Only+Skill+that+Matters+Jonathan+A.+Levi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Only Skill that Matters">The Only Skill that Matters</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan A. Levi</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Only+Skill+that+Matters+Jonathan+A.+Levi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Only Skill that Matters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/15160962-M.jpg" alt="Cover for The Only Skill that Matters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Only+Skill+that+Matters+Jonathan+A.+Levi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Only Skill that Matters">The Only Skill that Matters</a>
+</h4>
+<p class="fr-book-author">By Jonathan A. Levi</p>
         
-        <p class="fr-book-desc">First published 2019.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Only+Skill+that+Matters+Jonathan+A.+Levi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2019.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Only+Skill+that+Matters+Jonathan+A.+Levi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Reading+Mind+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading Mind on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Reading+Mind+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading Mind">Reading Mind</a>
-        </h4>
-        <p class="fr-book-author">By Daniel T. Willingham</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Reading+Mind+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading Mind on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Reading+Mind+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading Mind">Reading Mind</a>
+</h4>
+<p class="fr-book-author">By Daniel T. Willingham</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Reading, Reading comprehension, Cognitive psychology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Reading+Mind+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Reading, Reading comprehension, Cognitive psychology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Reading+Mind+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Work&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Work</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Only+Skill+that+Matters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Only Skill that Matters</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Work&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Work</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Only+Skill+that+Matters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Only Skill that Matters</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lookback-cues-when-lookbacks-tell-you-to-slow-down-increasing-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you poster -book -books -dvd" data-ebay-reference="lookback-cues-when-lookbacks-tell-you-to-slow-down-increasing-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for You Netflix Poster A3 | Joe Goldberg Hand Drawn Fan Art Print 300gsm"><img src="{{ '/assets/images/marketplace-covers/b7300a5ec765099826fe.jpg' | relative_url }}" alt="Listing image for You Netflix Poster A3 | Joe Goldberg Hand Drawn Fan Art Print 300gsm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lookback-cues-when-lookbacks-tell-you-to-slow-down-increasing-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you poster -book -books -dvd" data-ebay-reference="lookback-cues-when-lookbacks-tell-you-to-slow-down-increasing-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">You Netflix Poster A3 | Joe Goldberg Hand Drawn Fan Art Print 300gsm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lookback-cues-when-lookbacks-tell-you-to-slow-down-increasing-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you poster -book -books -dvd" data-ebay-reference="lookback-cues-when-lookbacks-tell-you-to-slow-down-increasing-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for you poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: you poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lookback-cues-when-lookbacks-tell-you-to-slow-down-increasing-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you poster -book -books -dvd" data-ebay-reference="lookback-cues-when-lookbacks-tell-you-to-slow-down-increasing-you-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lookback-cues-when-lookbacks-tell-you-to-slow-down-increasing-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you poster -book -books -dvd" data-ebay-reference="lookback-cues-when-lookbacks-tell-you-to-slow-down-increasing-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for You Netflix Poster A3 | Joe Goldberg Hand Drawn Fan Art Print 300gsm"><img src="{{ '/assets/images/marketplace-covers/b7300a5ec765099826fe.jpg' | relative_url }}" alt="Listing image for You Netflix Poster A3 | Joe Goldberg Hand Drawn Fan Art Print 300gsm" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lookback-cues-when-lookbacks-tell-you-to-slow-down-increasing-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you poster -book -books -dvd" data-ebay-reference="lookback-cues-when-lookbacks-tell-you-to-slow-down-increasing-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">You Netflix Poster A3 | Joe Goldberg Hand Drawn Fan Art Print 300gsm</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lookback-cues-when-lookbacks-tell-you-to-slow-down-increasing-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you poster -book -books -dvd" data-ebay-reference="lookback-cues-when-lookbacks-tell-you-to-slow-down-increasing-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for you poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: you poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lookback-cues-when-lookbacks-tell-you-to-slow-down-increasing-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you poster -book -books -dvd" data-ebay-reference="lookback-cues-when-lookbacks-tell-you-to-slow-down-increasing-you-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lookback-cues-when-lookbacks-tell-you-to-slow-down-increasing-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you poster -book -books -dvd" data-ebay-reference="lookback-cues-when-lookbacks-tell-you-to-slow-down-increasing-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1999 10 THINGS I HATE ABOUT YOU - Movie Film Poster Print - A3 A4 A5 Home Decor"><img src="{{ '/assets/images/marketplace-covers/0ef035cc5c337295ca8f.jpg' | relative_url }}" alt="Listing image for 1999 10 THINGS I HATE ABOUT YOU - Movie Film Poster Print - A3 A4 A5 Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lookback-cues-when-lookbacks-tell-you-to-slow-down-increasing-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you poster -book -books -dvd" data-ebay-reference="lookback-cues-when-lookbacks-tell-you-to-slow-down-increasing-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">1999 10 THINGS I HATE ABOUT YOU - Movie Film Poster Print - A3 A4 A5 Home Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lookback-cues-when-lookbacks-tell-you-to-slow-down-increasing-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you poster -book -books -dvd" data-ebay-reference="lookback-cues-when-lookbacks-tell-you-to-slow-down-increasing-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for you poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: you poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lookback-cues-when-lookbacks-tell-you-to-slow-down-increasing-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you poster -book -books -dvd" data-ebay-reference="lookback-cues-when-lookbacks-tell-you-to-slow-down-increasing-you-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lookback-cues-when-lookbacks-tell-you-to-slow-down-increasing-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you poster -book -books -dvd" data-ebay-reference="lookback-cues-when-lookbacks-tell-you-to-slow-down-increasing-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1999 10 THINGS I HATE ABOUT YOU - Movie Film Poster Print - A3 A4 A5 Home Decor"><img src="{{ '/assets/images/marketplace-covers/0ef035cc5c337295ca8f.jpg' | relative_url }}" alt="Listing image for 1999 10 THINGS I HATE ABOUT YOU - Movie Film Poster Print - A3 A4 A5 Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lookback-cues-when-lookbacks-tell-you-to-slow-down-increasing-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you poster -book -books -dvd" data-ebay-reference="lookback-cues-when-lookbacks-tell-you-to-slow-down-increasing-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">1999 10 THINGS I HATE ABOUT YOU - Movie Film Poster Print - A3 A4 A5 Home Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lookback-cues-when-lookbacks-tell-you-to-slow-down-increasing-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you poster -book -books -dvd" data-ebay-reference="lookback-cues-when-lookbacks-tell-you-to-slow-down-increasing-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for you poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: you poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lookback-cues-when-lookbacks-tell-you-to-slow-down-increasing-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you poster -book -books -dvd" data-ebay-reference="lookback-cues-when-lookbacks-tell-you-to-slow-down-increasing-you-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lookback-cues-when-lookbacks-tell-you-to-slow-down-increasing-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you poster -book -books -dvd" data-ebay-reference="lookback-cues-when-lookbacks-tell-you-to-slow-down-increasing-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for You Series Poster A5 A4 A3 A2 A1"><img src="{{ '/assets/images/marketplace-covers/c6c3be4326fe6777bbdd.jpg' | relative_url }}" alt="Listing image for You Series Poster A5 A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lookback-cues-when-lookbacks-tell-you-to-slow-down-increasing-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you poster -book -books -dvd" data-ebay-reference="lookback-cues-when-lookbacks-tell-you-to-slow-down-increasing-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">You Series Poster A5 A4 A3 A2 A1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lookback-cues-when-lookbacks-tell-you-to-slow-down-increasing-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you poster -book -books -dvd" data-ebay-reference="lookback-cues-when-lookbacks-tell-you-to-slow-down-increasing-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for you poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: you poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lookback-cues-when-lookbacks-tell-you-to-slow-down-increasing-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you poster -book -books -dvd" data-ebay-reference="lookback-cues-when-lookbacks-tell-you-to-slow-down-increasing-you-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lookback-cues-when-lookbacks-tell-you-to-slow-down-increasing-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you poster -book -books -dvd" data-ebay-reference="lookback-cues-when-lookbacks-tell-you-to-slow-down-increasing-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lookback-cues-when-lookbacks-tell-you-to-slow-down-increasing-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you poster -book -books -dvd" data-ebay-reference="lookback-cues-when-lookbacks-tell-you-to-slow-down-increasing-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for You Series Poster A5 A4 A3 A2 A1"><img src="{{ '/assets/images/marketplace-covers/c6c3be4326fe6777bbdd.jpg' | relative_url }}" alt="Listing image for You Series Poster A5 A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lookback-cues-when-lookbacks-tell-you-to-slow-down-increasing-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you poster -book -books -dvd" data-ebay-reference="lookback-cues-when-lookbacks-tell-you-to-slow-down-increasing-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">You Series Poster A5 A4 A3 A2 A1</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lookback-cues-when-lookbacks-tell-you-to-slow-down-increasing-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you poster -book -books -dvd" data-ebay-reference="lookback-cues-when-lookbacks-tell-you-to-slow-down-increasing-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for you poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: you poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lookback-cues-when-lookbacks-tell-you-to-slow-down-increasing-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you poster -book -books -dvd" data-ebay-reference="lookback-cues-when-lookbacks-tell-you-to-slow-down-increasing-you-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lookback-cues-when-lookbacks-tell-you-to-slow-down-increasing-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you poster -book -books -dvd" data-ebay-reference="lookback-cues-when-lookbacks-tell-you-to-slow-down-increasing-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -586,7 +586,7 @@ In that sense, the most valuable lookbacks are not interruptions to reading spee
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -606,7 +606,7 @@ In that sense, the most valuable lookbacks are not interruptions to reading spee
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -638,7 +638,7 @@ In that sense, the most valuable lookbacks are not interruptions to reading spee
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -690,7 +690,7 @@ In that sense, the most valuable lookbacks are not interruptions to reading spee
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -735,7 +735,7 @@ In that sense, the most valuable lookbacks are not interruptions to reading spee
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -776,148 +776,148 @@ In that sense, the most valuable lookbacks are not interruptions to reading spee
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2906818/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2906818/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Eye Movements in Reading: Models and Data - PMC - NIHFifth, readers make regressions (saccades backwards to look at words that occurre...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2906818/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2906818/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eye Movements in Reading: Models and Data - PMC - NIHFifth, readers make regressions (saccades backwards to look at words that occurre...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: scholarpedia.org  
    Title: Eye movements  
-   Link: <a href="https://www.scholarpedia.org/article/Eye_movements" target="_blank" rel="noopener noreferrer nofollow">https://www.scholarpedia.org/article/Eye_movements</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Eye movements17 Sept 2007 — Eye movements in reading. During... 10-15% of the time readers move their eyes (regress) back to...</p></details>
+   Link:<a href="https://www.scholarpedia.org/article/Eye_movements" target="_blank" rel="noopener noreferrer nofollow">https://www.scholarpedia.org/article/Eye_movements</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eye movements17 Sept 2007 — Eye movements in reading. During... 10-15% of the time readers move their eyes (regress) back to...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.3758/s13421-012-0244-y" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13421-012-0244-y</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>function of regressions in reading: Backward eye...by RW Booth · 2013 · Cited by 134 — These results suggest that readers use regression...</p></details>
+   Link:<a href="https://link.springer.com/article/10.3758/s13421-012-0244-y" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13421-012-0244-y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>function of regressions in reading: Backward eye...by RW Booth · 2013 · Cited by 134 — These results suggest that readers use regression...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/228625379_Eye_Movements_as_Reflections_of_Comprehension_Processes_in_Reading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228625379_Eye_Movements_as_Reflections_of_Comprehension_Processes_in_Reading</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Eye Movements as Reflections of Comprehension...Due to its high precision and non-intrusive nature, eye tracking has e...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/228625379_Eye_Movements_as_Reflections_of_Comprehension_Processes_in_Reading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228625379_Eye_Movements_as_Reflections_of_Comprehension_Processes_in_Reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Eye Movements as Reflections of Comprehension...Due to its high precision and non-intrusive nature, eye tracking has e...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6235565/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6235565/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by JR Folk · 2018 · Cited by 9 — This paper describes how to design materials to distinguish between regressions caused by comprehensi...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6235565/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6235565/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by JR Folk · 2018 · Cited by 9 — This paper describes how to design materials to distinguish between regressions caused by comprehensi...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2411-5150/3/3/35" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2411-5150/3/3/35</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Regressions during Readingby AW Inhoff · 2019 · Cited by 74 — In the most effective model, encoding and reprocessing were also strong...</p></details>
+   Link:<a href="https://www.mdpi.com/2411-5150/3/3/35" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2411-5150/3/3/35</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Regressions during Readingby AW Inhoff · 2019 · Cited by 74 — In the most effective model, encoding and reprocessing were also strong...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/355138336_The_Relation_between_Reading_Performance_and_Eye_Movement_Parameters_of_High-Skilled_and_Low-Skilled_Readers" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/355138336_The_Relation_between_Reading_Performance_and_Eye_Movement_Parameters_of_High-Skilled_and_Low-Skilled_Readers</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>skilled readers, and the average number of regressions. into AOI was 43.6... Eye-tracking methods have become a valuable tool for readin...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/355138336_The_Relation_between_Reading_Performance_and_Eye_Movement_Parameters_of_High-Skilled_and_Low-Skilled_Readers" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/355138336_The_Relation_between_Reading_Performance_and_Eye_Movement_Parameters_of_High-Skilled_and_Low-Skilled_Readers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>skilled readers, and the average number of regressions. into AOI was 43.6... Eye-tracking methods have become a valuable tool for readin...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/230658181_The_function_of_regressions_in_reading_Backward_eye_movements_allow_rereading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/230658181_The_function_of_regressions_in_reading_Backward_eye_movements_allow_rereading</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ue their memory for previously read words.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/230658181_The_function_of_regressions_in_reading_Backward_eye_movements_allow_rereading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/230658181_The_function_of_regressions_in_reading_Backward_eye_movements_allow_rereading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ue their memory for previously read words.Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
    Title: Eye movements during reading: Some current controversies  
-   Link: <a href="https://www.researchgate.net/publication/12047093_Eye_movements_during_reading_Some_current_controversies" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/12047093_Eye_movements_during_reading_Some_current_controversies</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>regressions&#x27; back to previously read text about 10-15% of the time. 16,21 Since information is acquired during pxations, a characteristic...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/12047093_Eye_movements_during_reading_Some_current_controversies" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/12047093_Eye_movements_during_reading_Some_current_controversies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>regressions&#x27; back to previously read text about 10-15% of the time. 16,21 Since information is acquired during pxations, a characteristic...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: mdpi.com  
    Title: 2226 471X  
-   Link: <a href="https://www.mdpi.com/2226-471X/9/12/360" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2226-471X/9/12/360</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tracking Adults&#x27; Eye Movements to Study Text...by G Andreou · 2024 · Cited by 7 — Research has shown that better reading comprehension i...</p></details>
+   Link:<a href="https://www.mdpi.com/2226-471X/9/12/360" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2226-471X/9/12/360</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tracking Adults&#x27; Eye Movements to Study Text...by G Andreou · 2024 · Cited by 7 — Research has shown that better reading comprehension i...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: kids.frontiersin.org  
-   Link: <a href="https://kids.frontiersin.org/articles/10.3389/frym.2023.769381" target="_blank" rel="noopener noreferrer nofollow">https://kids.frontiersin.org/articles/10.3389/frym.2023.769381</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontiers for Young MindsEye Movements During Reading2 Feb 2023 — To “regress” means to go back. Backwards eye movements happen about 10–...</p></details>
+   Link:<a href="https://kids.frontiersin.org/articles/10.3389/frym.2023.769381" target="_blank" rel="noopener noreferrer nofollow">https://kids.frontiersin.org/articles/10.3389/frym.2023.769381</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Frontiers for Young MindsEye Movements During Reading2 Feb 2023 — To “regress” means to go back. Backwards eye movements happen about 10–...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: The function of these "regressions" is still largely unknown  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22886737/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 132 — Standard text reading involves frequent...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22886737/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 132 — Standard text reading involves frequent...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: deepblue.lib.umich.edu  
-   Link: <a href="https://deepblue.lib.umich.edu/bitstreams/70109e05-1d8d-4bbc-933a-c168048774fb/download" target="_blank" rel="noopener noreferrer nofollow">https://deepblue.lib.umich.edu/bitstreams/70109e05-1d8d-4bbc-933a-c168048774fb/download</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dodwell, 1979; Rayner &amp; Pollatsek, 1998) and regressions often occur...Read more...</p></details>
+   Link:<a href="https://deepblue.lib.umich.edu/bitstreams/70109e05-1d8d-4bbc-933a-c168048774fb/download" target="_blank" rel="noopener noreferrer nofollow">https://deepblue.lib.umich.edu/bitstreams/70109e05-1d8d-4bbc-933a-c168048774fb/download</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dodwell, 1979; Rayner &amp; Pollatsek, 1998) and regressions often occur...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ora.ox.ac.uk  
    Title: This seems to reflect sensitivity to comprehension monitoring  
-   Link: <a href="https://ora.ox.ac.uk/objects/uuid%3Aa16f42e2-529d-47ae-ba51-50b75dd43899/files/rkh04dp70d" target="_blank" rel="noopener noreferrer nofollow">https://ora.ox.ac.uk/objects/uuid%3Aa16f42e2-529d-47ae-ba51-50b75dd43899/files/rkh04dp70d</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ford University Research ArchiveComprehension monitoring during reading: an eye-tracking...March 27, 2020 — by AK Hessel · 2020 · Cite...</p></details>
+   Link:<a href="https://ora.ox.ac.uk/objects/uuid%3Aa16f42e2-529d-47ae-ba51-50b75dd43899/files/rkh04dp70d" target="_blank" rel="noopener noreferrer nofollow">https://ora.ox.ac.uk/objects/uuid%3Aa16f42e2-529d-47ae-ba51-50b75dd43899/files/rkh04dp70d</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ford University Research ArchiveComprehension monitoring during reading: an eye-tracking...March 27, 2020 — by AK Hessel · 2020 · Cite...</p></details>
    Published: March 27, 2020  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Eye" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eye</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EyeAn eye is a sensory organ that allows an organism to perceive visual information. It detects light and converts it into electro-che...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Eye" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eye</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EyeAn eye is a sensory organ that allows an organism to perceive visual information. It detects light and converts it into electro-che...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12409514/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12409514/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the rereading effect of digital reading through eye...by Y Xu · 2025 — The goal of this study is to investigate the differences in eye m...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12409514/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12409514/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the rereading effect of digital reading through eye...by Y Xu · 2025 — The goal of this study is to investigate the differences in eye m...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7888242/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7888242/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Model of Regressive Eye Movements during...by AF Weiss · 2020 · Cited by 9 — In the following, we will therefore propose a new...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7888242/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7888242/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Model of Regressive Eye Movements during...by AF Weiss · 2020 · Cited by 9 — In the following, we will therefore propose a new...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: kids.frontiersin.org  
-   Link: <a href="https://kids.frontiersin.org/articles/10.3389/frym.2024.1237161" target="_blank" rel="noopener noreferrer nofollow">https://kids.frontiersin.org/articles/10.3389/frym.2024.1237161</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Mental Effort of Reading Using Eye-...25 Jun 2024 — Scientists have explored the effects of cognitive workload on reading comprehens...</p></details>
+   Link:<a href="https://kids.frontiersin.org/articles/10.3389/frym.2024.1237161" target="_blank" rel="noopener noreferrer nofollow">https://kids.frontiersin.org/articles/10.3389/frym.2024.1237161</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Mental Effort of Reading Using Eye-...25 Jun 2024 — Scientists have explored the effects of cognitive workload on reading comprehens...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/FountasPinnell/posts/1815644225363041/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/FountasPinnell/posts/1815644225363041/</a>  
+   Link:<a href="https://www.facebook.com/groups/FountasPinnell/posts/1815644225363041/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/FountasPinnell/posts/1815644225363041/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: studenttheses.universiteitleiden.nl  
-   Link: <a href="https://studenttheses.universiteitleiden.nl/access/item%3A2629036/view" target="_blank" rel="noopener noreferrer nofollow">https://studenttheses.universiteitleiden.nl/access/item%3A2629036/view</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>eye movements to predict reading skills in childrenIn the present eye tracking study, we collected eye movements of school-aged children...</p></details>
+   Link:<a href="https://studenttheses.universiteitleiden.nl/access/item%3A2629036/view" target="_blank" rel="noopener noreferrer nofollow">https://studenttheses.universiteitleiden.nl/access/item%3A2629036/view</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>eye movements to predict reading skills in childrenIn the present eye tracking study, we collected eye movements of school-aged children...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: readlite.in  
    Title: These backward movements are called regressions. Eye-tracking research has  
-   Link: <a href="https://readlite.in/concepts/regressions-reading/" target="_blank" rel="noopener noreferrer nofollow">https://readlite.in/concepts/regressions-reading/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Regressions in Reading: Why Your Eyes Jump Back (And Should)About 10-15% of the time, your eyes jump backward to text you&#x27;ve already passed...</p></details>
+   Link:<a href="https://readlite.in/concepts/regressions-reading/" target="_blank" rel="noopener noreferrer nofollow">https://readlite.in/concepts/regressions-reading/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Regressions in Reading: Why Your Eyes Jump Back (And Should)About 10-15% of the time, your eyes jump backward to text you&#x27;ve already passed...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: users.cecs.anu.edu.au  
-   Link: <a href="https://users.cecs.anu.edu.au/~Tom.Gedeon/pdfs/The%20effect%20of%20subject%20familiarity%20on%20comprehension%20and%20eye%20movements%20during%20reading.pdf" target="_blank" rel="noopener noreferrer nofollow">https://users.cecs.anu.edu.au/~Tom.Gedeon/pdfs/The%20effect%20of%20subject%20familiarity%20on%20comprehension%20and%20eye%20movements%20during%20reading.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(Rayner, 1998). These backward saccades are termed regressions. Short regressions can occur within...Read...</p></details>
+   Link:<a href="https://users.cecs.anu.edu.au/~Tom.Gedeon/pdfs/The%20effect%20of%20subject%20familiarity%20on%20comprehension%20and%20eye%20movements%20during%20reading.pdf" target="_blank" rel="noopener noreferrer nofollow">https://users.cecs.anu.edu.au/~Tom.Gedeon/pdfs/The%20effect%20of%20subject%20familiarity%20on%20comprehension%20and%20eye%20movements%20during%20reading.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(Rayner, 1998). These backward saccades are termed regressions. Short regressions can occur within...Read...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: readlite.in  
    Title: What Eye-Tracking Research Reveals About Reading  
-   Link: <a href="https://readlite.in/concepts/eye-tracking-reading-research" target="_blank" rel="noopener noreferrer nofollow">https://readlite.in/concepts/eye-tracking-reading-research</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>regression tells us something about what&#x27;s happening in the reader&#x27;s mind. This makes eye tracking one of the most powerful tools in cogn...</p></details>
+   Link:<a href="https://readlite.in/concepts/eye-tracking-reading-research" target="_blank" rel="noopener noreferrer nofollow">https://readlite.in/concepts/eye-tracking-reading-research</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>regression tells us something about what&#x27;s happening in the reader&#x27;s mind. This makes eye tracking one of the most powerful tools in cogn...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: d-nb.info  
-   Link: <a href="https://d-nb.info/1227301006/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1227301006/34</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Comprehension demands modulate re-reading, but not first...by AF Weiss · Cited by 58 — Abstract: Several studies have examined effects o...</p></details>
+   Link:<a href="https://d-nb.info/1227301006/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1227301006/34</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Comprehension demands modulate re-reading, but not first...by AF Weiss · Cited by 58 — Abstract: Several studies have examined effects o...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: cognitivetrain.com  
    Title: Some readers regress even more  
-   Link: <a href="https://cognitivetrain.com/regression-in-reading/" target="_blank" rel="noopener noreferrer nofollow">https://cognitivetrain.com/regression-in-reading/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Regression in Reading: Why Your Eyes Keep Going...Eye-tracking research shows that regressions account for 10-15% of all eye movements d...</p></details>
+   Link:<a href="https://cognitivetrain.com/regression-in-reading/" target="_blank" rel="noopener noreferrer nofollow">https://cognitivetrain.com/regression-in-reading/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Regression in Reading: Why Your Eyes Keep Going...Eye-tracking research shows that regressions account for 10-15% of all eye movements d...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: What Can Our Eyes Tell Us About Language? Eye Tracking  
-   Link: <a href="https://www.youtube.com/watch?v=uXx73W0uyCg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uXx73W0uyCg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Brain&#x27;s Challenge: Processing: What Eye Movements During Reading Reveal About Processing Speed...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=uXx73W0uyCg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uXx73W0uyCg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Brain&#x27;s Challenge: Processing: What Eye Movements During Reading Reveal About Processing Speed...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: summerreading.net  
-   Link: <a href="https://summerreading.net/visual-processing-and-brain-based-learning" target="_blank" rel="noopener noreferrer nofollow">https://summerreading.net/visual-processing-and-brain-based-learning</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Visual Processing and Brain-Based Learning10 Jul 2018 — About 10-15% of the time, readers also shift back (known as regression) to look b...</p></details>
+   Link:<a href="https://summerreading.net/visual-processing-and-brain-based-learning" target="_blank" rel="noopener noreferrer nofollow">https://summerreading.net/visual-processing-and-brain-based-learning</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Visual Processing and Brain-Based Learning10 Jul 2018 — About 10-15% of the time, readers also shift back (known as regression) to look b...</p></details>

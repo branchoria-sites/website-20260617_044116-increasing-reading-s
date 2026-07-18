@@ -292,7 +292,7 @@ Reading faster does not mean using the same mental setting for every piece of te
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_inner_voice_r_589d88_text_difficul_4f941d-Illustration-1-dark.svg" | relative_url }}" alt="Voice settings illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_inner_voice_r_589d88_text_difficul_4f941d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_inner_voice_r_589d88_text_difficul_4f941d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Research on silent reading suggests that inner speech is not simply a bottleneck to eliminate. Sound-based processing helps readers hold information in working memory, track sentence structure, and interpret emphasis when needed. The key is flexibility: use less internal narration when the text is straightforward and more when the wording itself carries meaning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Phonological coding during reading - PMC - NIHby M Leinenger · 2014 · Cited by 164 — When we read silently, we experience the sensatio...</span></span></span>
+Research on silent reading suggests that inner speech is not simply a bottleneck to eliminate. Sound-based processing helps readers hold information in working memory, track sentence structure, and interpret emphasis when needed. The key is flexibility: use less internal narration when the text is straightforward and more when the wording itself carries meaning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Phonological coding during reading - PMC - NIHby M Leinenger · 2014 · Cited by 164 — When we read silently, we experience the sensatio...</span></span></span>
 
 ## Choosing scan, normal, or close-reading mode
 
@@ -325,7 +325,7 @@ Most everyday reading belongs here:
 * Non-[technical]({{ 'technical-texts/' | relative_url }}) books
 * General correspondence
 
-The reader maintains enough inner speech to support comprehension but not enough to perform every sentence dramatically. Research indicates that phonological coding remains active during skilled reading, yet it need not operate at full speaking pace. Efficient readers appear to use sound-based information selectively and rapidly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://escholarship.org/uc/item/6r50r68j" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: escholarship.org">[eScholarship]</a><span class="citation-popover" role="note"><span class="citation-popover-source">escholarship.org</span><span class="citation-popover-snippet">The time course of phonological coding during readingby M Leinenger · 2016 — Results suggest that readers rapidly generate ph...</span></span></span>
+The reader maintains enough inner speech to support comprehension but not enough to perform every sentence dramatically. Research indicates that phonological coding remains active during skilled reading, yet it need not operate at full speaking pace. Efficient readers appear to use sound-based information selectively and rapidly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://escholarship.org/uc/item/6r50r68j" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: escholarship.org">[eScholarship]</a><span class="citation-popover" role="note"><span class="citation-popover-source">escholarship.org</span><span class="citation-popover-snippet">The time course of phonological coding during readingby M Leinenger · 2016 — Results suggest that readers rapidly generate ph...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NRWTSwaxvVU" title="What Is Silent Reading, And How Does It Relate To Subvocalization? - Ultimate Study Hacks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NRWTSwaxvVU" target="_blank" rel="noopener noreferrer">What Is Silent Reading, And How Does It Relate To Subvocalization? - Ultimate Study Hacks</a></p><p class="youtube-embed-meta">Channel: Ultimate Study Hacks &middot; Views: 117 &middot; Uploaded: July 2025 &middot; Length: 2 minutes 36 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NRWTSwaxvVU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NRWTSwaxvVU">Open on YouTube</a></p></div></div></div>
@@ -345,7 +345,7 @@ Some texts reward slower processing:
 
 </div>
 
-In these situations, the wording itself matters. A stronger inner voice can help track relationships between clauses, preserve sequence information, and reveal emphasis or ambiguity. Studies that interfere with phonological processing during reading have found measurable drops in comprehension, particularly when readers must integrate ideas across sentences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/BF01027072" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">However, Experiment 2 also showed...</span></span></span>
+In these situations, the wording itself matters. A stronger inner voice can help track relationships between clauses, preserve sequence information, and reveal emphasis or ambiguity. Studies that interfere with phonological processing during reading have found measurable drops in comprehension, particularly when readers must integrate ideas across sentences.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/BF01027072" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">However, Experiment 2 also showed...</span></span></span>
 
 The fastest effective reading speed is therefore not always the highest possible speed. Sometimes slowing down is the most efficient route to understanding.
 
@@ -357,9 +357,9 @@ Imagine a twenty-page report.
 
 If your goal is to discover whether it contains relevant information, [scanning]({{ 'scanning-vs-reading/' | relative_url }}) is appropriate. If your goal is to brief a manager on the report's recommendations, normal reading is usually sufficient. If your goal is to challenge the report's assumptions or evaluate its evidence, close reading becomes necessary.
 
-The shift occurs because comprehension is not a single skill. Different tasks require different levels of attention to wording, structure, and memory. Close-reading approaches are specifically designed to increase attention to textual details and relationships within the text itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/13642529.2024.2345001" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[tandfonline.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-title">What is close reading?</span><span class="citation-popover-snippet">An exploration of a methodologyby A Ohrvik · 2024 · Cited by 100 — This article explores reading strategies and advocates for a more cons...</span></span></span>
+The shift occurs because comprehension is not a single skill. Different tasks require different levels of attention to wording, structure, and memory. Close-reading approaches are specifically designed to increase attention to textual details and relationships within the text itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/13642529.2024.2345001" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[tandfonline.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-title">What is close reading?</span><span class="citation-popover-snippet">An exploration of a methodologyby A Ohrvik · 2024 · Cited by 100 — This article explores reading strategies and advocates for a more cons...</span></span></span>
 
-Research on inner speech also suggests that sustained internal narration increases when readers are actively trying to understand and remember material. When attention demands fall, the inner voice can be reduced without eliminating comprehension. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6621680/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHow Silent Is Silent Reading?</span><span class="citation-popover-snippet">Intracerebral Evidence for Top...by M Perrone-Bertolotti · 2012 · Cited by 182 — Sustained inner voice activation is not an automatic pr...</span></span></span>
+Research on inner speech also suggests that sustained internal narration increases when readers are actively trying to understand and remember material. When attention demands fall, the inner voice can be reduced without eliminating comprehension.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6621680/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHow Silent Is Silent Reading?</span><span class="citation-popover-snippet">Intracerebral Evidence for Top...by M Perrone-Bertolotti · 2012 · Cited by 182 — Sustained inner voice activation is not an automatic pr...</span></span></span>
 
 This means that reading speed should be treated as an outcome of [purpose]({{ 'purpose/' | relative_url }}), not a target imposed on every page.
 
@@ -369,13 +369,13 @@ This means that reading speed should be treated as an outcome of [purpose]({{ 'p
 
 Difficulty is not only about vocabulary. Several features make a stronger inner voice more valuable.
 
-**Complex syntax.** Long sentences with multiple clauses place heavier demands on working memory. Internal speech can help maintain relationships between ideas until the sentence resolves. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Phonological coding during reading - PMC - NIHby M Leinenger · 2014 · Cited by 164 — When we read silently, we experience the sensatio...</span></span></span>
+**Complex syntax.** Long sentences with multiple clauses place heavier demands on working memory. Internal speech can help maintain relationships between ideas until the sentence resolves.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Phonological coding during reading - PMC - NIHby M Leinenger · 2014 · Cited by 164 — When we read silently, we experience the sensatio...</span></span></span>
 
-**Unfamiliar concepts.** When a text introduces new terminology or unfamiliar reasoning, readers often benefit from more deliberate phonological processing because it supports encoding and retention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Phonological coding during reading - PMC - NIHby M Leinenger · 2014 · Cited by 164 — When we read silently, we experience the sensatio...</span></span></span>
+**Unfamiliar concepts.** When a text introduces new terminology or unfamiliar reasoning, readers often benefit from more deliberate phonological processing because it supports encoding and retention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Phonological coding during reading - PMC - NIHby M Leinenger · 2014 · Cited by 164 — When we read silently, we experience the sensatio...</span></span></span>
 
 **Ambiguity.** Legal and contractual language often requires careful attention because small wording differences can alter meaning. A slower, more articulated inner voice can reveal distinctions that rapid scanning might miss.
 
-**Rhythm and tone.** Some texts communicate meaning through sound-like qualities. Poems, speeches, dialogue, and literary prose often rely on emphasis, pacing, and implied voice. Studies of silent reading show that readers frequently generate prosodic patterns—mental rhythms and stresses—even when reading silently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ila.onlinelibrary.wiley.com/doi/10.1002/rrq.67" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ila.onlinelibrary.wiley.com">[ILA+2ILA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ila.onlinelibrary.wiley.com</span><span class="citation-popover-title">ILAEvidence for Prosody in Silent Reading</span><span class="citation-popover-snippet">Gross - 201418 Dec 2013 — In two studies, we sought to understand whether the inner voice of skilled, adult readers preserves the prosodi...</span></span></span>
+**Rhythm and tone.** Some texts communicate meaning through sound-like qualities. Poems, speeches, dialogue, and literary prose often rely on emphasis, pacing, and implied voice. Studies of silent reading show that readers frequently generate prosodic patterns—mental rhythms and stresses—even when reading silently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ila.onlinelibrary.wiley.com/doi/10.1002/rrq.67" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ila.onlinelibrary.wiley.com">[ILA+2ILA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ila.onlinelibrary.wiley.com</span><span class="citation-popover-title">ILAEvidence for Prosody in Silent Reading</span><span class="citation-popover-snippet">Gross - 201418 Dec 2013 — In two studies, we sought to understand whether the inner voice of skilled, adult readers preserves the prosodi...</span></span></span>
 
 Difficulty, then, is partly a question of how much the text depends on exact wording rather than broad meaning.
 
@@ -414,7 +414,7 @@ Many skilled readers naturally switch back and forth within the same article, ac
 
 Poetry is one of the clearest examples of why eliminating the inner voice entirely is often counterproductive.
 
-Research on silent reading indicates that readers frequently generate internal patterns of stress, rhythm, and emphasis. These prosodic features contribute to interpretation and emotional response. Even when no sound is produced, readers often experience a form of imagined performance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ila.onlinelibrary.wiley.com/doi/10.1002/rrq.67" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ila.onlinelibrary.wiley.com">[ILA+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ila.onlinelibrary.wiley.com</span><span class="citation-popover-title">ILAEvidence for Prosody in Silent Reading</span><span class="citation-popover-snippet">Gross - 201418 Dec 2013 — In two studies, we sought to understand whether the inner voice of skilled, adult readers preserves the prosodi...</span></span></span>
+Research on silent reading indicates that readers frequently generate internal patterns of stress, rhythm, and emphasis. These prosodic features contribute to interpretation and emotional response. Even when no sound is produced, readers often experience a form of imagined performance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ila.onlinelibrary.wiley.com/doi/10.1002/rrq.67" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ila.onlinelibrary.wiley.com">[ILA+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ila.onlinelibrary.wiley.com</span><span class="citation-popover-title">ILAEvidence for Prosody in Silent Reading</span><span class="citation-popover-snippet">Gross - 201418 Dec 2013 — In two studies, we sought to understand whether the inner voice of skilled, adult readers preserves the prosodi...</span></span></span>
 
 Reading a poem at the same pace used to skim a meeting agenda would sacrifice much of what makes the poem meaningful.
 
@@ -438,264 +438,264 @@ A useful decision guide is:
 
 </div>
 
-Readers who improve their speed over time rarely achieve it by permanently turning off internal speech. They become better at allocating it. Routine material receives a lighter mental voice; demanding material receives a stronger one. That flexibility allows reading speed to rise where possible without sacrificing comprehension where it matters most. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6621680/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHow Silent Is Silent Reading?</span><span class="citation-popover-snippet">Intracerebral Evidence for Top...by M Perrone-Bertolotti · 2012 · Cited by 182 — Sustained inner voice activation is not an automatic pr...</span></span></span>
+Readers who improve their speed over time rarely achieve it by permanently turning off internal speech. They become better at allocating it. Routine material receives a lighter mental voice; demanding material receives a stronger one. That flexibility allows reading speed to rise where possible without sacrificing comprehension where it matters most.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6621680/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHow Silent Is Silent Reading?</span><span class="citation-popover-snippet">Intracerebral Evidence for Top...by M Perrone-Bertolotti · 2012 · Cited by 182 — Sustained inner voice activation is not an automatic pr...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How much inner voice does this text need?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How much inner voice does this text need?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Centered on matching reading strategy to text difficulty and purpose.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Centered on matching reading strategy to text difficulty and purpose.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Shallows+by+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Shallows on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1KayoVl3OTMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Shallows" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Shallows+by+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Shallows">The Shallows</a>
-        </h4>
-        <p class="fr-book-author">By Nicholas Carr</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Shallows+by+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Shallows on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1KayoVl3OTMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Shallows" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Shallows+by+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Shallows">The Shallows</a>
+</h4>
+<p class="fr-book-author">By Nicholas Carr</p>
         
-        <p class="fr-book-desc">Examines changing reading habits and attention.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Shallows+by+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines changing reading habits and attention.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Shallows+by+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Proust and the Squid on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4940484-M.jpg" alt="Cover for Proust and the Squid" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Proust and the Squid">Proust and the Squid</a>
-        </h4>
-        <p class="fr-book-author">By Maryanne Wolf</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Proust and the Squid on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4940484-M.jpg" alt="Cover for Proust and the Squid" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Proust and the Squid">Proust and the Squid</a>
+</h4>
+<p class="fr-book-author">By Maryanne Wolf</p>
         
-        <p class="fr-book-desc">First published 2007. Subjects: Brain, Evolution, Reading history, Neurophysiology, Reading comprehension.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2007. Subjects: Brain, Evolution, Reading history, Neurophysiology, Reading comprehension.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Reader%2C+Come+Home+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reader, Come Home on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10170090-M.jpg" alt="Cover for Reader, Come Home" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Reader%2C+Come+Home+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reader, Come Home">Reader, Come Home</a>
-        </h4>
-        <p class="fr-book-author">By Maryanne Wolf</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Reader%2C+Come+Home+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reader, Come Home on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10170090-M.jpg" alt="Cover for Reader, Come Home" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Reader%2C+Come+Home+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reader, Come Home">Reader, Come Home</a>
+</h4>
+<p class="fr-book-author">By Maryanne Wolf</p>
         
-        <p class="fr-book-desc">First published 2018. Subjects: Books and reading, Technological innovations, Psychology of Reading, Psychological aspects, Reading compr...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Reader%2C+Come+Home+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2018. Subjects: Books and reading, Technological innovations, Psychology of Reading, Psychological aspects, Reading compr...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Reader%2C+Come+Home+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Shallows&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Shallows</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Proust+and+the+Squid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Proust and the Squid</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Shallows&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Shallows</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Proust+and+the+Squid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Proust and the Squid</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Phonological coding during reading - PMC - NIHby M Leinenger · 2014 · Cited by 164 — When we read silently, we experience the sensatio...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Phonological coding during reading - PMC - NIHby M Leinenger · 2014 · Cited by 164 — When we read silently, we experience the sensatio...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCHow Silent Is Silent Reading?  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6621680/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6621680/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Intracerebral Evidence for Top...by M Perrone-Bertolotti · 2012 · Cited by 182 — Sustained inner voice activation is not an automatic pr...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6621680/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6621680/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Intracerebral Evidence for Top...by M Perrone-Bertolotti · 2012 · Cited by 182 — Sustained inner voice activation is not an automatic pr...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: escholarship.org  
-   Link: <a href="https://escholarship.org/uc/item/6r50r68j" target="_blank" rel="noopener noreferrer nofollow">https://escholarship.org/uc/item/6r50r68j</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The time course of phonological coding during readingby M Leinenger · 2016 — Results suggest that readers rapidly generate ph...</p></details>
+   Link:<a href="https://escholarship.org/uc/item/6r50r68j" target="_blank" rel="noopener noreferrer nofollow">https://escholarship.org/uc/item/6r50r68j</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The time course of phonological coding during readingby M Leinenger · 2016 — Results suggest that readers rapidly generate ph...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/BF01027072" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/BF01027072</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>However, Experiment 2 also showed...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/BF01027072" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/BF01027072</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, Experiment 2 also showed...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: tandfonline.com  
    Title: What is close reading?  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/13642529.2024.2345001" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/13642529.2024.2345001</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An exploration of a methodologyby A Ohrvik · 2024 · Cited by 100 — This article explores reading strategies and advocates for a more cons...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/13642529.2024.2345001" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/13642529.2024.2345001</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An exploration of a methodologyby A Ohrvik · 2024 · Cited by 100 — This article explores reading strategies and advocates for a more cons...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ila.onlinelibrary.wiley.com  
    Title: ILAEvidence for Prosody in Silent Reading  
-   Link: <a href="https://ila.onlinelibrary.wiley.com/doi/10.1002/rrq.67" target="_blank" rel="noopener noreferrer nofollow">https://ila.onlinelibrary.wiley.com/doi/10.1002/rrq.67</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gross - 201418 Dec 2013 — In two studies, we sought to understand whether the inner voice of skilled, adult readers preserves the prosodi...</p></details>
+   Link:<a href="https://ila.onlinelibrary.wiley.com/doi/10.1002/rrq.67" target="_blank" rel="noopener noreferrer nofollow">https://ila.onlinelibrary.wiley.com/doi/10.1002/rrq.67</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gross - 201418 Dec 2013 — In two studies, we sought to understand whether the inner voice of skilled, adult readers preserves the prosodi...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ila.onlinelibrary.wiley.com  
    Title: ILAEvidence for Prosody in Silent Reading  
-   Link: <a href="https://ila.onlinelibrary.wiley.com/doi/abs/10.1002/rrq.67" target="_blank" rel="noopener noreferrer nofollow">https://ila.onlinelibrary.wiley.com/doi/abs/10.1002/rrq.67</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Because the inner voice cannot be directly observed, we borrowed the cap-emphasis...Read more...</p></details>
+   Link:<a href="https://ila.onlinelibrary.wiley.com/doi/abs/10.1002/rrq.67" target="_blank" rel="noopener noreferrer nofollow">https://ila.onlinelibrary.wiley.com/doi/abs/10.1002/rrq.67</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Because the inner voice cannot be directly observed, we borrowed the cap-emphasis...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12194486/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12194486/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the Prosodic Structure of Texts Reflected in Silent Reading...by M Palmović · 2025 — This study provides indirect evidence in favour of...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12194486/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12194486/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Prosodic Structure of Texts Reflected in Silent Reading...by M Palmović · 2025 — This study provides indirect evidence in favour of...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/259542722_Evidence_for_Prosody_in_Silent_Reading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/259542722_Evidence_for_Prosody_in_Silent_Reading</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Because the inner voice cannot be directly observed, we borrowed the cap-emphasis technique...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/259542722_Evidence_for_Prosody_in_Silent_Reading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/259542722_Evidence_for_Prosody_in_Silent_Reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Because the inner voice cannot be directly observed, we borrowed the cap-emphasis technique...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11979220/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11979220/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>imagery and poetry-elicited emotions: a study on the...by S Piţur · 2025 · Cited by 1 — Silent reading evokes auditory images of the wri...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11979220/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11979220/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>imagery and poetry-elicited emotions: a study on the...by S Piţur · 2025 · Cited by 1 — Silent reading evokes auditory images of the wri...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/255661380_Vygotskian_Inner_Speech_and_the_Reading_Process1" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/255661380_Vygotskian_Inner_Speech_and_the_Reading_Process1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>in ways to process text during silent reading.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/255661380_Vygotskian_Inner_Speech_and_the_Reading_Process1" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/255661380_Vygotskian_Inner_Speech_and_the_Reading_Process1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in ways to process text during silent reading.Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/383857238_The_relationship_between_subvocalization_and_eye_movements_during_silent_readingwenzhangmodushinoneishenghuanochengdutoyanqiuyundongnoguanlian" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/383857238_The_relationship_between_subvocalization_and_eye_movements_during_silent_readingwenzhangmodushinoneishenghuanochengdutoyanqiuyundongnoguanlian</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>g times with more fixations whilst reading silently compared to readers who...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/383857238_The_relationship_between_subvocalization_and_eye_movements_during_silent_readingwenzhangmodushinoneishenghuanochengdutoyanqiuyundongnoguanlian" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/383857238_The_relationship_between_subvocalization_and_eye_movements_during_silent_readingwenzhangmodushinoneishenghuanochengdutoyanqiuyundongnoguanlian</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>g times with more fixations whilst reading silently compared to readers who...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
    Title: 264988471 Phonological Coding During Reading  
-   Link: <a href="https://www.researchgate.net/publication/264988471_Phonological_Coding_During_Reading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/264988471_Phonological_Coding_During_Reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Phonological Coding During Reading9 Oct 2025 — The exact role that phonological coding (the recoding of written, orthographic infor...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/264988471_Phonological_Coding_During_Reading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/264988471_Phonological_Coding_During_Reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Phonological Coding During Reading9 Oct 2025 — The exact role that phonological coding (the recoding of written, orthographic infor...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
    Title: (PDF) Inner Prosody In Silent Poetry Reading  
-   Link: <a href="https://www.researchgate.net/publication/400757425_Inner_Prosody_In_Silent_Poetry_Reading_The_Role_of_Subvocalisation_and_Imagined_Voice" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400757425_Inner_Prosody_In_Silent_Poetry_Reading_The_Role_of_Subvocalisation_and_Imagined_Voice</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Role of...13 Feb 2026 — The article explores the phenomenon of inner prosody during silent poem reading, focusing on the role of sub...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/400757425_Inner_Prosody_In_Silent_Poetry_Reading_The_Role_of_Subvocalisation_and_Imagined_Voice" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400757425_Inner_Prosody_In_Silent_Poetry_Reading_The_Role_of_Subvocalisation_and_Imagined_Voice</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Role of...13 Feb 2026 — The article explores the phenomenon of inner prosody during silent poem reading, focusing on the role of sub...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
    Title: 380693343 Text readability its impact on reading comprehension and reading time  
-   Link: <a href="https://www.researchgate.net/publication/380693343_Text_readability_its_impact_on_reading_comprehension_and_reading_time" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/380693343_Text_readability_its_impact_on_reading_comprehension_and_reading_time</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Text readability: its impact on reading comprehension and...18 May 2024 — The current study aimed to evaluate the influence of text read...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/380693343_Text_readability_its_impact_on_reading_comprehension_and_reading_time" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/380693343_Text_readability_its_impact_on_reading_comprehension_and_reading_time</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Text readability: its impact on reading comprehension and...18 May 2024 — The current study aimed to evaluate the influence of text read...</p></details>
    Published: May 2024  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: escholarship.org  
-   Link: <a href="https://escholarship.org/content/qt7b74d610/qt7b74d610.pdf" target="_blank" rel="noopener noreferrer nofollow">https://escholarship.org/content/qt7b74d610/qt7b74d610.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Synthesis of Reading Prosody: Evaluating Phrasing and...by A Shhub · 2023 · Cited by 10 — Research on prosody suggests it is an import...</p></details>
+   Link:<a href="https://escholarship.org/content/qt7b74d610/qt7b74d610.pdf" target="_blank" rel="noopener noreferrer nofollow">https://escholarship.org/content/qt7b74d610/qt7b74d610.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Synthesis of Reading Prosody: Evaluating Phrasing and...by A Shhub · 2023 · Cited by 10 — Research on prosody suggests it is an import...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11429445/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11429445/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by Y Baki · 2024 · Cited by 12 — This study aims to investigate the effects of close reading strategies on the life skills and individ...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11429445/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11429445/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by Y Baki · 2024 · Cited by 12 — This study aims to investigate the effects of close reading strategies on the life skills and individ...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2805245/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2805245/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Longitudinal Study of the Development of Reading Prosody...by J Miller · 2008 · Cited by 512 — The purpose of this study was to examine...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2805245/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2805245/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Longitudinal Study of the Development of Reading Prosody...by J Miller · 2008 · Cited by 512 — The purpose of this study was to examine...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reporter.nih.gov  
    Title: project details  
-   Link: <a href="https://reporter.nih.gov/project-details/10515099" target="_blank" rel="noopener noreferrer nofollow">https://reporter.nih.gov/project-details/10515099</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>does oral fluency predict silent reading...Our overarching hypothesis is that maturation of [oral reading](&amp;#123;&amp;#123; &#x27;reading-aloud/&#x27; | relative_url &amp;#125;&amp;#125;) prosody coincides with maturing...</p></details>
+   Link:<a href="https://reporter.nih.gov/project-details/10515099" target="_blank" rel="noopener noreferrer nofollow">https://reporter.nih.gov/project-details/10515099</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>does oral fluency predict silent reading...Our overarching hypothesis is that maturation of [oral reading](&amp;#123;&amp;#123; &#x27;reading-aloud/&#x27; | relative_url &amp;#125;&amp;#125;) prosody coincides with maturing...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: methods.sagepub.com  
    Title: close reading  
-   Link: <a href="https://methods.sagepub.com/ency/edvol/the-sage-encyclopedia-of-communication-research-methods/chpt/close-reading" target="_blank" rel="noopener noreferrer nofollow">https://methods.sagepub.com/ency/edvol/the-sage-encyclopedia-of-communication-research-methods/chpt/close-reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ReadingThe purpose of a close reading is to examine what the text contains at various levels. It is imperative to be able to read closely...</p></details>
+   Link:<a href="https://methods.sagepub.com/ency/edvol/the-sage-encyclopedia-of-communication-research-methods/chpt/close-reading" target="_blank" rel="noopener noreferrer nofollow">https://methods.sagepub.com/ency/edvol/the-sage-encyclopedia-of-communication-research-methods/chpt/close-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ReadingThe purpose of a close reading is to examine what the text contains at various levels. It is imperative to be able to read closely...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: education.qld.gov.au  
-   Link: <a href="https://education.qld.gov.au/curriculums/Documents/literature-review.pdf" target="_blank" rel="noopener noreferrer nofollow">https://education.qld.gov.au/curriculums/Documents/literature-review.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An overview of the literature effective teaching of readingThis paper summarises the findings from national and international research re...</p></details>
+   Link:<a href="https://education.qld.gov.au/curriculums/Documents/literature-review.pdf" target="_blank" rel="noopener noreferrer nofollow">https://education.qld.gov.au/curriculums/Documents/literature-review.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An overview of the literature effective teaching of readingThis paper summarises the findings from national and international research re...</p></details>
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: ies.ed.gov  
-   Link: <a href="https://ies.ed.gov/use-work/awards/development-oral-and-silent-reading-fluency-and-their-relation-reading-comprehension-first-through" target="_blank" rel="noopener noreferrer nofollow">https://ies.ed.gov/use-work/awards/development-oral-and-silent-reading-fluency-and-their-relation-reading-comprehension-first-through</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Oral and Silent Reading Fluency and Their...The goals of this study were to: (1) explore development of oral and silent reading fluen...</p></details>
+   Link:<a href="https://ies.ed.gov/use-work/awards/development-oral-and-silent-reading-fluency-and-their-relation-reading-comprehension-first-through" target="_blank" rel="noopener noreferrer nofollow">https://ies.ed.gov/use-work/awards/development-oral-and-silent-reading-fluency-and-their-relation-reading-comprehension-first-through</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Oral and Silent Reading Fluency and Their...The goals of this study were to: (1) explore development of oral and silent reading fluen...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: magneticmemorymethod.com  
-   Link: <a href="https://www.magneticmemorymethod.com/how-to-stop-subvocalizing/" target="_blank" rel="noopener noreferrer nofollow">https://www.magneticmemorymethod.com/how-to-stop-subvocalizing/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Stop Subvocalizing: My Surprising SolutionSpeed reading books often teach how to stop subvocalizing. Learn all about the technique...</p></details>
+   Link:<a href="https://www.magneticmemorymethod.com/how-to-stop-subvocalizing/" target="_blank" rel="noopener noreferrer nofollow">https://www.magneticmemorymethod.com/how-to-stop-subvocalizing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Stop Subvocalizing: My Surprising SolutionSpeed reading books often teach how to stop subvocalizing. Learn all about the technique...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: students.wlu.ca  
-   Link: <a href="https://students.wlu.ca/academics/support-and-advising/student-success/assets/documents/study-skills/reading-strategies-close-reading.pdf" target="_blank" rel="noopener noreferrer nofollow">https://students.wlu.ca/academics/support-and-advising/student-success/assets/documents/study-skills/reading-strategies-close-reading.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Strategies: Close Reading | Study SkillsClose Reading Your goal when reading literature is usually to interpret the meaning of a text. Fo...</p></details>
+   Link:<a href="https://students.wlu.ca/academics/support-and-advising/student-success/assets/documents/study-skills/reading-strategies-close-reading.pdf" target="_blank" rel="noopener noreferrer nofollow">https://students.wlu.ca/academics/support-and-advising/student-success/assets/documents/study-skills/reading-strategies-close-reading.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Strategies: Close Reading | Study SkillsClose Reading Your goal when reading literature is usually to interpret the meaning of a text. Fo...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: uen.pressbooks.pub  
-   Link: <a href="https://uen.pressbooks.pub/snowcollegecomp/chapter/effective-reading-strategies/" target="_blank" rel="noopener noreferrer nofollow">https://uen.pressbooks.pub/snowcollegecomp/chapter/effective-reading-strategies/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Strategies – A Guide to WritingIn this section, we delve into proven techniques such as active reading, annotation, and critical...</p></details>
+   Link:<a href="https://uen.pressbooks.pub/snowcollegecomp/chapter/effective-reading-strategies/" target="_blank" rel="noopener noreferrer nofollow">https://uen.pressbooks.pub/snowcollegecomp/chapter/effective-reading-strategies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Strategies – A Guide to WritingIn this section, we delve into proven techniques such as active reading, annotation, and critical...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: reddit.com  
    Title: I just found out about subvocalization on this sub  
-   Link: <a href="https://www.reddit.com/r/writing/comments/1hvqozx/i_just_found_out_about_subvocalization_on_this/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/writing/comments/1hvqozx/i_just_found_out_about_subvocalization_on_this/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Do y&#x27;all...Subvocalisation can make you slower at reading, but it can improve reading comprehension. As anyone who&#x27;s read a lot of acade...</p></details>
+   Link:<a href="https://www.reddit.com/r/writing/comments/1hvqozx/i_just_found_out_about_subvocalization_on_this/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/writing/comments/1hvqozx/i_just_found_out_about_subvocalization_on_this/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Do y&#x27;all...Subvocalisation can make you slower at reading, but it can improve reading comprehension. As anyone who&#x27;s read a lot of acade...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/edited-volume/27985/chapter-abstract/211678536?redirectedFrom=fulltext" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/edited-volume/27985/chapter-abstract/211678536?redirectedFrom=fulltext</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicThe Role of Sound in Silent Reading - Oxford AcademicThe term “phonological coding” encompasses a broad variety of phenomena...</p></details>
+   Link:<a href="https://academic.oup.com/edited-volume/27985/chapter-abstract/211678536?redirectedFrom=fulltext" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/edited-volume/27985/chapter-abstract/211678536?redirectedFrom=fulltext</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicThe Role of Sound in Silent Reading - Oxford AcademicThe term “phonological coding” encompasses a broad variety of phenomena...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: concordia.ca  
    Title: reading strategies [skimming](&#123;&#123; 'skimming/' | relative_url &#125;&#125;) vs close reading  
-   Link: <a href="https://www.concordia.ca/cunews/offices/vprgs/gradproskills/blogs/2022/10/13/reading-strategies-skimming-vs-close-reading.html" target="_blank" rel="noopener noreferrer nofollow">https://www.concordia.ca/cunews/offices/vprgs/gradproskills/blogs/2022/10/13/reading-strategies-skimming-vs-close-reading.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Strategies: Skimming vs Close Reading | News12 Oct 2022 — Close reading, or thoroughly reading through a text, is the most effect...</p></details>
+   Link:<a href="https://www.concordia.ca/cunews/offices/vprgs/gradproskills/blogs/2022/10/13/reading-strategies-skimming-vs-close-reading.html" target="_blank" rel="noopener noreferrer nofollow">https://www.concordia.ca/cunews/offices/vprgs/gradproskills/blogs/2022/10/13/reading-strategies-skimming-vs-close-reading.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Strategies: Skimming vs Close Reading | News12 Oct 2022 — Close reading, or thoroughly reading through a text, is the most effect...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: liberalarts.oregonstate.edu  
    Title: what close reading definition and strategies  
-   Link: <a href="https://liberalarts.oregonstate.edu/wlf/what-close-reading-definition-and-strategies" target="_blank" rel="noopener noreferrer nofollow">https://liberalarts.oregonstate.edu/wlf/what-close-reading-definition-and-strategies</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>oregonstate.edu&quot;What is Close Reading?&quot; || Definition and Strategies24 Oct 2022 — Unpack the meaning of close reading and its relevance i...</p></details>
+   Link:<a href="https://liberalarts.oregonstate.edu/wlf/what-close-reading-definition-and-strategies" target="_blank" rel="noopener noreferrer nofollow">https://liberalarts.oregonstate.edu/wlf/what-close-reading-definition-and-strategies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>oregonstate.edu&quot;What is Close Reading?&quot; || Definition and Strategies24 Oct 2022 — Unpack the meaning of close reading and its relevance i...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: mtholyoke.edu  
    Title: professor studies silent inner voice  
-   Link: <a href="https://www.mtholyoke.edu/news/news-stories/professor-studies-silent-inner-voice" target="_blank" rel="noopener noreferrer nofollow">https://www.mtholyoke.edu/news/news-stories/professor-studies-silent-inner-voice</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>13 Jan 2016 — Professor Mara Breen studies how we “hear” the words we read, and what happens when the brain expects one word but gets ano...</p></details>
+   Link:<a href="https://www.mtholyoke.edu/news/news-stories/professor-studies-silent-inner-voice" target="_blank" rel="noopener noreferrer nofollow">https://www.mtholyoke.edu/news/news-stories/professor-studies-silent-inner-voice</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>13 Jan 2016 — Professor Mara Breen studies how we “hear” the words we read, and what happens when the brain expects one word but gets ano...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: lifetips.alibaba.com  
    Title: Cut reading time by 35–55% while  
-   Link: <a href="https://lifetips.alibaba.com/tech-efficiency/the-best-way-to-stop-subvocalizing-and-read-faster" target="_blank" rel="noopener noreferrer nofollow">https://lifetips.alibaba.com/tech-efficiency/the-best-way-to-stop-subvocalizing-and-read-faster</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Best Way to Stop Subvocalizing and Read Faster - LifeTipsJan 30, 2026 — Stop subvocalizing with evidence-based pacing tools and attention...</p></details>
+   Link:<a href="https://lifetips.alibaba.com/tech-efficiency/the-best-way-to-stop-subvocalizing-and-read-faster" target="_blank" rel="noopener noreferrer nofollow">https://lifetips.alibaba.com/tech-efficiency/the-best-way-to-stop-subvocalizing-and-read-faster</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Best Way to Stop Subvocalizing and Read Faster - LifeTipsJan 30, 2026 — Stop subvocalizing with evidence-based pacing tools and attention...</p></details>

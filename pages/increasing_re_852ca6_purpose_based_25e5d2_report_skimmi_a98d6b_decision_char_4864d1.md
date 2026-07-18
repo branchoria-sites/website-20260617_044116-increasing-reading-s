@@ -275,7 +275,7 @@ image: /assets/images/increasing_re_852ca6_purpose_based_25e5d2_report_skimmi_a9
 
 ## Introduction
 
-When the goal is to increase reading speed, one of the most effective report-[skimming]({{ 'skimming/' | relative_url }}) techniques is to identify the small number of tables and charts that could actually change a decision. In many [reports]({{ 'reports/' | relative_url }}), dozens of pages of explanation surround only a handful of visuals that contain the critical evidence: projected costs, expected benefits, risk rankings, performance trends, forecast scenarios, or outcome comparisons. Those visuals often compress entire sections into a single page and reveal the report's real argument faster than narrative text. Reports designed for decision-makers frequently prioritise concise evidence presentation because readers need to understand implications quickly rather than absorb every detail. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://express.excelsior.edu/datascience/chapter/chapter-8-2-executive-summary-and-report-construction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: express.excelsior.edu">[express.excelsior.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">express.excelsior.edu</span><span class="citation-popover-title">Chapter 8.2: Executive</span><span class="citation-popover-snippet">Summary and Report ConstructionThis chapter examines the systematic construction of executive summaries and professional reports that tra...</span></span></span>
+When the goal is to increase reading speed, one of the most effective report-[skimming]({{ 'skimming/' | relative_url }}) techniques is to identify the small number of tables and charts that could actually change a decision. In many [reports]({{ 'reports/' | relative_url }}), dozens of pages of explanation surround only a handful of visuals that contain the critical evidence: projected costs, expected benefits, risk rankings, performance trends, forecast scenarios, or outcome comparisons. Those visuals often compress entire sections into a single page and reveal the report's real argument faster than narrative text. Reports designed for decision-makers frequently prioritise concise evidence presentation because readers need to understand implications quickly rather than absorb every detail.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://express.excelsior.edu/datascience/chapter/chapter-8-2-executive-summary-and-report-construction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: express.excelsior.edu">[express.excelsior.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">express.excelsior.edu</span><span class="citation-popover-title">Chapter 8.2: Executive</span><span class="citation-popover-snippet">Summary and Report ConstructionThis chapter examines the systematic construction of executive summaries and professional reports that tra...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_purpose_based_25e5d2_report_skimmi_a98d6b_decision_char_4864d1-Illustration-1-dark.svg" | relative_url }}" alt="Key charts illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_purpose_based_25e5d2_report_skimmi_a98d6b_decision_char_4864d1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_purpose_based_25e5d2_report_skimmi_a98d6b_decision_char_4864d1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -292,7 +292,7 @@ Decision-critical visuals usually fall into a few recurring categories:
 * **Risk matrices** ranking threats by likelihood and impact.
 * **Performance trend charts** showing whether key indicators are improving or deteriorating.
 * **Scenario comparisons** contrasting alternative strategies or outcomes.
-* **Summary-of-findings tables** that condense large amounts of evidence into a single view. Structured evidence summaries are widely used because they allow readers to judge effect size, certainty, and practical significance quickly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-14" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cochrane.org">[Cochrane]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cochrane.org</span><span class="citation-popover-title">Chapter 14: Completing</span><span class="citation-popover-snippet">Chapter 14: Completing &#x27;Summary of findings&#x27; tables and...&#x27;Summary of findings&#x27; tables present the main findings of a review in...</span></span></span>
+* **Summary-of-findings tables** that condense large amounts of evidence into a single view. Structured evidence summaries are widely used because they allow readers to judge effect size, certainty, and practical significance quickly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-14" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cochrane.org">[Cochrane]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cochrane.org</span><span class="citation-popover-title">Chapter 14: Completing</span><span class="citation-popover-snippet">Chapter 14: Completing &#x27;Summary of findings&#x27; tables and...&#x27;Summary of findings&#x27; tables present the main findings of a review in...</span></span></span>
 
 A useful test is simple: if a chart disappeared from the report, would the recommendation become harder to justify? If the answer is yes, that chart deserves immediate attention.
 
@@ -321,7 +321,7 @@ A rapid process is:
 4. Ignore descriptive visuals that merely provide [background]({{ 'expertise/' | relative_url }}).
 5. Return to the surrounding text only for the visuals that matter.
 
-This approach works because tables and figures are commonly designed to summarise and reinforce the report's main points rather than repeat every detail. Government and academic reporting guidance explicitly treats tables as concentrated demonstrations of key findings and evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://analysisfunction.civilservice.gov.uk/policy-store/data-visualisation-tables/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: analysisfunction.civilservice.gov.uk">[Government Analysis Function]</a><span class="citation-popover" role="note"><span class="citation-popover-source">analysisfunction.civilservice.gov.uk</span><span class="citation-popover-title">ernment Analysis Function Data visualisation: tables</span><span class="citation-popover-snippet">ernment Analysis FunctionData visualisation: tables - Government Analysis Function19 May 2022 — This guidance provides advice on how t...</span><span class="citation-popover-meta">Published: May 2022</span></span></span>
+This approach works because tables and figures are commonly designed to summarise and reinforce the report's main points rather than repeat every detail. Government and academic reporting guidance explicitly treats tables as concentrated demonstrations of key findings and evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://analysisfunction.civilservice.gov.uk/policy-store/data-visualisation-tables/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: analysisfunction.civilservice.gov.uk">[Government Analysis Function]</a><span class="citation-popover" role="note"><span class="citation-popover-source">analysisfunction.civilservice.gov.uk</span><span class="citation-popover-title">ernment Analysis Function Data visualisation: tables</span><span class="citation-popover-snippet">ernment Analysis FunctionData visualisation: tables - Government Analysis Function19 May 2022 — This guidance provides advice on how t...</span><span class="citation-popover-meta">Published: May 2022</span></span></span>
 
 In [practice]({{ 'practice/' | relative_url }}), readers often discover that a fifty-page report contains fewer than ten visuals worth close inspection and perhaps only three or four that materially affect the decision.
 
@@ -345,7 +345,7 @@ A chart's title, subtitle, caption, and footnotes often reveal:
 
 </div>
 
-Data-visualisation research consistently shows that titles and captions shape how readers interpret charts and remember findings. Readers frequently combine visual prominence with caption cues when deciding what the chart means. When chart emphasis and caption emphasis align, the intended takeaway becomes more memorable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://data.europa.eu/apps/data-visualisation-guide/the-importance-of-visualisation-titles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: data.europa.eu">[European Data Portal+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">data.europa.eu</span><span class="citation-popover-snippet">European Data PortalThe importance of visualisation titlesData visualisation practitioners, like visual journalists, agree that guiding t...</span></span></span>
+Data-visualisation research consistently shows that titles and captions shape how readers interpret charts and remember findings. Readers frequently combine visual prominence with caption cues when deciding what the chart means. When chart emphasis and caption emphasis align, the intended takeaway becomes more memorable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://data.europa.eu/apps/data-visualisation-guide/the-importance-of-visualisation-titles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: data.europa.eu">[European Data Portal+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">data.europa.eu</span><span class="citation-popover-snippet">European Data PortalThe importance of visualisation titlesData visualisation practitioners, like visual journalists, agree that guiding t...</span></span></span>
 
 This has a practical implication for fast reading. Instead of asking, "What does this chart show?", first ask, "What is the author trying to make me notice?"
 
@@ -355,7 +355,7 @@ A caption such as:
 
 immediately tells the reader where attention should be directed. The surrounding pages may provide context, but the key claim is already visible.
 
-Research on chart captions also suggests that explanatory text improves comprehension and recall by helping readers recognise important patterns rather than merely observe shapes and numbers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2307.05356" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Vis Text: A Benchmark for Semantically Rich Chart Captioning</span><span class="citation-popover-snippet">VisText: A Benchmark for Semantically Rich Chart CaptioningAbstract. Captions that describe or explain charts help improve recall an...</span></span></span>
+Research on chart captions also suggests that explanatory text improves comprehension and recall by helping readers recognise important patterns rather than merely observe shapes and numbers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2307.05356" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Vis Text: A Benchmark for Semantically Rich Chart Captioning</span><span class="citation-popover-snippet">VisText: A Benchmark for Semantically Rich Chart CaptioningAbstract. Captions that describe or explain charts help improve recall an...</span></span></span>
 
 ## The Three Questions to Ask Every Key Visual
 
@@ -428,7 +428,7 @@ Several [warning signs]({{ 'warning-signs/' | relative_url }}) deserve attention
 
 </div>
 
-Research into chart interpretation shows that readers are heavily influenced by visual emphasis and accompanying text, which makes critical checking especially important. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2101.08235" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+Research into chart interpretation shows that readers are heavily influenced by visual emphasis and accompanying text, which makes critical checking especially important.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2101.08235" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 A useful habit is to read the recommendation first, then inspect the supporting visual and ask:
 
@@ -455,7 +455,7 @@ Tables are especially valuable when decisions depend on:
 
 </div>
 
-In evidence reviews and [technical]({{ 'technical-texts/' | relative_url }}) reports, summary tables are frequently used because they allow readers to compare outcomes, effect sizes, certainty, and limitations more efficiently than narrative text. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-14" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cochrane.org">[Cochrane]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cochrane.org</span><span class="citation-popover-title">Chapter 14: Completing</span><span class="citation-popover-snippet">Chapter 14: Completing &#x27;Summary of findings&#x27; tables and...&#x27;Summary of findings&#x27; tables present the main findings of a review in...</span></span></span>
+In evidence reviews and [technical]({{ 'technical-texts/' | relative_url }}) reports, summary tables are frequently used because they allow readers to compare outcomes, effect sizes, certainty, and limitations more efficiently than narrative text.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-14" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cochrane.org">[Cochrane]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cochrane.org</span><span class="citation-popover-title">Chapter 14: Completing</span><span class="citation-popover-snippet">Chapter 14: Completing &#x27;Summary of findings&#x27; tables and...&#x27;Summary of findings&#x27; tables present the main findings of a review in...</span></span></span>
 
 A chart may reveal that one option performs better. A table often reveals whether the difference is large enough to matter.
 
@@ -469,178 +469,178 @@ The fastest route through a report rarely follows page order. It follows the evi
 For decision-focused reading, the goal is not to inspect every visual. It is to identify the handful that carry the recommendation, read their captions carefully, test whether they genuinely support the conclusion, and only then decide which sections deserve deeper attention. That approach turns charts and tables from illustrations into navigation tools, allowing readers to reach the most consequential evidence in a fraction of the time.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Which Charts Actually Change the Decision?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Which Charts Actually Change the Decision?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Visual+Display+of+Quantitative+Information+by+Edward+R.+Tufte&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Visual Display of Quantitative Information on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SqVpAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Visual Display of Quantitative Information" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Visual+Display+of+Quantitative+Information+by+Edward+R.+Tufte&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Visual Display of Quantitative Information">The Visual Display of Quantitative Information</a>
-        </h4>
-        <p class="fr-book-author">By Edward R. Tufte</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Visual+Display+of+Quantitative+Information+by+Edward+R.+Tufte&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Visual Display of Quantitative Information on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SqVpAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Visual Display of Quantitative Information" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Visual+Display+of+Quantitative+Information+by+Edward+R.+Tufte&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Visual Display of Quantitative Information">The Visual Display of Quantitative Information</a>
+</h4>
+<p class="fr-book-author">By Edward R. Tufte</p>
         
-        <p class="fr-book-desc">Explains how charts convey evidence and support decisions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Visual+Display+of+Quantitative+Information+by+Edward+R.+Tufte&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how charts convey evidence and support decisions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Visual+Display+of+Quantitative+Information+by+Edward+R.+Tufte&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Improves interpretation of statistics and trends.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Improves interpretation of statistics and trends.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Storytelling+with+Data+Cole+Nussbaumer+Knaflic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Storytelling with Data on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7932707-M.jpg" alt="Cover for Storytelling with Data" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Storytelling+with+Data+Cole+Nussbaumer+Knaflic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Storytelling with Data">Storytelling with Data</a>
-        </h4>
-        <p class="fr-book-author">By Cole Nussbaumer Knaflic</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Storytelling+with+Data+Cole+Nussbaumer+Knaflic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Storytelling with Data on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7932707-M.jpg" alt="Cover for Storytelling with Data" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Storytelling+with+Data+Cole+Nussbaumer+Knaflic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Storytelling with Data">Storytelling with Data</a>
+</h4>
+<p class="fr-book-author">By Cole Nussbaumer Knaflic</p>
         
-        <p class="fr-book-desc">First published 2015. Subjects: Computer graphics, Business communication, Information visualization, Applied, General.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Storytelling+with+Data+Cole+Nussbaumer+Knaflic&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2015. Subjects: Computer graphics, Business communication, Information visualization, Applied, General.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Storytelling+with+Data+Cole+Nussbaumer+Knaflic&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Charts+Lie+Alberto+Cairo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Charts Lie on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9254486-M.jpg" alt="Cover for How Charts Lie" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Charts+Lie+Alberto+Cairo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Charts Lie">How Charts Lie</a>
-        </h4>
-        <p class="fr-book-author">By Alberto Cairo</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Charts+Lie+Alberto+Cairo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Charts Lie on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9254486-M.jpg" alt="Cover for How Charts Lie" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Charts+Lie+Alberto+Cairo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Charts Lie">How Charts Lie</a>
+</h4>
+<p class="fr-book-author">By Alberto Cairo</p>
         
-        <p class="fr-book-desc">First published 2019. Subjects: Computer graphics, Charts, Information visualization, Social media, Technology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Charts+Lie+Alberto+Cairo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2019. Subjects: Computer graphics, Charts, Information visualization, Social media, Technology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Charts+Lie+Alberto+Cairo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Visual+Display+of+Quantitative+Information&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Visual Display of Quantitative Information</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Storytelling+with+Data&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Storytelling with Data</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Visual+Display+of+Quantitative+Information&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Visual Display of Quantitative Information</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Storytelling+with+Data&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Storytelling with Data</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+visualization+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=key-charts-which-charts-actually-change-the-decision-increasing-data-visualization-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data visualization poster -book -books" data-ebay-reference="key-charts-which-charts-actually-change-the-decision-increasing-data-visualization-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Data Visualization VI Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4a2602844f0d8415c304.jpg' | relative_url }}" alt="Listing image for Data Visualization VI Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+visualization+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=key-charts-which-charts-actually-change-the-decision-increasing-data-visualization-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data visualization poster -book -books" data-ebay-reference="key-charts-which-charts-actually-change-the-decision-increasing-data-visualization-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Data Visualization VI Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+visualization+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=key-charts-which-charts-actually-change-the-decision-increasing-data-visualization-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data visualization poster -book -books" data-ebay-reference="key-charts-which-charts-actually-change-the-decision-increasing-data-visualization-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for data visualization poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: data visualization poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+visualization+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=key-charts-which-charts-actually-change-the-decision-increasing-data-visualization-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data visualization poster -book -books" data-ebay-reference="key-charts-which-charts-actually-change-the-decision-increasing-data-visualization-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+visualization+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=key-charts-which-charts-actually-change-the-decision-increasing-data-visualization-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data visualization poster -book -books" data-ebay-reference="key-charts-which-charts-actually-change-the-decision-increasing-data-visualization-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Data Visualization VI Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4a2602844f0d8415c304.jpg' | relative_url }}" alt="Listing image for Data Visualization VI Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+visualization+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=key-charts-which-charts-actually-change-the-decision-increasing-data-visualization-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data visualization poster -book -books" data-ebay-reference="key-charts-which-charts-actually-change-the-decision-increasing-data-visualization-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Data Visualization VI Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+visualization+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=key-charts-which-charts-actually-change-the-decision-increasing-data-visualization-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data visualization poster -book -books" data-ebay-reference="key-charts-which-charts-actually-change-the-decision-increasing-data-visualization-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for data visualization poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: data visualization poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+visualization+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=key-charts-which-charts-actually-change-the-decision-increasing-data-visualization-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data visualization poster -book -books" data-ebay-reference="key-charts-which-charts-actually-change-the-decision-increasing-data-visualization-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+visualization+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=key-charts-which-charts-actually-change-the-decision-increasing-data-visualization-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data visualization poster -book -books" data-ebay-reference="key-charts-which-charts-actually-change-the-decision-increasing-data-visualization-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Data Visualization VII Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/90b037c63cc5e0b8e4bb.jpg' | relative_url }}" alt="Listing image for Data Visualization VII Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+visualization+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=key-charts-which-charts-actually-change-the-decision-increasing-data-visualization-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data visualization poster -book -books" data-ebay-reference="key-charts-which-charts-actually-change-the-decision-increasing-data-visualization-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Data Visualization VII Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+visualization+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=key-charts-which-charts-actually-change-the-decision-increasing-data-visualization-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data visualization poster -book -books" data-ebay-reference="key-charts-which-charts-actually-change-the-decision-increasing-data-visualization-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for data visualization poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: data visualization poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+visualization+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=key-charts-which-charts-actually-change-the-decision-increasing-data-visualization-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data visualization poster -book -books" data-ebay-reference="key-charts-which-charts-actually-change-the-decision-increasing-data-visualization-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+visualization+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=key-charts-which-charts-actually-change-the-decision-increasing-data-visualization-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data visualization poster -book -books" data-ebay-reference="key-charts-which-charts-actually-change-the-decision-increasing-data-visualization-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Data Visualization VII Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/90b037c63cc5e0b8e4bb.jpg' | relative_url }}" alt="Listing image for Data Visualization VII Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+visualization+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=key-charts-which-charts-actually-change-the-decision-increasing-data-visualization-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data visualization poster -book -books" data-ebay-reference="key-charts-which-charts-actually-change-the-decision-increasing-data-visualization-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Data Visualization VII Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+visualization+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=key-charts-which-charts-actually-change-the-decision-increasing-data-visualization-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data visualization poster -book -books" data-ebay-reference="key-charts-which-charts-actually-change-the-decision-increasing-data-visualization-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for data visualization poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: data visualization poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+visualization+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=key-charts-which-charts-actually-change-the-decision-increasing-data-visualization-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data visualization poster -book -books" data-ebay-reference="key-charts-which-charts-actually-change-the-decision-increasing-data-visualization-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+visualization+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=key-charts-which-charts-actually-change-the-decision-increasing-data-visualization-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data visualization poster -book -books" data-ebay-reference="key-charts-which-charts-actually-change-the-decision-increasing-data-visualization-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Data Visualization V Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/423e579a53ca76b8ad08.jpg' | relative_url }}" alt="Listing image for Data Visualization V Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+visualization+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=key-charts-which-charts-actually-change-the-decision-increasing-data-visualization-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data visualization poster -book -books" data-ebay-reference="key-charts-which-charts-actually-change-the-decision-increasing-data-visualization-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Data Visualization V Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+visualization+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=key-charts-which-charts-actually-change-the-decision-increasing-data-visualization-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data visualization poster -book -books" data-ebay-reference="key-charts-which-charts-actually-change-the-decision-increasing-data-visualization-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for data visualization poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: data visualization poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+visualization+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=key-charts-which-charts-actually-change-the-decision-increasing-data-visualization-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data visualization poster -book -books" data-ebay-reference="key-charts-which-charts-actually-change-the-decision-increasing-data-visualization-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+visualization+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=key-charts-which-charts-actually-change-the-decision-increasing-data-visualization-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data visualization poster -book -books" data-ebay-reference="key-charts-which-charts-actually-change-the-decision-increasing-data-visualization-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+visualization+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=key-charts-which-charts-actually-change-the-decision-increasing-data-visualization-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data visualization poster -book -books" data-ebay-reference="key-charts-which-charts-actually-change-the-decision-increasing-data-visualization-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Data Visualization V Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/423e579a53ca76b8ad08.jpg' | relative_url }}" alt="Listing image for Data Visualization V Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+visualization+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=key-charts-which-charts-actually-change-the-decision-increasing-data-visualization-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data visualization poster -book -books" data-ebay-reference="key-charts-which-charts-actually-change-the-decision-increasing-data-visualization-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Data Visualization V Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+visualization+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=key-charts-which-charts-actually-change-the-decision-increasing-data-visualization-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data visualization poster -book -books" data-ebay-reference="key-charts-which-charts-actually-change-the-decision-increasing-data-visualization-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for data visualization poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: data visualization poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+visualization+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=key-charts-which-charts-actually-change-the-decision-increasing-data-visualization-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data visualization poster -book -books" data-ebay-reference="key-charts-which-charts-actually-change-the-decision-increasing-data-visualization-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+visualization+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=key-charts-which-charts-actually-change-the-decision-increasing-data-visualization-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data visualization poster -book -books" data-ebay-reference="key-charts-which-charts-actually-change-the-decision-increasing-data-visualization-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -656,7 +656,7 @@ For decision-focused reading, the goal is not to inspect every visual. It is to 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -676,7 +676,7 @@ For decision-focused reading, the goal is not to inspect every visual. It is to 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -708,7 +708,7 @@ For decision-focused reading, the goal is not to inspect every visual. It is to 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -760,7 +760,7 @@ For decision-focused reading, the goal is not to inspect every visual. It is to 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -805,7 +805,7 @@ For decision-focused reading, the goal is not to inspect every visual. It is to 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -846,121 +846,121 @@ For decision-focused reading, the goal is not to inspect every visual. It is to 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: express.excelsior.edu  
    Title: Chapter 8.2: Executive  
-   Link: <a href="https://express.excelsior.edu/datascience/chapter/chapter-8-2-executive-summary-and-report-construction/" target="_blank" rel="noopener noreferrer nofollow">https://express.excelsior.edu/datascience/chapter/chapter-8-2-executive-summary-and-report-construction/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Summary and Report ConstructionThis chapter examines the systematic construction of executive summaries and professional reports that tra...</p></details>
+   Link:<a href="https://express.excelsior.edu/datascience/chapter/chapter-8-2-executive-summary-and-report-construction/" target="_blank" rel="noopener noreferrer nofollow">https://express.excelsior.edu/datascience/chapter/chapter-8-2-executive-summary-and-report-construction/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Summary and Report ConstructionThis chapter examines the systematic construction of executive summaries and professional reports that tra...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cochrane.org  
    Title: Chapter 14: Completing '  
-   Link: <a href="https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-14" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-14</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 14: Completing &#x27;Summary of findings&#x27; tables and...&#x27;Summary of findings&#x27; tables present the main findings of a review in...</p></details>
+   Link:<a href="https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-14" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-14</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 14: Completing &#x27;Summary of findings&#x27; tables and...&#x27;Summary of findings&#x27; tables present the main findings of a review in...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2101.08235" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2101.08235</a>  
+   Link:<a href="https://arxiv.org/abs/2101.08235" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2101.08235</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv Emphasis Checker: A Tool for Guiding Chart and Caption Emphasis  
-   Link: <a href="https://arxiv.org/abs/2307.13858" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2307.13858</a>  
+   Link:<a href="https://arxiv.org/abs/2307.13858" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2307.13858</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv Vis Text: A Benchmark for Semantically Rich Chart Captioning  
-   Link: <a href="https://arxiv.org/html/2307.05356" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2307.05356</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>VisText: A Benchmark for Semantically Rich Chart CaptioningAbstract. Captions that describe or explain charts help improve recall an...</p></details>
+   Link:<a href="https://arxiv.org/html/2307.05356" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2307.05356</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>VisText: A Benchmark for Semantically Rich Chart CaptioningAbstract. Captions that describe or explain charts help improve recall an...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
    Title: arXiv How Do Captions Affect Visualization Reading?  
-   Link: <a href="https://arxiv.org/abs/2205.01263" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2205.01263</a>  
+   Link:<a href="https://arxiv.org/abs/2205.01263" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2205.01263</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nationaltraining.edu.au  
    Title: making financial reports understandable  
-   Link: <a href="https://nationaltraining.edu.au/making-financial-reports-understandable/" target="_blank" rel="noopener noreferrer nofollow">https://nationaltraining.edu.au/making-financial-reports-understandable/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Make Financial Reports Understandable12 May 2025 — Simplify financial reports with visuals, plain English &amp; storytelling. Learn how to ma...</p></details>
+   Link:<a href="https://nationaltraining.edu.au/making-financial-reports-understandable/" target="_blank" rel="noopener noreferrer nofollow">https://nationaltraining.edu.au/making-financial-reports-understandable/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Make Financial Reports Understandable12 May 2025 — Simplify financial reports with visuals, plain English &amp; storytelling. Learn how to ma...</p></details>
    Published: May 2025  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: analysisfunction.civilservice.gov.uk  
    Title: ernment Analysis Function Data visualisation: tables  
-   Link: <a href="https://analysisfunction.civilservice.gov.uk/policy-store/data-visualisation-tables/" target="_blank" rel="noopener noreferrer nofollow">https://analysisfunction.civilservice.gov.uk/policy-store/data-visualisation-tables/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ernment Analysis FunctionData visualisation: tables - Government Analysis Function19 May 2022 — This guidance provides advice on how t...</p></details>
+   Link:<a href="https://analysisfunction.civilservice.gov.uk/policy-store/data-visualisation-tables/" target="_blank" rel="noopener noreferrer nofollow">https://analysisfunction.civilservice.gov.uk/policy-store/data-visualisation-tables/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ernment Analysis FunctionData visualisation: tables - Government Analysis Function19 May 2022 — This guidance provides advice on how t...</p></details>
    Published: May 2022  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: data.europa.eu  
-   Link: <a href="https://data.europa.eu/apps/data-visualisation-guide/the-importance-of-visualisation-titles" target="_blank" rel="noopener noreferrer nofollow">https://data.europa.eu/apps/data-visualisation-guide/the-importance-of-visualisation-titles</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>European Data PortalThe importance of visualisation titlesData visualisation practitioners, like visual journalists, agree that guiding t...</p></details>
+   Link:<a href="https://data.europa.eu/apps/data-visualisation-guide/the-importance-of-visualisation-titles" target="_blank" rel="noopener noreferrer nofollow">https://data.europa.eu/apps/data-visualisation-guide/the-importance-of-visualisation-titles</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>European Data PortalThe importance of visualisation titlesData visualisation practitioners, like visual journalists, agree that guiding t...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/67489b9d5ba46550018cebd8/Research_reports_guidance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/67489b9d5ba46550018cebd8/Research_reports_guidance.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>reports guidanceand follow the Government Analysis Function guidance on data visualisation for charts. To help clarity: • follow the usua...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/67489b9d5ba46550018cebd8/Research_reports_guidance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/67489b9d5ba46550018cebd8/Research_reports_guidance.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>reports guidanceand follow the Government Analysis Function guidance on data visualisation for charts. To help clarity: • follow the usua...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: clauswilke.com  
-   Link: <a href="https://clauswilke.com/dataviz/figure-titles-captions.html" target="_blank" rel="noopener noreferrer nofollow">https://clauswilke.com/dataviz/figure-titles-captions.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>22 Titles, captions, and tablesIn this chapter, I will discuss how to properly title and label figures. I will also discuss how to presen...</p></details>
+   Link:<a href="https://clauswilke.com/dataviz/figure-titles-captions.html" target="_blank" rel="noopener noreferrer nofollow">https://clauswilke.com/dataviz/figure-titles-captions.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>22 Titles, captions, and tablesIn this chapter, I will discuss how to properly title and label figures. I will also discuss how to presen...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ctrlprint.com  
    Title: 5 inspiring annual report examples to elevate your business reports  
-   Link: <a href="https://ctrlprint.com/news/5-inspiring-annual-report-examples-to-elevate-your-business-reports" target="_blank" rel="noopener noreferrer nofollow">https://ctrlprint.com/news/5-inspiring-annual-report-examples-to-elevate-your-business-reports</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 inspiring annual report examples to elevate your...22 May 2026 — Explore 5 outstanding annual report examples, learn key components, a...</p></details>
+   Link:<a href="https://ctrlprint.com/news/5-inspiring-annual-report-examples-to-elevate-your-business-reports" target="_blank" rel="noopener noreferrer nofollow">https://ctrlprint.com/news/5-inspiring-annual-report-examples-to-elevate-your-business-reports</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 inspiring annual report examples to elevate your...22 May 2026 — Explore 5 outstanding annual report examples, learn key components, a...</p></details>
    Published: May 2026  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: fusioncharts.com  
    Title: how to effectively use text in a data visualization  
-   Link: <a href="https://www.fusioncharts.com/blog/how-to-effectively-use-text-in-a-data-visualization/" target="_blank" rel="noopener noreferrer nofollow">https://www.fusioncharts.com/blog/how-to-effectively-use-text-in-a-data-visualization/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>202611 Jun 2014 — In this article, we&#x27;ll talk about the five text elements and how they enhance the meaning of any data visualization...</p></details>
+   Link:<a href="https://www.fusioncharts.com/blog/how-to-effectively-use-text-in-a-data-visualization/" target="_blank" rel="noopener noreferrer nofollow">https://www.fusioncharts.com/blog/how-to-effectively-use-text-in-a-data-visualization/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>202611 Jun 2014 — In this article, we&#x27;ll talk about the five text elements and how they enhance the meaning of any data visualization...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: lucid.now  
    Title: visual storytelling in financial reports  
-   Link: <a href="https://www.lucid.now/blog/visual-storytelling-in-financial-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.lucid.now/blog/visual-storytelling-in-financial-reports/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>25 Oct 2025 — Financial reports can be overwhelming. Visual storytelling transforms raw data into clear, engaging visuals like graphs and...</p></details>
+   Link:<a href="https://www.lucid.now/blog/visual-storytelling-in-financial-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.lucid.now/blog/visual-storytelling-in-financial-reports/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>25 Oct 2025 — Financial reports can be overwhelming. Visual storytelling transforms raw data into clear, engaging visuals like graphs and...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: bridgeall.com  
    Title: 4 key power bi reports for your finance team  
-   Link: <a href="https://www.bridgeall.com/2023/05/26/4-key-power-bi-reports-for-your-finance-team/" target="_blank" rel="noopener noreferrer nofollow">https://www.bridgeall.com/2023/05/26/4-key-power-bi-reports-for-your-finance-team/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>26 May 2023 — In this article we discuss how Power BI can be used to help your finance team and 4 key power bi reports for finance...</p></details>
+   Link:<a href="https://www.bridgeall.com/2023/05/26/4-key-power-bi-reports-for-your-finance-team/" target="_blank" rel="noopener noreferrer nofollow">https://www.bridgeall.com/2023/05/26/4-key-power-bi-reports-for-your-finance-team/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>26 May 2023 — In this article we discuss how Power BI can be used to help your finance team and 4 key power bi reports for finance...</p></details>
    Published: May 2023  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: writingcenter.unc.edu  
    Title: The Writing Center Figures and Charts  
-   Link: <a href="https://writingcenter.unc.edu/tips-and-tools/figures-and-charts/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/figures-and-charts/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Writing CenterFigures and Charts - The Writing CenterThis handout will describe how to use figures and tables to present complicated...</p></details>
+   Link:<a href="https://writingcenter.unc.edu/tips-and-tools/figures-and-charts/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/figures-and-charts/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Writing CenterFigures and Charts - The Writing CenterThis handout will describe how to use figures and tables to present complicated...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: anychart.com  
    Title: Summarize Your Data in Plain English  
-   Link: <a href="https://www.anychart.com/blog/2017/04/05/chart-captions-title-graph-tips/" target="_blank" rel="noopener noreferrer nofollow">https://www.anychart.com/blog/2017/04/05/chart-captions-title-graph-tips/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Name a Graph: Tips for Writing Great Chart Captions5 Apr 2017 — Here are some tips to help you come up with excellent chart captio...</p></details>
+   Link:<a href="https://www.anychart.com/blog/2017/04/05/chart-captions-title-graph-tips/" target="_blank" rel="noopener noreferrer nofollow">https://www.anychart.com/blog/2017/04/05/chart-captions-title-graph-tips/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Name a Graph: Tips for Writing Great Chart Captions5 Apr 2017 — Here are some tips to help you come up with excellent chart captio...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: filwd.substack.com  
    Title: data visualization titles a taxonomy  
-   Link: <a href="https://filwd.substack.com/p/data-visualization-titles-a-taxonomy" target="_blank" rel="noopener noreferrer nofollow">https://filwd.substack.com/p/data-visualization-titles-a-taxonomy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Visualization Titles: A Taxonomy - by Enrico BertiniThe second option is to use titles that guide the reader in the interpretation of the...</p></details>
+   Link:<a href="https://filwd.substack.com/p/data-visualization-titles-a-taxonomy" target="_blank" rel="noopener noreferrer nofollow">https://filwd.substack.com/p/data-visualization-titles-a-taxonomy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Visualization Titles: A Taxonomy - by Enrico BertiniThe second option is to use titles that guide the reader in the interpretation of the...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: abacum.ai  
    Title: financial reports for board meetings  
-   Link: <a href="https://www.abacum.ai/blog/financial-reports-for-board-meetings" target="_blank" rel="noopener noreferrer nofollow">https://www.abacum.ai/blog/financial-reports-for-board-meetings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Financial Reports for Board Meetings18 Jun 2025 — This article explores the essential financial reports every board meeting should incl...</p></details>
+   Link:<a href="https://www.abacum.ai/blog/financial-reports-for-board-meetings" target="_blank" rel="noopener noreferrer nofollow">https://www.abacum.ai/blog/financial-reports-for-board-meetings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 Financial Reports for Board Meetings18 Jun 2025 — This article explores the essential financial reports every board meeting should incl...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: julius.ai  
    Title: data visualization finance industry  
-   Link: <a href="https://julius.ai/articles/data-visualization-finance-industry" target="_blank" rel="noopener noreferrer nofollow">https://julius.ai/articles/data-visualization-finance-industry</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>9 Principles of Data Visualization in the Finance Industry...5 Nov 2025 — Data visualization in the finance industry helps teams transfo...</p></details>
+   Link:<a href="https://julius.ai/articles/data-visualization-finance-industry" target="_blank" rel="noopener noreferrer nofollow">https://julius.ai/articles/data-visualization-finance-industry</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>9 Principles of Data Visualization in the Finance Industry...5 Nov 2025 — Data visualization in the finance industry helps teams transfo...</p></details>

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /increasing-re-852ca6-repeated-read/
 description: Focused pages that expand on Practice.
-date: '2026-06-16'
+date: '2026'
 layout: default
 parent_basename: increasing_re_852ca6_repeated_read_e09228
 parent_title: Practice
@@ -16,7 +16,7 @@ parent_permalink: /practice/
 
 # Explore Topics in Practice
 
-The following pages expand on the main **[Practice]({{ '/practice/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Practice]({{ '/practice/' | relative_url }})** page and cover its key branches in.
 
 - [Adult practice]({{ '/adult-practice/' | relative_url }})
 - [Models]({{ '/models/' | relative_url }})

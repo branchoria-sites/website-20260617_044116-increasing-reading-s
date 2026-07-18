@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /increasing-re-852ca6-index/
 description: Focused pages that expand on Increasing.
-date: '2026-06-16'
+date: '2026'
 layout: default
 parent_basename: increasing_re_852ca6
 parent_title: Increasing
@@ -16,7 +16,7 @@ parent_permalink: /increasing/
 
 # Explore Topics in Increasing
 
-The following pages expand on the main **[Increasing]({{ '/increasing/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Increasing]({{ '/increasing/' | relative_url }})** page and cover its key branches in.
 
 - [Dense Texts]({{ '/dense-texts/' | relative_url }})
 - [Skimming]({{ '/skimming/' | relative_url }})

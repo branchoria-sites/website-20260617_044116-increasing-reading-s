@@ -273,7 +273,7 @@ Readers who want to increase reading speed are often told to stop rereading. Tha
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_speed_reading_71e807_regressions_r_724139_useful_vs_hab_bbc401-Illustration-1-dark.svg" | relative_url }}" alt="Useful Rereading illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_speed_reading_71e807_regressions_r_724139_useful_vs_hab_bbc401-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_speed_reading_71e807_regressions_r_724139_useful_vs_hab_bbc401-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Research on [eye movements]({{ 'eye-tradeoff/' | relative_url }}) shows that skilled readers regularly make brief backward movements, known as regressions, when they encounter ambiguity, [contradictions]({{ 'contradictions/' | relative_url }}), or information that does not fit their developing understanding of a passage. These lookbacks are part of normal comprehension monitoring rather than evidence of poor reading. The key distinction is not whether you reread, but whether the rereading solves a specific problem. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">The function of these &quot;regressions&quot; is still largely unknown</span><span class="citation-popover-snippet">The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 132 — Standard text reading involves frequent...</span></span></span>
+Research on [eye movements]({{ 'eye-tradeoff/' | relative_url }}) shows that skilled readers regularly make brief backward movements, known as regressions, when they encounter ambiguity, [contradictions]({{ 'contradictions/' | relative_url }}), or information that does not fit their developing understanding of a passage. These lookbacks are part of normal comprehension monitoring rather than evidence of poor reading. The key distinction is not whether you reread, but whether the rereading solves a specific problem.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">The function of these &quot;regressions&quot; is still largely unknown</span><span class="citation-popover-snippet">The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 132 — Standard text reading involves frequent...</span></span></span>
 
 For readers focused on speed, the goal is not to eliminate all rereading. It is to reduce unnecessary rereading while preserving the small amount that protects comprehension.
 
@@ -284,9 +284,9 @@ For readers focused on speed, the goal is not to eliminate all rereading. It is 
 
 Useful rereading tends to be brief, targeted, and triggered by a clear comprehension issue.
 
-A lookback is usually productive when you have identified a specific gap in understanding. Examples include reaching the end of a sentence and realising you no longer know who a pronoun refers to, discovering that a later clause changes the meaning of an earlier one, or encountering a [technical]({{ 'technical-texts/' | relative_url }}) term whose definition appeared a few lines above. In these situations, continuing forward often compounds confusion. A quick return to the relevant phrase is usually faster than struggling through the rest of the passage with an incorrect interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ora.ox.ac.uk/objects/uuid%3Aa16f42e2-529d-47ae-ba51-50b75dd43899/files/rkh04dp70d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ora.ox.ac.uk">[Oxford University Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ora.ox.ac.uk</span><span class="citation-popover-snippet">ford University Research ArchiveComprehension monitoring during reading: an eye-tracking...by AK Hessel · 2020 · Cited by 50 — We chos...</span></span></span>
+A lookback is usually productive when you have identified a specific gap in understanding. Examples include reaching the end of a sentence and realising you no longer know who a pronoun refers to, discovering that a later clause changes the meaning of an earlier one, or encountering a [technical]({{ 'technical-texts/' | relative_url }}) term whose definition appeared a few lines above. In these situations, continuing forward often compounds confusion. A quick return to the relevant phrase is usually faster than struggling through the rest of the passage with an incorrect interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ora.ox.ac.uk/objects/uuid%3Aa16f42e2-529d-47ae-ba51-50b75dd43899/files/rkh04dp70d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ora.ox.ac.uk">[Oxford University Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ora.ox.ac.uk</span><span class="citation-popover-snippet">ford University Research ArchiveComprehension monitoring during reading: an eye-tracking...by AK Hessel · 2020 · Cited by 50 — We chos...</span></span></span>
 
-[Eye-tracking]({{ 'eye-tracking/' | relative_url }}) studies suggest that [regressions]({{ 'lookbacks/' | relative_url }}) are closely linked to moments when readers detect inconsistencies or recognise that their current interpretation may be wrong. Researchers frequently use regression patterns as indicators of active comprehension monitoring and reanalysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ora.ox.ac.uk/objects/uuid%3Aa16f42e2-529d-47ae-ba51-50b75dd43899/files/rkh04dp70d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ora.ox.ac.uk">[Oxford University Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ora.ox.ac.uk</span><span class="citation-popover-snippet">ford University Research ArchiveComprehension monitoring during reading: an eye-tracking...by AK Hessel · 2020 · Cited by 50 — We chos...</span></span></span>
+[Eye-tracking]({{ 'eye-tracking/' | relative_url }}) studies suggest that [regressions]({{ 'lookbacks/' | relative_url }}) are closely linked to moments when readers detect inconsistencies or recognise that their current interpretation may be wrong. Researchers frequently use regression patterns as indicators of active comprehension monitoring and reanalysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ora.ox.ac.uk/objects/uuid%3Aa16f42e2-529d-47ae-ba51-50b75dd43899/files/rkh04dp70d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ora.ox.ac.uk">[Oxford University Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ora.ox.ac.uk</span><span class="citation-popover-snippet">ford University Research ArchiveComprehension monitoring during reading: an eye-tracking...by AK Hessel · 2020 · Cited by 50 — We chos...</span></span></span>
 
 Useful rereading often has several characteristics:
 
@@ -300,7 +300,7 @@ Useful rereading often has several characteristics:
 
 </div>
 
-Research examining regressions during reading supports the idea that readers use backward eye movements to obtain information again from the text itself rather than merely to trigger memory. In other words, the rereading serves a practical corrective function. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">The function of these &quot;regressions&quot; is still largely unknown</span><span class="citation-popover-snippet">The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 132 — Standard text reading involves frequent...</span></span></span>
+Research examining regressions during reading supports the idea that readers use backward eye movements to obtain information again from the text itself rather than merely to trigger memory. In other words, the rereading serves a practical corrective function.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">The function of these &quot;regressions&quot; is still largely unknown</span><span class="citation-popover-snippet">The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 132 — Standard text reading involves frequent...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6ZkGFiR1434" title="How to Read Faster | Jim Kwik" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6ZkGFiR1434" target="_blank" rel="noopener noreferrer">How to Read Faster | Jim Kwik</a></p><p class="youtube-embed-meta">Channel: Jim Kwik &middot; Views: 87.7K &middot; Uploaded: January 2023 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6ZkGFiR1434" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6ZkGFiR1434">Open on YouTube</a></p></div></div></div>
@@ -311,7 +311,7 @@ Not all rereading is corrective. Many readers develop habits that consume time w
 
 One common pattern is automatic line-checking. A reader finishes a sentence and immediately glances back over part of it despite having understood it adequately. Another is rereading because of low confidence rather than actual confusion. The reader assumes understanding is incomplete and repeatedly verifies information that was already processed successfully.
 
-These habits create a hidden speed penalty. Every unnecessary return interrupts the flow of ideas, adds extra eye movements, and increases total reading time. [Speed-reading]({{ 'myths/' | relative_url }}) interventions that achieve modest improvements often do so partly by reducing needless rereading behaviours rather than by teaching readers to process words dramatically faster. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/367560632_Does_speed-reading_training_work_and_if_so_why_Effects_of_speed-reading_training_and_metacognitive_training_on_reading_speed_comprehension_and_eye_movements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Does speed-reading training work, and if so, why?</span><span class="citation-popover-snippet">January 31, 2023 — 1 Feb 2023 — A study by Klimovich et al. (2023) reports that the positive effect of speed-reading training is limited...</span><span class="citation-popover-meta">Published: January 31, 2023</span></span></span>
+These habits create a hidden speed penalty. Every unnecessary return interrupts the flow of ideas, adds extra eye movements, and increases total reading time. [Speed-reading]({{ 'myths/' | relative_url }}) interventions that achieve modest improvements often do so partly by reducing needless rereading behaviours rather than by teaching readers to process words dramatically faster.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/367560632_Does_speed-reading_training_work_and_if_so_why_Effects_of_speed-reading_training_and_metacognitive_training_on_reading_speed_comprehension_and_eye_movements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Does speed-reading training work, and if so, why?</span><span class="citation-popover-snippet">January 31, 2023 — 1 Feb 2023 — A study by Klimovich et al. (2023) reports that the positive effect of speed-reading training is limited...</span><span class="citation-popover-meta">Published: January 31, 2023</span></span></span>
 
 The problem is not merely lost time. Habitual rereading can become a substitute for attention. Readers may drift mentally because they expect they can always go back. When concentration weakens, rereading becomes more frequent, which further slows progress.
 
@@ -321,7 +321,7 @@ Consider these contrasting examples:
 
 SituationLikely ValueReturning to check which scientist a result refers to after encountering conflicting findingsHelpfulRereading the previous sentence because it felt difficult, despite understanding the main pointOften unhelpfulLooking back to resolve a contradiction that appeared later in the paragraphHelpfulAutomatically rereading the last line of every pageUsually wastefulRevisiting a definition needed to understand the next sectionHelpfulRechecking information repeatedly for reassuranceUsually wasteful
 
-The distinction matters because comprehension and speed are not opposing goals. Research consistently shows that reading too quickly can damage understanding, but excessive rereading can also impair overall efficiency. Effective readers operate between those extremes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://researchschool.org.uk/town-end/news/beyond-the-stopwatch-why-speed-isnt-the-goal-of-reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchschool.org.uk">[Research Schools Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchschool.org.uk</span><span class="citation-popover-title">beyond the stopwatch why speed isnt the goal of reading</span><span class="citation-popover-snippet">Research Schools NetworkBeyond the stopwatch26 Sept 2025 — When reading is too quick, the brain doesn&#x27;t have time to process meaning. But...</span></span></span>
+The distinction matters because comprehension and speed are not opposing goals. Research consistently shows that reading too quickly can damage understanding, but excessive rereading can also impair overall efficiency. Effective readers operate between those extremes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://researchschool.org.uk/town-end/news/beyond-the-stopwatch-why-speed-isnt-the-goal-of-reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchschool.org.uk">[Research Schools Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchschool.org.uk</span><span class="citation-popover-title">beyond the stopwatch why speed isnt the goal of reading</span><span class="citation-popover-snippet">Research Schools NetworkBeyond the stopwatch26 Sept 2025 — When reading is too quick, the brain doesn&#x27;t have time to process meaning. But...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_speed_reading_71e807_regressions_r_724139_useful_vs_hab_bbc401-Illustration-2-dark.svg" | relative_url }}" alt="Useful Rereading illustration 2" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_speed_reading_71e807_regressions_r_724139_useful_vs_hab_bbc401-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_speed_reading_71e807_regressions_r_724139_useful_vs_hab_bbc401-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -360,200 +360,200 @@ The most efficient readers do not eliminate regressions. Instead, they become se
 
 A practical approach is to allow brief lookbacks when comprehension genuinely breaks down while resisting automatic verification of material that is already understood. Over time, this shifts rereading from a reflex into a deliberate tool.
 
-Eye-movement research increasingly supports the idea that reading behaviour is adaptive: readers adjust their attention, regressions, and rereading according to comprehension demands and the value of the information they are trying to recover. From a speed perspective, that is the model worth following. The fastest useful reading is not the reading with the fewest lookbacks. It is the reading where every lookback has a purpose. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ila.onlinelibrary.wiley.com/doi/full/10.1002/rrq.70023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ila.onlinelibrary.wiley.com">[ILA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ila.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Using Eye Movements From a “Read‐Only” Task to Predict...by DC Mézière · 2025 · Cited by 1 — This suggests that eye movements related...</span></span></span>
+Eye-movement research increasingly supports the idea that reading behaviour is adaptive: readers adjust their attention, regressions, and rereading according to comprehension demands and the value of the information they are trying to recover. From a speed perspective, that is the model worth following. The fastest useful reading is not the reading with the fewest lookbacks. It is the reading where every lookback has a purpose.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ila.onlinelibrary.wiley.com/doi/full/10.1002/rrq.70023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ila.onlinelibrary.wiley.com">[ILA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ila.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Using Eye Movements From a “Read‐Only” Task to Predict...by DC Mézière · 2025 · Cited by 1 — This suggests that eye movements related...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_speed_reading_71e807_regressions_r_724139_useful_vs_hab_bbc401-Illustration-3-dark.svg" | relative_url }}" alt="Useful Rereading illustration 3" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_speed_reading_71e807_regressions_r_724139_useful_vs_hab_bbc401-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_speed_reading_71e807_regressions_r_724139_useful_vs_hab_bbc401-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Rereading Is Actually Worth It. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Rereading Is Actually Worth It. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Helps distinguish productive rereading from inefficient habits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Helps distinguish productive rereading from inefficient habits.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Only+Skill+that+Matters+Jonathan+A.+Levi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Only Skill that Matters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/15160962-M.jpg" alt="Cover for The Only Skill that Matters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Only+Skill+that+Matters+Jonathan+A.+Levi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Only Skill that Matters">The Only Skill that Matters</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan A. Levi</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Only+Skill+that+Matters+Jonathan+A.+Levi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Only Skill that Matters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/15160962-M.jpg" alt="Cover for The Only Skill that Matters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Only+Skill+that+Matters+Jonathan+A.+Levi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Only Skill that Matters">The Only Skill that Matters</a>
+</h4>
+<p class="fr-book-author">By Jonathan A. Levi</p>
         
-        <p class="fr-book-desc">First published 2019.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Only+Skill+that+Matters+Jonathan+A.+Levi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2019.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Only+Skill+that+Matters+Jonathan+A.+Levi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Breakthrough rapid reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/84360-M.jpg" alt="Cover for Breakthrough rapid reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breakthrough rapid reading">Breakthrough rapid reading</a>
-        </h4>
-        <p class="fr-book-author">By Peter Kump</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Breakthrough rapid reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/84360-M.jpg" alt="Cover for Breakthrough rapid reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breakthrough rapid reading">Breakthrough rapid reading</a>
+</h4>
+<p class="fr-book-author">By Peter Kump</p>
         
-        <p class="fr-book-desc">First published 1979. Subjects: Speed reading, Rapid reading, Du shu fang fa.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1979. Subjects: Speed reading, Rapid reading, Du shu fang fa.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Speed+reading&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Speed reading on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Speed+reading&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Speed reading">Speed reading</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Speed+reading&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Speed reading on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Speed+reading&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Speed reading">Speed reading</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Addresses rereading and reading-speed habits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Speed+reading&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses rereading and reading-speed habits.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Speed+reading&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Only+Skill+that+Matters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Only Skill that Matters</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Breakthrough rapid reading</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Only+Skill+that+Matters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Only Skill that Matters</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Breakthrough rapid reading</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Worth waiting for Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/d90b76085f9bd5dea0ca.jpg' | relative_url }}" alt="Listing image for Worth waiting for Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Worth waiting for Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for worth poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: worth poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Worth waiting for Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/d90b76085f9bd5dea0ca.jpg' | relative_url }}" alt="Listing image for Worth waiting for Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Worth waiting for Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for worth poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: worth poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WORTH WINNING (1989) One Sheet Movie Poster - Mark Harmon, Madeleine Stowe"><img src="{{ '/assets/images/marketplace-covers/d90d2ad5fab6542d2478.jpg' | relative_url }}" alt="Listing image for WORTH WINNING (1989) One Sheet Movie Poster - Mark Harmon, Madeleine Stowe" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">WORTH WINNING (1989) One Sheet Movie Poster - Mark Harmon, Madeleine Stowe</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for worth poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: worth poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WORTH WINNING (1989) One Sheet Movie Poster - Mark Harmon, Madeleine Stowe"><img src="{{ '/assets/images/marketplace-covers/d90d2ad5fab6542d2478.jpg' | relative_url }}" alt="Listing image for WORTH WINNING (1989) One Sheet Movie Poster - Mark Harmon, Madeleine Stowe" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">WORTH WINNING (1989) One Sheet Movie Poster - Mark Harmon, Madeleine Stowe</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for worth poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: worth poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Absolutely Worth It Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6d5e96016bb3ea71d0cb.jpg' | relative_url }}" alt="Listing image for Absolutely Worth It Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Absolutely Worth It Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for worth poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: worth poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Absolutely Worth It Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6d5e96016bb3ea71d0cb.jpg' | relative_url }}" alt="Listing image for Absolutely Worth It Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Absolutely Worth It Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for worth poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: worth poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Worth Wining 23.5” X 16.5” Original Video Store Poster Good RARE 1989 Poster"><img src="{{ '/assets/images/marketplace-covers/280910904308af1c5a33.jpg' | relative_url }}" alt="Listing image for Worth Wining 23.5” X 16.5” Original Video Store Poster Good RARE 1989 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Worth Wining 23.5” X 16.5” Original Video Store Poster Good RARE 1989 Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for worth poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: worth poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Worth Wining 23.5” X 16.5” Original Video Store Poster Good RARE 1989 Poster"><img src="{{ '/assets/images/marketplace-covers/280910904308af1c5a33.jpg' | relative_url }}" alt="Listing image for Worth Wining 23.5” X 16.5” Original Video Store Poster Good RARE 1989 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Worth Wining 23.5” X 16.5” Original Video Store Poster Good RARE 1989 Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for worth poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: worth poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="useful-rereading-when-rereading-is-actually-worth-it-increasing-worth-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -569,7 +569,7 @@ Eye-movement research increasingly supports the idea that reading behaviour is a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -589,7 +589,7 @@ Eye-movement research increasingly supports the idea that reading behaviour is a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -621,7 +621,7 @@ Eye-movement research increasingly supports the idea that reading behaviour is a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -673,7 +673,7 @@ Eye-movement research increasingly supports the idea that reading behaviour is a
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -718,7 +718,7 @@ Eye-movement research increasingly supports the idea that reading behaviour is a
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -759,111 +759,111 @@ Eye-movement research increasingly supports the idea that reading behaviour is a
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.3758/s13421-012-0244-y" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13421-012-0244-y</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>eye movements allow rereading - Springer Natureby RW Booth · 2013 · Cited by 133 — These results suggest that readers use regressions to...</p></details>
+   Link:<a href="https://link.springer.com/article/10.3758/s13421-012-0244-y" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13421-012-0244-y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>eye movements allow rereading - Springer Natureby RW Booth · 2013 · Cited by 133 — These results suggest that readers use regressions to...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ila.onlinelibrary.wiley.com  
-   Link: <a href="https://ila.onlinelibrary.wiley.com/doi/full/10.1002/rrq.70023" target="_blank" rel="noopener noreferrer nofollow">https://ila.onlinelibrary.wiley.com/doi/full/10.1002/rrq.70023</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Using Eye Movements From a “Read‐Only” Task to Predict...by DC Mézière · 2025 · Cited by 1 — This suggests that eye movements related...</p></details>
+   Link:<a href="https://ila.onlinelibrary.wiley.com/doi/full/10.1002/rrq.70023" target="_blank" rel="noopener noreferrer nofollow">https://ila.onlinelibrary.wiley.com/doi/full/10.1002/rrq.70023</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Using Eye Movements From a “Read‐Only” Task to Predict...by DC Mézière · 2025 · Cited by 1 — This suggests that eye movements related...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/230658181_The_function_of_regressions_in_reading_Backward_eye_movements_allow_rereading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/230658181_The_function_of_regressions_in_reading_Backward_eye_movements_allow_rereading</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The function of regressions in reading: Backward...These results suggest that readers use regressions to reread words and not to c...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/230658181_The_function_of_regressions_in_reading_Backward_eye_movements_allow_rereading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/230658181_The_function_of_regressions_in_reading_Backward_eye_movements_allow_rereading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The function of regressions in reading: Backward...These results suggest that readers use regressions to reread words and not to c...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) Does speed-reading training work, and if so, why?  
-   Link: <a href="https://www.researchgate.net/publication/367560632_Does_speed-reading_training_work_and_if_so_why_Effects_of_speed-reading_training_and_metacognitive_training_on_reading_speed_comprehension_and_eye_movements" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/367560632_Does_speed-reading_training_work_and_if_so_why_Effects_of_speed-reading_training_and_metacognitive_training_on_reading_speed_comprehension_and_eye_movements</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>January 31, 2023 — 1 Feb 2023 — A study by Klimovich et al. (2023) [reports](&amp;#123;&amp;#123; &#x27;reports/&#x27; | relative_url &amp;#125;&amp;#125;) that the positive effect of speed-reading training is limited...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/367560632_Does_speed-reading_training_work_and_if_so_why_Effects_of_speed-reading_training_and_metacognitive_training_on_reading_speed_comprehension_and_eye_movements" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/367560632_Does_speed-reading_training_work_and_if_so_why_Effects_of_speed-reading_training_and_metacognitive_training_on_reading_speed_comprehension_and_eye_movements</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 31, 2023 — 1 Feb 2023 — A study by Klimovich et al. (2023) [reports](&amp;#123;&amp;#123; &#x27;reports/&#x27; | relative_url &amp;#125;&amp;#125;) that the positive effect of speed-reading training is limited...</p></details>
    Published: January 31, 2023  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
    Title: (PDF) Regressions during Reading  
-   Link: <a href="https://www.researchgate.net/publication/334364752_Regressions_during_Reading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/334364752_Regressions_during_Reading</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 20, 2026 — Three experiments examine the role of previously read text in sentence comprehension and the control of eye movements duri...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/334364752_Regressions_during_Reading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/334364752_Regressions_during_Reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 20, 2026 — Three experiments examine the role of previously read text in sentence comprehension and the control of eye movements duri...</p></details>
    Published: May 20, 2026  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s11251-024-09686-4" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11251-024-09686-4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the effectiveness of multiple text reading and...by P Seban · 2025 · Cited by 10 — The goal of the present study is to investigate the s...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s11251-024-09686-4" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11251-024-09686-4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the effectiveness of multiple text reading and...by P Seban · 2025 · Cited by 10 — The goal of the present study is to investigate the s...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: The function of these "regressions" is still largely unknown  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22886737/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 132 — Standard text reading involves frequent...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22886737/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 132 — Standard text reading involves frequent...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ora.ox.ac.uk  
-   Link: <a href="https://ora.ox.ac.uk/objects/uuid%3Aa16f42e2-529d-47ae-ba51-50b75dd43899/files/rkh04dp70d" target="_blank" rel="noopener noreferrer nofollow">https://ora.ox.ac.uk/objects/uuid%3Aa16f42e2-529d-47ae-ba51-50b75dd43899/files/rkh04dp70d</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ford University Research ArchiveComprehension monitoring during reading: an eye-tracking...by AK Hessel · 2020 · Cited by 50 — We chos...</p></details>
+   Link:<a href="https://ora.ox.ac.uk/objects/uuid%3Aa16f42e2-529d-47ae-ba51-50b75dd43899/files/rkh04dp70d" target="_blank" rel="noopener noreferrer nofollow">https://ora.ox.ac.uk/objects/uuid%3Aa16f42e2-529d-47ae-ba51-50b75dd43899/files/rkh04dp70d</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ford University Research ArchiveComprehension monitoring during reading: an eye-tracking...by AK Hessel · 2020 · Cited by 50 — We chos...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchschool.org.uk  
    Title: beyond the stopwatch why speed isnt the goal of reading  
-   Link: <a href="https://researchschool.org.uk/town-end/news/beyond-the-stopwatch-why-speed-isnt-the-goal-of-reading" target="_blank" rel="noopener noreferrer nofollow">https://researchschool.org.uk/town-end/news/beyond-the-stopwatch-why-speed-isnt-the-goal-of-reading</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Research Schools NetworkBeyond the stopwatch26 Sept 2025 — When reading is too quick, the brain doesn&#x27;t have time to process meaning. But...</p></details>
+   Link:<a href="https://researchschool.org.uk/town-end/news/beyond-the-stopwatch-why-speed-isnt-the-goal-of-reading" target="_blank" rel="noopener noreferrer nofollow">https://researchschool.org.uk/town-end/news/beyond-the-stopwatch-why-speed-isnt-the-goal-of-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Research Schools NetworkBeyond the stopwatch26 Sept 2025 — When reading is too quick, the brain doesn&#x27;t have time to process meaning. But...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12409514/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12409514/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the rereading effect of digital reading through eye...by Y Xu · 2025 — During rereading, students exhibited shorter total reading time...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12409514/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12409514/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the rereading effect of digital reading through eye...by Y Xu · 2025 — During rereading, students exhibited shorter total reading time...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: scirp.org  
-   Link: <a href="https://www.scirp.org/journal/paperinformation?paperid=89391" target="_blank" rel="noopener noreferrer nofollow">https://www.scirp.org/journal/paperinformation?paperid=89391</a>  
+   Link:<a href="https://www.scirp.org/journal/paperinformation?paperid=89391" target="_blank" rel="noopener noreferrer nofollow">https://www.scirp.org/journal/paperinformation?paperid=89391</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: revistas-fonseca.com  
-   Link: <a href="https://revistas-fonseca.com/index.php/2172-9077/article/download/626/624/1337" target="_blank" rel="noopener noreferrer nofollow">https://revistas-fonseca.com/index.php/2172-9077/article/download/626/624/1337</a>  
+   Link:<a href="https://revistas-fonseca.com/index.php/2172-9077/article/download/626/624/1337" target="_blank" rel="noopener noreferrer nofollow">https://revistas-fonseca.com/index.php/2172-9077/article/download/626/624/1337</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: journal.lppmunindra.ac.id  
-   Link: <a href="https://journal.lppmunindra.ac.id/index.php/Deiksis/article/download/463/775" target="_blank" rel="noopener noreferrer nofollow">https://journal.lppmunindra.ac.id/index.php/Deiksis/article/download/463/775</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EFFECTS OF SPEED READING METHOD UPON...by E Martiarini — The aim of the research is to obtain empirical data about the effects of speed...</p></details>
+   Link:<a href="https://journal.lppmunindra.ac.id/index.php/Deiksis/article/download/463/775" target="_blank" rel="noopener noreferrer nofollow">https://journal.lppmunindra.ac.id/index.php/Deiksis/article/download/463/775</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EFFECTS OF SPEED READING METHOD UPON...by E Martiarini — The aim of the research is to obtain empirical data about the effects of speed...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: readlite.in  
-   Link: <a href="https://readlite.in/concepts/regressions-reading" target="_blank" rel="noopener noreferrer nofollow">https://readlite.in/concepts/regressions-reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eye-tracking studies show skilled readers regress regularly — about 10-15% of fixations. What differs is...Read more...</p></details>
+   Link:<a href="https://readlite.in/concepts/regressions-reading" target="_blank" rel="noopener noreferrer nofollow">https://readlite.in/concepts/regressions-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eye-tracking studies show skilled readers regress regularly — about 10-15% of fixations. What differs is...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: education-progress.org  
    Title: GEM Report SCOPEDoes reading speed matter?  
-   Link: <a href="https://www.education-progress.org/focus/24-readingspeed" target="_blank" rel="noopener noreferrer nofollow">https://www.education-progress.org/focus/24-readingspeed</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GEM Report SCOPEA positive correlation between reading speed and reading comprehension at the individual level has been empirically fou...</p></details>
+   Link:<a href="https://www.education-progress.org/focus/24-readingspeed" target="_blank" rel="noopener noreferrer nofollow">https://www.education-progress.org/focus/24-readingspeed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GEM Report SCOPEA positive correlation between reading speed and reading comprehension at the individual level has been empirically fou...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: d-nb.info  
-   Link: <a href="https://d-nb.info/1227301006/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1227301006/34</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Comprehension demands modulate re-reading, but not first...by AF Weiss · Cited by 58 — Abstract: Several studies have examined effects o...</p></details>
+   Link:<a href="https://d-nb.info/1227301006/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1227301006/34</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Comprehension demands modulate re-reading, but not first...by AF Weiss · Cited by 58 — Abstract: Several studies have examined effects o...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5405257" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5405257</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eye Movements in Reading Go from Easy to...by AT Lopes Rego — Our results suggest that readers tend to regress from easy words to diffic...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5405257" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5405257</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eye Movements in Reading Go from Easy to...by AT Lopes Rego — Our results suggest that readers tend to regress from easy words to diffic...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: assets.cambridge.org  
    Title: 9781108415354 excerpt  
-   Link: <a href="https://assets.cambridge.org/97811084/15354/excerpt/9781108415354_excerpt.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.cambridge.org/97811084/15354/excerpt/9781108415354_excerpt.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Introduction to Eye-TrackingIn reading, saccades do not always move the eye forward in a text. About 10–15 per cent of the time, reader...</p></details>
+   Link:<a href="https://assets.cambridge.org/97811084/15354/excerpt/9781108415354_excerpt.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.cambridge.org/97811084/15354/excerpt/9781108415354_excerpt.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1 Introduction to Eye-TrackingIn reading, saccades do not always move the eye forward in a text. About 10–15 per cent of the time, reader...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: shanahanonliteracy.com  
    Title: dont confuse reading comprehension and learning to read rereading  
-   Link: <a href="https://www.shanahanonliteracy.com/blog/dont-confuse-reading-comprehension-and-learning-to-read-rereading" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/dont-confuse-reading-comprehension-and-learning-to-read-rereading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>But even rereading benefits from instructional guidance.Read more...</p></details>
+   Link:<a href="https://www.shanahanonliteracy.com/blog/dont-confuse-reading-comprehension-and-learning-to-read-rereading" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/dont-confuse-reading-comprehension-and-learning-to-read-rereading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>But even rereading benefits from instructional guidance.Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: cognitivetrain.com  
-   Link: <a href="https://cognitivetrain.com/regression-in-reading/" target="_blank" rel="noopener noreferrer nofollow">https://cognitivetrain.com/regression-in-reading/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Regression in Reading: Why Your Eyes Keep Going...Eye-tracking research shows that regressions account for 10-15% of all eye movements d...</p></details>
+   Link:<a href="https://cognitivetrain.com/regression-in-reading/" target="_blank" rel="noopener noreferrer nofollow">https://cognitivetrain.com/regression-in-reading/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Regression in Reading: Why Your Eyes Keep Going...Eye-tracking research shows that regressions account for 10-15% of all eye movements d...</p></details>

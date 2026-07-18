@@ -269,7 +269,7 @@ image: /assets/images/increasing_re_852ca6_rereading_reg_828352_regression_wo_42
 
 ## Introduction
 
-When the goal is increasing reading speed, not every uncertainty deserves a backward glance. One category does: exact details that can change the meaning of everything that follows. Numbers, dates, thresholds, quantities, conditions, exceptions, and rule qualifiers are often difficult to reconstruct accurately from memory. A brief regression to verify them can prevent larger misunderstandings later, making it one of the few forms of rereading that frequently saves time rather than wastes it. Research on [eye movements]({{ 'eye-tradeoff/' | relative_url }}) suggests that [regressions]({{ 'lookbacks/' | relative_url }}) are often used to repair comprehension and reprocess information when the reader detects a specific problem rather than a vague feeling of uncertainty. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">The function of these &quot;regressions&quot; is still largely unknown</span><span class="citation-popover-snippet">The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 132 — Standard text reading involves frequent...</span></span></span>
+When the goal is increasing reading speed, not every uncertainty deserves a backward glance. One category does: exact details that can change the meaning of everything that follows. Numbers, dates, thresholds, quantities, conditions, exceptions, and rule qualifiers are often difficult to reconstruct accurately from memory. A brief regression to verify them can prevent larger misunderstandings later, making it one of the few forms of rereading that frequently saves time rather than wastes it. Research on [eye movements]({{ 'eye-tradeoff/' | relative_url }}) suggests that [regressions]({{ 'lookbacks/' | relative_url }}) are often used to repair comprehension and reprocess information when the reader detects a specific problem rather than a vague feeling of uncertainty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">The function of these &quot;regressions&quot; is still largely unknown</span><span class="citation-popover-snippet">The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 132 — Standard text reading involves frequent...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_rereading_reg_828352_regression_wo_424703_numbers_condi_67e9e6-Illustration-1-dark.svg" | relative_url }}" alt="Numbers Rules illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_rereading_reg_828352_regression_wo_424703_numbers_condi_67e9e6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_rereading_reg_828352_regression_wo_424703_numbers_condi_67e9e6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -279,7 +279,7 @@ Reading comprehension relies heavily on meaning extraction. The brain often reme
 
 A reader may correctly remember that a report mentioned a percentage increase, yet forget whether the figure was 5%, 15%, or 50%. The general idea survives, but the factual content changes dramatically. Likewise, a reader may remember that a rule applied under certain circumstances while forgetting the qualifying condition that limited its scope.
 
-[Eye-tracking]({{ 'eye-tracking/' | relative_url }}) research shows that readers naturally make regressions when incoming information conflicts with their current interpretation or when they need targeted reanalysis of earlier text. These backward eye movements are part of normal comprehension monitoring rather than evidence of poor reading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ora.ox.ac.uk/objects/uuid%3Aa16f42e2-529d-47ae-ba51-50b75dd43899/files/rkh04dp70d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ora.ox.ac.uk">[Oxford University Research Archive+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ora.ox.ac.uk</span><span class="citation-popover-snippet">ford University Research ArchiveComprehension monitoring during reading: an eye-tracking...by AK Hessel · 2020 · Cited by 50 — We chos...</span></span></span>
+[Eye-tracking]({{ 'eye-tracking/' | relative_url }}) research shows that readers naturally make regressions when incoming information conflicts with their current interpretation or when they need targeted reanalysis of earlier text. These backward eye movements are part of normal comprehension monitoring rather than evidence of poor reading.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ora.ox.ac.uk/objects/uuid%3Aa16f42e2-529d-47ae-ba51-50b75dd43899/files/rkh04dp70d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ora.ox.ac.uk">[Oxford University Research Archive+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ora.ox.ac.uk</span><span class="citation-popover-snippet">ford University Research ArchiveComprehension monitoring during reading: an eye-tracking...by AK Hessel · 2020 · Cited by 50 — We chos...</span></span></span>
 
 For speed-focused reading, this distinction matters. Looking back because you cannot remember whether a quantity was 1.5 million or 15 million is different from looking back because you feel slightly unsure.
 
@@ -311,7 +311,7 @@ Consider the difference between:
 
 The narrative sounds similar, but the practical significance changes completely.
 
-The same principle applies to dates. If a report refers to events occurring before or after a regulatory change, misremembering the year can invert the causal story. In [technical]({{ 'technical-texts/' | relative_url }}) and administrative documents, even a single digit can alter the meaning of instructions, compliance requirements, or eligibility criteria. Government testing and examination guidance routinely emphasises exact procedural requirements because small deviations can invalidate a process. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/key-stage-2-tests-test-administration-guidance-tag/key-stage-2-test-administration-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">2026 key stage 2 test administration guidanceMarch 11, 2024 — 30 Apr 2026 — This guidance is for schools administering the 2026 key stage...</span><span class="citation-popover-meta">Published: March 11, 2024</span></span></span>
+The same principle applies to dates. If a report refers to events occurring before or after a regulatory change, misremembering the year can invert the causal story. In [technical]({{ 'technical-texts/' | relative_url }}) and administrative documents, even a single digit can alter the meaning of instructions, compliance requirements, or eligibility criteria. Government testing and examination guidance routinely emphasises exact procedural requirements because small deviations can invalidate a process.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/key-stage-2-tests-test-administration-guidance-tag/key-stage-2-test-administration-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">2026 key stage 2 test administration guidanceMarch 11, 2024 — 30 Apr 2026 — This guidance is for schools administering the 2026 key stage...</span><span class="citation-popover-meta">Published: March 11, 2024</span></span></span>
 
 A useful question is:
 
@@ -347,7 +347,7 @@ These [phrases]({{ 'phrases/' | relative_url }}) determine where a statement app
 
 A common reading error occurs when the reader retains the rule but loses the exception. For example, a policy may appear universal until a later sentence reveals that it applies only under specific circumstances. If that condition is forgotten, subsequent paragraphs can seem contradictory even when they are internally consistent.
 
-Research on comprehension monitoring shows that readers often revisit earlier text when new information exposes a mismatch between their interpretation and the actual wording. The regression serves as a repair mechanism, helping the reader update the mental model of the text. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ora.ox.ac.uk/objects/uuid%3Aa16f42e2-529d-47ae-ba51-50b75dd43899/files/rkh04dp70d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ora.ox.ac.uk">[Oxford University Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ora.ox.ac.uk</span><span class="citation-popover-snippet">ford University Research ArchiveComprehension monitoring during reading: an eye-tracking...by AK Hessel · 2020 · Cited by 50 — We chos...</span></span></span>
+Research on comprehension monitoring shows that readers often revisit earlier text when new information exposes a mismatch between their interpretation and the actual wording. The regression serves as a repair mechanism, helping the reader update the mental model of the text.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ora.ox.ac.uk/objects/uuid%3Aa16f42e2-529d-47ae-ba51-50b75dd43899/files/rkh04dp70d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ora.ox.ac.uk">[Oxford University Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ora.ox.ac.uk</span><span class="citation-popover-snippet">ford University Research ArchiveComprehension monitoring during reading: an eye-tracking...by AK Hessel · 2020 · Cited by 50 — We chos...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_rereading_reg_828352_regression_wo_424703_numbers_condi_67e9e6-Illustration-2-dark.svg" | relative_url }}" alt="Numbers Rules illustration 2" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_rereading_reg_828352_regression_wo_424703_numbers_condi_67e9e6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_rereading_reg_828352_regression_wo_424703_numbers_condi_67e9e6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -391,7 +391,7 @@ Examples include:
 
 </div>
 
-Data-entry research identifies transcription and transposition errors as common sources of mistakes when handling numerical information, illustrating how easily exact figures can be distorted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://teachcomputerscience.com/data-verification/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: teachcomputerscience.com">[Teach Computer Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">teachcomputerscience.com</span><span class="citation-popover-title">Teach Computer Science Data Verification &#124; Methods</span><span class="citation-popover-snippet">Verification &amp; ErrorsAugust 13, 2019 — There are a few kinds of standard errors that are often experienced when doing data entry. Click h...</span><span class="citation-popover-meta">Published: August 13, 2019</span></span></span>
+Data-entry research identifies transcription and transposition errors as common sources of mistakes when handling numerical information, illustrating how easily exact figures can be distorted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://teachcomputerscience.com/data-verification/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: teachcomputerscience.com">[Teach Computer Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">teachcomputerscience.com</span><span class="citation-popover-title">Teach Computer Science Data Verification &#124; Methods</span><span class="citation-popover-snippet">Verification &amp; ErrorsAugust 13, 2019 — There are a few kinds of standard errors that are often experienced when doing data entry. Click h...</span><span class="citation-popover-meta">Published: August 13, 2019</span></span></span>
 
 ### Exceptions to General Rules
 
@@ -416,7 +416,7 @@ For example:
 
 </div>
 
-In procedural documents, overlooking these qualifiers can create errors that are more costly than the few seconds required to verify them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/key-stage-2-tests-test-administration-guidance-tag/key-stage-2-test-administration-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">2026 key stage 2 test administration guidanceMarch 11, 2024 — 30 Apr 2026 — This guidance is for schools administering the 2026 key stage...</span><span class="citation-popover-meta">Published: March 11, 2024</span></span></span>
+In procedural documents, overlooking these qualifiers can create errors that are more costly than the few seconds required to verify them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/key-stage-2-tests-test-administration-guidance-tag/key-stage-2-test-administration-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">2026 key stage 2 test administration guidanceMarch 11, 2024 — 30 Apr 2026 — This guidance is for schools administering the 2026 key stage...</span><span class="citation-popover-meta">Published: March 11, 2024</span></span></span>
 
 ## A Fast Verification Strategy
 
@@ -440,7 +440,7 @@ If all three answers are yes, a targeted regression is usually efficient.
 
 If you cannot identify the missing detail, the urge is more likely to be reassurance-seeking than comprehension repair.
 
-Eye-movement studies suggest that effective regressions are often targeted and purposeful rather than broad rereading of large text sections. Most regressions are relatively local, returning to nearby words or phrases that are directly relevant to resolving uncertainty. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2411-5150/3/3/35" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Several findings indicate that the...Read more...</span></span></span>
+Eye-movement studies suggest that effective regressions are often targeted and purposeful rather than broad rereading of large text sections. Most regressions are relatively local, returning to nearby words or phrases that are directly relevant to resolving uncertainty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2411-5150/3/3/35" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Several findings indicate that the...Read more...</span></span></span>
 
 ## The Reading-Speed Trade-Off
 
@@ -451,159 +451,159 @@ A two-second glance to verify a critical number can prevent several minutes of c
 For [increasing]({{ 'increasing/' | relative_url }}) reading speed, the key distinction is not between rereading and never rereading. It is between checking information that changes meaning and checking information that merely triggers uncertainty. Numbers, thresholds, conditions, and exceptions belong to the first category. When they are central to the text's logic, a quick verification is often one of the most efficient regressions a reader can make.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Numbers and Exceptions Deserve a Second Look. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Numbers and Exceptions Deserve a Second Look. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Emphasises careful attention to key details, qualifications, and argument structure.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Emphasises careful attention to key details, qualifications, and argument structure.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-        </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+</h4>
+<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Explains why precise details and retrieval matter for accurate understanding.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why precise details and retrieval matter for accurate understanding.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+art+of+thinking+clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The art of thinking clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8270423-M.jpg" alt="Cover for The art of thinking clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+art+of+thinking+clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The art of thinking clearly">The art of thinking clearly</a>
-        </h4>
-        <p class="fr-book-author">By Rolf Dobelli, Rolf Dobelli</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+art+of+thinking+clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The art of thinking clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8270423-M.jpg" alt="Cover for The art of thinking clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+art+of+thinking+clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The art of thinking clearly">The art of thinking clearly</a>
+</h4>
+<p class="fr-book-author">By Rolf Dobelli, Rolf Dobelli</p>
         
-        <p class="fr-book-desc">First published 2013. Subjects: nonfiction, psychology, Errors, Développement d&#x27;aptitudes, Prise de décision (Relations humaines).</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+art+of+thinking+clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2013. Subjects: nonfiction, psychology, Errors, Développement d&#x27;aptitudes, Prise de décision (Relations humaines).</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+art+of+thinking+clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Only+Skill+that+Matters+Jonathan+A.+Levi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Only Skill that Matters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/15160962-M.jpg" alt="Cover for The Only Skill that Matters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Only+Skill+that+Matters+Jonathan+A.+Levi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Only Skill that Matters">The Only Skill that Matters</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan A. Levi</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Only+Skill+that+Matters+Jonathan+A.+Levi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Only Skill that Matters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/15160962-M.jpg" alt="Cover for The Only Skill that Matters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Only+Skill+that+Matters+Jonathan+A.+Levi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Only Skill that Matters">The Only Skill that Matters</a>
+</h4>
+<p class="fr-book-author">By Jonathan A. Levi</p>
         
-        <p class="fr-book-desc">First published 2019.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Only+Skill+that+Matters+Jonathan+A.+Levi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2019.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Only+Skill+that+Matters+Jonathan+A.+Levi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+art+of+thinking+clearly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The art of thinking clearly</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+art+of+thinking+clearly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The art of thinking clearly</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6235565/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6235565/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by JR Folk · 2018 · Cited by 9 — The current research provides a method for distinguishing between two different types of regressive e...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6235565/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6235565/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by JR Folk · 2018 · Cited by 9 — The current research provides a method for distinguishing between two different types of regressive e...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2411-5150/3/3/35" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2411-5150/3/3/35</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Several findings indicate that the...Read more...</p></details>
+   Link:<a href="https://www.mdpi.com/2411-5150/3/3/35" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2411-5150/3/3/35</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Several findings indicate that the...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/publications/key-stage-2-tests-test-administration-guidance-tag/key-stage-2-test-administration-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/key-stage-2-tests-test-administration-guidance-tag/key-stage-2-test-administration-guidance</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2026 key stage 2 test administration guidanceMarch 11, 2024 — 30 Apr 2026 — This guidance is for schools administering the 2026 key stage...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/key-stage-2-tests-test-administration-guidance-tag/key-stage-2-test-administration-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/key-stage-2-tests-test-administration-guidance-tag/key-stage-2-test-administration-guidance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2026 key stage 2 test administration guidanceMarch 11, 2024 — 30 Apr 2026 — This guidance is for schools administering the 2026 key stage...</p></details>
    Published: March 11, 2024  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: The function of these "regressions" is still largely unknown  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22886737/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 132 — Standard text reading involves frequent...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22886737/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 132 — Standard text reading involves frequent...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ora.ox.ac.uk  
-   Link: <a href="https://ora.ox.ac.uk/objects/uuid%3Aa16f42e2-529d-47ae-ba51-50b75dd43899/files/rkh04dp70d" target="_blank" rel="noopener noreferrer nofollow">https://ora.ox.ac.uk/objects/uuid%3Aa16f42e2-529d-47ae-ba51-50b75dd43899/files/rkh04dp70d</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ford University Research ArchiveComprehension monitoring during reading: an eye-tracking...by AK Hessel · 2020 · Cited by 50 — We chos...</p></details>
+   Link:<a href="https://ora.ox.ac.uk/objects/uuid%3Aa16f42e2-529d-47ae-ba51-50b75dd43899/files/rkh04dp70d" target="_blank" rel="noopener noreferrer nofollow">https://ora.ox.ac.uk/objects/uuid%3Aa16f42e2-529d-47ae-ba51-50b75dd43899/files/rkh04dp70d</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ford University Research ArchiveComprehension monitoring during reading: an eye-tracking...by AK Hessel · 2020 · Cited by 50 — We chos...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: teachcomputerscience.com  
    Title: Teach Computer Science Data Verification | Methods  
-   Link: <a href="https://teachcomputerscience.com/data-verification/" target="_blank" rel="noopener noreferrer nofollow">https://teachcomputerscience.com/data-verification/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Verification &amp; ErrorsAugust 13, 2019 — There are a few kinds of standard errors that are often experienced when doing data entry. Click h...</p></details>
+   Link:<a href="https://teachcomputerscience.com/data-verification/" target="_blank" rel="noopener noreferrer nofollow">https://teachcomputerscience.com/data-verification/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Verification &amp; ErrorsAugust 13, 2019 — There are a few kinds of standard errors that are often experienced when doing data entry. Click h...</p></details>
    Published: August 13, 2019  
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: jcq.org.uk  
    Title: intructions for conducting examinations  
-   Link: <a href="https://www.jcq.org.uk/[knowledge" target="_blank" rel="noopener noreferrer nofollow">https://www.jcq.org.uk/[knowledge</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Joint Council for QualificationsInstructions for Conducting Examinations (ICE)Key changes for 2025–26 This document now covers Cambridge...</p></details>
+   Link:<a href="https://www.jcq.org.uk/[knowledge" target="_blank" rel="noopener noreferrer nofollow">https://www.jcq.org.uk/[knowledge</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Joint Council for QualificationsInstructions for Conducting Examinations (ICE)Key changes for 2025–26 This document now covers Cambridge...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: Professor Denis Drieghe | Inaugural Lecture Series | University of Southampton  
-   Link: <a href="https://www.youtube.com/watch?v=QA1_8Ma88XE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QA1_8Ma88XE</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Brain&#x27;s Challenge: Processing: What Eye Movements During Reading Reveal About Processing Speed...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=QA1_8Ma88XE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QA1_8Ma88XE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Brain&#x27;s Challenge: Processing: What Eye Movements During Reading Reveal About Processing Speed...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: How do FLUENT readers move their EYES? vs. Struggling/Beginner/Dyslexic Readers  
-   Link: <a href="https://www.youtube.com/watch?v=d7jzeZCYMLw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d7jzeZCYMLw</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Keith Rayner - What Eye Movements Tell Us About the Processing Involved In Reading...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=d7jzeZCYMLw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d7jzeZCYMLw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Keith Rayner - What Eye Movements Tell Us About the Processing Involved In Reading...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=zQmf5TkJrJ8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zQmf5TkJrJ8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Become a Speed Reader in 10 Minutes...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=zQmf5TkJrJ8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zQmf5TkJrJ8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Become a Speed Reader in 10 Minutes...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: assets.cambridge.org  
    Title: Chapter 1  
-   Link: <a href="https://assets.cambridge.org/97811084/15354/excerpt/9781108415354_excerpt.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.cambridge.org/97811084/15354/excerpt/9781108415354_excerpt.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>About 10–15 per cent of the time, readers move their eyes back (regress) to previously...Read more...</p></details>
+   Link:<a href="https://assets.cambridge.org/97811084/15354/excerpt/9781108415354_excerpt.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.cambridge.org/97811084/15354/excerpt/9781108415354_excerpt.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>About 10–15 per cent of the time, readers move their eyes back (regress) to previously...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Become a Speed Reader in 10 Minutes  
-   Link: <a href="https://www.youtube.com/watch?v=KUpLxO7wJU4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KUpLxO7wJU4</a>  
+   Link:<a href="https://www.youtube.com/watch?v=KUpLxO7wJU4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KUpLxO7wJU4</a>  

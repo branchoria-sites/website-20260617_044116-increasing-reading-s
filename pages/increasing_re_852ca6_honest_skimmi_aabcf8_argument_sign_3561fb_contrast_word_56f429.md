@@ -269,7 +269,7 @@ image: /assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_argument_sign_35
 
 ## Introduction
 
-When people try to increase reading speed, they often preserve the topic of a passage while losing the author's actual position. One of the main reasons is that contrast words such as *however*, *although*, *yet*, *despite* and *nevertheless* are easy to skip even though they frequently signal a change in the argument. These words tell readers that an earlier statement is about to be limited, qualified, challenged or reinterpreted. Linguists describe them as discourse markers or connectives because they help readers understand how ideas relate to one another. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://warwick.ac.uk/fac/soc/al/globalpad-rip/openhouse/academicenglishskills/grammar/discourse/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: warwick.ac.uk">[University of Warwick]</a><span class="citation-popover" role="note"><span class="citation-popover-source">warwick.ac.uk</span><span class="citation-popover-snippet">University of WarwickDiscourse MarkersJul 15, 2020 — Discourse markers (words like &#x27;however&#x27;, &#x27;although&#x27; and &#x27;Nevertheless&#x27;) are referred...</span></span></span>
+When people try to increase reading speed, they often preserve the topic of a passage while losing the author's actual position. One of the main reasons is that contrast words such as *however*, *although*, *yet*, *despite* and *nevertheless* are easy to skip even though they frequently signal a change in the argument. These words tell readers that an earlier statement is about to be limited, qualified, challenged or reinterpreted. Linguists describe them as discourse markers or connectives because they help readers understand how ideas relate to one another.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://warwick.ac.uk/fac/soc/al/globalpad-rip/openhouse/academicenglishskills/grammar/discourse/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: warwick.ac.uk">[University of Warwick]</a><span class="citation-popover" role="note"><span class="citation-popover-source">warwick.ac.uk</span><span class="citation-popover-snippet">University of WarwickDiscourse MarkersJul 15, 2020 — Discourse markers (words like &#x27;however&#x27;, &#x27;although&#x27; and &#x27;Nevertheless&#x27;) are referred...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_argument_sign_3561fb_contrast_word_56f429-Illustration-1-dark.svg" | relative_url }}" alt="Contrast words illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_argument_sign_3561fb_contrast_word_56f429-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_argument_sign_3561fb_contrast_word_56f429-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -289,7 +289,7 @@ A rushed reader may remember:
 
 The contrast marker changes the takeaway. The first clause introduces a result; the second clause limits its importance. Without the second clause, the claim sounds stronger and more durable than the evidence supports.
 
-Research on discourse relations shows that connectives such as *however*, *but* and *although* explicitly signal relationships between ideas and guide interpretation. Readers use them to recognise contrast, concession and revision within a text. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sfu.ca/~mtaboada/docs/publications/Taboada_Gomez-Gonzalez_LHS_2012.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sfu.ca">[Simon Fraser University+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sfu.ca</span><span class="citation-popover-title">Taboada Gomez Gonzalez LHS 2012</span><span class="citation-popover-snippet">The only example of a marker positioned in the middle in English is although. In...Read more...</span></span></span>
+Research on discourse relations shows that connectives such as *however*, *but* and *although* explicitly signal relationships between ideas and guide interpretation. Readers use them to recognise contrast, concession and revision within a text.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sfu.ca/~mtaboada/docs/publications/Taboada_Gomez-Gonzalez_LHS_2012.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sfu.ca">[Simon Fraser University+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sfu.ca</span><span class="citation-popover-title">Taboada Gomez Gonzalez LHS 2012</span><span class="citation-popover-snippet">The only example of a marker positioned in the middle in English is although. In...Read more...</span></span></span>
 
 The practical consequence is simple: when a contrast word appears, the sentence that follows often carries more interpretive weight than the sentence that came before it.
 
@@ -297,7 +297,7 @@ The practical consequence is simple: when a contrast word appears, the sentence 
 
 [Speed reading]({{ 'myths/' | relative_url }}) usually relies on selective attention. Readers sample headings, topic sentences and key nouns while skipping less visually prominent words. Yet contrast markers are among the most information-dense words in a paragraph.
 
-Educational guidance on discourse markers consistently describes them as signals that organise meaning and help readers follow relationships between ideas. More complex markers are also more likely to be overlooked by weaker or hurried readers even though they can be crucial for comprehension. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://warwick.ac.uk/fac/soc/al/globalpad-rip/openhouse/academicenglishskills/grammar/discourse/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: warwick.ac.uk">[University of Warwick+2vocabulary-matters.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">warwick.ac.uk</span><span class="citation-popover-snippet">University of WarwickDiscourse MarkersJul 15, 2020 — Discourse markers (words like &#x27;however&#x27;, &#x27;although&#x27; and &#x27;Nevertheless&#x27;) are referred...</span></span></span>
+Educational guidance on discourse markers consistently describes them as signals that organise meaning and help readers follow relationships between ideas. More complex markers are also more likely to be overlooked by weaker or hurried readers even though they can be crucial for comprehension.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://warwick.ac.uk/fac/soc/al/globalpad-rip/openhouse/academicenglishskills/grammar/discourse/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: warwick.ac.uk">[University of Warwick+2vocabulary-matters.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">warwick.ac.uk</span><span class="citation-popover-snippet">University of WarwickDiscourse MarkersJul 15, 2020 — Discourse markers (words like &#x27;however&#x27;, &#x27;although&#x27; and &#x27;Nevertheless&#x27;) are referred...</span></span></span>
 
 When [skimming]({{ 'skimming/' | relative_url }}), contrast markers deserve a brief slowdown because they often indicate one of three moves:
 
@@ -342,7 +342,7 @@ Now the remembered claim should become:
 
 The important point is that the final interpretation combines both pieces of information. Readers who remember only the first statement usually retain an exaggerated version of the argument.
 
-This pattern appears frequently in research papers, reviews, policy [reports]({{ 'reports/' | relative_url }}) and analytical journalism because authors often present evidence and then immediately discuss its limits. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://warwick.ac.uk/fac/soc/al/globalpad-rip/openhouse/academicenglishskills/grammar/discourse/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: warwick.ac.uk">[University of Warwick]</a><span class="citation-popover" role="note"><span class="citation-popover-source">warwick.ac.uk</span><span class="citation-popover-snippet">University of WarwickDiscourse MarkersJul 15, 2020 — Discourse markers (words like &#x27;however&#x27;, &#x27;although&#x27; and &#x27;Nevertheless&#x27;) are referred...</span></span></span>
+This pattern appears frequently in research papers, reviews, policy [reports]({{ 'reports/' | relative_url }}) and analytical journalism because authors often present evidence and then immediately discuss its limits.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://warwick.ac.uk/fac/soc/al/globalpad-rip/openhouse/academicenglishskills/grammar/discourse/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: warwick.ac.uk">[University of Warwick]</a><span class="citation-popover" role="note"><span class="citation-popover-source">warwick.ac.uk</span><span class="citation-popover-snippet">University of WarwickDiscourse MarkersJul 15, 2020 — Discourse markers (words like &#x27;however&#x27;, &#x27;although&#x27; and &#x27;Nevertheless&#x27;) are referred...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_argument_sign_3561fb_contrast_word_56f429-Illustration-2-dark.svg" | relative_url }}" alt="Contrast words illustration 2" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_argument_sign_3561fb_contrast_word_56f429-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_argument_sign_3561fb_contrast_word_56f429-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -410,7 +410,7 @@ This creates a predictable distortion:
 
 The result is not complete misunderstanding. The reader usually remembers what the text was about. The problem is that they remember a stronger claim than the author intended.
 
-This risk becomes greater during skimming because skimming is designed to sample information rather than process every sentence in depth. Studies of skimming describe it as a rapid, selective reading process in which many words are skipped. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://discovery.ucl.ac.uk/10019882/1/RODGERS%2C%20J.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.ucl.ac.uk">[UCL Discovery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.ucl.ac.uk</span><span class="citation-popover-title">RODGERS, J</span><span class="citation-popover-snippet">UCL DiscoveryJOHN MARTYN HENRY RODGERSAugust 14, 2015 — Finally any definition of skimming must include the notion that it is fast readin...</span><span class="citation-popover-meta">Published: August 14, 2015</span></span></span>
+This risk becomes greater during skimming because skimming is designed to sample information rather than process every sentence in depth. Studies of skimming describe it as a rapid, selective reading process in which many words are skipped.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://discovery.ucl.ac.uk/10019882/1/RODGERS%2C%20J.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.ucl.ac.uk">[UCL Discovery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.ucl.ac.uk</span><span class="citation-popover-title">RODGERS, J</span><span class="citation-popover-snippet">UCL DiscoveryJOHN MARTYN HENRY RODGERSAugust 14, 2015 — Finally any definition of skimming must include the notion that it is fast readin...</span><span class="citation-popover-meta">Published: August 14, 2015</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/r2-rfHs-jh0" title="Although, Though, Even Though [Advanced English Vocabulary]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=r2-rfHs-jh0" target="_blank" rel="noopener noreferrer">Although, Though, Even Though [Advanced English Vocabulary]</a></p><p class="youtube-embed-meta">Channel: JForrest English</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=r2-rfHs-jh0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=r2-rfHs-jh0">Open on YouTube</a></p></div></div></div>
@@ -424,13 +424,13 @@ When you see words such as:
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
-* however <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/228823015_Comprehension_of_Discourse_Markers_and_Reading_Comprehension" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">PDF) Comprehension of Discourse Markers and Reading...5 Dec 2025 — According to many research findings, the presence of discourse marke...</span></span></span>
+* however<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/228823015_Comprehension_of_Discourse_Markers_and_Reading_Comprehension" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">PDF) Comprehension of Discourse Markers and Reading...5 Dec 2025 — According to many research findings, the presence of discourse marke...</span></span></span>
 * although
 * but
 * yet
 * nevertheless
 * despite
-* on the other hand <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=YMy843_crFc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Stop Using However, In Contrast, On the Other Hand WrongThis is the second lesson on contrastive discourse markers (CDM). In this previou...</span></span></span>
+* on the other hand<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=YMy843_crFc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Stop Using However, In Contrast, On the Other Hand WrongThis is the second lesson on contrastive discourse markers (CDM). In this previou...</span></span></span>
 * in contrast
 
 </div>
@@ -451,204 +451,204 @@ This habit adds only a few seconds to a reading pass, yet it protects one of the
 In many texts, the most accurate summary is not the sentence before *however* or the sentence after it. It is the tension between the two. Recognising that tension is often the difference between merely reading faster and understanding what the author actually meant.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The small word that flips the argument. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The small word that flips the argument. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Critical Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Xg4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Critical Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Critical Thinking">Critical Thinking</a>
-        </h4>
-        <p class="fr-book-author">By Tom Chatfield</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Critical Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Xg4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Critical Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Critical Thinking">Critical Thinking</a>
+</h4>
+<p class="fr-book-author">By Tom Chatfield</p>
         
-        <p class="fr-book-desc">Helps identify how claims are qualified or challenged.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps identify how claims are qualified or challenged.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Supports careful interpretation of author intent and structure.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Supports careful interpretation of author intent and structure.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thank+You+for+Arguing+Jay+Heinrichs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thank You for Arguing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/167966-M.jpg" alt="Cover for Thank You for Arguing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thank+You+for+Arguing+Jay+Heinrichs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thank You for Arguing">Thank You for Arguing</a>
-        </h4>
-        <p class="fr-book-author">By Jay Heinrichs</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thank+You+for+Arguing+Jay+Heinrichs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thank You for Arguing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/167966-M.jpg" alt="Cover for Thank You for Arguing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thank+You+for+Arguing+Jay+Heinrichs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thank You for Arguing">Thank You for Arguing</a>
+</h4>
+<p class="fr-book-author">By Jay Heinrichs</p>
         
-        <p class="fr-book-desc">First published 2007. Subjects: Debates and debating, Language Arts, Self-Improvement, Persuasion (Rhetoric), Nonfiction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thank+You+for+Arguing+Jay+Heinrichs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2007. Subjects: Debates and debating, Language Arts, Self-Improvement, Persuasion (Rhetoric), Nonfiction.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thank+You+for+Arguing+Jay+Heinrichs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=%22They+Say+%2F+I+Say%22+Gerald+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open &quot;They Say / I Say&quot; on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8274551-M.jpg" alt="Cover for &quot;They Say / I Say&quot;" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=%22They+Say+%2F+I+Say%22+Gerald+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="&quot;They Say / I Say&quot;">&quot;They Say / I Say&quot;</a>
-        </h4>
-        <p class="fr-book-author">By Gerald Graff, Cathy Birkenstein</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=%22They+Say+%2F+I+Say%22+Gerald+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open &quot;They Say / I Say&quot; on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8274551-M.jpg" alt="Cover for &quot;They Say / I Say&quot;" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=%22They+Say+%2F+I+Say%22+Gerald+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="&quot;They Say / I Say&quot;">&quot;They Say / I Say&quot;</a>
+</h4>
+<p class="fr-book-author">By Gerald Graff, Cathy Birkenstein</p>
         
-        <p class="fr-book-desc">First published 2005. Subjects: Handbooks, manuals, Report writing, Rhetoric, English language, Persuasion (Rhetoric).</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=%22They+Say+%2F+I+Say%22+Gerald+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2005. Subjects: Handbooks, manuals, Report writing, Rhetoric, English language, Persuasion (Rhetoric).</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=%22They+Say+%2F+I+Say%22+Gerald+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Critical+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thank+You+for+Arguing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thank You for Arguing</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Critical+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thank+You+for+Arguing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thank You for Arguing</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/222580840_Discourse_markers_as_signals_or_not_of_rhetorical_relations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/222580840_Discourse_markers_as_signals_or_not_of_rhetorical_relations</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Discourse markers as signals (or not) of rhetorical relationsOne proposal is based on the discourse markers (connectives) signalling the...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/222580840_Discourse_markers_as_signals_or_not_of_rhetorical_relations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/222580840_Discourse_markers_as_signals_or_not_of_rhetorical_relations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Discourse markers as signals (or not) of rhetorical relationsOne proposal is based on the discourse markers (connectives) signalling the...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: [vocabulary](&#123;&#123; 'knowledge/' | relative_url &#125;&#125;)-matters.org  
-   Link: <a href="https://www.vocabulary-matters.org/discourse-markers" target="_blank" rel="noopener noreferrer nofollow">https://www.vocabulary-matters.org/discourse-markers</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Discourse MarkersThere are a lot of markers in texts that signal organization, such as first, in conclusion, or although. These are known...</p></details>
+   Link:<a href="https://www.vocabulary-matters.org/discourse-markers" target="_blank" rel="noopener noreferrer nofollow">https://www.vocabulary-matters.org/discourse-markers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Discourse MarkersThere are a lot of markers in texts that signal organization, such as first, in conclusion, or although. These are known...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/267710658_Discourse_Markers_and_Reading_Comprehension_Is_there_an_effect" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/267710658_Discourse_Markers_and_Reading_Comprehension_Is_there_an_effect</a>  
+   Link:<a href="https://www.researchgate.net/publication/267710658_Discourse_Markers_and_Reading_Comprehension_Is_there_an_effect" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/267710658_Discourse_Markers_and_Reading_Comprehension_Is_there_an_effect</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/228823015_Comprehension_of_Discourse_Markers_and_Reading_Comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228823015_Comprehension_of_Discourse_Markers_and_Reading_Comprehension</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Comprehension of Discourse Markers and Reading...5 Dec 2025 — According to many research findings, the presence of discourse marke...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/228823015_Comprehension_of_Discourse_Markers_and_Reading_Comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228823015_Comprehension_of_Discourse_Markers_and_Reading_Comprehension</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Comprehension of Discourse Markers and Reading...5 Dec 2025 — According to many research findings, the presence of discourse marke...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
    Title: but and although. I'm wondering if you consider "although" a contrastive  
-   Link: <a href="https://www.researchgate.net/post/Contrastive_and_concessive_discourse_markers" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/post/Contrastive_and_concessive_discourse_markers</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Contrastive and concessive discourse markers31 Jul 2011 — I&#x27;m doing a research on the use of contrastive and concession discourse markers...</p></details>
+   Link:<a href="https://www.researchgate.net/post/Contrastive_and_concessive_discourse_markers" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/post/Contrastive_and_concessive_discourse_markers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Contrastive and concessive discourse markers31 Jul 2011 — I&#x27;m doing a research on the use of contrastive and concession discourse markers...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: warwick.ac.uk  
-   Link: <a href="https://warwick.ac.uk/fac/soc/al/globalpad-rip/openhouse/academicenglishskills/grammar/discourse/" target="_blank" rel="noopener noreferrer nofollow">https://warwick.ac.uk/fac/soc/al/globalpad-rip/openhouse/academicenglishskills/grammar/discourse/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>University of WarwickDiscourse MarkersJul 15, 2020 — Discourse markers (words like &#x27;however&#x27;, &#x27;although&#x27; and &#x27;Nevertheless&#x27;) are referred...</p></details>
+   Link:<a href="https://warwick.ac.uk/fac/soc/al/globalpad-rip/openhouse/academicenglishskills/grammar/discourse/" target="_blank" rel="noopener noreferrer nofollow">https://warwick.ac.uk/fac/soc/al/globalpad-rip/openhouse/academicenglishskills/grammar/discourse/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of WarwickDiscourse MarkersJul 15, 2020 — Discourse markers (words like &#x27;however&#x27;, &#x27;although&#x27; and &#x27;Nevertheless&#x27;) are referred...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sfu.ca  
    Title: Taboada Gomez Gonzalez LHS 2012  
-   Link: <a href="https://www.sfu.ca/~mtaboada/docs/publications/Taboada_Gomez-Gonzalez_LHS_2012.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sfu.ca/~mtaboada/docs/publications/Taboada_Gomez-Gonzalez_LHS_2012.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The only example of a marker positioned in the middle in English is although. In...Read more...</p></details>
+   Link:<a href="https://www.sfu.ca/~mtaboada/docs/publications/Taboada_Gomez-Gonzalez_LHS_2012.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sfu.ca/~mtaboada/docs/publications/Taboada_Gomez-Gonzalez_LHS_2012.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The only example of a marker positioned in the middle in English is although. In...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: discovery.ucl.ac.uk  
    Title: RODGERS, J  
-   Link: <a href="https://discovery.ucl.ac.uk/10019882/1/RODGERS%2C%20J.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/10019882/1/RODGERS%2C%20J.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UCL DiscoveryJOHN MARTYN HENRY RODGERSAugust 14, 2015 — Finally any definition of skimming must include the notion that it is fast readin...</p></details>
+   Link:<a href="https://discovery.ucl.ac.uk/10019882/1/RODGERS%2C%20J.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/10019882/1/RODGERS%2C%20J.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UCL DiscoveryJOHN MARTYN HENRY RODGERSAugust 14, 2015 — Finally any definition of skimming must include the notion that it is fast readin...</p></details>
    Published: August 14, 2015  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: subjectguides.york.ac.uk  
-   Link: <a href="https://subjectguides.york.ac.uk/critical/reading" target="_blank" rel="noopener noreferrer nofollow">https://subjectguides.york.ac.uk/critical/reading</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>reading - Being critical: a practical guide16 Apr 2026 — We might apply skimming techniques to look through the text quickly and get the...</p></details>
+   Link:<a href="https://subjectguides.york.ac.uk/critical/reading" target="_blank" rel="noopener noreferrer nofollow">https://subjectguides.york.ac.uk/critical/reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>reading - Being critical: a practical guide16 Apr 2026 — We might apply skimming techniques to look through the text quickly and get the...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pdfs.semanticscholar.org  
-   Link: <a href="https://pdfs.semanticscholar.org/007e/668301706bb80c4248818d0ee4fc09a08ebf.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pdfs.semanticscholar.org/007e/668301706bb80c4248818d0ee4fc09a08ebf.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Discourse Markers and Reading...by M Khatib · 2011 · Cited by 33 — According to many research findings, the presence of discourse mar...</p></details>
+   Link:<a href="https://pdfs.semanticscholar.org/007e/668301706bb80c4248818d0ee4fc09a08ebf.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pdfs.semanticscholar.org/007e/668301706bb80c4248818d0ee4fc09a08ebf.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Discourse Markers and Reading...by M Khatib · 2011 · Cited by 33 — According to many research findings, the presence of discourse mar...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: However, vocabulary is often encountered in context  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9285746/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9285746/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Learning During Reading: Benefits of Contextual...by GSE van den Broek · 2022 · Cited by 32 — Retrieval [practice](&amp;#123;&amp;#123; &#x27;practice/&#x27; | relative_url &amp;#125;&amp;#125;) of isolated words (e.g...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9285746/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9285746/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Learning During Reading: Benefits of Contextual...by GSE van den Broek · 2022 · Cited by 32 — Retrieval [practice](&amp;#123;&amp;#123; &#x27;practice/&#x27; | relative_url &amp;#125;&amp;#125;) of isolated words (e.g...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/54019632/Contrastive_Markers_in_Contrast" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/54019632/Contrastive_Markers_in_Contrast</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Contrastive Markers in ContrastContrastive markers are one of the richest groups of discourse markers in Romance languages. There a...</p></details>
+   Link:<a href="https://www.academia.edu/54019632/Contrastive_Markers_in_Contrast" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/54019632/Contrastive_Markers_in_Contrast</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Contrastive Markers in ContrastContrastive markers are one of the richest groups of discourse markers in Romance languages. There a...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: tmhs.co.uk  
-   Link: <a href="https://www.tmhs.co.uk/seecmsfile/?id=1832" target="_blank" rel="noopener noreferrer nofollow">https://www.tmhs.co.uk/seecmsfile/?id=1832</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Year 7 ReadingYou sometimes use discourse markers. The purpose of your presentation is usually clear. You deliberately choose some effect...</p></details>
+   Link:<a href="https://www.tmhs.co.uk/seecmsfile/?id=1832" target="_blank" rel="noopener noreferrer nofollow">https://www.tmhs.co.uk/seecmsfile/?id=1832</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Year 7 ReadingYou sometimes use discourse markers. The purpose of your presentation is usually clear. You deliberately choose some effect...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: twinkl.co.uk  
-   Link: <a href="https://www.twinkl.co.uk/teaching-wiki/discourse-markers" target="_blank" rel="noopener noreferrer nofollow">https://www.twinkl.co.uk/teaching-wiki/discourse-markers</a>  
+   Link:<a href="https://www.twinkl.co.uk/teaching-wiki/discourse-markers" target="_blank" rel="noopener noreferrer nofollow">https://www.twinkl.co.uk/teaching-wiki/discourse-markers</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=YMy843_crFc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YMy843_crFc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stop Using However, In Contrast, On the Other Hand WrongThis is the second lesson on contrastive discourse markers (CDM). In this previou...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=YMy843_crFc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YMy843_crFc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stop Using However, In Contrast, On the Other Hand WrongThis is the second lesson on contrastive discourse markers (CDM). In this previou...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: studycorgi.com  
    Title: contrastive discourse markers usage in academic writing  
-   Link: <a href="https://studycorgi.com/contrastive-discourse-markers-usage-in-academic-writing/" target="_blank" rel="noopener noreferrer nofollow">https://studycorgi.com/contrastive-discourse-markers-usage-in-academic-writing/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apr 23, 2021 — The study shows that the use of although can be used interchangeably with while because they fall under the class of disco...</p></details>
+   Link:<a href="https://studycorgi.com/contrastive-discourse-markers-usage-in-academic-writing/" target="_blank" rel="noopener noreferrer nofollow">https://studycorgi.com/contrastive-discourse-markers-usage-in-academic-writing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Apr 23, 2021 — The study shows that the use of although can be used interchangeably with while because they fall under the class of disco...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: tdx.cat  
    Title: DMs can provoke reading comprehension errors in Spanish L2 readers and.Read more  
-   Link: <a href="https://www.tdx.cat/bitstream/handle/10803/10442/tesis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.tdx.cat/bitstream/handle/10803/10442/tesis.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DISCOURSE MARKERS WITHIN THE UNIVERSITY...by B Bellés Fortuño · Cited by 47 — a) CONTRASTIVE MARKERS (CDMs): but, alternatively, althoug...</p></details>
+   Link:<a href="https://www.tdx.cat/bitstream/handle/10803/10442/tesis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.tdx.cat/bitstream/handle/10803/10442/tesis.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DISCOURSE MARKERS WITHIN THE UNIVERSITY...by B Bellés Fortuño · Cited by 47 — a) CONTRASTIVE MARKERS (CDMs): but, alternatively, althoug...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/grammar/british-grammar/discourse-markers-so-right-okay" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/grammar/british-grammar/discourse-markers-so-right-okay</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge DictionaryDiscourse markers (so, right, okay) - Cambridge Dictionary5 days ago — Discourse markers are words or [phrases](&amp;#123;&amp;#123; &#x27;phrases/&#x27; | relative_url &amp;#125;&amp;#125;) like...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/grammar/british-grammar/discourse-markers-so-right-okay" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/grammar/british-grammar/discourse-markers-so-right-okay</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge DictionaryDiscourse markers (so, right, okay) - Cambridge Dictionary5 days ago — Discourse markers are words or [phrases](&amp;#123;&amp;#123; &#x27;phrases/&#x27; | relative_url &amp;#125;&amp;#125;) like...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: research-portal.uu.nl  
    Title: nl Can gestures speak louder than words?  
-   Link: <a href="https://research-portal.uu.nl/ws/files/269262481/Can_gestures_speak_louder_than_words_The_effect_of_gestural_discourse_markers_on_discourse_expectations.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research-portal.uu.nl/ws/files/269262481/Can_gestures_speak_louder_than_words_The_effect_of_gestural_discourse_markers_on_discourse_expectations.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The effect of...by M Scholman · 2025 · Cited by 6 — Much of the research on discourse marking has focused on written text, thereby not c...</p></details>
+   Link:<a href="https://research-portal.uu.nl/ws/files/269262481/Can_gestures_speak_louder_than_words_The_effect_of_gestural_discourse_markers_on_discourse_expectations.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research-portal.uu.nl/ws/files/269262481/Can_gestures_speak_louder_than_words_The_effect_of_gestural_discourse_markers_on_discourse_expectations.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The effect of...by M Scholman · 2025 · Cited by 6 — Much of the research on discourse marking has focused on written text, thereby not c...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: cambridge.org  
    Title: University Press & Assessment References  
-   Link: <a href="https://www.cambridge.org/core/books/connectives-and-discourse-relations/references/4258D79F1F7653D5E5A6D5342B6A5BE7" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/connectives-and-discourse-relations/references/4258D79F1F7653D5E5A6D5342B6A5BE7</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentReferences - Connectives and Discourse Relations22 Feb 2024 — Connectives and Discourse Relations...</p></details>
+   Link:<a href="https://www.cambridge.org/core/books/connectives-and-discourse-relations/references/4258D79F1F7653D5E5A6D5342B6A5BE7" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/connectives-and-discourse-relations/references/4258D79F1F7653D5E5A6D5342B6A5BE7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentReferences - Connectives and Discourse Relations22 Feb 2024 — Connectives and Discourse Relations...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: tandfonline.com  
    Title: Can gestures speak louder than words?  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/0163853X.2025.2499414" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/0163853X.2025.2499414</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The effect of...by M Scholman · 2025 · Cited by 6 — The results showed that comprehenders can infer discourse meaning from gestures, but...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/0163853X.2025.2499414" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/0163853X.2025.2499414</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The effect of...by M Scholman · 2025 · Cited by 6 — The results showed that comprehenders can infer discourse meaning from gestures, but...</p></details>

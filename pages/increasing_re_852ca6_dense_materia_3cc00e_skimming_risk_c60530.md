@@ -292,7 +292,7 @@ Skimming is a useful tool when the goal is orientation rather than precision. It
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_dense_materia_3cc00e_skimming_risk_c60530-Illustration-1-dark.svg" | relative_url }}" alt="Skimming Risk illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_dense_materia_3cc00e_skimming_risk_c60530-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_dense_materia_3cc00e_skimming_risk_c60530-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Research on reading consistently finds a trade-off between speed and understanding. Skimming can deliver a general sense of content more quickly, but it typically reduces comprehension compared with more [careful reading]({{ 'careful-reading/' | relative_url }}). That trade-off becomes especially important when the text contains [technical]({{ 'technical-texts/' | relative_url }}), legal, scientific, medical or procedural details whose meaning depends on exact wording. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 534 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</span></span></span>
+Research on reading consistently finds a trade-off between speed and understanding. Skimming can deliver a general sense of content more quickly, but it typically reduces comprehension compared with more [careful reading]({{ 'careful-reading/' | relative_url }}). That trade-off becomes especially important when the text contains [technical]({{ 'technical-texts/' | relative_url }}), legal, scientific, medical or procedural details whose meaning depends on exact wording.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 534 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</span></span></span>
 
 ## What skimming can and cannot do
 
@@ -312,7 +312,7 @@ For these purposes, reading headings, topic sentences, summaries, tables and fig
 
 A dense document is rarely dangerous because every sentence is difficult. It is dangerous because a few sentences carry disproportionate weight. A scientific paper may hide a crucial limitation in the methods section. A contract may place a major exception in a subordinate clause. A technical specification may define a term differently from its everyday meaning. A medical guideline may apply only to a narrow patient group.
 
-Eye-tracking studies illustrate what changes during skimming. Readers skip more words, spend less time on individual phrases and reread less frequently. Comprehension scores generally decline because the reader performs less verification and integration of information. The result is often a correct overall impression but an incorrect understanding of critical details. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7198234/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2BOP Serials]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">One page of text: Eye movements during regular and thorough...by A Strukelj · 2018 · Cited by 83 — Skimming involved longer saccades...</span></span></span>
+Eye-tracking studies illustrate what changes during skimming. Readers skip more words, spend less time on individual phrases and reread less frequently. Comprehension scores generally decline because the reader performs less verification and integration of information. The result is often a correct overall impression but an incorrect understanding of critical details.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7198234/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2BOP Serials]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">One page of text: Eye movements during regular and thorough...by A Strukelj · 2018 · Cited by 83 — Skimming involved longer saccades...</span></span></span>
 
 The practical lesson for increasing reading speed is that skimming works best as a filtering stage. It helps identify where close reading is needed; it does not replace close reading when accuracy matters.
 
@@ -342,7 +342,7 @@ Terms such as “if”, “provided that”, “when”, “only when”, and �
 
 **Negations**
 
-Words such as “not”, “never”, “cannot”, and “without” are short and visually unobtrusive. Yet they can reverse the meaning of an entire sentence. Legal and technical language is particularly sensitive to missed negations. Even computational researchers working on legal texts identify negation scope as a major challenge because meaning can hinge on exactly which words are affected by a negative condition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2309.08695" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Resolving Legalese: A Multilingual Exploration of Negation Scope Resolution in Legal DocumentsSeptember 15, 2023...</span><span class="citation-popover-meta">Published: September 15, 2023</span></span></span>
+Words such as “not”, “never”, “cannot”, and “without” are short and visually unobtrusive. Yet they can reverse the meaning of an entire sentence. Legal and technical language is particularly sensitive to missed negations. Even computational researchers working on legal texts identify negation scope as a major challenge because meaning can hinge on exactly which words are affected by a negative condition.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2309.08695" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Resolving Legalese: A Multilingual Exploration of Negation Scope Resolution in Legal DocumentsSeptember 15, 2023...</span><span class="citation-popover-meta">Published: September 15, 2023</span></span></span>
 
 **Definitions**
 
@@ -360,9 +360,9 @@ The risk is not merely forgetting details. It is constructing a coherent but inc
 
 Dense writing compresses information. Authors assume that readers will notice relationships between clauses, references and definitions.
 
-Legal language provides a striking example. Researchers at MIT found that lawyers themselves preferred simplified legal documents, understood them more easily and considered them just as enforceable as traditional [legalese]({{ 'legalese/' | relative_url }}). This finding matters because legal documents often rely on nested clauses and interruptions that make critical qualifications harder to track. When trained professionals find such structures more difficult, the risk to a skimming reader becomes obvious. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.mit.edu/2023/new-study-lawyers-legalese-0529" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.mit.edu">[MIT News+2PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.mit.edu</span><span class="citation-popover-title">News Even lawyers don&#x27;t like legalese</span><span class="citation-popover-snippet">MIT NewsEven lawyers don&#x27;t like legaleseMay 29, 2023 — A new study shows lawyers find simplified legal documents easier to understand, mo...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
+Legal language provides a striking example. Researchers at MIT found that lawyers themselves preferred simplified legal documents, understood them more easily and considered them just as enforceable as traditional [legalese]({{ 'legalese/' | relative_url }}). This finding matters because legal documents often rely on nested clauses and interruptions that make critical qualifications harder to track. When trained professionals find such structures more difficult, the risk to a skimming reader becomes obvious.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.mit.edu/2023/new-study-lawyers-legalese-0529" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.mit.edu">[MIT News+2PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.mit.edu</span><span class="citation-popover-title">News Even lawyers don&#x27;t like legalese</span><span class="citation-popover-snippet">MIT NewsEven lawyers don&#x27;t like legaleseMay 29, 2023 — A new study shows lawyers find simplified legal documents easier to understand, mo...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
 
-Medical and scientific texts present a different version of the same problem. A recent eye-tracking study of medical students found that skimming produced faster reading but poorer comprehension. The researchers also observed behavioural signs suggesting that careful readers were more likely to engage with inconsistencies and problematic statements. During skimming, this checking process was weaker. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12801452/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Reading and skimming clinical information: insights from...by MA Soltan · 2025 — Here we provide a novel examination of the effect of...</span></span></span>
+Medical and scientific texts present a different version of the same problem. A recent eye-tracking study of medical students found that skimming produced faster reading but poorer comprehension. The researchers also observed behavioural signs suggesting that careful readers were more likely to engage with inconsistencies and problematic statements. During skimming, this checking process was weaker.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12801452/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Reading and skimming clinical information: insights from...by MA Soltan · 2025 — Here we provide a novel examination of the effect of...</span></span></span>
 
 In both cases, the danger comes from reducing the amount of cognitive checking that normally catches errors, contradictions and exceptions.
 
@@ -401,7 +401,7 @@ A practical approach is to skim first for structure, then mark locations where p
 
 ## The real speed advantage
 
-Many readers assume that faster reading means maintaining one high speed across every page. Research suggests a more effective model: adapt reading speed to the demands of the text. Thorough reading naturally involves more rereading and longer processing times, yet it often produces better understanding exactly because readers revisit important material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7198234/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">One page of text: Eye movements during regular and thorough...by A Strukelj · 2018 · Cited by 83 — Skimming involved longer saccades...</span></span></span>
+Many readers assume that faster reading means maintaining one high speed across every page. Research suggests a more effective model: adapt reading speed to the demands of the text. Thorough reading naturally involves more rereading and longer processing times, yet it often produces better understanding exactly because readers revisit important material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7198234/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">One page of text: Eye movements during regular and thorough...by A Strukelj · 2018 · Cited by 83 — Skimming involved longer saccades...</span></span></span>
 
 The fastest competent readers are not those who skim everything. They are those who recognise when skimming remains safe and when it becomes too risky. In dense material, the most important reading decision is often not how quickly to move, but where to slow down. The small words that seem easiest to skip are frequently the ones carrying the largest share of the meaning.
 
@@ -410,231 +410,231 @@ The fastest competent readers are not those who skim everything. They are those 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Skimming Stops Being Safe. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Skimming Stops Being Safe. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Directly addresses inspectional reading, skimming, analytical reading, and when deeper reading is required for understanding dense material.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Directly addresses inspectional reading, skimming, analytical reading, and when deeper reading is required for understanding dense material.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-        </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+</h4>
+<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Explains evidence-based comprehension and retention, reinforcing why superficial reading can miss important information.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains evidence-based comprehension and retention, reinforcing why superficial reading can miss important information.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Work on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lZpFCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Work" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Work">Deep Work</a>
-        </h4>
-        <p class="fr-book-author">By Cal Newport</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Work on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lZpFCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Work" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Work">Deep Work</a>
+</h4>
+<p class="fr-book-author">By Cal Newport</p>
         
-        <p class="fr-book-desc">Supports the article&#x27;s theme that careful attention and sustained focus are necessary when precision matters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports the article&#x27;s theme that careful attention and sustained focus are necessary when precision matters.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Make+It+Stick+-+the+Science+of+Successful+Learning+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick - the Science of Successful Learning on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+-+the+Science+of+Successful+Learning+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick - the Science of Successful Learning">Make It Stick - the Science of Successful Learning</a>
-        </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Make+It+Stick+-+the+Science+of+Successful+Learning+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick - the Science of Successful Learning on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+-+the+Science+of+Successful+Learning+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick - the Science of Successful Learning">Make It Stick - the Science of Successful Learning</a>
+</h4>
+<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger et al.</p>
         
-        <p class="fr-book-desc">First published 2023.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+-+the+Science+of+Successful+Learning+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2023.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+-+the+Science+of+Successful+Learning+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Work&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Work</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Work&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Work</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7198234/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7198234/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>One page of text: Eye movements during regular and thorough...by A Strukelj · 2018 · Cited by 83 — Skimming involved longer saccades...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7198234/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7198234/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>One page of text: Eye movements during regular and thorough...by A Strukelj · 2018 · Cited by 83 — Skimming involved longer saccades...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12801452/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12801452/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading and skimming clinical information: insights from...by MA Soltan · 2025 — Here we provide a novel examination of the effect of...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12801452/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12801452/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading and skimming clinical information: insights from...by MA Soltan · 2025 — Here we provide a novel examination of the effect of...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2309.08695" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2309.08695</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Resolving Legalese: A Multilingual Exploration of Negation Scope Resolution in Legal DocumentsSeptember 15, 2023...</p></details>
+   Link:<a href="https://arxiv.org/abs/2309.08695" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2309.08695</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Resolving Legalese: A Multilingual Exploration of Negation Scope Resolution in Legal DocumentsSeptember 15, 2023...</p></details>
    Published: September 15, 2023  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: news.mit.edu  
    Title: News Even lawyers don't like legalese  
-   Link: <a href="https://news.mit.edu/2023/new-study-lawyers-legalese-0529" target="_blank" rel="noopener noreferrer nofollow">https://news.mit.edu/2023/new-study-lawyers-legalese-0529</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT NewsEven lawyers don&#x27;t like legaleseMay 29, 2023 — A new study shows lawyers find simplified legal documents easier to understand, mo...</p></details>
+   Link:<a href="https://news.mit.edu/2023/new-study-lawyers-legalese-0529" target="_blank" rel="noopener noreferrer nofollow">https://news.mit.edu/2023/new-study-lawyers-legalese-0529</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MIT NewsEven lawyers don&#x27;t like legaleseMay 29, 2023 — A new study shows lawyers find simplified legal documents easier to understand, mo...</p></details>
    Published: May 29, 2023  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pnas.org  
    Title: Even lawyers do not like legalese  
-   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.2302672120" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2302672120</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 30, 2023 — In Experiment 2, we found that lawyers rated simplified contracts as equally enforceable as legalese contracts, and rated...</p></details>
+   Link:<a href="https://www.pnas.org/doi/10.1073/pnas.2302672120" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2302672120</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 30, 2023 — In Experiment 2, we found that lawyers rated simplified contracts as equally enforceable as legalese contracts, and rated...</p></details>
    Published: May 30, 2023  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: news.mit.edu  
    Title: mit study explains laws incomprehensible writing style 0819  
-   Link: <a href="https://news.mit.edu/2024/mit-study-explains-laws-incomprehensible-writing-style-0819" target="_blank" rel="noopener noreferrer nofollow">https://news.mit.edu/2024/mit-study-explains-laws-incomprehensible-writing-style-0819</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>study explains why laws are written in an...Aug 19, 2024 — In a follow-up study published in 2023, the researchers found that legalese a...</p></details>
+   Link:<a href="https://news.mit.edu/2024/mit-study-explains-laws-incomprehensible-writing-style-0819" target="_blank" rel="noopener noreferrer nofollow">https://news.mit.edu/2024/mit-study-explains-laws-incomprehensible-writing-style-0819</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>study explains why laws are written in an...Aug 19, 2024 — In a follow-up study published in 2023, the researchers found that legalese a...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med How Do We Read, and Can [Speed Reading](&#123;&#123; 'myths/' | relative_url &#125;&#125;) Help?  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26769745/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by K Rayner · 2016 · Cited by 534 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26769745/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by K Rayner · 2016 · Cited by 534 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: psychologicalscience.org  
    Title: speed reading  
-   Link: <a href="https://www.psychologicalscience.org/publications/speed_reading.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/publications/speed_reading.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceSo Much to Read, So Little Time: How Do We...13 Jan 2016 — The report shows there is no quick and e...</p></details>
+   Link:<a href="https://www.psychologicalscience.org/publications/speed_reading.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/publications/speed_reading.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceSo Much to Read, So Little Time: How Do We...13 Jan 2016 — The report shows there is no quick and e...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: psychologicalscience.org  
    Title: speed reading promises are too good to be true scientists find  
-   Link: <a href="https://www.psychologicalscience.org/news/releases/speed-reading-promises-are-too-good-to-be-true-scientists-find.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/news/releases/speed-reading-promises-are-too-good-to-be-true-scientists-find.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceSpeed Reading Promises Are Too Good to Be True...14 Jan 2016 — A team of psychological scientists...</p></details>
+   Link:<a href="https://www.psychologicalscience.org/news/releases/speed-reading-promises-are-too-good-to-be-true-scientists-find.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/news/releases/speed-reading-promises-are-too-good-to-be-true-scientists-find.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceSpeed Reading Promises Are Too Good to Be True...14 Jan 2016 — A team of psychological scientists...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: bop.unibe.ch  
-   Link: <a href="https://bop.unibe.ch/JEMR/article/view/Strukelj" target="_blank" rel="noopener noreferrer nofollow">https://bop.unibe.ch/JEMR/article/view/Strukelj</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BOP SerialsEye movements during regular and thorough reading...by A Strukelj · 2018 · Cited by 83 — Eye movements during regular reading...</p></details>
+   Link:<a href="https://bop.unibe.ch/JEMR/article/view/Strukelj" target="_blank" rel="noopener noreferrer nofollow">https://bop.unibe.ch/JEMR/article/view/Strukelj</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BOP SerialsEye movements during regular and thorough reading...by A Strukelj · 2018 · Cited by 83 — Eye movements during regular reading...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/?term=%22Roney+AG%22%5BAuthor%5D" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/?term=%22Roney+AG%22%5BAuthor%5D</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>from experiments examining medical students&#x27; eye...10 Dec 2025 — Results: Across all three experiments skim-reading resulted in eye move...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/?term=%22Roney+AG%22%5BAuthor%5D" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/?term=%22Roney+AG%22%5BAuthor%5D</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>from experiments examining medical students&#x27; eye...10 Dec 2025 — Results: Across all three experiments skim-reading resulted in eye move...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/41277242/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41277242/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>reading comprehension in young adults with...by S Moussaoui · Cited by 1 — Conclusions: Minimizing eye movement boosted reading comprehe...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/41277242/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41277242/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>reading comprehension in young adults with...by S Moussaoui · Cited by 1 — Conclusions: Minimizing eye movement boosted reading comprehe...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3348914/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3348914/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Speed, Comprehension and Eye Movements While...by H Miyata · 2012 · Cited by 59 — The present study examined relationships between readi...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3348914/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3348914/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Speed, Comprehension and Eye Movements While...by H Miyata · 2012 · Cited by 59 — The present study examined relationships between readi...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12641876/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12641876/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by M Markevich · 2025 — Successful reading comprehension depends on many factors, including text genre. Eye-tracking studies indicate...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12641876/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12641876/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by M Markevich · 2025 — Successful reading comprehension depends on many factors, including text genre. Eye-tracking studies indicate...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11257655/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11257655/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>with Screen Magnification: Eye Movement Analysis...by S Heo · 2024 · Cited by 2 — One page of text: Eye movements during regular and tho...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11257655/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11257655/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>with Screen Magnification: Eye Movement Analysis...by S Heo · 2024 · Cited by 2 — One page of text: Eye movements during regular and tho...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/398535596_Reading_and_skimming_clinical_information_insights_from_experiments_examining_medical_students%27_eye_movement_behaviour" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/398535596_Reading_and_skimming_clinical_information_insights_from_experiments_examining_medical_students%27_eye_movement_behaviour</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Reading and skimming clinical information: insights...2 Dec 2025 — Reading and skimming clinical information: insights from experi...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/398535596_Reading_and_skimming_clinical_information_insights_from_experiments_examining_medical_students%27_eye_movement_behaviour" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/398535596_Reading_and_skimming_clinical_information_insights_from_experiments_examining_medical_students%27_eye_movement_behaviour</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Reading and skimming clinical information: insights...2 Dec 2025 — Reading and skimming clinical information: insights from experi...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/linguistics/comments/14edh5f/even_lawyers_dont_like_legalese_mit_study/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/linguistics/comments/14edh5f/even_lawyers_dont_like_legalese_mit_study/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Even Lawyers Don&#x27;t Like Legalese (MIT Study): r/linguisticsYes, it makes documents harder for lawyers to read, but it renders them basic...</p></details>
+   Link:<a href="https://www.reddit.com/r/linguistics/comments/14edh5f/even_lawyers_dont_like_legalese_mit_study/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/linguistics/comments/14edh5f/even_lawyers_dont_like_legalese_mit_study/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Even Lawyers Don&#x27;t Like Legalese (MIT Study): r/linguisticsYes, it makes documents harder for lawyers to read, but it renders them basic...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: figshare.le.ac.uk  
-   Link: <a href="https://figshare.le.ac.uk/articles/journal_contribution/Reading_and_skimming_clinical_information_Insights_from_experiments_examining_medical_students_eye_movement_behaviour/30762698" target="_blank" rel="noopener noreferrer nofollow">https://figshare.le.ac.uk/articles/journal_contribution/Reading_and_skimming_clinical_information_Insights_from_experiments_examining_medical_students_eye_movement_behaviour/30762698</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and skimming clinical information: Insights from...by MA Soltan · 2025 — ConclusionsThe eye tracking results are consistent with previou...</p></details>
+   Link:<a href="https://figshare.le.ac.uk/articles/journal_contribution/Reading_and_skimming_clinical_information_Insights_from_experiments_examining_medical_students_eye_movement_behaviour/30762698" target="_blank" rel="noopener noreferrer nofollow">https://figshare.le.ac.uk/articles/journal_contribution/Reading_and_skimming_clinical_information_Insights_from_experiments_examining_medical_students_eye_movement_behaviour/30762698</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and skimming clinical information: Insights from...by MA Soltan · 2025 — ConclusionsThe eye tracking results are consistent with previou...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/269876481_Eye_Movements_During_Reading_and_Topic_Scanning_Effects_of_Word_Frequency" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/269876481_Eye_Movements_During_Reading_and_Topic_Scanning_Effects_of_Word_Frequency</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Eye Movements During Reading and Topic ScanningOct 9, 2025 — The study examined the nature of eye movement control and word recogni...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/269876481_Eye_Movements_During_Reading_and_Topic_Scanning_Effects_of_Word_Frequency" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/269876481_Eye_Movements_During_Reading_and_Topic_Scanning_Effects_of_Word_Frequency</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Eye Movements During Reading and Topic ScanningOct 9, 2025 — The study examined the nature of eye movement control and word recogni...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: news.slashdot.org  
    Title: legal language is deliberately arcane to signal power study finds  
-   Link: <a href="https://news.slashdot.org/story/24/12/18/1317249/legal-language-is-deliberately-arcane-to-signal-power-study-finds" target="_blank" rel="noopener noreferrer nofollow">https://news.slashdot.org/story/24/12/18/1317249/legal-language-is-deliberately-arcane-to-signal-power-study-finds</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Language Is Deliberately Arcane To Signal Power...Dec 18, 2024 — Lawyers tended to prefer plain English versions of documents, and they...</p></details>
+   Link:<a href="https://news.slashdot.org/story/24/12/18/1317249/legal-language-is-deliberately-arcane-to-signal-power-study-finds" target="_blank" rel="noopener noreferrer nofollow">https://news.slashdot.org/story/24/12/18/1317249/legal-language-is-deliberately-arcane-to-signal-power-study-finds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Language Is Deliberately Arcane To Signal Power...Dec 18, 2024 — Lawyers tended to prefer plain English versions of documents, and they...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: preprints.org  
-   Link: <a href="https://www.preprints.org/manuscript/202502.0816/v2/download" target="_blank" rel="noopener noreferrer nofollow">https://www.preprints.org/manuscript/202502.0816/v2/download</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(2017) used eye movement data to classify reading behaviours into five patterns: speed reading, [slow reading](&amp;#123;&amp;#123; &#x27;slow-reading/&#x27; | relative_url &amp;#125;&amp;#125;), in-depth reading, skim...</p></details>
+   Link:<a href="https://www.preprints.org/manuscript/202502.0816/v2/download" target="_blank" rel="noopener noreferrer nofollow">https://www.preprints.org/manuscript/202502.0816/v2/download</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(2017) used eye movement data to classify reading behaviours into five patterns: speed reading, [slow reading](&amp;#123;&amp;#123; &#x27;slow-reading/&#x27; | relative_url &amp;#125;&amp;#125;), in-depth reading, skim...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: gizmodo.com  
    Title: lawyers better reading plain english not legal jargon 1850488365  
-   Link: <a href="https://gizmodo.com/lawyers-better-reading-plain-english-not-legal-jargon-1850488365" target="_blank" rel="noopener noreferrer nofollow">https://gizmodo.com/lawyers-better-reading-plain-english-not-legal-jargon-1850488365</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lawyers Hate Legal Jargon, Too30 May 2023 — A new study has found that lawyers have an easier time remembering legal documents written in...</p></details>
+   Link:<a href="https://gizmodo.com/lawyers-better-reading-plain-english-not-legal-jargon-1850488365" target="_blank" rel="noopener noreferrer nofollow">https://gizmodo.com/lawyers-better-reading-plain-english-not-legal-jargon-1850488365</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lawyers Hate Legal Jargon, Too30 May 2023 — A new study has found that lawyers have an easier time remembering legal documents written in...</p></details>
    Published: May 2023  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: labrujulaverde.com  
    Title: study explains why laws are written in an incomprehensible style  
-   Link: <a href="https://www.labrujulaverde.com/en/2024/08/study-explains-why-laws-are-written-in-an-incomprehensible-style/" target="_blank" rel="noopener noreferrer nofollow">https://www.labrujulaverde.com/en/2024/08/study-explains-why-laws-are-written-in-an-incomprehensible-style/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Study explains why laws are written in an...Aug 21, 2024 — In a follow-up study conducted in 2023, the researchers found that lawyers th...</p></details>
+   Link:<a href="https://www.labrujulaverde.com/en/2024/08/study-explains-why-laws-are-written-in-an-incomprehensible-style/" target="_blank" rel="noopener noreferrer nofollow">https://www.labrujulaverde.com/en/2024/08/study-explains-why-laws-are-written-in-an-incomprehensible-style/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Study explains why laws are written in an...Aug 21, 2024 — In a follow-up study conducted in 2023, the researchers found that lawyers th...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: publishingperspectives.com  
    Title: speed reading may not really be the thing its promised to be  
-   Link: <a href="https://publishingperspectives.com/2016/02/speed-reading-may-not-really-be-the-thing-its-promised-to-be/" target="_blank" rel="noopener noreferrer nofollow">https://publishingperspectives.com/2016/02/speed-reading-may-not-really-be-the-thing-its-promised-to-be/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Not So Fast: Speed-Reading May Not Be The Answer1 Feb 2016 — A recent review of the actual science on the subject says that speed-reading...</p></details>
+   Link:<a href="https://publishingperspectives.com/2016/02/speed-reading-may-not-really-be-the-thing-its-promised-to-be/" target="_blank" rel="noopener noreferrer nofollow">https://publishingperspectives.com/2016/02/speed-reading-may-not-really-be-the-thing-its-promised-to-be/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Not So Fast: Speed-Reading May Not Be The Answer1 Feb 2016 — A recent review of the actual science on the subject says that speed-reading...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: molawyersmedia.com  
    Title: lawyers professors debate findings of mit study on legalese  
-   Link: <a href="https://molawyersmedia.com/2023/11/22/lawyers-professors-debate-findings-of-mit-study-on-legalese/" target="_blank" rel="noopener noreferrer nofollow">https://molawyersmedia.com/2023/11/22/lawyers-professors-debate-findings-of-mit-study-on-legalese/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lawyers, professors debate findings of MIT study on &#x27;...22 Nov 2023 — The primary materials used in the study were 12 pairs of contract...</p></details>
+   Link:<a href="https://molawyersmedia.com/2023/11/22/lawyers-professors-debate-findings-of-mit-study-on-legalese/" target="_blank" rel="noopener noreferrer nofollow">https://molawyersmedia.com/2023/11/22/lawyers-professors-debate-findings-of-mit-study-on-legalese/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lawyers, professors debate findings of MIT study on &#x27;...22 Nov 2023 — The primary materials used in the study were 12 pairs of contract...</p></details>

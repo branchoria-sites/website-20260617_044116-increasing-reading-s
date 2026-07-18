@@ -275,7 +275,7 @@ image: /assets/images/increasing_re_852ca6_vocabulary_ba_236244_domain_predic_a5
 
 ## Introduction
 
-Dense texts often feel slow not because the words are difficult, but because the reader lacks a clear picture of what is coming. A short preview can change that. By identifying a topic’s key terms, likely arguments, and overall structure [before reading]({{ 'before-reading/' | relative_url }}) in detail, readers create a mental framework that helps them interpret information more quickly and with fewer interruptions. Research on pre-reading activities, schema theory, and advance organisers consistently suggests that activating relevant [background]({{ 'expertise/' | relative_url }}) knowledge before reading improves comprehension and makes complex material easier to process. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/topics/vocabulary/articles/previewing-vocabulary-reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-title">previewing vocabulary reading</span><span class="citation-popover-snippet">Get tips on choosing words to preview and find examples of...Read more...</span></span></span>
+Dense texts often feel slow not because the words are difficult, but because the reader lacks a clear picture of what is coming. A short preview can change that. By identifying a topic’s key terms, likely arguments, and overall structure [before reading]({{ 'before-reading/' | relative_url }}) in detail, readers create a mental framework that helps them interpret information more quickly and with fewer interruptions. Research on pre-reading activities, schema theory, and advance organisers consistently suggests that activating relevant [background]({{ 'expertise/' | relative_url }}) knowledge before reading improves comprehension and makes complex material easier to process.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/topics/vocabulary/articles/previewing-vocabulary-reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-title">previewing vocabulary reading</span><span class="citation-popover-snippet">Get tips on choosing words to preview and find examples of...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_vocabulary_ba_236244_domain_predic_a5f3e3_preview_befor_9dcc30-Illustration-1-dark.svg" | relative_url }}" alt="Previewing illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_vocabulary_ba_236244_domain_predic_a5f3e3_preview_befor_9dcc30-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_vocabulary_ba_236244_domain_predic_a5f3e3_preview_befor_9dcc30-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -285,7 +285,7 @@ For readers trying to increase reading speed, previewing is not a substitute for
 
 Yes, but not because it allows readers to skip information. It works because it improves prediction.
 
-When readers know something about a subject before they begin, they can anticipate [vocabulary]({{ 'knowledge/' | relative_url }}), recognise familiar patterns, and identify the [purpose]({{ 'purpose/' | relative_url }}) of individual sections more quickly. Previewing activates existing knowledge and creates expectations about what is likely to appear in the text. Those expectations help readers integrate new information rather than treating every sentence as completely new. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkwood.pressbooks.pub/readingskills/chapter/previewing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkwood.pressbooks.pub">[Kirkwood Pressbooks+2AMLE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkwood.pressbooks.pub</span><span class="citation-popover-snippet">Previewing – Reading Skills and StrategiesSeptember 25, 2024 — Previewing gives you the chance to assess your prior kn...</span><span class="citation-popover-meta">Published: September 25, 2024</span></span></span>
+When readers know something about a subject before they begin, they can anticipate [vocabulary]({{ 'knowledge/' | relative_url }}), recognise familiar patterns, and identify the [purpose]({{ 'purpose/' | relative_url }}) of individual sections more quickly. Previewing activates existing knowledge and creates expectations about what is likely to appear in the text. Those expectations help readers integrate new information rather than treating every sentence as completely new.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkwood.pressbooks.pub/readingskills/chapter/previewing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkwood.pressbooks.pub">[Kirkwood Pressbooks+2AMLE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkwood.pressbooks.pub</span><span class="citation-popover-snippet">Previewing – Reading Skills and StrategiesSeptember 25, 2024 — Previewing gives you the chance to assess your prior kn...</span><span class="citation-popover-meta">Published: September 25, 2024</span></span></span>
 
 Consider a reader approaching a dense article about climate modelling. Without preparation, terms such as emissions scenarios, uncertainty ranges, and simulation outputs may appear disconnected. After a brief preview of those concepts, the same article becomes easier to navigate because the reader already possesses a rough map of the territory.
 
@@ -299,7 +299,7 @@ Focus on three things:
 
 **Key vocabulary**
 
-Unfamiliar terminology often creates bottlenecks. Research on vocabulary previewing shows that introducing important terms before reading can improve comprehension because vocabulary forms part of the reader's knowledge structure for the topic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/topics/vocabulary/articles/previewing-vocabulary-reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-title">previewing vocabulary reading</span><span class="citation-popover-snippet">Get tips on choosing words to preview and find examples of...Read more...</span></span></span>
+Unfamiliar terminology often creates bottlenecks. Research on vocabulary previewing shows that introducing important terms before reading can improve comprehension because vocabulary forms part of the reader's knowledge structure for the topic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/topics/vocabulary/articles/previewing-vocabulary-reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-title">previewing vocabulary reading</span><span class="citation-popover-snippet">Get tips on choosing words to preview and find examples of...Read more...</span></span></span>
 
 Look for:
 
@@ -349,7 +349,7 @@ A useful preview should create structure, not detailed knowledge.
 
 ### Start with titles and headings
 
-Titles, section headings, and subheadings reveal how information is organised. They often expose the major claims and relationships before the detailed discussion begins. Educational guidance on previewing consistently recommends examining these structural elements first because they provide clues about both topic and argument flow. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://info.mheducation.com/rs/128-SJW-347/images/Hoeffner_SE_Annotated_Teacher_Chapter_3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.mheducation.com">[McGraw Hill Education+2www.slideshare.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.mheducation.com</span><span class="citation-popover-snippet">McGraw Hill EducationPreviewing Texts and Working with TopicsSeptember 29, 2016 — Flipping through the text to examine its headings and s...</span><span class="citation-popover-meta">Published: September 29, 2016</span></span></span>
+Titles, section headings, and subheadings reveal how information is organised. They often expose the major claims and relationships before the detailed discussion begins. Educational guidance on previewing consistently recommends examining these structural elements first because they provide clues about both topic and argument flow.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://info.mheducation.com/rs/128-SJW-347/images/Hoeffner_SE_Annotated_Teacher_Chapter_3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.mheducation.com">[McGraw Hill Education+2www.slideshare.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.mheducation.com</span><span class="citation-popover-snippet">McGraw Hill EducationPreviewing Texts and Working with TopicsSeptember 29, 2016 — Flipping through the text to examine its headings and s...</span><span class="citation-popover-meta">Published: September 29, 2016</span></span></span>
 
 Ask:
 
@@ -396,7 +396,7 @@ For example:
 
 The map does not need to be accurate. Its purpose is to provide a framework that can be corrected as reading progresses.
 
-Research on advance organisers suggests that creating a conceptual framework before reading helps readers connect new information to existing knowledge structures. Academia Publication Journal+2Georgia Journal of Literacy <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journal.academiapublication.com/index.php/jers/article/download/155/150" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journal.academiapublication.com">[journal.academiapublication.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journal.academiapublication.com</span><span class="citation-popover-snippet">Academia Publication JournalAdvance Organizer Strategy and Reading Comprehensionby IN Aziz · 2025 · Cited by 1 — The theory in this strat...</span></span></span>
+Research on advance organisers suggests that creating a conceptual framework before reading helps readers connect new information to existing knowledge structures. Academia Publication Journal+2Georgia Journal of Literacy<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journal.academiapublication.com/index.php/jers/article/download/155/150" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journal.academiapublication.com">[journal.academiapublication.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journal.academiapublication.com</span><span class="citation-popover-snippet">Academia Publication JournalAdvance Organizer Strategy and Reading Comprehensionby IN Aziz · 2025 · Cited by 1 — The theory in this strat...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_vocabulary_ba_236244_domain_predic_a5f3e3_preview_befor_9dcc30-Illustration-2-dark.svg" | relative_url }}" alt="Previewing illustration 2" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_vocabulary_ba_236244_domain_predic_a5f3e3_preview_befor_9dcc30-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_vocabulary_ba_236244_domain_predic_a5f3e3_preview_befor_9dcc30-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -464,7 +464,7 @@ Vocabulary matters, but understanding the structure of the argument often matter
 
 A reader who knows every technical term but cannot identify the author's main claim may still struggle with comprehension.
 
-Effective previewing combines vocabulary, structure, and purpose. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.readingrockets.org/topics/vocabulary/articles/previewing-vocabulary-reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[readingrockets.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-title">previewing vocabulary reading</span><span class="citation-popover-snippet">Get tips on choosing words to preview and find examples of...Read more...</span></span></span>
+Effective previewing combines vocabulary, structure, and purpose.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.readingrockets.org/topics/vocabulary/articles/previewing-vocabulary-reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[readingrockets.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-title">previewing vocabulary reading</span><span class="citation-popover-snippet">Get tips on choosing words to preview and find examples of...Read more...</span></span></span>
 
 ### Mistake 4: Confusing previewing with skimming
 
@@ -472,7 +472,7 @@ Effective previewing combines vocabulary, structure, and purpose. <span class="c
 
 Skimming is often used instead of reading.
 
-The purpose of previewing is to prepare for detailed reading, not to replace it. Research on previewing repeatedly describes it as a strategy for activating prior knowledge and setting a purpose before deeper engagement with the text. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://human.libretexts.org/Courses/City_College_of_San_Francisco/Writing_Reading_and_College_Success%3A_A_First-Year_Composition_Course_for_All_Learners_%28Kashyap_and_Dyquisto%29/03%3A_The_Reading-Writing_Connection/3.03%3A_Reading_Strategies_-_Previewing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: human.libretexts.org">[Humanities LibreTexts+2AMLE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">human.libretexts.org</span><span class="citation-popover-title">It calls for readers to skim a text before reading.Read more</span><span class="citation-popover-snippet">ities LibreTexts3.3: Reading Strategies - Previewing19 Mar 2025 — Previewing is a strategy that readers use to recall prior knowledg...</span></span></span>
+The purpose of previewing is to prepare for detailed reading, not to replace it. Research on previewing repeatedly describes it as a strategy for activating prior knowledge and setting a purpose before deeper engagement with the text.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://human.libretexts.org/Courses/City_College_of_San_Francisco/Writing_Reading_and_College_Success%3A_A_First-Year_Composition_Course_for_All_Learners_%28Kashyap_and_Dyquisto%29/03%3A_The_Reading-Writing_Connection/3.03%3A_Reading_Strategies_-_Previewing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: human.libretexts.org">[Humanities LibreTexts+2AMLE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">human.libretexts.org</span><span class="citation-popover-title">It calls for readers to skim a text before reading.Read more</span><span class="citation-popover-snippet">ities LibreTexts3.3: Reading Strategies - Previewing19 Mar 2025 — Previewing is a strategy that readers use to recall prior knowledg...</span></span></span>
 
 ## Why previewing works especially well for difficult subjects
 
@@ -480,183 +480,183 @@ The harder the material, the more valuable a mental map becomes.
 
 Dense texts frequently introduce unfamiliar concepts, specialised vocabulary, and complex relationships. Without preparation, readers must simultaneously learn terminology, understand structure, and evaluate meaning. Previewing reduces that burden by handling some orientation work in advance.
 
-Schema-based research explains this effect through the activation of existing knowledge structures. Even a small amount of background information can provide hooks onto which new information can attach. Rather than constructing understanding from scratch, readers expand and refine an emerging framework. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/253635830_Schema-theory_Based_Considerations_on_Pre-reading_Activities_in_ESP_Textbooks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2Georgia Journal of Literacy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
+Schema-based research explains this effect through the activation of existing knowledge structures. Even a small amount of background information can provide hooks onto which new information can attach. Rather than constructing understanding from scratch, readers expand and refine an emerging framework.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/253635830_Schema-theory_Based_Considerations_on_Pre-reading_Activities_in_ESP_Textbooks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2Georgia Journal of Literacy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Open source on researchgate.net.</span></span></span>
 
 For [increasing]({{ 'increasing/' | relative_url }}) reading speed, that is the key benefit. A good preview does not make readers rush. It helps them spend less time getting lost.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can a quick preview make reading faster?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can a quick preview make reading faster?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Strong emphasis on previewing and inspectional reading.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Strong emphasis on previewing and inspectional reading.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-        </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+</h4>
+<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Supports the value of activating prior knowledge before learning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports the value of activating prior knowledge before learning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ultralearning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jyV2DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ultralearning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ultralearning">Ultralearning</a>
-        </h4>
-        <p class="fr-book-author">By Scott H. Young</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ultralearning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jyV2DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ultralearning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ultralearning">Ultralearning</a>
+</h4>
+<p class="fr-book-author">By Scott H. Young</p>
         
-        <p class="fr-book-desc">Covers preparation and rapid acquisition of new domains.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers preparation and rapid acquisition of new domains.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Mind+for+Numbers+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Mind for Numbers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8352403-M.jpg" alt="Cover for A Mind for Numbers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Mind+for+Numbers+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Mind for Numbers">A Mind for Numbers</a>
-        </h4>
-        <p class="fr-book-author">By Barbara A. Oakley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Mind+for+Numbers+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Mind for Numbers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8352403-M.jpg" alt="Cover for A Mind for Numbers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Mind+for+Numbers+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Mind for Numbers">A Mind for Numbers</a>
+</h4>
+<p class="fr-book-author">By Barbara A. Oakley</p>
         
-        <p class="fr-book-desc">First published 2014. Subjects: Mathematics, Study and teaching, Math anxiety, Educational psychology, Psychological aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Mind+for+Numbers+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2014. Subjects: Mathematics, Study and teaching, Math anxiety, Educational psychology, Psychological aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Mind+for+Numbers+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ultralearning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ultralearning</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ultralearning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ultralearning</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=previewing-01a7f4-can-a-quick-preview-make-reading-faster-increasing-reading-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading accessory" data-ebay-reference="previewing-01a7f4-can-a-quick-preview-make-reading-faster-increasing-reading-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rechargeable Book Light LED Clip-on Reading Light 3 Color Temperature USB Lamp"><img src="{{ '/assets/images/marketplace-covers/6f85c142a1a967192ad7.jpg' | relative_url }}" alt="Listing image for Rechargeable Book Light LED Clip-on Reading Light 3 Color Temperature USB Lamp" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=previewing-01a7f4-can-a-quick-preview-make-reading-faster-increasing-reading-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading accessory" data-ebay-reference="previewing-01a7f4-can-a-quick-preview-make-reading-faster-increasing-reading-accessory" target="_blank" rel="sponsored noopener noreferrer">Rechargeable Book Light LED Clip-on Reading Light 3 Color Temperature USB Lamp</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=previewing-01a7f4-can-a-quick-preview-make-reading-faster-increasing-reading-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading accessory" data-ebay-reference="previewing-01a7f4-can-a-quick-preview-make-reading-faster-increasing-reading-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading accessory">Search <span data-ebay-domain-label>eBay.co.uk</span>: reading accessory</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=previewing-01a7f4-can-a-quick-preview-make-reading-faster-increasing-reading-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading accessory" data-ebay-reference="previewing-01a7f4-can-a-quick-preview-make-reading-faster-increasing-reading-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=previewing-01a7f4-can-a-quick-preview-make-reading-faster-increasing-reading-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading accessory" data-ebay-reference="previewing-01a7f4-can-a-quick-preview-make-reading-faster-increasing-reading-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rechargeable Book Light LED Clip-on Reading Light 3 Color Temperature USB Lamp"><img src="{{ '/assets/images/marketplace-covers/6f85c142a1a967192ad7.jpg' | relative_url }}" alt="Listing image for Rechargeable Book Light LED Clip-on Reading Light 3 Color Temperature USB Lamp" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=previewing-01a7f4-can-a-quick-preview-make-reading-faster-increasing-reading-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading accessory" data-ebay-reference="previewing-01a7f4-can-a-quick-preview-make-reading-faster-increasing-reading-accessory" target="_blank" rel="sponsored noopener noreferrer">Rechargeable Book Light LED Clip-on Reading Light 3 Color Temperature USB Lamp</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=previewing-01a7f4-can-a-quick-preview-make-reading-faster-increasing-reading-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading accessory" data-ebay-reference="previewing-01a7f4-can-a-quick-preview-make-reading-faster-increasing-reading-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading accessory">Search<span data-ebay-domain-label>eBay.co.uk</span>: reading accessory</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=previewing-01a7f4-can-a-quick-preview-make-reading-faster-increasing-reading-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading accessory" data-ebay-reference="previewing-01a7f4-can-a-quick-preview-make-reading-faster-increasing-reading-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=previewing-01a7f4-can-a-quick-preview-make-reading-faster-increasing-reading-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading accessory" data-ebay-reference="previewing-01a7f4-can-a-quick-preview-make-reading-faster-increasing-reading-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for One Hand Book Holder - Thumb page holder - One hand reading accessory"><img src="{{ '/assets/images/marketplace-covers/669df151441f3e5dda57.jpg' | relative_url }}" alt="Listing image for One Hand Book Holder - Thumb page holder - One hand reading accessory" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=previewing-01a7f4-can-a-quick-preview-make-reading-faster-increasing-reading-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading accessory" data-ebay-reference="previewing-01a7f4-can-a-quick-preview-make-reading-faster-increasing-reading-accessory" target="_blank" rel="sponsored noopener noreferrer">One Hand Book Holder - Thumb page holder - One hand reading accessory</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=previewing-01a7f4-can-a-quick-preview-make-reading-faster-increasing-reading-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading accessory" data-ebay-reference="previewing-01a7f4-can-a-quick-preview-make-reading-faster-increasing-reading-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading accessory">Search <span data-ebay-domain-label>eBay.co.uk</span>: reading accessory</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=previewing-01a7f4-can-a-quick-preview-make-reading-faster-increasing-reading-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading accessory" data-ebay-reference="previewing-01a7f4-can-a-quick-preview-make-reading-faster-increasing-reading-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=previewing-01a7f4-can-a-quick-preview-make-reading-faster-increasing-reading-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading accessory" data-ebay-reference="previewing-01a7f4-can-a-quick-preview-make-reading-faster-increasing-reading-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for One Hand Book Holder - Thumb page holder - One hand reading accessory"><img src="{{ '/assets/images/marketplace-covers/669df151441f3e5dda57.jpg' | relative_url }}" alt="Listing image for One Hand Book Holder - Thumb page holder - One hand reading accessory" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=previewing-01a7f4-can-a-quick-preview-make-reading-faster-increasing-reading-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading accessory" data-ebay-reference="previewing-01a7f4-can-a-quick-preview-make-reading-faster-increasing-reading-accessory" target="_blank" rel="sponsored noopener noreferrer">One Hand Book Holder - Thumb page holder - One hand reading accessory</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=previewing-01a7f4-can-a-quick-preview-make-reading-faster-increasing-reading-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading accessory" data-ebay-reference="previewing-01a7f4-can-a-quick-preview-make-reading-faster-increasing-reading-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading accessory">Search<span data-ebay-domain-label>eBay.co.uk</span>: reading accessory</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=previewing-01a7f4-can-a-quick-preview-make-reading-faster-increasing-reading-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading accessory" data-ebay-reference="previewing-01a7f4-can-a-quick-preview-make-reading-faster-increasing-reading-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=previewing-01a7f4-can-a-quick-preview-make-reading-faster-increasing-reading-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading accessory" data-ebay-reference="previewing-01a7f4-can-a-quick-preview-make-reading-faster-increasing-reading-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Peeking Black Cat Bookmark Cute Book Lover Animal Reading Accessory for Books"><img src="{{ '/assets/images/marketplace-covers/6ff5fd08ac32ce20ffb2.jpg' | relative_url }}" alt="Listing image for Peeking Black Cat Bookmark Cute Book Lover Animal Reading Accessory for Books" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=previewing-01a7f4-can-a-quick-preview-make-reading-faster-increasing-reading-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading accessory" data-ebay-reference="previewing-01a7f4-can-a-quick-preview-make-reading-faster-increasing-reading-accessory" target="_blank" rel="sponsored noopener noreferrer">Peeking Black Cat Bookmark Cute Book Lover Animal Reading Accessory for Books</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=previewing-01a7f4-can-a-quick-preview-make-reading-faster-increasing-reading-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading accessory" data-ebay-reference="previewing-01a7f4-can-a-quick-preview-make-reading-faster-increasing-reading-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading accessory">Search <span data-ebay-domain-label>eBay.co.uk</span>: reading accessory</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=previewing-01a7f4-can-a-quick-preview-make-reading-faster-increasing-reading-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading accessory" data-ebay-reference="previewing-01a7f4-can-a-quick-preview-make-reading-faster-increasing-reading-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=previewing-01a7f4-can-a-quick-preview-make-reading-faster-increasing-reading-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading accessory" data-ebay-reference="previewing-01a7f4-can-a-quick-preview-make-reading-faster-increasing-reading-accessory" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=previewing-01a7f4-can-a-quick-preview-make-reading-faster-increasing-reading-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading accessory" data-ebay-reference="previewing-01a7f4-can-a-quick-preview-make-reading-faster-increasing-reading-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Peeking Black Cat Bookmark Cute Book Lover Animal Reading Accessory for Books"><img src="{{ '/assets/images/marketplace-covers/6ff5fd08ac32ce20ffb2.jpg' | relative_url }}" alt="Listing image for Peeking Black Cat Bookmark Cute Book Lover Animal Reading Accessory for Books" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=previewing-01a7f4-can-a-quick-preview-make-reading-faster-increasing-reading-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading accessory" data-ebay-reference="previewing-01a7f4-can-a-quick-preview-make-reading-faster-increasing-reading-accessory" target="_blank" rel="sponsored noopener noreferrer">Peeking Black Cat Bookmark Cute Book Lover Animal Reading Accessory for Books</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=previewing-01a7f4-can-a-quick-preview-make-reading-faster-increasing-reading-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading accessory" data-ebay-reference="previewing-01a7f4-can-a-quick-preview-make-reading-faster-increasing-reading-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading accessory">Search<span data-ebay-domain-label>eBay.co.uk</span>: reading accessory</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=previewing-01a7f4-can-a-quick-preview-make-reading-faster-increasing-reading-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading accessory" data-ebay-reference="previewing-01a7f4-can-a-quick-preview-make-reading-faster-increasing-reading-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=previewing-01a7f4-can-a-quick-preview-make-reading-faster-increasing-reading-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading accessory" data-ebay-reference="previewing-01a7f4-can-a-quick-preview-make-reading-faster-increasing-reading-accessory" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -672,7 +672,7 @@ For [increasing]({{ 'increasing/' | relative_url }}) reading speed, that is the 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -692,7 +692,7 @@ For [increasing]({{ 'increasing/' | relative_url }}) reading speed, that is the 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -724,7 +724,7 @@ For [increasing]({{ 'increasing/' | relative_url }}) reading speed, that is the 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -776,7 +776,7 @@ For [increasing]({{ 'increasing/' | relative_url }}) reading speed, that is the 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -821,7 +821,7 @@ For [increasing]({{ 'increasing/' | relative_url }}) reading speed, that is the 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -862,117 +862,117 @@ For [increasing]({{ 'increasing/' | relative_url }}) reading speed, that is the 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/253635830_Schema-theory_Based_Considerations_on_Pre-reading_Activities_in_ESP_Textbooks" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/253635830_Schema-theory_Based_Considerations_on_Pre-reading_Activities_in_ESP_Textbooks</a>  
+   Link:<a href="https://www.researchgate.net/publication/253635830_Schema-theory_Based_Considerations_on_Pre-reading_Activities_in_ESP_Textbooks" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/253635830_Schema-theory_Based_Considerations_on_Pre-reading_Activities_in_ESP_Textbooks</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: kirkwood.pressbooks.pub  
-   Link: <a href="https://kirkwood.pressbooks.pub/readingskills/chapter/previewing/" target="_blank" rel="noopener noreferrer nofollow">https://kirkwood.pressbooks.pub/readingskills/chapter/previewing/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Previewing – Reading Skills and StrategiesSeptember 25, 2024 — Previewing gives you the chance to assess your prior kn...</p></details>
+   Link:<a href="https://kirkwood.pressbooks.pub/readingskills/chapter/previewing/" target="_blank" rel="noopener noreferrer nofollow">https://kirkwood.pressbooks.pub/readingskills/chapter/previewing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Previewing – Reading Skills and StrategiesSeptember 25, 2024 — Previewing gives you the chance to assess your prior kn...</p></details>
    Published: September 25, 2024  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: amle.org  
-   Link: <a href="https://www.amle.org/before-reading-preview-response/" target="_blank" rel="noopener noreferrer nofollow">https://www.amle.org/before-reading-preview-response/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Before-Reading Preview ResponseBefore-reading (or preview) response is crucial to activate prior knowledge, helping readers to make sense...</p></details>
+   Link:<a href="https://www.amle.org/before-reading-preview-response/" target="_blank" rel="noopener noreferrer nofollow">https://www.amle.org/before-reading-preview-response/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Before-Reading Preview ResponseBefore-reading (or preview) response is crucial to activate prior knowledge, helping readers to make sense...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: human.libretexts.org  
    Title: It calls for readers to skim a text before reading.Read more  
-   Link: <a href="https://human.libretexts.org/Courses/City_College_of_San_Francisco/Writing_Reading_and_College_Success%3A_A_First-Year_Composition_Course_for_All_Learners_%28Kashyap_and_Dyquisto%29/03%3A_The_Reading-Writing_Connection/3.03%3A_Reading_Strategies_-_Previewing" target="_blank" rel="noopener noreferrer nofollow">https://human.libretexts.org/Courses/City_College_of_San_Francisco/Writing_Reading_and_College_Success%3A_A_First-Year_Composition_Course_for_All_Learners_%28Kashyap_and_Dyquisto%29/03%3A_The_Reading-Writing_Connection/3.03%3A_Reading_Strategies_-_Previewing</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ities LibreTexts3.3: Reading Strategies - Previewing19 Mar 2025 — Previewing is a strategy that readers use to recall prior knowledg...</p></details>
+   Link:<a href="https://human.libretexts.org/Courses/City_College_of_San_Francisco/Writing_Reading_and_College_Success%3A_A_First-Year_Composition_Course_for_All_Learners_%28Kashyap_and_Dyquisto%29/03%3A_The_Reading-Writing_Connection/3.03%3A_Reading_Strategies_-_Previewing" target="_blank" rel="noopener noreferrer nofollow">https://human.libretexts.org/Courses/City_College_of_San_Francisco/Writing_Reading_and_College_Success%3A_A_First-Year_Composition_Course_for_All_Learners_%28Kashyap_and_Dyquisto%29/03%3A_The_Reading-Writing_Connection/3.03%3A_Reading_Strategies_-_Previewing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ities LibreTexts3.3: Reading Strategies - Previewing19 Mar 2025 — Previewing is a strategy that readers use to recall prior knowledg...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
    Title: 305984805 Previewing and EFL reading comprehension  
-   Link: <a href="https://www.researchgate.net/publication/305984805_Previewing_and_EFL_reading_comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/305984805_Previewing_and_EFL_reading_comprehension</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Previewing and EFL reading comprehension8 Aug 2016 — Previewing refers to the activity in which previews are provided prior to read...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/305984805_Previewing_and_EFL_reading_comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/305984805_Previewing_and_EFL_reading_comprehension</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Previewing and EFL reading comprehension8 Aug 2016 — Previewing refers to the activity in which previews are provided prior to read...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: slideshare.net  
-   Link: <a href="https://www.slideshare.net/slideshow/previewing-43763257/43763257" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/previewing-43763257/43763257</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>can activate prior knowledge, set reading goals, and...Read more...</p></details>
+   Link:<a href="https://www.slideshare.net/slideshow/previewing-43763257/43763257" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/previewing-43763257/43763257</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>can activate prior knowledge, set reading goals, and...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: readingrockets.org  
    Title: previewing vocabulary reading  
-   Link: <a href="https://www.readingrockets.org/topics/vocabulary/articles/previewing-vocabulary-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/vocabulary/articles/previewing-vocabulary-reading</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Get tips on choosing words to preview and find examples of...Read more...</p></details>
+   Link:<a href="https://www.readingrockets.org/topics/vocabulary/articles/previewing-vocabulary-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/vocabulary/articles/previewing-vocabulary-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Get tips on choosing words to preview and find examples of...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: journal.academiapublication.com  
-   Link: <a href="https://journal.academiapublication.com/index.php/jers/article/download/155/150" target="_blank" rel="noopener noreferrer nofollow">https://journal.academiapublication.com/index.php/jers/article/download/155/150</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Academia Publication JournalAdvance Organizer Strategy and Reading Comprehensionby IN Aziz · 2025 · Cited by 1 — The theory in this strat...</p></details>
+   Link:<a href="https://journal.academiapublication.com/index.php/jers/article/download/155/150" target="_blank" rel="noopener noreferrer nofollow">https://journal.academiapublication.com/index.php/jers/article/download/155/150</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Academia Publication JournalAdvance Organizer Strategy and Reading Comprehensionby IN Aziz · 2025 · Cited by 1 — The theory in this strat...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: info.mheducation.com  
-   Link: <a href="https://info.mheducation.com/rs/128-SJW-347/images/Hoeffner_SE_Annotated_Teacher_Chapter_3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://info.mheducation.com/rs/128-SJW-347/images/Hoeffner_SE_Annotated_Teacher_Chapter_3.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>McGraw Hill EducationPreviewing Texts and Working with TopicsSeptember 29, 2016 — Flipping through the text to examine its headings and s...</p></details>
+   Link:<a href="https://info.mheducation.com/rs/128-SJW-347/images/Hoeffner_SE_Annotated_Teacher_Chapter_3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://info.mheducation.com/rs/128-SJW-347/images/Hoeffner_SE_Annotated_Teacher_Chapter_3.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>McGraw Hill EducationPreviewing Texts and Working with TopicsSeptember 29, 2016 — Flipping through the text to examine its headings and s...</p></details>
    Published: September 29, 2016  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: galiteracyjournal.org  
-   Link: <a href="https://galiteracyjournal.org/index.php/gjl/article/view/47" target="_blank" rel="noopener noreferrer nofollow">https://galiteracyjournal.org/index.php/gjl/article/view/47</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Georgia Journal of LiteracySchema and Scaffolding: Testing Advance Organizers...by J Cuevas · 2012 · Cited by 6 — This study examined an...</p></details>
+   Link:<a href="https://galiteracyjournal.org/index.php/gjl/article/view/47" target="_blank" rel="noopener noreferrer nofollow">https://galiteracyjournal.org/index.php/gjl/article/view/47</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Georgia Journal of LiteracySchema and Scaffolding: Testing Advance Organizers...by J Cuevas · 2012 · Cited by 6 — This study examined an...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: redfame.com  
-   Link: <a href="https://redfame.com/journal/index.php/ijecs/article/download/5151/5349" target="_blank" rel="noopener noreferrer nofollow">https://redfame.com/journal/index.php/ijecs/article/download/5151/5349</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An Analysis of Previewing Reading Strategy in Business...4 Feb 2021 — This paper seeks to identify the effects of having previewing stra...</p></details>
+   Link:<a href="https://redfame.com/journal/index.php/ijecs/article/download/5151/5349" target="_blank" rel="noopener noreferrer nofollow">https://redfame.com/journal/index.php/ijecs/article/download/5151/5349</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An Analysis of Previewing Reading Strategy in Business...4 Feb 2021 — This paper seeks to identify the effects of having previewing stra...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sanad.iau.ir  
-   Link: <a href="https://sanad.iau.ir/fa/Journal/relp/DownloadFile/897044" target="_blank" rel="noopener noreferrer nofollow">https://sanad.iau.ir/fa/Journal/relp/DownloadFile/897044</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Impact of Different Advance Organizer...By providing a pre-made schema, advance organizers help readers integrate new information wi...</p></details>
+   Link:<a href="https://sanad.iau.ir/fa/Journal/relp/DownloadFile/897044" target="_blank" rel="noopener noreferrer nofollow">https://sanad.iau.ir/fa/Journal/relp/DownloadFile/897044</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Impact of Different Advance Organizer...By providing a pre-made schema, advance organizers help readers integrate new information wi...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: scispace.com  
-   Link: <a href="https://scispace.com/pdf/schema-theory-based-pre-reading-tasks-a-neglected-essential-2utrm7hlng.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/schema-theory-based-pre-reading-tasks-a-neglected-essential-2utrm7hlng.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Schema Theory-Based Pre-Reading TasksBy taking advantage of contextual clues – titles, headings, pictures, students are encouraged to dra...</p></details>
+   Link:<a href="https://scispace.com/pdf/schema-theory-based-pre-reading-tasks-a-neglected-essential-2utrm7hlng.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/schema-theory-based-pre-reading-tasks-a-neglected-essential-2utrm7hlng.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Schema Theory-Based Pre-Reading TasksBy taking advantage of contextual clues – titles, headings, pictures, students are encouraged to dra...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: hip-books.com  
-   Link: <a href="https://www.hip-books.com/teaching-struggling-readers/comprehension/the-power-of-pre-reading/" target="_blank" rel="noopener noreferrer nofollow">https://www.hip-books.com/teaching-struggling-readers/comprehension/the-power-of-pre-reading/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Power of Pre-ReadingPREVIEW: We preview a text to get a sense of what it&#x27;s all about. · PRIOR KNOWLEDGE: It&#x27;s said that prior knowled...</p></details>
+   Link:<a href="https://www.hip-books.com/teaching-struggling-readers/comprehension/the-power-of-pre-reading/" target="_blank" rel="noopener noreferrer nofollow">https://www.hip-books.com/teaching-struggling-readers/comprehension/the-power-of-pre-reading/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Power of Pre-ReadingPREVIEW: We preview a text to get a sense of what it&#x27;s all about. · PRIOR KNOWLEDGE: It&#x27;s said that prior knowled...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchforteachers.com  
    Title: how to teach reading comprehension in secondary classrooms  
-   Link: <a href="https://researchforteachers.com/2025/02/17/how-to-teach-reading-comprehension-in-secondary-classrooms/" target="_blank" rel="noopener noreferrer nofollow">https://researchforteachers.com/2025/02/17/how-to-teach-reading-comprehension-in-secondary-classrooms/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Comprehension: Key Strategies17 Feb 2025 — Active reading strategies are various processes that good readers use before, during a...</p></details>
+   Link:<a href="https://researchforteachers.com/2025/02/17/how-to-teach-reading-comprehension-in-secondary-classrooms/" target="_blank" rel="noopener noreferrer nofollow">https://researchforteachers.com/2025/02/17/how-to-teach-reading-comprehension-in-secondary-classrooms/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Comprehension: Key Strategies17 Feb 2025 — Active reading strategies are various processes that good readers use before, during a...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: bedrocklearning.org  
    Title: reading comprehension across different text types  
-   Link: <a href="https://bedrocklearning.org/literacy-blogs/reading-comprehension-across-different-text-types/" target="_blank" rel="noopener noreferrer nofollow">https://bedrocklearning.org/literacy-blogs/reading-comprehension-across-different-text-types/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>12 strategies for reading comprehension across different...5 Jan 2023 — Find 12 strategies for improving reading comprehension across fi...</p></details>
+   Link:<a href="https://bedrocklearning.org/literacy-blogs/reading-comprehension-across-different-text-types/" target="_blank" rel="noopener noreferrer nofollow">https://bedrocklearning.org/literacy-blogs/reading-comprehension-across-different-text-types/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>12 strategies for reading comprehension across different...5 Jan 2023 — Find 12 strategies for improving reading comprehension across fi...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: authorservices.taylorandfrancis.com  
-   Link: <a href="https://authorservices.taylorandfrancis.com/publishing-your-research/writing-your-paper/using-keywords-to-write-title-and-abstract/" target="_blank" rel="noopener noreferrer nofollow">https://authorservices.taylorandfrancis.com/publishing-your-research/writing-your-paper/using-keywords-to-write-title-and-abstract/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>keywords to write your title and abstract - Author ServicesRead our advice to help you learn how to write an effective abstract and title...</p></details>
+   Link:<a href="https://authorservices.taylorandfrancis.com/publishing-your-research/writing-your-paper/using-keywords-to-write-title-and-abstract/" target="_blank" rel="noopener noreferrer nofollow">https://authorservices.taylorandfrancis.com/publishing-your-research/writing-your-paper/using-keywords-to-write-title-and-abstract/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>keywords to write your title and abstract - Author ServicesRead our advice to help you learn how to write an effective abstract and title...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: library.leeds.ac.uk  
-   Link: <a href="https://library.leeds.ac.uk/info/1404/literature_searching/14/literature_searching_explained/4" target="_blank" rel="noopener noreferrer nofollow">https://library.leeds.ac.uk/info/1404/literature_searching/14/literature_searching_explained/4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The search strategy combines the key concepts of your search question in...Read more...</p></details>
+   Link:<a href="https://library.leeds.ac.uk/info/1404/literature_searching/14/literature_searching_explained/4" target="_blank" rel="noopener noreferrer nofollow">https://library.leeds.ac.uk/info/1404/literature_searching/14/literature_searching_explained/4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The search strategy combines the key concepts of your search question in...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: es.scribd.com  
    Title: What is pre reading  
-   Link: <a href="https://es.scribd.com/document/514551645/What-is-pre-reading" target="_blank" rel="noopener noreferrer nofollow">https://es.scribd.com/document/514551645/What-is-pre-reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pre-Reading Techniques | PDFThere are several steps and strategies for effective pre-reading, such as previewing, predicting, activating...</p></details>
+   Link:<a href="https://es.scribd.com/document/514551645/What-is-pre-reading" target="_blank" rel="noopener noreferrer nofollow">https://es.scribd.com/document/514551645/What-is-pre-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pre-Reading Techniques | PDFThere are several steps and strategies for effective pre-reading, such as previewing, predicting, activating...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pridereadingprogram.com  
-   Link: <a href="https://pridereadingprogram.com/strategies-to-improve-reading-comprehension/?srsltid=AfmBOoonuR_EpRdJFGfAxiZYLTUQh0bAxASFNumznppmCBIog6aTQD5z" target="_blank" rel="noopener noreferrer nofollow">https://pridereadingprogram.com/strategies-to-improve-reading-comprehension/?srsltid=AfmBOoonuR_EpRdJFGfAxiZYLTUQh0bAxASFNumznppmCBIog6aTQD5z</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>8 Strategies to Improve Reading Comprehension15 Jan 2026 — Before reading, take a minute to do a “text walk.” Look over the title, headin...</p></details>
+   Link:<a href="https://pridereadingprogram.com/strategies-to-improve-reading-comprehension/?srsltid=AfmBOoonuR_EpRdJFGfAxiZYLTUQh0bAxASFNumznppmCBIog6aTQD5z" target="_blank" rel="noopener noreferrer nofollow">https://pridereadingprogram.com/strategies-to-improve-reading-comprehension/?srsltid=AfmBOoonuR_EpRdJFGfAxiZYLTUQh0bAxASFNumznppmCBIog6aTQD5z</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>8 Strategies to Improve Reading Comprehension15 Jan 2026 — Before reading, take a minute to do a “text walk.” Look over the title, headin...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: e-csd.org  
    Title: 1. Encoding Specificity Principle.Read more  
-   Link: <a href="https://www.e-csd.org/upload/7%283%29_16.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.e-csd.org/upload/7%283%29_16.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Narrative Review of Research Syntheses on Graphic...by OR Kang · Cited by 4 — The basic perspective falls under the general rubric of...</p></details>
+   Link:<a href="https://www.e-csd.org/upload/7%283%29_16.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.e-csd.org/upload/7%283%29_16.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Narrative Review of Research Syntheses on Graphic...by OR Kang · Cited by 4 — The basic perspective falls under the general rubric of...</p></details>

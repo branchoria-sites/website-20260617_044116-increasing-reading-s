@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /increasing-re-852ca6-purpose-based/
 description: Focused pages that expand on Reports.
-date: '2026-06-16'
+date: '2026'
 layout: default
 parent_basename: increasing_re_852ca6_purpose_based_25e5d2_report_skimmi_a98d6b
 parent_title: Reports
@@ -16,7 +16,7 @@ parent_permalink: /reports/
 
 # Explore Topics in Reports
 
-The following pages expand on the main **[Reports]({{ '/reports/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Reports]({{ '/reports/' | relative_url }})** page and cover its key branches in.
 
 - [Key charts]({{ '/key-charts/' | relative_url }})
 - [Summaries]({{ '/summaries/' | relative_url }})

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /increasing-re-852ca6-vocabulary-ba/
 description: Focused pages that expand on Known Words.
-date: '2026-06-16'
+date: '2026'
 layout: default
 parent_basename: increasing_re_852ca6_vocabulary_ba_236244_known_word_re_b04085
 parent_title: Known Words
@@ -16,7 +16,7 @@ parent_permalink: /known-words/
 
 # Explore Topics in Known Words
 
-The following pages expand on the main **[Known Words]({{ '/known-words/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Known Words]({{ '/known-words/' | relative_url }})** page and cover its key branches in.
 
 - [Word Depth]({{ '/word-depth/' | relative_url }})
 - [Rare Words]({{ '/rare-words/' | relative_url }})

@@ -283,7 +283,7 @@ image: /assets/images/increasing_re_852ca6_vocabulary_ba_236244_reading_clust_0d
 
 When readers encounter an unfamiliar [technical]({{ 'technical-texts/' | relative_url }}) term, they perform several mental operations at once. They must identify the word, retrieve any existing knowledge associated with it, infer meaning from context if necessary, and then integrate that meaning into the surrounding argument.
 
-Each of these steps consumes attention. Research on reading fluency consistently finds that effortful word recognition competes with comprehension for limited cognitive resources. When readers must devote attention to identifying or interpreting terminology, less attention remains available for understanding the author's argument. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ut.nesinc.com/TestView.aspx?f=HTML_FRAG%2Fflex%2Fautomaticity-and-fluency.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ut.nesinc.com">[ut.nesinc.com+2Massachusetts DESE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ut.nesinc.com</span><span class="citation-popover-snippet">ncy, and in turn, often cause problems with comprehension.Read more...</span></span></span>
+Each of these steps consumes attention. Research on reading fluency consistently finds that effortful word recognition competes with comprehension for limited cognitive resources. When readers must devote attention to identifying or interpreting terminology, less attention remains available for understanding the author's argument.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ut.nesinc.com/TestView.aspx?f=HTML_FRAG%2Fflex%2Fautomaticity-and-fluency.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ut.nesinc.com">[ut.nesinc.com+2Massachusetts DESE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ut.nesinc.com</span><span class="citation-popover-snippet">ncy, and in turn, often cause problems with comprehension.Read more...</span></span></span>
 
 Consider a first encounter with a specialist article on epidemiology. Terms such as “incidence rate”, “prevalence”, “cohort study” and “confounding variable” may appear repeatedly. Even if [definitions]({{ 'definitions/' | relative_url }}) are available, the reader initially spends time translating these terms into usable meaning. The text feels slow because the vocabulary acts as a series of speed bumps.
 
@@ -293,11 +293,11 @@ Importantly, the friction is cumulative. A page containing ten unfamiliar terms 
 
 Repeated exposure changes the way terminology is processed. Instead of consciously decoding a term each time it appears, readers gradually build a direct connection between the word form and its meaning.
 
-Reading researchers often describe this transition as a move towards automatic word recognition. Familiar words can be recognised rapidly and with little conscious effort because they have been stored in long-term memory through repeated encounters. Once this happens, readers no longer need to reconstruct meaning from scratch each time they see the term. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ut.nesinc.com/TestView.aspx?f=HTML_FRAG%2Fflex%2Fword-recognition.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ut.nesinc.com">[ut.nesinc.com+2Joyner Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ut.nesinc.com</span><span class="citation-popover-title">Automatic Word Recognition</span><span class="citation-popover-snippet">By promoting long-term memory of...Read more...</span></span></span>
+Reading researchers often describe this transition as a move towards automatic word recognition. Familiar words can be recognised rapidly and with little conscious effort because they have been stored in long-term memory through repeated encounters. Once this happens, readers no longer need to reconstruct meaning from scratch each time they see the term.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ut.nesinc.com/TestView.aspx?f=HTML_FRAG%2Fflex%2Fword-recognition.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ut.nesinc.com">[ut.nesinc.com+2Joyner Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ut.nesinc.com</span><span class="citation-popover-title">Automatic Word Recognition</span><span class="citation-popover-snippet">By promoting long-term memory of...Read more...</span></span></span>
 
 The process resembles learning faces. The first time you meet someone, recognition requires effort. After repeated encounters, identification becomes immediate. Technical vocabulary develops in much the same way.
 
-Studies of vocabulary acquisition show that repeated encounters with words strengthen learning and improve access to meaning, particularly when those encounters occur in informative contexts. Research examining word exposure frequency has found cumulative benefits from multiple encounters with new vocabulary rather than isolated appearances. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/abs/10.1080/09571736.2016.1244217" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineThe effects of context and word exposure frequency on...by F Teng · 2019 · Cited by 115 — With regard to acquisit...</span></span></span>
+Studies of vocabulary acquisition show that repeated encounters with words strengthen learning and improve access to meaning, particularly when those encounters occur in informative contexts. Research examining word exposure frequency has found cumulative benefits from multiple encounters with new vocabulary rather than isolated appearances.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/abs/10.1080/09571736.2016.1244217" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineThe effects of context and word exposure frequency on...by F Teng · 2019 · Cited by 115 — With regard to acquisit...</span></span></span>
 
 This is why clustered reading is so powerful. If five articles in the same discipline all use the term “opportunity cost”, the reader receives multiple opportunities to reinforce recognition. The term gradually stops being an object of study and becomes part of the [background]({{ 'expertise/' | relative_url }}) language of the field.
 
@@ -308,7 +308,7 @@ This is why clustered reading is so powerful. If five articles in the same disci
 
 The largest gain is not that individual words are processed faster. The larger gain is that attention becomes available for higher-level thinking.
 
-When terminology is unfamiliar, readers constantly switch between decoding vocabulary and understanding arguments. Once terminology becomes familiar, those switching costs largely disappear. Research on automaticity suggests that fluent recognition allows readers to allocate more mental resources to comprehension and interpretation rather than identification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ovid.com/journals/jedup/fulltext/10.1037/edu0000279~automaticity-of-word-recognition-is-a-unique-predictor-of" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ovid.com">[Ovid+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ovid.com</span><span class="citation-popover-snippet">Automaticity of Word Recognition Is a Unique...by TC Roembke · 2019 · Cited by 87 — Automaticity, particularly in a task stressing me...</span></span></span>
+When terminology is unfamiliar, readers constantly switch between decoding vocabulary and understanding arguments. Once terminology becomes familiar, those switching costs largely disappear. Research on automaticity suggests that fluent recognition allows readers to allocate more mental resources to comprehension and interpretation rather than identification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ovid.com/journals/jedup/fulltext/10.1037/edu0000279~automaticity-of-word-recognition-is-a-unique-predictor-of" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ovid.com">[Ovid+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ovid.com</span><span class="citation-popover-snippet">Automaticity of Word Recognition Is a Unique...by TC Roembke · 2019 · Cited by 87 — Automaticity, particularly in a task stressing me...</span></span></span>
 
 Several practical changes follow:
 
@@ -356,7 +356,7 @@ After sufficient repetition, the process shortens:
 
 </div>
 
-At that point, the term functions much like a common everyday word. Reading researchers describe fluent reading as relying on automatic recognition rather than effortful decoding. Repeated exposure helps move words into this automatic category. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wordflight.com/what-is-automatic-word-recognition/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wordflight.com">[WordFlight+2Milne Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wordflight.com</span><span class="citation-popover-snippet">What is Automatic Word Recognition?Automatic word recognition is a foundational reading skill that enables students to decode w...</span></span></span>
+At that point, the term functions much like a common everyday word. Reading researchers describe fluent reading as relying on automatic recognition rather than effortful decoding. Repeated exposure helps move words into this automatic category.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wordflight.com/what-is-automatic-word-recognition/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wordflight.com">[WordFlight+2Milne Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wordflight.com</span><span class="citation-popover-snippet">What is Automatic Word Recognition?Automatic word recognition is a foundational reading skill that enables students to decode w...</span></span></span>
 
 The transition does not require perfect mastery. A reader may still be unable to give a textbook definition of a term while nevertheless recognising it quickly enough that it no longer disrupts comprehension. For reading speed, rapid contextual recognition often matters more than formal memorisation.
 
@@ -369,7 +369,7 @@ The effect becomes especially powerful in specialised subjects because the same 
 
 Economics repeatedly uses terms such as “inflation expectations”, “marginal utility” and “productivity growth”. Legal writing repeatedly references doctrines, standards and procedural concepts. Biology papers repeatedly use the same terminology for processes, structures and methods.
 
-Every successful recognition makes the next encounter easier. Research on prior knowledge suggests that familiarity with a topic supports faster and more accurate word identification, creating a positive cycle between knowledge and fluency. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3142886/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by SJ Priebe · 2011 · Cited by 157 — Because we expect that having prior knowledge leads to more automatic word recognition, we will a...</span></span></span>
+Every successful recognition makes the next encounter easier. Research on prior knowledge suggests that familiarity with a topic supports faster and more accurate word identification, creating a positive cycle between knowledge and fluency.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3142886/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by SJ Priebe · 2011 · Cited by 157 — Because we expect that having prior knowledge leads to more automatic word recognition, we will a...</span></span></span>
 
 This explains why experts often appear to read difficult material effortlessly. Their advantage is not simply higher intelligence or faster eyes. Much of their speed comes from possessing a large library of instantly recognisable terms and concepts within their field. What looks like rapid reading is often rapid recognition.
 
@@ -382,178 +382,178 @@ If the goal is to increase reading speed in demanding nonfiction, repeated expos
 As terminology becomes automatic, comprehension requires less effort, rereading declines, and more of the reader's attention can stay focused on the ideas that matter. The text has not changed, but the amount of work required to understand it has. That reduction in cognitive friction is one of the clearest mechanisms through which [reading clusters]({{ 'reading-clusters/' | relative_url }}) produce faster reading.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How repeated terms unlock faster reading. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How repeated terms unlock faster reading. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Directly supports more efficient reading through structured approaches to comprehension.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Directly supports more efficient reading through structured approaches to comprehension.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-        </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+</h4>
+<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Explains repetition, retrieval, and durable learning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains repetition, retrieval, and durable learning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Word+Power+Made+Easy+Norman+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Word Power Made Easy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9082714-M.jpg" alt="Cover for Word Power Made Easy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Word+Power+Made+Easy+Norman+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Word Power Made Easy">Word Power Made Easy</a>
-        </h4>
-        <p class="fr-book-author">By Norman Lewis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Word+Power+Made+Easy+Norman+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Word Power Made Easy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9082714-M.jpg" alt="Cover for Word Power Made Easy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Word+Power+Made+Easy+Norman+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Word Power Made Easy">Word Power Made Easy</a>
+</h4>
+<p class="fr-book-author">By Norman Lewis</p>
         
-        <p class="fr-book-desc">First published 1949. Subjects: Vocabulary, General, Education / Reference, Reference, Anglais (Langue).</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Word+Power+Made+Easy+Norman+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1949. Subjects: Vocabulary, General, Education / Reference, Reference, Anglais (Langue).</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Word+Power+Made+Easy+Norman+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+vocabulary+builder+workbook+Chris+Lele&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The vocabulary builder workbook on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+vocabulary+builder+workbook+Chris+Lele&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The vocabulary builder workbook">The vocabulary builder workbook</a>
-        </h4>
-        <p class="fr-book-author">By Chris Lele</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+vocabulary+builder+workbook+Chris+Lele&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The vocabulary builder workbook on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+vocabulary+builder+workbook+Chris+Lele&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The vocabulary builder workbook">The vocabulary builder workbook</a>
+</h4>
+<p class="fr-book-author">By Chris Lele</p>
         
-        <p class="fr-book-desc">First published 2018. Subjects: Textbooks, Vocabulary, Grammar, Self-instruction, English language.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+vocabulary+builder+workbook+Chris+Lele&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2018. Subjects: Textbooks, Vocabulary, Grammar, Self-instruction, English language.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+vocabulary+builder+workbook+Chris+Lele&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Word+Power+Made+Easy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Word Power Made Easy</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Word+Power+Made+Easy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Word Power Made Easy</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vocabulary+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repeated-terms-how-repeated-terms-unlock-faster-reading-increasing-vocabulary-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vocabulary poster -book -books" data-ebay-reference="repeated-terms-how-repeated-terms-unlock-faster-reading-increasing-vocabulary-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mathematical Vocabulary, Laminated A4 Poster, KS1/KS2 Numeracy Teaching Resource"><img src="{{ '/assets/images/marketplace-covers/e89111e4296de2437119.jpg' | relative_url }}" alt="Listing image for Mathematical Vocabulary, Laminated A4 Poster, KS1/KS2 Numeracy Teaching Resource" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vocabulary+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repeated-terms-how-repeated-terms-unlock-faster-reading-increasing-vocabulary-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vocabulary poster -book -books" data-ebay-reference="repeated-terms-how-repeated-terms-unlock-faster-reading-increasing-vocabulary-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Mathematical Vocabulary, Laminated A4 Poster, KS1/KS2 Numeracy Teaching Resource</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vocabulary+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repeated-terms-how-repeated-terms-unlock-faster-reading-increasing-vocabulary-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vocabulary poster -book -books" data-ebay-reference="repeated-terms-how-repeated-terms-unlock-faster-reading-increasing-vocabulary-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vocabulary poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: vocabulary poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vocabulary+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repeated-terms-how-repeated-terms-unlock-faster-reading-increasing-vocabulary-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vocabulary poster -book -books" data-ebay-reference="repeated-terms-how-repeated-terms-unlock-faster-reading-increasing-vocabulary-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vocabulary+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repeated-terms-how-repeated-terms-unlock-faster-reading-increasing-vocabulary-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vocabulary poster -book -books" data-ebay-reference="repeated-terms-how-repeated-terms-unlock-faster-reading-increasing-vocabulary-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mathematical Vocabulary, Laminated A4 Poster, KS1/KS2 Numeracy Teaching Resource"><img src="{{ '/assets/images/marketplace-covers/e89111e4296de2437119.jpg' | relative_url }}" alt="Listing image for Mathematical Vocabulary, Laminated A4 Poster, KS1/KS2 Numeracy Teaching Resource" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vocabulary+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repeated-terms-how-repeated-terms-unlock-faster-reading-increasing-vocabulary-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vocabulary poster -book -books" data-ebay-reference="repeated-terms-how-repeated-terms-unlock-faster-reading-increasing-vocabulary-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Mathematical Vocabulary, Laminated A4 Poster, KS1/KS2 Numeracy Teaching Resource</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vocabulary+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repeated-terms-how-repeated-terms-unlock-faster-reading-increasing-vocabulary-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vocabulary poster -book -books" data-ebay-reference="repeated-terms-how-repeated-terms-unlock-faster-reading-increasing-vocabulary-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vocabulary poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: vocabulary poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vocabulary+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repeated-terms-how-repeated-terms-unlock-faster-reading-increasing-vocabulary-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vocabulary poster -book -books" data-ebay-reference="repeated-terms-how-repeated-terms-unlock-faster-reading-increasing-vocabulary-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vocabulary+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repeated-terms-how-repeated-terms-unlock-faster-reading-increasing-vocabulary-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vocabulary poster -book -books" data-ebay-reference="repeated-terms-how-repeated-terms-unlock-faster-reading-increasing-vocabulary-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mathematical Vocabulary, Laminated A4 Poster, KS1/KS2 Numeracy Teaching Resource"><img src="{{ '/assets/images/marketplace-covers/5d0abfcffb80abb0a6ad.jpg' | relative_url }}" alt="Listing image for Mathematical Vocabulary, Laminated A4 Poster, KS1/KS2 Numeracy Teaching Resource" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vocabulary+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repeated-terms-how-repeated-terms-unlock-faster-reading-increasing-vocabulary-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vocabulary poster -book -books" data-ebay-reference="repeated-terms-how-repeated-terms-unlock-faster-reading-increasing-vocabulary-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Mathematical Vocabulary, Laminated A4 Poster, KS1/KS2 Numeracy Teaching Resource</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vocabulary+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repeated-terms-how-repeated-terms-unlock-faster-reading-increasing-vocabulary-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vocabulary poster -book -books" data-ebay-reference="repeated-terms-how-repeated-terms-unlock-faster-reading-increasing-vocabulary-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vocabulary poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: vocabulary poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vocabulary+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repeated-terms-how-repeated-terms-unlock-faster-reading-increasing-vocabulary-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vocabulary poster -book -books" data-ebay-reference="repeated-terms-how-repeated-terms-unlock-faster-reading-increasing-vocabulary-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vocabulary+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repeated-terms-how-repeated-terms-unlock-faster-reading-increasing-vocabulary-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vocabulary poster -book -books" data-ebay-reference="repeated-terms-how-repeated-terms-unlock-faster-reading-increasing-vocabulary-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mathematical Vocabulary, Laminated A4 Poster, KS1/KS2 Numeracy Teaching Resource"><img src="{{ '/assets/images/marketplace-covers/5d0abfcffb80abb0a6ad.jpg' | relative_url }}" alt="Listing image for Mathematical Vocabulary, Laminated A4 Poster, KS1/KS2 Numeracy Teaching Resource" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vocabulary+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repeated-terms-how-repeated-terms-unlock-faster-reading-increasing-vocabulary-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vocabulary poster -book -books" data-ebay-reference="repeated-terms-how-repeated-terms-unlock-faster-reading-increasing-vocabulary-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Mathematical Vocabulary, Laminated A4 Poster, KS1/KS2 Numeracy Teaching Resource</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vocabulary+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repeated-terms-how-repeated-terms-unlock-faster-reading-increasing-vocabulary-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vocabulary poster -book -books" data-ebay-reference="repeated-terms-how-repeated-terms-unlock-faster-reading-increasing-vocabulary-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vocabulary poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: vocabulary poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vocabulary+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repeated-terms-how-repeated-terms-unlock-faster-reading-increasing-vocabulary-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vocabulary poster -book -books" data-ebay-reference="repeated-terms-how-repeated-terms-unlock-faster-reading-increasing-vocabulary-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vocabulary+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repeated-terms-how-repeated-terms-unlock-faster-reading-increasing-vocabulary-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vocabulary poster -book -books" data-ebay-reference="repeated-terms-how-repeated-terms-unlock-faster-reading-increasing-vocabulary-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NUMERACY VOCABULARY A2 laminated addition subtraction multiplication wall poster"><img src="{{ '/assets/images/marketplace-covers/581ce9db9ee253af1c0c.jpg' | relative_url }}" alt="Listing image for NUMERACY VOCABULARY A2 laminated addition subtraction multiplication wall poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vocabulary+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repeated-terms-how-repeated-terms-unlock-faster-reading-increasing-vocabulary-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vocabulary poster -book -books" data-ebay-reference="repeated-terms-how-repeated-terms-unlock-faster-reading-increasing-vocabulary-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">NUMERACY VOCABULARY A2 laminated addition subtraction multiplication wall poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vocabulary+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repeated-terms-how-repeated-terms-unlock-faster-reading-increasing-vocabulary-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vocabulary poster -book -books" data-ebay-reference="repeated-terms-how-repeated-terms-unlock-faster-reading-increasing-vocabulary-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vocabulary poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: vocabulary poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vocabulary+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repeated-terms-how-repeated-terms-unlock-faster-reading-increasing-vocabulary-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vocabulary poster -book -books" data-ebay-reference="repeated-terms-how-repeated-terms-unlock-faster-reading-increasing-vocabulary-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=vocabulary+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repeated-terms-how-repeated-terms-unlock-faster-reading-increasing-vocabulary-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vocabulary poster -book -books" data-ebay-reference="repeated-terms-how-repeated-terms-unlock-faster-reading-increasing-vocabulary-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vocabulary+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repeated-terms-how-repeated-terms-unlock-faster-reading-increasing-vocabulary-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vocabulary poster -book -books" data-ebay-reference="repeated-terms-how-repeated-terms-unlock-faster-reading-increasing-vocabulary-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NUMERACY VOCABULARY A2 laminated addition subtraction multiplication wall poster"><img src="{{ '/assets/images/marketplace-covers/581ce9db9ee253af1c0c.jpg' | relative_url }}" alt="Listing image for NUMERACY VOCABULARY A2 laminated addition subtraction multiplication wall poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vocabulary+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repeated-terms-how-repeated-terms-unlock-faster-reading-increasing-vocabulary-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vocabulary poster -book -books" data-ebay-reference="repeated-terms-how-repeated-terms-unlock-faster-reading-increasing-vocabulary-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">NUMERACY VOCABULARY A2 laminated addition subtraction multiplication wall poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vocabulary+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repeated-terms-how-repeated-terms-unlock-faster-reading-increasing-vocabulary-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vocabulary poster -book -books" data-ebay-reference="repeated-terms-how-repeated-terms-unlock-faster-reading-increasing-vocabulary-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vocabulary poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: vocabulary poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=vocabulary+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repeated-terms-how-repeated-terms-unlock-faster-reading-increasing-vocabulary-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vocabulary poster -book -books" data-ebay-reference="repeated-terms-how-repeated-terms-unlock-faster-reading-increasing-vocabulary-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=vocabulary+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=repeated-terms-how-repeated-terms-unlock-faster-reading-increasing-vocabulary-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vocabulary poster -book -books" data-ebay-reference="repeated-terms-how-repeated-terms-unlock-faster-reading-increasing-vocabulary-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -569,7 +569,7 @@ As terminology becomes automatic, comprehension requires less effort, rereading 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -589,7 +589,7 @@ As terminology becomes automatic, comprehension requires less effort, rereading 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -621,7 +621,7 @@ As terminology becomes automatic, comprehension requires less effort, rereading 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -673,7 +673,7 @@ As terminology becomes automatic, comprehension requires less effort, rereading 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -718,7 +718,7 @@ As terminology becomes automatic, comprehension requires less effort, rereading 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -759,140 +759,140 @@ As terminology becomes automatic, comprehension requires less effort, rereading 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ut.nesinc.com  
-   Link: <a href="https://www.ut.nesinc.com/TestView.aspx?f=HTML_FRAG%2Fflex%2Fautomaticity-and-fluency.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ut.nesinc.com/TestView.aspx?f=HTML_FRAG%2Fflex%2Fautomaticity-and-fluency.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ncy, and in turn, often cause problems with comprehension.Read more...</p></details>
+   Link:<a href="https://www.ut.nesinc.com/TestView.aspx?f=HTML_FRAG%2Fflex%2Fautomaticity-and-fluency.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ut.nesinc.com/TestView.aspx?f=HTML_FRAG%2Fflex%2Fautomaticity-and-fluency.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ncy, and in turn, often cause problems with comprehension.Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: doe.mass.edu  
    Title: achusetts DESEAutomaticity & Fluency  
-   Link: <a href="https://www.doe.mass.edu/massliteracy/reading-difficulties/automaticity-fluency.html" target="_blank" rel="noopener noreferrer nofollow">https://www.doe.mass.edu/massliteracy/reading-difficulties/automaticity-fluency.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>achusetts DESEAutomaticity &amp; Fluency - Evidence Based Early LiteracyNov 20, 2020 — Automaticity and Fluency Can Be an Underlying Caus...</p></details>
+   Link:<a href="https://www.doe.mass.edu/massliteracy/reading-difficulties/automaticity-fluency.html" target="_blank" rel="noopener noreferrer nofollow">https://www.doe.mass.edu/massliteracy/reading-difficulties/automaticity-fluency.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>achusetts DESEAutomaticity &amp; Fluency - Evidence Based Early LiteracyNov 20, 2020 — Automaticity and Fluency Can Be an Underlying Caus...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ut.nesinc.com  
    Title: Automatic Word Recognition  
-   Link: <a href="https://www.ut.nesinc.com/TestView.aspx?f=HTML_FRAG%2Fflex%2Fword-recognition.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ut.nesinc.com/TestView.aspx?f=HTML_FRAG%2Fflex%2Fword-recognition.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>By promoting long-term memory of...Read more...</p></details>
+   Link:<a href="https://www.ut.nesinc.com/TestView.aspx?f=HTML_FRAG%2Fflex%2Fword-recognition.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ut.nesinc.com/TestView.aspx?f=HTML_FRAG%2Fflex%2Fword-recognition.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>By promoting long-term memory of...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: doe.mass.edu  
    Title: word recognition  
-   Link: <a href="https://www.doe.mass.edu/massliteracy/skilled-reading/fluent-word-reading/word-recognition.html" target="_blank" rel="noopener noreferrer nofollow">https://www.doe.mass.edu/massliteracy/skilled-reading/fluent-word-reading/word-recognition.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>for Early Reading: Automatic Word RecognitionDecember 18, 2020 — All fluent readers can instantly and automatically recognize a large num...</p></details>
+   Link:<a href="https://www.doe.mass.edu/massliteracy/skilled-reading/fluent-word-reading/word-recognition.html" target="_blank" rel="noopener noreferrer nofollow">https://www.doe.mass.edu/massliteracy/skilled-reading/fluent-word-reading/word-recognition.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>for Early Reading: Automatic Word RecognitionDecember 18, 2020 — All fluent readers can instantly and automatically recognize a large num...</p></details>
    Published: December 18, 2020  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ovid.com  
-   Link: <a href="https://www.ovid.com/journals/jedup/fulltext/10.1037/edu0000279~automaticity-of-word-recognition-is-a-unique-predictor-of" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/jedup/fulltext/10.1037/edu0000279~automaticity-of-word-recognition-is-a-unique-predictor-of</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Automaticity of Word Recognition Is a Unique...by TC Roembke · 2019 · Cited by 87 — Automaticity, particularly in a task stressing me...</p></details>
+   Link:<a href="https://www.ovid.com/journals/jedup/fulltext/10.1037/edu0000279~automaticity-of-word-recognition-is-a-unique-predictor-of" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/jedup/fulltext/10.1037/edu0000279~automaticity-of-word-recognition-is-a-unique-predictor-of</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Automaticity of Word Recognition Is a Unique...by TC Roembke · 2019 · Cited by 87 — Automaticity, particularly in a task stressing me...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8559868/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8559868/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>as an Independent Trait in Predicting Reading...by TC Roembke · 2021 · Cited by 27 — Automaticity should be considered an individually r...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8559868/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8559868/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>as an Independent Trait in Predicting Reading...by TC Roembke · 2021 · Cited by 27 — Automaticity should be considered an individually r...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: wordflight.com  
-   Link: <a href="https://www.wordflight.com/what-is-automatic-word-recognition/" target="_blank" rel="noopener noreferrer nofollow">https://www.wordflight.com/what-is-automatic-word-recognition/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What is Automatic Word Recognition?Automatic word recognition is a foundational reading skill that enables students to decode w...</p></details>
+   Link:<a href="https://www.wordflight.com/what-is-automatic-word-recognition/" target="_blank" rel="noopener noreferrer nofollow">https://www.wordflight.com/what-is-automatic-word-recognition/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is Automatic Word Recognition?Automatic word recognition is a foundational reading skill that enables students to decode w...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3142886/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3142886/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by SJ Priebe · 2011 · Cited by 157 — Because we expect that having prior knowledge leads to more automatic word recognition, we will a...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3142886/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3142886/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by SJ Priebe · 2011 · Cited by 157 — Because we expect that having prior knowledge leads to more automatic word recognition, we will a...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: heinemann.com  
-   Link: <a href="https://www.heinemann.com/blog/bridging-processes-of-word-recognition-and-language-comprehension-in-the-active-view-of-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.heinemann.com/blog/bridging-processes-of-word-recognition-and-language-comprehension-in-the-active-view-of-reading</a>  
+   Link:<a href="https://www.heinemann.com/blog/bridging-processes-of-word-recognition-and-language-comprehension-in-the-active-view-of-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.heinemann.com/blog/bridging-processes-of-word-recognition-and-language-comprehension-in-the-active-view-of-reading</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: westportps.org  
-   Link: <a href="https://www.westportps.org/departments/teaching-learning/literacy/our-approach-to-literacy/literacy-word-recognition" target="_blank" rel="noopener noreferrer nofollow">https://www.westportps.org/departments/teaching-learning/literacy/our-approach-to-literacy/literacy-word-recognition</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Literacy: Word Recognition - Westport Public SchoolsSight word recognition, according to Scarborough&#x27;s Reading Rope, refers to a child&#x27;s...</p></details>
+   Link:<a href="https://www.westportps.org/departments/teaching-learning/literacy/our-approach-to-literacy/literacy-word-recognition" target="_blank" rel="noopener noreferrer nofollow">https://www.westportps.org/departments/teaching-learning/literacy/our-approach-to-literacy/literacy-word-recognition</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Literacy: Word Recognition - Westport Public SchoolsSight word recognition, according to Scarborough&#x27;s Reading Rope, refers to a child&#x27;s...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: library.ecu.edu  
-   Link: <a href="https://library.ecu.edu/networkingsummit/wp-content/pv-uploads/sites/257/2019/07/ehri.pdf" target="_blank" rel="noopener noreferrer nofollow">https://library.ecu.edu/networkingsummit/wp-content/pv-uploads/sites/257/2019/07/ehri.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Joyner LibraryOrthographic Mapping in the Acquisition of Sight Word...by LC Ehri · 2014 · Cited by 1437 — With repeated readings that ac...</p></details>
+   Link:<a href="https://library.ecu.edu/networkingsummit/wp-content/pv-uploads/sites/257/2019/07/ehri.pdf" target="_blank" rel="noopener noreferrer nofollow">https://library.ecu.edu/networkingsummit/wp-content/pv-uploads/sites/257/2019/07/ehri.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Joyner LibraryOrthographic Mapping in the Acquisition of Sight Word...by LC Ehri · 2014 · Cited by 1437 — With repeated readings that ac...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/09571736.2016.1244217" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/09571736.2016.1244217</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineThe effects of context and word exposure frequency on...by F Teng · 2019 · Cited by 115 — With regard to acquisit...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/abs/10.1080/09571736.2016.1244217" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/09571736.2016.1244217</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineThe effects of context and word exposure frequency on...by F Teng · 2019 · Cited by 115 — With regard to acquisit...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: milnepublishing.geneseo.edu  
-   Link: <a href="https://milnepublishing.geneseo.edu/steps-to-success/chapter/3-word-recognition-skills-one-of-two-essential-components-of-reading-comprehension/" target="_blank" rel="noopener noreferrer nofollow">https://milnepublishing.geneseo.edu/steps-to-success/chapter/3-word-recognition-skills-one-of-two-essential-components-of-reading-comprehension/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Milne Publishing3. Word Recognition Skills: One of Two Essential...by MS Murray · 2016 · Cited by 31 — This chapter focuses on word reco...</p></details>
+   Link:<a href="https://milnepublishing.geneseo.edu/steps-to-success/chapter/3-word-recognition-skills-one-of-two-essential-components-of-reading-comprehension/" target="_blank" rel="noopener noreferrer nofollow">https://milnepublishing.geneseo.edu/steps-to-success/chapter/3-word-recognition-skills-one-of-two-essential-components-of-reading-comprehension/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Milne Publishing3. Word Recognition Skills: One of Two Essential...by MS Murray · 2016 · Cited by 31 — This chapter focuses on word reco...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8894658/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8894658/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by H Soleimani · 2022 · Cited by 42 — The [purpose](&amp;#123;&amp;#123; &#x27;purpose/&#x27; | relative_url &amp;#125;&amp;#125;) of the current study was to investigate the effect of two types of repeated reading...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8894658/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8894658/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by H Soleimani · 2022 · Cited by 42 — The [purpose](&amp;#123;&amp;#123; &#x27;purpose/&#x27; | relative_url &amp;#125;&amp;#125;) of the current study was to investigate the effect of two types of repeated reading...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9874682/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9874682/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eye-movement studies have also revealed that phonemic awareness, a known predictor for early word recognition and decoding, contribute...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9874682/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9874682/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eye-movement studies have also revealed that phonemic awareness, a known predictor for early word recognition and decoding, contribute...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1111/ajpy.12095" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1111/ajpy.12095</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Full article: Beyond word recognition, fluency, and vocabularyby I Ribeiro · 2016 · Cited by 84 — The aim of this study was to investigat...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1111/ajpy.12095" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1111/ajpy.12095</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Full article: Beyond word recognition, fluency, and vocabularyby I Ribeiro · 2016 · Cited by 84 — The aim of this study was to investigat...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/274264677_Incidental_Vocabulary_Learning_in_Second_Language_Acquisition_A_Literature_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/274264677_Incidental_Vocabulary_Learning_in_Second_Language_Acquisition_A_Literature_Review</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Incidental Vocabulary Learning in Second...Mar 23, 2026 — The findings show that L2 learners develop much of their vocabulary by i...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/274264677_Incidental_Vocabulary_Learning_in_Second_Language_Acquisition_A_Literature_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/274264677_Incidental_Vocabulary_Learning_in_Second_Language_Acquisition_A_Literature_Review</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Incidental Vocabulary Learning in Second...Mar 23, 2026 — The findings show that L2 learners develop much of their vocabulary by i...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/397452445_The_Impact_Of_Extensive_Reading_On_Vocabulary_Development_And_Reading_Fluency_Among_Graduate_Students_At_Onaizah_College_Saudi_Arabia" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397452445_The_Impact_Of_Extensive_Reading_On_Vocabulary_Development_And_Reading_Fluency_Among_Graduate_Students_At_Onaizah_College_Saudi_Arabia</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Impact Of Extensive Reading On Vocabulary...Aug 20, 2025 — This research analyzed the relationship between extensive reading h...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/397452445_The_Impact_Of_Extensive_Reading_On_Vocabulary_Development_And_Reading_Fluency_Among_Graduate_Students_At_Onaizah_College_Saudi_Arabia" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397452445_The_Impact_Of_Extensive_Reading_On_Vocabulary_Development_And_Reading_Fluency_Among_Graduate_Students_At_Onaizah_College_Saudi_Arabia</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Impact Of Extensive Reading On Vocabulary...Aug 20, 2025 — This research analyzed the relationship between extensive reading h...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fluency: In DepthAutomaticity refers only to accurate, speedy word recognition, not to reading passages or connected text with ease and g...</p></details>
+   Link:<a href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fluency: In DepthAutomaticity refers only to accurate, speedy word recognition, not to reading passages or connected text with ease and g...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/23416074_Fluency_A_Key_Link_Between_Word_Identification_and_Comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/23416074_Fluency_A_Key_Link_Between_Word_Identification_and_Comprehension</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Fluency: A Key Link Between Word Identification and...Conceptually, reading fluency involves both fast decoding of words in text a...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/23416074_Fluency_A_Key_Link_Between_Word_Identification_and_Comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/23416074_Fluency_A_Key_Link_Between_Word_Identification_and_Comprehension</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Fluency: A Key Link Between Word Identification and...Conceptually, reading fluency involves both fast decoding of words in text a...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: allohio.org  
-   Link: <a href="https://allohio.org/wp-content/uploads/2025/03/PL10-Module-Resource-Guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://allohio.org/wp-content/uploads/2025/03/PL10-Module-Resource-Guide.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>teaching for reading fluencyWhen students are fluent readers, they can recognize words automatically and read for meaning. Fluency is som...</p></details>
+   Link:<a href="https://allohio.org/wp-content/uploads/2025/03/PL10-Module-Resource-Guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://allohio.org/wp-content/uploads/2025/03/PL10-Module-Resource-Guide.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>teaching for reading fluencyWhen students are fluent readers, they can recognize words automatically and read for meaning. Fluency is som...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: leadinliteracy.com  
-   Link: <a href="https://leadinliteracy.com/the-benefits-of-repeated-reading/" target="_blank" rel="noopener noreferrer nofollow">https://leadinliteracy.com/the-benefits-of-repeated-reading/</a>  
+   Link:<a href="https://leadinliteracy.com/the-benefits-of-repeated-reading/" target="_blank" rel="noopener noreferrer nofollow">https://leadinliteracy.com/the-benefits-of-repeated-reading/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/scienceofreading/posts/2027536811028104/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/scienceofreading/posts/2027536811028104/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>My daughter tells me that she used to do timed [oral reading](&amp;#123;&amp;#123; &#x27;reading-aloud/&#x27; | relative_url &amp;#125;&amp;#125;) and be...January 1, 2025 — How Does Reading Speed Fit into the Fluency Equat...</p></details>
+   Link:<a href="https://www.facebook.com/groups/scienceofreading/posts/2027536811028104/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/scienceofreading/posts/2027536811028104/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>My daughter tells me that she used to do timed [oral reading](&amp;#123;&amp;#123; &#x27;reading-aloud/&#x27; | relative_url &amp;#125;&amp;#125;) and be...January 1, 2025 — How Does Reading Speed Fit into the Fluency Equat...</p></details>
    Published: January 1, 2025  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: hmhco.com  
-   Link: <a href="https://www.hmhco.com/blog/what-is-orthographic-mapping-in-reading?srsltid=AfmBOoqAYCz3mOLdf29HWjaYGnh0LlSPFdMd_1m6x0GQ79KEnTW5HazW" target="_blank" rel="noopener noreferrer nofollow">https://www.hmhco.com/blog/what-is-orthographic-mapping-in-reading?srsltid=AfmBOoqAYCz3mOLdf29HWjaYGnh0LlSPFdMd_1m6x0GQ79KEnTW5HazW</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>se to store and retrieve words by connecting their pronunciation, spelling, and meaning automatically...Read more...</p></details>
+   Link:<a href="https://www.hmhco.com/blog/what-is-orthographic-mapping-in-reading?srsltid=AfmBOoqAYCz3mOLdf29HWjaYGnh0LlSPFdMd_1m6x0GQ79KEnTW5HazW" target="_blank" rel="noopener noreferrer nofollow">https://www.hmhco.com/blog/what-is-orthographic-mapping-in-reading?srsltid=AfmBOoqAYCz3mOLdf29HWjaYGnh0LlSPFdMd_1m6x0GQ79KEnTW5HazW</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>se to store and retrieve words by connecting their pronunciation, spelling, and meaning automatically...Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: instagram.com  
    Title: Because that is where automaticity is built. Decodable books give students  
-   Link: <a href="https://www.instagram.com/reel/DXRlSIxjYI4/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXRlSIxjYI4/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Orthographic Mapping: Part 2 The fastest path to fluency is...The fastest path to fluency is repeated reading in connected text...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DXRlSIxjYI4/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXRlSIxjYI4/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Orthographic Mapping: Part 2 The fastest path to fluency is...The fastest path to fluency is repeated reading in connected text...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: medium.com  
    Title: How to Read Faster in a Second Language (Without Losing Meaning)  
-   Link: <a href="https://medium.com/language-lab/how-to-read-faster-in-a-second-language-without-losing-meaning-7022bcbbc74d" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/language-lab/how-to-read-faster-in-a-second-language-without-losing-meaning-7022bcbbc74d</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 26, 2026 — Your reading speed may range between 100 and 200 words per minute on familiar or graded material, depending on text d...</p></details>
+   Link:<a href="https://medium.com/language-lab/how-to-read-faster-in-a-second-language-without-losing-meaning-7022bcbbc74d" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/language-lab/how-to-read-faster-in-a-second-language-without-losing-meaning-7022bcbbc74d</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 26, 2026 — Your reading speed may range between 100 and 200 words per minute on familiar or graded material, depending on text d...</p></details>
    Published: February 26, 2026  

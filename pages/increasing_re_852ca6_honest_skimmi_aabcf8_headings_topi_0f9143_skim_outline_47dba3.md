@@ -279,7 +279,7 @@ A skim becomes far more reliable when it produces a visible outline rather than 
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_headings_topi_0f9143_skim_outline_47dba3-Illustration-1-dark.svg" | relative_url }}" alt="Skim Outline illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_headings_topi_0f9143_skim_outline_47dba3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_headings_topi_0f9143_skim_outline_47dba3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Reading specialists commonly recommend surveying headings, text features, and key paragraph sentences before detailed reading because these structural elements often reveal the main organisation of a text. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://learningcenter.unc.edu/tips-and-tools/skimming/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learningcenter.unc.edu">[The Learning Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learningcenter.unc.edu</span><span class="citation-popover-title">The Learning Center Skimming</span><span class="citation-popover-snippet">The Learning CenterSkimming - The Learning CenterSkimming is a strategic, selective reading method in which you focus on the main ideas o...</span></span></span> Within the broader goal of [increasing]({{ 'increasing/' | relative_url }}) reading speed, a skim outline acts as a decision tool: it helps readers allocate attention where it will have the highest value.
+Reading specialists commonly recommend surveying headings, text features, and key paragraph sentences before detailed reading because these structural elements often reveal the main organisation of a text.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://learningcenter.unc.edu/tips-and-tools/skimming/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learningcenter.unc.edu">[The Learning Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learningcenter.unc.edu</span><span class="citation-popover-title">The Learning Center Skimming</span><span class="citation-popover-snippet">The Learning CenterSkimming - The Learning CenterSkimming is a strategic, selective reading method in which you focus on the main ideas o...</span></span></span> Within the broader goal of [increasing]({{ 'increasing/' | relative_url }}) reading speed, a skim outline acts as a decision tool: it helps readers allocate attention where it will have the highest value.
 
 ## How to Turn Headings into Branches
 
@@ -299,7 +299,7 @@ Congestion Pricing
 
 A skim outline would simply reproduce that structure in abbreviated form. The reader now possesses a map [before reading]({{ 'before-reading/' | relative_url }}) a single detailed paragraph.
 
-This approach works because headings are often designed to signal organisational importance. Educational reading guides note that headings and subheadings provide clues about what topics the author considers most significant and how the material is grouped. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.neit.edu/blog/how-to-read-a-textbook" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: neit.edu">[NEIT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">neit.edu</span><span class="citation-popover-snippet">Pay Attention to Headings and Subheadings · 2. Read the End of the Chapter First · 3. Break Your Assignments Up Into Chunks.Read more...</span></span></span>
+This approach works because headings are often designed to signal organisational importance. Educational reading guides note that headings and subheadings provide clues about what topics the author considers most significant and how the material is grouped.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.neit.edu/blog/how-to-read-a-textbook" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: neit.edu">[NEIT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">neit.edu</span><span class="citation-popover-snippet">Pay Attention to Headings and Subheadings · 2. Read the End of the Chapter First · 3. Break Your Assignments Up Into Chunks.Read more...</span></span></span>
 
 ### Keep the Outline Minimal
 
@@ -326,7 +326,7 @@ The [purpose]({{ 'purpose/' | relative_url }}) is navigation, not documentation.
 
 Headings reveal structure, but they do not always reveal claims. This is where paragraph openings become valuable.
 
-Writing guides frequently describe topic sentences as statements that introduce a paragraph's main point, and many writers place them near the beginning of the paragraph. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://owl.purdue.edu/owl/general_writing/academic_writing/paragraphs_and_paragraphing/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL+2Purdue Global Success Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLOn Paragraphs</span><span class="citation-popover-snippet">Purdue OWLOn Paragraphs - Purdue OWLA topic sentence is a sentence that indicates in a general way what idea or thesis the paragraph is g...</span></span></span> When [skimming]({{ 'skimming/' | relative_url }}), these opening sentences can be used to populate the branches created from headings.
+Writing guides frequently describe topic sentences as statements that introduce a paragraph's main point, and many writers place them near the beginning of the paragraph.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://owl.purdue.edu/owl/general_writing/academic_writing/paragraphs_and_paragraphing/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL+2Purdue Global Success Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLOn Paragraphs</span><span class="citation-popover-snippet">Purdue OWLOn Paragraphs - Purdue OWLA topic sentence is a sentence that indicates in a general way what idea or thesis the paragraph is g...</span></span></span> When [skimming]({{ 'skimming/' | relative_url }}), these opening sentences can be used to populate the branches created from headings.
 
 Imagine the heading:
 
@@ -382,7 +382,7 @@ A reader who later returns to the document can immediately identify where close 
 
 The main advantage of a skim outline is that it helps readers decide what not to read closely.
 
-Many skimming guides describe the technique as a way to identify material that requires further attention while avoiding unnecessary rereading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.utc.edu/enrollment-management-and-student-affairs/center-for-academic-support-and-advisement/tips-for-academic-success/skimming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: utc.edu">[University of Tennessee at Chattanooga]</a><span class="citation-popover" role="note"><span class="citation-popover-source">utc.edu</span><span class="citation-popover-snippet">University of Tennessee at ChattanoogaSkimming and Scanning &#124; University of Tennessee at...By skimming, you can quickly locate the infor...</span></span></span> Once the outline exists, readers can make deliberate choices instead of moving through the document line by line.
+Many skimming guides describe the technique as a way to identify material that requires further attention while avoiding unnecessary rereading.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.utc.edu/enrollment-management-and-student-affairs/center-for-academic-support-and-advisement/tips-for-academic-success/skimming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: utc.edu">[University of Tennessee at Chattanooga]</a><span class="citation-popover" role="note"><span class="citation-popover-source">utc.edu</span><span class="citation-popover-snippet">University of Tennessee at ChattanoogaSkimming and Scanning &#124; University of Tennessee at...By skimming, you can quickly locate the infor...</span></span></span> Once the outline exists, readers can make deliberate choices instead of moving through the document line by line.
 
 Several signals usually justify slowing down:
 
@@ -422,13 +422,13 @@ For articles, [reports]({{ 'reports/' | relative_url }}), and textbook chapters,
 
 </div>
 
-This method aligns with previewing and survey-based reading approaches that encourage readers to examine structure before detailed reading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://opennccc.nccommunitycolleges.edu/courseware/lesson/188/overview" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: opennccc.nccommunitycolleges.edu">[Open NCC Community Colleges+2Humanities LibreTexts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">opennccc.nccommunitycolleges.edu</span><span class="citation-popover-snippet">Open NCC Community CollegesChapter 12: Active Reading StrategiesPlan your reading by scanning the reading assignment first, then create q...</span></span></span>
+This method aligns with previewing and survey-based reading approaches that encourage readers to examine structure before detailed reading.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://opennccc.nccommunitycolleges.edu/courseware/lesson/188/overview" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: opennccc.nccommunitycolleges.edu">[Open NCC Community Colleges+2Humanities LibreTexts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">opennccc.nccommunitycolleges.edu</span><span class="citation-popover-snippet">Open NCC Community CollegesChapter 12: Active Reading StrategiesPlan your reading by scanning the reading assignment first, then create q...</span></span></span>
 
 ## Why Structural Outlines Improve Reading Speed
 
 The real benefit is not merely moving faster across pages. It is reducing wasted attention.
 
-Skimming is most effective when it creates a framework for understanding rather than a collection of disconnected fragments. Reading guides consistently describe skimming as extracting the main ideas and organisational pattern of a text rather than absorbing every detail. The Learning Center+2Smekens Education Solutions, Inc. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://learningcenter.unc.edu/tips-and-tools/skimming/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learningcenter.unc.edu">[learningcenter.unc.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learningcenter.unc.edu</span><span class="citation-popover-title">The Learning Center Skimming</span><span class="citation-popover-snippet">The Learning CenterSkimming - The Learning CenterSkimming is a strategic, selective reading method in which you focus on the main ideas o...</span></span></span>
+Skimming is most effective when it creates a framework for understanding rather than a collection of disconnected fragments. Reading guides consistently describe skimming as extracting the main ideas and organisational pattern of a text rather than absorbing every detail. The Learning Center+2Smekens Education Solutions, Inc.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://learningcenter.unc.edu/tips-and-tools/skimming/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learningcenter.unc.edu">[learningcenter.unc.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learningcenter.unc.edu</span><span class="citation-popover-title">The Learning Center Skimming</span><span class="citation-popover-snippet">The Learning CenterSkimming - The Learning CenterSkimming is a strategic, selective reading method in which you focus on the main ideas o...</span></span></span>
 
 A skim outline accomplishes exactly that. By turning headings into branches and topic sentences into concise claims, readers create a working map of the document. Once that map exists, close reading becomes targeted, purposeful, and significantly more efficient.
 
@@ -437,178 +437,178 @@ A skim outline accomplishes exactly that. By turning headings into branches and 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Build a Fast Outline Before Reading Closely. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Build a Fast Outline Before Reading Closely. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Inspectional reading and outlining are central themes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Inspectional reading and outlining are central themes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-        </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+</h4>
+<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Supports turning reading into organized understanding.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports turning reading into organized understanding.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ultralearning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jyV2DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ultralearning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ultralearning">Ultralearning</a>
-        </h4>
-        <p class="fr-book-author">By Scott H. Young</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ultralearning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jyV2DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ultralearning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ultralearning">Ultralearning</a>
+</h4>
+<p class="fr-book-author">By Scott H. Young</p>
         
-        <p class="fr-book-desc">Encourages strategic extraction of information before deep study.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages strategic extraction of information before deep study.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+pyramid+principle+Barbara+Minto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The pyramid principle on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2346771-M.jpg" alt="Cover for The pyramid principle" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+pyramid+principle+Barbara+Minto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The pyramid principle">The pyramid principle</a>
-        </h4>
-        <p class="fr-book-author">By Barbara Minto</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+pyramid+principle+Barbara+Minto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The pyramid principle on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2346771-M.jpg" alt="Cover for The pyramid principle" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+pyramid+principle+Barbara+Minto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The pyramid principle">The pyramid principle</a>
+</h4>
+<p class="fr-book-author">By Barbara Minto</p>
         
-        <p class="fr-book-desc">First published 1978. Subjects: English language, Business English, Business writing, Rhetoric, Thought and thinking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+pyramid+principle+Barbara+Minto&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1978. Subjects: English language, Business English, Business writing, Rhetoric, Thought and thinking.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+pyramid+principle+Barbara+Minto&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ultralearning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ultralearning</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ultralearning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ultralearning</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skim-outline-build-a-fast-outline-before-reading-closely-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="skim-outline-build-a-fast-outline-before-reading-closely-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desk Organiser Tray Organiser Office File Organiser Engineered wood vidaXL"><img src="{{ '/assets/images/marketplace-covers/509c5226465c913ad15d.jpg' | relative_url }}" alt="Listing image for Desk Organiser Tray Organiser Office File Organiser Engineered wood vidaXL" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skim-outline-build-a-fast-outline-before-reading-closely-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="skim-outline-build-a-fast-outline-before-reading-closely-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Desk Organiser Tray Organiser Office File Organiser Engineered wood vidaXL</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skim-outline-build-a-fast-outline-before-reading-closely-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="skim-outline-build-a-fast-outline-before-reading-closely-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: study desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skim-outline-build-a-fast-outline-before-reading-closely-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="skim-outline-build-a-fast-outline-before-reading-closely-increasing-study-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skim-outline-build-a-fast-outline-before-reading-closely-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="skim-outline-build-a-fast-outline-before-reading-closely-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desk Organiser Tray Organiser Office File Organiser Engineered wood vidaXL"><img src="{{ '/assets/images/marketplace-covers/509c5226465c913ad15d.jpg' | relative_url }}" alt="Listing image for Desk Organiser Tray Organiser Office File Organiser Engineered wood vidaXL" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skim-outline-build-a-fast-outline-before-reading-closely-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="skim-outline-build-a-fast-outline-before-reading-closely-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Desk Organiser Tray Organiser Office File Organiser Engineered wood vidaXL</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skim-outline-build-a-fast-outline-before-reading-closely-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="skim-outline-build-a-fast-outline-before-reading-closely-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: study desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skim-outline-build-a-fast-outline-before-reading-closely-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="skim-outline-build-a-fast-outline-before-reading-closely-increasing-study-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skim-outline-build-a-fast-outline-before-reading-closely-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="skim-outline-build-a-fast-outline-before-reading-closely-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Office Study Desk Organizer Table Box Tidy Case Display Stationaries Pen Holder"><img src="{{ '/assets/images/marketplace-covers/5c9ca9153eac647ccfb2.jpg' | relative_url }}" alt="Listing image for Office Study Desk Organizer Table Box Tidy Case Display Stationaries Pen Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skim-outline-build-a-fast-outline-before-reading-closely-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="skim-outline-build-a-fast-outline-before-reading-closely-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Office Study Desk Organizer Table Box Tidy Case Display Stationaries Pen Holder</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skim-outline-build-a-fast-outline-before-reading-closely-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="skim-outline-build-a-fast-outline-before-reading-closely-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: study desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skim-outline-build-a-fast-outline-before-reading-closely-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="skim-outline-build-a-fast-outline-before-reading-closely-increasing-study-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skim-outline-build-a-fast-outline-before-reading-closely-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="skim-outline-build-a-fast-outline-before-reading-closely-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Office Study Desk Organizer Table Box Tidy Case Display Stationaries Pen Holder"><img src="{{ '/assets/images/marketplace-covers/5c9ca9153eac647ccfb2.jpg' | relative_url }}" alt="Listing image for Office Study Desk Organizer Table Box Tidy Case Display Stationaries Pen Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skim-outline-build-a-fast-outline-before-reading-closely-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="skim-outline-build-a-fast-outline-before-reading-closely-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Office Study Desk Organizer Table Box Tidy Case Display Stationaries Pen Holder</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skim-outline-build-a-fast-outline-before-reading-closely-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="skim-outline-build-a-fast-outline-before-reading-closely-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: study desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skim-outline-build-a-fast-outline-before-reading-closely-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="skim-outline-build-a-fast-outline-before-reading-closely-increasing-study-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skim-outline-build-a-fast-outline-before-reading-closely-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="skim-outline-build-a-fast-outline-before-reading-closely-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Under Desk Drawers Study Table Drawer Tray Pencil Storage Organizer Box Holder"><img src="{{ '/assets/images/marketplace-covers/33486c199d5fa156bbf4.jpg' | relative_url }}" alt="Listing image for Under Desk Drawers Study Table Drawer Tray Pencil Storage Organizer Box Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skim-outline-build-a-fast-outline-before-reading-closely-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="skim-outline-build-a-fast-outline-before-reading-closely-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Under Desk Drawers Study Table Drawer Tray Pencil Storage Organizer Box Holder</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skim-outline-build-a-fast-outline-before-reading-closely-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="skim-outline-build-a-fast-outline-before-reading-closely-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: study desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skim-outline-build-a-fast-outline-before-reading-closely-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="skim-outline-build-a-fast-outline-before-reading-closely-increasing-study-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skim-outline-build-a-fast-outline-before-reading-closely-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="skim-outline-build-a-fast-outline-before-reading-closely-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skim-outline-build-a-fast-outline-before-reading-closely-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="skim-outline-build-a-fast-outline-before-reading-closely-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Under Desk Drawers Study Table Drawer Tray Pencil Storage Organizer Box Holder"><img src="{{ '/assets/images/marketplace-covers/33486c199d5fa156bbf4.jpg' | relative_url }}" alt="Listing image for Under Desk Drawers Study Table Drawer Tray Pencil Storage Organizer Box Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skim-outline-build-a-fast-outline-before-reading-closely-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="skim-outline-build-a-fast-outline-before-reading-closely-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Under Desk Drawers Study Table Drawer Tray Pencil Storage Organizer Box Holder</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skim-outline-build-a-fast-outline-before-reading-closely-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="skim-outline-build-a-fast-outline-before-reading-closely-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: study desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skim-outline-build-a-fast-outline-before-reading-closely-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="skim-outline-build-a-fast-outline-before-reading-closely-increasing-study-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skim-outline-build-a-fast-outline-before-reading-closely-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="skim-outline-build-a-fast-outline-before-reading-closely-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -624,7 +624,7 @@ A skim outline accomplishes exactly that. By turning headings into branches and 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -644,7 +644,7 @@ A skim outline accomplishes exactly that. By turning headings into branches and 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -676,7 +676,7 @@ A skim outline accomplishes exactly that. By turning headings into branches and 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -728,7 +728,7 @@ A skim outline accomplishes exactly that. By turning headings into branches and 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -773,7 +773,7 @@ A skim outline accomplishes exactly that. By turning headings into branches and 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -814,149 +814,149 @@ A skim outline accomplishes exactly that. By turning headings into branches and 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: neit.edu  
-   Link: <a href="https://www.neit.edu/blog/how-to-read-a-textbook" target="_blank" rel="noopener noreferrer nofollow">https://www.neit.edu/blog/how-to-read-a-textbook</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pay Attention to Headings and Subheadings · 2. Read the End of the Chapter First · 3. Break Your Assignments Up Into Chunks.Read more...</p></details>
+   Link:<a href="https://www.neit.edu/blog/how-to-read-a-textbook" target="_blank" rel="noopener noreferrer nofollow">https://www.neit.edu/blog/how-to-read-a-textbook</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pay Attention to Headings and Subheadings · 2. Read the End of the Chapter First · 3. Break Your Assignments Up Into Chunks.Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: owl.purdue.edu  
    Title: OWLOn Paragraphs  
-   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/paragraphs_and_paragraphing/index.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/paragraphs_and_paragraphing/index.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWLOn Paragraphs - Purdue OWLA topic sentence is a sentence that indicates in a general way what idea or thesis the paragraph is g...</p></details>
+   Link:<a href="https://owl.purdue.edu/owl/general_writing/academic_writing/paragraphs_and_paragraphing/index.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/paragraphs_and_paragraphing/index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWLOn Paragraphs - Purdue OWLA topic sentence is a sentence that indicates in a general way what idea or thesis the paragraph is g...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: human.libretexts.org  
    Title: It calls for readers to skim a text before reading.Read more  
-   Link: <a href="https://human.libretexts.org/Courses/City_College_of_San_Francisco/Writing_Reading_and_College_Success%3A_A_First-Year_Composition_Course_for_All_Learners_%28Kashyap_and_Dyquisto%29/03%3A_The_Reading-Writing_Connection/3.03%3A_Reading_Strategies_-_Previewing" target="_blank" rel="noopener noreferrer nofollow">https://human.libretexts.org/Courses/City_College_of_San_Francisco/Writing_Reading_and_College_Success%3A_A_First-Year_Composition_Course_for_All_Learners_%28Kashyap_and_Dyquisto%29/03%3A_The_Reading-Writing_Connection/3.03%3A_Reading_Strategies_-_Previewing</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ities LibreTexts3.3: Reading Strategies - PreviewingMar 19, 2025 — Previewing is a strategy that readers use to recall prior knowled...</p></details>
+   Link:<a href="https://human.libretexts.org/Courses/City_College_of_San_Francisco/Writing_Reading_and_College_Success%3A_A_First-Year_Composition_Course_for_All_Learners_%28Kashyap_and_Dyquisto%29/03%3A_The_Reading-Writing_Connection/3.03%3A_Reading_Strategies_-_Previewing" target="_blank" rel="noopener noreferrer nofollow">https://human.libretexts.org/Courses/City_College_of_San_Francisco/Writing_Reading_and_College_Success%3A_A_First-Year_Composition_Course_for_All_Learners_%28Kashyap_and_Dyquisto%29/03%3A_The_Reading-Writing_Connection/3.03%3A_Reading_Strategies_-_Previewing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ities LibreTexts3.3: Reading Strategies - PreviewingMar 19, 2025 — Previewing is a strategy that readers use to recall prior knowled...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: purdue.edu  
-   Link: <a href="https://www.purdue.edu/" target="_blank" rel="noopener noreferrer nofollow">https://www.purdue.edu/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue UniversityPurdue University is a world-renowned, public research university that advances discoveries in science, technology, engi...</p></details>
+   Link:<a href="https://www.purdue.edu/" target="_blank" rel="noopener noreferrer nofollow">https://www.purdue.edu/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue UniversityPurdue University is a world-renowned, public research university that advances discoveries in science, technology, engi...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: owl.purdue.edu  
-   Link: <a href="https://owl.purdue.edu/owl/research_and_citation/using_research/quoting_paraphrasing_and_summarizing/index.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/research_and_citation/using_research/quoting_paraphrasing_and_summarizing/index.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>purdue.eduQuoting, Paraphrasing, and Summarizing - Purdue OWLSummarizing involves putting the main idea(s) into your own words, including...</p></details>
+   Link:<a href="https://owl.purdue.edu/owl/research_and_citation/using_research/quoting_paraphrasing_and_summarizing/index.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/research_and_citation/using_research/quoting_paraphrasing_and_summarizing/index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>purdue.eduQuoting, Paraphrasing, and Summarizing - Purdue OWLSummarizing involves putting the main idea(s) into your own words, including...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: owl.purdue.edu  
    Title: body paragraphs  
-   Link: <a href="https://owl.purdue.edu/owl/general_writing/common_writing_assignments/argument_papers/body_paragraphs.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/common_writing_assignments/argument_papers/body_paragraphs.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Paragraphs - Purdue OWLA good paragraph should contain at least the following four elements: Transition, Topic sentence, specific Evidenc...</p></details>
+   Link:<a href="https://owl.purdue.edu/owl/general_writing/common_writing_assignments/argument_papers/body_paragraphs.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/common_writing_assignments/argument_papers/body_paragraphs.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Paragraphs - Purdue OWLA good paragraph should contain at least the following four elements: Transition, Topic sentence, specific Evidenc...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: owl.purdue.edu  
    Title: argumentative essays  
-   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/essay_writing/argumentative_essays.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/essay_writing/argumentative_essays.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Essays - Purdue OWLBody paragraphs that include evidential support. Each paragraph should be limited to the discussion of one general ide...</p></details>
+   Link:<a href="https://owl.purdue.edu/owl/general_writing/academic_writing/essay_writing/argumentative_essays.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/essay_writing/argumentative_essays.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Essays - Purdue OWLBody paragraphs that include evidential support. Each paragraph should be limited to the discussion of one general ide...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: owl.purdue.edu  
-   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/paragraphs_and_paragraphing/paragraphing.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/paragraphs_and_paragraphing/paragraphing.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(Length Consistency) - Purdue OWLPut only one main idea per paragraph. Aim for three to five or more sentences per paragraph. Include on...</p></details>
+   Link:<a href="https://owl.purdue.edu/owl/general_writing/academic_writing/paragraphs_and_paragraphing/paragraphing.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/paragraphs_and_paragraphing/paragraphing.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(Length Consistency) - Purdue OWLPut only one main idea per paragraph. Aim for three to five or more sentences per paragraph. Include on...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: learningcenter.unc.edu  
    Title: The Learning Center Skimming  
-   Link: <a href="https://learningcenter.unc.edu/tips-and-tools/skimming/" target="_blank" rel="noopener noreferrer nofollow">https://learningcenter.unc.edu/tips-and-tools/skimming/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Learning CenterSkimming - The Learning CenterSkimming is a strategic, selective reading method in which you focus on the main ideas o...</p></details>
+   Link:<a href="https://learningcenter.unc.edu/tips-and-tools/skimming/" target="_blank" rel="noopener noreferrer nofollow">https://learningcenter.unc.edu/tips-and-tools/skimming/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Learning CenterSkimming - The Learning CenterSkimming is a strategic, selective reading method in which you focus on the main ideas o...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: opennccc.nccommunitycolleges.edu  
-   Link: <a href="https://opennccc.nccommunitycolleges.edu/courseware/lesson/188/overview" target="_blank" rel="noopener noreferrer nofollow">https://opennccc.nccommunitycolleges.edu/courseware/lesson/188/overview</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Open NCC Community CollegesChapter 12: Active Reading StrategiesPlan your reading by [scanning](&amp;#123;&amp;#123; &#x27;scanning-vs-reading/&#x27; | relative_url &amp;#125;&amp;#125;) the reading assignment first, then create q...</p></details>
+   Link:<a href="https://opennccc.nccommunitycolleges.edu/courseware/lesson/188/overview" target="_blank" rel="noopener noreferrer nofollow">https://opennccc.nccommunitycolleges.edu/courseware/lesson/188/overview</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Open NCC Community CollegesChapter 12: Active Reading StrategiesPlan your reading by [scanning](&amp;#123;&amp;#123; &#x27;scanning-vs-reading/&#x27; | relative_url &amp;#125;&amp;#125;) the reading assignment first, then create q...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: purdueglobalwriting.center  
-   Link: <a href="https://purdueglobalwriting.center/topic-sentence-and-paragraph-organization/" target="_blank" rel="noopener noreferrer nofollow">https://purdueglobalwriting.center/topic-sentence-and-paragraph-organization/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue Global Success CenterTopic Sentence and Paragraph OrganizationA topic sentence has two parts: 1) the topic that is being discussed...</p></details>
+   Link:<a href="https://purdueglobalwriting.center/topic-sentence-and-paragraph-organization/" target="_blank" rel="noopener noreferrer nofollow">https://purdueglobalwriting.center/topic-sentence-and-paragraph-organization/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue Global Success CenterTopic Sentence and Paragraph OrganizationA topic sentence has two parts: 1) the topic that is being discussed...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: utc.edu  
-   Link: <a href="https://www.utc.edu/enrollment-management-and-student-affairs/center-for-academic-support-and-advisement/tips-for-academic-success/skimming" target="_blank" rel="noopener noreferrer nofollow">https://www.utc.edu/enrollment-management-and-student-affairs/center-for-academic-support-and-advisement/tips-for-academic-success/skimming</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>University of Tennessee at ChattanoogaSkimming and Scanning | University of Tennessee at...By skimming, you can quickly locate the infor...</p></details>
+   Link:<a href="https://www.utc.edu/enrollment-management-and-student-affairs/center-for-academic-support-and-advisement/tips-for-academic-success/skimming" target="_blank" rel="noopener noreferrer nofollow">https://www.utc.edu/enrollment-management-and-student-affairs/center-for-academic-support-and-advisement/tips-for-academic-success/skimming</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of Tennessee at ChattanoogaSkimming and Scanning | University of Tennessee at...By skimming, you can quickly locate the infor...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: smekenseducation.com  
-   Link: <a href="https://www.smekenseducation.com/teach-readers-how-to-skim-long-texts/" target="_blank" rel="noopener noreferrer nofollow">https://www.smekenseducation.com/teach-readers-how-to-skim-long-texts/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Smekens Education Solutions, Inc.Teach readers how to skim long textsSkimming involves reading key portions of a passage to glean the gis...</p></details>
+   Link:<a href="https://www.smekenseducation.com/teach-readers-how-to-skim-long-texts/" target="_blank" rel="noopener noreferrer nofollow">https://www.smekenseducation.com/teach-readers-how-to-skim-long-texts/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Smekens Education Solutions, Inc.Teach readers how to skim long textsSkimming involves reading key portions of a passage to glean the gis...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: purdueglobal.edu  
    Title: improve reading comprehension college  
-   Link: <a href="https://www.purdueglobal.edu/blog/general-education/improve-reading-comprehension-college/" target="_blank" rel="noopener noreferrer nofollow">https://www.purdueglobal.edu/blog/general-education/improve-reading-comprehension-college/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This will help you understand the main ideas and take better notes. 10. Discuss...Read more...</p></details>
+   Link:<a href="https://www.purdueglobal.edu/blog/general-education/improve-reading-comprehension-college/" target="_blank" rel="noopener noreferrer nofollow">https://www.purdueglobal.edu/blog/general-education/improve-reading-comprehension-college/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This will help you understand the main ideas and take better notes. 10. Discuss...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: purdueglobal.edu  
    Title: Purdue Global  
-   Link: <a href="https://www.purdueglobal.edu/" target="_blank" rel="noopener noreferrer nofollow">https://www.purdueglobal.edu/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An Accredited Online UniversityPurdue Global is 100% online so you can fit earning a degree into your busy life. Take undergraduate cours...</p></details>
+   Link:<a href="https://www.purdueglobal.edu/" target="_blank" rel="noopener noreferrer nofollow">https://www.purdueglobal.edu/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An Accredited Online UniversityPurdue Global is 100% online so you can fit earning a degree into your busy life. Take undergraduate cours...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: learningcenter.unc.edu  
    Title: reading textbooks effectively  
-   Link: <a href="https://learningcenter.unc.edu/tips-and-tools/reading-textbooks-effectively/" target="_blank" rel="noopener noreferrer nofollow">https://learningcenter.unc.edu/tips-and-tools/reading-textbooks-effectively/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effective reading strategies can ensure that you truly comprehend...Read more...</p></details>
+   Link:<a href="https://learningcenter.unc.edu/tips-and-tools/reading-textbooks-effectively/" target="_blank" rel="noopener noreferrer nofollow">https://learningcenter.unc.edu/tips-and-tools/reading-textbooks-effectively/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effective reading strategies can ensure that you truly comprehend...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: learningcenter.unc.edu  
    Title: reading comprehension tips  
-   Link: <a href="https://learningcenter.unc.edu/tips-and-tools/reading-comprehension-tips/" target="_blank" rel="noopener noreferrer nofollow">https://learningcenter.unc.edu/tips-and-tools/reading-comprehension-tips/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Preview the text. Don&#x27;t jump in all at once.Read more...</p></details>
+   Link:<a href="https://learningcenter.unc.edu/tips-and-tools/reading-comprehension-tips/" target="_blank" rel="noopener noreferrer nofollow">https://learningcenter.unc.edu/tips-and-tools/reading-comprehension-tips/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Preview the text. Don&#x27;t jump in all at once.Read more...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pnw.edu  
-   Link: <a href="https://www.pnw.edu/" target="_blank" rel="noopener noreferrer nofollow">https://www.pnw.edu/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue University Northwest: HomepageRooted in Northwest Indiana, Purdue University Northwest (PNW) is a student-centered university tran...</p></details>
+   Link:<a href="https://www.pnw.edu/" target="_blank" rel="noopener noreferrer nofollow">https://www.pnw.edu/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue University Northwest: HomepageRooted in Northwest Indiana, Purdue University Northwest (PNW) is a student-centered university tran...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/EnglishProTips/posts/skimming-and-scanning-for-ielts-reading-ieltsreading/994478272698983/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EnglishProTips/posts/skimming-and-scanning-for-ielts-reading-ieltsreading/994478272698983/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skimming and Scanning for IELTS Reading #ieltsreadingSkim for main ideas, focus on headings and first sentences, then scan for specific i...</p></details>
+   Link:<a href="https://www.facebook.com/EnglishProTips/posts/skimming-and-scanning-for-ielts-reading-ieltsreading/994478272698983/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EnglishProTips/posts/skimming-and-scanning-for-ielts-reading-ieltsreading/994478272698983/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skimming and Scanning for IELTS Reading #ieltsreadingSkim for main ideas, focus on headings and first sentences, then scan for specific i...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: lbarneslittoolkit.weebly.com  
-   Link: <a href="https://lbarneslittoolkit.weebly.com/during-reading-strategies.html" target="_blank" rel="noopener noreferrer nofollow">https://lbarneslittoolkit.weebly.com/during-reading-strategies.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>my literacy tool kitDuring-reading strategiesSkimming is an instructional tool that helps readers quickly identify certain details as wel...</p></details>
+   Link:<a href="https://lbarneslittoolkit.weebly.com/during-reading-strategies.html" target="_blank" rel="noopener noreferrer nofollow">https://lbarneslittoolkit.weebly.com/during-reading-strategies.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>my literacy tool kitDuring-reading strategiesSkimming is an instructional tool that helps readers quickly identify certain details as wel...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ctl.wustl.edu  
-   Link: <a href="https://ctl.wustl.edu/learningcenter/wp-content/uploads/sites/2/2021/07/Reading-Strategies_TLC_2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ctl.wustl.edu/learningcenter/wp-content/uploads/sites/2/2021/07/Reading-Strategies_TLC_2020.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>for College ReadingThis well-known active reading strategy is named for its five steps: Survey, Question, Read, Recall (or. Recite), and...</p></details>
+   Link:<a href="https://ctl.wustl.edu/learningcenter/wp-content/uploads/sites/2/2021/07/Reading-Strategies_TLC_2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ctl.wustl.edu/learningcenter/wp-content/uploads/sites/2/2021/07/Reading-Strategies_TLC_2020.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>for College ReadingThis well-known active reading strategy is named for its five steps: Survey, Question, Read, Recall (or. Recite), and...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: touro.edu  
-   Link: <a href="https://www.touro.edu/departments/writing-center/tutorials/topic-sentence/" target="_blank" rel="noopener noreferrer nofollow">https://www.touro.edu/departments/writing-center/tutorials/topic-sentence/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Touro UniversityTopic SentenceA topic sentence is the most important sentence in a paragraph. Sometimes referred to as a focus sentence...</p></details>
+   Link:<a href="https://www.touro.edu/departments/writing-center/tutorials/topic-sentence/" target="_blank" rel="noopener noreferrer nofollow">https://www.touro.edu/departments/writing-center/tutorials/topic-sentence/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Touro UniversityTopic SentenceA topic sentence is the most important sentence in a paragraph. Sometimes referred to as a focus sentence...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: merithub.com  
-   Link: <a href="https://merithub.com/tutorial/writing-composition-main-ideas-and-supporting-details-in-a-paragraph-c8ebsuickrgbdqvqdf4g" target="_blank" rel="noopener noreferrer nofollow">https://merithub.com/tutorial/writing-composition-main-ideas-and-supporting-details-in-a-paragraph-c8ebsuickrgbdqvqdf4g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Writing Composition: Main Ideas and Supporting Details in...28 Feb 2022 — Highlighting the main idea or the topic of the paragraph and s...</p></details>
+   Link:<a href="https://merithub.com/tutorial/writing-composition-main-ideas-and-supporting-details-in-a-paragraph-c8ebsuickrgbdqvqdf4g" target="_blank" rel="noopener noreferrer nofollow">https://merithub.com/tutorial/writing-composition-main-ideas-and-supporting-details-in-a-paragraph-c8ebsuickrgbdqvqdf4g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Writing Composition: Main Ideas and Supporting Details in...28 Feb 2022 — Highlighting the main idea or the topic of the paragraph and s...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: purduesports.com  
-   Link: <a href="https://purduesports.com/" target="_blank" rel="noopener noreferrer nofollow">https://purduesports.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Home Page - Purdue Boilermakers - Official Athletics WebsiteThe Official Athletic Site of Purdue University, partner of WMT Digital...</p></details>
+   Link:<a href="https://purduesports.com/" target="_blank" rel="noopener noreferrer nofollow">https://purduesports.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Home Page - Purdue Boilermakers - Official Athletics WebsiteThe Official Athletic Site of Purdue University, partner of WMT Digital...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: speechandlanguagekids.com  
    Title: helping children to identify main ideas and supporting details when reading  
-   Link: <a href="https://www.speechandlanguagekids.com/helping-children-to-identify-main-ideas-and-supporting-details-when-reading/" target="_blank" rel="noopener noreferrer nofollow">https://www.speechandlanguagekids.com/helping-children-to-identify-main-ideas-and-supporting-details-when-reading/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Main Idea and Supporting Details | Examples and Activities7 Apr 2026 — This learning guide will demonstrate how to help a child learn to...</p></details>
+   Link:<a href="https://www.speechandlanguagekids.com/helping-children-to-identify-main-ideas-and-supporting-details-when-reading/" target="_blank" rel="noopener noreferrer nofollow">https://www.speechandlanguagekids.com/helping-children-to-identify-main-ideas-and-supporting-details-when-reading/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Main Idea and Supporting Details | Examples and Activities7 Apr 2026 — This learning guide will demonstrate how to help a child learn to...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=7MTAdhoqcOk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7MTAdhoqcOk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IWE: Paragraph Organization and FlowIn this IWE lecture, Heather from the Writing Lab helps thesis and dissertation writers organize thei...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7MTAdhoqcOk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7MTAdhoqcOk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IWE: Paragraph Organization and FlowIn this IWE lecture, Heather from the Writing Lab helps thesis and dissertation writers organize thei...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=iUX8Vu5nOeI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iUX8Vu5nOeI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>anization at the Paragraph LevelFor more graduate writing tips, please visit owl.purdue.edu/owl... The Power of the Paragraph Topic S...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=iUX8Vu5nOeI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iUX8Vu5nOeI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>anization at the Paragraph LevelFor more graduate writing tips, please visit owl.purdue.edu/owl... The Power of the Paragraph Topic S...</p></details>

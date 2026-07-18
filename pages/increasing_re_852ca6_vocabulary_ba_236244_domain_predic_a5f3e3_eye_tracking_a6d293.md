@@ -269,19 +269,19 @@ image: /assets/images/increasing_re_852ca6_vocabulary_ba_236244_domain_predic_a5
 
 ## Introduction
 
-Eye-tracking research provides some of the clearest evidence that prior knowledge can increase reading efficiency. Rather than simply making readers “move their eyes faster”, [background]({{ 'expertise/' | relative_url }}) knowledge changes where attention is directed, how long readers pause on information, and when they decide to reread. These changes are visible in [eye-movement]({{ 'eye-tradeoff/' | relative_url }}) records long before they appear in conventional reading tests. Studies consistently show that knowledgeable readers process familiar material differently from novices: they spend less time on predictable information, allocate more attention to conceptually important content, and make more purposeful transitions between related sources of information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4089416/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Using Eye Movements to Evaluate the Cognitive Processes...by GE Raney · 2014 · Cited by 233 — The present article describes how to us...</span></span></span>
+Eye-tracking research provides some of the clearest evidence that prior knowledge can increase reading efficiency. Rather than simply making readers “move their eyes faster”, [background]({{ 'expertise/' | relative_url }}) knowledge changes where attention is directed, how long readers pause on information, and when they decide to reread. These changes are visible in [eye-movement]({{ 'eye-tradeoff/' | relative_url }}) records long before they appear in conventional reading tests. Studies consistently show that knowledgeable readers process familiar material differently from novices: they spend less time on predictable information, allocate more attention to conceptually important content, and make more purposeful transitions between related sources of information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4089416/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Using Eye Movements to Evaluate the Cognitive Processes...by GE Raney · 2014 · Cited by 233 — The present article describes how to us...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_vocabulary_ba_236244_domain_predic_a5f3e3_eye_tracking_a6d293-Illustration-1-dark.svg" | relative_url }}" alt="Eye Tracking illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_vocabulary_ba_236244_domain_predic_a5f3e3_eye_tracking_a6d293-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_vocabulary_ba_236244_domain_predic_a5f3e3_eye_tracking_a6d293-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For understanding [increasing]({{ 'increasing/' | relative_url }}) reading speed, eye tracking matters because it reveals the mechanism behind the speed advantage. Faster reading associated with domain [knowledge]({{ 'knowledge/' | relative_url }}) is not merely a matter of quicker eye movements. It reflects more efficient cognitive processing during each fixation and more strategic allocation of attention across a text. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4089416/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Using Eye Movements to Evaluate the Cognitive Processes...by GE Raney · 2014 · Cited by 233 — The present article describes how to us...</span></span></span>
+For understanding [increasing]({{ 'increasing/' | relative_url }}) reading speed, eye tracking matters because it reveals the mechanism behind the speed advantage. Faster reading associated with domain [knowledge]({{ 'knowledge/' | relative_url }}) is not merely a matter of quicker eye movements. It reflects more efficient cognitive processing during each fixation and more strategic allocation of attention across a text.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4089416/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Using Eye Movements to Evaluate the Cognitive Processes...by GE Raney · 2014 · Cited by 233 — The present article describes how to us...</span></span></span>
 
 ## What fixation patterns can show
 
 Eye-tracking systems record fixations, saccades, and [regressions]({{ 'lookbacks/' | relative_url }}). A fixation is a brief pause during which information is processed. A saccade is the rapid movement between fixation points. A regression is a backward eye movement to previously read material.
 
-Researchers use these measures because they provide a moment-by-moment record of processing effort. Longer fixations, more fixations, and more regressions generally indicate greater cognitive demand, uncertainty, or integration difficulty. Conversely, shorter and more selective fixation patterns often indicate that readers can process information more efficiently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4089416/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2AccessON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Using Eye Movements to Evaluate the Cognitive Processes...by GE Raney · 2014 · Cited by 233 — The present article describes how to us...</span></span></span>
+Researchers use these measures because they provide a moment-by-moment record of processing effort. Longer fixations, more fixations, and more regressions generally indicate greater cognitive demand, uncertainty, or integration difficulty. Conversely, shorter and more selective fixation patterns often indicate that readers can process information more efficiently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4089416/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2AccessON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Using Eye Movements to Evaluate the Cognitive Processes...by GE Raney · 2014 · Cited by 233 — The present article describes how to us...</span></span></span>
 
-Classic eye-movement research has shown that reading skill and reading speed are strongly associated with fixation behaviour. Skilled readers tend to make fewer fixations and spend less time on each one while maintaining comprehension. Eye-movement measures can even predict differences in reading comprehension and reading proficiency. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/2283921/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Eye fixations predict reading comprehensionby G Underwood · 1990 · Cited by 120 — This experiment addressed the question of whether...</span></span></span>
+Classic eye-movement research has shown that reading skill and reading speed are strongly associated with fixation behaviour. Skilled readers tend to make fewer fixations and spend less time on each one while maintaining comprehension. Eye-movement measures can even predict differences in reading comprehension and reading proficiency.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/2283921/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Eye fixations predict reading comprehensionby G Underwood · 1990 · Cited by 120 — This experiment addressed the question of whether...</span></span></span>
 
 The key question for domain knowledge research is whether knowledgeable readers simply process text more quickly or whether they process it differently. Eye-tracking studies increasingly support the second explanation.
 
@@ -290,7 +290,7 @@ The key question for domain knowledge research is whether knowledgeable readers 
 
 ## How knowledgeable readers allocate attention
 
-One of the most informative studies examined university students reading a lengthy scientific article containing text, diagrams, and statistical representations. Readers were divided into high-prior-knowledge and low-prior-knowledge groups. Eye tracking revealed striking differences in how they distributed attention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/360615911_Using_an_eye_tracker_to_examine_the_effect_of_prior_knowledge_on_reading_processes_while_reading_a_printed_scientific_text_with_multiple_representations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Using an eye tracker to examine the effect of prior...15 May 2022 — This study investigated reading comprehension, rea...</span><span class="citation-popover-meta">Published: May 2022</span></span></span>
+One of the most informative studies examined university students reading a lengthy scientific article containing text, diagrams, and statistical representations. Readers were divided into high-prior-knowledge and low-prior-knowledge groups. Eye tracking revealed striking differences in how they distributed attention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/360615911_Using_an_eye_tracker_to_examine_the_effect_of_prior_knowledge_on_reading_processes_while_reading_a_printed_scientific_text_with_multiple_representations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Using an eye tracker to examine the effect of prior...15 May 2022 — This study investigated reading comprehension, rea...</span><span class="citation-popover-meta">Published: May 2022</span></span></span>
 
 Readers with stronger background knowledge:
 
@@ -300,17 +300,17 @@ Readers with stronger background knowledge:
 * Spent more time examining diagrams that carried conceptual meaning.
 * Made more transitions between text and diagrams.
 * Integrated information across multiple representations more frequently.
-* Focused attention on information-rich elements rather than remaining primarily text-driven. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/360615911_Using_an_eye_tracker_to_examine_the_effect_of_prior_knowledge_on_reading_processes_while_reading_a_printed_scientific_text_with_multiple_representations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Using an eye tracker to examine the effect of prior...15 May 2022 — This study investigated reading comprehension, rea...</span><span class="citation-popover-meta">Published: May 2022</span></span></span>
+* Focused attention on information-rich elements rather than remaining primarily text-driven.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/360615911_Using_an_eye_tracker_to_examine_the_effect_of_prior_knowledge_on_reading_processes_while_reading_a_printed_scientific_text_with_multiple_representations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Using an eye tracker to examine the effect of prior...15 May 2022 — This study investigated reading comprehension, rea...</span><span class="citation-popover-meta">Published: May 2022</span></span></span>
 
 </div>
 
-By contrast, readers with limited prior knowledge devoted more total fixation time to the text itself and were less likely to use diagrams effectively. Their eye movements suggested a heavier reliance on line-by-line reading and a weaker ability to connect visual and textual information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/360615911_Using_an_eye_tracker_to_examine_the_effect_of_prior_knowledge_on_reading_processes_while_reading_a_printed_scientific_text_with_multiple_representations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Using an eye tracker to examine the effect of prior...15 May 2022 — This study investigated reading comprehension, rea...</span><span class="citation-popover-meta">Published: May 2022</span></span></span>
+By contrast, readers with limited prior knowledge devoted more total fixation time to the text itself and were less likely to use diagrams effectively. Their eye movements suggested a heavier reliance on line-by-line reading and a weaker ability to connect visual and textual information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/360615911_Using_an_eye_tracker_to_examine_the_effect_of_prior_knowledge_on_reading_processes_while_reading_a_printed_scientific_text_with_multiple_representations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Using an eye tracker to examine the effect of prior...15 May 2022 — This study investigated reading comprehension, rea...</span><span class="citation-popover-meta">Published: May 2022</span></span></span>
 
-This finding is important because it challenges a common assumption about reading speed. The knowledgeable readers were not simply [skimming]({{ 'skimming/' | relative_url }}). In some locations they actually spent longer examining important material. Their advantage came from directing effort toward information that mattered and reducing effort elsewhere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/360615911_Using_an_eye_tracker_to_examine_the_effect_of_prior_knowledge_on_reading_processes_while_reading_a_printed_scientific_text_with_multiple_representations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Using an eye tracker to examine the effect of prior...15 May 2022 — This study investigated reading comprehension, rea...</span><span class="citation-popover-meta">Published: May 2022</span></span></span>
+This finding is important because it challenges a common assumption about reading speed. The knowledgeable readers were not simply [skimming]({{ 'skimming/' | relative_url }}). In some locations they actually spent longer examining important material. Their advantage came from directing effort toward information that mattered and reducing effort elsewhere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/360615911_Using_an_eye_tracker_to_examine_the_effect_of_prior_knowledge_on_reading_processes_while_reading_a_printed_scientific_text_with_multiple_representations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Using an eye tracker to examine the effect of prior...15 May 2022 — This study investigated reading comprehension, rea...</span><span class="citation-popover-meta">Published: May 2022</span></span></span>
 
 ### Strategic slowing as a sign of expertise
 
-Eye-tracking studies often reveal that expert readers [slow down]({{ 'slow-down/' | relative_url }}) selectively. When they encounter a crucial figure, a key argument, or information that must be integrated with existing knowledge, fixation durations can increase rather than decrease. This pattern suggests deliberate allocation of attention rather than automatic acceleration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/360615911_Using_an_eye_tracker_to_examine_the_effect_of_prior_knowledge_on_reading_processes_while_reading_a_printed_scientific_text_with_multiple_representations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Using an eye tracker to examine the effect of prior...15 May 2022 — This study investigated reading comprehension, rea...</span><span class="citation-popover-meta">Published: May 2022</span></span></span>
+Eye-tracking studies often reveal that expert readers [slow down]({{ 'slow-down/' | relative_url }}) selectively. When they encounter a crucial figure, a key argument, or information that must be integrated with existing knowledge, fixation durations can increase rather than decrease. This pattern suggests deliberate allocation of attention rather than automatic acceleration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/360615911_Using_an_eye_tracker_to_examine_the_effect_of_prior_knowledge_on_reading_processes_while_reading_a_printed_scientific_text_with_multiple_representations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Using an eye tracker to examine the effect of prior...15 May 2022 — This study investigated reading comprehension, rea...</span><span class="citation-popover-meta">Published: May 2022</span></span></span>
 
 In other words, efficient readers do not race through every sentence. They spend less time on predictable material and more time on information that advances understanding. Eye tracking makes this selective investment visible.
 
@@ -320,9 +320,9 @@ In other words, efficient readers do not race through every sentence. They spend
 
 A common misconception is that reading speed depends primarily on eye mechanics. Eye-tracking evidence suggests that cognitive factors dominate.
 
-The eyes move in short jumps regardless of reading expertise. What differs is the amount of processing required at each stop. When readers possess relevant knowledge, they can often predict relationships, infer missing connections, and recognise familiar concepts rapidly. This reduces the need for repeated inspection of the same material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4089416/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Using Eye Movements to Evaluate the Cognitive Processes...by GE Raney · 2014 · Cited by 233 — The present article describes how to us...</span></span></span>
+The eyes move in short jumps regardless of reading expertise. What differs is the amount of processing required at each stop. When readers possess relevant knowledge, they can often predict relationships, infer missing connections, and recognise familiar concepts rapidly. This reduces the need for repeated inspection of the same material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4089416/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Using Eye Movements to Evaluate the Cognitive Processes...by GE Raney · 2014 · Cited by 233 — The present article describes how to us...</span></span></span>
 
-Research on fixation duration supports this interpretation. Longer fixations are widely regarded as indicators of increased processing demands. When prior knowledge lowers those demands, readers can move forward with fewer interruptions and less rereading. The gain comes from reduced mental effort rather than a fundamentally different eye-movement system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8012014/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Fixation duration and the learning process: an eye tracking...by S Negi · 2020 · Cited by 200 — In this paper, we focus on one of the...</span></span></span>
+Research on fixation duration supports this interpretation. Longer fixations are widely regarded as indicators of increased processing demands. When prior knowledge lowers those demands, readers can move forward with fewer interruptions and less rereading. The gain comes from reduced mental effort rather than a fundamentally different eye-movement system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8012014/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Fixation duration and the learning process: an eye tracking...by S Negi · 2020 · Cited by 200 — In this paper, we focus on one of the...</span></span></span>
 
 This distinction helps explain why speed-reading techniques often produce limited benefits compared with subject familiarity. Domain knowledge changes the information-processing problem itself, whereas mechanical reading techniques mainly attempt to alter movement patterns.
 
@@ -333,11 +333,11 @@ This distinction helps explain why speed-reading techniques often produce limite
 
 Backward eye movements provide another useful window into the effects of prior knowledge.
 
-Regressions occur when readers return to earlier text to resolve confusion, verify interpretations, or reconnect ideas. Although regressions can support comprehension, high rates of unnecessary rereading usually signal processing difficulty. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4089416/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Using Eye Movements to Evaluate the Cognitive Processes...by GE Raney · 2014 · Cited by 233 — The present article describes how to us...</span></span></span>
+Regressions occur when readers return to earlier text to resolve confusion, verify interpretations, or reconnect ideas. Although regressions can support comprehension, high rates of unnecessary rereading usually signal processing difficulty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4089416/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Using Eye Movements to Evaluate the Cognitive Processes...by GE Raney · 2014 · Cited by 233 — The present article describes how to us...</span></span></span>
 
-Knowledgeable readers often require fewer corrective regressions because they can fit new information into existing mental structures more readily. When regressions do occur, they are more likely to reflect strategic integration rather than simple confusion. This distinction helps explain why readers with strong domain knowledge can maintain both speed and comprehension in technically demanding material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4089416/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Using Eye Movements to Evaluate the Cognitive Processes...by GE Raney · 2014 · Cited by 233 — The present article describes how to us...</span></span></span>
+Knowledgeable readers often require fewer corrective regressions because they can fit new information into existing mental structures more readily. When regressions do occur, they are more likely to reflect strategic integration rather than simple confusion. This distinction helps explain why readers with strong domain knowledge can maintain both speed and comprehension in technically demanding material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4089416/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Using Eye Movements to Evaluate the Cognitive Processes...by GE Raney · 2014 · Cited by 233 — The present article describes how to us...</span></span></span>
 
-Eye-tracking research on comprehension strategies similarly shows that different readers exhibit distinct patterns of attention allocation. Some readers invest effort in linking ideas across a text, while others move through information more linearly. These patterns are visible in eye movements and correspond to differences in understanding and efficiency. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7898009/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCSelective attention to question-relevant text information</span><span class="citation-popover-snippet">by JA León · 2019 · Cited by 24 — These results show that the pattern of eye movements is informative about the comprehension processe...</span></span></span>
+Eye-tracking research on comprehension strategies similarly shows that different readers exhibit distinct patterns of attention allocation. Some readers invest effort in linking ideas across a text, while others move through information more linearly. These patterns are visible in eye movements and correspond to differences in understanding and efficiency.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7898009/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCSelective attention to question-relevant text information</span><span class="citation-popover-snippet">by JA León · 2019 · Cited by 24 — These results show that the pattern of eye movements is informative about the comprehension processe...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_vocabulary_ba_236244_domain_predic_a5f3e3_eye_tracking_a6d293-Illustration-3-dark.svg" | relative_url }}" alt="Eye Tracking illustration 3" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_vocabulary_ba_236244_domain_predic_a5f3e3_eye_tracking_a6d293-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_vocabulary_ba_236244_domain_predic_a5f3e3_eye_tracking_a6d293-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -354,189 +354,189 @@ The result is a characteristic eye-movement profile:
 * More efficient movement through predictable material.
 * More targeted attention to conceptually important sections.
 * Better integration across text, diagrams, and supporting information.
-* Reduced need for corrective rereading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/360615911_Using_an_eye_tracker_to_examine_the_effect_of_prior_knowledge_on_reading_processes_while_reading_a_printed_scientific_text_with_multiple_representations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Using an eye tracker to examine the effect of prior...15 May 2022 — This study investigated reading comprehension, rea...</span><span class="citation-popover-meta">Published: May 2022</span></span></span>
+* Reduced need for corrective rereading.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/360615911_Using_an_eye_tracker_to_examine_the_effect_of_prior_knowledge_on_reading_processes_while_reading_a_printed_scientific_text_with_multiple_representations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Using an eye tracker to examine the effect of prior...15 May 2022 — This study investigated reading comprehension, rea...</span><span class="citation-popover-meta">Published: May 2022</span></span></span>
 
 </div>
 
-This is why reading speed often varies dramatically across subjects. A reader may move slowly through an unfamiliar scientific paper yet read rapidly in a domain where they possess extensive background knowledge. Eye-tracking studies show that these differences are not merely subjective impressions; they are reflected in measurable changes in attention, fixation behaviour, and processing effort. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/360615911_Using_an_eye_tracker_to_examine_the_effect_of_prior_knowledge_on_reading_processes_while_reading_a_printed_scientific_text_with_multiple_representations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Using an eye tracker to examine the effect of prior...15 May 2022 — This study investigated reading comprehension, rea...</span><span class="citation-popover-meta">Published: May 2022</span></span></span>
+This is why reading speed often varies dramatically across subjects. A reader may move slowly through an unfamiliar scientific paper yet read rapidly in a domain where they possess extensive background knowledge. Eye-tracking studies show that these differences are not merely subjective impressions; they are reflected in measurable changes in attention, fixation behaviour, and processing effort.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/360615911_Using_an_eye_tracker_to_examine_the_effect_of_prior_knowledge_on_reading_processes_while_reading_a_printed_scientific_text_with_multiple_representations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Using an eye tracker to examine the effect of prior...15 May 2022 — This study investigated reading comprehension, rea...</span><span class="citation-popover-meta">Published: May 2022</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VFIZDZwdf-0" title="Eye Tracking Reading Study" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VFIZDZwdf-0" target="_blank" rel="noopener noreferrer">Eye Tracking Reading Study</a></p><p class="youtube-embed-meta">Channel: Tobii</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VFIZDZwdf-0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VFIZDZwdf-0">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What eye movements reveal about prior knowledge. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What eye movements reveal about prior knowledge. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Shows how readers anticipate structure and meaning in texts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Shows how readers anticipate structure and meaning in texts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Helps explain why expertise changes attention and processing effort.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain why expertise changes attention and processing effort.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Proust and the Squid on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4940484-M.jpg" alt="Cover for Proust and the Squid" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Proust and the Squid">Proust and the Squid</a>
-        </h4>
-        <p class="fr-book-author">By Maryanne Wolf</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Proust and the Squid on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4940484-M.jpg" alt="Cover for Proust and the Squid" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Proust and the Squid">Proust and the Squid</a>
+</h4>
+<p class="fr-book-author">By Maryanne Wolf</p>
         
-        <p class="fr-book-desc">First published 2007. Subjects: Brain, Evolution, Reading history, Neurophysiology, Reading comprehension.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2007. Subjects: Brain, Evolution, Reading history, Neurophysiology, Reading comprehension.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Reader%2C+Come+Home+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reader, Come Home on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10170090-M.jpg" alt="Cover for Reader, Come Home" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Reader%2C+Come+Home+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reader, Come Home">Reader, Come Home</a>
-        </h4>
-        <p class="fr-book-author">By Maryanne Wolf</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Reader%2C+Come+Home+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reader, Come Home on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10170090-M.jpg" alt="Cover for Reader, Come Home" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Reader%2C+Come+Home+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reader, Come Home">Reader, Come Home</a>
+</h4>
+<p class="fr-book-author">By Maryanne Wolf</p>
         
-        <p class="fr-book-desc">First published 2018. Subjects: Books and reading, Technological innovations, Psychology of Reading, Psychological aspects, Reading compr...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Reader%2C+Come+Home+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2018. Subjects: Books and reading, Technological innovations, Psychology of Reading, Psychological aspects, Reading compr...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Reader%2C+Come+Home+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Proust+and+the+Squid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Proust and the Squid</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Proust+and+the+Squid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Proust and the Squid</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eye-tracking-what-eye-movements-reveal-about-prior-knowledge-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="eye-tracking-what-eye-movements-reveal-about-prior-knowledge-increasing-study-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Dalvey Calculator Case Original Vintage 1995 Business Study Accessory Gift"><img src="{{ '/assets/images/marketplace-covers/768ee68fc20219a883ad.jpg' | relative_url }}" alt="Listing image for The Dalvey Calculator Case Original Vintage 1995 Business Study Accessory Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eye-tracking-what-eye-movements-reveal-about-prior-knowledge-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="eye-tracking-what-eye-movements-reveal-about-prior-knowledge-increasing-study-accessory" target="_blank" rel="sponsored noopener noreferrer">The Dalvey Calculator Case Original Vintage 1995 Business Study Accessory Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eye-tracking-what-eye-movements-reveal-about-prior-knowledge-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="eye-tracking-what-eye-movements-reveal-about-prior-knowledge-increasing-study-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study accessory">Search <span data-ebay-domain-label>eBay.co.uk</span>: study accessory</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eye-tracking-what-eye-movements-reveal-about-prior-knowledge-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="eye-tracking-what-eye-movements-reveal-about-prior-knowledge-increasing-study-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eye-tracking-what-eye-movements-reveal-about-prior-knowledge-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="eye-tracking-what-eye-movements-reveal-about-prior-knowledge-increasing-study-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Dalvey Calculator Case Original Vintage 1995 Business Study Accessory Gift"><img src="{{ '/assets/images/marketplace-covers/768ee68fc20219a883ad.jpg' | relative_url }}" alt="Listing image for The Dalvey Calculator Case Original Vintage 1995 Business Study Accessory Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eye-tracking-what-eye-movements-reveal-about-prior-knowledge-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="eye-tracking-what-eye-movements-reveal-about-prior-knowledge-increasing-study-accessory" target="_blank" rel="sponsored noopener noreferrer">The Dalvey Calculator Case Original Vintage 1995 Business Study Accessory Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eye-tracking-what-eye-movements-reveal-about-prior-knowledge-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="eye-tracking-what-eye-movements-reveal-about-prior-knowledge-increasing-study-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study accessory">Search<span data-ebay-domain-label>eBay.co.uk</span>: study accessory</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eye-tracking-what-eye-movements-reveal-about-prior-knowledge-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="eye-tracking-what-eye-movements-reveal-about-prior-knowledge-increasing-study-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eye-tracking-what-eye-movements-reveal-about-prior-knowledge-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="eye-tracking-what-eye-movements-reveal-about-prior-knowledge-increasing-study-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Book Thumb Page Holder One Hand Reading Book Study Accessory Gift Idea"><img src="{{ '/assets/images/marketplace-covers/7c86cfbd4cc68dc53fae.jpg' | relative_url }}" alt="Listing image for Book Thumb Page Holder One Hand Reading Book Study Accessory Gift Idea" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eye-tracking-what-eye-movements-reveal-about-prior-knowledge-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="eye-tracking-what-eye-movements-reveal-about-prior-knowledge-increasing-study-accessory" target="_blank" rel="sponsored noopener noreferrer">Book Thumb Page Holder One Hand Reading Book Study Accessory Gift Idea</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eye-tracking-what-eye-movements-reveal-about-prior-knowledge-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="eye-tracking-what-eye-movements-reveal-about-prior-knowledge-increasing-study-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study accessory">Search <span data-ebay-domain-label>eBay.co.uk</span>: study accessory</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eye-tracking-what-eye-movements-reveal-about-prior-knowledge-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="eye-tracking-what-eye-movements-reveal-about-prior-knowledge-increasing-study-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eye-tracking-what-eye-movements-reveal-about-prior-knowledge-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="eye-tracking-what-eye-movements-reveal-about-prior-knowledge-increasing-study-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Book Thumb Page Holder One Hand Reading Book Study Accessory Gift Idea"><img src="{{ '/assets/images/marketplace-covers/7c86cfbd4cc68dc53fae.jpg' | relative_url }}" alt="Listing image for Book Thumb Page Holder One Hand Reading Book Study Accessory Gift Idea" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eye-tracking-what-eye-movements-reveal-about-prior-knowledge-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="eye-tracking-what-eye-movements-reveal-about-prior-knowledge-increasing-study-accessory" target="_blank" rel="sponsored noopener noreferrer">Book Thumb Page Holder One Hand Reading Book Study Accessory Gift Idea</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eye-tracking-what-eye-movements-reveal-about-prior-knowledge-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="eye-tracking-what-eye-movements-reveal-about-prior-knowledge-increasing-study-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study accessory">Search<span data-ebay-domain-label>eBay.co.uk</span>: study accessory</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eye-tracking-what-eye-movements-reveal-about-prior-knowledge-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="eye-tracking-what-eye-movements-reveal-about-prior-knowledge-increasing-study-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eye-tracking-what-eye-movements-reveal-about-prior-knowledge-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="eye-tracking-what-eye-movements-reveal-about-prior-knowledge-increasing-study-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Clamp on Desk Organizer Accessory Under Desk Mouse Tray for Study Office"><img src="{{ '/assets/images/marketplace-covers/425eb0a27beb127b25e2.jpg' | relative_url }}" alt="Listing image for Clamp on Desk Organizer Accessory Under Desk Mouse Tray for Study Office" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eye-tracking-what-eye-movements-reveal-about-prior-knowledge-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="eye-tracking-what-eye-movements-reveal-about-prior-knowledge-increasing-study-accessory" target="_blank" rel="sponsored noopener noreferrer">Clamp on Desk Organizer Accessory Under Desk Mouse Tray for Study Office</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eye-tracking-what-eye-movements-reveal-about-prior-knowledge-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="eye-tracking-what-eye-movements-reveal-about-prior-knowledge-increasing-study-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study accessory">Search <span data-ebay-domain-label>eBay.co.uk</span>: study accessory</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eye-tracking-what-eye-movements-reveal-about-prior-knowledge-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="eye-tracking-what-eye-movements-reveal-about-prior-knowledge-increasing-study-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eye-tracking-what-eye-movements-reveal-about-prior-knowledge-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="eye-tracking-what-eye-movements-reveal-about-prior-knowledge-increasing-study-accessory" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eye-tracking-what-eye-movements-reveal-about-prior-knowledge-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="eye-tracking-what-eye-movements-reveal-about-prior-knowledge-increasing-study-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Clamp on Desk Organizer Accessory Under Desk Mouse Tray for Study Office"><img src="{{ '/assets/images/marketplace-covers/425eb0a27beb127b25e2.jpg' | relative_url }}" alt="Listing image for Clamp on Desk Organizer Accessory Under Desk Mouse Tray for Study Office" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eye-tracking-what-eye-movements-reveal-about-prior-knowledge-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="eye-tracking-what-eye-movements-reveal-about-prior-knowledge-increasing-study-accessory" target="_blank" rel="sponsored noopener noreferrer">Clamp on Desk Organizer Accessory Under Desk Mouse Tray for Study Office</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eye-tracking-what-eye-movements-reveal-about-prior-knowledge-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="eye-tracking-what-eye-movements-reveal-about-prior-knowledge-increasing-study-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study accessory">Search<span data-ebay-domain-label>eBay.co.uk</span>: study accessory</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eye-tracking-what-eye-movements-reveal-about-prior-knowledge-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="eye-tracking-what-eye-movements-reveal-about-prior-knowledge-increasing-study-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=eye-tracking-what-eye-movements-reveal-about-prior-knowledge-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="eye-tracking-what-eye-movements-reveal-about-prior-knowledge-increasing-study-accessory" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -552,7 +552,7 @@ This is why reading speed often varies dramatically across subjects. A reader ma
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -572,7 +572,7 @@ This is why reading speed often varies dramatically across subjects. A reader ma
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -604,7 +604,7 @@ This is why reading speed often varies dramatically across subjects. A reader ma
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -656,7 +656,7 @@ This is why reading speed often varies dramatically across subjects. A reader ma
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -701,7 +701,7 @@ This is why reading speed often varies dramatically across subjects. A reader ma
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -742,140 +742,140 @@ This is why reading speed often varies dramatically across subjects. A reader ma
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4089416/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4089416/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Using Eye Movements to Evaluate the Cognitive Processes...by GE Raney · 2014 · Cited by 233 — The present article describes how to us...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4089416/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4089416/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Using Eye Movements to Evaluate the Cognitive Processes...by GE Raney · 2014 · Cited by 233 — The present article describes how to us...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/360615911_Using_an_eye_tracker_to_examine_the_effect_of_prior_knowledge_on_reading_processes_while_reading_a_printed_scientific_text_with_multiple_representations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/360615911_Using_an_eye_tracker_to_examine_the_effect_of_prior_knowledge_on_reading_processes_while_reading_a_printed_scientific_text_with_multiple_representations</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Using an eye tracker to examine the effect of prior...15 May 2022 — This study investigated reading comprehension, rea...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/360615911_Using_an_eye_tracker_to_examine_the_effect_of_prior_knowledge_on_reading_processes_while_reading_a_printed_scientific_text_with_multiple_representations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/360615911_Using_an_eye_tracker_to_examine_the_effect_of_prior_knowledge_on_reading_processes_while_reading_a_printed_scientific_text_with_multiple_representations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Using an eye tracker to examine the effect of prior...15 May 2022 — This study investigated reading comprehension, rea...</p></details>
    Published: May 2022  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6234076/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6234076/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>of reader- and text-level characteristics to eye...by V Kuperman · 2018 · Cited by 73 — Eye-movements during passage reading are suscept...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6234076/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6234076/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of reader- and text-level characteristics to eye...by V Kuperman · 2018 · Cited by 73 — Eye-movements during passage reading are suscept...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8012014/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8012014/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fixation duration and the learning process: an eye tracking...by S Negi · 2020 · Cited by 200 — In this paper, we focus on one of the...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8012014/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8012014/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fixation duration and the learning process: an eye tracking...by S Negi · 2020 · Cited by 200 — In this paper, we focus on one of the...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/1995-8692/13/6/40" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1995-8692/13/6/40</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fixation Duration and the Learning Process: An Eye...by S Negi · 2020 · Cited by 196 — In this paper, we focus on one of the most co...</p></details>
+   Link:<a href="https://www.mdpi.com/1995-8692/13/6/40" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1995-8692/13/6/40</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fixation Duration and the Learning Process: An Eye...by S Negi · 2020 · Cited by 196 — In this paper, we focus on one of the most co...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/230658181_The_function_of_regressions_in_reading_Backward_eye_movements_allow_rereading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/230658181_The_function_of_regressions_in_reading_Backward_eye_movements_allow_rereading</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The function of regressions in reading: Backward...In this context, in this study, students were made to read aloud texts through...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/230658181_The_function_of_regressions_in_reading_Backward_eye_movements_allow_rereading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/230658181_The_function_of_regressions_in_reading_Backward_eye_movements_allow_rereading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The function of regressions in reading: Backward...In this context, in this study, students were made to read aloud texts through...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCSelective attention to question-relevant text information  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7898009/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7898009/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by JA León · 2019 · Cited by 24 — These results show that the pattern of eye movements is informative about the comprehension processe...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7898009/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7898009/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by JA León · 2019 · Cited by 24 — These results show that the pattern of eye movements is informative about the comprehension processe...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: mdpi.com  
    Title: 2226 471X  
-   Link: <a href="https://www.mdpi.com/2226-471X/9/12/360" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2226-471X/9/12/360</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tracking Adults&#x27; Eye Movements to Study Text...by G Andreou · 2024 · Cited by 6 — The aim of this review is to examine and analyze the c...</p></details>
+   Link:<a href="https://www.mdpi.com/2226-471X/9/12/360" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2226-471X/9/12/360</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tracking Adults&#x27; Eye Movements to Study Text...by G Andreou · 2024 · Cited by 6 — The aim of this review is to examine and analyze the c...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2076-3417/15/7/3939" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2076-3417/15/7/3939</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An Eye-Tracking Study on Text Comprehension While...by G Andreou · 2025 · Cited by 8 — The aim of the present study was to examine the e...</p></details>
+   Link:<a href="https://www.mdpi.com/2076-3417/15/7/3939" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2076-3417/15/7/3939</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An Eye-Tracking Study on Text Comprehension While...by G Andreou · 2025 · Cited by 8 — The aim of the present study was to examine the e...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/386156337_Tracking_Adults%27_Eye_Movements_to_Study_Text_Comprehension_A_Review_Article" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/386156337_Tracking_Adults%27_Eye_Movements_to_Study_Text_Comprehension_A_Review_Article</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Tracking Adults&#x27; Eye Movements to Study Text...Nov 14, 2024 — The aim of this review is to examine and analyze the current literat...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/386156337_Tracking_Adults%27_Eye_Movements_to_Study_Text_Comprehension_A_Review_Article" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/386156337_Tracking_Adults%27_Eye_Movements_to_Study_Text_Comprehension_A_Review_Article</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Tracking Adults&#x27; Eye Movements to Study Text...Nov 14, 2024 — The aim of this review is to examine and analyze the current literat...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: accesson.kisti.re.kr  
-   Link: <a href="https://accesson.kisti.re.kr/upload2/article/originPdf/004646/ATN0046468143.pdf" target="_blank" rel="noopener noreferrer nofollow">https://accesson.kisti.re.kr/upload2/article/originPdf/004646/ATN0046468143.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>kisti.re.krEye-tracking reading-while-listeningby K Conklin — In eye-tracking, greater processing effort for particular words or regions...</p></details>
+   Link:<a href="https://accesson.kisti.re.kr/upload2/article/originPdf/004646/ATN0046468143.pdf" target="_blank" rel="noopener noreferrer nofollow">https://accesson.kisti.re.kr/upload2/article/originPdf/004646/ATN0046468143.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>kisti.re.krEye-tracking reading-while-listeningby K Conklin — In eye-tracking, greater processing effort for particular words or regions...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/2283921/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/2283921/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eye fixations predict reading comprehensionby G Underwood · 1990 · Cited by 120 — This experiment addressed the question of whether...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/2283921/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/2283921/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eye fixations predict reading comprehensionby G Underwood · 1990 · Cited by 120 — This experiment addressed the question of whether...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12641876/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12641876/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by M Markevich · 2025 — Successful reading comprehension depends on many factors, including text genre. Eye-tracking studies indicate...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12641876/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12641876/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by M Markevich · 2025 — Successful reading comprehension depends on many factors, including text genre. Eye-tracking studies indicate...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12409514/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12409514/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the rereading effect of digital reading through eye...by Y Xu · 2025 — During rereading, students exhibited shorter total reading time...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12409514/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12409514/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the rereading effect of digital reading through eye...by Y Xu · 2025 — During rereading, students exhibited shorter total reading time...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10205180/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10205180/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by A Strandberg · 2022 · Cited by 21 — The [purpose](&amp;#123;&amp;#123; &#x27;purpose/&#x27; | relative_url &amp;#125;&amp;#125;) of this eye tracking study was to investigate the association between three basic e...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10205180/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10205180/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by A Strandberg · 2022 · Cited by 21 — The [purpose](&amp;#123;&amp;#123; &#x27;purpose/&#x27; | relative_url &amp;#125;&amp;#125;) of this eye tracking study was to investigate the association between three basic e...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3142886/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3142886/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by SJ Priebe · 2011 · Cited by 152 — While prior knowledge of a passage topic is known to facilitate comprehension, little is known ab...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3142886/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3142886/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by SJ Priebe · 2011 · Cited by 152 — While prior knowledge of a passage topic is known to facilitate comprehension, little is known ab...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/eye/" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/eye/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EyeEye is the official journal of the Royal College of Ophthalmologists. It aims to provide the practising ophthalmologist with informati...</p></details>
+   Link:<a href="https://www.nature.com/eye/" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/eye/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EyeEye is the official journal of the Royal College of Ophthalmologists. It aims to provide the practising ophthalmologist with informati...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: epc.ntnu.edu.tw  
-   Link: <a href="https://www.epc.ntnu.edu.tw/File/Archive/BB-79-C7-E7-DB-C6-55-31-3C-08-C1-42-0B-0A-DB-47.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.epc.ntnu.edu.tw/File/Archive/BB-79-C7-E7-DB-C6-55-31-3C-08-C1-42-0B-0A-DB-47.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>an eye tracker to examine the effect of prior...by YC Jian · Cited by 23 — The study used an eye tracker to examine the reading processe...</p></details>
+   Link:<a href="https://www.epc.ntnu.edu.tw/File/Archive/BB-79-C7-E7-DB-C6-55-31-3C-08-C1-42-0B-0A-DB-47.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.epc.ntnu.edu.tw/File/Archive/BB-79-C7-E7-DB-C6-55-31-3C-08-C1-42-0B-0A-DB-47.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>an eye tracker to examine the effect of prior...by YC Jian · Cited by 23 — The study used an eye tracker to examine the reading processe...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: sr-research.com  
-   Link: <a href="https://www.sr-research.com/eye-tracking-topics/eyelink-eye-trackers-in-reading-research/" target="_blank" rel="noopener noreferrer nofollow">https://www.sr-research.com/eye-tracking-topics/eyelink-eye-trackers-in-reading-research/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fast, Accurate, Reliable Eye TrackingEyeLink Eye Trackers in Reading ResearchRegression Path Duration: The total duration of all fixation...</p></details>
+   Link:<a href="https://www.sr-research.com/eye-tracking-topics/eyelink-eye-trackers-in-reading-research/" target="_blank" rel="noopener noreferrer nofollow">https://www.sr-research.com/eye-tracking-topics/eyelink-eye-trackers-in-reading-research/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fast, Accurate, Reliable Eye TrackingEyeLink Eye Trackers in Reading ResearchRegression Path Duration: The total duration of all fixation...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/topics/reading-and-brain/articles/eye-movements-and-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/reading-and-brain/articles/eye-movements-and-reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eye Movements and ReadingThe reading eye fixates on most content words (especially nouns and verbs) in a rapid series of stops and jumps...</p></details>
+   Link:<a href="https://www.readingrockets.org/topics/reading-and-brain/articles/eye-movements-and-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/reading-and-brain/articles/eye-movements-and-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eye Movements and ReadingThe reading eye fixates on most content words (especially nouns and verbs) in a rapid series of stops and jumps...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: greatminds.org  
    Title: the science of reading what is prior knowledge and why is it important  
-   Link: <a href="https://greatminds.org/english/blog/witwisdom/the-science-of-reading-what-is-prior-knowledge-and-why-is-it-important" target="_blank" rel="noopener noreferrer nofollow">https://greatminds.org/english/blog/witwisdom/the-science-of-reading-what-is-prior-knowledge-and-why-is-it-important</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Reading: What is prior knowledge and why...24 Feb 2022 — The study found that prior knowledge of the passage topic signif...</p></details>
+   Link:<a href="https://greatminds.org/english/blog/witwisdom/the-science-of-reading-what-is-prior-knowledge-and-why-is-it-important" target="_blank" rel="noopener noreferrer nofollow">https://greatminds.org/english/blog/witwisdom/the-science-of-reading-what-is-prior-knowledge-and-why-is-it-important</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Reading: What is prior knowledge and why...24 Feb 2022 — The study found that prior knowledge of the passage topic signif...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nomanis.com.au  
    Title: the myth of a tracking disorder in children with reading difficulties  
-   Link: <a href="https://www.nomanis.com.au/blog/the-myth-of-a-tracking-disorder-in-children-with-reading-difficulties" target="_blank" rel="noopener noreferrer nofollow">https://www.nomanis.com.au/blog/the-myth-of-a-tracking-disorder-in-children-with-reading-difficulties</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The myth of a &#x27;tracking&#x27; disorder in children with reading...19 Sept 2023 — Children with reading difficulties are sometimes thought to...</p></details>
+   Link:<a href="https://www.nomanis.com.au/blog/the-myth-of-a-tracking-disorder-in-children-with-reading-difficulties" target="_blank" rel="noopener noreferrer nofollow">https://www.nomanis.com.au/blog/the-myth-of-a-tracking-disorder-in-children-with-reading-difficulties</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The myth of a &#x27;tracking&#x27; disorder in children with reading...19 Sept 2023 — Children with reading difficulties are sometimes thought to...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: pure.ewha.ac.kr  
    Title: an eye tracking study on reading comprehension and reading proces  
-   Link: <a href="https://pure.ewha.ac.kr/en/publications/an-eye-tracking-study-on-reading-comprehension-and-reading-proces/" target="_blank" rel="noopener noreferrer nofollow">https://pure.ewha.ac.kr/en/publications/an-eye-tracking-study-on-reading-comprehension-and-reading-proces/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eye-Tracking Study on Reading Comprehension and...by SJ Baek · 2022 · Cited by 5 — Objectives: This study aimed to investigate differenc...</p></details>
+   Link:<a href="https://pure.ewha.ac.kr/en/publications/an-eye-tracking-study-on-reading-comprehension-and-reading-proces/" target="_blank" rel="noopener noreferrer nofollow">https://pure.ewha.ac.kr/en/publications/an-eye-tracking-study-on-reading-comprehension-and-reading-proces/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eye-Tracking Study on Reading Comprehension and...by SJ Baek · 2022 · Cited by 5 — Objectives: This study aimed to investigate differenc...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: tmalsburg.github.io  
-   Link: <a href="https://tmalsburg.github.io/MeziereEtAl2021MS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tmalsburg.github.io/MeziereEtAl2021MS.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e initial fixation on a word conditional upon it occurring during first-...Read more...</p></details>
+   Link:<a href="https://tmalsburg.github.io/MeziereEtAl2021MS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tmalsburg.github.io/MeziereEtAl2021MS.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e initial fixation on a word conditional upon it occurring during first-...Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1759299/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1759299/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>dicators of how school-age students allocate visual attention during learning...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1759299/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1759299/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>dicators of how school-age students allocate visual attention during learning...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: studenttheses.universiteitleiden.nl  
-   Link: <a href="https://studenttheses.universiteitleiden.nl/access/item%3A2629036/view" target="_blank" rel="noopener noreferrer nofollow">https://studenttheses.universiteitleiden.nl/access/item%3A2629036/view</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The logit of re-reading time and total fixation...Read more...</p></details>
+   Link:<a href="https://studenttheses.universiteitleiden.nl/access/item%3A2629036/view" target="_blank" rel="noopener noreferrer nofollow">https://studenttheses.universiteitleiden.nl/access/item%3A2629036/view</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The logit of re-reading time and total fixation...Read more...</p></details>

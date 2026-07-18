@@ -273,7 +273,7 @@ Claims about reading at 500 words per minute often sound more plausible when the
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef_why_500_wpm_m_0bf92d_dense_documen_5d3ba1-Illustration-1-dark.svg" | relative_url }}" alt="Dense texts illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef_why_500_wpm_m_0bf92d_dense_documen_5d3ba1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef_why_500_wpm_m_0bf92d_dense_documen_5d3ba1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This is why dense texts are one of the strongest tests of [speed-reading]({{ 'myths/' | relative_url }}) claims. A reader may move through a document at [500 wpm]({{ '500-wpm/' | relative_url }}) and still grasp the broad topic, but dense material makes it much harder to maintain the level of comprehension needed for accurate analysis, decision-making, or learning. Research on reading consistently finds a trade-off between speed and comprehension, especially when readers must build a detailed mental representation of complex information rather than simply identify the main idea. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 514 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</span></span></span>
+This is why dense texts are one of the strongest tests of [speed-reading]({{ 'myths/' | relative_url }}) claims. A reader may move through a document at [500 wpm]({{ '500-wpm/' | relative_url }}) and still grasp the broad topic, but dense material makes it much harder to maintain the level of comprehension needed for accurate analysis, decision-making, or learning. Research on reading consistently finds a trade-off between speed and comprehension, especially when readers must build a detailed mental representation of complex information rather than simply identify the main idea.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 514 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</span></span></span>
 
 ## Why Low-Redundancy Texts Are Harder to Skim
 
@@ -283,7 +283,7 @@ Dense documents often do the opposite. They are designed to compress information
 
 In these situations, [skimming]({{ 'skimming/' | relative_url }}) becomes riskier because there are fewer opportunities to recover missed information. The reader cannot rely on repetition to reconstruct what was skipped. Instead, understanding depends on processing nearly every sentence and connecting it to earlier parts of the document.
 
-This helps explain why average adult reading rates for non-fiction cluster far below 500 wpm. A large meta-analysis estimated average silent reading speed at roughly 238 wpm for non-fiction, with most adults falling between about 175 and 300 wpm. Dense informational texts naturally push readers towards the lower end of that range because they require more cognitive work per sentence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/335174808_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) How many words do we read per minute?</span><span class="citation-popover-snippet">A review...15 Aug 2019 — We estimate that the average silent reading rate for adults in English is 238 words per minute (wpm) for non-fi...</span></span></span>
+This helps explain why average adult reading rates for non-fiction cluster far below 500 wpm. A large meta-analysis estimated average silent reading speed at roughly 238 wpm for non-fiction, with most adults falling between about 175 and 300 wpm. Dense informational texts naturally push readers towards the lower end of that range because they require more cognitive work per sentence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/335174808_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) How many words do we read per minute?</span><span class="citation-popover-snippet">A review...15 Aug 2019 — We estimate that the average silent reading rate for adults in English is 238 words per minute (wpm) for non-fi...</span></span></span>
 
 ## How Caveats and Limitations Get Missed
 
@@ -303,7 +303,7 @@ A fast skim may capture the first impression while missing the qualification tha
 
 Academic papers frequently place limitations, uncertainty estimates, methodological constraints, and exceptions in subordinate clauses or later sections. Legal texts rely heavily on conditions such as “unless”, “except”, “provided that”, or “subject to”. Technical specifications often define edge cases that determine whether a system behaves correctly.
 
-Because speed reading prioritises major themes and salient keywords, these qualifying details are especially vulnerable to being overlooked. Research reviews of reading indicate that faster reading rates can preserve a general understanding while reducing the depth of comprehension needed to capture such nuances. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 514 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</span></span></span>
+Because speed reading prioritises major themes and salient keywords, these qualifying details are especially vulnerable to being overlooked. Research reviews of reading indicate that faster reading rates can preserve a general understanding while reducing the depth of comprehension needed to capture such nuances.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 514 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</span></span></span>
 
 A common failure mode is remembering the conclusion but forgetting the conditions under which the conclusion is valid.
 
@@ -327,9 +327,9 @@ Dense texts increase this burden because each sentence carries more informationa
 
 </div>
 
-Cognitive load research shows that comprehension becomes more difficult as readers must integrate larger amounts of information into a coherent mental model. When cognitive demands rise, simply moving the eyes faster does not eliminate the processing required to understand the material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2018.00059/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Frontiers Cognitive Load and Learning in the Study of Multiple</span><span class="citation-popover-snippet">First, to test how the availability of documents in multiple document reading might affect students&#x27; levels of cognitive load.Read more...</span></span></span>
+Cognitive load research shows that comprehension becomes more difficult as readers must integrate larger amounts of information into a coherent mental model. When cognitive demands rise, simply moving the eyes faster does not eliminate the processing required to understand the material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2018.00059/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Frontiers Cognitive Load and Learning in the Study of Multiple</span><span class="citation-popover-snippet">First, to test how the availability of documents in multiple document reading might affect students&#x27; levels of cognitive load.Read more...</span></span></span>
 
-Legal writing provides an especially clear example. Analyses of legal-text comprehension emphasise that expert readers attend closely to lexical choices, grammatical structure, contextual meaning, and document organisation. Understanding depends on careful interpretation rather than rapid extraction of gist. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://discovery.researcher.life/article/reading-comprehension-of-legal-texts-an-analysis-of-the-influence-of-lexico-grammatical-features-domain-knowledge-and-text-structure/4ea528fa963232a68898af2b1318bf49" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.researcher.life">[Researcher Life]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.researcher.life</span><span class="citation-popover-snippet">Researcher LifeReading Comprehension of Legal Texts: An Analysis of the...17 Nov 2025 — The studies presented that expert readers interp...</span></span></span>
+Legal writing provides an especially clear example. Analyses of legal-text comprehension emphasise that expert readers attend closely to lexical choices, grammatical structure, contextual meaning, and document organisation. Understanding depends on careful interpretation rather than rapid extraction of gist.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://discovery.researcher.life/article/reading-comprehension-of-legal-texts-an-analysis-of-the-influence-of-lexico-grammatical-features-domain-knowledge-and-text-structure/4ea528fa963232a68898af2b1318bf49" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.researcher.life">[Researcher Life]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.researcher.life</span><span class="citation-popover-snippet">Researcher LifeReading Comprehension of Legal Texts: An Analysis of the...17 Nov 2025 — The studies presented that expert readers interp...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef_why_500_wpm_m_0bf92d_dense_documen_5d3ba1-Illustration-2-dark.svg" | relative_url }}" alt="Dense texts illustration 2" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef_why_500_wpm_m_0bf92d_dense_documen_5d3ba1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef_why_500_wpm_m_0bf92d_dense_documen_5d3ba1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -362,7 +362,7 @@ A software engineer reading about a familiar programming framework may correctly
 
 In these cases, expertise supplies part of the understanding. The reader is not extracting all meaning from the text itself. Instead, background knowledge fills gaps left by faster reading.
 
-This can create the illusion that comprehension remains unchanged even when significant details are being skipped. Researchers studying speed reading note that moderate comprehension can often be maintained when the goal is obtaining a general understanding rather than mastering every detail. The distinction becomes crucial when the reader later needs to recall specifics, identify exceptions, or evaluate evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 514 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</span></span></span>
+This can create the illusion that comprehension remains unchanged even when significant details are being skipped. Researchers studying speed reading note that moderate comprehension can often be maintained when the goal is obtaining a general understanding rather than mastering every detail. The distinction becomes crucial when the reader later needs to recall specifics, identify exceptions, or evaluate evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 514 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jv2BdHXRD3Q" title="The Science Behind Reading Speed - College Info Geek" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jv2BdHXRD3Q" target="_blank" rel="noopener noreferrer">The Science Behind Reading Speed - College Info Geek</a></p><p class="youtube-embed-meta">Channel: Thomas Frank &middot; Views: 815.0K &middot; Uploaded: September 2015 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jv2BdHXRD3Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jv2BdHXRD3Q">Open on YouTube</a></p></div></div></div>
@@ -387,277 +387,277 @@ Slowing down is usually justified when:
 
 In these situations, reading speed should be treated as a tool rather than a goal. Dense documents reward careful processing because their most important information is often hidden in details that skimming is designed to ignore.
 
-Research on reading repeatedly points to the same conclusion: substantial increases in reading rate generally come with costs to comprehension. Those costs become especially visible when the material is information-dense, low in redundancy, and dependent on precise interpretation. That is why technical papers, legal agreements, and other dense documents are among the strongest real-world challenges to claims of effortless 500 wpm reading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[Ghent University Bibliography+3PubMed+3USF Faculty]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 514 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</span></span></span>
+Research on reading repeatedly points to the same conclusion: substantial increases in reading rate generally come with costs to comprehension. Those costs become especially visible when the material is information-dense, low in redundancy, and dependent on precise interpretation. That is why technical papers, legal agreements, and other dense documents are among the strongest real-world challenges to claims of effortless 500 wpm reading.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[Ghent University Bibliography+3PubMed+3USF Faculty]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 514 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef_why_500_wpm_m_0bf92d_dense_documen_5d3ba1-Illustration-3-dark.svg" | relative_url }}" alt="Dense texts illustration 3" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef_why_500_wpm_m_0bf92d_dense_documen_5d3ba1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef_why_500_wpm_m_0bf92d_dense_documen_5d3ba1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Dense Texts Break Speed Reading Claims. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Dense Texts Break Speed Reading Claims. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Especially useful for tackling difficult and information-dense texts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Especially useful for tackling difficult and information-dense texts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-        </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+</h4>
+<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Supports deep comprehension of challenging material.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports deep comprehension of challenging material.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Speed Reading Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/375099-M.jpg" alt="Cover for The Speed Reading Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Speed Reading Book">The Speed Reading Book</a>
-        </h4>
-        <p class="fr-book-author">By Tony Buzan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Speed Reading Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/375099-M.jpg" alt="Cover for The Speed Reading Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Speed Reading Book">The Speed Reading Book</a>
+</h4>
+<p class="fr-book-author">By Tony Buzan</p>
         
-        <p class="fr-book-desc">First published 1997. Subjects: Speed reading, Développement d&#x27;aptitudes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1997. Subjects: Speed reading, Développement d&#x27;aptitudes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Craft+of+Research+%28Chicago+Guides+to+Writing%2C+Editing%2C+and+Publishing%29+Wayne+C.+Booth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Craft of Research (Chicago Guides to Writing, Editing, and Publishing) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6716065-M.jpg" alt="Cover for The Craft of Research (Chicago Guides to Writing, Editing, and Publishing)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Craft+of+Research+%28Chicago+Guides+to+Writing%2C+Editing%2C+and+Publishing%29+Wayne+C.+Booth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Craft of Research (Chicago Guides to Writing, Editing, and Publishing)">The Craft of Research (Chicago Guides to Writing, Editing, an...</a>
-        </h4>
-        <p class="fr-book-author">By Wayne C. Booth, Gregory G. Colomb et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Craft+of+Research+%28Chicago+Guides+to+Writing%2C+Editing%2C+and+Publishing%29+Wayne+C.+Booth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Craft of Research (Chicago Guides to Writing, Editing, and Publishing) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6716065-M.jpg" alt="Cover for The Craft of Research (Chicago Guides to Writing, Editing, and Publishing)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Craft+of+Research+%28Chicago+Guides+to+Writing%2C+Editing%2C+and+Publishing%29+Wayne+C.+Booth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Craft of Research (Chicago Guides to Writing, Editing, and Publishing)">The Craft of Research (Chicago Guides to Writing, Editing, an...</a>
+</h4>
+<p class="fr-book-author">By Wayne C. Booth, Gregory G. Colomb et al.</p>
         
-        <p class="fr-book-desc">First published 1995. Subjects: Technical writing, Methodology, Research, Recherche, Guides, manuels.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Craft+of+Research+%28Chicago+Guides+to+Writing%2C+Editing%2C+and+Publishing%29+Wayne+C.+Booth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1995. Subjects: Technical writing, Methodology, Research, Recherche, Guides, manuels.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Craft+of+Research+%28Chicago+Guides+to+Writing%2C+Editing%2C+and+Publishing%29+Wayne+C.+Booth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Speed+Reading+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Speed Reading Book</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Speed+Reading+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Speed Reading Book</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: faculty.cas.usf.edu  
    Title: Rayner Schotter Masson Potter Treiman 2016 PSPI  
-   Link: <a href="https://faculty.cas.usf.edu/eschotter/papers/Rayner_Schotter_Masson_Potter_Treiman_2016_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://faculty.cas.usf.edu/eschotter/papers/Rayner_Schotter_Masson_Potter_Treiman_2016_PSPI.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>USF FacultyHow Do We Read, and Can Speed Reading Help?by K Rayner · 2016 · Cited by 516 — It is unlikely that readers will be able to dou...</p></details>
+   Link:<a href="https://faculty.cas.usf.edu/eschotter/papers/Rayner_Schotter_Masson_Potter_Treiman_2016_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://faculty.cas.usf.edu/eschotter/papers/Rayner_Schotter_Masson_Potter_Treiman_2016_PSPI.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USF FacultyHow Do We Read, and Can Speed Reading Help?by K Rayner · 2016 · Cited by 516 — It is unlikely that readers will be able to dou...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) How many words do we read per minute?  
-   Link: <a href="https://www.researchgate.net/publication/335174808_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/335174808_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A review...15 Aug 2019 — We estimate that the average silent reading rate for adults in English is 238 words per minute (wpm) for non-fi...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/335174808_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/335174808_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A review...15 Aug 2019 — We estimate that the average silent reading rate for adults in English is 238 words per minute (wpm) for non-fi...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: discovery.researcher.life  
-   Link: <a href="https://discovery.researcher.life/article/reading-comprehension-of-legal-texts-an-analysis-of-the-influence-of-lexico-grammatical-features-domain-knowledge-and-text-structure/4ea528fa963232a68898af2b1318bf49" target="_blank" rel="noopener noreferrer nofollow">https://discovery.researcher.life/article/reading-comprehension-of-legal-texts-an-analysis-of-the-influence-of-lexico-grammatical-features-domain-knowledge-and-text-structure/4ea528fa963232a68898af2b1318bf49</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Researcher LifeReading Comprehension of Legal Texts: An Analysis of the...17 Nov 2025 — The studies presented that expert readers interp...</p></details>
+   Link:<a href="https://discovery.researcher.life/article/reading-comprehension-of-legal-texts-an-analysis-of-the-influence-of-lexico-grammatical-features-domain-knowledge-and-text-structure/4ea528fa963232a68898af2b1318bf49" target="_blank" rel="noopener noreferrer nofollow">https://discovery.researcher.life/article/reading-comprehension-of-legal-texts-an-analysis-of-the-influence-of-lexico-grammatical-features-domain-knowledge-and-text-structure/4ea528fa963232a68898af2b1318bf49</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Researcher LifeReading Comprehension of Legal Texts: An Analysis of the...17 Nov 2025 — The studies presented that expert readers interp...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/290492746_So_Much_to_Read_So_Little_Time_How_Do_We_Read_and_Can_Speed_Reading_Help" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/290492746_So_Much_to_Read_So_Little_Time_How_Do_We_Read_and_Can_Speed_Reading_Help</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It is unlikely that readers will be able to double or triple their reading speeds.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/290492746_So_Much_to_Read_So_Little_Time_How_Do_We_Read_and_Can_Speed_Reading_Help" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/290492746_So_Much_to_Read_So_Little_Time_How_Do_We_Read_and_Can_Speed_Reading_Help</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It is unlikely that readers will be able to double or triple their reading speeds.Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/364401600_Effects_of_mode_and_medium_in_reading_comprehension_tests_on_cognitive_load" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/364401600_Effects_of_mode_and_medium_in_reading_comprehension_tests_on_cognitive_load</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of mode and medium in reading comprehension...31 Oct 2022 — This study investigated how the three test formats of PPT, CBT, CAT...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/364401600_Effects_of_mode_and_medium_in_reading_comprehension_tests_on_cognitive_load" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/364401600_Effects_of_mode_and_medium_in_reading_comprehension_tests_on_cognitive_load</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of mode and medium in reading comprehension...31 Oct 2022 — This study investigated how the three test formats of PPT, CBT, CAT...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/290471702_Speed_Reading_You_Cant_Always_Get_What_You_Want_but_Can_You_Sometimes_Get_What_You_Need" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/290471702_Speed_Reading_You_Cant_Always_Get_What_You_Want_but_Can_You_Sometimes_Get_What_You_Need</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Speed Reading: You Cant Always Get What You Want, but...Rayner, Schotter, Masson, Potter, and Treiman (2016) purport that it is difficul...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/290471702_Speed_Reading_You_Cant_Always_Get_What_You_Want_but_Can_You_Sometimes_Get_What_You_Need" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/290471702_Speed_Reading_You_Cant_Always_Get_What_You_Want_but_Can_You_Sometimes_Get_What_You_Need</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Speed Reading: You Cant Always Get What You Want, but...Rayner, Schotter, Masson, Potter, and Treiman (2016) purport that it is difficul...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
    Title: (PDF) How many words do we read per minute?  
-   Link: <a href="https://www.researchgate.net/publication/332380784_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/332380784_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A review...by M Brysbaert · Cited by 841 — We estimate that the average silent reading rate for adults in English is 238 word per minute...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/332380784_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/332380784_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A review...by M Brysbaert · Cited by 841 — We estimate that the average silent reading rate for adults in English is 238 word per minute...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/figure/Distribution-of-reading-rates-for-fiction-books_fig4_335174808" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Distribution-of-reading-rates-for-fiction-books_fig4_335174808</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Figure 5: Distribution of reading rates for fiction booksWe estimate that the average silent reading rate for adults in English is 238 wo...</p></details>
+   Link:<a href="https://www.researchgate.net/figure/Distribution-of-reading-rates-for-fiction-books_fig4_335174808" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Distribution-of-reading-rates-for-fiction-books_fig4_335174808</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Figure 5: Distribution of reading rates for fiction booksWe estimate that the average silent reading rate for adults in English is 238 wo...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/figure/Reading-rates-for-languages-for-which-there-are-at-least-two-studies-for-silent-reading_tbl1_332380784" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Reading-rates-for-languages-for-which-there-are-at-least-two-studies-for-silent-reading_tbl1_332380784</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading rates for languages for which there are at least...According to Brysbaert (2019), teens read at a rate of 195 to 204 words per...</p></details>
+   Link:<a href="https://www.researchgate.net/figure/Reading-rates-for-languages-for-which-there-are-at-least-two-studies-for-silent-reading_tbl1_332380784" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Reading-rates-for-languages-for-which-there-are-at-least-two-studies-for-silent-reading_tbl1_332380784</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading rates for languages for which there are at least...According to Brysbaert (2019), teens read at a rate of 195 to 204 words per...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med How Do We Read, and Can Speed Reading Help?  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26769745/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by K Rayner · 2016 · Cited by 514 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26769745/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by K Rayner · 2016 · Cited by 514 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: biblio.ugent.be  
    Title: Ghent University Bibliography How many words do we read per minute?  
-   Link: <a href="https://biblio.ugent.be/publication/8647789" target="_blank" rel="noopener noreferrer nofollow">https://biblio.ugent.be/publication/8647789</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A review and meta...by M Brysbaert · 2019 · Cited by 864 — For silent reading of English non-fiction most adults fall in the range of 17...</p></details>
+   Link:<a href="https://biblio.ugent.be/publication/8647789" target="_blank" rel="noopener noreferrer nofollow">https://biblio.ugent.be/publication/8647789</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A review and meta...by M Brysbaert · 2019 · Cited by 864 — For silent reading of English non-fiction most adults fall in the range of 17...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: journals.sagepub.com  
    Title: Sage Journals So Much to Read, So Little Time  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/1529100615623267" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1529100615623267</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It is unlikely that readers will be able to double or triple their reading speeds (e.g...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/1529100615623267" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1529100615623267</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It is unlikely that readers will be able to double or triple their reading speeds (e.g...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: psychologicalscience.org  
    Title: speed reading  
-   Link: <a href="https://www.psychologicalscience.org/publications/speed_reading.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/publications/speed_reading.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceSo Much to Read, So Little Time: How Do We Read, and...13 Jan 2016 — The report shows there is no q...</p></details>
+   Link:<a href="https://www.psychologicalscience.org/publications/speed_reading.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/publications/speed_reading.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceSo Much to Read, So Little Time: How Do We Read, and...13 Jan 2016 — The report shows there is no q...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: frontiersin.org  
    Title: Frontiers Cognitive Load and Learning in the Study of Multiple  
-   Link: <a href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2018.00059/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2018.00059/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>First, to test how the availability of documents in multiple document reading might affect students&#x27; levels of cognitive load.Read more...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2018.00059/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2018.00059/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>First, to test how the availability of documents in multiple document reading might affect students&#x27; levels of cognitive load.Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: psychologicalscience.org  
    Title: speed reading promises are too good to be true scientists find 2  
-   Link: <a href="https://www.psychologicalscience.org/observer/speed-reading-promises-are-too-good-to-be-true-scientists-find-2" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/observer/speed-reading-promises-are-too-good-to-be-true-scientists-find-2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceSpeed Reading Promises Are Too Good to Be True...29 Feb 2016 — A team of psychological scientists f...</p></details>
+   Link:<a href="https://www.psychologicalscience.org/observer/speed-reading-promises-are-too-good-to-be-true-scientists-find-2" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/observer/speed-reading-promises-are-too-good-to-be-true-scientists-find-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceSpeed Reading Promises Are Too Good to Be True...29 Feb 2016 — A team of psychological scientists f...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: psychologicalscience.org  
    Title: speed reading promises are too good to be true scientists find  
-   Link: <a href="https://www.psychologicalscience.org/news/releases/speed-reading-promises-are-too-good-to-be-true-scientists-find.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/news/releases/speed-reading-promises-are-too-good-to-be-true-scientists-find.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceSpeed Reading Promises Are Too Good to Be True...14 Jan 2016 — There is little scientific evidence...</p></details>
+   Link:<a href="https://www.psychologicalscience.org/news/releases/speed-reading-promises-are-too-good-to-be-true-scientists-find.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/news/releases/speed-reading-promises-are-too-good-to-be-true-scientists-find.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceSpeed Reading Promises Are Too Good to Be True...14 Jan 2016 — There is little scientific evidence...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: journals.sagepub.com  
    Title: Sage Journals So Much to Read, So Little Time  
-   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/1529100615623267" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/1529100615623267</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsSo Much to Read, So Little Time - Keith Rayner, Elizabeth...by K Rayner · 2016 · Cited by 516 — It is unlikely that readers...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/abs/10.1177/1529100615623267" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/1529100615623267</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsSo Much to Read, So Little Time - Keith Rayner, Elizabeth...by K Rayner · 2016 · Cited by 516 — It is unlikely that readers...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Average" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Average</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AverageIn mathematics, an average of a collection or group is a value that is most central, common, or typical in some sense, and repr...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Average" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Average</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AverageIn mathematics, an average of a collection or group is a value that is most central, common, or typical in some sense, and repr...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Speed reading  
-   Link: <a href="https://en.wikipedia.org/wiki/Speed_reading" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Speed_reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Speed readingSpeed reading is any of many techniques claiming to improve one&#x27;s ability to read quickly. Speed-reading methods include...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Speed_reading" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Speed_reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Speed readingSpeed reading is any of many techniques claiming to improve one&#x27;s ability to read quickly. Speed-reading methods include...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/average" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/average</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a standard or level that is considered to be typical or usual: The quality of her work is well above average.Read more...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/average" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/average</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a standard or level that is considered to be typical or usual: The quality of her work is well above average.Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4835101/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4835101/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Cognitive Factors Imposing “Speed Limits” on...by S Primativo · 2016 · Cited by 37 — Adults read at high speed, but estimates of the...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4835101/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4835101/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Cognitive Factors Imposing “Speed Limits” on...by S Primativo · 2016 · Cited by 37 — Adults read at high speed, but estimates of the...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6455959/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6455959/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Influence of Text Complexity and Question...by M Spencer · 2018 · Cited by 100 — Text complexity negatively impacted reading outcome...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6455959/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6455959/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Influence of Text Complexity and Question...by M Spencer · 2018 · Cited by 100 — Text complexity negatively impacted reading outcome...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: calculatorsoup.com  
-   Link: <a href="https://www.calculatorsoup.com/calculators/statistics/average.php" target="_blank" rel="noopener noreferrer nofollow">https://www.calculatorsoup.com/calculators/statistics/average.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mean Calculator | Average CalculatorNov 4, 2025 — Calculate the average of a set of numbers. Mean calculator finds the mean by adding all...</p></details>
+   Link:<a href="https://www.calculatorsoup.com/calculators/statistics/average.php" target="_blank" rel="noopener noreferrer nofollow">https://www.calculatorsoup.com/calculators/statistics/average.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mean Calculator | Average CalculatorNov 4, 2025 — Calculate the average of a set of numbers. Mean calculator finds the mean by adding all...</p></details>
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: legalwritingjournal.org  
-   Link: <a href="https://www.legalwritingjournal.org/article/27432-take-a-cognitive-load-off-creating-space-to-allow-first-year-legal-writing-students-to-focus-on-analytical-and-writing-processes" target="_blank" rel="noopener noreferrer nofollow">https://www.legalwritingjournal.org/article/27432-take-a-cognitive-load-off-creating-space-to-allow-first-year-legal-writing-students-to-focus-on-analytical-and-writing-processes</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Take a (Cognitive) Load Off: Creating Space to Allow First...1 Mar 2015 — In this Article, we identify some ways in which cognitive load...</p></details>
+   Link:<a href="https://www.legalwritingjournal.org/article/27432-take-a-cognitive-load-off-creating-space-to-allow-first-year-legal-writing-students-to-focus-on-analytical-and-writing-processes" target="_blank" rel="noopener noreferrer nofollow">https://www.legalwritingjournal.org/article/27432-take-a-cognitive-load-off-creating-space-to-allow-first-year-legal-writing-students-to-focus-on-analytical-and-writing-processes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Take a (Cognitive) Load Off: Creating Space to Allow First...1 Mar 2015 — In this Article, we identify some ways in which cognitive load...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/average" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/average</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AVERAGE Definition &amp; Meaning5 days ago — The meaning of AVERAGE is a single value (such as a mean, mode, or median) that summarizes or re...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/average" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/average</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AVERAGE Definition &amp; Meaning5 days ago — The meaning of AVERAGE is a single value (such as a mean, mode, or median) that summarizes or re...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: psychonomic.org  
-   Link: <a href="https://www.psychonomic.org/page/brysbaert" target="_blank" rel="noopener noreferrer nofollow">https://www.psychonomic.org/page/brysbaert</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Marc BrysbaertMarc Brysbaert is author of over 250 articles and book chapters, of which 25 appeared in Behavior Research Methods. His int...</p></details>
+   Link:<a href="https://www.psychonomic.org/page/brysbaert" target="_blank" rel="noopener noreferrer nofollow">https://www.psychonomic.org/page/brysbaert</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Marc BrysbaertMarc Brysbaert is author of over 250 articles and book chapters, of which 25 appeared in Behavior Research Methods. His int...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: calculator.net  
-   Link: <a href="https://www.calculator.net/average-calculator.html" target="_blank" rel="noopener noreferrer nofollow">https://www.calculator.net/average-calculator.html</a>  
+   Link:<a href="https://www.calculator.net/average-calculator.html" target="_blank" rel="noopener noreferrer nofollow">https://www.calculator.net/average-calculator.html</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: rsisinternational.org  
-   Link: <a href="https://rsisinternational.org/journals/ijriss/view/reading-comprehension-of-legal-texts-an-analysis-of-the-influence-of-lexico-grammatical-features-domain-knowledge-and-text-structure" target="_blank" rel="noopener noreferrer nofollow">https://rsisinternational.org/journals/ijriss/view/reading-comprehension-of-legal-texts-an-analysis-of-the-influence-of-lexico-grammatical-features-domain-knowledge-and-text-structure</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Comprehension of Legal Texts: An Analysis of the...These findings provide valuable recommendations for developing legal reading...</p></details>
+   Link:<a href="https://rsisinternational.org/journals/ijriss/view/reading-comprehension-of-legal-texts-an-analysis-of-the-influence-of-lexico-grammatical-features-domain-knowledge-and-text-structure" target="_blank" rel="noopener noreferrer nofollow">https://rsisinternational.org/journals/ijriss/view/reading-comprehension-of-legal-texts-an-analysis-of-the-influence-of-lexico-grammatical-features-domain-knowledge-and-text-structure</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Comprehension of Legal Texts: An Analysis of the...These findings provide valuable recommendations for developing legal reading...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: wordrake.com  
    Title: The more onerous the cognitive load, the less readers will understand  
-   Link: <a href="https://www.wordrake.com/resources/how-to-avoid-brain-strain-in-legal-writing" target="_blank" rel="noopener noreferrer nofollow">https://www.wordrake.com/resources/how-to-avoid-brain-strain-in-legal-writing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Clear Legal Writing Made Easy: Reduce Brain Strain for...The heavy cognitive load of your legal writing can kill effective communication...</p></details>
+   Link:<a href="https://www.wordrake.com/resources/how-to-avoid-brain-strain-in-legal-writing" target="_blank" rel="noopener noreferrer nofollow">https://www.wordrake.com/resources/how-to-avoid-brain-strain-in-legal-writing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Clear Legal Writing Made Easy: Reduce Brain Strain for...The heavy cognitive load of your legal writing can kill effective communication...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: pedocs.de  
-   Link: <a href="https://www.pedocs.de/volltexte/2022/23781/pdf/ZfPP_2019_2_Hahnel_et_al_The_role_of_cognitive_load_A.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.pedocs.de/volltexte/2022/23781/pdf/ZfPP_2019_2_Hahnel_et_al_The_role_of_cognitive_load_A.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The role of cognitive load in university students&#x27;...by C Hahnel · 2019 · Cited by 30 — A joint consideration of the relationship betwee...</p></details>
+   Link:<a href="https://www.pedocs.de/volltexte/2022/23781/pdf/ZfPP_2019_2_Hahnel_et_al_The_role_of_cognitive_load_A.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.pedocs.de/volltexte/2022/23781/pdf/ZfPP_2019_2_Hahnel_et_al_The_role_of_cognitive_load_A.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The role of cognitive load in university students&#x27;...by C Hahnel · 2019 · Cited by 30 — A joint consideration of the relationship betwee...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: reddit.com  
    Title: What is the intuitive explanation of "average"?  
-   Link: <a href="https://www.reddit.com/r/learnmath/comments/1dkmlvu/what_is_the_intuitive_explanation_of_average/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/learnmath/comments/1dkmlvu/what_is_the_intuitive_explanation_of_average/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>r/learnmathI&#x27;m a university student currently having a semester focused around Linear Algebra and Probability. I was wondering what the i...</p></details>
+   Link:<a href="https://www.reddit.com/r/learnmath/comments/1dkmlvu/what_is_the_intuitive_explanation_of_average/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/learnmath/comments/1dkmlvu/what_is_the_intuitive_explanation_of_average/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r/learnmathI&#x27;m a university student currently having a semester focused around Linear Algebra and Probability. I was wondering what the i...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: theguardian.com  
    Title: speed reading claims discredited by new report  
-   Link: <a href="https://www.theguardian.com/books/2016/jan/29/speed-reading-claims-discredited-by-new-report" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/books/2016/jan/29/speed-reading-claims-discredited-by-new-report</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Books29 Jan 2016 — Companies and apps that promise to rapidly increase reading speeds are on a hiding to nothing, according to new resear...</p></details>
+   Link:<a href="https://www.theguardian.com/books/2016/jan/29/speed-reading-claims-discredited-by-new-report" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/books/2016/jan/29/speed-reading-claims-discredited-by-new-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Books29 Jan 2016 — Companies and apps that promise to rapidly increase reading speeds are on a hiding to nothing, according to new resear...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: reader.ku.edu  
    Title: How many words do we read per minute (1)  
-   Link: <a href="https://reader.ku.edu/sites/reader/files/2024-01/How%20many%20words%20do%20we%20read%20per%20minute%20%281%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://reader.ku.edu/sites/reader/files/2024-01/How%20many%20words%20do%20we%20read%20per%20minute%20%281%29.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>many words do we read per minuteby M Brysbaert · Cited by 823 — In a review paper on speed reading, Rayner, Schotter, Masson, Potter, and...</p></details>
+   Link:<a href="https://reader.ku.edu/sites/reader/files/2024-01/How%20many%20words%20do%20we%20read%20per%20minute%20%281%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://reader.ku.edu/sites/reader/files/2024-01/How%20many%20words%20do%20we%20read%20per%20minute%20%281%29.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>many words do we read per minuteby M Brysbaert · Cited by 823 — In a review paper on speed reading, Rayner, Schotter, Masson, Potter, and...</p></details>

@@ -275,7 +275,7 @@ image: /assets/images/increasing_re_852ca6_phrase_readin_eba9de_silent_readin_c3
 
 ## Introduction
 
-Many [speed-reading]({{ 'myths/' | relative_url }}) programmes present the inner voice as a bottleneck. The promise is simple: stop mentally “hearing” words and you can move through text far faster. The problem is that the same internal speech many readers try to eliminate often helps them understand what they are reading. Research on silent reading, phonological coding, and implicit prosody suggests that the inner voice is not merely a habit left over from [reading aloud]({{ 'reading-aloud/' | relative_url }}). It is part of how readers organise sentences, maintain information in working memory, and track the structure of complex arguments. Suppressing it may produce a short-term increase in pace, but the gain can come at the cost of comprehension, especially when material becomes dense, unfamiliar, or logically demanding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ila.onlinelibrary.wiley.com/doi/10.1002/rrq.67" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ila.onlinelibrary.wiley.com">[ILA+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ila.onlinelibrary.wiley.com</span><span class="citation-popover-title">ILAEvidence for Prosody in Silent Reading</span><span class="citation-popover-snippet">Gross - 201418 Dec 2013 — Recent brain activation research reveals that skilled, adult readers activate phonological features during the...</span></span></span>
+Many [speed-reading]({{ 'myths/' | relative_url }}) programmes present the inner voice as a bottleneck. The promise is simple: stop mentally “hearing” words and you can move through text far faster. The problem is that the same internal speech many readers try to eliminate often helps them understand what they are reading. Research on silent reading, phonological coding, and implicit prosody suggests that the inner voice is not merely a habit left over from [reading aloud]({{ 'reading-aloud/' | relative_url }}). It is part of how readers organise sentences, maintain information in working memory, and track the structure of complex arguments. Suppressing it may produce a short-term increase in pace, but the gain can come at the cost of comprehension, especially when material becomes dense, unfamiliar, or logically demanding.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ila.onlinelibrary.wiley.com/doi/10.1002/rrq.67" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ila.onlinelibrary.wiley.com">[ILA+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ila.onlinelibrary.wiley.com</span><span class="citation-popover-title">ILAEvidence for Prosody in Silent Reading</span><span class="citation-popover-snippet">Gross - 201418 Dec 2013 — Recent brain activation research reveals that skilled, adult readers activate phonological features during the...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_silent_readin_c35cd2_suppressing_i_080994-Illustration-1-dark.svg" | relative_url }}" alt="Inner voice risk illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_silent_readin_c35cd2_suppressing_i_080994-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_silent_readin_c35cd2_suppressing_i_080994-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -283,11 +283,11 @@ Many [speed-reading]({{ 'myths/' | relative_url }}) programmes present the inner
 
 ### The speed-reading claim versus reading evidence
 
-The traditional speed-reading argument is that subvocalisation—the tendency to generate an internal voice while [reading—limits]({{ 'reading-limits/' | relative_url }}) reading speed to something close to speaking speed. If readers could bypass sound and process words as pure visual symbols, they could supposedly read much faster. This idea became a central feature of many commercial speed-reading systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scotthyoung.com/blog/2015/01/19/speed-reading-redo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scotthyoung.com">[Scott H. Young]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scotthyoung.com</span><span class="citation-popover-title">Scott H</span><span class="citation-popover-snippet">YoungI Was Wrong About Speed Reading: Here are the FactsJanuary 19, 2015 — 19 Jan 2015 — Speed reading experts claim that subvocalization...</span><span class="citation-popover-meta">Published: January 19, 2015</span></span></span>
+The traditional speed-reading argument is that subvocalisation—the tendency to generate an internal voice while [reading—limits]({{ 'reading-limits/' | relative_url }}) reading speed to something close to speaking speed. If readers could bypass sound and process words as pure visual symbols, they could supposedly read much faster. This idea became a central feature of many commercial speed-reading systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scotthyoung.com/blog/2015/01/19/speed-reading-redo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scotthyoung.com">[Scott H. Young]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scotthyoung.com</span><span class="citation-popover-title">Scott H</span><span class="citation-popover-snippet">YoungI Was Wrong About Speed Reading: Here are the FactsJanuary 19, 2015 — 19 Jan 2015 — Speed reading experts claim that subvocalization...</span><span class="citation-popover-meta">Published: January 19, 2015</span></span></span>
 
-However, reading research has repeatedly found that skilled readers automatically activate phonological information—the sound-related properties of words—even during silent reading. Rather than being an unnecessary extra step, phonological processing appears deeply integrated with word recognition and meaning construction. Studies reviewed by reading researchers show that phonological information is activated extremely early during visual word recognition, suggesting it helps guide comprehension rather than merely following it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ila.onlinelibrary.wiley.com/doi/10.1002/rrq.67" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ila.onlinelibrary.wiley.com">[ILA+2CORE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ila.onlinelibrary.wiley.com</span><span class="citation-popover-title">ILAEvidence for Prosody in Silent Reading</span><span class="citation-popover-snippet">Gross - 201418 Dec 2013 — Recent brain activation research reveals that skilled, adult readers activate phonological features during the...</span></span></span>
+However, reading research has repeatedly found that skilled readers automatically activate phonological information—the sound-related properties of words—even during silent reading. Rather than being an unnecessary extra step, phonological processing appears deeply integrated with word recognition and meaning construction. Studies reviewed by reading researchers show that phonological information is activated extremely early during visual word recognition, suggesting it helps guide comprehension rather than merely following it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ila.onlinelibrary.wiley.com/doi/10.1002/rrq.67" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ila.onlinelibrary.wiley.com">[ILA+2CORE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ila.onlinelibrary.wiley.com</span><span class="citation-popover-title">ILAEvidence for Prosody in Silent Reading</span><span class="citation-popover-snippet">Gross - 201418 Dec 2013 — Recent brain activation research reveals that skilled, adult readers activate phonological features during the...</span></span></span>
 
-The strongest challenge to the “eliminate the inner voice” advice comes from experiments that deliberately interfere with speech-based processing. When readers are forced to perform competing verbal tasks that disrupt internal speech, comprehension typically declines. One study found that interfering with speech recoding during silent reading reduced comprehension performance by roughly 10–12% on average. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/BF01027072" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Assessing the importance of subvocalization during normal...by M Daneman · 1992 · Cited by 72 — Interfering with speech recoding...</span></span></span>
+The strongest challenge to the “eliminate the inner voice” advice comes from experiments that deliberately interfere with speech-based processing. When readers are forced to perform competing verbal tasks that disrupt internal speech, comprehension typically declines. One study found that interfering with speech recoding during silent reading reduced comprehension performance by roughly 10–12% on average.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/BF01027072" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Assessing the importance of subvocalization during normal...by M Daneman · 1992 · Cited by 72 — Interfering with speech recoding...</span></span></span>
 
 This does not mean readers must consciously pronounce every word in their minds. It does mean that removing phonological support altogether is rarely a free speed gain.
 
@@ -298,17 +298,17 @@ This does not mean readers must consciously pronounce every word in their minds.
 
 The most important misunderstanding in many speed-reading discussions is the assumption that phonological coding and spoken speech are the same thing.
 
-Skilled readers do not usually recreate full spoken sentences internally at conversational speed. Instead, they activate compact sound-based representations that help connect spelling, word identity, syntax, and meaning. Researchers often describe this process as phonological coding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPhonological coding during reading</span><span class="citation-popover-snippet">NIHby M Leinenger · 2014 · Cited by 170 — This inner voice is a subjective manifestation of phonological coding, the recoding of or...</span></span></span>
+Skilled readers do not usually recreate full spoken sentences internally at conversational speed. Instead, they activate compact sound-based representations that help connect spelling, word identity, syntax, and meaning. Researchers often describe this process as phonological coding.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPhonological coding during reading</span><span class="citation-popover-snippet">NIHby M Leinenger · 2014 · Cited by 170 — This inner voice is a subjective manifestation of phonological coding, the recoding of or...</span></span></span>
 
 Within silent reading, this phonological layer supports several comprehension functions:
 
-**Maintaining word order in working memory.** Written language unfolds across time. Readers must temporarily retain earlier words and [phrases]({{ 'phrases/' | relative_url }}) while integrating new information. Sound-based representations appear to help preserve that sequence, making it easier to combine words into meaningful units. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ora.ox.ac.uk/objects/uuid%3Adfe9f411-fa39-48db-9fc3-b61ed41deb1e/files/dsf2685900" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ora.ox.ac.uk">[ORA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ora.ox.ac.uk</span><span class="citation-popover-snippet">August 12, 2023 — by E Mok · 2023 · Cited by 1 — subvocalization, or “inner speech” during comprehension is to aid higher-level comprehen...</span><span class="citation-popover-meta">Published: August 12, 2023</span></span></span>
+**Maintaining word order in working memory.** Written language unfolds across time. Readers must temporarily retain earlier words and [phrases]({{ 'phrases/' | relative_url }}) while integrating new information. Sound-based representations appear to help preserve that sequence, making it easier to combine words into meaningful units.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ora.ox.ac.uk/objects/uuid%3Adfe9f411-fa39-48db-9fc3-b61ed41deb1e/files/dsf2685900" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ora.ox.ac.uk">[ORA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ora.ox.ac.uk</span><span class="citation-popover-snippet">August 12, 2023 — by E Mok · 2023 · Cited by 1 — subvocalization, or “inner speech” during comprehension is to aid higher-level comprehen...</span><span class="citation-popover-meta">Published: August 12, 2023</span></span></span>
 
-**Grouping sentences into phrases.** Silent readers often impose an internal rhythm or prosodic structure on text. This implicit phrasing helps identify clause boundaries, relationships between ideas, and the intended structure of a sentence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1995-8692/6/2/9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI+2eScholarship]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Implicit Prosody and Contextual Bias in Silent Readingby K McCurdy · 2013 · Cited by 21 — Eye-movement research on implicit prosody h...</span></span></span>
+**Grouping sentences into phrases.** Silent readers often impose an internal rhythm or prosodic structure on text. This implicit phrasing helps identify clause boundaries, relationships between ideas, and the intended structure of a sentence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1995-8692/6/2/9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI+2eScholarship]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Implicit Prosody and Contextual Bias in Silent Readingby K McCurdy · 2013 · Cited by 21 — Eye-movement research on implicit prosody h...</span></span></span>
 
-**Resolving ambiguity.** Many sentences can be interpreted in more than one way until later words clarify the meaning. Research on implicit prosody suggests that readers use internally generated stress patterns and phrase boundaries to guide interpretation before all information is available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1995-8692/6/2/9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Implicit Prosody and Contextual Bias in Silent Readingby K McCurdy · 2013 · Cited by 21 — Eye-movement research on implicit prosody h...</span></span></span>
+**Resolving ambiguity.** Many sentences can be interpreted in more than one way until later words clarify the meaning. Research on implicit prosody suggests that readers use internally generated stress patterns and phrase boundaries to guide interpretation before all information is available.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1995-8692/6/2/9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Implicit Prosody and Contextual Bias in Silent Readingby K McCurdy · 2013 · Cited by 21 — Eye-movement research on implicit prosody h...</span></span></span>
 
-**Supporting memory and retention.** Translating visual text into a partially phonological form creates an additional coding route for information. This can improve retention and later recall, particularly when material must be remembered rather than merely scanned. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Subvocalization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+**Supporting memory and retention.** Translating visual text into a partially phonological form creates an additional coding route for information. This can improve retention and later recall, particularly when material must be remembered rather than merely scanned.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Subvocalization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 These functions become more important as texts become more demanding. A simple shopping list places minimal demands on syntax and working memory. A legal document, scientific paper, or philosophical argument does not.
 
@@ -318,13 +318,13 @@ These functions become more important as texts become more demanding. A simple s
 
 The risks of suppressing the inner voice are easiest to see in complex reading.
 
-Consider a sentence containing multiple clauses, qualifications, and contrasts. Readers normally use an internal sense of phrasing to determine which ideas belong together and which ideas modify others. When that phrasing weakens, words may still be recognised individually, but the larger structure becomes harder to track. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1995-8692/6/2/9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Implicit Prosody and Contextual Bias in Silent Readingby K McCurdy · 2013 · Cited by 21 — Eye-movement research on implicit prosody h...</span></span></span>
+Consider a sentence containing multiple clauses, qualifications, and contrasts. Readers normally use an internal sense of phrasing to determine which ideas belong together and which ideas modify others. When that phrasing weakens, words may still be recognised individually, but the larger structure becomes harder to track.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1995-8692/6/2/9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Implicit Prosody and Contextual Bias in Silent Readingby K McCurdy · 2013 · Cited by 21 — Eye-movement research on implicit prosody h...</span></span></span>
 
 The result is often a misleading feeling of speed. Eyes continue moving across the page, and word recognition remains intact, but comprehension begins to lag behind. Readers may reach the end of a paragraph only to discover that they cannot accurately explain the argument they just read.
 
 This distinction matters because reading speed and reading efficiency are not identical. Efficient reading means obtaining meaning quickly. If comprehension falls enough to require rereading, the apparent speed gain disappears.
 
-Research evaluating speed-reading claims has repeatedly found this trade-off. Reviews of reading science have concluded that attempts to eliminate subvocalisation and other natural reading processes typically reduce comprehension as speed increases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2017/01/make-resolution-read-speed-reading-wont-help" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">Basic calculations based on the properties of eyes and texts indicate that an average reading speed is around 280 words per minute, a val...</span></span></span>
+Research evaluating speed-reading claims has repeatedly found this trade-off. Reviews of reading science have concluded that attempts to eliminate subvocalisation and other natural reading processes typically reduce comprehension as speed increases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2017/01/make-resolution-read-speed-reading-wont-help" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">Basic calculations based on the properties of eyes and texts indicate that an average reading speed is around 280 words per minute, a val...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DGDkTyOt7gQ" title="Subvocalization | Things About Speed Reading Nobody Tells You" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DGDkTyOt7gQ" target="_blank" rel="noopener noreferrer">Subvocalization | Things About Speed Reading Nobody Tells You</a></p><p class="youtube-embed-meta">Channel: How to Genius &middot; Views: 165.9K &middot; Uploaded: March 2021 &middot; Length: 4 minutes 22 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DGDkTyOt7gQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DGDkTyOt7gQ">Open on YouTube</a></p></div></div></div>
@@ -347,7 +347,7 @@ Common [warning signs]({{ 'warning-signs/' | relative_url }}) include:
 
 </div>
 
-These symptoms often appear first in complex nonfiction because such material depends heavily on phrase structure, working memory, and logical integration—the very processes supported by phonological coding and implicit prosody. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ora.ox.ac.uk/objects/uuid%3Adfe9f411-fa39-48db-9fc3-b61ed41deb1e/files/dsf2685900" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ora.ox.ac.uk">[ORA+2MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ora.ox.ac.uk</span><span class="citation-popover-snippet">August 12, 2023 — by E Mok · 2023 · Cited by 1 — subvocalization, or “inner speech” during comprehension is to aid higher-level comprehen...</span><span class="citation-popover-meta">Published: August 12, 2023</span></span></span>
+These symptoms often appear first in complex nonfiction because such material depends heavily on phrase structure, working memory, and logical integration—the very processes supported by phonological coding and implicit prosody.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ora.ox.ac.uk/objects/uuid%3Adfe9f411-fa39-48db-9fc3-b61ed41deb1e/files/dsf2685900" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ora.ox.ac.uk">[ORA+2MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ora.ox.ac.uk</span><span class="citation-popover-snippet">August 12, 2023 — by E Mok · 2023 · Cited by 1 — subvocalization, or “inner speech” during comprehension is to aid higher-level comprehen...</span><span class="citation-popover-meta">Published: August 12, 2023</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_silent_readin_c35cd2_suppressing_i_080994-Illustration-3-dark.svg" | relative_url }}" alt="Inner voice risk illustration 3" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_silent_readin_c35cd2_suppressing_i_080994-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_silent_readin_c35cd2_suppressing_i_080994-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -355,171 +355,171 @@ These symptoms often appear first in complex nonfiction because such material de
 
 For readers seeking greater speed, the evidence points towards a different target. Rather than trying to silence the inner voice completely, skilled reading appears to involve making phonological processing more efficient.
 
-Experienced readers typically move through familiar material rapidly while still maintaining an internal sense of phrasing. They process larger chunks of language, recognise words more automatically, and allocate attention according to difficulty. The inner voice becomes streamlined, not eliminated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/302973404_Why_Does_Prosody_Accompany_Fluency_Re-conceptualizing_the_Role_of_Phonology_in_Reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2ILA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Why Does Prosody Accompany Fluency?</span><span class="citation-popover-snippet">Re ...May 12, 2016 — Recent eye movement data from skilled readers indicate that automatically processing prosodic phonological informati...</span></span></span>
+Experienced readers typically move through familiar material rapidly while still maintaining an internal sense of phrasing. They process larger chunks of language, recognise words more automatically, and allocate attention according to difficulty. The inner voice becomes streamlined, not eliminated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/302973404_Why_Does_Prosody_Accompany_Fluency_Re-conceptualizing_the_Role_of_Phonology_in_Reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2ILA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Why Does Prosody Accompany Fluency?</span><span class="citation-popover-snippet">Re ...May 12, 2016 — Recent eye movement data from skilled readers indicate that automatically processing prosodic phonological informati...</span></span></span>
 
-In that sense, the question is not whether the inner voice exists. The more useful question is whether it continues to support meaning. Silent reading research suggests that for most readers, the internal rhythm of language remains a valuable guide. Removing it entirely may increase page-turning speed, but it can also remove one of the tools the brain uses to understand what those pages actually say. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ila.onlinelibrary.wiley.com/doi/10.1002/rrq.67" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ila.onlinelibrary.wiley.com">[ILA+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ila.onlinelibrary.wiley.com</span><span class="citation-popover-title">ILAEvidence for Prosody in Silent Reading</span><span class="citation-popover-snippet">Gross - 201418 Dec 2013 — Recent brain activation research reveals that skilled, adult readers activate phonological features during the...</span></span></span>
+In that sense, the question is not whether the inner voice exists. The more useful question is whether it continues to support meaning. Silent reading research suggests that for most readers, the internal rhythm of language remains a valuable guide. Removing it entirely may increase page-turning speed, but it can also remove one of the tools the brain uses to understand what those pages actually say.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ila.onlinelibrary.wiley.com/doi/10.1002/rrq.67" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ila.onlinelibrary.wiley.com">[ILA+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ila.onlinelibrary.wiley.com</span><span class="citation-popover-title">ILAEvidence for Prosody in Silent Reading</span><span class="citation-popover-snippet">Gross - 201418 Dec 2013 — Recent brain activation research reveals that skilled, adult readers activate phonological features during the...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LHQxU6UL0B4" title="Read Faster by Reducing Subvocalization - Speed Reading Tips" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LHQxU6UL0B4" target="_blank" rel="noopener noreferrer">Read Faster by Reducing Subvocalization - Speed Reading Tips</a></p><p class="youtube-embed-meta">Channel: Iris Reading &middot; Views: 31.1K &middot; Uploaded: January 2022 &middot; Length: 4 minutes 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LHQxU6UL0B4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LHQxU6UL0B4">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Should you really silence the inner voice?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Should you really silence the inner voice?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Focuses on reading for understanding and retention, aligning with themes of syntax, meaning, and thoughtful engagement with text.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Focuses on reading for understanding and retention, aligning with themes of syntax, meaning, and thoughtful engagement with text.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Shallows+by+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Shallows on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1KayoVl3OTMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Shallows" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Shallows+by+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Shallows">The Shallows</a>
-        </h4>
-        <p class="fr-book-author">By Nicholas Carr</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Shallows+by+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Shallows on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1KayoVl3OTMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Shallows" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Shallows+by+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Shallows">The Shallows</a>
+</h4>
+<p class="fr-book-author">By Nicholas Carr</p>
         
-        <p class="fr-book-desc">Examines deep reading, attention, and the trade-off between speed and comprehension.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Shallows+by+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines deep reading, attention, and the trade-off between speed and comprehension.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Shallows+by+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Proust+and+the+squid+%3A+the+story+and+science+of+the+reading+brain+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Proust and the squid : the story and science of the reading brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6370342-M.jpg" alt="Cover for Proust and the squid : the story and science of the reading brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Proust+and+the+squid+%3A+the+story+and+science+of+the+reading+brain+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Proust and the squid : the story and science of the reading brain">Proust and the squid : the story and science of the reading b...</a>
-        </h4>
-        <p class="fr-book-author">By Maryanne Wolf</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Proust+and+the+squid+%3A+the+story+and+science+of+the+reading+brain+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Proust and the squid : the story and science of the reading brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6370342-M.jpg" alt="Cover for Proust and the squid : the story and science of the reading brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Proust+and+the+squid+%3A+the+story+and+science+of+the+reading+brain+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Proust and the squid : the story and science of the reading brain">Proust and the squid : the story and science of the reading b...</a>
+</h4>
+<p class="fr-book-author">By Maryanne Wolf</p>
         
-        <p class="fr-book-desc">First published 2008. Subjects: Brain, Evolution, Neurophysiology, Reading comprehension, Reading.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Proust+and+the+squid+%3A+the+story+and+science+of+the+reading+brain+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2008. Subjects: Brain, Evolution, Neurophysiology, Reading comprehension, Reading.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Proust+and+the+squid+%3A+the+story+and+science+of+the+reading+brain+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading in the Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6649793-M.jpg" alt="Cover for Reading in the Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading in the Brain">Reading in the Brain</a>
-        </h4>
-        <p class="fr-book-author">By Stanislas Dehaene</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading in the Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6649793-M.jpg" alt="Cover for Reading in the Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading in the Brain">Reading in the Brain</a>
+</h4>
+<p class="fr-book-author">By Stanislas Dehaene</p>
         
-        <p class="fr-book-desc">First published 2009. Subjects: Science, Nonfiction, Psychology, Psychology of Reading, Reading.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2009. Subjects: Science, Nonfiction, Psychology, Psychology of Reading, Reading.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Shallows&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Shallows</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Proust+and+the+squid+%3A+the+story+and+science+of+the+reading+brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Proust and the squid : the story and science of the reading brain</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Shallows&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Shallows</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Proust+and+the+squid+%3A+the+story+and+science+of+the+reading+brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Proust and the squid : the story and science of the reading brain</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=should+you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-voice-risk-should-you-really-silence-the-inner-voice-increasing-should-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="should you poster -book -books -dvd" data-ebay-reference="inner-voice-risk-should-you-really-silence-the-inner-voice-increasing-should-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Corncob Tv - I Think You Should Lea Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4406d206499fbc2c648d.jpg' | relative_url }}" alt="Listing image for Corncob Tv - I Think You Should Lea Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=should+you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-voice-risk-should-you-really-silence-the-inner-voice-increasing-should-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="should you poster -book -books -dvd" data-ebay-reference="inner-voice-risk-should-you-really-silence-the-inner-voice-increasing-should-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Corncob Tv - I Think You Should Lea Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=should+you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-voice-risk-should-you-really-silence-the-inner-voice-increasing-should-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="should you poster -book -books -dvd" data-ebay-reference="inner-voice-risk-should-you-really-silence-the-inner-voice-increasing-should-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for should you poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: should you poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=should+you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-voice-risk-should-you-really-silence-the-inner-voice-increasing-should-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="should you poster -book -books -dvd" data-ebay-reference="inner-voice-risk-should-you-really-silence-the-inner-voice-increasing-should-you-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=should+you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-voice-risk-should-you-really-silence-the-inner-voice-increasing-should-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="should you poster -book -books -dvd" data-ebay-reference="inner-voice-risk-should-you-really-silence-the-inner-voice-increasing-should-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Corncob Tv - I Think You Should Lea Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4406d206499fbc2c648d.jpg' | relative_url }}" alt="Listing image for Corncob Tv - I Think You Should Lea Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=should+you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-voice-risk-should-you-really-silence-the-inner-voice-increasing-should-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="should you poster -book -books -dvd" data-ebay-reference="inner-voice-risk-should-you-really-silence-the-inner-voice-increasing-should-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Corncob Tv - I Think You Should Lea Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=should+you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-voice-risk-should-you-really-silence-the-inner-voice-increasing-should-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="should you poster -book -books -dvd" data-ebay-reference="inner-voice-risk-should-you-really-silence-the-inner-voice-increasing-should-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for should you poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: should you poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=should+you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-voice-risk-should-you-really-silence-the-inner-voice-increasing-should-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="should you poster -book -books -dvd" data-ebay-reference="inner-voice-risk-should-you-really-silence-the-inner-voice-increasing-should-you-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=should+you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-voice-risk-should-you-really-silence-the-inner-voice-increasing-should-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="should you poster -book -books -dvd" data-ebay-reference="inner-voice-risk-should-you-really-silence-the-inner-voice-increasing-should-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Should You Need Us II Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/16fcb00a311708f1cccc.jpg' | relative_url }}" alt="Listing image for Should You Need Us II Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=should+you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-voice-risk-should-you-really-silence-the-inner-voice-increasing-should-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="should you poster -book -books -dvd" data-ebay-reference="inner-voice-risk-should-you-really-silence-the-inner-voice-increasing-should-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Should You Need Us II Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=should+you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-voice-risk-should-you-really-silence-the-inner-voice-increasing-should-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="should you poster -book -books -dvd" data-ebay-reference="inner-voice-risk-should-you-really-silence-the-inner-voice-increasing-should-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for should you poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: should you poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=should+you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-voice-risk-should-you-really-silence-the-inner-voice-increasing-should-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="should you poster -book -books -dvd" data-ebay-reference="inner-voice-risk-should-you-really-silence-the-inner-voice-increasing-should-you-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=should+you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-voice-risk-should-you-really-silence-the-inner-voice-increasing-should-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="should you poster -book -books -dvd" data-ebay-reference="inner-voice-risk-should-you-really-silence-the-inner-voice-increasing-should-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=should+you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-voice-risk-should-you-really-silence-the-inner-voice-increasing-should-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="should you poster -book -books -dvd" data-ebay-reference="inner-voice-risk-should-you-really-silence-the-inner-voice-increasing-should-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Should You Need Us II Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/16fcb00a311708f1cccc.jpg' | relative_url }}" alt="Listing image for Should You Need Us II Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=should+you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-voice-risk-should-you-really-silence-the-inner-voice-increasing-should-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="should you poster -book -books -dvd" data-ebay-reference="inner-voice-risk-should-you-really-silence-the-inner-voice-increasing-should-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Should You Need Us II Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=should+you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-voice-risk-should-you-really-silence-the-inner-voice-increasing-should-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="should you poster -book -books -dvd" data-ebay-reference="inner-voice-risk-should-you-really-silence-the-inner-voice-increasing-should-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for should you poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: should you poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=should+you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-voice-risk-should-you-really-silence-the-inner-voice-increasing-should-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="should you poster -book -books -dvd" data-ebay-reference="inner-voice-risk-should-you-really-silence-the-inner-voice-increasing-should-you-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=should+you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-voice-risk-should-you-really-silence-the-inner-voice-increasing-should-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="should you poster -book -books -dvd" data-ebay-reference="inner-voice-risk-should-you-really-silence-the-inner-voice-increasing-should-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -535,7 +535,7 @@ In that sense, the question is not whether the inner voice exists. The more usef
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -555,7 +555,7 @@ In that sense, the question is not whether the inner voice exists. The more usef
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -587,7 +587,7 @@ In that sense, the question is not whether the inner voice exists. The more usef
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -639,7 +639,7 @@ In that sense, the question is not whether the inner voice exists. The more usef
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -684,7 +684,7 @@ In that sense, the question is not whether the inner voice exists. The more usef
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -725,136 +725,136 @@ In that sense, the question is not whether the inner voice exists. The more usef
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ila.onlinelibrary.wiley.com  
    Title: ILAEvidence for Prosody in Silent Reading  
-   Link: <a href="https://ila.onlinelibrary.wiley.com/doi/10.1002/rrq.67" target="_blank" rel="noopener noreferrer nofollow">https://ila.onlinelibrary.wiley.com/doi/10.1002/rrq.67</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gross - 201418 Dec 2013 — Recent brain activation research reveals that skilled, adult readers activate phonological features during the...</p></details>
+   Link:<a href="https://ila.onlinelibrary.wiley.com/doi/10.1002/rrq.67" target="_blank" rel="noopener noreferrer nofollow">https://ila.onlinelibrary.wiley.com/doi/10.1002/rrq.67</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gross - 201418 Dec 2013 — Recent brain activation research reveals that skilled, adult readers activate phonological features during the...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCPhonological coding during reading  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby M Leinenger · 2014 · Cited by 170 — This inner voice is a subjective manifestation of phonological coding, the recoding of or...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby M Leinenger · 2014 · Cited by 170 — This inner voice is a subjective manifestation of phonological coding, the recoding of or...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/BF01027072" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/BF01027072</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Assessing the importance of subvocalization during normal...by M Daneman · 1992 · Cited by 72 — Interfering with speech recoding...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/BF01027072" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/BF01027072</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Assessing the importance of subvocalization during normal...by M Daneman · 1992 · Cited by 72 — Interfering with speech recoding...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: scotthyoung.com  
    Title: Scott H  
-   Link: <a href="https://www.scotthyoung.com/blog/2015/01/19/speed-reading-redo/" target="_blank" rel="noopener noreferrer nofollow">https://www.scotthyoung.com/blog/2015/01/19/speed-reading-redo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>YoungI Was Wrong About Speed Reading: Here are the FactsJanuary 19, 2015 — 19 Jan 2015 — Speed reading experts claim that subvocalization...</p></details>
+   Link:<a href="https://www.scotthyoung.com/blog/2015/01/19/speed-reading-redo/" target="_blank" rel="noopener noreferrer nofollow">https://www.scotthyoung.com/blog/2015/01/19/speed-reading-redo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>YoungI Was Wrong About Speed Reading: Here are the FactsJanuary 19, 2015 — 19 Jan 2015 — Speed reading experts claim that subvocalization...</p></details>
    Published: January 19, 2015  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/2017/01/make-resolution-read-speed-reading-wont-help" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2017/01/make-resolution-read-speed-reading-wont-help</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Basic calculations based on the properties of eyes and texts indicate that an average reading speed is around 280 words per minute, a val...</p></details>
+   Link:<a href="https://www.wired.com/2017/01/make-resolution-read-speed-reading-wont-help" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2017/01/make-resolution-read-speed-reading-wont-help</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Basic calculations based on the properties of eyes and texts indicate that an average reading speed is around 280 words per minute, a val...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: core.ac.uk  
-   Link: <a href="https://core.ac.uk/download/pdf/32451732.pdf" target="_blank" rel="noopener noreferrer nofollow">https://core.ac.uk/download/pdf/32451732.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence for Prosody in Silent Readingby J Gross · 2013 · Cited by 49 — Recent brain activation research reveals that skilled, adult read...</p></details>
+   Link:<a href="https://core.ac.uk/download/pdf/32451732.pdf" target="_blank" rel="noopener noreferrer nofollow">https://core.ac.uk/download/pdf/32451732.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence for Prosody in Silent Readingby J Gross · 2013 · Cited by 49 — Recent brain activation research reveals that skilled, adult read...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/1995-8692/6/2/9" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1995-8692/6/2/9</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Implicit Prosody and Contextual Bias in Silent Readingby K McCurdy · 2013 · Cited by 21 — [Eye-movement](&amp;#123;&amp;#123; &#x27;eye-tradeoff/&#x27; | relative_url &amp;#125;&amp;#125;) research on implicit prosody h...</p></details>
+   Link:<a href="https://www.mdpi.com/1995-8692/6/2/9" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1995-8692/6/2/9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Implicit Prosody and Contextual Bias in Silent Readingby K McCurdy · 2013 · Cited by 21 — [Eye-movement](&amp;#123;&amp;#123; &#x27;eye-tradeoff/&#x27; | relative_url &amp;#125;&amp;#125;) research on implicit prosody h...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: escholarship.org  
-   Link: <a href="https://escholarship.org/uc/item/3nw5828p" target="_blank" rel="noopener noreferrer nofollow">https://escholarship.org/uc/item/3nw5828p</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The role of prosodic phrasing in silent readingby R Murakami · 2024 — Prosodic phrasing plays a crucial role in sentence comprehension be...</p></details>
+   Link:<a href="https://escholarship.org/uc/item/3nw5828p" target="_blank" rel="noopener noreferrer nofollow">https://escholarship.org/uc/item/3nw5828p</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The role of prosodic phrasing in silent readingby R Murakami · 2024 — Prosodic phrasing plays a crucial role in sentence comprehension be...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Subvocalization" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Subvocalization</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Subvocalization" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Subvocalization</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) Why Does Prosody Accompany Fluency?  
-   Link: <a href="https://www.researchgate.net/publication/302973404_Why_Does_Prosody_Accompany_Fluency_Re-conceptualizing_the_Role_of_[Phonology" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/302973404_Why_Does_Prosody_Accompany_Fluency_Re-conceptualizing_the_Role_of_[Phonology</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>12, 2016 — Recent eye movement data from skilled readers indicate that automatically processing prosodic phonological informati...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/302973404_Why_Does_Prosody_Accompany_Fluency_Re-conceptualizing_the_Role_of_[Phonology" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/302973404_Why_Does_Prosody_Accompany_Fluency_Re-conceptualizing_the_Role_of_[Phonology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>12, 2016 — Recent eye movement data from skilled readers indicate that automatically processing prosodic phonological informati...</p></details>
    Published: May 12, 2016  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12194486/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12194486/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Prosodic Structure of Texts Reflected in Silent Reading...by M Palmović · 2025 — This study provides indirect evidence in favour of...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12194486/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12194486/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Prosodic Structure of Texts Reflected in Silent Reading...by M Palmović · 2025 — This study provides indirect evidence in favour of...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: The Science Behind Reading Speed  
-   Link: <a href="https://www.youtube.com/watch?v=jv2BdHXRD3Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jv2BdHXRD3Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Subvocalization | Things About Speed Reading Nobody Tells You...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jv2BdHXRD3Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jv2BdHXRD3Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Subvocalization | Things About Speed Reading Nobody Tells You...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Subvocalization | Things About Speed Reading Nobody Tells You  
-   Link: <a href="https://www.youtube.com/watch?v=DGDkTyOt7gQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DGDkTyOt7gQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Read Faster by Reducing Subvocalization - Speed Reading Tips...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=DGDkTyOt7gQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DGDkTyOt7gQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Read Faster by Reducing Subvocalization - Speed Reading Tips...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ora.ox.ac.uk  
-   Link: <a href="https://ora.ox.ac.uk/objects/uuid%3Adfe9f411-fa39-48db-9fc3-b61ed41deb1e/files/dsf2685900" target="_blank" rel="noopener noreferrer nofollow">https://ora.ox.ac.uk/objects/uuid%3Adfe9f411-fa39-48db-9fc3-b61ed41deb1e/files/dsf2685900</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>August 12, 2023 — by E Mok · 2023 · Cited by 1 — subvocalization, or “inner speech” during comprehension is to aid higher-level comprehen...</p></details>
+   Link:<a href="https://ora.ox.ac.uk/objects/uuid%3Adfe9f411-fa39-48db-9fc3-b61ed41deb1e/files/dsf2685900" target="_blank" rel="noopener noreferrer nofollow">https://ora.ox.ac.uk/objects/uuid%3Adfe9f411-fa39-48db-9fc3-b61ed41deb1e/files/dsf2685900</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>August 12, 2023 — by E Mok · 2023 · Cited by 1 — subvocalization, or “inner speech” during comprehension is to aid higher-level comprehen...</p></details>
    Published: August 12, 2023  
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ies.ed.gov  
-   Link: <a href="https://ies.ed.gov/use-work/awards/development-oral-and-silent-reading-fluency-and-their-relation-reading-comprehension-first-through" target="_blank" rel="noopener noreferrer nofollow">https://ies.ed.gov/use-work/awards/development-oral-and-silent-reading-fluency-and-their-relation-reading-comprehension-first-through</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Oral and Silent Reading Fluency and Their...The goals of this study were to: (1) explore development of oral and silent reading fluen...</p></details>
+   Link:<a href="https://ies.ed.gov/use-work/awards/development-oral-and-silent-reading-fluency-and-their-relation-reading-comprehension-first-through" target="_blank" rel="noopener noreferrer nofollow">https://ies.ed.gov/use-work/awards/development-oral-and-silent-reading-fluency-and-their-relation-reading-comprehension-first-through</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Oral and Silent Reading Fluency and Their...The goals of this study were to: (1) explore development of oral and silent reading fluen...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/books/comments/oet3ym/the_false_promise_of_speed_reading_why_you_should/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/books/comments/oet3ym/the_false_promise_of_speed_reading_why_you_should/</a>  
+   Link:<a href="https://www.reddit.com/r/books/comments/oet3ym/the_false_promise_of_speed_reading_why_you_should/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/books/comments/oet3ym/the_false_promise_of_speed_reading_why_you_should/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DWcMWhQDqOg/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWcMWhQDqOg/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Researchers found that people who subvocalize, who hear an inner voice while reading, showed 42% higher...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DWcMWhQDqOg/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWcMWhQDqOg/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Researchers found that people who subvocalize, who hear an inner voice while reading, showed 42% higher...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
    Title: Researchers are still trying to understand those who don't need it.Read more  
-   Link: <a href="https://www.reddit.com/r/books/comments/plkx2r/the_never_ending_use_of_subvocalization_when/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/books/comments/plkx2r/the_never_ending_use_of_subvocalization_when/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The never ending use of subvocalization, when reading.Studies have shown that for 90+% of readers, subvocalization is essential for compr...</p></details>
+   Link:<a href="https://www.reddit.com/r/books/comments/plkx2r/the_never_ending_use_of_subvocalization_when/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/books/comments/plkx2r/the_never_ending_use_of_subvocalization_when/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The never ending use of subvocalization, when reading.Studies have shown that for 90+% of readers, subvocalization is essential for compr...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: baos.pub  
    Title: the myth of speed reading why faster isnt better cd8bb57b7420  
-   Link: <a href="https://baos.pub/the-myth-of-speed-reading-why-faster-isnt-better-cd8bb57b7420" target="_blank" rel="noopener noreferrer nofollow">https://baos.pub/the-myth-of-speed-reading-why-faster-isnt-better-cd8bb57b7420</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>That inner voice helps most readers with comprehension, especially for complex material. Studies...Read more...</p></details>
+   Link:<a href="https://baos.pub/the-myth-of-speed-reading-why-faster-isnt-better-cd8bb57b7420" target="_blank" rel="noopener noreferrer nofollow">https://baos.pub/the-myth-of-speed-reading-why-faster-isnt-better-cd8bb57b7420</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>That inner voice helps most readers with comprehension, especially for complex material. Studies...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: mtholyoke.edu  
    Title: professor studies silent inner voice  
-   Link: <a href="https://www.mtholyoke.edu/news/news-stories/professor-studies-silent-inner-voice" target="_blank" rel="noopener noreferrer nofollow">https://www.mtholyoke.edu/news/news-stories/professor-studies-silent-inner-voice</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>13 Jan 2016 — Mara Breen studies how one&#x27;s “inner voice” can affect reading comprehension. how we “hear” the words we read, interpreting...</p></details>
+   Link:<a href="https://www.mtholyoke.edu/news/news-stories/professor-studies-silent-inner-voice" target="_blank" rel="noopener noreferrer nofollow">https://www.mtholyoke.edu/news/news-stories/professor-studies-silent-inner-voice</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>13 Jan 2016 — Mara Breen studies how one&#x27;s “inner voice” can affect reading comprehension. how we “hear” the words we read, interpreting...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: readlite.in  
    Title: Should You Stop Subvocalizing?  
-   Link: <a href="https://readlite.in/concepts/stop-subvocalization-myth" target="_blank" rel="noopener noreferrer nofollow">https://readlite.in/concepts/stop-subvocalization-myth</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth About Inner...Speed reading gurus say eliminate your inner voice to read faster. But research shows subvocalization supports c...</p></details>
+   Link:<a href="https://readlite.in/concepts/stop-subvocalization-myth" target="_blank" rel="noopener noreferrer nofollow">https://readlite.in/concepts/stop-subvocalization-myth</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth About Inner...Speed reading gurus say eliminate your inner voice to read faster. But research shows subvocalization supports c...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: irisreading.com  
    Title: Is Speed Reading a Myth?  
-   Link: <a href="https://irisreading.com/is-speed-reading-a-myth-important-facts/" target="_blank" rel="noopener noreferrer nofollow">https://irisreading.com/is-speed-reading-a-myth-important-facts/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(Important Facts)11 Sept 2022 — Speed reading is not a myth. It&#x27;s possible to accelerate your reading speed by practicing, reading chunks...</p></details>
+   Link:<a href="https://irisreading.com/is-speed-reading-a-myth-important-facts/" target="_blank" rel="noopener noreferrer nofollow">https://irisreading.com/is-speed-reading-a-myth-important-facts/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(Important Facts)11 Sept 2022 — Speed reading is not a myth. It&#x27;s possible to accelerate your reading speed by practicing, reading chunks...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: jumpspeak.com  
-   Link: <a href="https://www.jumpspeak.com/blog/how-to-double-your-reading-speed-without-losing-comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.jumpspeak.com/blog/how-to-double-your-reading-speed-without-losing-comprehension</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Double Your Reading Speed (Without Losing...30 Jan 2021 — Subvocalization is necessary to understand what we&#x27;re reading...</p></details>
+   Link:<a href="https://www.jumpspeak.com/blog/how-to-double-your-reading-speed-without-losing-comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.jumpspeak.com/blog/how-to-double-your-reading-speed-without-losing-comprehension</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Double Your Reading Speed (Without Losing...30 Jan 2021 — Subvocalization is necessary to understand what we&#x27;re reading...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: janetdeanfodor.wordpress.com  
-   Link: <a href="https://janetdeanfodor.wordpress.com/wp-content/uploads/2016/06/fodor-2002-prosodic-disambiguation-in-silent-reading.pdf" target="_blank" rel="noopener noreferrer nofollow">https://janetdeanfodor.wordpress.com/wp-content/uploads/2016/06/fodor-2002-prosodic-disambiguation-in-silent-reading.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Janet Dean FodorProsodic Disambiguation In Silent Readingby JD Fodor · 2002 — Finally, there is considerable evidence of phonological enc...</p></details>
+   Link:<a href="https://janetdeanfodor.wordpress.com/wp-content/uploads/2016/06/fodor-2002-prosodic-disambiguation-in-silent-reading.pdf" target="_blank" rel="noopener noreferrer nofollow">https://janetdeanfodor.wordpress.com/wp-content/uploads/2016/06/fodor-2002-prosodic-disambiguation-in-silent-reading.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Janet Dean FodorProsodic Disambiguation In Silent Readingby JD Fodor · 2002 — Finally, there is considerable evidence of phonological enc...</p></details>

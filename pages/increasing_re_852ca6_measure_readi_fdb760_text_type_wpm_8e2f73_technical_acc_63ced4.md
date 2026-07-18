@@ -273,7 +273,7 @@ When people track reading speed, they often assume that a higher words-per-minut
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_measure_readi_fdb760_text_type_wpm_8e2f73_technical_acc_63ced4-Illustration-1-dark.svg" | relative_url }}" alt="Technical texts illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_measure_readi_fdb760_text_type_wpm_8e2f73_technical_acc_63ced4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_measure_readi_fdb760_text_type_wpm_8e2f73_technical_acc_63ced4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This is why technical texts deserve their own WPM record category. Measuring them by the same standards used for novels or general articles can create misleading goals and encourage reading habits that sacrifice comprehension, retention, and decision quality. An accuracy-first record recognises that the [purpose]({{ 'purpose/' | relative_url }}) of technical reading is not simply to move through words quickly, but to understand them correctly. Research on reading rates, text complexity, fluency, and comprehension consistently shows that more demanding texts require different reading behaviour and often lower reading speeds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://reader.ku.edu/sites/reader/files/2024-01/How%20many%20words%20do%20we%20read%20per%20minute%20%281%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reader.ku.edu">[Audio-Reader]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reader.ku.edu</span><span class="citation-popover-title">Audio-Reader How many words do we read per minute</span><span class="citation-popover-snippet">Audio-ReaderHow many words do we read per minuteJanuary 8, 2024 — by M Brysbaert · Cited by 879 — Based on the analysis of 190 studies (1...</span><span class="citation-popover-meta">Published: January 8, 2024</span></span></span>
+This is why technical texts deserve their own WPM record category. Measuring them by the same standards used for novels or general articles can create misleading goals and encourage reading habits that sacrifice comprehension, retention, and decision quality. An accuracy-first record recognises that the [purpose]({{ 'purpose/' | relative_url }}) of technical reading is not simply to move through words quickly, but to understand them correctly. Research on reading rates, text complexity, fluency, and comprehension consistently shows that more demanding texts require different reading behaviour and often lower reading speeds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://reader.ku.edu/sites/reader/files/2024-01/How%20many%20words%20do%20we%20read%20per%20minute%20%281%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reader.ku.edu">[Audio-Reader]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reader.ku.edu</span><span class="citation-popover-title">Audio-Reader How many words do we read per minute</span><span class="citation-popover-snippet">Audio-ReaderHow many words do we read per minuteJanuary 8, 2024 — by M Brysbaert · Cited by 879 — Based on the analysis of 190 studies (1...</span><span class="citation-popover-meta">Published: January 8, 2024</span></span></span>
 
 ## What makes technical text different
 
@@ -294,7 +294,7 @@ Technical texts commonly include:
 
 </div>
 
-Research on text complexity shows that as texts become more complex, reading fluency and recall tend to decline. This is not necessarily a sign of weaker reading skill; it reflects the increased cognitive effort required to process demanding material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6455959/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Understanding the Influence of Text Complexity and Question...by M Spencer · 2018 · Cited by 100 — Text complexity negatively impacte...</span></span></span>
+Research on text complexity shows that as texts become more complex, reading fluency and recall tend to decline. This is not necessarily a sign of weaker reading skill; it reflects the increased cognitive effort required to process demanding material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6455959/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Understanding the Influence of Text Complexity and Question...by M Spencer · 2018 · Cited by 100 — Text complexity negatively impacte...</span></span></span>
 
 The practical implication is simple: a reader who maintains the same WPM across fiction and a technical manual is often trading away understanding to preserve speed.
 
@@ -316,9 +316,9 @@ Consider a reader working through a scientific paper. Reading involves more than
 
 These activities consume time but contribute directly to comprehension. A raw WPM calculation treats them as inefficiencies even though they are essential parts of successful technical reading.
 
-Research on reading complexity repeatedly finds that increased difficulty affects fluency and memory outcomes. More demanding texts often require additional processing, re-reading, and integration of information to achieve accurate understanding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6455959/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Understanding the Influence of Text Complexity and Question...by M Spencer · 2018 · Cited by 100 — Text complexity negatively impacte...</span></span></span>
+Research on reading complexity repeatedly finds that increased difficulty affects fluency and memory outcomes. More demanding texts often require additional processing, re-reading, and integration of information to achieve accurate understanding.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6455959/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Understanding the Influence of Text Complexity and Question...by M Spencer · 2018 · Cited by 100 — Text complexity negatively impacte...</span></span></span>
 
-This is one reason why average reading-rate figures become less useful in technical contexts. Broad population estimates suggest adults read non-fiction at roughly 238 WPM on average, but such figures conceal large differences between simple informational prose and highly specialised material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://reader.ku.edu/sites/reader/files/2024-01/How%20many%20words%20do%20we%20read%20per%20minute%20%281%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reader.ku.edu">[Audio-Reader]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reader.ku.edu</span><span class="citation-popover-title">Audio-Reader How many words do we read per minute</span><span class="citation-popover-snippet">Audio-ReaderHow many words do we read per minuteJanuary 8, 2024 — by M Brysbaert · Cited by 879 — Based on the analysis of 190 studies (1...</span><span class="citation-popover-meta">Published: January 8, 2024</span></span></span>
+This is one reason why average reading-rate figures become less useful in technical contexts. Broad population estimates suggest adults read non-fiction at roughly 238 WPM on average, but such figures conceal large differences between simple informational prose and highly specialised material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://reader.ku.edu/sites/reader/files/2024-01/How%20many%20words%20do%20we%20read%20per%20minute%20%281%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reader.ku.edu">[Audio-Reader]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reader.ku.edu</span><span class="citation-popover-title">Audio-Reader How many words do we read per minute</span><span class="citation-popover-snippet">Audio-ReaderHow many words do we read per minuteJanuary 8, 2024 — by M Brysbaert · Cited by 879 — Based on the analysis of 190 studies (1...</span><span class="citation-popover-meta">Published: January 8, 2024</span></span></span>
 
 For technical reading, a lower WPM may indicate that the reader is performing the correct task: analysing rather than merely [scanning]({{ 'scanning-vs-reading/' | relative_url }}).
 
@@ -369,7 +369,7 @@ Examples include:
 
 Because the goal is accurate application, technical reading should be judged by outcomes rather than speed alone.
 
-Reading research has long distinguished between rate and comprehension. While reading speed and comprehension are related, speed by itself does not reliably predict understanding. Studies examining reading performance have found that reading rate alone is an incomplete indicator of successful comprehension. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/392984905_The_Relationship_Between_Reading_Speed_and_Comprehension_A_Diagnostic_Study_with_AceReader" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) The Relationship Between Reading Speed and...June 10, 2025 — This diagnostic study investigates the relationship betwe...</span><span class="citation-popover-meta">Published: June 10, 2025</span></span></span>
+Reading research has long distinguished between rate and comprehension. While reading speed and comprehension are related, speed by itself does not reliably predict understanding. Studies examining reading performance have found that reading rate alone is an incomplete indicator of successful comprehension.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/392984905_The_Relationship_Between_Reading_Speed_and_Comprehension_A_Diagnostic_Study_with_AceReader" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) The Relationship Between Reading Speed and...June 10, 2025 — This diagnostic study investigates the relationship betwe...</span><span class="citation-popover-meta">Published: June 10, 2025</span></span></span>
 
 For technical documents, this distinction becomes especially important. A fast reader who misunderstands a specification is less effective than a slower reader who can apply it correctly.
 
@@ -380,7 +380,7 @@ For technical documents, this distinction becomes especially important. A fast r
 
 A technical-reading record becomes much more useful when WPM is paired with evidence of understanding.
 
-Instead of evaluating success solely by reading speed, track measures such as: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/420116141/Reading-speed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[scribd.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">Reading Speed vs</span><span class="citation-popover-snippet">Comprehension Correlation &#124; PDFThis document summarizes a study that examined the relationship between English reading speed and reading...</span></span></span>
+Instead of evaluating success solely by reading speed, track measures such as:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/420116141/Reading-speed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[scribd.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">Reading Speed vs</span><span class="citation-popover-snippet">Comprehension Correlation &#124; PDFThis document summarizes a study that examined the relationship between English reading speed and reading...</span></span></span>
 
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
@@ -400,7 +400,7 @@ MeasureSession ASession BWPM220165Recall score55%85%Correct application taskPart
 
 Although Session B appears slower, it produces the more useful outcome.
 
-Research on retention and learning strategies also suggests that durable understanding is not always associated with the fastest initial reading experience. Techniques that support stronger long-term retention frequently require more deliberate engagement with the material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/385741306_Comparing_the_effectiveness_of_multiple_text_reading_and_rereading_on_knowledge_retention_and_metacognitive_accuracy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Comparing the effectiveness of multiple text reading</span><span class="citation-popover-snippet">ResearchGate(PDF) Comparing the effectiveness of multiple text reading...November 12, 2024 — 12 Nov 2024 — Moreover, multiple text readi...</span><span class="citation-popover-meta">Published: November 12, 2024</span></span></span>
+Research on retention and learning strategies also suggests that durable understanding is not always associated with the fastest initial reading experience. Techniques that support stronger long-term retention frequently require more deliberate engagement with the material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/385741306_Comparing_the_effectiveness_of_multiple_text_reading_and_rereading_on_knowledge_retention_and_metacognitive_accuracy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Comparing the effectiveness of multiple text reading</span><span class="citation-popover-snippet">ResearchGate(PDF) Comparing the effectiveness of multiple text reading...November 12, 2024 — 12 Nov 2024 — Moreover, multiple text readi...</span><span class="citation-popover-meta">Published: November 12, 2024</span></span></span>
 
 For technical reading, retention and [transfer]({{ 'transfer/' | relative_url }}) of knowledge are usually more valuable than a higher WPM number.
 
@@ -414,181 +414,181 @@ An accuracy-first WPM record recognises that different text types serve differen
 
 When readers separate technical material from other reading categories, they gain a more realistic picture of performance. They stop treating every reduction in speed as a failure and begin measuring what actually matters: understanding complex information well enough to use it correctly.
 
-For anyone trying to increase reading speed, that distinction is important. Technical reading should often remain slower than general reading—not because the reader lacks skill, but because the task itself demands a higher standard of accuracy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6455959/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2education.qld.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Understanding the Influence of Text Complexity and Question...by M Spencer · 2018 · Cited by 100 — Text complexity negatively impacte...</span></span></span>
+For anyone trying to increase reading speed, that distinction is important. Technical reading should often remain slower than general reading—not because the reader lacks skill, but because the task itself demands a higher standard of accuracy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6455959/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2education.qld.gov.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Understanding the Influence of Text Complexity and Question...by M Spencer · 2018 · Cited by 100 — Text complexity negatively impacte...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why technical reading should stay slower. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why technical reading should stay slower. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Contains detailed guidance on analytical reading of difficult and technical material.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Contains detailed guidance on analytical reading of difficult and technical material.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-        </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+</h4>
+<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Reinforces retention and understanding over raw reading speed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Reinforces retention and understanding over raw reading speed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Mind+for+Numbers+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Mind for Numbers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8352403-M.jpg" alt="Cover for A Mind for Numbers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Mind+for+Numbers+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Mind for Numbers">A Mind for Numbers</a>
-        </h4>
-        <p class="fr-book-author">By Barbara A. Oakley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Mind+for+Numbers+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Mind for Numbers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8352403-M.jpg" alt="Cover for A Mind for Numbers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Mind+for+Numbers+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Mind for Numbers">A Mind for Numbers</a>
+</h4>
+<p class="fr-book-author">By Barbara A. Oakley</p>
         
-        <p class="fr-book-desc">First published 2014. Subjects: Mathematics, Study and teaching, Math anxiety, Educational psychology, Psychological aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Mind+for+Numbers+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2014. Subjects: Mathematics, Study and teaching, Math anxiety, Educational psychology, Psychological aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Mind+for+Numbers+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Craft+of+Research+%28Chicago+Guides+to+Writing%2C+Editing%2C+and+Publishing%29+Wayne+C.+Booth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Craft of Research (Chicago Guides to Writing, Editing, and Publishing) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6716065-M.jpg" alt="Cover for The Craft of Research (Chicago Guides to Writing, Editing, and Publishing)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Craft+of+Research+%28Chicago+Guides+to+Writing%2C+Editing%2C+and+Publishing%29+Wayne+C.+Booth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Craft of Research (Chicago Guides to Writing, Editing, and Publishing)">The Craft of Research (Chicago Guides to Writing, Editing, an...</a>
-        </h4>
-        <p class="fr-book-author">By Wayne C. Booth, Gregory G. Colomb et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Craft+of+Research+%28Chicago+Guides+to+Writing%2C+Editing%2C+and+Publishing%29+Wayne+C.+Booth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Craft of Research (Chicago Guides to Writing, Editing, and Publishing) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6716065-M.jpg" alt="Cover for The Craft of Research (Chicago Guides to Writing, Editing, and Publishing)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Craft+of+Research+%28Chicago+Guides+to+Writing%2C+Editing%2C+and+Publishing%29+Wayne+C.+Booth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Craft of Research (Chicago Guides to Writing, Editing, and Publishing)">The Craft of Research (Chicago Guides to Writing, Editing, an...</a>
+</h4>
+<p class="fr-book-author">By Wayne C. Booth, Gregory G. Colomb et al.</p>
         
-        <p class="fr-book-desc">First published 1995. Subjects: Technical writing, Methodology, Research, Recherche, Guides, manuels.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Craft+of+Research+%28Chicago+Guides+to+Writing%2C+Editing%2C+and+Publishing%29+Wayne+C.+Booth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1995. Subjects: Technical writing, Methodology, Research, Recherche, Guides, manuels.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Craft+of+Research+%28Chicago+Guides+to+Writing%2C+Editing%2C+and+Publishing%29+Wayne+C.+Booth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Mind+for+Numbers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Mind for Numbers</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Mind+for+Numbers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Mind for Numbers</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=technical-texts-why-technical-reading-should-stay-slower-increasing-reading-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading assessment kit" data-ebay-reference="technical-texts-why-technical-reading-should-stay-slower-increasing-reading-assessment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DEVELOPMENTAL READING ASSESSMENT SECOND EDITION PLUS KIT GRADE K/"><img src="{{ '/assets/images/marketplace-covers/010bc6392d0fb41f3d24.jpg' | relative_url }}" alt="Listing image for DEVELOPMENTAL READING ASSESSMENT SECOND EDITION PLUS KIT GRADE K/" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=technical-texts-why-technical-reading-should-stay-slower-increasing-reading-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading assessment kit" data-ebay-reference="technical-texts-why-technical-reading-should-stay-slower-increasing-reading-assessment-kit" target="_blank" rel="sponsored noopener noreferrer">DEVELOPMENTAL READING ASSESSMENT SECOND EDITION PLUS KIT GRADE K/</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=technical-texts-why-technical-reading-should-stay-slower-increasing-reading-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading assessment kit" data-ebay-reference="technical-texts-why-technical-reading-should-stay-slower-increasing-reading-assessment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading assessment kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: reading assessment kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=technical-texts-why-technical-reading-should-stay-slower-increasing-reading-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading assessment kit" data-ebay-reference="technical-texts-why-technical-reading-should-stay-slower-increasing-reading-assessment-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=technical-texts-why-technical-reading-should-stay-slower-increasing-reading-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading assessment kit" data-ebay-reference="technical-texts-why-technical-reading-should-stay-slower-increasing-reading-assessment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DEVELOPMENTAL READING ASSESSMENT SECOND EDITION PLUS KIT GRADE K/"><img src="{{ '/assets/images/marketplace-covers/010bc6392d0fb41f3d24.jpg' | relative_url }}" alt="Listing image for DEVELOPMENTAL READING ASSESSMENT SECOND EDITION PLUS KIT GRADE K/" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=technical-texts-why-technical-reading-should-stay-slower-increasing-reading-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading assessment kit" data-ebay-reference="technical-texts-why-technical-reading-should-stay-slower-increasing-reading-assessment-kit" target="_blank" rel="sponsored noopener noreferrer">DEVELOPMENTAL READING ASSESSMENT SECOND EDITION PLUS KIT GRADE K/</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=technical-texts-why-technical-reading-should-stay-slower-increasing-reading-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading assessment kit" data-ebay-reference="technical-texts-why-technical-reading-should-stay-slower-increasing-reading-assessment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading assessment kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: reading assessment kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=technical-texts-why-technical-reading-should-stay-slower-increasing-reading-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading assessment kit" data-ebay-reference="technical-texts-why-technical-reading-should-stay-slower-increasing-reading-assessment-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=technical-texts-why-technical-reading-should-stay-slower-increasing-reading-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading assessment kit" data-ebay-reference="technical-texts-why-technical-reading-should-stay-slower-increasing-reading-assessment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DRA2 Developmental Reading Assessment Grades 4-8 Boxed SET Books CD KIT Teacher"><img src="{{ '/assets/images/marketplace-covers/58509ba95348a5d7159b.jpg' | relative_url }}" alt="Listing image for DRA2 Developmental Reading Assessment Grades 4-8 Boxed SET Books CD KIT Teacher" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=technical-texts-why-technical-reading-should-stay-slower-increasing-reading-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading assessment kit" data-ebay-reference="technical-texts-why-technical-reading-should-stay-slower-increasing-reading-assessment-kit" target="_blank" rel="sponsored noopener noreferrer">DRA2 Developmental Reading Assessment Grades 4-8 Boxed SET Books CD KIT Teacher</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=technical-texts-why-technical-reading-should-stay-slower-increasing-reading-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading assessment kit" data-ebay-reference="technical-texts-why-technical-reading-should-stay-slower-increasing-reading-assessment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading assessment kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: reading assessment kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=technical-texts-why-technical-reading-should-stay-slower-increasing-reading-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading assessment kit" data-ebay-reference="technical-texts-why-technical-reading-should-stay-slower-increasing-reading-assessment-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=technical-texts-why-technical-reading-should-stay-slower-increasing-reading-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading assessment kit" data-ebay-reference="technical-texts-why-technical-reading-should-stay-slower-increasing-reading-assessment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DRA2 Developmental Reading Assessment Grades 4-8 Boxed SET Books CD KIT Teacher"><img src="{{ '/assets/images/marketplace-covers/58509ba95348a5d7159b.jpg' | relative_url }}" alt="Listing image for DRA2 Developmental Reading Assessment Grades 4-8 Boxed SET Books CD KIT Teacher" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=technical-texts-why-technical-reading-should-stay-slower-increasing-reading-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading assessment kit" data-ebay-reference="technical-texts-why-technical-reading-should-stay-slower-increasing-reading-assessment-kit" target="_blank" rel="sponsored noopener noreferrer">DRA2 Developmental Reading Assessment Grades 4-8 Boxed SET Books CD KIT Teacher</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=technical-texts-why-technical-reading-should-stay-slower-increasing-reading-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading assessment kit" data-ebay-reference="technical-texts-why-technical-reading-should-stay-slower-increasing-reading-assessment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading assessment kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: reading assessment kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=technical-texts-why-technical-reading-should-stay-slower-increasing-reading-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading assessment kit" data-ebay-reference="technical-texts-why-technical-reading-should-stay-slower-increasing-reading-assessment-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=technical-texts-why-technical-reading-should-stay-slower-increasing-reading-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading assessment kit" data-ebay-reference="technical-texts-why-technical-reading-should-stay-slower-increasing-reading-assessment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TOWRE-2: Test of Word Reading Efficiency- 2nd Edition Kit |"><img src="{{ '/assets/images/marketplace-covers/726f63fac14dde4f5e63.jpg' | relative_url }}" alt="Listing image for TOWRE-2: Test of Word Reading Efficiency- 2nd Edition Kit |" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=technical-texts-why-technical-reading-should-stay-slower-increasing-reading-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading assessment kit" data-ebay-reference="technical-texts-why-technical-reading-should-stay-slower-increasing-reading-assessment-kit" target="_blank" rel="sponsored noopener noreferrer">TOWRE-2: Test of Word Reading Efficiency- 2nd Edition Kit |</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=technical-texts-why-technical-reading-should-stay-slower-increasing-reading-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading assessment kit" data-ebay-reference="technical-texts-why-technical-reading-should-stay-slower-increasing-reading-assessment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading assessment kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: reading assessment kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=technical-texts-why-technical-reading-should-stay-slower-increasing-reading-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading assessment kit" data-ebay-reference="technical-texts-why-technical-reading-should-stay-slower-increasing-reading-assessment-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=technical-texts-why-technical-reading-should-stay-slower-increasing-reading-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading assessment kit" data-ebay-reference="technical-texts-why-technical-reading-should-stay-slower-increasing-reading-assessment-kit" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=technical-texts-why-technical-reading-should-stay-slower-increasing-reading-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading assessment kit" data-ebay-reference="technical-texts-why-technical-reading-should-stay-slower-increasing-reading-assessment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TOWRE-2: Test of Word Reading Efficiency- 2nd Edition Kit |"><img src="{{ '/assets/images/marketplace-covers/726f63fac14dde4f5e63.jpg' | relative_url }}" alt="Listing image for TOWRE-2: Test of Word Reading Efficiency- 2nd Edition Kit |" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=technical-texts-why-technical-reading-should-stay-slower-increasing-reading-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading assessment kit" data-ebay-reference="technical-texts-why-technical-reading-should-stay-slower-increasing-reading-assessment-kit" target="_blank" rel="sponsored noopener noreferrer">TOWRE-2: Test of Word Reading Efficiency- 2nd Edition Kit |</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=technical-texts-why-technical-reading-should-stay-slower-increasing-reading-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading assessment kit" data-ebay-reference="technical-texts-why-technical-reading-should-stay-slower-increasing-reading-assessment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading assessment kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: reading assessment kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=technical-texts-why-technical-reading-should-stay-slower-increasing-reading-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading assessment kit" data-ebay-reference="technical-texts-why-technical-reading-should-stay-slower-increasing-reading-assessment-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=technical-texts-why-technical-reading-should-stay-slower-increasing-reading-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading assessment kit" data-ebay-reference="technical-texts-why-technical-reading-should-stay-slower-increasing-reading-assessment-kit" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -604,7 +604,7 @@ For anyone trying to increase reading speed, that distinction is important. Tech
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -624,7 +624,7 @@ For anyone trying to increase reading speed, that distinction is important. Tech
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -656,7 +656,7 @@ For anyone trying to increase reading speed, that distinction is important. Tech
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -708,7 +708,7 @@ For anyone trying to increase reading speed, that distinction is important. Tech
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -753,7 +753,7 @@ For anyone trying to increase reading speed, that distinction is important. Tech
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -794,104 +794,104 @@ For anyone trying to increase reading speed, that distinction is important. Tech
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6455959/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6455959/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the Influence of Text Complexity and Question...by M Spencer · 2018 · Cited by 100 — Text complexity negatively impacte...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6455959/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6455959/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the Influence of Text Complexity and Question...by M Spencer · 2018 · Cited by 100 — Text complexity negatively impacte...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/392984905_The_Relationship_Between_Reading_Speed_and_Comprehension_A_Diagnostic_Study_with_AceReader" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/392984905_The_Relationship_Between_Reading_Speed_and_Comprehension_A_Diagnostic_Study_with_AceReader</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) The Relationship Between Reading Speed and...June 10, 2025 — This diagnostic study investigates the relationship betwe...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/392984905_The_Relationship_Between_Reading_Speed_and_Comprehension_A_Diagnostic_Study_with_AceReader" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/392984905_The_Relationship_Between_Reading_Speed_and_Comprehension_A_Diagnostic_Study_with_AceReader</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) The Relationship Between Reading Speed and...June 10, 2025 — This diagnostic study investigates the relationship betwe...</p></details>
    Published: June 10, 2025  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: scribd.com  
    Title: Reading Speed vs  
-   Link: <a href="https://www.scribd.com/document/420116141/Reading-speed" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/420116141/Reading-speed</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Comprehension Correlation | PDFThis document summarizes a study that examined the relationship between English reading speed and reading...</p></details>
+   Link:<a href="https://www.scribd.com/document/420116141/Reading-speed" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/420116141/Reading-speed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Comprehension Correlation | PDFThis document summarizes a study that examined the relationship between English reading speed and reading...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) Comparing the effectiveness of multiple text reading  
-   Link: <a href="https://www.researchgate.net/publication/385741306_Comparing_the_effectiveness_of_multiple_text_reading_and_rereading_on_knowledge_retention_and_metacognitive_accuracy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/385741306_Comparing_the_effectiveness_of_multiple_text_reading_and_rereading_on_knowledge_retention_and_metacognitive_accuracy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Comparing the effectiveness of multiple text reading...November 12, 2024 — 12 Nov 2024 — Moreover, multiple text readi...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/385741306_Comparing_the_effectiveness_of_multiple_text_reading_and_rereading_on_knowledge_retention_and_metacognitive_accuracy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/385741306_Comparing_the_effectiveness_of_multiple_text_reading_and_rereading_on_knowledge_retention_and_metacognitive_accuracy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Comparing the effectiveness of multiple text reading...November 12, 2024 — 12 Nov 2024 — Moreover, multiple text readi...</p></details>
    Published: November 12, 2024  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: education.qld.gov.au  
-   Link: <a href="https://education.qld.gov.au/curriculums/Documents/literature-review.pdf" target="_blank" rel="noopener noreferrer nofollow">https://education.qld.gov.au/curriculums/Documents/literature-review.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An overview of the literature effective teaching of readingReading fluency is generally defined as having three components: accuracy, the...</p></details>
+   Link:<a href="https://education.qld.gov.au/curriculums/Documents/literature-review.pdf" target="_blank" rel="noopener noreferrer nofollow">https://education.qld.gov.au/curriculums/Documents/literature-review.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An overview of the literature effective teaching of readingReading fluency is generally defined as having three components: accuracy, the...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reader.ku.edu  
    Title: Audio-Reader How many words do we read per minute  
-   Link: <a href="https://reader.ku.edu/sites/reader/files/2024-01/How%20many%20words%20do%20we%20read%20per%20minute%20%281%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://reader.ku.edu/sites/reader/files/2024-01/How%20many%20words%20do%20we%20read%20per%20minute%20%281%29.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Audio-ReaderHow many words do we read per minuteJanuary 8, 2024 — by M Brysbaert · Cited by 879 — Based on the analysis of 190 studies (1...</p></details>
+   Link:<a href="https://reader.ku.edu/sites/reader/files/2024-01/How%20many%20words%20do%20we%20read%20per%20minute%20%281%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://reader.ku.edu/sites/reader/files/2024-01/How%20many%20words%20do%20we%20read%20per%20minute%20%281%29.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Audio-ReaderHow many words do we read per minuteJanuary 8, 2024 — by M Brysbaert · Cited by 879 — Based on the analysis of 190 studies (1...</p></details>
    Published: January 8, 2024  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12490762/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12490762/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby M Leachman · 2025 · Cited by 10 — We examined the relation between text reading fluency and reading comprehension, and modera...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12490762/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12490762/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby M Leachman · 2025 · Cited by 10 — We examined the relation between text reading fluency and reading comprehension, and modera...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715975/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8715975/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Meta-Analysis of the Effect of Paper Versus Digital Reading...by G Fontaine · 2021 · Cited by 30 — Current evidence suggests little to n...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8715975/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8715975/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meta-Analysis of the Effect of Paper Versus Digital Reading...by G Fontaine · 2021 · Cited by 30 — Current evidence suggests little to n...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: uen.org  
-   Link: <a href="https://www.uen.org/core/languagearts/downloads/text_complexity.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.uen.org/core/languagearts/downloads/text_complexity.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Text ComplexityThe reader brings to the act of reading his or her cognitive capabilities (attention, memory, critical analytic ability, i...</p></details>
+   Link:<a href="https://www.uen.org/core/languagearts/downloads/text_complexity.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.uen.org/core/languagearts/downloads/text_complexity.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Text ComplexityThe reader brings to the act of reading his or her cognitive capabilities (attention, memory, critical analytic ability, i...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/download/text-complexity-and-reading-comprehension-tests-3039117173-9783039117178.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/text-complexity-and-reading-comprehension-tests-3039117173-9783039117178.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Text Complexity and Reading Comprehension TestsBoth quantitative and qualitative analyses are carried out on the language used in the rea...</p></details>
+   Link:<a href="https://dokumen.pub/download/text-complexity-and-reading-comprehension-tests-3039117173-9783039117178.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/text-complexity-and-reading-comprehension-tests-3039117173-9783039117178.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Text Complexity and Reading Comprehension TestsBoth quantitative and qualitative analyses are carried out on the language used in the rea...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: api.pageplace.de  
-   Link: <a href="https://api.pageplace.de/preview/DT0400.9783035102765_A31447168/preview-9783035102765_A31447168.pdf" target="_blank" rel="noopener noreferrer nofollow">https://api.pageplace.de/preview/DT0400.9783035102765_A31447168/preview-9783035102765_A31447168.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Complexity and Reading Comprehension Teststhis volume explores the rela- tion between the complexity of written texts and the difficulty...</p></details>
+   Link:<a href="https://api.pageplace.de/preview/DT0400.9783035102765_A31447168/preview-9783035102765_A31447168.pdf" target="_blank" rel="noopener noreferrer nofollow">https://api.pageplace.de/preview/DT0400.9783035102765_A31447168/preview-9783035102765_A31447168.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Complexity and Reading Comprehension Teststhis volume explores the rela- tion between the complexity of written texts and the difficulty...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/todayilearned/comments/1bg13sw/til_researchers_last_year_analyzed_two_dozen/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/1bg13sw/til_researchers_last_year_analyzed_two_dozen/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TIL researchers last year analyzed two dozen studies on...TIL researchers last year analyzed two dozen studies on reading comprehension...</p></details>
+   Link:<a href="https://www.reddit.com/r/todayilearned/comments/1bg13sw/til_researchers_last_year_analyzed_two_dozen/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/1bg13sw/til_researchers_last_year_analyzed_two_dozen/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TIL researchers last year analyzed two dozen studies on...TIL researchers last year analyzed two dozen studies on reading comprehension...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nwea.org  
    Title: how to address text complexity and help students understand what they read  
-   Link: <a href="https://www.nwea.org/blog/2025/how-to-address-text-complexity-and-help-students-understand-what-they-read/" target="_blank" rel="noopener noreferrer nofollow">https://www.nwea.org/blog/2025/how-to-address-text-complexity-and-help-students-understand-what-they-read/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to address text complexity and help students...4 Dec 2025 — Understanding what constitutes text complexity is the first step in help...</p></details>
+   Link:<a href="https://www.nwea.org/blog/2025/how-to-address-text-complexity-and-help-students-understand-what-they-read/" target="_blank" rel="noopener noreferrer nofollow">https://www.nwea.org/blog/2025/how-to-address-text-complexity-and-help-students-understand-what-they-read/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to address text complexity and help students...4 Dec 2025 — Understanding what constitutes text complexity is the first step in help...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=MxvhJ5sO4Rg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MxvhJ5sO4Rg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How To Speed Read Technical InformationFREE [SPEED READING](&amp;#123;&amp;#123; &#x27;myths/&#x27; | relative_url &amp;#125;&amp;#125;) COURSE ▻ [http://irisreading.com](http://irisreading.com)... Learn reading techniques and strategies that...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=MxvhJ5sO4Rg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MxvhJ5sO4Rg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How To Speed Read Technical InformationFREE [SPEED READING](&amp;#123;&amp;#123; &#x27;myths/&#x27; | relative_url &amp;#125;&amp;#125;) COURSE ▻ [http://irisreading.com](http://irisreading.com)... Learn reading techniques and strategies that...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: scholarwithin.com  
-   Link: <a href="https://scholarwithin.com/average-reading-speed?srsltid=AfmBOopaanbc51nIyGsEcEnNvKxpvy_nbZIpwHXE8UFspJ8ODFF0YOFc" target="_blank" rel="noopener noreferrer nofollow">https://scholarwithin.com/average-reading-speed?srsltid=AfmBOopaanbc51nIyGsEcEnNvKxpvy_nbZIpwHXE8UFspJ8ODFF0YOFc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When reading aloud, the average reader can read 183 words per minute (WPM).Read more...</p></details>
+   Link:<a href="https://scholarwithin.com/average-reading-speed?srsltid=AfmBOopaanbc51nIyGsEcEnNvKxpvy_nbZIpwHXE8UFspJ8ODFF0YOFc" target="_blank" rel="noopener noreferrer nofollow">https://scholarwithin.com/average-reading-speed?srsltid=AfmBOopaanbc51nIyGsEcEnNvKxpvy_nbZIpwHXE8UFspJ8ODFF0YOFc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When reading aloud, the average reader can read 183 words per minute (WPM).Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: textproject.org  
    Title: Does Text Complexity Matter in the Elementary Grades?  
-   Link: <a href="https://textproject.org/wp-content/uploads/2022/07/Amendum-et-al.pdf" target="_blank" rel="noopener noreferrer nofollow">https://textproject.org/wp-content/uploads/2022/07/Amendum-et-al.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SJ Amendum · 2017 · Cited by 209 — Further, some have demonstrated that when elementary children read more complex texts, their d...</p></details>
+   Link:<a href="https://textproject.org/wp-content/uploads/2022/07/Amendum-et-al.pdf" target="_blank" rel="noopener noreferrer nofollow">https://textproject.org/wp-content/uploads/2022/07/Amendum-et-al.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SJ Amendum · 2017 · Cited by 209 — Further, some have demonstrated that when elementary children read more complex texts, their d...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: phys.org  
    Title: 2024 02 screens paper effective absorb retain  
-   Link: <a href="https://phys.org/news/2024-02-screens-paper-effective-absorb-retain.html" target="_blank" rel="noopener noreferrer nofollow">https://phys.org/news/2024-02-screens-paper-effective-absorb-retain.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading on screens instead of paper is a less effective way...6 Feb 2024 — Research suggests that reading on screens is a less effective...</p></details>
+   Link:<a href="https://phys.org/news/2024-02-screens-paper-effective-absorb-retain.html" target="_blank" rel="noopener noreferrer nofollow">https://phys.org/news/2024-02-screens-paper-effective-absorb-retain.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading on screens instead of paper is a less effective way...6 Feb 2024 — Research suggests that reading on screens is a less effective...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: education-progress.org  
    Title: GEM Report SCOPEDoes reading speed matter?  
-   Link: <a href="https://www.education-progress.org/focus/24-readingspeed" target="_blank" rel="noopener noreferrer nofollow">https://www.education-progress.org/focus/24-readingspeed</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GEM Report SCOPEA positive correlation between reading speed and reading comprehension at the individual level has been empirically fou...</p></details>
+   Link:<a href="https://www.education-progress.org/focus/24-readingspeed" target="_blank" rel="noopener noreferrer nofollow">https://www.education-progress.org/focus/24-readingspeed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GEM Report SCOPEA positive correlation between reading speed and reading comprehension at the individual level has been empirically fou...</p></details>

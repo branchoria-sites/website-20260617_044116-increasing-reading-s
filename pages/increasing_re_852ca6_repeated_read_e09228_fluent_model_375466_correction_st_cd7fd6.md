@@ -275,7 +275,7 @@ image: /assets/images/increasing_re_852ca6_repeated_read_e09228_fluent_model_375
 
 ## Introduction
 
-Repeated reading is often used to increase reading speed, but speed alone can be deceptive. A reader can become faster at saying the same incorrect words if mistakes are never corrected. The central value of feedback is that it prevents [practice]({{ 'practice/' | relative_url }}) from strengthening the wrong response. Instead of building automaticity around an error, corrective feedback redirects repetition towards accurate word recognition, appropriate phrasing, and meaning. Research on guided [oral reading]({{ 'reading-aloud/' | relative_url }}) consistently finds stronger results when rereading includes feedback and correction rather than simple repetition alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nichd.nih.gov">[NICHD+2Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nichd.nih.gov</span><span class="citation-popover-title">NICHDNational Reading Panel</span><span class="citation-popover-snippet">Reports of the Subgroups - FluencyAn extensive review of the literature indicates that classroom practices that encourage repeated oral r...</span></span></span>
+Repeated reading is often used to increase reading speed, but speed alone can be deceptive. A reader can become faster at saying the same incorrect words if mistakes are never corrected. The central value of feedback is that it prevents [practice]({{ 'practice/' | relative_url }}) from strengthening the wrong response. Instead of building automaticity around an error, corrective feedback redirects repetition towards accurate word recognition, appropriate phrasing, and meaning. Research on guided [oral reading]({{ 'reading-aloud/' | relative_url }}) consistently finds stronger results when rereading includes feedback and correction rather than simple repetition alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nichd.nih.gov">[NICHD+2Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nichd.nih.gov</span><span class="citation-popover-title">NICHDNational Reading Panel</span><span class="citation-popover-snippet">Reports of the Subgroups - FluencyAn extensive review of the literature indicates that classroom practices that encourage repeated oral r...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_repeated_read_e09228_fluent_model_375466_correction_st_cd7fd6-Illustration-1-dark.svg" | relative_url }}" alt="Corrections illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_repeated_read_e09228_fluent_model_375466_correction_st_cd7fd6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_repeated_read_e09228_fluent_model_375466_correction_st_cd7fd6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -285,9 +285,9 @@ In the context of repeated reading, correction is not a minor add-on. It is the 
 
 Repeated [exposure]({{ 'exposure/' | relative_url }}) to the same passage makes reading feel easier. Some of that improvement is genuine, but some comes from memory. A reader may remember the general shape of a sentence or anticipate upcoming words without fully processing what is actually written.
 
-This creates a risk. If a word is misread during the first attempt and the mistake goes uncorrected, subsequent readings may become faster because the reader is rehearsing the same incorrect response. The passage feels more fluent, but the underlying word recognition has not improved. The reader has gained speed without gaining accuracy. The National Reading Panel highlighted the importance of repeated oral reading with guidance and feedback precisely because repetition by itself does not guarantee accurate reading development. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nichd.nih.gov">[NICHD+2ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nichd.nih.gov</span><span class="citation-popover-title">NICHDNational Reading Panel</span><span class="citation-popover-snippet">Reports of the Subgroups - FluencyAn extensive review of the literature indicates that classroom practices that encourage repeated oral r...</span></span></span>
+This creates a risk. If a word is misread during the first attempt and the mistake goes uncorrected, subsequent readings may become faster because the reader is rehearsing the same incorrect response. The passage feels more fluent, but the underlying word recognition has not improved. The reader has gained speed without gaining accuracy. The National Reading Panel highlighted the importance of repeated oral reading with guidance and feedback precisely because repetition by itself does not guarantee accurate reading development.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nichd.nih.gov">[NICHD+2ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nichd.nih.gov</span><span class="citation-popover-title">NICHDNational Reading Panel</span><span class="citation-popover-snippet">Reports of the Subgroups - FluencyAn extensive review of the literature indicates that classroom practices that encourage repeated oral r...</span></span></span>
 
-The problem becomes clearer when fluency is understood as a combination of accuracy, rate, and expression rather than speed alone. A reader who rapidly substitutes one word for another is not demonstrating true fluency, even if the reading sounds smooth. Educational organisations and fluency researchers consistently define fluent reading as accurate reading that has become automatic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://educationendowmentfoundation.org.uk/news/eef-blog-shining-a-spotlight-on-reading-fluency" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF+2Five from Five]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-title">eef blog shining a spotlight on reading fluency</span><span class="citation-popover-snippet">EEFEEF blog: Shining a spotlight on reading fluency1 Dec 2021 — Reading fluency is defined as reading with accuracy (reading words correc...</span></span></span>
+The problem becomes clearer when fluency is understood as a combination of accuracy, rate, and expression rather than speed alone. A reader who rapidly substitutes one word for another is not demonstrating true fluency, even if the reading sounds smooth. Educational organisations and fluency researchers consistently define fluent reading as accurate reading that has become automatic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://educationendowmentfoundation.org.uk/news/eef-blog-shining-a-spotlight-on-reading-fluency" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF+2Five from Five]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-title">eef blog shining a spotlight on reading fluency</span><span class="citation-popover-snippet">EEFEEF blog: Shining a spotlight on reading fluency1 Dec 2021 — Reading fluency is defined as reading with accuracy (reading words correc...</span></span></span>
 
 A simple example illustrates the issue:
 
@@ -324,7 +324,7 @@ Some common examples include:
 
 </div>
 
-These mistakes matter because repeated reading aims to build automatic recognition of printed words. If errors survive repeated practice, they can become increasingly habitual. Research on fluency interventions repeatedly shows that successful programmes improve both reading rate and reading accuracy, not just speed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5097019/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by EA Stevens · 2016 · Cited by 370 — Findings indicated that RR interventions improved reading rate, accuracy, and comprehension. Add...</span></span></span>
+These mistakes matter because repeated reading aims to build automatic recognition of printed words. If errors survive repeated practice, they can become increasingly habitual. Research on fluency interventions repeatedly shows that successful programmes improve both reading rate and reading accuracy, not just speed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5097019/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by EA Stevens · 2016 · Cited by 370 — Findings indicated that RR interventions improved reading rate, accuracy, and comprehension. Add...</span></span></span>
 
 An important distinction emerges here: a reader can sound quicker without becoming a better reader. Feedback helps separate genuine progress from mere familiarity with the passage.
 
@@ -340,7 +340,7 @@ First, it prevents the incorrect response from being repeated multiple times. Le
 
 Second, it creates a correct model for subsequent rereadings. Once the accurate word has been supplied, future repetitions reinforce the intended pronunciation and meaning rather than the mistaken version.
 
-Third, it helps maintain the connection between fluency and comprehension. Reading is ultimately about understanding text. When errors change meaning, readers may appear fluent while constructing an inaccurate interpretation. Corrective feedback keeps attention anchored to what the author actually wrote. Research reviews of guided oral reading have found benefits extending beyond rate to word recognition, fluency, and comprehension. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nichd.nih.gov">[NICHD+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nichd.nih.gov</span><span class="citation-popover-title">NICHDNational Reading Panel</span><span class="citation-popover-snippet">Reports of the Subgroups - FluencyAn extensive review of the literature indicates that classroom practices that encourage repeated oral r...</span></span></span>
+Third, it helps maintain the connection between fluency and comprehension. Reading is ultimately about understanding text. When errors change meaning, readers may appear fluent while constructing an inaccurate interpretation. Corrective feedback keeps attention anchored to what the author actually wrote. Research reviews of guided oral reading have found benefits extending beyond rate to word recognition, fluency, and comprehension.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nichd.nih.gov">[NICHD+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nichd.nih.gov</span><span class="citation-popover-title">NICHDNational Reading Panel</span><span class="citation-popover-snippet">Reports of the Subgroups - FluencyAn extensive review of the literature indicates that classroom practices that encourage repeated oral r...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2ZbjCF9QYY4" title="Reading Interventions: Keeping Eyes on the Text" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2ZbjCF9QYY4" target="_blank" rel="noopener noreferrer">Reading Interventions: Keeping Eyes on the Text</a></p><p class="youtube-embed-meta">Channel: Reading Rockets</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2ZbjCF9QYY4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2ZbjCF9QYY4">Open on YouTube</a></p></div></div></div>
@@ -349,9 +349,9 @@ Third, it helps maintain the connection between fluency and comprehension. Readi
 
 Automaticity is a major goal of repeated reading. Readers become faster because they recognise words with less conscious effort. However, automaticity is not inherently beneficial; it depends on what becomes automatic.
 
-If accurate word recognition becomes automatic, reading efficiency improves. If inaccurate responses become automatic, readers may develop fluent-looking habits that are difficult to change later. Researchers studying reading automaticity emphasise that fluency depends on rapid and accurate processing rather than speed in isolation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8559868/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Utah NESinc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Automaticity as an Independent Trait in Predicting Reading...by TC Roembke · 2021 · Cited by 28 — Second, even though automaticity is...</span></span></span>
+If accurate word recognition becomes automatic, reading efficiency improves. If inaccurate responses become automatic, readers may develop fluent-looking habits that are difficult to change later. Researchers studying reading automaticity emphasise that fluency depends on rapid and accurate processing rather than speed in isolation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8559868/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Utah NESinc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Automaticity as an Independent Trait in Predicting Reading...by TC Roembke · 2021 · Cited by 28 — Second, even though automaticity is...</span></span></span>
 
-This is why guided repeated reading typically outperforms unguided rereading. Studies and reviews have found stronger outcomes when repeated reading is paired with modelling, feedback, or correction. The improvement comes not only from additional exposure to text but from ensuring that exposure repeatedly strengthens the correct reading behaviours. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5097019/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2NICHD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by EA Stevens · 2016 · Cited by 370 — Findings indicated that RR interventions improved reading rate, accuracy, and comprehension. Add...</span></span></span>
+This is why guided repeated reading typically outperforms unguided rereading. Studies and reviews have found stronger outcomes when repeated reading is paired with modelling, feedback, or correction. The improvement comes not only from additional exposure to text but from ensuring that exposure repeatedly strengthens the correct reading behaviours.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5097019/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2NICHD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by EA Stevens · 2016 · Cited by 370 — Findings indicated that RR interventions improved reading rate, accuracy, and comprehension. Add...</span></span></span>
 
 A reader who practises a passage five times with accurate corrections is not simply accumulating more repetitions. They are accumulating more accurate repetitions.
 
@@ -363,7 +363,7 @@ One of the most common misunderstandings about reading fluency is assuming that 
 
 A student who moves from 70 words per minute to 100 words per minute while continuing to misread key [vocabulary]({{ 'knowledge/' | relative_url }}) may show an impressive increase in pace but limited improvement in reading competence. By contrast, a student whose speed rises more gradually while errors decline is building a stronger foundation for future fluency and comprehension.
 
-For this reason, many fluency frameworks [measure]({{ 'measure/' | relative_url }}) correct words read rather than speed alone, and many repeated-reading interventions track both rate and errors. Improvements in reading fluency are most meaningful when increased speed occurs alongside accurate word recognition and preserved meaning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s11145-025-10744-7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Five from Five+3Springer+3Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer Natureby F Zourou · 2025 · Cited by 1 — Although repeated reading (RR) is highly effective in improving reading fluency, it has...</span></span></span>
+For this reason, many fluency frameworks [measure]({{ 'measure/' | relative_url }}) correct words read rather than speed alone, and many repeated-reading interventions track both rate and errors. Improvements in reading fluency are most meaningful when increased speed occurs alongside accurate word recognition and preserved meaning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s11145-025-10744-7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Five from Five+3Springer+3Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer Natureby F Zourou · 2025 · Cited by 1 — Although repeated reading (RR) is highly effective in improving reading fluency, it has...</span></span></span>
 
 Correction therefore acts as a safeguard. It ensures that rereading develops the kind of fluency that transfers beyond a familiar passage: accurate, automatic, meaningful reading rather than rapid rehearsal of the wrong words.
 
@@ -372,194 +372,194 @@ Correction therefore acts as a safeguard. It ensures that rereading develops the
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Faster Rereading Rehearses the Wrong Words. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Faster Rereading Rehearses the Wrong Words. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The fluent reader on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/277217-M.jpg" alt="Cover for The fluent reader" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fluent reader">The fluent reader</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The fluent reader on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/277217-M.jpg" alt="Cover for The fluent reader" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fluent reader">The fluent reader</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Highlights correction and accuracy alongside speed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights correction and accuracy alongside speed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-        </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+</h4>
+<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Explains why feedback prevents reinforcing mistakes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why feedback prevents reinforcing mistakes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Peak on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rLECDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Peak" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Peak">Peak</a>
-        </h4>
-        <p class="fr-book-author">By Anders Ericsson, Robert Pool</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Peak on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rLECDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Peak" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Peak">Peak</a>
+</h4>
+<p class="fr-book-author">By Anders Ericsson, Robert Pool</p>
         
-        <p class="fr-book-desc">Demonstrates the importance of corrective feedback.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates the importance of corrective feedback.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Megabook+of+Fluency+Timothy+V.+Rasinski%3BMelissa+Cheesman+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Megabook of Fluency on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8825334-M.jpg" alt="Cover for The Megabook of Fluency" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Megabook+of+Fluency+Timothy+V.+Rasinski%3BMelissa+Cheesman+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Megabook of Fluency">The Megabook of Fluency</a>
-        </h4>
-        <p class="fr-book-author">By Timothy V. Rasinski;Melissa Cheesman Smith</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Megabook+of+Fluency+Timothy+V.+Rasinski%3BMelissa+Cheesman+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Megabook of Fluency on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8825334-M.jpg" alt="Cover for The Megabook of Fluency" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Megabook+of+Fluency+Timothy+V.+Rasinski%3BMelissa+Cheesman+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Megabook of Fluency">The Megabook of Fluency</a>
+</h4>
+<p class="fr-book-author">By Timothy V. Rasinski;Melissa Cheesman Smith</p>
         
-        <p class="fr-book-desc">First published 2018. Subjects: Language arts (elementary), Teaching, aids and devices.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Megabook+of+Fluency+Timothy+V.+Rasinski%3BMelissa+Cheesman+Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2018. Subjects: Language arts (elementary), Teaching, aids and devices.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Megabook+of+Fluency+Timothy+V.+Rasinski%3BMelissa+Cheesman+Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The fluent reader</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Peak&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Peak</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The fluent reader</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Peak&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Peak</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+intervention+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading intervention kit" data-ebay-reference="corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Word Heroes Specialist Level Vocabulary Reading Intervention Complete Set Abrams"><img src="{{ '/assets/images/marketplace-covers/02110309e38f0f8f4031.jpg' | relative_url }}" alt="Listing image for Word Heroes Specialist Level Vocabulary Reading Intervention Complete Set Abrams" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+intervention+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading intervention kit" data-ebay-reference="corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit" target="_blank" rel="sponsored noopener noreferrer">Word Heroes Specialist Level Vocabulary Reading Intervention Complete Set Abrams</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+intervention+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading intervention kit" data-ebay-reference="corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading intervention kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: reading intervention kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+intervention+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading intervention kit" data-ebay-reference="corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+intervention+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading intervention kit" data-ebay-reference="corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Word Heroes Specialist Level Vocabulary Reading Intervention Complete Set Abrams"><img src="{{ '/assets/images/marketplace-covers/02110309e38f0f8f4031.jpg' | relative_url }}" alt="Listing image for Word Heroes Specialist Level Vocabulary Reading Intervention Complete Set Abrams" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+intervention+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading intervention kit" data-ebay-reference="corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit" target="_blank" rel="sponsored noopener noreferrer">Word Heroes Specialist Level Vocabulary Reading Intervention Complete Set Abrams</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+intervention+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading intervention kit" data-ebay-reference="corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading intervention kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: reading intervention kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+intervention+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading intervention kit" data-ebay-reference="corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+intervention+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading intervention kit" data-ebay-reference="corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TMC Focused Reading Intervention: Level 4 Kit Teacher Created Materials Complete"><img src="{{ '/assets/images/marketplace-covers/85e8563f050da546d11f.jpg' | relative_url }}" alt="Listing image for TMC Focused Reading Intervention: Level 4 Kit Teacher Created Materials Complete" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+intervention+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading intervention kit" data-ebay-reference="corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit" target="_blank" rel="sponsored noopener noreferrer">TMC Focused Reading Intervention: Level 4 Kit Teacher Created Materials Complete</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+intervention+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading intervention kit" data-ebay-reference="corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading intervention kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: reading intervention kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+intervention+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading intervention kit" data-ebay-reference="corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+intervention+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading intervention kit" data-ebay-reference="corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TMC Focused Reading Intervention: Level 4 Kit Teacher Created Materials Complete"><img src="{{ '/assets/images/marketplace-covers/85e8563f050da546d11f.jpg' | relative_url }}" alt="Listing image for TMC Focused Reading Intervention: Level 4 Kit Teacher Created Materials Complete" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+intervention+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading intervention kit" data-ebay-reference="corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit" target="_blank" rel="sponsored noopener noreferrer">TMC Focused Reading Intervention: Level 4 Kit Teacher Created Materials Complete</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+intervention+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading intervention kit" data-ebay-reference="corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading intervention kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: reading intervention kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+intervention+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading intervention kit" data-ebay-reference="corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+intervention+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading intervention kit" data-ebay-reference="corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Story Friends(tm) Specialist`s Kit – An Early Literacy Intervention for Improvi…"><span>eBay</span></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+intervention+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading intervention kit" data-ebay-reference="corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit" target="_blank" rel="sponsored noopener noreferrer">Story Friends(tm) Specialist`s Kit – An Early Literacy Intervention for Improvi…</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+intervention+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading intervention kit" data-ebay-reference="corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading intervention kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: reading intervention kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+intervention+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading intervention kit" data-ebay-reference="corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+intervention+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading intervention kit" data-ebay-reference="corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Story Friends(tm) Specialist`s Kit – An Early Literacy Intervention for Improvi…"><span>eBay</span></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+intervention+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading intervention kit" data-ebay-reference="corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit" target="_blank" rel="sponsored noopener noreferrer">Story Friends(tm) Specialist`s Kit – An Early Literacy Intervention for Improvi…</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+intervention+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading intervention kit" data-ebay-reference="corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading intervention kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: reading intervention kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+intervention+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading intervention kit" data-ebay-reference="corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+intervention+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading intervention kit" data-ebay-reference="corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Story Friends Specialist&#x27;s Kit: An Early Literacy Intervention for Improving Ora"><img src="{{ '/assets/images/marketplace-covers/288466c2ad94bf79cd36.jpg' | relative_url }}" alt="Listing image for Story Friends Specialist&#x27;s Kit: An Early Literacy Intervention for Improving Ora" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+intervention+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading intervention kit" data-ebay-reference="corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit" target="_blank" rel="sponsored noopener noreferrer">Story Friends Specialist&#x27;s Kit: An Early Literacy Intervention for Improving Ora</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+intervention+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading intervention kit" data-ebay-reference="corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading intervention kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: reading intervention kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+intervention+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading intervention kit" data-ebay-reference="corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+intervention+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading intervention kit" data-ebay-reference="corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+intervention+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading intervention kit" data-ebay-reference="corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Story Friends Specialist&#x27;s Kit: An Early Literacy Intervention for Improving Ora"><img src="{{ '/assets/images/marketplace-covers/288466c2ad94bf79cd36.jpg' | relative_url }}" alt="Listing image for Story Friends Specialist&#x27;s Kit: An Early Literacy Intervention for Improving Ora" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+intervention+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading intervention kit" data-ebay-reference="corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit" target="_blank" rel="sponsored noopener noreferrer">Story Friends Specialist&#x27;s Kit: An Early Literacy Intervention for Improving Ora</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+intervention+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading intervention kit" data-ebay-reference="corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading intervention kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: reading intervention kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+intervention+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading intervention kit" data-ebay-reference="corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+intervention+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading intervention kit" data-ebay-reference="corrections-when-faster-rereading-rehearses-the-wrong-words-increasing-reading-intervention-kit" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -575,7 +575,7 @@ Correction therefore acts as a safeguard. It ensures that rereading develops the
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -595,7 +595,7 @@ Correction therefore acts as a safeguard. It ensures that rereading develops the
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -627,7 +627,7 @@ Correction therefore acts as a safeguard. It ensures that rereading develops the
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -679,7 +679,7 @@ Correction therefore acts as a safeguard. It ensures that rereading develops the
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -724,7 +724,7 @@ Correction therefore acts as a safeguard. It ensures that rereading develops the
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -765,150 +765,150 @@ Correction therefore acts as a safeguard. It ensures that rereading develops the
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nichd.nih.gov  
    Title: NICHDNational Reading Panel  
-   Link: <a href="https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>[Reports](&amp;#123;&amp;#123; &#x27;reports/&#x27; | relative_url &amp;#125;&amp;#125;) of the Subgroups - FluencyAn extensive review of the literature indicates that classroom practices that encourage repeated oral r...</p></details>
+   Link:<a href="https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Reports](&amp;#123;&amp;#123; &#x27;reports/&#x27; | relative_url &amp;#125;&amp;#125;) of the Subgroups - FluencyAn extensive review of the literature indicates that classroom practices that encourage repeated oral r...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5097019/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5097019/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by EA Stevens · 2016 · Cited by 370 — Findings indicated that RR interventions improved reading rate, accuracy, and comprehension. Add...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5097019/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5097019/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by EA Stevens · 2016 · Cited by 370 — Findings indicated that RR interventions improved reading rate, accuracy, and comprehension. Add...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: files.eric.ed.gov  
-   Link: <a href="https://files.eric.ed.gov/fulltext/ED489535.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/ED489535.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ERICNational Reading Panel Report - ERICby T Shanahan · 2005 · Cited by 423 — These improvements were evident with word reading skills, o...</p></details>
+   Link:<a href="https://files.eric.ed.gov/fulltext/ED489535.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/ED489535.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ERICNational Reading Panel Report - ERICby T Shanahan · 2005 · Cited by 423 — These improvements were evident with word reading skills, o...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ut.nesinc.com  
-   Link: <a href="https://www.ut.nesinc.com/TestView.aspx?f=HTML_FRAG%2Fflex%2Fautomaticity-and-fluency.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ut.nesinc.com/TestView.aspx?f=HTML_FRAG%2Fflex%2Fautomaticity-and-fluency.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ah NESincAutomaticity and Fluency Can Be Underlying Causes of...Problems with automatic word recognition can contribute to difficultie...</p></details>
+   Link:<a href="https://www.ut.nesinc.com/TestView.aspx?f=HTML_FRAG%2Fflex%2Fautomaticity-and-fluency.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ut.nesinc.com/TestView.aspx?f=HTML_FRAG%2Fflex%2Fautomaticity-and-fluency.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ah NESincAutomaticity and Fluency Can Be Underlying Causes of...Problems with automatic word recognition can contribute to difficultie...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8559868/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8559868/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Automaticity as an Independent Trait in Predicting Reading...by TC Roembke · 2021 · Cited by 28 — Second, even though automaticity is...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8559868/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8559868/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Automaticity as an Independent Trait in Predicting Reading...by TC Roembke · 2021 · Cited by 28 — Second, even though automaticity is...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: files.eric.ed.gov  
-   Link: <a href="https://files.eric.ed.gov/fulltext/EJ1250532.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/EJ1250532.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Interventions for Elementary Students with Reading...by A Hudson · 2020 · Cited by 174 — For one, how rate and accuracy components in re...</p></details>
+   Link:<a href="https://files.eric.ed.gov/fulltext/EJ1250532.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/EJ1250532.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Interventions for Elementary Students with Reading...by A Hudson · 2020 · Cited by 174 — For one, how rate and accuracy components in re...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s11145-025-10744-7" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11145-025-10744-7</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer Natureby F Zourou · 2025 · Cited by 1 — Although repeated reading (RR) is highly effective in improving reading fluency, it has...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s11145-025-10744-7" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11145-025-10744-7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Springer Natureby F Zourou · 2025 · Cited by 1 — Although repeated reading (RR) is highly effective in improving reading fluency, it has...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s10648-024-09957-z" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10648-024-09957-z</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>springer.comTeachers&#x27; Feedback on Oral Reading: A Critical Review of its...by KM Grønli · 2024 · Cited by 11 — Teachers&#x27; feedback is cri...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s10648-024-09957-z" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10648-024-09957-z</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>springer.comTeachers&#x27; Feedback on Oral Reading: A Critical Review of its...by KM Grønli · 2024 · Cited by 11 — Teachers&#x27; feedback is cri...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/topics/curriculum-and-instruction/articles/findings-national-reading-panel" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/curriculum-and-instruction/articles/findings-national-reading-panel</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>has been clearly...Read more...</p></details>
+   Link:<a href="https://www.readingrockets.org/topics/curriculum-and-instruction/articles/findings-national-reading-panel" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/curriculum-and-instruction/articles/findings-national-reading-panel</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>has been clearly...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: educationendowmentfoundation.org.uk  
    Title: eef blog shining a spotlight on reading fluency  
-   Link: <a href="https://educationendowmentfoundation.org.uk/news/eef-blog-shining-a-spotlight-on-reading-fluency" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/eef-blog-shining-a-spotlight-on-reading-fluency</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EEFEEF blog: Shining a spotlight on reading fluency1 Dec 2021 — Reading fluency is defined as reading with accuracy (reading words correc...</p></details>
+   Link:<a href="https://educationendowmentfoundation.org.uk/news/eef-blog-shining-a-spotlight-on-reading-fluency" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/eef-blog-shining-a-spotlight-on-reading-fluency</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EEFEEF blog: Shining a spotlight on reading fluency1 Dec 2021 — Reading fluency is defined as reading with accuracy (reading words correc...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: fivefromfive.com.au  
-   Link: <a href="https://fivefromfive.com.au/fluency/components-of-fluency/" target="_blank" rel="noopener noreferrer nofollow">https://fivefromfive.com.au/fluency/components-of-fluency/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ponents of fluencyText or passage reading fluency is generally defined as having three components: accuracy, rate, and prosody (or exp...</p></details>
+   Link:<a href="https://fivefromfive.com.au/fluency/components-of-fluency/" target="_blank" rel="noopener noreferrer nofollow">https://fivefromfive.com.au/fluency/components-of-fluency/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ponents of fluencyText or passage reading fluency is generally defined as having three components: accuracy, rate, and prosody (or exp...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/classroom/classroom-strategies/timed-repeated-readings" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/classroom/classroom-strategies/timed-repeated-readings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Timed Repeated ReadingsThe goal of timed repeated readings is to increase reading speed, accuracy, and expression through repeated practi...</p></details>
+   Link:<a href="https://www.readingrockets.org/classroom/classroom-strategies/timed-repeated-readings" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/classroom/classroom-strategies/timed-repeated-readings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Timed Repeated ReadingsThe goal of timed repeated readings is to increase reading speed, accuracy, and expression through repeated practi...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Struggling reader is defined as  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8500173/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8500173/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Interventions for Struggling Readers in Grades 6 to 12by PK Steinle · 2021 · Cited by 46 — Fluency intervention is defined as any interve...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8500173/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8500173/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Interventions for Struggling Readers in Grades 6 to 12by PK Steinle · 2021 · Cited by 46 — Fluency intervention is defined as any interve...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: www1.nichd.nih.gov  
-   Link: <a href="https://www1.nichd.nih.gov/publications/pubs/nrp/documents/report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www1.nichd.nih.gov/publications/pubs/nrp/documents/report.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Panel - Teaching Children to ReadThe National Reading Panel wishes to express its gratitude to the following individuals for thei...</p></details>
+   Link:<a href="https://www1.nichd.nih.gov/publications/pubs/nrp/documents/report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www1.nichd.nih.gov/publications/pubs/nrp/documents/report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Panel - Teaching Children to ReadThe National Reading Panel wishes to express its gratitude to the following individuals for thei...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2980335/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2980335/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Efficacy of Repeated Reading and [Wide Reading](&amp;#123;&amp;#123; &#x27;wide-reading/&#x27; | relative_url &amp;#125;&amp;#125;) Practice...by J Wexler · 2010 · Cited by 161 — This experimental study was conducted to ex...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2980335/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2980335/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Efficacy of Repeated Reading and [Wide Reading](&amp;#123;&amp;#123; &#x27;wide-reading/&#x27; | relative_url &amp;#125;&amp;#125;) Practice...by J Wexler · 2010 · Cited by 161 — This experimental study was conducted to ex...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nichd.nih.gov  
-   Link: <a href="https://www.nichd.nih.gov/publications/pubs/nrp/findings" target="_blank" rel="noopener noreferrer nofollow">https://www.nichd.nih.gov/publications/pubs/nrp/findings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of the National Reading Panel | NICHDTwo instructional approaches, each of which has several variations, have typically been used to teac...</p></details>
+   Link:<a href="https://www.nichd.nih.gov/publications/pubs/nrp/findings" target="_blank" rel="noopener noreferrer nofollow">https://www.nichd.nih.gov/publications/pubs/nrp/findings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of the National Reading Panel | NICHDTwo instructional approaches, each of which has several variations, have typically been used to teac...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fluency: In DepthRepeated oral reading of familiar texts can substantially improve reading fluency in typical elementary students as well...</p></details>
+   Link:<a href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fluency: In DepthRepeated oral reading of familiar texts can substantially improve reading fluency in typical elementary students as well...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: National Reading Panel  
-   Link: <a href="https://en.wikipedia.org/wiki/National_Reading_Panel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Reading_Panel</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Reading PanelIt was a national panel with the stated aim of assessing the effectiveness of different approaches used to teach...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/National_Reading_Panel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Reading_Panel</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Reading PanelIt was a national panel with the stated aim of assessing the effectiveness of different approaches used to teach...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ies.ed.gov  
-   Link: <a href="https://ies.ed.gov/use-work/awards/development-intervention-improve-reading-efficiency-students-or-risk-word-reading-disability" target="_blank" rel="noopener noreferrer nofollow">https://ies.ed.gov/use-work/awards/development-intervention-improve-reading-efficiency-students-or-risk-word-reading-disability</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of an Intervention to Improve Reading Efficiency...This project will develop an intervention to address a significant problem for studen...</p></details>
+   Link:<a href="https://ies.ed.gov/use-work/awards/development-intervention-improve-reading-efficiency-students-or-risk-word-reading-disability" target="_blank" rel="noopener noreferrer nofollow">https://ies.ed.gov/use-work/awards/development-intervention-improve-reading-efficiency-students-or-risk-word-reading-disability</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of an Intervention to Improve Reading Efficiency...This project will develop an intervention to address a significant problem for studen...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/398698524_Effects_of_a_repeated_reading_intervention_on_the_reading_fluency_of_adolescents_with_intellectual_disability" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/398698524_Effects_of_a_repeated_reading_intervention_on_the_reading_fluency_of_adolescents_with_intellectual_disability</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Effects of a repeated reading intervention on the...17 Dec 2025 — Findings revealed that all four students increased his or her we...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/398698524_Effects_of_a_repeated_reading_intervention_on_the_reading_fluency_of_adolescents_with_intellectual_disability" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/398698524_Effects_of_a_repeated_reading_intervention_on_the_reading_fluency_of_adolescents_with_intellectual_disability</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Effects of a repeated reading intervention on the...17 Dec 2025 — Findings revealed that all four students increased his or her we...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: shanahanonliteracy.com  
-   Link: <a href="https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Everything You Wanted to Know about Repeated ReadingMy read of the research data is that repeated reading (RR) in itself is not effective...</p></details>
+   Link:<a href="https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Everything You Wanted to Know about Repeated ReadingMy read of the research data is that repeated reading (RR) in itself is not effective...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: brtprojects.org  
-   Link: <a href="https://brtprojects.org/wp-content/uploads/2024/02/Fluency-NRP-Updates-TRL-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://brtprojects.org/wp-content/uploads/2024/02/Fluency-NRP-Updates-TRL-2020.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FLUENCY Hasbrouck 1The NRP report addressed fluency instruction by asking this question: “How does one become so fluent in reading that w...</p></details>
+   Link:<a href="https://brtprojects.org/wp-content/uploads/2024/02/Fluency-NRP-Updates-TRL-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://brtprojects.org/wp-content/uploads/2024/02/Fluency-NRP-Updates-TRL-2020.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FLUENCY Hasbrouck 1The NRP report addressed fluency instruction by asking this question: “How does one become so fluent in reading that w...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: readnaturally.com  
-   Link: <a href="https://www.readnaturally.com/research/5-components-of-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.readnaturally.com/research/5-components-of-reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Five (5) Components of ReadingThe National Reading Panel&#x27;s research findings concluded that guided oral reading and repeated oral reading...</p></details>
+   Link:<a href="https://www.readnaturally.com/research/5-components-of-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.readnaturally.com/research/5-components-of-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Five (5) Components of ReadingThe National Reading Panel&#x27;s research findings concluded that guided oral reading and repeated oral reading...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: improvingliteracy.org  
-   Link: <a href="https://improvingliteracy.org/resource/how-to-build-fluency-with-text-in-your-classroom/" target="_blank" rel="noopener noreferrer nofollow">https://improvingliteracy.org/resource/how-to-build-fluency-with-text-in-your-classroom/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Build Fluency with Text in Your ClassroomThe best approach to beginning reading instruction is one that incorporates explicit inst...</p></details>
+   Link:<a href="https://improvingliteracy.org/resource/how-to-build-fluency-with-text-in-your-classroom/" target="_blank" rel="noopener noreferrer nofollow">https://improvingliteracy.org/resource/how-to-build-fluency-with-text-in-your-classroom/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Build Fluency with Text in Your ClassroomThe best approach to beginning reading instruction is one that incorporates explicit inst...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: readnaturally.com  
-   Link: <a href="https://www.readnaturally.com/research/5-components-of-reading/fluency" target="_blank" rel="noopener noreferrer nofollow">https://www.readnaturally.com/research/5-components-of-reading/fluency</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FluencyThe National Reading Panel found data supporting three strategies that improve fluency, comprehension, and reading achievement—tea...</p></details>
+   Link:<a href="https://www.readnaturally.com/research/5-components-of-reading/fluency" target="_blank" rel="noopener noreferrer nofollow">https://www.readnaturally.com/research/5-components-of-reading/fluency</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FluencyThe National Reading Panel found data supporting three strategies that improve fluency, comprehension, and reading achievement—tea...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: campbellcreatesreaders.com  
-   Link: <a href="https://www.campbellcreatesreaders.com/blog/nrpfluency" target="_blank" rel="noopener noreferrer nofollow">https://www.campbellcreatesreaders.com/blog/nrpfluency</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What the National Reading Panel Says About: FluencyFor the National Reading Panel, their focus was really two questions: does repeated re...</p></details>
+   Link:<a href="https://www.campbellcreatesreaders.com/blog/nrpfluency" target="_blank" rel="noopener noreferrer nofollow">https://www.campbellcreatesreaders.com/blog/nrpfluency</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What the National Reading Panel Says About: FluencyFor the National Reading Panel, their focus was really two questions: does repeated re...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/358606082_A_Case_Study_on_Oral_Corrective_Feedback_During_Oral_Reading_Potential_for_Improving_High-Frequency_Word_Recognition" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/358606082_A_Case_Study_on_Oral_Corrective_Feedback_During_Oral_Reading_Potential_for_Improving_High-Frequency_Word_Recognition</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) A Case Study on Oral Corrective Feedback During...17 May 2023 — The Report of the National Reading Panel (NICHD, 2000) identified...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/358606082_A_Case_Study_on_Oral_Corrective_Feedback_During_Oral_Reading_Potential_for_Improving_High-Frequency_Word_Recognition" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/358606082_A_Case_Study_on_Oral_Corrective_Feedback_During_Oral_Reading_Potential_for_Improving_High-Frequency_Word_Recognition</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) A Case Study on Oral Corrective Feedback During...17 May 2023 — The Report of the National Reading Panel (NICHD, 2000) identified...</p></details>
    Published: May 2023  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: researchgate.net  
    Title: 387487545 Reading Prosody The Role of Automaticity and Motivational Variables  
-   Link: <a href="https://www.researchgate.net/publication/387487545_Reading_Prosody_The_Role_of_Automaticity_and_Motivational_Variables" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/387487545_Reading_Prosody_The_Role_of_Automaticity_and_Motivational_Variables</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Reading Prosody: The Role of Automaticity and...30 Dec 2024 — Several studies support the idea that prosody is the most prominent...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/387487545_Reading_Prosody_The_Role_of_Automaticity_and_Motivational_Variables" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/387487545_Reading_Prosody_The_Role_of_Automaticity_and_Motivational_Variables</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Reading Prosody: The Role of Automaticity and...30 Dec 2024 — Several studies support the idea that prosody is the most prominent...</p></details>

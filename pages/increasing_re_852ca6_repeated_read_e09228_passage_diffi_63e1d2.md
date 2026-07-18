@@ -294,22 +294,22 @@ image: /assets/images/increasing_re_852ca6_repeated_read_e09228_passage_diffi_63
 
 ## Introduction
 
-The best passage for repeated reading is not the most [difficult text]({{ 'difficult-text/' | relative_url }}) a reader can tolerate. It is a short passage that is already mostly readable, yet still contains enough challenge for each rereading to feel smoother than the last. When the fit is right, readers gain speed because fewer words require conscious effort. When the fit is wrong, repeated reading turns into repeated struggling, and improvements in fluency slow dramatically. Research and instructional guidance consistently recommend using [short passages]({{ 'passage-length-0559bd/' | relative_url }}) that can be read with high accuracy rather than texts that trigger frequent guessing, stopping, or frustration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets+2Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsFluency: In DepthIndependent Level: Relatively easy for the student to read (at least 95% word accuracy). Instructional Le...</span></span></span>
+The best passage for repeated reading is not the most [difficult text]({{ 'difficult-text/' | relative_url }}) a reader can tolerate. It is a short passage that is already mostly readable, yet still contains enough challenge for each rereading to feel smoother than the last. When the fit is right, readers gain speed because fewer words require conscious effort. When the fit is wrong, repeated reading turns into repeated struggling, and improvements in fluency slow dramatically. Research and instructional guidance consistently recommend using [short passages]({{ 'passage-length-0559bd/' | relative_url }}) that can be read with high accuracy rather than texts that trigger frequent guessing, stopping, or frustration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets+2Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsFluency: In DepthIndependent Level: Relatively easy for the student to read (at least 95% word accuracy). Instructional Le...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_repeated_read_e09228_passage_diffi_63e1d2-Illustration-1-dark.svg" | relative_url }}" alt="Passage fit illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_repeated_read_e09228_passage_diffi_63e1d2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_repeated_read_e09228_passage_diffi_63e1d2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within repeated reading programmes aimed at [increasing]({{ 'increasing/' | relative_url }}) reading speed, passage selection is therefore not a minor detail. It is one of the main factors determining whether practice builds automaticity and confidence or simply rehearses errors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5097019/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by EA Stevens · 2016 · Cited by 376 — Guided oral repeated reading (RR) with teacher or peer feedback was identified as an effective m...</span></span></span>
+Within repeated reading programmes aimed at [increasing]({{ 'increasing/' | relative_url }}) reading speed, passage selection is therefore not a minor detail. It is one of the main factors determining whether practice builds automaticity and confidence or simply rehearses errors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5097019/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by EA Stevens · 2016 · Cited by 376 — Guided oral repeated reading (RR) with teacher or peer feedback was identified as an effective m...</span></span></span>
 
 ## How hard should a rereading passage be?
 
-A useful rule is that a reader should be able to read most of the words correctly on the first attempt. Fluency practice is designed to make reading smoother, not to serve as primary decoding instruction. If a passage contains too many unfamiliar words, attention is consumed by figuring out individual words rather than developing rhythm, phrasing, and efficient word recognition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsFluency: In DepthIndependent Level: Relatively easy for the student to read (at least 95% word accuracy). Instructional Le...</span></span></span>
+A useful rule is that a reader should be able to read most of the words correctly on the first attempt. Fluency practice is designed to make reading smoother, not to serve as primary decoding instruction. If a passage contains too many unfamiliar words, attention is consumed by figuring out individual words rather than developing rhythm, phrasing, and efficient word recognition.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsFluency: In DepthIndependent Level: Relatively easy for the student to read (at least 95% word accuracy). Instructional Le...</span></span></span>
 
 Many fluency frameworks describe three broad text levels:
 
-* **Independent level:** typically around 95% or higher word-reading accuracy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[readingrockets.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsFluency: In DepthIndependent Level: Relatively easy for the student to read (at least 95% word accuracy). Instructional Le...</span></span></span> * **Instructional level:** challenging but manageable with support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[readingrockets.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsFluency: In DepthIndependent Level: Relatively easy for the student to read (at least 95% word accuracy). Instructional Le...</span></span></span>
-* **Frustration level:** accuracy falls below roughly 90%, indicating that the text is too difficult for fluency practice. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets+2Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsFluency: In DepthIndependent Level: Relatively easy for the student to read (at least 95% word accuracy). Instructional Le...</span></span></span>
+* **Independent level:** typically around 95% or higher word-reading accuracy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[readingrockets.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsFluency: In DepthIndependent Level: Relatively easy for the student to read (at least 95% word accuracy). Instructional Le...</span></span></span> * **Instructional level:** challenging but manageable with support.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[readingrockets.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsFluency: In DepthIndependent Level: Relatively easy for the student to read (at least 95% word accuracy). Instructional Le...</span></span></span>
+* **Frustration level:** accuracy falls below roughly 90%, indicating that the text is too difficult for fluency practice.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets+2Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsFluency: In DepthIndependent Level: Relatively easy for the student to read (at least 95% word accuracy). Instructional Le...</span></span></span>
 
-The exact percentages vary across researchers, but the pattern is remarkably consistent: readers benefit most when passages are challenging enough to require attention yet easy enough to read accurately. Some analyses place the optimal instructional range around 93–97% accuracy, while other guidance recommends at least 95% accuracy for fluency work. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/379939617_Assessing_an_Instructional_Level_During_Reading_Fluency_Interventions_A_Meta-Analysis_of_the_Effects_on_Reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2Shanahan on Literacy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">A Meta-Analysis of the Effects on ReadingThe specific criterion of 93%-97% correctly read words has been consistently validat...</span></span></span>
+The exact percentages vary across researchers, but the pattern is remarkably consistent: readers benefit most when passages are challenging enough to require attention yet easy enough to read accurately. Some analyses place the optimal instructional range around 93–97% accuracy, while other guidance recommends at least 95% accuracy for fluency work.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/379939617_Assessing_an_Instructional_Level_During_Reading_Fluency_Interventions_A_Meta-Analysis_of_the_Effects_on_Reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2Shanahan on Literacy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">A Meta-Analysis of the Effects on ReadingThe specific criterion of 93%-97% correctly read words has been consistently validat...</span></span></span>
 
 A simple practical test is whether the reader can finish the first reading while maintaining meaning. If the passage requires constant correction or repeated word-by-word decoding, it is probably better suited to decoding instruction than repeated reading.
 
@@ -318,7 +318,7 @@ A simple practical test is whether the reader can finish the first reading while
 
 ## The 50-to-200-word sweet spot
 
-Repeated reading traditionally uses brief passages rather than full chapters or lengthy articles. The most commonly cited range is approximately 50 to 200 words. This length is long enough to establish rhythm and sentence flow, yet short enough for multiple rereadings within a single practice session. Institute of Education Sciences+2Institute of Education Sciences <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ies.ed.gov/ncee/wwc/Intervention/759" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ies.ed.gov">[ies.ed.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ies.ed.gov</span><span class="citation-popover-snippet">Institute of Education SciencesWWC &#124; Repeated ReadingTypically, the teacher selects a passage of about 50 to 200 words in length. If the...</span></span></span>
+Repeated reading traditionally uses brief passages rather than full chapters or lengthy articles. The most commonly cited range is approximately 50 to 200 words. This length is long enough to establish rhythm and sentence flow, yet short enough for multiple rereadings within a single practice session. Institute of Education Sciences+2Institute of Education Sciences<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ies.ed.gov/ncee/wwc/Intervention/759" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ies.ed.gov">[ies.ed.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ies.ed.gov</span><span class="citation-popover-snippet">Institute of Education SciencesWWC &#124; Repeated ReadingTypically, the teacher selects a passage of about 50 to 200 words in length. If the...</span></span></span>
 
 Short passages offer several advantages:
 
@@ -329,11 +329,11 @@ Short passages offer several advantages:
 * Readers can remember the overall meaning of the text.
 * Improvements in speed and expression are easier to notice.
 * Fatigue is reduced.
-* Several rereadings can occur before attention declines. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fivefromfive.com.au/fluency/evidence-based-fluency-instruction/repeated-reading/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fivefromfive.com.au">[Five from Five+2Shanahan on Literacy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fivefromfive.com.au</span><span class="citation-popover-title">repeated reading</span><span class="citation-popover-snippet">Five from FiveRepeated Reading6 Oct 2025 — Choose a passage that students can read with very few errors. · The passage should be readable...</span></span></span>
+* Several rereadings can occur before attention declines.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fivefromfive.com.au/fluency/evidence-based-fluency-instruction/repeated-reading/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fivefromfive.com.au">[Five from Five+2Shanahan on Literacy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fivefromfive.com.au</span><span class="citation-popover-title">repeated reading</span><span class="citation-popover-snippet">Five from FiveRepeated Reading6 Oct 2025 — Choose a passage that students can read with very few errors. · The passage should be readable...</span></span></span>
 
 </div>
 
-A passage that can be completed in roughly one to two minutes is often ideal. By the second, third, or fourth reading, the reader should begin noticing fewer hesitations and smoother phrasing. That immediate sense of improvement is part of what makes repeated reading motivating. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fivefromfive.com.au/fluency/evidence-based-fluency-instruction/repeated-reading/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fivefromfive.com.au">[Five from Five]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fivefromfive.com.au</span><span class="citation-popover-title">repeated reading</span><span class="citation-popover-snippet">Five from FiveRepeated Reading6 Oct 2025 — Choose a passage that students can read with very few errors. · The passage should be readable...</span></span></span>
+A passage that can be completed in roughly one to two minutes is often ideal. By the second, third, or fourth reading, the reader should begin noticing fewer hesitations and smoother phrasing. That immediate sense of improvement is part of what makes repeated reading motivating.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fivefromfive.com.au/fluency/evidence-based-fluency-instruction/repeated-reading/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fivefromfive.com.au">[Five from Five]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fivefromfive.com.au</span><span class="citation-popover-title">repeated reading</span><span class="citation-popover-snippet">Five from FiveRepeated Reading6 Oct 2025 — Choose a passage that students can read with very few errors. · The passage should be readable...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zUMdtz-J_-A" title="Making Sense of ORF | A Teacher&#x27;s Guide to Fluency Assessment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zUMdtz-J_-A" target="_blank" rel="noopener noreferrer">Making Sense of ORF | A Teacher&#x27;s Guide to Fluency Assessment</a></p><p class="youtube-embed-meta">Channel: Reach All Readers with Anna Geiger &middot; Views: 1.9K &middot; Uploaded: February 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zUMdtz-J_-A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zUMdtz-J_-A">Open on YouTube</a></p></div></div></div>
@@ -361,9 +361,9 @@ An overloaded passage might contain:
 
 </div>
 
-In the first case, rereading removes friction. In the second, rereading mainly repeats confusion. The reader may become faster at recognising a handful of memorised words, but broader fluency gains are limited because too much effort remains tied up in decoding and problem-solving. Reading Rockets+2National Center on Improving Literacy <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[readingrockets.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsFluency: In DepthIndependent Level: Relatively easy for the student to read (at least 95% word accuracy). Instructional Le...</span></span></span>
+In the first case, rereading removes friction. In the second, rereading mainly repeats confusion. The reader may become faster at recognising a handful of memorised words, but broader fluency gains are limited because too much effort remains tied up in decoding and problem-solving. Reading Rockets+2National Center on Improving Literacy<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[readingrockets.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsFluency: In DepthIndependent Level: Relatively easy for the student to read (at least 95% word accuracy). Instructional Le...</span></span></span>
 
-One common mistake is assuming that harder passages automatically create larger gains. In practice, passages that are excessively difficult often produce more errors, more frustration, and weaker engagement. Studies examining instructional-level reading repeatedly find advantages over texts that are either too easy or too difficult. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/379939617_Assessing_an_Instructional_Level_During_Reading_Fluency_Interventions_A_Meta-Analysis_of_the_Effects_on_Reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">A Meta-Analysis of the Effects on ReadingThe specific criterion of 93%-97% correctly read words has been consistently validat...</span></span></span>
+One common mistake is assuming that harder passages automatically create larger gains. In practice, passages that are excessively difficult often produce more errors, more frustration, and weaker engagement. Studies examining instructional-level reading repeatedly find advantages over texts that are either too easy or too difficult.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/379939617_Assessing_an_Instructional_Level_During_Reading_Fluency_Interventions_A_Meta-Analysis_of_the_Effects_on_Reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">A Meta-Analysis of the Effects on ReadingThe specific criterion of 93%-97% correctly read words has been consistently validat...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_repeated_read_e09228_passage_diffi_63e1d2-Illustration-2-dark.svg" | relative_url }}" alt="Passage fit illustration 2" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_repeated_read_e09228_passage_diffi_63e1d2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_repeated_read_e09228_passage_diffi_63e1d2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -373,15 +373,15 @@ Not every readable passage makes an equally good fluency passage. The strongest 
 
 ### Repeated vocabulary patterns
 
-Texts that revisit key words and phrases allow recognition to become increasingly automatic. As familiar words recur, attention shifts from identifying words to understanding sentences and ideas. This supports the development of reading rate without sacrificing accuracy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://centralreach.com/wp-content/uploads/2019/04/2006-Therrien-and-Kubina.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centralreach.com">[CentralReach]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centralreach.com</span><span class="citation-popover-title">2006 Therrien and Kubina</span><span class="citation-popover-snippet">Previous research has shown that...</span></span></span>
+Texts that revisit key words and phrases allow recognition to become increasingly automatic. As familiar words recur, attention shifts from identifying words to understanding sentences and ideas. This supports the development of reading rate without sacrificing accuracy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://centralreach.com/wp-content/uploads/2019/04/2006-Therrien-and-Kubina.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centralreach.com">[CentralReach]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centralreach.com</span><span class="citation-popover-title">2006 Therrien and Kubina</span><span class="citation-popover-snippet">Previous research has shown that...</span></span></span>
 
 ### Natural sentence rhythm
 
-Dialogue, narrative passages, and well-structured informational texts often reward rereading because punctuation and phrasing become clearer each time. Readers begin to group words into meaningful units instead of processing one word at a time. Fluency researchers describe this expressive, phrase-based reading as an important component of skilled reading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://improvingliteracy.org/resource/how-to-build-fluency-with-text-in-your-classroom/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: improvingliteracy.org">[National Center on Improving Literacy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">improvingliteracy.org</span><span class="citation-popover-snippet">National Center on Improving LiteracyHow to Build Fluency with Text in Your Classroom - NCILFluency in oral reading includes: accuracy, w...</span></span></span>
+Dialogue, narrative passages, and well-structured informational texts often reward rereading because punctuation and phrasing become clearer each time. Readers begin to group words into meaningful units instead of processing one word at a time. Fluency researchers describe this expressive, phrase-based reading as an important component of skilled reading.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://improvingliteracy.org/resource/how-to-build-fluency-with-text-in-your-classroom/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: improvingliteracy.org">[National Center on Improving Literacy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">improvingliteracy.org</span><span class="citation-popover-snippet">National Center on Improving LiteracyHow to Build Fluency with Text in Your Classroom - NCILFluency in oral reading includes: accuracy, w...</span></span></span>
 
 ### Clear meaning
 
-A passage should make sense. If readers understand the topic and can follow the ideas, each rereading strengthens both fluency and comprehension. When meaning remains opaque, improvements in speed are less meaningful because cognitive effort is still devoted to figuring out what the text is about. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://improvingliteracy.org/resource/how-to-build-fluency-with-text-in-your-classroom/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: improvingliteracy.org">[National Center on Improving Literacy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">improvingliteracy.org</span><span class="citation-popover-snippet">National Center on Improving LiteracyHow to Build Fluency with Text in Your Classroom - NCILFluency in oral reading includes: accuracy, w...</span></span></span>
+A passage should make sense. If readers understand the topic and can follow the ideas, each rereading strengthens both fluency and comprehension. When meaning remains opaque, improvements in speed are less meaningful because cognitive effort is still devoted to figuring out what the text is about.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://improvingliteracy.org/resource/how-to-build-fluency-with-text-in-your-classroom/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: improvingliteracy.org">[National Center on Improving Literacy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">improvingliteracy.org</span><span class="citation-popover-snippet">National Center on Improving LiteracyHow to Build Fluency with Text in Your Classroom - NCILFluency in oral reading includes: accuracy, w...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/a6pzReV7pqI" title="READ3302-Thinking about Students&#x27; Independent, Instructional and Frustration Levels" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=a6pzReV7pqI" target="_blank" rel="noopener noreferrer">READ3302-Thinking about Students&#x27; Independent, Instructional and Frustration Levels</a></p><p class="youtube-embed-meta">Channel: DrCaitlinLRyan &middot; Views: 2.7K &middot; Uploaded: May 2013 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=a6pzReV7pqI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=a6pzReV7pqI">Open on YouTube</a></p></div></div></div>
@@ -405,191 +405,191 @@ Even a passage that looks appropriate on paper may prove unsuitable during pract
 
 </div>
 
-When these signs appear, changing the passage is often more effective than increasing the number of repetitions. Repeated reading is intended to build successful reading experiences, not endurance through difficulty. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets+2ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsFluency: In DepthIndependent Level: Relatively easy for the student to read (at least 95% word accuracy). Instructional Le...</span></span></span>
+When these signs appear, changing the passage is often more effective than increasing the number of repetitions. Repeated reading is intended to build successful reading experiences, not endurance through difficulty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets+2ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsFluency: In DepthIndependent Level: Relatively easy for the student to read (at least 95% word accuracy). Instructional Le...</span></span></span>
 
-By contrast, a well-matched passage usually produces a predictable pattern: the first reading is careful, the second is smoother, and later readings become increasingly accurate, expressive, and efficient. That progression is a strong indication that the text is operating at the right level of challenge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/classroom/classroom-strategies/timed-repeated-readings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsTimed Repeated ReadingsRepeated readings, under timed conditions, of familiar instructional level text can increase studen...</span></span></span>
+By contrast, a well-matched passage usually produces a predictable pattern: the first reading is careful, the second is smoother, and later readings become increasingly accurate, expressive, and efficient. That progression is a strong indication that the text is operating at the right level of challenge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/classroom/classroom-strategies/timed-repeated-readings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsTimed Repeated ReadingsRepeated readings, under timed conditions, of familiar instructional level text can increase studen...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_repeated_read_e09228_passage_diffi_63e1d2-Illustration-3-dark.svg" | relative_url }}" alt="Passage fit illustration 3" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_repeated_read_e09228_passage_diffi_63e1d2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_repeated_read_e09228_passage_diffi_63e1d2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Matching passage choice to the goal of increasing reading speed
 
-For readers using repeated reading to increase reading speed, passage selection should prioritise fluency growth rather than maximum difficulty. The goal is to create conditions where word recognition becomes more automatic and attention can shift towards phrasing and meaning. Research-based fluency programmes consistently centre on short passages, generally 50–200 words long, read with high levels of accuracy and repeated until performance becomes smoother. Institute of Education Sciences+2Institute of Education Sciences <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ies.ed.gov/ncee/wwc/Intervention/759" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ies.ed.gov">[ies.ed.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ies.ed.gov</span><span class="citation-popover-snippet">Institute of Education SciencesWWC &#124; Repeated ReadingTypically, the teacher selects a passage of about 50 to 200 words in length. If the...</span></span></span>
+For readers using repeated reading to increase reading speed, passage selection should prioritise fluency growth rather than maximum difficulty. The goal is to create conditions where word recognition becomes more automatic and attention can shift towards phrasing and meaning. Research-based fluency programmes consistently centre on short passages, generally 50–200 words long, read with high levels of accuracy and repeated until performance becomes smoother. Institute of Education Sciences+2Institute of Education Sciences<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ies.ed.gov/ncee/wwc/Intervention/759" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ies.ed.gov">[ies.ed.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ies.ed.gov</span><span class="citation-popover-snippet">Institute of Education SciencesWWC &#124; Repeated ReadingTypically, the teacher selects a passage of about 50 to 200 words in length. If the...</span></span></span>
 
-The most effective passage is therefore neither easy enough to be effortless nor difficult enough to trigger constant errors. It sits in the middle: short, understandable, slightly demanding, and capable of sounding noticeably better with each rereading. That balance is what allows repeated reading to build fluency without frustration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets+2Five from Five]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsFluency: In DepthIndependent Level: Relatively easy for the student to read (at least 95% word accuracy). Instructional Le...</span></span></span>
+The most effective passage is therefore neither easy enough to be effortless nor difficult enough to trigger constant errors. It sits in the middle: short, understandable, slightly demanding, and capable of sounding noticeably better with each rereading. That balance is what allows repeated reading to build fluency without frustration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets+2Five from Five]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsFluency: In DepthIndependent Level: Relatively easy for the student to read (at least 95% word accuracy). Instructional Le...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How hard should a rereading passage be?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How hard should a rereading passage be?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Provides context for improving reading effectiveness.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Provides context for improving reading effectiveness.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Reading+Strategies+Book+Jennifer+Serravallo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Reading Strategies Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7400188-M.jpg" alt="Cover for The Reading Strategies Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Reading+Strategies+Book+Jennifer+Serravallo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Reading Strategies Book">The Reading Strategies Book</a>
-        </h4>
-        <p class="fr-book-author">By Jennifer Serravallo</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Reading+Strategies+Book+Jennifer+Serravallo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Reading Strategies Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7400188-M.jpg" alt="Cover for The Reading Strategies Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Reading+Strategies+Book+Jennifer+Serravallo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Reading Strategies Book">The Reading Strategies Book</a>
+</h4>
+<p class="fr-book-author">By Jennifer Serravallo</p>
         
-        <p class="fr-book-desc">First published 2015. Subjects: Reading, Books and reading, nyt:education=2016-03-13, New York Times bestseller.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Reading+Strategies+Book+Jennifer+Serravallo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2015. Subjects: Reading, Books and reading, nyt:education=2016-03-13, New York Times bestseller.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Reading+Strategies+Book+Jennifer+Serravallo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Megabook+of+Fluency+Timothy+V.+Rasinski%3BMelissa+Cheesman+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Megabook of Fluency on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8825334-M.jpg" alt="Cover for The Megabook of Fluency" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Megabook+of+Fluency+Timothy+V.+Rasinski%3BMelissa+Cheesman+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Megabook of Fluency">The Megabook of Fluency</a>
-        </h4>
-        <p class="fr-book-author">By Timothy V. Rasinski;Melissa Cheesman Smith</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Megabook+of+Fluency+Timothy+V.+Rasinski%3BMelissa+Cheesman+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Megabook of Fluency on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8825334-M.jpg" alt="Cover for The Megabook of Fluency" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Megabook+of+Fluency+Timothy+V.+Rasinski%3BMelissa+Cheesman+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Megabook of Fluency">The Megabook of Fluency</a>
+</h4>
+<p class="fr-book-author">By Timothy V. Rasinski;Melissa Cheesman Smith</p>
         
-        <p class="fr-book-desc">First published 2018. Subjects: Language arts (elementary), Teaching, aids and devices.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Megabook+of+Fluency+Timothy+V.+Rasinski%3BMelissa+Cheesman+Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2018. Subjects: Language arts (elementary), Teaching, aids and devices.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Megabook+of+Fluency+Timothy+V.+Rasinski%3BMelissa+Cheesman+Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The fluent reader on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fluent reader">The fluent reader</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The fluent reader on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fluent reader">The fluent reader</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Explains selecting appropriately challenging texts for fluency practice.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains selecting appropriately challenging texts for fluency practice.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Reading+Strategies+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Reading Strategies Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Megabook+of+Fluency&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Megabook of Fluency</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Reading+Strategies+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Reading Strategies Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Megabook+of+Fluency&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Megabook of Fluency</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=passage-fit-how-hard-should-a-rereading-passage-be-increasing-make-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="passage-fit-how-hard-should-a-rereading-passage-be-increasing-make-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Coffee Types Poster Kitchen Art Coffee Chart 38 Ways To Make Coffee Drinks Guide"><img src="{{ '/assets/images/marketplace-covers/6ffc97f0604fe5b3fccf.jpg' | relative_url }}" alt="Listing image for Coffee Types Poster Kitchen Art Coffee Chart 38 Ways To Make Coffee Drinks Guide" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=passage-fit-how-hard-should-a-rereading-passage-be-increasing-make-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="passage-fit-how-hard-should-a-rereading-passage-be-increasing-make-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Coffee Types Poster Kitchen Art Coffee Chart 38 Ways To Make Coffee Drinks Guide</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=passage-fit-how-hard-should-a-rereading-passage-be-increasing-make-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="passage-fit-how-hard-should-a-rereading-passage-be-increasing-make-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for make poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: make poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=passage-fit-how-hard-should-a-rereading-passage-be-increasing-make-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="passage-fit-how-hard-should-a-rereading-passage-be-increasing-make-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=passage-fit-how-hard-should-a-rereading-passage-be-increasing-make-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="passage-fit-how-hard-should-a-rereading-passage-be-increasing-make-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Coffee Types Poster Kitchen Art Coffee Chart 38 Ways To Make Coffee Drinks Guide"><img src="{{ '/assets/images/marketplace-covers/6ffc97f0604fe5b3fccf.jpg' | relative_url }}" alt="Listing image for Coffee Types Poster Kitchen Art Coffee Chart 38 Ways To Make Coffee Drinks Guide" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=passage-fit-how-hard-should-a-rereading-passage-be-increasing-make-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="passage-fit-how-hard-should-a-rereading-passage-be-increasing-make-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Coffee Types Poster Kitchen Art Coffee Chart 38 Ways To Make Coffee Drinks Guide</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=passage-fit-how-hard-should-a-rereading-passage-be-increasing-make-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="passage-fit-how-hard-should-a-rereading-passage-be-increasing-make-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for make poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: make poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=passage-fit-how-hard-should-a-rereading-passage-be-increasing-make-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="passage-fit-how-hard-should-a-rereading-passage-be-increasing-make-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=passage-fit-how-hard-should-a-rereading-passage-be-increasing-make-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="passage-fit-how-hard-should-a-rereading-passage-be-increasing-make-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DO THINGS THAT MAKE YOU HAPPY, QUOTE -FRAMED WALL ART POSTER PAPER PRINT"><img src="{{ '/assets/images/marketplace-covers/b3c625087de5058ddfce.jpg' | relative_url }}" alt="Listing image for DO THINGS THAT MAKE YOU HAPPY, QUOTE -FRAMED WALL ART POSTER PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=passage-fit-how-hard-should-a-rereading-passage-be-increasing-make-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="passage-fit-how-hard-should-a-rereading-passage-be-increasing-make-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">DO THINGS THAT MAKE YOU HAPPY, QUOTE -FRAMED WALL ART POSTER PAPER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=passage-fit-how-hard-should-a-rereading-passage-be-increasing-make-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="passage-fit-how-hard-should-a-rereading-passage-be-increasing-make-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for make poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: make poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=passage-fit-how-hard-should-a-rereading-passage-be-increasing-make-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="passage-fit-how-hard-should-a-rereading-passage-be-increasing-make-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=passage-fit-how-hard-should-a-rereading-passage-be-increasing-make-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="passage-fit-how-hard-should-a-rereading-passage-be-increasing-make-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DO THINGS THAT MAKE YOU HAPPY, QUOTE -FRAMED WALL ART POSTER PAPER PRINT"><img src="{{ '/assets/images/marketplace-covers/b3c625087de5058ddfce.jpg' | relative_url }}" alt="Listing image for DO THINGS THAT MAKE YOU HAPPY, QUOTE -FRAMED WALL ART POSTER PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=passage-fit-how-hard-should-a-rereading-passage-be-increasing-make-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="passage-fit-how-hard-should-a-rereading-passage-be-increasing-make-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">DO THINGS THAT MAKE YOU HAPPY, QUOTE -FRAMED WALL ART POSTER PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=passage-fit-how-hard-should-a-rereading-passage-be-increasing-make-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="passage-fit-how-hard-should-a-rereading-passage-be-increasing-make-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for make poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: make poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=passage-fit-how-hard-should-a-rereading-passage-be-increasing-make-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="passage-fit-how-hard-should-a-rereading-passage-be-increasing-make-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=passage-fit-how-hard-should-a-rereading-passage-be-increasing-make-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="passage-fit-how-hard-should-a-rereading-passage-be-increasing-make-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MD04 MAKE DO AND MEND VINTAGE WAR POSTER A2 PRINT"><img src="{{ '/assets/images/marketplace-covers/ac6c977885a53ae8413b.jpg' | relative_url }}" alt="Listing image for MD04 MAKE DO AND MEND VINTAGE WAR POSTER A2 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=passage-fit-how-hard-should-a-rereading-passage-be-increasing-make-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="passage-fit-how-hard-should-a-rereading-passage-be-increasing-make-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">MD04 MAKE DO AND MEND VINTAGE WAR POSTER A2 PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=passage-fit-how-hard-should-a-rereading-passage-be-increasing-make-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="passage-fit-how-hard-should-a-rereading-passage-be-increasing-make-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for make poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: make poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=passage-fit-how-hard-should-a-rereading-passage-be-increasing-make-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="passage-fit-how-hard-should-a-rereading-passage-be-increasing-make-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=passage-fit-how-hard-should-a-rereading-passage-be-increasing-make-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="passage-fit-how-hard-should-a-rereading-passage-be-increasing-make-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=passage-fit-how-hard-should-a-rereading-passage-be-increasing-make-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="passage-fit-how-hard-should-a-rereading-passage-be-increasing-make-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MD04 MAKE DO AND MEND VINTAGE WAR POSTER A2 PRINT"><img src="{{ '/assets/images/marketplace-covers/ac6c977885a53ae8413b.jpg' | relative_url }}" alt="Listing image for MD04 MAKE DO AND MEND VINTAGE WAR POSTER A2 PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=passage-fit-how-hard-should-a-rereading-passage-be-increasing-make-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="passage-fit-how-hard-should-a-rereading-passage-be-increasing-make-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">MD04 MAKE DO AND MEND VINTAGE WAR POSTER A2 PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=passage-fit-how-hard-should-a-rereading-passage-be-increasing-make-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="passage-fit-how-hard-should-a-rereading-passage-be-increasing-make-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for make poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: make poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=passage-fit-how-hard-should-a-rereading-passage-be-increasing-make-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="passage-fit-how-hard-should-a-rereading-passage-be-increasing-make-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=passage-fit-how-hard-should-a-rereading-passage-be-increasing-make-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="passage-fit-how-hard-should-a-rereading-passage-be-increasing-make-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -605,7 +605,7 @@ The most effective passage is therefore neither easy enough to be effortless nor
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -625,7 +625,7 @@ The most effective passage is therefore neither easy enough to be effortless nor
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -657,7 +657,7 @@ The most effective passage is therefore neither easy enough to be effortless nor
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -709,7 +709,7 @@ The most effective passage is therefore neither easy enough to be effortless nor
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -754,7 +754,7 @@ The most effective passage is therefore neither easy enough to be effortless nor
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -795,184 +795,184 @@ The most effective passage is therefore neither easy enough to be effortless nor
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: files.eric.ed.gov  
    Title: ERICAssessing Reading Fluency  
-   Link: <a href="https://files.eric.ed.gov/fulltext/ED483166.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/ED483166.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Fluency - ERIC - Department of Educationby TV Rasinski · 2004 · Cited by 660 — Those readers who score below 90% in word accuracy...</p></details>
+   Link:<a href="https://files.eric.ed.gov/fulltext/ED483166.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/ED483166.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Fluency - ERIC - Department of Educationby TV Rasinski · 2004 · Cited by 660 — Those readers who score below 90% in word accuracy...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5097019/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5097019/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by EA Stevens · 2016 · Cited by 376 — Guided oral repeated reading (RR) with teacher or peer feedback was identified as an effective m...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5097019/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5097019/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by EA Stevens · 2016 · Cited by 376 — Guided oral repeated reading (RR) with teacher or peer feedback was identified as an effective m...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/379939617_Assessing_an_Instructional_Level_During_Reading_Fluency_Interventions_A_Meta-Analysis_of_the_Effects_on_Reading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/379939617_Assessing_an_Instructional_Level_During_Reading_Fluency_Interventions_A_Meta-Analysis_of_the_Effects_on_Reading</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Meta-Analysis of the Effects on ReadingThe specific criterion of 93%-97% correctly read words has been consistently validat...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/379939617_Assessing_an_Instructional_Level_During_Reading_Fluency_Interventions_A_Meta-Analysis_of_the_Effects_on_Reading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/379939617_Assessing_an_Instructional_Level_During_Reading_Fluency_Interventions_A_Meta-Analysis_of_the_Effects_on_Reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Meta-Analysis of the Effects on ReadingThe specific criterion of 93%-97% correctly read words has been consistently validat...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: centralreach.com  
    Title: 2006 Therrien and Kubina  
-   Link: <a href="https://centralreach.com/wp-content/uploads/2019/04/2006-Therrien-and-Kubina.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centralreach.com/wp-content/uploads/2019/04/2006-Therrien-and-Kubina.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Previous research has shown that...</p></details>
+   Link:<a href="https://centralreach.com/wp-content/uploads/2019/04/2006-Therrien-and-Kubina.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centralreach.com/wp-content/uploads/2019/04/2006-Therrien-and-Kubina.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Previous research has shown that...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/399581970_The_Effects_of_Repeated_Reading_Interventions_on_the_Oral_Reading_Fluency_of_Middle_School_Students_With_Reading_Difficulties_and_Disabilities" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399581970_The_Effects_of_Repeated_Reading_Interventions_on_the_Oral_Reading_Fluency_of_Middle_School_Students_With_Reading_Difficulties_and_Disabilities</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>However, this review indicated that repeated reading...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/399581970_The_Effects_of_Repeated_Reading_Interventions_on_the_Oral_Reading_Fluency_of_Middle_School_Students_With_Reading_Difficulties_and_Disabilities" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399581970_The_Effects_of_Repeated_Reading_Interventions_on_the_Oral_Reading_Fluency_of_Middle_School_Students_With_Reading_Difficulties_and_Disabilities</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, this review indicated that repeated reading...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/371706464_Effects_of_a_Repeated_Reading_Intervention_Delivered_Online_to_Upper_Elementary_Students" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371706464_Effects_of_a_Repeated_Reading_Intervention_Delivered_Online_to_Upper_Elementary_Students</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>However, little research has examined...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/371706464_Effects_of_a_Repeated_Reading_Intervention_Delivered_Online_to_Upper_Elementary_Students" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371706464_Effects_of_a_Repeated_Reading_Intervention_Delivered_Online_to_Upper_Elementary_Students</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, little research has examined...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsFluency: In DepthIndependent Level: Relatively easy for the student to read (at least 95% word accuracy). Instructional Le...</p></details>
+   Link:<a href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsFluency: In DepthIndependent Level: Relatively easy for the student to read (at least 95% word accuracy). Instructional Le...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/topics/fluency/articles/fluency-introduction" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/fluency/articles/fluency-introduction</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsFluency: An IntroductionRelatively easy for the student to read (95% word accuracyThe ability to read words correctly.)...</p></details>
+   Link:<a href="https://www.readingrockets.org/topics/fluency/articles/fluency-introduction" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/fluency/articles/fluency-introduction</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsFluency: An IntroductionRelatively easy for the student to read (95% word accuracyThe ability to read words correctly.)...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/classroom/classroom-strategies/timed-repeated-readings" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/classroom/classroom-strategies/timed-repeated-readings</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsTimed Repeated ReadingsRepeated readings, under timed conditions, of familiar instructional level text can increase studen...</p></details>
+   Link:<a href="https://www.readingrockets.org/classroom/classroom-strategies/timed-repeated-readings" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/classroom/classroom-strategies/timed-repeated-readings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsTimed Repeated ReadingsRepeated readings, under timed conditions, of familiar instructional level text can increase studen...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: improvingliteracy.org  
-   Link: <a href="https://improvingliteracy.org/resource/how-to-build-fluency-with-text-in-your-classroom/" target="_blank" rel="noopener noreferrer nofollow">https://improvingliteracy.org/resource/how-to-build-fluency-with-text-in-your-classroom/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Center on Improving LiteracyHow to Build Fluency with Text in Your Classroom - NCILFluency in [oral reading](&amp;#123;&amp;#123; &#x27;reading-aloud/&#x27; | relative_url &amp;#125;&amp;#125;) includes: accuracy, w...</p></details>
+   Link:<a href="https://improvingliteracy.org/resource/how-to-build-fluency-with-text-in-your-classroom/" target="_blank" rel="noopener noreferrer nofollow">https://improvingliteracy.org/resource/how-to-build-fluency-with-text-in-your-classroom/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Center on Improving LiteracyHow to Build Fluency with Text in Your Classroom - NCILFluency in [oral reading](&amp;#123;&amp;#123; &#x27;reading-aloud/&#x27; | relative_url &amp;#125;&amp;#125;) includes: accuracy, w...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: shanahanonliteracy.com  
    Title: the instructional level concept revisited teaching with complex text  
-   Link: <a href="https://www.shanahanonliteracy.com/blog/the-instructional-level-concept-revisited-teaching-with-complex-text" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/the-instructional-level-concept-revisited-teaching-with-complex-text</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Instructional Level Concept RevisitedFeb 7, 2017 — He claimed that the study showed that if you matched kids to text using the criter...</p></details>
+   Link:<a href="https://www.shanahanonliteracy.com/blog/the-instructional-level-concept-revisited-teaching-with-complex-text" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/the-instructional-level-concept-revisited-teaching-with-complex-text</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Instructional Level Concept RevisitedFeb 7, 2017 — He claimed that the study showed that if you matched kids to text using the criter...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ies.ed.gov  
-   Link: <a href="https://ies.ed.gov/ncee/wwc/Intervention/759" target="_blank" rel="noopener noreferrer nofollow">https://ies.ed.gov/ncee/wwc/Intervention/759</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Institute of Education SciencesWWC | Repeated ReadingTypically, the teacher selects a passage of about 50 to 200 words in length. If the...</p></details>
+   Link:<a href="https://ies.ed.gov/ncee/wwc/Intervention/759" target="_blank" rel="noopener noreferrer nofollow">https://ies.ed.gov/ncee/wwc/Intervention/759</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Institute of Education SciencesWWC | Repeated ReadingTypically, the teacher selects a passage of about 50 to 200 words in length. If the...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ies.ed.gov  
    Title: Institute of Education Sciences WWC | Repeated Reading  
-   Link: <a href="https://ies.ed.gov/ncee/wwc/EvidenceSnapshot/576" target="_blank" rel="noopener noreferrer nofollow">https://ies.ed.gov/ncee/wwc/EvidenceSnapshot/576</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Typically, the teacher selects a passage of about 50 to 200 words in...</p></details>
+   Link:<a href="https://ies.ed.gov/ncee/wwc/EvidenceSnapshot/576" target="_blank" rel="noopener noreferrer nofollow">https://ies.ed.gov/ncee/wwc/EvidenceSnapshot/576</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Typically, the teacher selects a passage of about 50 to 200 words in...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: fivefromfive.com.au  
    Title: repeated reading  
-   Link: <a href="https://fivefromfive.com.au/fluency/evidence-based-fluency-instruction/repeated-reading/" target="_blank" rel="noopener noreferrer nofollow">https://fivefromfive.com.au/fluency/evidence-based-fluency-instruction/repeated-reading/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Five from FiveRepeated Reading6 Oct 2025 — Choose a passage that students can read with very few errors. · The passage should be readable...</p></details>
+   Link:<a href="https://fivefromfive.com.au/fluency/evidence-based-fluency-instruction/repeated-reading/" target="_blank" rel="noopener noreferrer nofollow">https://fivefromfive.com.au/fluency/evidence-based-fluency-instruction/repeated-reading/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Five from FiveRepeated Reading6 Oct 2025 — Choose a passage that students can read with very few errors. · The passage should be readable...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: shanahanonliteracy.com  
-   Link: <a href="https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Everything You Wanted to Know about Repeated ReadingIn this approach, students are asked to read aloud short text passages (50-200 words)...</p></details>
+   Link:<a href="https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Everything You Wanted to Know about Repeated ReadingIn this approach, students are asked to read aloud short text passages (50-200 words)...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: shanahanonliteracy.com  
-   Link: <a href="https://www.shanahanonliteracy.com/blog/the-instructional-level-concept-revisited-teaching-with-complex-text-1" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/the-instructional-level-concept-revisited-teaching-with-complex-text-1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Instructional Level Concept Revisited: Teaching with...Mar 23, 2024 — One of Linnea Ehri&#x27;s studies found that the kids who did best...</p></details>
+   Link:<a href="https://www.shanahanonliteracy.com/blog/the-instructional-level-concept-revisited-teaching-with-complex-text-1" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/the-instructional-level-concept-revisited-teaching-with-complex-text-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Instructional Level Concept Revisited: Teaching with...Mar 23, 2024 — One of Linnea Ehri&#x27;s studies found that the kids who did best...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: shanahanonliteracy.com  
    Title: teaching fluency faqs  
-   Link: <a href="https://www.shanahanonliteracy.com/blog/teaching-fluency-faqs" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/teaching-fluency-faqs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>27 July 2024 — Find comprehensive answers to Teaching Fluency FAQs at Shanahan on Literacy. Elevate your teaching methods with expert gui...</p></details>
+   Link:<a href="https://www.shanahanonliteracy.com/blog/teaching-fluency-faqs" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/teaching-fluency-faqs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>27 July 2024 — Find comprehensive answers to Teaching Fluency FAQs at Shanahan on Literacy. Elevate your teaching methods with expert gui...</p></details>
    Published: July 2024  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: usefluency.com  
-   Link: <a href="https://usefluency.com/" target="_blank" rel="noopener noreferrer nofollow">https://usefluency.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>From processes, handoffs, and bottlenecks to patterns and [exceptions](&amp;#123;&amp;#123; &#x27;exceptions/&#x27; | relative_url &amp;#125;&amp;#125;). Read more...</p></details>
+   Link:<a href="https://usefluency.com/" target="_blank" rel="noopener noreferrer nofollow">https://usefluency.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From processes, handoffs, and bottlenecks to patterns and [exceptions](&amp;#123;&amp;#123; &#x27;exceptions/&#x27; | relative_url &amp;#125;&amp;#125;). Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8500173/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8500173/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Interventions for Struggling Readers in Grades 6 to 12by PK Steinle · 2021 · Cited by 46 — Most studies examined repeated reading (RR) in...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8500173/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8500173/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Interventions for Struggling Readers in Grades 6 to 12by PK Steinle · 2021 · Cited by 46 — Most studies examined repeated reading (RR) in...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3071517/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3071517/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>in the Relationship of Oral Reading Fluency and...by J Wanzek · 2010 · Cited by 67 — The current study examined the predictive validity...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3071517/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3071517/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in the Relationship of Oral Reading Fluency and...by J Wanzek · 2010 · Cited by 67 — The current study examined the predictive validity...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3320221/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3320221/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>synthesis of fluency interventions for secondary struggling...by J Wexler · 2008 · Cited by 241 — In this study, the authors used a comp...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3320221/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3320221/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>synthesis of fluency interventions for secondary struggling...by J Wexler · 2008 · Cited by 241 — In this study, the authors used a comp...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/topics/curriculum-and-instruction/articles/what-guided-oral-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/curriculum-and-instruction/articles/what-guided-oral-reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>including fluency.Read more...</p></details>
+   Link:<a href="https://www.readingrockets.org/topics/curriculum-and-instruction/articles/what-guided-oral-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/curriculum-and-instruction/articles/what-guided-oral-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>including fluency.Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: fivefromfive.com.au  
-   Link: <a href="https://fivefromfive.com.au/fluency/components-of-fluency/" target="_blank" rel="noopener noreferrer nofollow">https://fivefromfive.com.au/fluency/components-of-fluency/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ponents of fluencyText or passage reading fluency is generally defined as having three components: accuracy, rate, and prosody (or exp...</p></details>
+   Link:<a href="https://fivefromfive.com.au/fluency/components-of-fluency/" target="_blank" rel="noopener noreferrer nofollow">https://fivefromfive.com.au/fluency/components-of-fluency/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ponents of fluencyText or passage reading fluency is generally defined as having three components: accuracy, rate, and prosody (or exp...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: fivefromfive.com.au  
-   Link: <a href="https://fivefromfive.com.au/fluency/assessing-fluency/" target="_blank" rel="noopener noreferrer nofollow">https://fivefromfive.com.au/fluency/assessing-fluency/</a>  
+   Link:<a href="https://fivefromfive.com.au/fluency/assessing-fluency/" target="_blank" rel="noopener noreferrer nofollow">https://fivefromfive.com.au/fluency/assessing-fluency/</a>  
 
 ### Additional References
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: mdpi-res.com  
-   Link: <a href="https://mdpi-res.com/bookfiles/book/3337/Reading_Fluency.pdf?v=1778634232" target="_blank" rel="noopener noreferrer nofollow">https://mdpi-res.com/bookfiles/book/3337/Reading_Fluency.pdf?v=1778634232</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading FluencyThis is a reprint of articles from the Special Issue published online in the open access journal. Education Sciences (ISSN...</p></details>
+   Link:<a href="https://mdpi-res.com/bookfiles/book/3337/Reading_Fluency.pdf?v=1778634232" target="_blank" rel="noopener noreferrer nofollow">https://mdpi-res.com/bookfiles/book/3337/Reading_Fluency.pdf?v=1778634232</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading FluencyThis is a reprint of articles from the Special Issue published online in the open access journal. Education Sciences (ISSN...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: nifdi.org  
-   Link: <a href="https://www.nifdi.org/programs/reading/88-news/kerry-hempenstall/398-fluency-its-significance-and-promotion.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nifdi.org/programs/reading/88-news/kerry-hempenstall/398-fluency-its-significance-and-promotion.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading fluency: Its significance and promotionResults indicate that a word recognition accuracy range of 98-100% and an automaticity ran...</p></details>
+   Link:<a href="https://www.nifdi.org/programs/reading/88-news/kerry-hempenstall/398-fluency-its-significance-and-promotion.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nifdi.org/programs/reading/88-news/kerry-hempenstall/398-fluency-its-significance-and-promotion.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading fluency: Its significance and promotionResults indicate that a word recognition accuracy range of 98-100% and an automaticity ran...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: readnaturally.com  
-   Link: <a href="https://www.readnaturally.com/research" target="_blank" rel="noopener noreferrer nofollow">https://www.readnaturally.com/research</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Research-Based Reading InterventionsRead Naturally interventions work because they provide evidence-based instruction that accelerates re...</p></details>
+   Link:<a href="https://www.readnaturally.com/research" target="_blank" rel="noopener noreferrer nofollow">https://www.readnaturally.com/research</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Research-Based Reading InterventionsRead Naturally interventions work because they provide evidence-based instruction that accelerates re...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: allohio.org  
-   Link: <a href="https://allohio.org/wp-content/uploads/2025/03/PL10-Module-Resource-Guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://allohio.org/wp-content/uploads/2025/03/PL10-Module-Resource-Guide.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>teaching for reading fluencyThe reading fluency “sweet spot” is a rate (words per minute) between the 50th and 75th percentile on timed o...</p></details>
+   Link:<a href="https://allohio.org/wp-content/uploads/2025/03/PL10-Module-Resource-Guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://allohio.org/wp-content/uploads/2025/03/PL10-Module-Resource-Guide.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>teaching for reading fluencyThe reading fluency “sweet spot” is a rate (words per minute) between the 50th and 75th percentile on timed o...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: literacyworldwide.org  
-   Link: <a href="https://www.literacyworldwide.org/docs/default-source/where-we-stand/ila-reading-fluently-does-not-mean-reading-fast.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.literacyworldwide.org/docs/default-source/where-we-stand/ila-reading-fluently-does-not-mean-reading-fast.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Fluently Does Not Mean Reading FastResearch suggests that for younger emerging readers, acceptable levels for accuracy should be...</p></details>
+   Link:<a href="https://www.literacyworldwide.org/docs/default-source/where-we-stand/ila-reading-fluently-does-not-mean-reading-fast.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.literacyworldwide.org/docs/default-source/where-we-stand/ila-reading-fluently-does-not-mean-reading-fast.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Fluently Does Not Mean Reading FastResearch suggests that for younger emerging readers, acceptable levels for accuracy should be...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: education.ohio.gov  
    Title: 15. How-to Step 1: Provide a [purpose](&#123;&#123; 'purpose/' | relative_url &#125;&#125;) for each repeated  
-   Link: <a href="https://education.ohio.gov/getattachment/Topics/Learning-in-Ohio/Literacy/Literacy-Academy/2023-Literacy-Academy/Providing-Reading-Interventions-for-Students-Gd-4-9-OH-Literacy-Academy-1.pdf.aspx?lang=en-US" target="_blank" rel="noopener noreferrer nofollow">https://education.ohio.gov/getattachment/Topics/Learning-in-Ohio/Literacy/Literacy-Academy/2023-Literacy-Academy/Providing-Reading-Interventions-for-Students-Gd-4-9-OH-Literacy-Academy-1.pdf.aspx?lang=en-US</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Works Clearinghouse Practice Guide on Providing...Recommendation 2: Provide purposeful fluency-building activities to help students read...</p></details>
+   Link:<a href="https://education.ohio.gov/getattachment/Topics/Learning-in-Ohio/Literacy/Literacy-Academy/2023-Literacy-Academy/Providing-Reading-Interventions-for-Students-Gd-4-9-OH-Literacy-Academy-1.pdf.aspx?lang=en-US" target="_blank" rel="noopener noreferrer nofollow">https://education.ohio.gov/getattachment/Topics/Learning-in-Ohio/Literacy/Literacy-Academy/2023-Literacy-Academy/Providing-Reading-Interventions-for-Students-Gd-4-9-OH-Literacy-Academy-1.pdf.aspx?lang=en-US</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Works Clearinghouse Practice Guide on Providing...Recommendation 2: Provide purposeful fluency-building activities to help students read...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: nysrti.org  
-   Link: <a href="https://nysrti.org/intervention-tools/reading-tools/tool%3Arepeated-reading/" target="_blank" rel="noopener noreferrer nofollow">https://nysrti.org/intervention-tools/reading-tools/tool%3Arepeated-reading/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>If the student misreads a word or hesitates for longer than 5 seconds, the teacher...Read more...</p></details>
+   Link:<a href="https://nysrti.org/intervention-tools/reading-tools/tool%3Arepeated-reading/" target="_blank" rel="noopener noreferrer nofollow">https://nysrti.org/intervention-tools/reading-tools/tool%3Arepeated-reading/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>If the student misreads a word or hesitates for longer than 5 seconds, the teacher...Read more...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: council-for-learning-disabilities.org  
    Title: what is oral reading fluency verbal reading proficiency  
-   Link: <a href="https://council-for-learning-disabilities.org/what-is-oral-reading-fluency-verbal-reading-proficiency/" target="_blank" rel="noopener noreferrer nofollow">https://council-for-learning-disabilities.org/what-is-oral-reading-fluency-verbal-reading-proficiency/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Oral Reading Fluency28 Jan 2014 — Repeated Reading: students are asked to read short and meaningful passages until the desired level of f...</p></details>
+   Link:<a href="https://council-for-learning-disabilities.org/what-is-oral-reading-fluency-verbal-reading-proficiency/" target="_blank" rel="noopener noreferrer nofollow">https://council-for-learning-disabilities.org/what-is-oral-reading-fluency-verbal-reading-proficiency/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Oral Reading Fluency28 Jan 2014 — Repeated Reading: students are asked to read short and meaningful passages until the desired level of f...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: ila.onlinelibrary.wiley.com  
    Title: If students are scoring below 90% accuracy after  
-   Link: <a href="https://ila.onlinelibrary.wiley.com/doi/10.1002/trtr.1686" target="_blank" rel="noopener noreferrer nofollow">https://ila.onlinelibrary.wiley.com/doi/10.1002/trtr.1686</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Accuracy: Findings and Implications From...29 Jan 2018 — The goal is that they are scoring in the 95% and higher accuracy band a...</p></details>
+   Link:<a href="https://ila.onlinelibrary.wiley.com/doi/10.1002/trtr.1686" target="_blank" rel="noopener noreferrer nofollow">https://ila.onlinelibrary.wiley.com/doi/10.1002/trtr.1686</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Accuracy: Findings and Implications From...29 Jan 2018 — The goal is that they are scoring in the 95% and higher accuracy band a...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: 95percentgroup.com  
    Title: fluency strategies for lifelong learners  
-   Link: <a href="https://www.95percentgroup.com/insights/fluency-strategies-for-lifelong-learners/?srsltid=AfmBOorhkU9epVonnDQsoUdaApZWtsUvYkFjyrFiKnw2DnO4QKppe8zY" target="_blank" rel="noopener noreferrer nofollow">https://www.95percentgroup.com/insights/fluency-strategies-for-lifelong-learners/?srsltid=AfmBOorhkU9epVonnDQsoUdaApZWtsUvYkFjyrFiKnw2DnO4QKppe8zY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nov 4, 2024 — We&#x27;ll go over the importance of fluency and examine nine science-backed reading fluency strategies designed to help in the...</p></details>
+   Link:<a href="https://www.95percentgroup.com/insights/fluency-strategies-for-lifelong-learners/?srsltid=AfmBOorhkU9epVonnDQsoUdaApZWtsUvYkFjyrFiKnw2DnO4QKppe8zY" target="_blank" rel="noopener noreferrer nofollow">https://www.95percentgroup.com/insights/fluency-strategies-for-lifelong-learners/?srsltid=AfmBOorhkU9epVonnDQsoUdaApZWtsUvYkFjyrFiKnw2DnO4QKppe8zY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nov 4, 2024 — We&#x27;ll go over the importance of fluency and examine nine science-backed reading fluency strategies designed to help in the...</p></details>

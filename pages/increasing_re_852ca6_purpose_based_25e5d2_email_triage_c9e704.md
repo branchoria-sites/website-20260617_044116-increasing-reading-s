@@ -298,13 +298,13 @@ Fast email reading is not about opening messages more quickly. It is about decid
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_purpose_based_25e5d2_email_triage_c9e704-Illustration-1-dark.svg" | relative_url }}" alt="Email triage illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_purpose_based_25e5d2_email_triage_c9e704-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_purpose_based_25e5d2_email_triage_c9e704-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Research on email overload consistently finds that high email volume contributes to feelings of overload and strain, while effective management strategies can reduce those effects. Studies also show that urgency strongly influences how people prioritise unread messages, although urgency is not always the same thing as importance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/220879068_Email_overload_at_work_An_analysis_of_factors_associated_with_email_strain" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Email overload at work: An analysis of factors...In this paper, we describe a large-scale nationwide organizational su...</span></span></span>
+Research on email overload consistently finds that high email volume contributes to feelings of overload and strain, while effective management strategies can reduce those effects. Studies also show that urgency strongly influences how people prioritise unread messages, although urgency is not always the same thing as importance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/220879068_Email_overload_at_work_An_analysis_of_factors_associated_with_email_strain" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Email overload at work: An analysis of factors...In this paper, we describe a large-scale nationwide organizational su...</span></span></span>
 
 ## Sender, Subject, and First-Paragraph Clues
 
 The fastest email readers make an initial judgement [before reading]({{ 'before-reading/' | relative_url }}) the entire message. They treat the sender, subject line, and opening sentences as signals that determine reading speed.
 
-A useful first-pass question is: *What happens if I ignore this email for a day?* <span class="citation-chip-wrap"><a class="citation-chip" href="https://ayari.io/article/email-triage-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ayari.io">[ayari.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ayari.io</span><span class="citation-popover-title">What is Email Triage?</span><span class="citation-popover-snippet">A Practical Guide to Taking Control of...January 12, 2026 — 12 Jan 2026 — When you triage email, you scan subject lines and senders, mak...</span><span class="citation-popover-meta">Published: January 12, 2026</span></span></span>
+A useful first-pass question is: *What happens if I ignore this email for a day?*<span class="citation-chip-wrap"><a class="citation-chip" href="https://ayari.io/article/email-triage-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ayari.io">[ayari.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ayari.io</span><span class="citation-popover-title">What is Email Triage?</span><span class="citation-popover-snippet">A Practical Guide to Taking Control of...January 12, 2026 — 12 Jan 2026 — When you triage email, you scan subject lines and senders, mak...</span><span class="citation-popover-meta">Published: January 12, 2026</span></span></span>
 
 If the answer is “probably nothing”, the message often deserves a scan rather than a detailed read. If the answer involves a missed deadline, delayed payment, customer problem, scheduling conflict, or damaged relationship, it usually deserves a slower pass.
 
@@ -320,9 +320,9 @@ Common indicators that an email may require [careful reading]({{ 'careful-readin
 
 </div>
 
-Many email-triage systems begin with exactly these signals: sender, subject line, and the first sentence or paragraph. The goal is not to understand everything immediately but to decide whether the message belongs in a fast-processing category or a commitment-creating category. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ayari.io/article/email-triage-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ayari.io">[Ayari]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ayari.io</span><span class="citation-popover-title">What is Email Triage?</span><span class="citation-popover-snippet">A Practical Guide to Taking Control of...January 12, 2026 — 12 Jan 2026 — When you triage email, you scan subject lines and senders, mak...</span><span class="citation-popover-meta">Published: January 12, 2026</span></span></span>
+Many email-triage systems begin with exactly these signals: sender, subject line, and the first sentence or paragraph. The goal is not to understand everything immediately but to decide whether the message belongs in a fast-processing category or a commitment-creating category.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ayari.io/article/email-triage-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ayari.io">[Ayari]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ayari.io</span><span class="citation-popover-title">What is Email Triage?</span><span class="citation-popover-snippet">A Practical Guide to Taking Control of...January 12, 2026 — 12 Jan 2026 — When you triage email, you scan subject lines and senders, mak...</span><span class="citation-popover-meta">Published: January 12, 2026</span></span></span>
 
-This approach is particularly valuable because organisational email systems are often strained by information overload. Research into workplace communication shows that recipients routinely receive messages that vary greatly in relevance and importance, making selective attention essential. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://jfstich.com/publication-email-overload-fit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jfstich.com">[J.F. Stich]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jfstich.com</span><span class="citation-popover-title">publication email overload fit</span><span class="citation-popover-snippet">StichEmail Overload: Investigating Technology-fit Antecedents...7 Apr 2022 — We problematize the current understanding of email overload...</span></span></span>
+This approach is particularly valuable because organisational email systems are often strained by information overload. Research into workplace communication shows that recipients routinely receive messages that vary greatly in relevance and importance, making selective attention essential.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://jfstich.com/publication-email-overload-fit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jfstich.com">[J.F. Stich]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jfstich.com</span><span class="citation-popover-title">publication email overload fit</span><span class="citation-popover-snippet">StichEmail Overload: Investigating Technology-fit Antecedents...7 Apr 2022 — We problematize the current understanding of email overload...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NiaCGBX9Zig" title="Perceive | Vocabulary | Khan Academy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NiaCGBX9Zig" target="_blank" rel="noopener noreferrer">Perceive | Vocabulary | Khan Academy</a></p><p class="youtube-embed-meta">Channel: Khan Academy &middot; Views: 3.2K &middot; Uploaded: December 2023 &middot; Length: 3 minutes 16 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NiaCGBX9Zig" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NiaCGBX9Zig">Open on YouTube</a></p></div></div></div>
@@ -365,7 +365,7 @@ Attachments are another common source of missed obligations. Many readers proces
 
 The final lines of a message also deserve attention because many senders place the actual request there. An email may spend several paragraphs explaining context and conclude with a single sentence such as: “Could you approve this by Wednesday?” Missing that final sentence can be more costly than missing most of the background.
 
-Research on email prioritisation suggests that people respond differently to messages depending on perceived urgency, response costs, and deadlines. This helps explain why scanning specifically for actions and [timing]({{ 'timing/' | relative_url }}) cues is often more effective than reading every email from top to bottom. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/347117226_Prioritizing_unread_e-mails_people_send_urgent_responses_before_important_or_short_ones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Prioritizing unread e-mails: people send urgent...The authors also highlight how urgency is but one contributing facto...</span></span></span>
+Research on email prioritisation suggests that people respond differently to messages depending on perceived urgency, response costs, and deadlines. This helps explain why scanning specifically for actions and [timing]({{ 'timing/' | relative_url }}) cues is often more effective than reading every email from top to bottom.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/347117226_Prioritizing_unread_e-mails_people_send_urgent_responses_before_important_or_short_ones" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Prioritizing unread e-mails: people send urgent...The authors also highlight how urgency is but one contributing facto...</span></span></span>
 
 ## When Tone, Money, HR, or Complaints Require Slowing Down
 
@@ -401,9 +401,9 @@ Treating only one of those dimensions can make a response ineffective even if it
 
 ### Tone-Sensitive Communication
 
-Email lacks facial expressions, body language, and vocal cues. As a result, readers regularly misinterpret intent. Recent workplace research found widespread productivity losses caused by unclear or misunderstood communication, including damaged working relationships and HR escalations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.itpro.com/software/business-apps/watch-your-tone-at-work-atlassian-warns-poor-communication-and-blunt-messages-are-confusing-colleagues-and-its-having-a-serious-impact-on-productivity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itpro.com">[IT Pro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itpro.com</span><span class="citation-popover-snippet">The research reveals that 87% of employees waste an average of five hours per week clarifying unclear messages, while 83% report instance...</span></span></span>
+Email lacks facial expressions, body language, and vocal cues. As a result, readers regularly misinterpret intent. Recent workplace research found widespread productivity losses caused by unclear or misunderstood communication, including damaged working relationships and HR escalations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.itpro.com/software/business-apps/watch-your-tone-at-work-atlassian-warns-poor-communication-and-blunt-messages-are-confusing-colleagues-and-its-having-a-serious-impact-on-productivity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itpro.com">[IT Pro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itpro.com</span><span class="citation-popover-snippet">The research reveals that 87% of employees waste an average of five hours per week clarifying unclear messages, while 83% report instance...</span></span></span>
 
-Studies and reporting on workplace email behaviour also highlight how ambiguous or curt messages can be perceived as rude when no rudeness was intended. Because written communication can be reread repeatedly, misunderstandings may have longer-lasting effects than a brief verbal exchange. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/global/2026/may/21/email-incivility-can-affect-us-at-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian&#x27;Per my last email&#x27;: how email incivility can affect us at work</span><span class="citation-popover-snippet">According to research, roughly a third of employees receive at least one rude email per day, which can lead to anxiety, depression, insom...</span></span></span>
+Studies and reporting on workplace email behaviour also highlight how ambiguous or curt messages can be perceived as rude when no rudeness was intended. Because written communication can be reread repeatedly, misunderstandings may have longer-lasting effects than a brief verbal exchange.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/global/2026/may/21/email-incivility-can-affect-us-at-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian&#x27;Per my last email&#x27;: how email incivility can affect us at work</span><span class="citation-popover-snippet">According to research, roughly a third of employees receive at least one rude email per day, which can lead to anxiety, depression, insom...</span></span></span>
 
 When a message feels emotionally charged, surprisingly blunt, or potentially offensive, slowing down before replying is usually faster in the long run than repairing a misunderstanding later.
 
@@ -453,178 +453,178 @@ This two-speed system aligns with the broader principle of purpose-based reading
 <img src="{{ "/assets/images/increasing_re_852ca6_purpose_based_25e5d2_email_triage_c9e704-Illustration-3-dark.svg" | relative_url }}" alt="Email triage illustration 3" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_purpose_based_25e5d2_email_triage_c9e704-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_purpose_based_25e5d2_email_triage_c9e704-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Which emails deserve a slower read?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Which emails deserve a slower read?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Getting+Things+Done+David+Allen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Getting Things Done on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7892515-M.jpg" alt="Cover for Getting Things Done" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Getting+Things+Done+David+Allen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Getting Things Done">Getting Things Done</a>
-        </h4>
-        <p class="fr-book-author">By David Allen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Getting+Things+Done+David+Allen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Getting Things Done on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7892515-M.jpg" alt="Cover for Getting Things Done" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Getting+Things+Done+David+Allen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Getting Things Done">Getting Things Done</a>
+</h4>
+<p class="fr-book-author">By David Allen</p>
         
-        <p class="fr-book-desc">Provides a practical framework for processing inboxes, identifying actions, and prioritizing attention.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Getting+Things+Done+David+Allen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a practical framework for processing inboxes, identifying actions, and prioritizing attention.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Getting+Things+Done+David+Allen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Directly addresses different reading goals and speeds.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Directly addresses different reading goals and speeds.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Checklist+Manifesto+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Checklist Manifesto on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7GJi0fsSmUoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Checklist Manifesto" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Checklist+Manifesto+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Checklist Manifesto">The Checklist Manifesto</a>
-        </h4>
-        <p class="fr-book-author">By Atul Gawande</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Checklist+Manifesto+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Checklist Manifesto on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7GJi0fsSmUoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Checklist Manifesto" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Checklist+Manifesto+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Checklist Manifesto">The Checklist Manifesto</a>
+</h4>
+<p class="fr-book-author">By Atul Gawande</p>
         
-        <p class="fr-book-desc">Supports systematic decision-making and triage approaches that reduce missed obligations and errors.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Checklist+Manifesto+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports systematic decision-making and triage approaches that reduce missed obligations and errors.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Checklist+Manifesto+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Work on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lZpFCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Work" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Work">Deep Work</a>
-        </h4>
-        <p class="fr-book-author">By Cal Newport</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Work on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lZpFCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Work" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Work">Deep Work</a>
+</h4>
+<p class="fr-book-author">By Cal Newport</p>
         
-        <p class="fr-book-desc">Helps readers distinguish high-value communications from routine noise and allocate attention effectively.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers distinguish high-value communications from routine noise and allocate attention effectively.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Getting+Things+Done&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Getting Things Done</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Checklist+Manifesto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Checklist Manifesto</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Getting+Things+Done&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Getting Things Done</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Checklist+Manifesto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Checklist Manifesto</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer+tray&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-triage-which-emails-deserve-a-slower-read-increasing-desk-organizer-tray&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer tray" data-ebay-reference="email-triage-which-emails-deserve-a-slower-read-increasing-desk-organizer-tray" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wooden Desk Organizer Tray – Brown Tabletop Storage for Office, Home, Tablet"><img src="{{ '/assets/images/marketplace-covers/87fe9a51edd5fc060798.jpg' | relative_url }}" alt="Listing image for Wooden Desk Organizer Tray – Brown Tabletop Storage for Office, Home, Tablet" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer+tray&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-triage-which-emails-deserve-a-slower-read-increasing-desk-organizer-tray&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer tray" data-ebay-reference="email-triage-which-emails-deserve-a-slower-read-increasing-desk-organizer-tray" target="_blank" rel="sponsored noopener noreferrer">Wooden Desk Organizer Tray – Brown Tabletop Storage for Office, Home, Tablet</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer+tray&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-triage-which-emails-deserve-a-slower-read-increasing-desk-organizer-tray&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer tray" data-ebay-reference="email-triage-which-emails-deserve-a-slower-read-increasing-desk-organizer-tray" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer tray">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk organizer tray</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer+tray&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-triage-which-emails-deserve-a-slower-read-increasing-desk-organizer-tray&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer tray" data-ebay-reference="email-triage-which-emails-deserve-a-slower-read-increasing-desk-organizer-tray" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer+tray&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-triage-which-emails-deserve-a-slower-read-increasing-desk-organizer-tray&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer tray" data-ebay-reference="email-triage-which-emails-deserve-a-slower-read-increasing-desk-organizer-tray" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wooden Desk Organizer Tray – Brown Tabletop Storage for Office, Home, Tablet"><img src="{{ '/assets/images/marketplace-covers/87fe9a51edd5fc060798.jpg' | relative_url }}" alt="Listing image for Wooden Desk Organizer Tray – Brown Tabletop Storage for Office, Home, Tablet" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer+tray&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-triage-which-emails-deserve-a-slower-read-increasing-desk-organizer-tray&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer tray" data-ebay-reference="email-triage-which-emails-deserve-a-slower-read-increasing-desk-organizer-tray" target="_blank" rel="sponsored noopener noreferrer">Wooden Desk Organizer Tray – Brown Tabletop Storage for Office, Home, Tablet</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer+tray&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-triage-which-emails-deserve-a-slower-read-increasing-desk-organizer-tray&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer tray" data-ebay-reference="email-triage-which-emails-deserve-a-slower-read-increasing-desk-organizer-tray" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer tray">Search<span data-ebay-domain-label>eBay.co.uk</span>: desk organizer tray</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer+tray&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-triage-which-emails-deserve-a-slower-read-increasing-desk-organizer-tray&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer tray" data-ebay-reference="email-triage-which-emails-deserve-a-slower-read-increasing-desk-organizer-tray" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer+tray&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-triage-which-emails-deserve-a-slower-read-increasing-desk-organizer-tray&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer tray" data-ebay-reference="email-triage-which-emails-deserve-a-slower-read-increasing-desk-organizer-tray" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for OSCO Brown Faux Leather Three Tier Letter Tray | A4 | Desk File Organiser | Pape"><img src="{{ '/assets/images/marketplace-covers/fe2207279208d2536f1b.jpg' | relative_url }}" alt="Listing image for OSCO Brown Faux Leather Three Tier Letter Tray | A4 | Desk File Organiser | Pape" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer+tray&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-triage-which-emails-deserve-a-slower-read-increasing-desk-organizer-tray&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer tray" data-ebay-reference="email-triage-which-emails-deserve-a-slower-read-increasing-desk-organizer-tray" target="_blank" rel="sponsored noopener noreferrer">OSCO Brown Faux Leather Three Tier Letter Tray | A4 | Desk File Organiser | Pape</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer+tray&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-triage-which-emails-deserve-a-slower-read-increasing-desk-organizer-tray&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer tray" data-ebay-reference="email-triage-which-emails-deserve-a-slower-read-increasing-desk-organizer-tray" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer tray">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk organizer tray</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer+tray&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-triage-which-emails-deserve-a-slower-read-increasing-desk-organizer-tray&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer tray" data-ebay-reference="email-triage-which-emails-deserve-a-slower-read-increasing-desk-organizer-tray" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer+tray&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-triage-which-emails-deserve-a-slower-read-increasing-desk-organizer-tray&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer tray" data-ebay-reference="email-triage-which-emails-deserve-a-slower-read-increasing-desk-organizer-tray" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for OSCO Brown Faux Leather Three Tier Letter Tray | A4 | Desk File Organiser | Pape"><img src="{{ '/assets/images/marketplace-covers/fe2207279208d2536f1b.jpg' | relative_url }}" alt="Listing image for OSCO Brown Faux Leather Three Tier Letter Tray | A4 | Desk File Organiser | Pape" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer+tray&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-triage-which-emails-deserve-a-slower-read-increasing-desk-organizer-tray&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer tray" data-ebay-reference="email-triage-which-emails-deserve-a-slower-read-increasing-desk-organizer-tray" target="_blank" rel="sponsored noopener noreferrer">OSCO Brown Faux Leather Three Tier Letter Tray | A4 | Desk File Organiser | Pape</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer+tray&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-triage-which-emails-deserve-a-slower-read-increasing-desk-organizer-tray&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer tray" data-ebay-reference="email-triage-which-emails-deserve-a-slower-read-increasing-desk-organizer-tray" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer tray">Search<span data-ebay-domain-label>eBay.co.uk</span>: desk organizer tray</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer+tray&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-triage-which-emails-deserve-a-slower-read-increasing-desk-organizer-tray&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer tray" data-ebay-reference="email-triage-which-emails-deserve-a-slower-read-increasing-desk-organizer-tray" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer+tray&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-triage-which-emails-deserve-a-slower-read-increasing-desk-organizer-tray&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer tray" data-ebay-reference="email-triage-which-emails-deserve-a-slower-read-increasing-desk-organizer-tray" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 4-Tier Letter Tray Organiser, Paper Filing Tray for Office Desk, File Holder"><img src="{{ '/assets/images/marketplace-covers/fcb7cbf12bcaa61369a9.jpg' | relative_url }}" alt="Listing image for 4-Tier Letter Tray Organiser, Paper Filing Tray for Office Desk, File Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer+tray&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-triage-which-emails-deserve-a-slower-read-increasing-desk-organizer-tray&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer tray" data-ebay-reference="email-triage-which-emails-deserve-a-slower-read-increasing-desk-organizer-tray" target="_blank" rel="sponsored noopener noreferrer">4-Tier Letter Tray Organiser, Paper Filing Tray for Office Desk, File Holder</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer+tray&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-triage-which-emails-deserve-a-slower-read-increasing-desk-organizer-tray&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer tray" data-ebay-reference="email-triage-which-emails-deserve-a-slower-read-increasing-desk-organizer-tray" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer tray">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk organizer tray</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer+tray&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-triage-which-emails-deserve-a-slower-read-increasing-desk-organizer-tray&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer tray" data-ebay-reference="email-triage-which-emails-deserve-a-slower-read-increasing-desk-organizer-tray" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer+tray&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-triage-which-emails-deserve-a-slower-read-increasing-desk-organizer-tray&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer tray" data-ebay-reference="email-triage-which-emails-deserve-a-slower-read-increasing-desk-organizer-tray" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer+tray&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-triage-which-emails-deserve-a-slower-read-increasing-desk-organizer-tray&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer tray" data-ebay-reference="email-triage-which-emails-deserve-a-slower-read-increasing-desk-organizer-tray" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 4-Tier Letter Tray Organiser, Paper Filing Tray for Office Desk, File Holder"><img src="{{ '/assets/images/marketplace-covers/fcb7cbf12bcaa61369a9.jpg' | relative_url }}" alt="Listing image for 4-Tier Letter Tray Organiser, Paper Filing Tray for Office Desk, File Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer+tray&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-triage-which-emails-deserve-a-slower-read-increasing-desk-organizer-tray&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer tray" data-ebay-reference="email-triage-which-emails-deserve-a-slower-read-increasing-desk-organizer-tray" target="_blank" rel="sponsored noopener noreferrer">4-Tier Letter Tray Organiser, Paper Filing Tray for Office Desk, File Holder</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer+tray&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-triage-which-emails-deserve-a-slower-read-increasing-desk-organizer-tray&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer tray" data-ebay-reference="email-triage-which-emails-deserve-a-slower-read-increasing-desk-organizer-tray" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer tray">Search<span data-ebay-domain-label>eBay.co.uk</span>: desk organizer tray</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer+tray&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-triage-which-emails-deserve-a-slower-read-increasing-desk-organizer-tray&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer tray" data-ebay-reference="email-triage-which-emails-deserve-a-slower-read-increasing-desk-organizer-tray" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer+tray&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-triage-which-emails-deserve-a-slower-read-increasing-desk-organizer-tray&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer tray" data-ebay-reference="email-triage-which-emails-deserve-a-slower-read-increasing-desk-organizer-tray" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -640,7 +640,7 @@ This two-speed system aligns with the broader principle of purpose-based reading
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -660,7 +660,7 @@ This two-speed system aligns with the broader principle of purpose-based reading
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -692,7 +692,7 @@ This two-speed system aligns with the broader principle of purpose-based reading
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -744,7 +744,7 @@ This two-speed system aligns with the broader principle of purpose-based reading
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -789,7 +789,7 @@ This two-speed system aligns with the broader principle of purpose-based reading
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -830,107 +830,107 @@ This two-speed system aligns with the broader principle of purpose-based reading
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/220879068_Email_overload_at_work_An_analysis_of_factors_associated_with_email_strain" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/220879068_Email_overload_at_work_An_analysis_of_factors_associated_with_email_strain</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Email overload at work: An analysis of factors...In this paper, we describe a large-scale nationwide organizational su...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/220879068_Email_overload_at_work_An_analysis_of_factors_associated_with_email_strain" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/220879068_Email_overload_at_work_An_analysis_of_factors_associated_with_email_strain</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Email overload at work: An analysis of factors...In this paper, we describe a large-scale nationwide organizational su...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/347117226_Prioritizing_unread_e-mails_people_send_urgent_responses_before_important_or_short_ones" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/347117226_Prioritizing_unread_e-mails_people_send_urgent_responses_before_important_or_short_ones</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Prioritizing unread e-mails: people send urgent...The authors also highlight how urgency is but one contributing facto...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/347117226_Prioritizing_unread_e-mails_people_send_urgent_responses_before_important_or_short_ones" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/347117226_Prioritizing_unread_e-mails_people_send_urgent_responses_before_important_or_short_ones</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Prioritizing unread e-mails: people send urgent...The authors also highlight how urgency is but one contributing facto...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ayari.io  
    Title: What is Email Triage?  
-   Link: <a href="https://ayari.io/article/email-triage-guide" target="_blank" rel="noopener noreferrer nofollow">https://ayari.io/article/email-triage-guide</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Practical Guide to Taking Control of...January 12, 2026 — 12 Jan 2026 — When you triage email, you scan subject lines and senders, mak...</p></details>
+   Link:<a href="https://ayari.io/article/email-triage-guide" target="_blank" rel="noopener noreferrer nofollow">https://ayari.io/article/email-triage-guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Practical Guide to Taking Control of...January 12, 2026 — 12 Jan 2026 — When you triage email, you scan subject lines and senders, mak...</p></details>
    Published: January 12, 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: jfstich.com  
    Title: publication email overload fit  
-   Link: <a href="https://jfstich.com/publication-email-overload-fit" target="_blank" rel="noopener noreferrer nofollow">https://jfstich.com/publication-email-overload-fit</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>StichEmail Overload: Investigating Technology-fit Antecedents...7 Apr 2022 — We problematize the current understanding of email overload...</p></details>
+   Link:<a href="https://jfstich.com/publication-email-overload-fit" target="_blank" rel="noopener noreferrer nofollow">https://jfstich.com/publication-email-overload-fit</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>StichEmail Overload: Investigating Technology-fit Antecedents...7 Apr 2022 — We problematize the current understanding of email overload...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: itpro.com  
-   Link: <a href="https://www.itpro.com/software/business-apps/watch-your-tone-at-work-atlassian-warns-poor-communication-and-blunt-messages-are-confusing-colleagues-and-its-having-a-serious-impact-on-productivity" target="_blank" rel="noopener noreferrer nofollow">https://www.itpro.com/software/business-apps/watch-your-tone-at-work-atlassian-warns-poor-communication-and-blunt-messages-are-confusing-colleagues-and-its-having-a-serious-impact-on-productivity</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The research reveals that 87% of employees waste an average of five hours per week clarifying unclear messages, while 83% report instance...</p></details>
+   Link:<a href="https://www.itpro.com/software/business-apps/watch-your-tone-at-work-atlassian-warns-poor-communication-and-blunt-messages-are-confusing-colleagues-and-its-having-a-serious-impact-on-productivity" target="_blank" rel="noopener noreferrer nofollow">https://www.itpro.com/software/business-apps/watch-your-tone-at-work-atlassian-warns-poor-communication-and-blunt-messages-are-confusing-colleagues-and-its-having-a-serious-impact-on-productivity</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The research reveals that 87% of employees waste an average of five hours per week clarifying unclear messages, while 83% report instance...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: theguardian.com  
    Title: The Guardian'Per my last email': how email incivility can affect us at work  
-   Link: <a href="https://www.theguardian.com/global/2026/may/21/email-incivility-can-affect-us-at-work" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/global/2026/may/21/email-incivility-can-affect-us-at-work</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>According to research, roughly a third of employees receive at least one rude email per day, which can lead to anxiety, depression, insom...</p></details>
+   Link:<a href="https://www.theguardian.com/global/2026/may/21/email-incivility-can-affect-us-at-work" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/global/2026/may/21/email-incivility-can-affect-us-at-work</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>According to research, roughly a third of employees receive at least one rude email per day, which can lead to anxiety, depression, insom...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: [vocabulary](&#123;&#123; 'knowledge/' | relative_url &#125;&#125;). com  
-   Link: <a href="https://www.vocabulary.com/dictionary/perceived" target="_blank" rel="noopener noreferrer nofollow">https://www.vocabulary.com/dictionary/perceived</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Perceived - Definition, Meaning &amp; SynonymsIf you sense something is true by instinct, but not necessarily by fact, you can describe that...</p></details>
+   Link:<a href="https://www.vocabulary.com/dictionary/perceived" target="_blank" rel="noopener noreferrer nofollow">https://www.vocabulary.com/dictionary/perceived</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Perceived - Definition, Meaning &amp; SynonymsIf you sense something is true by instinct, but not necessarily by fact, you can describe that...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: support.google.com  
-   Link: <a href="https://support.google.com/mail/answer/81126?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/mail/answer/81126?hl=en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>sender guidelines - Gmail HelpRequirements for all senders. Starting February 1, 2024, all email senders who send email to Gmail accounts...</p></details>
+   Link:<a href="https://support.google.com/mail/answer/81126?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/mail/answer/81126?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sender guidelines - Gmail HelpRequirements for all senders. Starting February 1, 2024, all email senders who send email to Gmail accounts...</p></details>
    Published: February 1, 2024  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: help.karbonhq.com  
    Title: 5700547 action an email  
-   Link: <a href="https://help.karbonhq.com/en/s/articles/5700547-action-an-email" target="_blank" rel="noopener noreferrer nofollow">https://help.karbonhq.com/en/s/articles/5700547-action-an-email</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>emails - Triage - Support - Karbon27 Jan 2026 — In Triage, you don&#x27;t just manage emails, you action them. Learn how to best manage your T...</p></details>
+   Link:<a href="https://help.karbonhq.com/en/s/articles/5700547-action-an-email" target="_blank" rel="noopener noreferrer nofollow">https://help.karbonhq.com/en/s/articles/5700547-action-an-email</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>emails - Triage - Support - Karbon27 Jan 2026 — In Triage, you don&#x27;t just manage emails, you action them. Learn how to best manage your T...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: inboxdone.com  
-   Link: <a href="https://inboxdone.com/email-triage-techniques-for-busy-professionals/" target="_blank" rel="noopener noreferrer nofollow">https://inboxdone.com/email-triage-techniques-for-busy-professionals/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Email Triage Techniques for Busy ProfessionalsMaster email management with effective triage techniques to enhance productivity and reduce...</p></details>
+   Link:<a href="https://inboxdone.com/email-triage-techniques-for-busy-professionals/" target="_blank" rel="noopener noreferrer nofollow">https://inboxdone.com/email-triage-techniques-for-busy-professionals/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Email Triage Techniques for Busy ProfessionalsMaster email management with effective triage techniques to enhance productivity and reduce...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/lessons-from-respectful-investigation-email-when-tone-kojdecka-yp2ze" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/lessons-from-respectful-investigation-email-when-tone-kojdecka-yp2ze</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lessons from a “Respectful” Investigation EmailIt&#x27;s a carefully constructed legal communication that: Maintains formal politeness; Protec...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/lessons-from-respectful-investigation-email-when-tone-kojdecka-yp2ze" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/lessons-from-respectful-investigation-email-when-tone-kojdecka-yp2ze</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lessons from a “Respectful” Investigation EmailIt&#x27;s a carefully constructed legal communication that: Maintains formal politeness; Protec...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/perceived" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/perceived</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PERCEIVED Definition &amp; MeaningThe meaning of PERCEIVED is regarded in a specified way —used to say how something or someone is seen or th...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/perceived" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/perceived</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PERCEIVED Definition &amp; MeaningThe meaning of PERCEIVED is regarded in a specified way —used to say how something or someone is seen or th...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: leglobal.law  
-   Link: <a href="https://leglobal.law/2023/07/27/germany-permitted-private-use-of-workplace-recourses-accessing-private-messages-of-employees/" target="_blank" rel="noopener noreferrer nofollow">https://leglobal.law/2023/07/27/germany-permitted-private-use-of-workplace-recourses-accessing-private-messages-of-employees/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Germany: Permitted private use of workplace recourses27 Jul 2023 — Check out our blogpost: Germany: Permitted private use of workplace re...</p></details>
+   Link:<a href="https://leglobal.law/2023/07/27/germany-permitted-private-use-of-workplace-recourses-accessing-private-messages-of-employees/" target="_blank" rel="noopener noreferrer nofollow">https://leglobal.law/2023/07/27/germany-permitted-private-use-of-workplace-recourses-accessing-private-messages-of-employees/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Germany: Permitted private use of workplace recourses27 Jul 2023 — Check out our blogpost: Germany: Permitted private use of workplace re...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: wordwebonline.com  
-   Link: <a href="https://www.wordwebonline.com/en/PERCEIVED" target="_blank" rel="noopener noreferrer nofollow">https://www.wordwebonline.com/en/PERCEIVED</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>perceived, perceive- WordWeb dictionary definitionTo become aware of through the senses &quot;I could perceive the ship coming over the horizo...</p></details>
+   Link:<a href="https://www.wordwebonline.com/en/PERCEIVED" target="_blank" rel="noopener noreferrer nofollow">https://www.wordwebonline.com/en/PERCEIVED</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>perceived, perceive- WordWeb dictionary definitionTo become aware of through the senses &quot;I could perceive the ship coming over the horizo...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=NiaCGBX9Zig" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NiaCGBX9Zig</a>  
+   Link:<a href="https://www.youtube.com/watch?v=NiaCGBX9Zig" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NiaCGBX9Zig</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: govinvestigating email classes and work stressors as  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11484023/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11484023/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by M Kern · 2024 · Cited by 7 — High email load has been associated with impaired well-being because emails impose specific demands, d...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11484023/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11484023/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by M Kern · 2024 · Cited by 7 — High email load has been associated with impaired well-being because emails impose specific demands, d...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cms.law  
    Title: echr ruling employee s private communication may be analysed  
-   Link: <a href="https://cms.law/en/deu/legal-updates/echr-ruling-employee-s-private-communication-may-be-analysed" target="_blank" rel="noopener noreferrer nofollow">https://cms.law/en/deu/legal-updates/echr-ruling-employee-s-private-communication-may-be-analysed</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ECHR ruling – employee´s private communication may be...13 Apr 2016 — In Germany, the legal situation regarding employers&#x27; ability to mo...</p></details>
+   Link:<a href="https://cms.law/en/deu/legal-updates/echr-ruling-employee-s-private-communication-may-be-analysed" target="_blank" rel="noopener noreferrer nofollow">https://cms.law/en/deu/legal-updates/echr-ruling-employee-s-private-communication-may-be-analysed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ECHR ruling – employee´s private communication may be...13 Apr 2016 — In Germany, the legal situation regarding employers&#x27; ability to mo...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: get-alfred.ai  
    Title: Email Triage: How to Prioritize Your Inbox Like a CEO  
-   Link: <a href="https://get-alfred.ai/email-triage" target="_blank" rel="noopener noreferrer nofollow">https://get-alfred.ai/email-triage</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1. Scan, Don&#x27;t Read. Open your inbox and scan subject lines and senders only. Don&#x27;t open any email yet. Your goal is to get a sense...Re...</p></details>
+   Link:<a href="https://get-alfred.ai/email-triage" target="_blank" rel="noopener noreferrer nofollow">https://get-alfred.ai/email-triage</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1. Scan, Don&#x27;t Read. Open your inbox and scan subject lines and senders only. Don&#x27;t open any email yet. Your goal is to get a sense...Re...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: oxfordlearnersdictionaries.com  
-   Link: <a href="https://www.oxfordlearnersdictionaries.com/definition/english/perceive" target="_blank" rel="noopener noreferrer nofollow">https://www.oxfordlearnersdictionaries.com/definition/english/perceive</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>perceive verb - Definition, pictures, pronunciation and...to understand or think of somebody/something in a particular way synonym see...</p></details>
+   Link:<a href="https://www.oxfordlearnersdictionaries.com/definition/english/perceive" target="_blank" rel="noopener noreferrer nofollow">https://www.oxfordlearnersdictionaries.com/definition/english/perceive</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>perceive verb - Definition, pictures, pronunciation and...to understand or think of somebody/something in a particular way synonym see...</p></details>

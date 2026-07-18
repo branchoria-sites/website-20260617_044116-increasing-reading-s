@@ -298,11 +298,11 @@ Skimming is one of the most useful tools for increasing reading speed, but it wo
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_speed_reading_71e807_skimming_high_0ce38c-Illustration-1-dark.svg" | relative_url }}" alt="Skim risks illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_speed_reading_71e807_skimming_high_0ce38c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_speed_reading_71e807_skimming_high_0ce38c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This is one of the central tradeoffs in [speed-reading]({{ 'myths/' | relative_url }}). Faster reading can improve efficiency when a reader only needs the gist, but comprehension suffers when critical details are embedded in technical language, supporting evidence, or qualifying clauses. Research on reading consistently finds that skim-reading reduces comprehension compared with [careful reading]({{ 'careful-reading/' | relative_url }}), particularly when the task requires precise understanding rather than general familiarity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12801452/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Background. Reading times are shorter and comprehension is poorer during skim-reading compared to more careful reading for comprehension...</span></span></span>
+This is one of the central tradeoffs in [speed-reading]({{ 'myths/' | relative_url }}). Faster reading can improve efficiency when a reader only needs the gist, but comprehension suffers when critical details are embedded in technical language, supporting evidence, or qualifying clauses. Research on reading consistently finds that skim-reading reduces comprehension compared with [careful reading]({{ 'careful-reading/' | relative_url }}), particularly when the task requires precise understanding rather than general familiarity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12801452/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Background. Reading times are shorter and comprehension is poorer during skim-reading compared to more careful reading for comprehension...</span></span></span>
 
 ## What Skimming Is Good For
 
-Skimming remains valuable when used for the right purpose. In research, it can help identify whether a paper is relevant before investing time in a full read. Many experienced academics begin with the title, abstract, conclusion, and section headings to decide whether a paper warrants deeper attention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://x.com/acagamic/status/1752371021523333218?lang=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: x.com">[X (formerly Twitter)]</a><span class="citation-popover" role="note"><span class="citation-popover-source">x.com</span><span class="citation-popover-snippet">X (formerly Twitter)How to Better Skim Academic Papers...Read the abstract to grasp the paper&#x27;s major points. This gives you the gist of...</span></span></span>
+Skimming remains valuable when used for the right purpose. In research, it can help identify whether a paper is relevant before investing time in a full read. Many experienced academics begin with the title, abstract, conclusion, and section headings to decide whether a paper warrants deeper attention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://x.com/acagamic/status/1752371021523333218?lang=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: x.com">[X (formerly Twitter)]</a><span class="citation-popover" role="note"><span class="citation-popover-source">x.com</span><span class="citation-popover-snippet">X (formerly Twitter)How to Better Skim Academic Papers...Read the abstract to grasp the paper&#x27;s major points. This gives you the gist of...</span></span></span>
 
 Similarly, a quick scan of a contract can help locate major sections such as payment terms, termination provisions, liability clauses, and dispute-resolution procedures. The mistake is assuming that this first-pass understanding is equivalent to understanding the document itself.
 
@@ -325,7 +325,7 @@ It is much less effective when the reader must understand exactly what obligatio
 
 Contracts and research papers share an important characteristic: small details can radically alter interpretation.
 
-In ordinary articles, missing a sentence may not change the overall message. In legal or scientific writing, a single phrase can reverse the practical meaning of an entire section. This is why reading speed and comprehension become different goals. A reader may move rapidly through the text while overlooking the very information that determines whether a conclusion is valid or an obligation exists. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/1529100615623268" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Speed Reading</span><span class="citation-popover-snippet">Balota, 2016by DA Balota · 2016 · Cited by 14 — The review is an outstanding resource for anyone who is interested in reading and speed r...</span></span></span>
+In ordinary articles, missing a sentence may not change the overall message. In legal or scientific writing, a single phrase can reverse the practical meaning of an entire section. This is why reading speed and comprehension become different goals. A reader may move rapidly through the text while overlooking the very information that determines whether a conclusion is valid or an obligation exists.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/1529100615623268" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Speed Reading</span><span class="citation-popover-snippet">Balota, 2016by DA Balota · 2016 · Cited by 14 — The review is an outstanding resource for anyone who is interested in reading and speed r...</span></span></span>
 
 ### In Contracts: Exceptions Matter More Than Headlines
 
@@ -343,7 +343,7 @@ For example:
 
 </div>
 
-Legal scholars have noted that contracts contain long-range relationships between clauses, definitions, and cross-references. Understanding one provision often requires connecting it to language elsewhere in the document. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2210.08697" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">ConReader: Exploring Implicit Relations in Contracts for Contract Clause ExtractionOctober 17, 2022...</span><span class="citation-popover-meta">Published: October 17, 2022</span></span></span>
+Legal scholars have noted that contracts contain long-range relationships between clauses, definitions, and cross-references. Understanding one provision often requires connecting it to language elsewhere in the document.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2210.08697" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">ConReader: Exploring Implicit Relations in Contracts for Contract Clause ExtractionOctober 17, 2022...</span><span class="citation-popover-meta">Published: October 17, 2022</span></span></span>
 
 This creates a common skimming error: readers absorb the apparent rule but miss the condition that governs when the rule actually applies.
 
@@ -354,7 +354,7 @@ A simple example is the difference between:
 
 A skimming reader may remember the first statement and overlook the second.
 
-The risk is amplified by the fact that many people already struggle to read and understand contracts thoroughly. Surveys have found that a large proportion of consumers either do not read contracts or do not fully understand them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.law.ac.uk/about/press-releases/more-than-two-thirds-of-people-dont-read-their-contracts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law.ac.uk">[The University of Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law.ac.uk</span><span class="citation-popover-title">Here, we explain some common contractual</span><span class="citation-popover-snippet">The University of LawMore than two thirds of people don&#x27;t read their contractsMarch 30, 2023 — 30 Mar 2023 — Recent findings show that mo...</span><span class="citation-popover-meta">Published: March 30, 2023</span></span></span>
+The risk is amplified by the fact that many people already struggle to read and understand contracts thoroughly. Surveys have found that a large proportion of consumers either do not read contracts or do not fully understand them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.law.ac.uk/about/press-releases/more-than-two-thirds-of-people-dont-read-their-contracts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law.ac.uk">[The University of Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law.ac.uk</span><span class="citation-popover-title">Here, we explain some common contractual</span><span class="citation-popover-snippet">The University of LawMore than two thirds of people don&#x27;t read their contractsMarch 30, 2023 — 30 Mar 2023 — Recent findings show that mo...</span><span class="citation-popover-meta">Published: March 30, 2023</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WVv2jWXW0K4" title="How To Read Research Papers Effectively | Prof. David Stuckler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WVv2jWXW0K4" target="_blank" rel="noopener noreferrer">How To Read Research Papers Effectively | Prof. David Stuckler</a></p><p class="youtube-embed-meta">Channel: Prof. David Stuckler &middot; Views: 236.4K &middot; Uploaded: March 2022 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WVv2jWXW0K4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WVv2jWXW0K4">Open on YouTube</a></p></div></div></div>
@@ -365,7 +365,7 @@ Research papers create a different but equally important problem.
 
 Many readers focus on:
 
-1. The abstract. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12801452/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Background. Reading times are shorter and comprehension is poorer during skim-reading compared to more careful reading for comprehension...</span></span></span>
+1. The abstract.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12801452/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Background. Reading times are shorter and comprehension is poorer during skim-reading compared to more careful reading for comprehension...</span></span></span>
 2. The results.
 3. The conclusion.
 
@@ -379,7 +379,7 @@ The most significant limitations of a study often appear in sections that skimme
 * Limitations.
 * Supplementary analyses.
 
-A headline finding can look impressive until a reader discovers that the sample was small, the effect size was modest, the population was highly specific, or important variables were not controlled. The abstract may accurately summarise the study while still omitting details that determine how broadly the findings can be applied. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dl.acm.org/doi/full/10.1145/3665648" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dl.acm.org">[ACM Digital Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dl.acm.org</span><span class="citation-popover-snippet">ACM Digital LibraryAccelerating Scientific Paper Skimming with Augmented...by R Fok · 2024 · Cited by 8 — We incorporated these insights...</span></span></span>
+A headline finding can look impressive until a reader discovers that the sample was small, the effect size was modest, the population was highly specific, or important variables were not controlled. The abstract may accurately summarise the study while still omitting details that determine how broadly the findings can be applied.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://dl.acm.org/doi/full/10.1145/3665648" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dl.acm.org">[ACM Digital Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dl.acm.org</span><span class="citation-popover-snippet">ACM Digital LibraryAccelerating Scientific Paper Skimming with Augmented...by R Fok · 2024 · Cited by 8 — We incorporated these insights...</span></span></span>
 
 This creates a common academic reading mistake: remembering the claim but forgetting the conditions under which the claim is true.
 
@@ -395,7 +395,7 @@ Headings reveal structure, not evidence. In both contracts and research papers, 
 
 **Ignoring definitions.**
 
-Legal contracts frequently define terms in specialised ways. A single capitalised word may carry a meaning established dozens of pages earlier. Missing the definition can distort the entire clause. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2210.08697" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">ConReader: Exploring Implicit Relations in Contracts for Contract Clause ExtractionOctober 17, 2022...</span><span class="citation-popover-meta">Published: October 17, 2022</span></span></span>
+Legal contracts frequently define terms in specialised ways. A single capitalised word may carry a meaning established dozens of pages earlier. Missing the definition can distort the entire clause.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2210.08697" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">ConReader: Exploring Implicit Relations in Contracts for Contract Clause ExtractionOctober 17, 2022...</span><span class="citation-popover-meta">Published: October 17, 2022</span></span></span>
 
 **Skipping footnotes and limitations.**
 
@@ -469,194 +469,194 @@ The central lesson is simple: skimming is excellent for finding where informatio
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Skimming Misses What Matters Most. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Skimming Misses What Matters Most. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Directly addresses different levels of reading, including inspectional reading versus careful analysis.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Directly addresses different levels of reading, including inspectional reading versus careful analysis.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-        </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+</h4>
+<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Shows why deep processing often beats superficial exposure when accuracy matters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows why deep processing often beats superficial exposure when accuracy matters.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Helps readers understand when quick judgments can miss important details.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand when quick judgments can miss important details.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Work on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lZpFCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Work" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Work">Deep Work</a>
-        </h4>
-        <p class="fr-book-author">By Cal Newport</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Work on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lZpFCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Work" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Work">Deep Work</a>
+</h4>
+<p class="fr-book-author">By Cal Newport</p>
         
-        <p class="fr-book-desc">Supports the article&#x27;s message that some tasks require slower, focused attention.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports the article&#x27;s message that some tasks require slower, focused attention.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WHEN HARRY MET SALLY - REINER / CRYSTAL / RYAN / FISHER - ORIGINAL MOVIE POSTER"><img src="{{ '/assets/images/marketplace-covers/5a12cffa057f0f476df5.jpg' | relative_url }}" alt="Listing image for WHEN HARRY MET SALLY - REINER / CRYSTAL / RYAN / FISHER - ORIGINAL MOVIE POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">WHEN HARRY MET SALLY - REINER / CRYSTAL / RYAN / FISHER - ORIGINAL MOVIE POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for when poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: when poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WHEN HARRY MET SALLY - REINER / CRYSTAL / RYAN / FISHER - ORIGINAL MOVIE POSTER"><img src="{{ '/assets/images/marketplace-covers/5a12cffa057f0f476df5.jpg' | relative_url }}" alt="Listing image for WHEN HARRY MET SALLY - REINER / CRYSTAL / RYAN / FISHER - ORIGINAL MOVIE POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">WHEN HARRY MET SALLY - REINER / CRYSTAL / RYAN / FISHER - ORIGINAL MOVIE POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for when poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: when poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Billie Eilish, When We All Fall, Album Art Poster, Print, Music, Tracklist"><img src="{{ '/assets/images/marketplace-covers/c7a554d91acbd56ef675.jpg' | relative_url }}" alt="Listing image for Billie Eilish, When We All Fall, Album Art Poster, Print, Music, Tracklist" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Billie Eilish, When We All Fall, Album Art Poster, Print, Music, Tracklist</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for when poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: when poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Billie Eilish, When We All Fall, Album Art Poster, Print, Music, Tracklist"><img src="{{ '/assets/images/marketplace-covers/c7a554d91acbd56ef675.jpg' | relative_url }}" alt="Listing image for Billie Eilish, When We All Fall, Album Art Poster, Print, Music, Tracklist" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Billie Eilish, When We All Fall, Album Art Poster, Print, Music, Tracklist</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for when poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: when poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for When Life Gets You Down Punch Back Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/80956389d9914e861894.jpg' | relative_url }}" alt="Listing image for When Life Gets You Down Punch Back Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">When Life Gets You Down Punch Back Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for when poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: when poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for When Life Gets You Down Punch Back Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/80956389d9914e861894.jpg' | relative_url }}" alt="Listing image for When Life Gets You Down Punch Back Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">When Life Gets You Down Punch Back Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for when poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: when poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Its Not Over When You Lose Wall Art gym office Lion"><img src="{{ '/assets/images/marketplace-covers/21d009ae16197c2f6d94.jpg' | relative_url }}" alt="Listing image for Motivational Quote Poster Its Not Over When You Lose Wall Art gym office Lion" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Its Not Over When You Lose Wall Art gym office Lion</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for when poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: when poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Its Not Over When You Lose Wall Art gym office Lion"><img src="{{ '/assets/images/marketplace-covers/21d009ae16197c2f6d94.jpg' | relative_url }}" alt="Listing image for Motivational Quote Poster Its Not Over When You Lose Wall Art gym office Lion" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Its Not Over When You Lose Wall Art gym office Lion</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for when poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: when poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when poster -book -books -dvd" data-ebay-reference="skim-risks-when-skimming-misses-what-matters-most-increasing-when-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -672,7 +672,7 @@ The central lesson is simple: skimming is excellent for finding where informatio
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -692,7 +692,7 @@ The central lesson is simple: skimming is excellent for finding where informatio
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -724,7 +724,7 @@ The central lesson is simple: skimming is excellent for finding where informatio
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -776,7 +776,7 @@ The central lesson is simple: skimming is excellent for finding where informatio
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -821,7 +821,7 @@ The central lesson is simple: skimming is excellent for finding where informatio
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -862,101 +862,101 @@ The central lesson is simple: skimming is excellent for finding where informatio
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12801452/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12801452/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>[Background](&amp;#123;&amp;#123; &#x27;expertise/&#x27; | relative_url &amp;#125;&amp;#125;). Reading times are shorter and comprehension is poorer during skim-reading compared to more careful reading for comprehension...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12801452/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12801452/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Background](&amp;#123;&amp;#123; &#x27;expertise/&#x27; | relative_url &amp;#125;&amp;#125;). Reading times are shorter and comprehension is poorer during skim-reading compared to more careful reading for comprehension...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2210.08697" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2210.08697</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ConReader: Exploring Implicit Relations in Contracts for Contract Clause ExtractionOctober 17, 2022...</p></details>
+   Link:<a href="https://arxiv.org/abs/2210.08697" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2210.08697</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ConReader: Exploring Implicit Relations in Contracts for Contract Clause ExtractionOctober 17, 2022...</p></details>
    Published: October 17, 2022  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: dl.acm.org  
-   Link: <a href="https://dl.acm.org/doi/full/10.1145/3665648" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/full/10.1145/3665648</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ACM Digital LibraryAccelerating Scientific Paper Skimming with Augmented...by R Fok · 2024 · Cited by 8 — We incorporated these insights...</p></details>
+   Link:<a href="https://dl.acm.org/doi/full/10.1145/3665648" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/full/10.1145/3665648</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ACM Digital LibraryAccelerating Scientific Paper Skimming with Augmented...by R Fok · 2024 · Cited by 8 — We incorporated these insights...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: journals.sagepub.com  
    Title: Sage Journals Speed Reading  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/1529100615623268" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1529100615623268</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Balota, 2016by DA Balota · 2016 · Cited by 14 — The review is an outstanding resource for anyone who is interested in reading and speed r...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/1529100615623268" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1529100615623268</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Balota, 2016by DA Balota · 2016 · Cited by 14 — The review is an outstanding resource for anyone who is interested in reading and speed r...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: x.com  
-   Link: <a href="https://x.com/acagamic/status/1752371021523333218?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://x.com/acagamic/status/1752371021523333218?lang=en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>X (formerly Twitter)How to Better Skim Academic Papers...Read the abstract to grasp the paper&#x27;s major points. This gives you the gist of...</p></details>
+   Link:<a href="https://x.com/acagamic/status/1752371021523333218?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://x.com/acagamic/status/1752371021523333218?lang=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>X (formerly Twitter)How to Better Skim Academic Papers...Read the abstract to grasp the paper&#x27;s major points. This gives you the gist of...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: law.ac.uk  
    Title: Here, we explain some common contractual  
-   Link: <a href="https://www.law.ac.uk/about/press-releases/more-than-two-thirds-of-people-dont-read-their-contracts/" target="_blank" rel="noopener noreferrer nofollow">https://www.law.ac.uk/about/press-releases/more-than-two-thirds-of-people-dont-read-their-contracts/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The University of LawMore than two thirds of people don&#x27;t read their contractsMarch 30, 2023 — 30 Mar 2023 — Recent findings show that mo...</p></details>
+   Link:<a href="https://www.law.ac.uk/about/press-releases/more-than-two-thirds-of-people-dont-read-their-contracts/" target="_blank" rel="noopener noreferrer nofollow">https://www.law.ac.uk/about/press-releases/more-than-two-thirds-of-people-dont-read-their-contracts/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The University of LawMore than two thirds of people don&#x27;t read their contractsMarch 30, 2023 — 30 Mar 2023 — Recent findings show that mo...</p></details>
    Published: March 30, 2023  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Theories of reading should account for speed  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3579520/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3579520/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>of reading should predict reading speed - PMC - NIHby DG Pelli · 2012 · Cited by 8 — Reading speed matters in most real-world contexts, a...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3579520/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3579520/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of reading should predict reading speed - PMC - NIHby DG Pelli · 2012 · Cited by 8 — Reading speed matters in most real-world contexts, a...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/pdf/10.1080/10862967209547021" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/pdf/10.1080/10862967209547021</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>and Scanning Improvementby MJ Maxwell · 1972 · Cited by 81 — Evidence from [eye-movement](&amp;#123;&amp;#123; &#x27;eye-tradeoff/&#x27; | relative_url &amp;#125;&amp;#125;) photography studies reveals that reading at rates...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/pdf/10.1080/10862967209547021" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/pdf/10.1080/10862967209547021</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Scanning Improvementby MJ Maxwell · 1972 · Cited by 81 — Evidence from [eye-movement](&amp;#123;&amp;#123; &#x27;eye-tradeoff/&#x27; | relative_url &amp;#125;&amp;#125;) photography studies reveals that reading at rates...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: law.stanford.edu  
-   Link: <a href="https://law.stanford.edu/wp-content/uploads/2015/06/Gilson-et-al-Text-and-Context-Contract-Interpretation-100-Cornell-Law-Review-23.pdf" target="_blank" rel="noopener noreferrer nofollow">https://law.stanford.edu/wp-content/uploads/2015/06/Gilson-et-al-Text-and-Context-Contract-Interpretation-100-Cornell-Law-Review-23.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Law SchoolTEXT AND CONTEXT: CONTRACT INTERPRETATION AS...by RJ Gilson · Cited by 227 — The interplay of uncertainty and scale i...</p></details>
+   Link:<a href="https://law.stanford.edu/wp-content/uploads/2015/06/Gilson-et-al-Text-and-Context-Contract-Interpretation-100-Cornell-Law-Review-23.pdf" target="_blank" rel="noopener noreferrer nofollow">https://law.stanford.edu/wp-content/uploads/2015/06/Gilson-et-al-Text-and-Context-Contract-Interpretation-100-Cornell-Law-Review-23.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Law SchoolTEXT AND CONTEXT: CONTRACT INTERPRETATION AS...by RJ Gilson · Cited by 227 — The interplay of uncertainty and scale i...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sussex.ac.uk  
-   Link: <a href="https://www.sussex.ac.uk/research/centres/centre-for-international-education/projects/fasterread" target="_blank" rel="noopener noreferrer nofollow">https://www.sussex.ac.uk/research/centres/centre-for-international-education/projects/fasterread</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Faster Read: Research projectsThe Faster Read (FR) aims to develop the reading comprehension, interpretation and engagement of stude...</p></details>
+   Link:<a href="https://www.sussex.ac.uk/research/centres/centre-for-international-education/projects/fasterread" target="_blank" rel="noopener noreferrer nofollow">https://www.sussex.ac.uk/research/centres/centre-for-international-education/projects/fasterread</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Faster Read: Research projectsThe Faster Read (FR) aims to develop the reading comprehension, interpretation and engagement of stude...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/PhD/comments/qoyygf/tips_for_reading_papers_faster/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/PhD/comments/qoyygf/tips_for_reading_papers_faster/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tips for reading papers faster: r/PhDThe main tip is that you likely don&#x27;t need to read the majority of it. Read the abstract. If it see...</p></details>
+   Link:<a href="https://www.reddit.com/r/PhD/comments/qoyygf/tips_for_reading_papers_faster/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/PhD/comments/qoyygf/tips_for_reading_papers_faster/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tips for reading papers faster: r/PhDThe main tip is that you likely don&#x27;t need to read the majority of it. Read the abstract. If it see...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/tessa-manuello_legaldesign-contracts-innovation-activity-7307756283053371392-IFZ7" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/tessa-manuello_legaldesign-contracts-innovation-activity-7307756283053371392-IFZ7</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why are contracts so hard to read? | Tessa ManuelloWith Lawformer&#x27;s Modify feature, you can update existing clauses simply by providing s...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/tessa-manuello_legaldesign-contracts-innovation-activity-7307756283053371392-IFZ7" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/tessa-manuello_legaldesign-contracts-innovation-activity-7307756283053371392-IFZ7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why are contracts so hard to read? | Tessa ManuelloWith Lawformer&#x27;s Modify feature, you can update existing clauses simply by providing s...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/342978249_The_Effect_of_Skimming_Method_to_Improve_Students%27_Ability_in_Reading_Comprehension_on_Narrative_Text" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342978249_The_Effect_of_Skimming_Method_to_Improve_Students%27_Ability_in_Reading_Comprehension_on_Narrative_Text</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This research deals with the effect of using skimming method in teaching reading comprehension smk negeri 2 pematangsiantar on...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/342978249_The_Effect_of_Skimming_Method_to_Improve_Students%27_Ability_in_Reading_Comprehension_on_Narrative_Text" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342978249_The_Effect_of_Skimming_Method_to_Improve_Students%27_Ability_in_Reading_Comprehension_on_Narrative_Text</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This research deals with the effect of using skimming method in teaching reading comprehension smk negeri 2 pematangsiantar on...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/355589510_THE_INFLUENCE_OF_PLAIN_LANGUAGE_AND_STRUCTURE_ON_THE_READABILITY_OF_CONTRACTS" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/355589510_THE_INFLUENCE_OF_PLAIN_LANGUAGE_AND_STRUCTURE_ON_THE_READABILITY_OF_CONTRACTS</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the influence of plain language and structure on...6 May 2026 — As a consequence of this lack of bargaining power, consumers entering in...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/355589510_THE_INFLUENCE_OF_PLAIN_LANGUAGE_AND_STRUCTURE_ON_THE_READABILITY_OF_CONTRACTS" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/355589510_THE_INFLUENCE_OF_PLAIN_LANGUAGE_AND_STRUCTURE_ON_THE_READABILITY_OF_CONTRACTS</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the influence of plain language and structure on...6 May 2026 — As a consequence of this lack of bargaining power, consumers entering in...</p></details>
    Published: May 2026  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: lawsociety.org.uk  
-   Link: <a href="https://www.lawsociety.org.uk/topics/in-house/do-not-forget-your-commas-the-importance-of-language-and-grammar-in-contract-drafting" target="_blank" rel="noopener noreferrer nofollow">https://www.lawsociety.org.uk/topics/in-house/do-not-forget-your-commas-the-importance-of-language-and-grammar-in-contract-drafting</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why clear language makes for strong contracts26 Jul 2023 — Daniela Licciardo explains why grammar and language are so important for you...</p></details>
+   Link:<a href="https://www.lawsociety.org.uk/topics/in-house/do-not-forget-your-commas-the-importance-of-language-and-grammar-in-contract-drafting" target="_blank" rel="noopener noreferrer nofollow">https://www.lawsociety.org.uk/topics/in-house/do-not-forget-your-commas-the-importance-of-language-and-grammar-in-contract-drafting</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why clear language makes for strong contracts26 Jul 2023 — Daniela Licciardo explains why grammar and language are so important for you...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: bclawreview.bc.edu  
-   Link: <a href="https://bclawreview.bc.edu/articles/320/files/63a92425205eb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bclawreview.bc.edu/articles/320/files/63a92425205eb.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Boston College Law ReviewTHE DUTY TO READ THE UNREADABLEby U Benoliel · 2019 · Cited by 277 — Abstract: The duty to read doctrine is a we...</p></details>
+   Link:<a href="https://bclawreview.bc.edu/articles/320/files/63a92425205eb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bclawreview.bc.edu/articles/320/files/63a92425205eb.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Boston College Law ReviewTHE DUTY TO READ THE UNREADABLEby U Benoliel · 2019 · Cited by 277 — Abstract: The duty to read doctrine is a we...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: research.chalmers.se  
-   Link: <a href="https://research.chalmers.se/publication/544089/file/544089_Fulltext.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.chalmers.se/publication/544089/file/544089_Fulltext.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>English, whether in partial or full EMI, are struggling readers;...Read more...</p></details>
+   Link:<a href="https://research.chalmers.se/publication/544089/file/544089_Fulltext.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.chalmers.se/publication/544089/file/544089_Fulltext.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English, whether in partial or full EMI, are struggling readers;...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: theguardian.com  
    Title: speed reading claims discredited by new report  
-   Link: <a href="https://www.theguardian.com/books/2016/jan/29/speed-reading-claims-discredited-by-new-report" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/books/2016/jan/29/speed-reading-claims-discredited-by-new-report</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Books29 Jan 2016 — Companies and apps that promise to rapidly increase reading speeds are on a hiding to nothing, according to new resear...</p></details>
+   Link:<a href="https://www.theguardian.com/books/2016/jan/29/speed-reading-claims-discredited-by-new-report" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/books/2016/jan/29/speed-reading-claims-discredited-by-new-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Books29 Jan 2016 — Companies and apps that promise to rapidly increase reading speeds are on a hiding to nothing, according to new resear...</p></details>

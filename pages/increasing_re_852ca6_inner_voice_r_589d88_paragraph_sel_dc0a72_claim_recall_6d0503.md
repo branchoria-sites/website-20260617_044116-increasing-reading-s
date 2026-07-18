@@ -269,7 +269,7 @@ image: /assets/images/increasing_re_852ca6_inner_voice_r_589d88_paragraph_sel_dc
 
 ## Introduction
 
-When you increase reading speed by reducing inner narration, the key question is not whether the paragraph felt easy. It is whether you can still identify its main claim after you have moved on. Fast reading often creates a sense of familiarity that can be mistaken for understanding. A reader may recognise the topic, remember a few examples, and still be unable to state what the author was actually arguing. Research on comprehension monitoring repeatedly shows that readers are not always accurate judges of their own understanding and that active checks are needed to detect these gaps. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6071415/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2IDEALS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The goal was to investigate the nature of online comprehension monitoring, its predictors, and its relation to reading comprehension.Read...</span></span></span>
+When you increase reading speed by reducing inner narration, the key question is not whether the paragraph felt easy. It is whether you can still identify its main claim after you have moved on. Fast reading often creates a sense of familiarity that can be mistaken for understanding. A reader may recognise the topic, remember a few examples, and still be unable to state what the author was actually arguing. Research on comprehension monitoring repeatedly shows that readers are not always accurate judges of their own understanding and that active checks are needed to detect these gaps.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6071415/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2IDEALS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The goal was to investigate the nature of online comprehension monitoring, its predictors, and its relation to reading comprehension.Read...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_inner_voice_r_589d88_paragraph_sel_dc0a72_claim_recall_6d0503-Illustration-1-dark.svg" | relative_url }}" alt="Claim recall illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_inner_voice_r_589d88_paragraph_sel_dc0a72_claim_recall_6d0503-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_inner_voice_r_589d88_paragraph_sel_dc0a72_claim_recall_6d0503-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -279,7 +279,7 @@ A brief claim-recall test is one of the most efficient safeguards. It requires o
 
 The danger of faster paragraph reading is not necessarily misunderstanding every sentence. More often, the problem is that the reader retains fragments without retaining the central point that connects them.
 
-Psychologists studying comprehension monitoring describe a common mismatch between perceived understanding and actual understanding. Readers frequently feel confident because the text flowed smoothly, yet later struggle to explain what it meant. This is a form of fluency illusion: processing feels successful, so comprehension is assumed rather than verified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6071415/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The goal was to investigate the nature of online comprehension monitoring, its predictors, and its relation to reading comprehension.Read...</span></span></span>
+Psychologists studying comprehension monitoring describe a common mismatch between perceived understanding and actual understanding. Readers frequently feel confident because the text flowed smoothly, yet later struggle to explain what it meant. This is a form of fluency illusion: processing feels successful, so comprehension is assumed rather than verified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6071415/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The goal was to investigate the nature of online comprehension monitoring, its predictors, and its relation to reading comprehension.Read...</span></span></span>
 
 Consider a paragraph that argues:
 
@@ -287,7 +287,7 @@ Consider a paragraph that argues:
 
 A reader moving quickly might later remember "remote work", "commuting", and "productivity". However, remembering those words is not the same as recalling the claim. The actual claim is that productivity improves because of specific mechanisms. If those relationships disappear, the reader has retained keywords rather than meaning.
 
-This distinction matters because comprehension depends heavily on recognising how ideas fit together. Research on text structure and main-idea generation shows that readers who can identify the central idea and its organisation generally achieve deeper understanding and stronger recall than readers who merely remember isolated details. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.eric.ed.gov/fulltext/ED624282.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.eric.ed.gov">[ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.eric.ed.gov</span><span class="citation-popover-title">ERIC“What&#x27;s the Main Idea?”: Using Text Structure to Build</span><span class="citation-popover-snippet">ERICApril 26, 2022 — by AK Hudson · 2021 · Cited by 23 — The structure of a text can be used as a framework for accelerating students&#x27; co...</span><span class="citation-popover-meta">Published: April 26, 2022</span></span></span>
+This distinction matters because comprehension depends heavily on recognising how ideas fit together. Research on text structure and main-idea generation shows that readers who can identify the central idea and its organisation generally achieve deeper understanding and stronger recall than readers who merely remember isolated details.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.eric.ed.gov/fulltext/ED624282.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.eric.ed.gov">[ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.eric.ed.gov</span><span class="citation-popover-title">ERIC“What&#x27;s the Main Idea?”: Using Text Structure to Build</span><span class="citation-popover-snippet">ERICApril 26, 2022 — by AK Hudson · 2021 · Cited by 23 — The structure of a text can be used as a framework for accelerating students&#x27; co...</span><span class="citation-popover-meta">Published: April 26, 2022</span></span></span>
 
 ## A Simple No-Look Test for the Main Point
 
@@ -314,7 +314,7 @@ A useful implementation sequence is:
 
 </div>
 
-This works because recall is a stronger indicator of understanding than recognition. When the text remains visible, readers can mistake recognition for memory. Once the paragraph is hidden, they must retrieve the claim from their mental representation of the text. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.structural-learning.com/post/fluency-illusions-students-think-they-know" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: structural-learning.com">[Structural Learning]</a><span class="citation-popover" role="note"><span class="citation-popover-source">structural-learning.com</span><span class="citation-popover-title">fluency illusions students think they know</span><span class="citation-popover-snippet">Learners recognise familiar material but cannot always produce it without cues...Read more...</span></span></span>
+This works because recall is a stronger indicator of understanding than recognition. When the text remains visible, readers can mistake recognition for memory. Once the paragraph is hidden, they must retrieve the claim from their mental representation of the text.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.structural-learning.com/post/fluency-illusions-students-think-they-know" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: structural-learning.com">[Structural Learning]</a><span class="citation-popover" role="note"><span class="citation-popover-source">structural-learning.com</span><span class="citation-popover-title">fluency illusions students think they know</span><span class="citation-popover-snippet">Learners recognise familiar material but cannot always produce it without cues...Read more...</span></span></span>
 
 The test becomes even more informative if the paragraph is argumentative or explanatory. In those cases, try completing the sentence:
 
@@ -344,7 +344,7 @@ A successful recall test captures the author's idea accurately even when phrasin
 
 The first response preserves the relationship between ideas. The second only identifies the topic.
 
-Research on summarisation, self-monitoring, and main-idea instruction consistently finds that generating the central idea of a passage is closely tied to stronger comprehension and recall. Readers who can identify the main idea tend to understand the text more deeply than readers who focus primarily on surface details. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/Yan-Ping-Xin/publication/249833915_Enhancing_Main_Idea_Comprehension_for_Students_with_Learning_Problems_The_Role_of_a_Summarization_Strategy_and_Self-Monitoring_Instruction/links/5786f3a408ae3949cf556610/Enhancing-Main-Idea-Comprehension-for-Students-with-Learning-Problems-The-Role-of-a-Summarization-Strategy-and-Self-Monitoring-Instruction.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ERIC+3ResearchGate+3Rowan Digital Works]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">The Role of a Summarization Strategy and Self-MonitoringThis study investigated the effectiveness of a main idea strategy and...</span></span></span>
+Research on summarisation, self-monitoring, and main-idea instruction consistently finds that generating the central idea of a passage is closely tied to stronger comprehension and recall. Readers who can identify the main idea tend to understand the text more deeply than readers who focus primarily on surface details.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/profile/Yan-Ping-Xin/publication/249833915_Enhancing_Main_Idea_Comprehension_for_Students_with_Learning_Problems_The_Role_of_a_Summarization_Strategy_and_Self-Monitoring_Instruction/links/5786f3a408ae3949cf556610/Enhancing-Main-Idea-Comprehension-for-Students-with-Learning-Problems-The-Role-of-a-Summarization-Strategy-and-Self-Monitoring-Instruction.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ERIC+3ResearchGate+3Rowan Digital Works]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">The Role of a Summarization Strategy and Self-MonitoringThis study investigated the effectiveness of a main idea strategy and...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_inner_voice_r_589d88_paragraph_sel_dc0a72_claim_recall_6d0503-Illustration-2-dark.svg" | relative_url }}" alt="Claim recall illustration 2" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_inner_voice_r_589d88_paragraph_sel_dc0a72_claim_recall_6d0503-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_inner_voice_r_589d88_paragraph_sel_dc0a72_claim_recall_6d0503-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -363,7 +363,7 @@ A better sequence is:
 
 </div>
 
-This approach takes advantage of well-established findings that generating explanations, summaries, or answers strengthens understanding more effectively than passive review alone. Producing an explanation forces readers to organise information and reveal gaps that would otherwise remain hidden. Andyʼs working notes+3education.asu.edu+3jstor.org <span class="citation-link-wrap"><a class="citation-inline-link" href="https://education.asu.edu/sites/g/files/litvpz656/files/lcl/instruction_based_on_self_explanation.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.asu.edu">[education.asu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.asu.edu</span><span class="citation-popover-title">instruction based on self-explanation</span><span class="citation-popover-snippet">March 18, 2019 — Over twenty years of research has documented the fact that explaining a concept aloud to oneself enhances learning and a...</span><span class="citation-popover-meta">Published: March 18, 2019</span></span></span>
+This approach takes advantage of well-established findings that generating explanations, summaries, or answers strengthens understanding more effectively than passive review alone. Producing an explanation forces readers to organise information and reveal gaps that would otherwise remain hidden. Andyʼs working notes+3education.asu.edu+3jstor.org<span class="citation-link-wrap"><a class="citation-inline-link" href="https://education.asu.edu/sites/g/files/litvpz656/files/lcl/instruction_based_on_self_explanation.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.asu.edu">[education.asu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.asu.edu</span><span class="citation-popover-title">instruction based on self-explanation</span><span class="citation-popover-snippet">March 18, 2019 — Over twenty years of research has documented the fact that explaining a concept aloud to oneself enhances learning and a...</span><span class="citation-popover-meta">Published: March 18, 2019</span></span></span>
 
 For readers reducing inner speech, this distinction is especially important. The objective is not merely to move the eyes faster. The objective is to process meaning efficiently. Retrieval-based checks reveal whether meaning was actually retained.
 
@@ -387,7 +387,7 @@ Slowing down becomes appropriate when several paragraphs in succession produce a
 
 </div>
 
-These signs suggest that reading speed has moved beyond the rate at which ideas are being integrated into a coherent representation of the text. Comprehension-monitoring research emphasises that skilled readers adjust strategy when understanding weakens rather than maintaining a fixed pace regardless of results. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6071415/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2IDEALS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The goal was to investigate the nature of online comprehension monitoring, its predictors, and its relation to reading comprehension.Read...</span></span></span>
+These signs suggest that reading speed has moved beyond the rate at which ideas are being integrated into a coherent representation of the text. Comprehension-monitoring research emphasises that skilled readers adjust strategy when understanding weakens rather than maintaining a fixed pace regardless of results.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6071415/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2IDEALS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The goal was to investigate the nature of online comprehension monitoring, its predictors, and its relation to reading comprehension.Read...</span></span></span>
 
 Importantly, slowing down does not mean returning to heavy word-by-word inner narration. Often a small reduction in pace is enough to restore reliable claim recall.
 
@@ -420,178 +420,178 @@ That question aligns reading speed with the outcome that matters most: preservin
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can You Name the Paragraph&#x27;s Main Point?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can You Name the Paragraph&#x27;s Main Point?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Teaches identifying main arguments and extracting central claims from text.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Teaches identifying main arguments and extracting central claims from text.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-        </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+</h4>
+<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Explains retrieval practice and testing comprehension rather than relying on familiarity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains retrieval practice and testing comprehension rather than relying on familiarity.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Learning+how+to+Learn+by+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Learning how to Learn on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Learning+how+to+Learn+by+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Learning how to Learn">Learning how to Learn</a>
-        </h4>
-        <p class="fr-book-author">By Barbara A. Oakley, Terrence Joseph Sejnowski et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Learning+how+to+Learn+by+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Learning how to Learn on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Learning+how+to+Learn+by+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Learning how to Learn">Learning how to Learn</a>
+</h4>
+<p class="fr-book-author">By Barbara A. Oakley, Terrence Joseph Sejnowski et al.</p>
         
-        <p class="fr-book-desc">Helps readers monitor understanding and retain key ideas.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Learning+how+to+Learn+by+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers monitor understanding and retain key ideas.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Learning+how+to+Learn+by+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Reading+Mind+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading Mind on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Reading+Mind+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading Mind">Reading Mind</a>
-        </h4>
-        <p class="fr-book-author">By Daniel T. Willingham</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Reading+Mind+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading Mind on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Reading+Mind+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading Mind">Reading Mind</a>
+</h4>
+<p class="fr-book-author">By Daniel T. Willingham</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Reading, Reading comprehension, Cognitive psychology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Reading+Mind+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Reading, Reading comprehension, Cognitive psychology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Reading+Mind+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Learning+how+to+Learn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Learning how to Learn</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Learning+how+to+Learn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Learning how to Learn</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claim-recall-can-you-name-the-paragraph-s-main-point-increasing-teacher-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom poster -book -books" data-ebay-reference="claim-recall-can-you-name-the-paragraph-s-main-point-increasing-teacher-classroom-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Teacher Classroom Quote Framed Wall Art Poster Canvas Print Picture"><span>eBay</span></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claim-recall-can-you-name-the-paragraph-s-main-point-increasing-teacher-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom poster -book -books" data-ebay-reference="claim-recall-can-you-name-the-paragraph-s-main-point-increasing-teacher-classroom-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Teacher Classroom Quote Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claim-recall-can-you-name-the-paragraph-s-main-point-increasing-teacher-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom poster -book -books" data-ebay-reference="claim-recall-can-you-name-the-paragraph-s-main-point-increasing-teacher-classroom-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher classroom poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher classroom poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claim-recall-can-you-name-the-paragraph-s-main-point-increasing-teacher-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom poster -book -books" data-ebay-reference="claim-recall-can-you-name-the-paragraph-s-main-point-increasing-teacher-classroom-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claim-recall-can-you-name-the-paragraph-s-main-point-increasing-teacher-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom poster -book -books" data-ebay-reference="claim-recall-can-you-name-the-paragraph-s-main-point-increasing-teacher-classroom-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Teacher Classroom Quote Framed Wall Art Poster Canvas Print Picture"><span>eBay</span></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claim-recall-can-you-name-the-paragraph-s-main-point-increasing-teacher-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom poster -book -books" data-ebay-reference="claim-recall-can-you-name-the-paragraph-s-main-point-increasing-teacher-classroom-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Teacher Classroom Quote Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claim-recall-can-you-name-the-paragraph-s-main-point-increasing-teacher-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom poster -book -books" data-ebay-reference="claim-recall-can-you-name-the-paragraph-s-main-point-increasing-teacher-classroom-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher classroom poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: teacher classroom poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claim-recall-can-you-name-the-paragraph-s-main-point-increasing-teacher-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom poster -book -books" data-ebay-reference="claim-recall-can-you-name-the-paragraph-s-main-point-increasing-teacher-classroom-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claim-recall-can-you-name-the-paragraph-s-main-point-increasing-teacher-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom poster -book -books" data-ebay-reference="claim-recall-can-you-name-the-paragraph-s-main-point-increasing-teacher-classroom-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Armed Teacher in Classroom Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/3dd7201994d1731c433b.jpg' | relative_url }}" alt="Listing image for Armed Teacher in Classroom Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claim-recall-can-you-name-the-paragraph-s-main-point-increasing-teacher-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom poster -book -books" data-ebay-reference="claim-recall-can-you-name-the-paragraph-s-main-point-increasing-teacher-classroom-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Armed Teacher in Classroom Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claim-recall-can-you-name-the-paragraph-s-main-point-increasing-teacher-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom poster -book -books" data-ebay-reference="claim-recall-can-you-name-the-paragraph-s-main-point-increasing-teacher-classroom-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher classroom poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher classroom poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claim-recall-can-you-name-the-paragraph-s-main-point-increasing-teacher-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom poster -book -books" data-ebay-reference="claim-recall-can-you-name-the-paragraph-s-main-point-increasing-teacher-classroom-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claim-recall-can-you-name-the-paragraph-s-main-point-increasing-teacher-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom poster -book -books" data-ebay-reference="claim-recall-can-you-name-the-paragraph-s-main-point-increasing-teacher-classroom-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Armed Teacher in Classroom Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/3dd7201994d1731c433b.jpg' | relative_url }}" alt="Listing image for Armed Teacher in Classroom Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claim-recall-can-you-name-the-paragraph-s-main-point-increasing-teacher-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom poster -book -books" data-ebay-reference="claim-recall-can-you-name-the-paragraph-s-main-point-increasing-teacher-classroom-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Armed Teacher in Classroom Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claim-recall-can-you-name-the-paragraph-s-main-point-increasing-teacher-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom poster -book -books" data-ebay-reference="claim-recall-can-you-name-the-paragraph-s-main-point-increasing-teacher-classroom-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher classroom poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: teacher classroom poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claim-recall-can-you-name-the-paragraph-s-main-point-increasing-teacher-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom poster -book -books" data-ebay-reference="claim-recall-can-you-name-the-paragraph-s-main-point-increasing-teacher-classroom-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claim-recall-can-you-name-the-paragraph-s-main-point-increasing-teacher-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom poster -book -books" data-ebay-reference="claim-recall-can-you-name-the-paragraph-s-main-point-increasing-teacher-classroom-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Teacher Educational Poster Set Of 6 Classroom English Fun LAMINATED 30cm X 42cm"><img src="{{ '/assets/images/marketplace-covers/fd818066b7b03cbe56f7.jpg' | relative_url }}" alt="Listing image for Teacher Educational Poster Set Of 6 Classroom English Fun LAMINATED 30cm X 42cm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claim-recall-can-you-name-the-paragraph-s-main-point-increasing-teacher-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom poster -book -books" data-ebay-reference="claim-recall-can-you-name-the-paragraph-s-main-point-increasing-teacher-classroom-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Teacher Educational Poster Set Of 6 Classroom English Fun LAMINATED 30cm X 42cm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claim-recall-can-you-name-the-paragraph-s-main-point-increasing-teacher-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom poster -book -books" data-ebay-reference="claim-recall-can-you-name-the-paragraph-s-main-point-increasing-teacher-classroom-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher classroom poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher classroom poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claim-recall-can-you-name-the-paragraph-s-main-point-increasing-teacher-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom poster -book -books" data-ebay-reference="claim-recall-can-you-name-the-paragraph-s-main-point-increasing-teacher-classroom-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claim-recall-can-you-name-the-paragraph-s-main-point-increasing-teacher-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom poster -book -books" data-ebay-reference="claim-recall-can-you-name-the-paragraph-s-main-point-increasing-teacher-classroom-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claim-recall-can-you-name-the-paragraph-s-main-point-increasing-teacher-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom poster -book -books" data-ebay-reference="claim-recall-can-you-name-the-paragraph-s-main-point-increasing-teacher-classroom-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Teacher Educational Poster Set Of 6 Classroom English Fun LAMINATED 30cm X 42cm"><img src="{{ '/assets/images/marketplace-covers/fd818066b7b03cbe56f7.jpg' | relative_url }}" alt="Listing image for Teacher Educational Poster Set Of 6 Classroom English Fun LAMINATED 30cm X 42cm" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claim-recall-can-you-name-the-paragraph-s-main-point-increasing-teacher-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom poster -book -books" data-ebay-reference="claim-recall-can-you-name-the-paragraph-s-main-point-increasing-teacher-classroom-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Teacher Educational Poster Set Of 6 Classroom English Fun LAMINATED 30cm X 42cm</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claim-recall-can-you-name-the-paragraph-s-main-point-increasing-teacher-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom poster -book -books" data-ebay-reference="claim-recall-can-you-name-the-paragraph-s-main-point-increasing-teacher-classroom-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher classroom poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: teacher classroom poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claim-recall-can-you-name-the-paragraph-s-main-point-increasing-teacher-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom poster -book -books" data-ebay-reference="claim-recall-can-you-name-the-paragraph-s-main-point-increasing-teacher-classroom-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claim-recall-can-you-name-the-paragraph-s-main-point-increasing-teacher-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher classroom poster -book -books" data-ebay-reference="claim-recall-can-you-name-the-paragraph-s-main-point-increasing-teacher-classroom-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -607,7 +607,7 @@ That question aligns reading speed with the outcome that matters most: preservin
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -627,7 +627,7 @@ That question aligns reading speed with the outcome that matters most: preservin
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -659,7 +659,7 @@ That question aligns reading speed with the outcome that matters most: preservin
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -711,7 +711,7 @@ That question aligns reading speed with the outcome that matters most: preservin
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -756,7 +756,7 @@ That question aligns reading speed with the outcome that matters most: preservin
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -797,126 +797,126 @@ That question aligns reading speed with the outcome that matters most: preservin
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6071415/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6071415/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The goal was to investigate the nature of online comprehension monitoring, its predictors, and its relation to reading comprehension.Read...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6071415/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6071415/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The goal was to investigate the nature of online comprehension monitoring, its predictors, and its relation to reading comprehension.Read...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ideals.illinois.edu  
    Title: IDEALSComprehension monitoring  
-   Link: <a href="https://www.ideals.illinois.edu/items/17988/bitstreams/64436/data.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ideals.illinois.edu/items/17988/bitstreams/64436/data.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>monitoring - IDEALSby L Baker · 1979 · Cited by 508 — Retrospective [reports](&amp;#123;&amp;#123; &#x27;reports/&#x27; | relative_url &amp;#125;&amp;#125;) and analysis of the recall protocols revealed that failures t...</p></details>
+   Link:<a href="https://www.ideals.illinois.edu/items/17988/bitstreams/64436/data.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ideals.illinois.edu/items/17988/bitstreams/64436/data.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>monitoring - IDEALSby L Baker · 1979 · Cited by 508 — Retrospective [reports](&amp;#123;&amp;#123; &#x27;reports/&#x27; | relative_url &amp;#125;&amp;#125;) and analysis of the recall protocols revealed that failures t...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: <a href="https://educationendowmentfoundation.org.uk/reading-house/comprehension-monitoring" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/reading-house/comprehension-monitoring</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Comprehension monitoringThe process in which readers determine whether they understand and can articulate what they are reading.Read more...</p></details>
+   Link:<a href="https://educationendowmentfoundation.org.uk/reading-house/comprehension-monitoring" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/reading-house/comprehension-monitoring</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Comprehension monitoringThe process in which readers determine whether they understand and can articulate what they are reading.Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: structural-learning.com  
    Title: fluency illusions students think they know  
-   Link: <a href="https://www.structural-learning.com/post/fluency-illusions-students-think-they-know" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/fluency-illusions-students-think-they-know</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Learners recognise familiar material but cannot always produce it without cues...Read more...</p></details>
+   Link:<a href="https://www.structural-learning.com/post/fluency-illusions-students-think-they-know" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/fluency-illusions-students-think-they-know</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Learners recognise familiar material but cannot always produce it without cues...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7539662/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7539662/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of a Paraphrasing and Text Structure Intervention...by EA Stevens · 2019 · Cited by 55 — For students with reading disabilities...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7539662/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7539662/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of a Paraphrasing and Text Structure Intervention...by EA Stevens · 2019 · Cited by 55 — For students with reading disabilities...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/profile/Yan-Ping-Xin/publication/249833915_Enhancing_Main_Idea_Comprehension_for_Students_with_Learning_Problems_The_Role_of_a_Summarization_Strategy_and_Self-Monitoring_Instruction/links/5786f3a408ae3949cf556610/Enhancing-Main-Idea-Comprehension-for-Students-with-Learning-Problems-The-Role-of-a-Summarization-Strategy-and-Self-Monitoring-Instruction.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Yan-Ping-Xin/publication/249833915_Enhancing_Main_Idea_Comprehension_for_Students_with_Learning_Problems_The_Role_of_a_Summarization_Strategy_and_Self-Monitoring_Instruction/links/5786f3a408ae3949cf556610/Enhancing-Main-Idea-Comprehension-for-Students-with-Learning-Problems-The-Role-of-a-Summarization-Strategy-and-Self-Monitoring-Instruction.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Role of a Summarization Strategy and Self-MonitoringThis study investigated the effectiveness of a main idea strategy and...</p></details>
+   Link:<a href="https://www.researchgate.net/profile/Yan-Ping-Xin/publication/249833915_Enhancing_Main_Idea_Comprehension_for_Students_with_Learning_Problems_The_Role_of_a_Summarization_Strategy_and_Self-Monitoring_Instruction/links/5786f3a408ae3949cf556610/Enhancing-Main-Idea-Comprehension-for-Students-with-Learning-Problems-The-Role-of-a-Summarization-Strategy-and-Self-Monitoring-Instruction.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Yan-Ping-Xin/publication/249833915_Enhancing_Main_Idea_Comprehension_for_Students_with_Learning_Problems_The_Role_of_a_Summarization_Strategy_and_Self-Monitoring_Instruction/links/5786f3a408ae3949cf556610/Enhancing-Main-Idea-Comprehension-for-Students-with-Learning-Problems-The-Role-of-a-Summarization-Strategy-and-Self-Monitoring-Instruction.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Role of a Summarization Strategy and Self-MonitoringThis study investigated the effectiveness of a main idea strategy and...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: rdw.rowan.edu  
-   Link: <a href="https://rdw.rowan.edu/cgi/viewcontent.cgi?article=1515&amp;context=etd" target="_blank" rel="noopener noreferrer nofollow">https://rdw.rowan.edu/cgi/viewcontent.cgi?article=1515&amp;context=etd</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rowan Digital WorksUsing self-monitoring strategy instruction to improve reading...by M Brokenshire · 2014 · Cited by 2 — Their review f...</p></details>
+   Link:<a href="https://rdw.rowan.edu/cgi/viewcontent.cgi?article=1515&amp;context=etd" target="_blank" rel="noopener noreferrer nofollow">https://rdw.rowan.edu/cgi/viewcontent.cgi?article=1515&amp;context=etd</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rowan Digital WorksUsing self-monitoring strategy instruction to improve reading...by M Brokenshire · 2014 · Cited by 2 — Their review f...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: education.asu.edu  
    Title: instruction based on self-explanation  
-   Link: <a href="https://education.asu.edu/sites/g/files/litvpz656/files/lcl/instruction_based_on_self_explanation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://education.asu.edu/sites/g/files/litvpz656/files/lcl/instruction_based_on_self_explanation.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>March 18, 2019 — Over twenty years of research has documented the fact that explaining a concept aloud to oneself enhances learning and a...</p></details>
+   Link:<a href="https://education.asu.edu/sites/g/files/litvpz656/files/lcl/instruction_based_on_self_explanation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://education.asu.edu/sites/g/files/litvpz656/files/lcl/instruction_based_on_self_explanation.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 18, 2019 — Over twenty years of research has documented the fact that explaining a concept aloud to oneself enhances learning and a...</p></details>
    Published: March 18, 2019  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/20198324" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/20198324</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The results indicate that student generation of questions while reading prose improves comprehension. In these studies all...</p></details>
+   Link:<a href="https://www.jstor.org/stable/20198324" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/20198324</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The results indicate that student generation of questions while reading prose improves comprehension. In these studies all...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/profile/Linda-Baker-2/publication/49176467_Comprehension_Monitoring_Identifying_and_Coping_with_Text_Confusions/links/0fcfd50d1b7e48acc7000000/Comprehension-Monitoring-Identifying-and-Coping-with-Text-Confusions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Linda-Baker-2/publication/49176467_Comprehension_Monitoring_Identifying_and_Coping_with_Text_Confusions/links/0fcfd50d1b7e48acc7000000/Comprehension-Monitoring-Identifying-and-Coping-with-Text-Confusions.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Literacy ResearchThis study explored comprehension monitoring by having college students read and recall text containing inten...</p></details>
+   Link:<a href="https://www.researchgate.net/profile/Linda-Baker-2/publication/49176467_Comprehension_Monitoring_Identifying_and_Coping_with_Text_Confusions/links/0fcfd50d1b7e48acc7000000/Comprehension-Monitoring-Identifying-and-Coping-with-Text-Confusions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Linda-Baker-2/publication/49176467_Comprehension_Monitoring_Identifying_and_Coping_with_Text_Confusions/links/0fcfd50d1b7e48acc7000000/Comprehension-Monitoring-Identifying-and-Coping-with-Text-Confusions.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Literacy ResearchThis study explored comprehension monitoring by having college students read and recall text containing inten...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: files.eric.ed.gov  
    Title: ERIC“What's the Main Idea?”: Using Text Structure to Build  
-   Link: <a href="https://files.eric.ed.gov/fulltext/ED624282.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/ED624282.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ERICApril 26, 2022 — by AK Hudson · 2021 · Cited by 23 — The structure of a text can be used as a framework for accelerating students&#x27; co...</p></details>
+   Link:<a href="https://files.eric.ed.gov/fulltext/ED624282.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/ED624282.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ERICApril 26, 2022 — by AK Hudson · 2021 · Cited by 23 — The structure of a text can be used as a framework for accelerating students&#x27; co...</p></details>
    Published: April 26, 2022  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: notes.andymatuschak.org  
-   Link: <a href="https://notes.andymatuschak.org/zF9BD4B7W9MaknXXn3Uhvox" target="_blank" rel="noopener noreferrer nofollow">https://notes.andymatuschak.org/zF9BD4B7W9MaknXXn3Uhvox</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Andyʼs working notesSelf-explanation effect27 Jul 2023 — Students who explain what they&#x27;re learning to themselves (Self-explanation) perf...</p></details>
+   Link:<a href="https://notes.andymatuschak.org/zF9BD4B7W9MaknXXn3Uhvox" target="_blank" rel="noopener noreferrer nofollow">https://notes.andymatuschak.org/zF9BD4B7W9MaknXXn3Uhvox</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Andyʼs working notesSelf-explanation effect27 Jul 2023 — Students who explain what they&#x27;re learning to themselves (Self-explanation) perf...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: alliedhealth.ceconnection.com  
-   Link: <a href="https://alliedhealth.ceconnection.com/files/FiveMinutesaDaytoImproveComprehensionMonitoringinOralLanguageContextsAnExploratoryInterventionStudywithPreKindergartnersfromLowIncomeFamilies-1481837511044.pdf" target="_blank" rel="noopener noreferrer nofollow">https://alliedhealth.ceconnection.com/files/FiveMinutesaDaytoImproveComprehensionMonitoringinOralLanguageContextsAnExploratoryInterventionStudywithPreKindergartnersfromLowIncomeFamilies-1481837511044.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Minutes a Day to Improve Comprehension Monitoring in...2016 · Cited by 24 — A few previous studies have shown that comprehension monitor...</p></details>
+   Link:<a href="https://alliedhealth.ceconnection.com/files/FiveMinutesaDaytoImproveComprehensionMonitoringinOralLanguageContextsAnExploratoryInterventionStudywithPreKindergartnersfromLowIncomeFamilies-1481837511044.pdf" target="_blank" rel="noopener noreferrer nofollow">https://alliedhealth.ceconnection.com/files/FiveMinutesaDaytoImproveComprehensionMonitoringinOralLanguageContextsAnExploratoryInterventionStudywithPreKindergartnersfromLowIncomeFamilies-1481837511044.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Minutes a Day to Improve Comprehension Monitoring in...2016 · Cited by 24 — A few previous studies have shown that comprehension monitor...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: academia.edu  
    Title: (PDF) Self-report of reading comprehension strategies  
-   Link: <a href="https://www.academia.edu/2691240/Self_report_of_reading_comprehension_strategies_What_are_we_measuring" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/2691240/Self_report_of_reading_comprehension_strategies_What_are_we_measuring</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>recall main ideas. More recent intervention research has tested multiple strategies, such as reciprocal teaching (including monitoring, s...</p></details>
+   Link:<a href="https://www.academia.edu/2691240/Self_report_of_reading_comprehension_strategies_What_are_we_measuring" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/2691240/Self_report_of_reading_comprehension_strategies_What_are_we_measuring</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>recall main ideas. More recent intervention research has tested multiple strategies, such as reciprocal teaching (including monitoring, s...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: centaur.reading.ac.uk  
-   Link: <a href="https://centaur.reading.ac.uk/82407/12/1747021821999007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centaur.reading.ac.uk/82407/12/1747021821999007.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>inference making and comprehension monitoring in...by H Joseph · 2021 · Cited by 32 — In this study, we used [eye movement](&amp;#123;&amp;#123; &#x27;eye-tradeoff/&#x27; | relative_url &amp;#125;&amp;#125;) methodology to...</p></details>
+   Link:<a href="https://centaur.reading.ac.uk/82407/12/1747021821999007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centaur.reading.ac.uk/82407/12/1747021821999007.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>inference making and comprehension monitoring in...by H Joseph · 2021 · Cited by 32 — In this study, we used [eye movement](&amp;#123;&amp;#123; &#x27;eye-tradeoff/&#x27; | relative_url &amp;#125;&amp;#125;) methodology to...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: [Speed Reading](&#123;&#123; 'myths/' | relative_url &#125;&#125;) Technique: How to Improve Your Comprehension  
-   Link: <a href="https://www.youtube.com/watch?v=M19Ui6ssLhA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=M19Ui6ssLhA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Read And Recall Technique - Learn Everything You Study...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=M19Ui6ssLhA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=M19Ui6ssLhA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Read And Recall Technique - Learn Everything You Study...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: repository.ubn.ru.nl  
    Title: Pinzas Garcia  
-   Link: <a href="https://repository.ubn.ru.nl/bitstream/handle/2066/145979/mmubn000001_160798027.pdf?sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://repository.ubn.ru.nl/bitstream/handle/2066/145979/mmubn000001_160798027.pdf?sequence=1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>monitoring in reading comprehensionby JR Pinzas Garcia · 1993 — Cognitive monitoring in reading comprehension: a study of differences amo...</p></details>
+   Link:<a href="https://repository.ubn.ru.nl/bitstream/handle/2066/145979/mmubn000001_160798027.pdf?sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://repository.ubn.ru.nl/bitstream/handle/2066/145979/mmubn000001_160798027.pdf?sequence=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>monitoring in reading comprehensionby JR Pinzas Garcia · 1993 — Cognitive monitoring in reading comprehension: a study of differences amo...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: atlantis-press.com  
-   Link: <a href="https://www.atlantis-press.com/article/125991383.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.atlantis-press.com/article/125991383.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Regulated Learning Strategies of Academic-Digital...by S Herwiana · 2023 · Cited by 1 — This study aims to find out how EFL student...</p></details>
+   Link:<a href="https://www.atlantis-press.com/article/125991383.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.atlantis-press.com/article/125991383.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Regulated Learning Strategies of Academic-Digital...by S Herwiana · 2023 · Cited by 1 — This study aims to find out how EFL student...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Speed Reading Tutorial: Comprehension Tip  
-   Link: <a href="https://www.youtube.com/watch?v=8R0a7XNbnuk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8R0a7XNbnuk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Speed Reading Technique: How to Improve Your Comprehension...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8R0a7XNbnuk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8R0a7XNbnuk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Speed Reading Technique: How to Improve Your Comprehension...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: readinguniverse.org  
-   Link: <a href="https://readinguniverse.org/skill-explainer/critical-thinking-strategies-2/comprehension-monitoring-skill-explainer/overview-of-comprehension-monitoring" target="_blank" rel="noopener noreferrer nofollow">https://readinguniverse.org/skill-explainer/critical-thinking-strategies-2/comprehension-monitoring-skill-explainer/overview-of-comprehension-monitoring</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading UniverseComprehension Monitoring Skill ExplainerComprehension monitoring is a process readers use before, during, and after readi...</p></details>
+   Link:<a href="https://readinguniverse.org/skill-explainer/critical-thinking-strategies-2/comprehension-monitoring-skill-explainer/overview-of-comprehension-monitoring" target="_blank" rel="noopener noreferrer nofollow">https://readinguniverse.org/skill-explainer/critical-thinking-strategies-2/comprehension-monitoring-skill-explainer/overview-of-comprehension-monitoring</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading UniverseComprehension Monitoring Skill ExplainerComprehension monitoring is a process readers use before, during, and after readi...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: shanahanonliteracy.com  
    Title: monitoring the reading comprehension of older students  
-   Link: <a href="https://www.shanahanonliteracy.com/blog/monitoring-the-reading-comprehension-of-older-students" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/monitoring-the-reading-comprehension-of-older-students</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>However, the text matters. Test...</p></details>
+   Link:<a href="https://www.shanahanonliteracy.com/blog/monitoring-the-reading-comprehension-of-older-students" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/monitoring-the-reading-comprehension-of-older-students</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, the text matters. Test...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Become a Speed Reader in 10 Minutes  
-   Link: <a href="https://www.youtube.com/watch?v=KUpLxO7wJU4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KUpLxO7wJU4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Speed Reading Tutorial: Comprehension Tip...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=KUpLxO7wJU4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KUpLxO7wJU4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Speed Reading Tutorial: Comprehension Tip...</p></details>

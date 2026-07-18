@@ -294,7 +294,7 @@ image: /assets/images/increasing_re_852ca6_purpose_based_25e5d2_medicine_leaf_88
 
 ## Introduction
 
-When the goal is increasing reading speed, medicine leaflets are one of the clearest examples of when not to read everything at the same pace. A patient information leaflet can often be skimmed for familiar background details, but sections covering dosage, timing, [interactions]({{ 'interactions/' | relative_url }}), contraindications, and serious side effects deserve deliberate, [careful reading]({{ 'careful-reading/' | relative_url }}). These leaflets exist because medicines can cause harm when taken incorrectly, combined with the wrong substances, or used by people with particular medical conditions. UK regulators require medicines to include patient information leaflets so patients can use medicines safely and effectively. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/medicines-packaging-labelling-and-patient-information-leaflets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">medicines packaging labelling and patient information leaflets</span><span class="citation-popover-snippet">packaging, labelling and patient information leaflets18 Dec 2014 — The MHRA approves all packaging and labelling information for medicine...</span></span></span>
+When the goal is increasing reading speed, medicine leaflets are one of the clearest examples of when not to read everything at the same pace. A patient information leaflet can often be skimmed for familiar background details, but sections covering dosage, timing, [interactions]({{ 'interactions/' | relative_url }}), contraindications, and serious side effects deserve deliberate, [careful reading]({{ 'careful-reading/' | relative_url }}). These leaflets exist because medicines can cause harm when taken incorrectly, combined with the wrong substances, or used by people with particular medical conditions. UK regulators require medicines to include patient information leaflets so patients can use medicines safely and effectively.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/medicines-packaging-labelling-and-patient-information-leaflets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">medicines packaging labelling and patient information leaflets</span><span class="citation-popover-snippet">packaging, labelling and patient information leaflets18 Dec 2014 — The MHRA approves all packaging and labelling information for medicine...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_purpose_based_25e5d2_medicine_leaf_88ff45-Illustration-1-dark.svg" | relative_url }}" alt="Medicine leaflets illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_purpose_based_25e5d2_medicine_leaf_88ff45-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_purpose_based_25e5d2_medicine_leaf_88ff45-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -311,7 +311,7 @@ The sections that usually deserve close reading are:
 
 * **Do not take this medicine if...**
 * **Warnings and precautions**
-* **Other medicines and interactions** <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/safety-communications-concerning-medicines-medical-devices-and-other-healthcare-products/safety-communications-concerning-medicines-medical-devices-and-other-healthcare-products" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">communications concerning medicines, medical...25 Mar 2025 — The MHRA continually monitors the safety of products, balancing their benef...</span></span></span>
+* **Other medicines and interactions**<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/safety-communications-concerning-medicines-medical-devices-and-other-healthcare-products/safety-communications-concerning-medicines-medical-devices-and-other-healthcare-products" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">communications concerning medicines, medical...25 Mar 2025 — The MHRA continually monitors the safety of products, balancing their benef...</span></span></span>
 * **How to take the medicine**
 * **What to do if you miss a dose**
 * **Possible side effects requiring urgent action**
@@ -319,7 +319,7 @@ The sections that usually deserve close reading are:
 
 </div>
 
-These sections are specifically designed to prevent avoidable harm and [medication]({{ 'medicine-labels/' | relative_url }}) errors. Regulatory guidance emphasises that patient information should help people make informed decisions about the safe and effective use of medicines. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/best-practice-guidance-on-patient-information-leaflets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">best practice guidance on patient information leaflets</span><span class="citation-popover-snippet">29 Dec 2014 — This guidance sets out the legal framework for patient information leaflets as described in EU and national legislation and...</span></span></span>
+These sections are specifically designed to prevent avoidable harm and [medication]({{ 'medicine-labels/' | relative_url }}) errors. Regulatory guidance emphasises that patient information should help people make informed decisions about the safe and effective use of medicines.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/best-practice-guidance-on-patient-information-leaflets" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">best practice guidance on patient information leaflets</span><span class="citation-popover-snippet">29 Dec 2014 — This guidance sets out the legal framework for patient information leaflets as described in EU and national legislation and...</span></span></span>
 
 By contrast, if you have already used the medicine before, sections explaining the general purpose of the drug or administrative information about the manufacturer can often be reviewed more quickly.
 
@@ -343,7 +343,7 @@ Pay particular attention to:
 
 </div>
 
-Many medicines also contain special dosing modifications when they are taken alongside other medicines or certain foods. Regulatory guidance specifically highlights dosage adjustments for drug interactions as safety-critical information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fda.gov/media/72142/download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-snippet">Food and Drug AdministrationDosage and Administration Section of Labeling for Human...January 12, 2023 — 17 Oct 2022 — FDA recommends in...</span><span class="citation-popover-meta">Published: January 12, 2023</span></span></span>
+Many medicines also contain special dosing modifications when they are taken alongside other medicines or certain foods. Regulatory guidance specifically highlights dosage adjustments for drug interactions as safety-critical information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fda.gov/media/72142/download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-snippet">Food and Drug AdministrationDosage and Administration Section of Labeling for Human...January 12, 2023 — 17 Oct 2022 — FDA recommends in...</span><span class="citation-popover-meta">Published: January 12, 2023</span></span></span>
 
 ### Do not assume all missed-dose advice is the same
 
@@ -354,13 +354,13 @@ A common pattern is:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Take the missed dose when remembered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.understoodcare.com/uc-articles/timing-and-dosage" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: understoodcare.com">[understoodcare.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">understoodcare.com</span><span class="citation-popover-snippet">Timing and DosageGeneral advice for many medicines is to take a missed dose when you remember unless it is close to the next planned time...</span></span></span>
+* Take the missed dose when remembered.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.understoodcare.com/uc-articles/timing-and-dosage" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: understoodcare.com">[understoodcare.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">understoodcare.com</span><span class="citation-popover-snippet">Timing and DosageGeneral advice for many medicines is to take a missed dose when you remember unless it is close to the next planned time...</span></span></span>
 * Skip it if the next dose is due soon.
 * Never double the next dose.
 
 </div>
 
-However, this is not universal. Some medicines require different action because timing affects safety or effectiveness. Research has found that missed-dose instructions are often insufficiently understood and can vary substantially between products. U.S. Food and Drug Administration+2PMC <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fda.gov/media/72574/download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[fda.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-snippet">Food and Drug AdministrationUseful Written Consumer Medication Information (CMI)August 18, 2014 — If it is almost time for your next dose...</span><span class="citation-popover-meta">Published: August 18, 2014</span></span></span>
+However, this is not universal. Some medicines require different action because timing affects safety or effectiveness. Research has found that missed-dose instructions are often insufficiently understood and can vary substantially between products. U.S. Food and Drug Administration+2PMC<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fda.gov/media/72574/download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[fda.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-snippet">Food and Drug AdministrationUseful Written Consumer Medication Information (CMI)August 18, 2014 — If it is almost time for your next dose...</span><span class="citation-popover-meta">Published: August 18, 2014</span></span></span>
 
 For speed-reading purposes, the missed-dose section should always be read carefully the first time you receive a medicine.
 
@@ -382,7 +382,7 @@ Interactions may involve:
 
 </div>
 
-The US Food and Drug Administration notes that interactions can reduce effectiveness, increase side effects, or create harmful reactions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fda.gov/drugs/resources-drugs/drug-interactions-what-you-should-know" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-title">drug interactions what you should know</span><span class="citation-popover-snippet">Food and Drug AdministrationDrug Interactions: What You Should Know25 Sept 2013 — Drug interactions may make your drug less effective, ca...</span></span></span>
+The US Food and Drug Administration notes that interactions can reduce effectiveness, increase side effects, or create harmful reactions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fda.gov/drugs/resources-drugs/drug-interactions-what-you-should-know" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-title">drug interactions what you should know</span><span class="citation-popover-snippet">Food and Drug AdministrationDrug Interactions: What You Should Know25 Sept 2013 — Drug interactions may make your drug less effective, ca...</span></span></span>
 
 When [scanning]({{ 'scanning-vs-reading/' | relative_url }}) a leaflet, interaction sections should trigger an automatic slowdown because they often contain information that cannot be inferred from the medicine's name or purpose.
 
@@ -429,11 +429,11 @@ Rather than reading every side effect with equal attention, focus on identifying
 
 </div>
 
-Leaflets commonly separate these from less serious effects, often using [phrases]({{ 'phrases/' | relative_url }}) such as "stop taking the medicine and seek medical help immediately". Those phrases should never be skimmed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fda.gov/media/72574/download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-snippet">Food and Drug AdministrationUseful Written Consumer Medication Information (CMI)August 18, 2014 — If it is almost time for your next dose...</span><span class="citation-popover-meta">Published: August 18, 2014</span></span></span>
+Leaflets commonly separate these from less serious effects, often using [phrases]({{ 'phrases/' | relative_url }}) such as "stop taking the medicine and seek medical help immediately". Those phrases should never be skimmed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fda.gov/media/72574/download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-snippet">Food and Drug AdministrationUseful Written Consumer Medication Information (CMI)August 18, 2014 — If it is almost time for your next dose...</span><span class="citation-popover-meta">Published: August 18, 2014</span></span></span>
 
 ### Watch for newly updated safety information
 
-Medicine safety information changes as new evidence emerges. Regulators regularly update warnings, precautions, and patient information when risks become better understood. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://products.mhra.gov.uk/search/?page=1&amp;search=valproate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: products.mhra.gov.uk">[MHRA Products+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">products.mhra.gov.uk</span><span class="citation-popover-title">MHRA Products Patient Information Leaflet</span><span class="citation-popover-snippet">This may mean that there are differences between the information in the...Read more...</span></span></span>
+Medicine safety information changes as new evidence emerges. Regulators regularly update warnings, precautions, and patient information when risks become better understood.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://products.mhra.gov.uk/search/?page=1&amp;search=valproate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: products.mhra.gov.uk">[MHRA Products+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">products.mhra.gov.uk</span><span class="citation-popover-title">MHRA Products Patient Information Leaflet</span><span class="citation-popover-snippet">This may mean that there are differences between the information in the...Read more...</span></span></span>
 
 This means that a leaflet received today may not be identical to one included with the same medicine several years ago. Readers who are continuing a long-term medicine should not assume that previously read instructions remain unchanged.
 
@@ -458,199 +458,199 @@ This approach preserves speed while protecting against the most costly reading e
 
 People often think reading more slowly is inefficient. With medicine leaflets, the opposite is usually true.
 
-A few extra minutes spent checking dosage, interactions, and warning sections can prevent medication errors, unnecessary side effects, treatment failure, or urgent medical consultations. European regulatory guidance identifies medication errors as a significant public-health problem and emphasises the importance of measures that reduce them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/good-practice-guide-risk-minimisation-and-prevention-medication-errors_en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ema.europa.eu">[European Medicines Agency (EMA)]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ema.europa.eu</span><span class="citation-popover-snippet">November 23, 2015 — 18 Nov 2015 — Medication errors present a major public health burden and there is a need to optimise risk minimisa...</span><span class="citation-popover-meta">Published: November 23, 2015</span></span></span>
+A few extra minutes spent checking dosage, interactions, and warning sections can prevent medication errors, unnecessary side effects, treatment failure, or urgent medical consultations. European regulatory guidance identifies medication errors as a significant public-health problem and emphasises the importance of measures that reduce them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/good-practice-guide-risk-minimisation-and-prevention-medication-errors_en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ema.europa.eu">[European Medicines Agency (EMA)]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ema.europa.eu</span><span class="citation-popover-snippet">November 23, 2015 — 18 Nov 2015 — Medication errors present a major public health burden and there is a need to optimise risk minimisa...</span><span class="citation-popover-meta">Published: November 23, 2015</span></span></span>
 
 For most documents, faster reading is a productivity choice. For medicine leaflets, selective slowing is a safety skill. The reader who skims the overview but carefully studies dosage, interactions, and warning sections is usually reading at the most efficient speed for the task.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The leaflet sections you should not skim. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The leaflet sections you should not skim. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Directly addresses different reading goals and speeds.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Directly addresses different reading goals and speeds.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mayo+Clinic+family+health+book+David+E.+Larson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mayo Clinic family health book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/431482-M.jpg" alt="Cover for Mayo Clinic family health book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mayo+Clinic+family+health+book+David+E.+Larson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mayo Clinic family health book">Mayo Clinic family health book</a>
-        </h4>
-        <p class="fr-book-author">By David E. Larson, Mayo Clinic. et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mayo+Clinic+family+health+book+David+E.+Larson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mayo Clinic family health book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/431482-M.jpg" alt="Cover for Mayo Clinic family health book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mayo+Clinic+family+health+book+David+E.+Larson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mayo Clinic family health book">Mayo Clinic family health book</a>
+</h4>
+<p class="fr-book-author">By David E. Larson, Mayo Clinic. et al.</p>
         
-        <p class="fr-book-desc">First published 1996. Subjects: Médecine populaire, Encyclopédies, Medicine, Popular works, Popular Medicine.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mayo+Clinic+family+health+book+David+E.+Larson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1996. Subjects: Médecine populaire, Encyclopédies, Medicine, Popular works, Popular Medicine.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mayo+Clinic+family+health+book+David+E.+Larson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thanks+for+the+Feedback+Douglas+Stone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thanks for the Feedback on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9549524-M.jpg" alt="Cover for Thanks for the Feedback" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thanks+for+the+Feedback+Douglas+Stone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thanks for the Feedback">Thanks for the Feedback</a>
-        </h4>
-        <p class="fr-book-author">By Douglas Stone, Sheila Heen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thanks+for+the+Feedback+Douglas+Stone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thanks for the Feedback on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9549524-M.jpg" alt="Cover for Thanks for the Feedback" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thanks+for+the+Feedback+Douglas+Stone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thanks for the Feedback">Thanks for the Feedback</a>
+</h4>
+<p class="fr-book-author">By Douglas Stone, Sheila Heen</p>
         
-        <p class="fr-book-desc">First published 2014. Subjects: BUSINESS &amp; ECONOMICS / Skills, Interpersonal communication, BUSINESS &amp; ECONOMICS / Decision-Making &amp; Prob...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thanks+for+the+Feedback+Douglas+Stone&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2014. Subjects: BUSINESS &amp; ECONOMICS / Skills, Interpersonal communication, BUSINESS &amp; ECONOMICS / Decision-Making &amp; Prob...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thanks+for+the+Feedback+Douglas+Stone&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Effective+Executive+Peter+F+Drucker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Effective Executive on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Effective+Executive+Peter+F+Drucker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Effective Executive">The Effective Executive</a>
-        </h4>
-        <p class="fr-book-author">By Peter F Drucker</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Effective+Executive+Peter+F+Drucker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Effective Executive on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Effective+Executive+Peter+F+Drucker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Effective Executive">The Effective Executive</a>
+</h4>
+<p class="fr-book-author">By Peter F Drucker</p>
         
-        <p class="fr-book-desc">First published 1967.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Effective+Executive+Peter+F+Drucker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1967.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Effective+Executive+Peter+F+Drucker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mayo+Clinic+family+health+book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mayo Clinic family health book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thanks+for+the+Feedback&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thanks for the Feedback</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mayo+Clinic+family+health+book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mayo Clinic family health book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thanks+for+the+Feedback&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thanks for the Feedback</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medication+storage+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medication storage case" data-ebay-reference="medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large 7 Days Weekly Pill Box Colourful Tablet Storage Case Medicine Button Open"><img src="{{ '/assets/images/marketplace-covers/8ad5bdeca34e20effe58.jpg' | relative_url }}" alt="Listing image for Large 7 Days Weekly Pill Box Colourful Tablet Storage Case Medicine Button Open" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medication+storage+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medication storage case" data-ebay-reference="medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case" target="_blank" rel="sponsored noopener noreferrer">Large 7 Days Weekly Pill Box Colourful Tablet Storage Case Medicine Button Open</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medication+storage+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medication storage case" data-ebay-reference="medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medication storage case">Search <span data-ebay-domain-label>eBay.co.uk</span>: medication storage case</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medication+storage+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medication storage case" data-ebay-reference="medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medication+storage+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medication storage case" data-ebay-reference="medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large 7 Days Weekly Pill Box Colourful Tablet Storage Case Medicine Button Open"><img src="{{ '/assets/images/marketplace-covers/8ad5bdeca34e20effe58.jpg' | relative_url }}" alt="Listing image for Large 7 Days Weekly Pill Box Colourful Tablet Storage Case Medicine Button Open" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medication+storage+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medication storage case" data-ebay-reference="medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case" target="_blank" rel="sponsored noopener noreferrer">Large 7 Days Weekly Pill Box Colourful Tablet Storage Case Medicine Button Open</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medication+storage+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medication storage case" data-ebay-reference="medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medication storage case">Search<span data-ebay-domain-label>eBay.co.uk</span>: medication storage case</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medication+storage+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medication storage case" data-ebay-reference="medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medication+storage+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medication storage case" data-ebay-reference="medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 7 Day Pill Dispenser Medicine Tablet Storage Organiser Case Weekly Box UK"><img src="{{ '/assets/images/marketplace-covers/299ca83f449bbf5ce7c9.jpg' | relative_url }}" alt="Listing image for 7 Day Pill Dispenser Medicine Tablet Storage Organiser Case Weekly Box UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medication+storage+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medication storage case" data-ebay-reference="medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case" target="_blank" rel="sponsored noopener noreferrer">7 Day Pill Dispenser Medicine Tablet Storage Organiser Case Weekly Box UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medication+storage+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medication storage case" data-ebay-reference="medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medication storage case">Search <span data-ebay-domain-label>eBay.co.uk</span>: medication storage case</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medication+storage+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medication storage case" data-ebay-reference="medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medication+storage+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medication storage case" data-ebay-reference="medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 7 Day Pill Dispenser Medicine Tablet Storage Organiser Case Weekly Box UK"><img src="{{ '/assets/images/marketplace-covers/299ca83f449bbf5ce7c9.jpg' | relative_url }}" alt="Listing image for 7 Day Pill Dispenser Medicine Tablet Storage Organiser Case Weekly Box UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medication+storage+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medication storage case" data-ebay-reference="medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case" target="_blank" rel="sponsored noopener noreferrer">7 Day Pill Dispenser Medicine Tablet Storage Organiser Case Weekly Box UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medication+storage+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medication storage case" data-ebay-reference="medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medication storage case">Search<span data-ebay-domain-label>eBay.co.uk</span>: medication storage case</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medication+storage+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medication storage case" data-ebay-reference="medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medication+storage+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medication storage case" data-ebay-reference="medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1PC Travel Pill Case Weekly Medicine Storage Bag Waterproof Pill Pouch Set"><img src="{{ '/assets/images/marketplace-covers/128b2ed4f9cfdb5b85cd.jpg' | relative_url }}" alt="Listing image for 1PC Travel Pill Case Weekly Medicine Storage Bag Waterproof Pill Pouch Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medication+storage+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medication storage case" data-ebay-reference="medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case" target="_blank" rel="sponsored noopener noreferrer">1PC Travel Pill Case Weekly Medicine Storage Bag Waterproof Pill Pouch Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medication+storage+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medication storage case" data-ebay-reference="medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medication storage case">Search <span data-ebay-domain-label>eBay.co.uk</span>: medication storage case</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medication+storage+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medication storage case" data-ebay-reference="medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medication+storage+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medication storage case" data-ebay-reference="medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1PC Travel Pill Case Weekly Medicine Storage Bag Waterproof Pill Pouch Set"><img src="{{ '/assets/images/marketplace-covers/128b2ed4f9cfdb5b85cd.jpg' | relative_url }}" alt="Listing image for 1PC Travel Pill Case Weekly Medicine Storage Bag Waterproof Pill Pouch Set" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medication+storage+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medication storage case" data-ebay-reference="medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case" target="_blank" rel="sponsored noopener noreferrer">1PC Travel Pill Case Weekly Medicine Storage Bag Waterproof Pill Pouch Set</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medication+storage+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medication storage case" data-ebay-reference="medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medication storage case">Search<span data-ebay-domain-label>eBay.co.uk</span>: medication storage case</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medication+storage+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medication storage case" data-ebay-reference="medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medication+storage+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medication storage case" data-ebay-reference="medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large 14 Slots AM PM Weekly Pill Box Colourful Tablet Storage Case Medicine UK"><img src="{{ '/assets/images/marketplace-covers/50865610fcf5aa98a40b.jpg' | relative_url }}" alt="Listing image for Large 14 Slots AM PM Weekly Pill Box Colourful Tablet Storage Case Medicine UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medication+storage+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medication storage case" data-ebay-reference="medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case" target="_blank" rel="sponsored noopener noreferrer">Large 14 Slots AM PM Weekly Pill Box Colourful Tablet Storage Case Medicine UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medication+storage+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medication storage case" data-ebay-reference="medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medication storage case">Search <span data-ebay-domain-label>eBay.co.uk</span>: medication storage case</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medication+storage+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medication storage case" data-ebay-reference="medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=medication+storage+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medication storage case" data-ebay-reference="medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medication+storage+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medication storage case" data-ebay-reference="medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large 14 Slots AM PM Weekly Pill Box Colourful Tablet Storage Case Medicine UK"><img src="{{ '/assets/images/marketplace-covers/50865610fcf5aa98a40b.jpg' | relative_url }}" alt="Listing image for Large 14 Slots AM PM Weekly Pill Box Colourful Tablet Storage Case Medicine UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medication+storage+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medication storage case" data-ebay-reference="medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case" target="_blank" rel="sponsored noopener noreferrer">Large 14 Slots AM PM Weekly Pill Box Colourful Tablet Storage Case Medicine UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medication+storage+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medication storage case" data-ebay-reference="medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medication storage case">Search<span data-ebay-domain-label>eBay.co.uk</span>: medication storage case</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medication+storage+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medication storage case" data-ebay-reference="medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=medication+storage+case&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medication storage case" data-ebay-reference="medicine-leaflets-the-leaflet-sections-you-should-not-skim-increasing-medication-storage-case" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -666,7 +666,7 @@ For most documents, faster reading is a productivity choice. For medicine leafle
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -686,7 +686,7 @@ For most documents, faster reading is a productivity choice. For medicine leafle
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -718,7 +718,7 @@ For most documents, faster reading is a productivity choice. For medicine leafle
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -770,7 +770,7 @@ For most documents, faster reading is a productivity choice. For medicine leafle
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -815,7 +815,7 @@ For most documents, faster reading is a productivity choice. For medicine leafle
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -856,163 +856,163 @@ For most documents, faster reading is a productivity choice. For medicine leafle
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: GOV.UK  
    Title: medicines packaging labelling and patient information leaflets  
-   Link: <a href="https://www.gov.uk/guidance/medicines-packaging-labelling-and-patient-information-leaflets" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/medicines-packaging-labelling-and-patient-information-leaflets</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>packaging, labelling and patient information leaflets18 Dec 2014 — The MHRA approves all packaging and labelling information for medicine...</p></details>
+   Link:<a href="https://www.gov.uk/guidance/medicines-packaging-labelling-and-patient-information-leaflets" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/medicines-packaging-labelling-and-patient-information-leaflets</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>packaging, labelling and patient information leaflets18 Dec 2014 — The MHRA approves all packaging and labelling information for medicine...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: GOV.UK  
    Title: best [practice](&#123;&#123; 'practice/' | relative_url &#125;&#125;) guidance on patient information leaflets  
-   Link: <a href="https://www.gov.uk/government/publications/best-practice-guidance-on-patient-information-leaflets" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/best-practice-guidance-on-patient-information-leaflets</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>29 Dec 2014 — This guidance sets out the legal framework for patient information leaflets as described in EU and national legislation and...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/best-practice-guidance-on-patient-information-leaflets" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/best-practice-guidance-on-patient-information-leaflets</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>29 Dec 2014 — This guidance sets out the legal framework for patient information leaflets as described in EU and national legislation and...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/guidance/find-product-information-about-medicines" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/find-product-information-about-medicines</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>product information about medicinesEvery medicine pack includes a patient information leaflet (PIL), which provides information on using...</p></details>
+   Link:<a href="https://www.gov.uk/guidance/find-product-information-about-medicines" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/find-product-information-about-medicines</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>product information about medicinesEvery medicine pack includes a patient information leaflet (PIL), which provides information on using...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5fe086c18fa8f5149718d66a/Best_practice_guidance_on_patient_information_leaflets.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5fe086c18fa8f5149718d66a/Best_practice_guidance_on_patient_information_leaflets.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>practice guidance on patient information leaflets (PILs)Information necessary before taking the medicine: Situations where the medicine s...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5fe086c18fa8f5149718d66a/Best_practice_guidance_on_patient_information_leaflets.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5fe086c18fa8f5149718d66a/Best_practice_guidance_on_patient_information_leaflets.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>practice guidance on patient information leaflets (PILs)Information necessary before taking the medicine: Situations where the medicine s...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: fda.gov  
-   Link: <a href="https://www.fda.gov/media/72142/download" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/media/72142/download</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug AdministrationDosage and Administration Section of Labeling for Human...January 12, 2023 — 17 Oct 2022 — FDA recommends in...</p></details>
+   Link:<a href="https://www.fda.gov/media/72142/download" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/media/72142/download</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug AdministrationDosage and Administration Section of Labeling for Human...January 12, 2023 — 17 Oct 2022 — FDA recommends in...</p></details>
    Published: January 12, 2023  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: fda.gov  
    Title: drug interactions what you should know  
-   Link: <a href="https://www.fda.gov/drugs/resources-drugs/drug-interactions-what-you-should-know" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/drugs/resources-drugs/drug-interactions-what-you-should-know</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug AdministrationDrug Interactions: What You Should Know25 Sept 2013 — Drug interactions may make your drug less effective, ca...</p></details>
+   Link:<a href="https://www.fda.gov/drugs/resources-drugs/drug-interactions-what-you-should-know" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/drugs/resources-drugs/drug-interactions-what-you-should-know</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug AdministrationDrug Interactions: What You Should Know25 Sept 2013 — Drug interactions may make your drug less effective, ca...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: fda.gov  
-   Link: <a href="https://www.fda.gov/media/72574/download" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/media/72574/download</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug AdministrationUseful Written Consumer Medication Information (CMI)August 18, 2014 — If it is almost time for your next dose...</p></details>
+   Link:<a href="https://www.fda.gov/media/72574/download" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/media/72574/download</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug AdministrationUseful Written Consumer Medication Information (CMI)August 18, 2014 — If it is almost time for your next dose...</p></details>
    Published: August 18, 2014  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCWhat should patients do if they miss a dose?  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7803707/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7803707/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A systematic...by A Albassam · 2020 · Cited by 30 — Advice on missed doses is generally inadequate. Pharmaceutical companies and regulat...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7803707/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7803707/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A systematic...by A Albassam · 2020 · Cited by 30 — Advice on missed doses is generally inadequate. Pharmaceutical companies and regulat...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: yellowcard.mhra.gov.uk  
-   Link: <a href="https://yellowcard.mhra.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://yellowcard.mhra.gov.uk/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Yellow CardYellow Card | Making medicines and medical devices saferMHRA Homepage for reporting of suspected side effects or adverse drug...</p></details>
+   Link:<a href="https://yellowcard.mhra.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://yellowcard.mhra.gov.uk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Yellow CardYellow Card | Making medicines and medical devices saferMHRA Homepage for reporting of suspected side effects or adverse drug...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: products.mhra.gov.uk  
    Title: MHRA Products Patient Information Leaflet  
-   Link: <a href="https://products.mhra.gov.uk/search/?page=1&amp;search=valproate" target="_blank" rel="noopener noreferrer nofollow">https://products.mhra.gov.uk/search/?page=1&amp;search=valproate</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This may mean that there are differences between the information in the...Read more...</p></details>
+   Link:<a href="https://products.mhra.gov.uk/search/?page=1&amp;search=valproate" target="_blank" rel="noopener noreferrer nofollow">https://products.mhra.gov.uk/search/?page=1&amp;search=valproate</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This may mean that there are differences between the information in the...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/publications/safety-communications-concerning-medicines-medical-devices-and-other-healthcare-products/safety-communications-concerning-medicines-medical-devices-and-other-healthcare-products" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/safety-communications-concerning-medicines-medical-devices-and-other-healthcare-products/safety-communications-concerning-medicines-medical-devices-and-other-healthcare-products</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>communications concerning medicines, medical...25 Mar 2025 — The MHRA continually monitors the safety of products, balancing their benef...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/safety-communications-concerning-medicines-medical-devices-and-other-healthcare-products/safety-communications-concerning-medicines-medical-devices-and-other-healthcare-products" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/safety-communications-concerning-medicines-medical-devices-and-other-healthcare-products/safety-communications-concerning-medicines-medical-devices-and-other-healthcare-products</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>communications concerning medicines, medical...25 Mar 2025 — The MHRA continually monitors the safety of products, balancing their benef...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/drug-safety-update" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/drug-safety-update</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Safety UpdateAlerts, recalls and safety information: A safety review has been conducted by the MHRA following a Yellow Card report concer...</p></details>
+   Link:<a href="https://www.gov.uk/drug-safety-update" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/drug-safety-update</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Safety UpdateAlerts, recalls and safety information: A safety review has been conducted by the MHRA following a Yellow Card report concer...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/ukpga/2021/3/notes/division/8/index.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/ukpga/2021/3/notes/division/8/index.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It is essential for certain medicines...Read more...</p></details>
+   Link:<a href="https://www.legislation.gov.uk/ukpga/2021/3/notes/division/8/index.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/ukpga/2021/3/notes/division/8/index.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It is essential for certain medicines...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: GOV.UK  
    Title: submitting changes to labelling and patient information leaflets  
-   Link: <a href="https://www.gov.uk/government/publications/submitting-changes-to-labelling-and-patient-information-leaflets/submitting-changes-to-labelling-and-patient-information-leaflets" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/submitting-changes-to-labelling-and-patient-information-leaflets/submitting-changes-to-labelling-and-patient-information-leaflets</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>changes to labelling and patient information...22 Dec 2023 — This guidance document applies to changes in relation to the packaging comp...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/submitting-changes-to-labelling-and-patient-information-leaflets/submitting-changes-to-labelling-and-patient-information-leaflets" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/submitting-changes-to-labelling-and-patient-information-leaflets/submitting-changes-to-labelling-and-patient-information-leaflets</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>changes to labelling and patient information...22 Dec 2023 — This guidance document applies to changes in relation to the packaging comp...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: products.mhra.gov.uk  
-   Link: <a href="https://products.mhra.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://products.mhra.gov.uk/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HomeEvery medicine pack includes a patient information leaflet (PIL), which provides information on using the medicine safely...</p></details>
+   Link:<a href="https://products.mhra.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://products.mhra.gov.uk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HomeEvery medicine pack includes a patient information leaflet (PIL), which provides information on using the medicine safely...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: medregs.blog.gov.uk  
-   Link: <a href="https://medregs.blog.gov.uk/2018/06/07/submitting-a-variation-that-impacts-the-smpc-label-and-patient-information-leaflet-pil/" target="_blank" rel="noopener noreferrer nofollow">https://medregs.blog.gov.uk/2018/06/07/submitting-a-variation-that-impacts-the-smpc-label-and-patient-information-leaflet-pil/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a variation that impacts the SmPC, label and...7 Jun 2018 — In addition, clean versions of the relevant SmPC fragments that have been ch...</p></details>
+   Link:<a href="https://medregs.blog.gov.uk/2018/06/07/submitting-a-variation-that-impacts-the-smpc-label-and-patient-information-leaflet-pil/" target="_blank" rel="noopener noreferrer nofollow">https://medregs.blog.gov.uk/2018/06/07/submitting-a-variation-that-impacts-the-smpc-label-and-patient-information-leaflet-pil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a variation that impacts the SmPC, label and...7 Jun 2018 — In addition, clean versions of the relevant SmPC fragments that have been ch...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: healthdirect.gov.au  
-   Link: <a href="https://www.healthdirect.gov.au/how-to-read-cmis" target="_blank" rel="noopener noreferrer nofollow">https://www.healthdirect.gov.au/how-to-read-cmis</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>over medicine; information on possible interactions with other...Read more...</p></details>
+   Link:<a href="https://www.healthdirect.gov.au/how-to-read-cmis" target="_blank" rel="noopener noreferrer nofollow">https://www.healthdirect.gov.au/how-to-read-cmis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>over medicine; information on possible interactions with other...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ema.europa.eu  
-   Link: <a href="https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/good-practice-guide-risk-minimisation-and-prevention-medication-errors_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/good-practice-guide-risk-minimisation-and-prevention-medication-errors_en.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>November 23, 2015 — 18 Nov 2015 — Medication errors present a major public health burden and there is a need to optimise risk minimisa...</p></details>
+   Link:<a href="https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/good-practice-guide-risk-minimisation-and-prevention-medication-errors_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/good-practice-guide-risk-minimisation-and-prevention-medication-errors_en.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>November 23, 2015 — 18 Nov 2015 — Medication errors present a major public health burden and there is a need to optimise risk minimisa...</p></details>
    Published: November 23, 2015  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: fda.gov  
    Title: pharmacists help you use medicines safely  
-   Link: <a href="https://www.fda.gov/consumers/consumer-updates/fda-pharmacists-help-you-use-medicines-safely" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/consumers/consumer-updates/fda-pharmacists-help-you-use-medicines-safely</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>31 Aug 2023 — Pharmacists can help people take their medicine properly and continue to take it for as long as recommended.Read more...</p></details>
+   Link:<a href="https://www.fda.gov/consumers/consumer-updates/fda-pharmacists-help-you-use-medicines-safely" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/consumers/consumer-updates/fda-pharmacists-help-you-use-medicines-safely</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>31 Aug 2023 — Pharmacists can help people take their medicine properly and continue to take it for as long as recommended.Read more...</p></details>
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: mtw.nhs.uk  
-   Link: <a href="https://www.mtw.nhs.uk/wp-content/uploads/2019/09/Information-about-your-medicine-STANDARD-PRINT-LEAFLETCORE.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mtw.nhs.uk/wp-content/uploads/2019/09/Information-about-your-medicine-STANDARD-PRINT-LEAFLETCORE.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Information about your medicinesThis leaflet contains some possible sources of further advice and some general information about medicine...</p></details>
+   Link:<a href="https://www.mtw.nhs.uk/wp-content/uploads/2019/09/Information-about-your-medicine-STANDARD-PRINT-LEAFLETCORE.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mtw.nhs.uk/wp-content/uploads/2019/09/Information-about-your-medicine-STANDARD-PRINT-LEAFLETCORE.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Information about your medicinesThis leaflet contains some possible sources of further advice and some general information about medicine...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cpe.org.uk  
-   Link: <a href="https://cpe.org.uk/quality-and-regulations/clinical-governance/patient-safety-incident-reporting/patient-safety-information/" target="_blank" rel="noopener noreferrer nofollow">https://cpe.org.uk/quality-and-regulations/clinical-governance/patient-safety-incident-reporting/patient-safety-information/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Patient safety informationThe Medicines and Healthcare products Regulatory Agency (MHRA) have made changes to the way they issue drug saf...</p></details>
+   Link:<a href="https://cpe.org.uk/quality-and-regulations/clinical-governance/patient-safety-incident-reporting/patient-safety-information/" target="_blank" rel="noopener noreferrer nofollow">https://cpe.org.uk/quality-and-regulations/clinical-governance/patient-safety-incident-reporting/patient-safety-information/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Patient safety informationThe Medicines and Healthcare products Regulatory Agency (MHRA) have made changes to the way they issue drug saf...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: understoodcare.com  
-   Link: <a href="https://www.understoodcare.com/uc-articles/timing-and-dosage" target="_blank" rel="noopener noreferrer nofollow">https://www.understoodcare.com/uc-articles/timing-and-dosage</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Timing and DosageGeneral advice for many medicines is to take a missed dose when you remember unless it is close to the next planned time...</p></details>
+   Link:<a href="https://www.understoodcare.com/uc-articles/timing-and-dosage" target="_blank" rel="noopener noreferrer nofollow">https://www.understoodcare.com/uc-articles/timing-and-dosage</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Timing and DosageGeneral advice for many medicines is to take a missed dose when you remember unless it is close to the next planned time...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: wmic.wales.nhs.uk  
-   Link: <a href="https://www.wmic.wales.nhs.uk/wp-content/uploads/2022/10/UKMi-Enquiry-Answering-Guidelines-2022-update.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.wmic.wales.nhs.uk/wp-content/uploads/2022/10/UKMi-Enquiry-Answering-Guidelines-2022-update.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>range of patient information leaflets about medicines for children to view or...</p></details>
+   Link:<a href="https://www.wmic.wales.nhs.uk/wp-content/uploads/2022/10/UKMi-Enquiry-Answering-Guidelines-2022-update.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.wmic.wales.nhs.uk/wp-content/uploads/2022/10/UKMi-Enquiry-Answering-Guidelines-2022-update.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>range of patient information leaflets about medicines for children to view or...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: nhs.uk  
-   Link: <a href="https://www.nhs.uk/tests-and-treatments/medicines-information/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/tests-and-treatments/medicines-information/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>informationThis page explains the different types of medicine, the difference between branded drugs and generics, and how the medicines b...</p></details>
+   Link:<a href="https://www.nhs.uk/tests-and-treatments/medicines-information/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/tests-and-treatments/medicines-information/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>informationThis page explains the different types of medicine, the difference between branded drugs and generics, and how the medicines b...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: pslhub.org  
-   Link: <a href="https://www.pslhub.org/learn/organisations-linked-to-patient-safety-uk-and-beyond/regulators-and-their-regulations/system-and-product-regulators/mhra/mhra-medicines-packaging-labelling-and-patient-information-leaflets-20-april-2016-version-2-r444/" target="_blank" rel="noopener noreferrer nofollow">https://www.pslhub.org/learn/organisations-linked-to-patient-safety-uk-and-beyond/regulators-and-their-regulations/system-and-product-regulators/mhra/mhra-medicines-packaging-labelling-and-patient-information-leaflets-20-april-2016-version-2-r444/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MHRA: Medicines: packaging, labelling and patient...20 Apr 2016 — Guidance from the Medicines and Healthcare products Regulatory Agency...</p></details>
+   Link:<a href="https://www.pslhub.org/learn/organisations-linked-to-patient-safety-uk-and-beyond/regulators-and-their-regulations/system-and-product-regulators/mhra/mhra-medicines-packaging-labelling-and-patient-information-leaflets-20-april-2016-version-2-r444/" target="_blank" rel="noopener noreferrer nofollow">https://www.pslhub.org/learn/organisations-linked-to-patient-safety-uk-and-beyond/regulators-and-their-regulations/system-and-product-regulators/mhra/mhra-medicines-packaging-labelling-and-patient-information-leaflets-20-april-2016-version-2-r444/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MHRA: Medicines: packaging, labelling and patient...20 Apr 2016 — Guidance from the Medicines and Healthcare products Regulatory Agency...</p></details>
    Published: april 2016  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: carelearning.org.uk  
-   Link: <a href="https://carelearning.org.uk/qualifications/level-3-extended-hsc/hsc-dmo6-medication/6-1-explain-the-contents-of-patient-information-leaflets-supplied-with-all-medicines/" target="_blank" rel="noopener noreferrer nofollow">https://carelearning.org.uk/qualifications/level-3-extended-hsc/hsc-dmo6-medication/6-1-explain-the-contents-of-patient-information-leaflets-supplied-with-all-medicines/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Explain the contents of patient information leaflets...13 Apr 2025 — These leaflets are often written in straightforward language to hel...</p></details>
+   Link:<a href="https://carelearning.org.uk/qualifications/level-3-extended-hsc/hsc-dmo6-medication/6-1-explain-the-contents-of-patient-information-leaflets-supplied-with-all-medicines/" target="_blank" rel="noopener noreferrer nofollow">https://carelearning.org.uk/qualifications/level-3-extended-hsc/hsc-dmo6-medication/6-1-explain-the-contents-of-patient-information-leaflets-supplied-with-all-medicines/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Explain the contents of patient information leaflets...13 Apr 2025 — These leaflets are often written in straightforward language to hel...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: gloshospitals.nhs.uk  
-   Link: <a href="https://www.gloshospitals.nhs.uk/documents/23189/Unlicensed_medicines_information_GHPI0452_02_25.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gloshospitals.nhs.uk/documents/23189/Unlicensed_medicines_information_GHPI0452_02_25.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why are medicines &#x27;licensed&#x27;? The makers of medicines must ask the Government for a. Marketing...Read more...</p></details>
+   Link:<a href="https://www.gloshospitals.nhs.uk/documents/23189/Unlicensed_medicines_information_GHPI0452_02_25.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gloshospitals.nhs.uk/documents/23189/Unlicensed_medicines_information_GHPI0452_02_25.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why are medicines &#x27;licensed&#x27;? The makers of medicines must ask the Government for a. Marketing...Read more...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: brettonparkhealthcare.co.uk  
    Title: MHR A Patient Information Leaflets MHRA Patient Information Leaflets  
-   Link: <a href="https://www.brettonparkhealthcare.co.uk/health-information/mhra-patient-information-leaflets/" target="_blank" rel="noopener noreferrer nofollow">https://www.brettonparkhealthcare.co.uk/health-information/mhra-patient-information-leaflets/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rivaroxaban Patient Letter – August 2019 · Carbimazole Patient Letter · Hydrochlorothiazide Patient Letter · Modafinil...Read more...</p></details>
+   Link:<a href="https://www.brettonparkhealthcare.co.uk/health-information/mhra-patient-information-leaflets/" target="_blank" rel="noopener noreferrer nofollow">https://www.brettonparkhealthcare.co.uk/health-information/mhra-patient-information-leaflets/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rivaroxaban Patient Letter – August 2019 · Carbimazole Patient Letter · Hydrochlorothiazide Patient Letter · Modafinil...Read more...</p></details>
    Published: August 2019  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: datapharm.com  
    Title: challenges paper leaflet digital patient information leaflets  
-   Link: <a href="https://www.datapharm.com/resource-hub/challenges-paper-leaflet-digital-patient-information-leaflets/" target="_blank" rel="noopener noreferrer nofollow">https://www.datapharm.com/resource-hub/challenges-paper-leaflet-digital-patient-information-leaflets/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The challenges with Patient Information Leaflets17 Mar 2023 — Under MHRA regulations in the UK, the PIL is a legally required document fo...</p></details>
+   Link:<a href="https://www.datapharm.com/resource-hub/challenges-paper-leaflet-digital-patient-information-leaflets/" target="_blank" rel="noopener noreferrer nofollow">https://www.datapharm.com/resource-hub/challenges-paper-leaflet-digital-patient-information-leaflets/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The challenges with Patient Information Leaflets17 Mar 2023 — Under MHRA regulations in the UK, the PIL is a legally required document fo...</p></details>

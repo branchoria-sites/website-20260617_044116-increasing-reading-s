@@ -269,7 +269,7 @@ image: /assets/images/increasing_re_852ca6_reading_speed_ac88ef_why_500_wpm_m_0b
 
 ## Introduction
 
-A reading speed of 500 words per minute is often presented as a goal in its own right, but its real value lies elsewhere. For most people, [500 wpm]({{ '500-wpm/' | relative_url }}) is not a way to achieve full understanding of complex material. Instead, it is a highly practical [skimming]({{ 'skimming/' | relative_url }}) speed that helps readers decide what deserves closer attention. Research on reading and comprehension consistently finds that very high reading rates involve a trade-off: readers can extract the main idea and overall structure, but they retain fewer details and nuances than they would at normal reading speeds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 514 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</span></span></span>
+A reading speed of 500 words per minute is often presented as a goal in its own right, but its real value lies elsewhere. For most people, [500 wpm]({{ '500-wpm/' | relative_url }}) is not a way to achieve full understanding of complex material. Instead, it is a highly practical [skimming]({{ 'skimming/' | relative_url }}) speed that helps readers decide what deserves closer attention. Research on reading and comprehension consistently finds that very high reading rates involve a trade-off: readers can extract the main idea and overall structure, but they retain fewer details and nuances than they would at normal reading speeds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 514 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef_why_500_wpm_m_0bf92d_useful_500wpm_35ce5f-Illustration-1-dark.svg" | relative_url }}" alt="Useful skims illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef_why_500_wpm_m_0bf92d_useful_500wpm_35ce5f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef_why_500_wpm_m_0bf92d_useful_500wpm_35ce5f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -279,7 +279,7 @@ Used correctly, fast skimming is not a substitute for [careful reading]({{ 'care
 
 The strongest case for 500 wpm skimming is not mastery but triage. Modern readers often face more material than they can realistically study in depth. Reports, research papers, emails, policy documents, manuals, and news articles compete for attention. In these situations, the first task is often deciding where to invest limited reading time.
 
-Research reviews on speed reading note that skimming can provide moderate comprehension when thorough understanding is not the goal. The technique becomes useful when readers need orientation, prioritisation, or rapid information selection rather than complete recall. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 514 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</span></span></span>
+Research reviews on speed reading note that skimming can provide moderate comprehension when thorough understanding is not the goal. The technique becomes useful when readers need orientation, prioritisation, or rapid information selection rather than complete recall.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 514 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</span></span></span>
 
 A useful rule is simple:
 
@@ -303,7 +303,7 @@ Imagine receiving twenty industry reports. Reading each one carefully would take
 
 </div>
 
-Educational reading guides often recommend skimming as a way to locate material that requires more detailed study rather than rereading everything equally. The goal is to identify [knowledge]({{ 'knowledge/' | relative_url }}) gaps and areas requiring focused attention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.utc.edu/enrollment-management-and-student-affairs/center-for-academic-support-and-advisement/tips-for-academic-success/skimming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: utc.edu">[University of Tennessee at Chattanooga]</a><span class="citation-popover" role="note"><span class="citation-popover-source">utc.edu</span><span class="citation-popover-snippet">University of Tennessee at ChattanoogaSkimming and Scanning &#124; University of Tennessee at...By skimming, you can quickly locate the infor...</span></span></span>
+Educational reading guides often recommend skimming as a way to locate material that requires more detailed study rather than rereading everything equally. The goal is to identify [knowledge]({{ 'knowledge/' | relative_url }}) gaps and areas requiring focused attention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.utc.edu/enrollment-management-and-student-affairs/center-for-academic-support-and-advisement/tips-for-academic-success/skimming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: utc.edu">[University of Tennessee at Chattanooga]</a><span class="citation-popover" role="note"><span class="citation-popover-source">utc.edu</span><span class="citation-popover-snippet">University of Tennessee at ChattanoogaSkimming and Scanning &#124; University of Tennessee at...By skimming, you can quickly locate the infor...</span></span></span>
 
 In professional environments, this screening function can produce substantial time savings. The reader is not claiming full comprehension. They are making an informed decision about where deep reading will generate the highest return.
 
@@ -326,7 +326,7 @@ At high speed, readers typically focus on:
 
 </div>
 
-This approach sacrifices detail but preserves enough structure to answer a practical question: "Is this worth reading properly?" <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.butte.edu/departments/cas/tipsheets/readingstrategies/skimming_scanning.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: butte.edu">[Butte-Glenn Community College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">butte.edu</span><span class="citation-popover-title">Glenn Community College Skimming and Scanning</span><span class="citation-popover-snippet">Glenn Community CollegeSkimming and Scanning - TIP SheetSkimming and scanning are reading techniques that use rapid eye movement an...</span></span></span>
+This approach sacrifices detail but preserves enough structure to answer a practical question: "Is this worth reading properly?"<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.butte.edu/departments/cas/tipsheets/readingstrategies/skimming_scanning.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: butte.edu">[Butte-Glenn Community College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">butte.edu</span><span class="citation-popover-title">Glenn Community College Skimming and Scanning</span><span class="citation-popover-snippet">Glenn Community CollegeSkimming and Scanning - TIP SheetSkimming and scanning are reading techniques that use rapid eye movement an...</span></span></span>
 
 ## Finding Relevant Sections in Long Reports
 
@@ -349,7 +349,7 @@ For example:
 
 In these cases, skimming acts as a search mechanism. It helps readers build a mental map of the document before slowing down for close reading.
 
-This approach mirrors how experienced readers often work in practice. They do not automatically read every page at the same speed. Instead, they adjust their pace according to the value and complexity of the material. Some reading researchers have described this as matching reading speed to the desired level of comprehension rather than maintaining a single speed throughout a task. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/1529100615623268" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Speed Reading</span><span class="citation-popover-snippet">Balota, 2016by DA Balota · 2016 · Cited by 14 — The Rayner et al. article is an excellent and timely review of what we currently know abo...</span></span></span>
+This approach mirrors how experienced readers often work in practice. They do not automatically read every page at the same speed. Instead, they adjust their pace according to the value and complexity of the material. Some reading researchers have described this as matching reading speed to the desired level of comprehension rather than maintaining a single speed throughout a task.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/1529100615623268" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Speed Reading</span><span class="citation-popover-snippet">Balota, 2016by DA Balota · 2016 · Cited by 14 — The Rayner et al. article is an excellent and timely review of what we currently know abo...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef_why_500_wpm_m_0bf92d_useful_500wpm_35ce5f-Illustration-2-dark.svg" | relative_url }}" alt="Useful skims illustration 2" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef_why_500_wpm_m_0bf92d_useful_500wpm_35ce5f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef_why_500_wpm_m_0bf92d_useful_500wpm_35ce5f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -357,7 +357,7 @@ This approach mirrors how experienced readers often work in practice. They do no
 
 The biggest mistake is not skimming itself. The mistake is believing that skimming and full reading produce the same outcome.
 
-Research on reading repeatedly finds that comprehension declines as speed increases beyond normal reading rates, especially when material is complex or detail-rich. Claims that readers can double or triple ordinary reading speed while preserving complete understanding are not well supported by evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://faculty.cas.usf.edu/eschotter/papers/Rayner_Schotter_Masson_Potter_Treiman_2016_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faculty.cas.usf.edu">[USF Faculty+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faculty.cas.usf.edu</span><span class="citation-popover-title">Rayner Schotter Masson Potter Treiman 2016 PSPI</span><span class="citation-popover-snippet">USF FacultyHow Do We Read, and Can Speed Reading Help?by K Rayner · 2016 · Cited by 516 — It is unlikely that readers will be able to dou...</span></span></span>
+Research on reading repeatedly finds that comprehension declines as speed increases beyond normal reading rates, especially when material is complex or detail-rich. Claims that readers can double or triple ordinary reading speed while preserving complete understanding are not well supported by evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://faculty.cas.usf.edu/eschotter/papers/Rayner_Schotter_Masson_Potter_Treiman_2016_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faculty.cas.usf.edu">[USF Faculty+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faculty.cas.usf.edu</span><span class="citation-popover-title">Rayner Schotter Masson Potter Treiman 2016 PSPI</span><span class="citation-popover-snippet">USF FacultyHow Do We Read, and Can Speed Reading Help?by K Rayner · 2016 · Cited by 516 — It is unlikely that readers will be able to dou...</span></span></span>
 
 A reader who skims a policy paper at 500 wpm may correctly identify:
 
@@ -406,7 +406,7 @@ Locating relevant sections, names, dates, topics, or discussions within a large 
 
 **Review**
 
-Refreshing familiarity with material that has already been read carefully once. University of Tennessee at Chattanooga+2Enver Creek Library Learning Commons <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.utc.edu/enrollment-management-and-student-affairs/center-for-academic-support-and-advisement/tips-for-academic-success/skimming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: utc.edu">[utc.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">utc.edu</span><span class="citation-popover-snippet">University of Tennessee at ChattanoogaSkimming and Scanning &#124; University of Tennessee at...By skimming, you can quickly locate the infor...</span></span></span>
+Refreshing familiarity with material that has already been read carefully once. University of Tennessee at Chattanooga+2Enver Creek Library Learning Commons<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.utc.edu/enrollment-management-and-student-affairs/center-for-academic-support-and-advisement/tips-for-academic-success/skimming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: utc.edu">[utc.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">utc.edu</span><span class="citation-popover-snippet">University of Tennessee at ChattanoogaSkimming and Scanning &#124; University of Tennessee at...By skimming, you can quickly locate the infor...</span></span></span>
 
 In contrast, 500 wpm is usually a poor choice when the goal is precise learning, detailed analysis, [technical]({{ 'technical-texts/' | relative_url }}) understanding, legal interpretation, or long-term retention.
 
@@ -416,7 +416,7 @@ In contrast, 500 wpm is usually a poor choice when the goal is precise learning,
 
 The most effective readers are not necessarily those who maintain the highest speed. They are the ones who can change speed deliberately.
 
-A reader might skim a report at 500 wpm to identify the relevant sections, slow to 250 wpm for the key argument, and then slow even further for a complicated table or technical explanation. This flexible approach aligns with the evidence that different reading goals require different levels of processing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 514 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</span></span></span>
+A reader might skim a report at 500 wpm to identify the relevant sections, slow to 250 wpm for the key argument, and then slow even further for a complicated table or technical explanation. This flexible approach aligns with the evidence that different reading goals require different levels of processing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 514 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</span></span></span>
 
 Viewed this way, a 500 wpm skim is not a failed attempt at full reading. It is a specialised tool. Its purpose is to help readers allocate attention intelligently, ensuring that careful reading is reserved for the passages where careful reading matters most.
 
@@ -425,206 +425,206 @@ Viewed this way, a 500 wpm skim is not a failed attempt at full reading. It is a
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Fast Skimming Is the Right Tool. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Fast Skimming Is the Right Tool. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Remember+Everything+You+Read&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Remember Everything You Read on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/234992-M.jpg" alt="Cover for Remember Everything You Read" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Remember+Everything+You+Read&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Remember Everything You Read">Remember Everything You Read</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Remember+Everything+You+Read&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Remember Everything You Read on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/234992-M.jpg" alt="Cover for Remember Everything You Read" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Remember+Everything+You+Read&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Remember Everything You Read">Remember Everything You Read</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Discusses rapid reading as a practical tool.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Remember+Everything+You+Read&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses rapid reading as a practical tool.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Remember+Everything+You+Read&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Provides a framework for choosing appropriate reading depth.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Provides a framework for choosing appropriate reading depth.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Organized+Mind+by+Daniel+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Organized Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=F78cBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Organized Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Organized+Mind+by+Daniel+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Organized Mind">The Organized Mind</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Levitin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Organized+Mind+by+Daniel+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Organized Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=F78cBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Organized Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Organized+Mind+by+Daniel+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Organized Mind">The Organized Mind</a>
+</h4>
+<p class="fr-book-author">By Daniel Levitin</p>
         
-        <p class="fr-book-desc">Helps readers decide where to focus limited attention.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Organized+Mind+by+Daniel+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers decide where to focus limited attention.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Organized+Mind+by+Daniel+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=10+days+to+faster+reading+Abby+Marks-Beale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 10 days to faster reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9453897-M.jpg" alt="Cover for 10 days to faster reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=10+days+to+faster+reading+Abby+Marks-Beale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="10 days to faster reading">10 days to faster reading</a>
-        </h4>
-        <p class="fr-book-author">By Abby Marks-Beale</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=10+days+to+faster+reading+Abby+Marks-Beale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 10 days to faster reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9453897-M.jpg" alt="Cover for 10 days to faster reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=10+days+to+faster+reading+Abby+Marks-Beale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="10 days to faster reading">10 days to faster reading</a>
+</h4>
+<p class="fr-book-author">By Abby Marks-Beale</p>
         
-        <p class="fr-book-desc">First published 2001. Subjects: Speed reading.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=10+days+to+faster+reading+Abby+Marks-Beale&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2001. Subjects: Speed reading.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=10+days+to+faster+reading+Abby+Marks-Beale&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Remember+Everything+You+Read&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Remember Everything You Read</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Organized+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Organized Mind</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Remember+Everything+You+Read&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Remember Everything You Read</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Organized+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Organized Mind</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: butte.edu  
    Title: Glenn Community College Skimming and Scanning  
-   Link: <a href="https://www.butte.edu/departments/cas/tipsheets/readingstrategies/skimming_scanning.html" target="_blank" rel="noopener noreferrer nofollow">https://www.butte.edu/departments/cas/tipsheets/readingstrategies/skimming_scanning.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Glenn Community CollegeSkimming and Scanning - TIP SheetSkimming and scanning are reading techniques that use rapid eye movement an...</p></details>
+   Link:<a href="https://www.butte.edu/departments/cas/tipsheets/readingstrategies/skimming_scanning.html" target="_blank" rel="noopener noreferrer nofollow">https://www.butte.edu/departments/cas/tipsheets/readingstrategies/skimming_scanning.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Glenn Community CollegeSkimming and Scanning - TIP SheetSkimming and scanning are reading techniques that use rapid eye movement an...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: faculty.cas.usf.edu  
    Title: Rayner Schotter Masson Potter Treiman 2016 PSPI  
-   Link: <a href="https://faculty.cas.usf.edu/eschotter/papers/Rayner_Schotter_Masson_Potter_Treiman_2016_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://faculty.cas.usf.edu/eschotter/papers/Rayner_Schotter_Masson_Potter_Treiman_2016_PSPI.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>USF FacultyHow Do We Read, and Can Speed Reading Help?by K Rayner · 2016 · Cited by 516 — It is unlikely that readers will be able to dou...</p></details>
+   Link:<a href="https://faculty.cas.usf.edu/eschotter/papers/Rayner_Schotter_Masson_Potter_Treiman_2016_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://faculty.cas.usf.edu/eschotter/papers/Rayner_Schotter_Masson_Potter_Treiman_2016_PSPI.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USF FacultyHow Do We Read, and Can Speed Reading Help?by K Rayner · 2016 · Cited by 516 — It is unlikely that readers will be able to dou...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med How Do We Read, and Can Speed Reading Help?  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26769745/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by K Rayner · 2016 · Cited by 514 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26769745/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by K Rayner · 2016 · Cited by 514 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: journals.sagepub.com  
    Title: Sage Journals So Much to Read, So Little Time  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/1529100615623267" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1529100615623267</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It is unlikely that readers will be able to double or triple their reading speeds (e.g...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/1529100615623267" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1529100615623267</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It is unlikely that readers will be able to double or triple their reading speeds (e.g...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: psychologicalscience.org  
    Title: speed reading  
-   Link: <a href="https://www.psychologicalscience.org/publications/speed_reading.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/publications/speed_reading.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceSo Much to Read, So Little Time: How Do We Read, and...13 Jan 2016 — The report shows there is no q...</p></details>
+   Link:<a href="https://www.psychologicalscience.org/publications/speed_reading.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/publications/speed_reading.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceSo Much to Read, So Little Time: How Do We Read, and...13 Jan 2016 — The report shows there is no q...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: utc.edu  
-   Link: <a href="https://www.utc.edu/enrollment-management-and-student-affairs/center-for-academic-support-and-advisement/tips-for-academic-success/skimming" target="_blank" rel="noopener noreferrer nofollow">https://www.utc.edu/enrollment-management-and-student-affairs/center-for-academic-support-and-advisement/tips-for-academic-success/skimming</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>University of Tennessee at ChattanoogaSkimming and Scanning | University of Tennessee at...By skimming, you can quickly locate the infor...</p></details>
+   Link:<a href="https://www.utc.edu/enrollment-management-and-student-affairs/center-for-academic-support-and-advisement/tips-for-academic-success/skimming" target="_blank" rel="noopener noreferrer nofollow">https://www.utc.edu/enrollment-management-and-student-affairs/center-for-academic-support-and-advisement/tips-for-academic-success/skimming</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of Tennessee at ChattanoogaSkimming and Scanning | University of Tennessee at...By skimming, you can quickly locate the infor...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: journals.sagepub.com  
    Title: Sage Journals Speed Reading  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/1529100615623268" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1529100615623268</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Balota, 2016by DA Balota · 2016 · Cited by 14 — The Rayner et al. article is an excellent and timely review of what we currently know abo...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/1529100615623268" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1529100615623268</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Balota, 2016by DA Balota · 2016 · Cited by 14 — The Rayner et al. article is an excellent and timely review of what we currently know abo...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: journals.sagepub.com  
    Title: Sage Journals So Much to Read, So Little Time  
-   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/1529100615623267" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/1529100615623267</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsSo Much to Read, So Little Time - Keith Rayner, Elizabeth...by K Rayner · 2016 · Cited by 516 — It is unlikely that readers...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/abs/10.1177/1529100615623267" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/1529100615623267</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsSo Much to Read, So Little Time - Keith Rayner, Elizabeth...by K Rayner · 2016 · Cited by 516 — It is unlikely that readers...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: envercreeklibrary.com  
    Title: Each is used for a specific purpose.Read more  
-   Link: <a href="https://www.envercreeklibrary.com/skimming-scanning.html" target="_blank" rel="noopener noreferrer nofollow">https://www.envercreeklibrary.com/skimming-scanning.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Enver Creek Library Learning CommonsSkimming, Scanning, - Enver Creek Library Learning CommonsThere are three different styles of reading...</p></details>
+   Link:<a href="https://www.envercreeklibrary.com/skimming-scanning.html" target="_blank" rel="noopener noreferrer nofollow">https://www.envercreeklibrary.com/skimming-scanning.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enver Creek Library Learning CommonsSkimming, Scanning, - Enver Creek Library Learning CommonsThere are three different styles of reading...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10360968/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10360968/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by M Brysbaert · 2023 · Cited by 12 — Silent reading rate is well below 300 words per minute (wpm). In the present study it was 252 wp...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10360968/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10360968/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by M Brysbaert · 2023 · Cited by 12 — Silent reading rate is well below 300 words per minute (wpm). In the present study it was 252 wp...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: learningcenter.unc.edu  
-   Link: <a href="https://learningcenter.unc.edu/tips-and-tools/skimming/" target="_blank" rel="noopener noreferrer nofollow">https://learningcenter.unc.edu/tips-and-tools/skimming/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Learning CenterSkimming is a strategic, selective reading method in which you focus on the main ideas of a text. When skimming, delib...</p></details>
+   Link:<a href="https://learningcenter.unc.edu/tips-and-tools/skimming/" target="_blank" rel="noopener noreferrer nofollow">https://learningcenter.unc.edu/tips-and-tools/skimming/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Learning CenterSkimming is a strategic, selective reading method in which you focus on the main ideas of a text. When skimming, delib...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/EnglishProTips/posts/skimming-and-scanning-for-ielts-reading-ieltsreading/994478272698983/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EnglishProTips/posts/skimming-and-scanning-for-ielts-reading-ieltsreading/994478272698983/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skimming and Scanning for IELTS Reading #ieltsreadingSkim for main ideas, focus on headings and first sentences, then scan for specific i...</p></details>
+   Link:<a href="https://www.facebook.com/EnglishProTips/posts/skimming-and-scanning-for-ielts-reading-ieltsreading/994478272698983/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EnglishProTips/posts/skimming-and-scanning-for-ielts-reading-ieltsreading/994478272698983/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skimming and Scanning for IELTS Reading #ieltsreadingSkim for main ideas, focus on headings and first sentences, then scan for specific i...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: lbarneslittoolkit.weebly.com  
-   Link: <a href="https://lbarneslittoolkit.weebly.com/during-reading-strategies.html" target="_blank" rel="noopener noreferrer nofollow">https://lbarneslittoolkit.weebly.com/during-reading-strategies.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>my literacy tool kitDuring-reading strategiesSkimming is an instructional tool that helps readers quickly identify certain details as wel...</p></details>
+   Link:<a href="https://lbarneslittoolkit.weebly.com/during-reading-strategies.html" target="_blank" rel="noopener noreferrer nofollow">https://lbarneslittoolkit.weebly.com/during-reading-strategies.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>my literacy tool kitDuring-reading strategiesSkimming is an instructional tool that helps readers quickly identify certain details as wel...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: scholarwithin.com  
-   Link: <a href="https://scholarwithin.com/average-reading-speed?srsltid=AfmBOopMjbbMjP_0gWQBixUoEFGXZD4KGgASZgX9fOKTAFNhQ31WlPHv" target="_blank" rel="noopener noreferrer nofollow">https://scholarwithin.com/average-reading-speed?srsltid=AfmBOopMjbbMjP_0gWQBixUoEFGXZD4KGgASZgX9fOKTAFNhQ31WlPHv</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Adults who read aloud average 183 words per minute. With more and more new research on neuroplasticity, we...Read more...</p></details>
+   Link:<a href="https://scholarwithin.com/average-reading-speed?srsltid=AfmBOopMjbbMjP_0gWQBixUoEFGXZD4KGgASZgX9fOKTAFNhQ31WlPHv" target="_blank" rel="noopener noreferrer nofollow">https://scholarwithin.com/average-reading-speed?srsltid=AfmBOopMjbbMjP_0gWQBixUoEFGXZD4KGgASZgX9fOKTAFNhQ31WlPHv</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Adults who read aloud average 183 words per minute. With more and more new research on neuroplasticity, we...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: sasc.org.uk  
-   Link: <a href="https://www.sasc.org.uk/media/4d4lsrfv/assessing-reading-and-writing-speeds-presentation-june-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sasc.org.uk/media/4d4lsrfv/assessing-reading-and-writing-speeds-presentation-june-2020.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>• average silent reading speed for healthy adults was 238 wpm for non-fiction and 260 for fiction.Read more...</p></details>
+   Link:<a href="https://www.sasc.org.uk/media/4d4lsrfv/assessing-reading-and-writing-speeds-presentation-june-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sasc.org.uk/media/4d4lsrfv/assessing-reading-and-writing-speeds-presentation-june-2020.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>• average silent reading speed for healthy adults was 238 wpm for non-fiction and 260 for fiction.Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: hmdpublishing.com  
-   Link: <a href="https://hmdpublishing.com/education/tools/reading-time/non-fiction" target="_blank" rel="noopener noreferrer nofollow">https://hmdpublishing.com/education/tools/reading-time/non-fiction</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>College students typically read at 250-300 WPM, while speed readers can...Read more...</p></details>
+   Link:<a href="https://hmdpublishing.com/education/tools/reading-time/non-fiction" target="_blank" rel="noopener noreferrer nofollow">https://hmdpublishing.com/education/tools/reading-time/non-fiction</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>College students typically read at 250-300 WPM, while speed readers can...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: hmdpublishing.com  
-   Link: <a href="https://hmdpublishing.com/education/tools/reading-time" target="_blank" rel="noopener noreferrer nofollow">https://hmdpublishing.com/education/tools/reading-time</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>College students typically read at 250-300 WPM, while speed readers can...Read more...</p></details>
+   Link:<a href="https://hmdpublishing.com/education/tools/reading-time" target="_blank" rel="noopener noreferrer nofollow">https://hmdpublishing.com/education/tools/reading-time</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>College students typically read at 250-300 WPM, while speed readers can...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: oxfordlanguageclub.com  
-   Link: <a href="https://oxfordlanguageclub.com/page/blog/reading-strategies-skimming-scanning-and-detailed-reading" target="_blank" rel="noopener noreferrer nofollow">https://oxfordlanguageclub.com/page/blog/reading-strategies-skimming-scanning-and-detailed-reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Strategies: Skimming, Scanning, and Detailed...Skimming: This technique involves quickly glancing through a text to get the main...</p></details>
+   Link:<a href="https://oxfordlanguageclub.com/page/blog/reading-strategies-skimming-scanning-and-detailed-reading" target="_blank" rel="noopener noreferrer nofollow">https://oxfordlanguageclub.com/page/blog/reading-strategies-skimming-scanning-and-detailed-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Strategies: Skimming, Scanning, and Detailed...Skimming: This technique involves quickly glancing through a text to get the main...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: studyfast.uk  
    Title: what is a good reading speed wpm [benchmarks](&#123;&#123; 'benchmarks/' | relative_url &#125;&#125;) explained  
-   Link: <a href="https://studyfast.uk/blog/what-is-a-good-reading-speed-wpm-benchmarks-explained" target="_blank" rel="noopener noreferrer nofollow">https://studyfast.uk/blog/what-is-a-good-reading-speed-wpm-benchmarks-explained</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Is a Good Reading Speed? WPM Benchmarks...18 Apr 2026 — Most research-based estimates place the centre of that range around 238 to...</p></details>
+   Link:<a href="https://studyfast.uk/blog/what-is-a-good-reading-speed-wpm-benchmarks-explained" target="_blank" rel="noopener noreferrer nofollow">https://studyfast.uk/blog/what-is-a-good-reading-speed-wpm-benchmarks-explained</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Is a Good Reading Speed? WPM Benchmarks...18 Apr 2026 — Most research-based estimates place the centre of that range around 238 to...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/290492746_So_Much_to_Read_So_Little_Time_How_Do_We_Read_and_Can_Speed_Reading_Help" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/290492746_So_Much_to_Read_So_Little_Time_How_Do_We_Read_and_Can_Speed_Reading_Help</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It is unlikely that readers will be able to double or triple their reading speeds.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/290492746_So_Much_to_Read_So_Little_Time_How_Do_We_Read_and_Can_Speed_Reading_Help" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/290492746_So_Much_to_Read_So_Little_Time_How_Do_We_Read_and_Can_Speed_Reading_Help</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It is unlikely that readers will be able to double or triple their reading speeds.Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: theguardian.com  
    Title: speed reading claims discredited by new report  
-   Link: <a href="https://www.theguardian.com/books/2016/jan/29/speed-reading-claims-discredited-by-new-report" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/books/2016/jan/29/speed-reading-claims-discredited-by-new-report</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Books29 Jan 2016 — Companies and apps that promise to rapidly increase reading speeds are on a hiding to nothing, according to new resear...</p></details>
+   Link:<a href="https://www.theguardian.com/books/2016/jan/29/speed-reading-claims-discredited-by-new-report" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/books/2016/jan/29/speed-reading-claims-discredited-by-new-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Books29 Jan 2016 — Companies and apps that promise to rapidly increase reading speeds are on a hiding to nothing, according to new resear...</p></details>

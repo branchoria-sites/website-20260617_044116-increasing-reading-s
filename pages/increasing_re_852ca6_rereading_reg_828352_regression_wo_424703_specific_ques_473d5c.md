@@ -273,7 +273,7 @@ image: /assets/images/increasing_re_852ca6_rereading_reg_828352_regression_wo_42
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_rereading_reg_828352_regression_wo_424703_specific_ques_473d5c-Illustration-1-dark.svg" | relative_url }}" alt="Specific Check illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_rereading_reg_828352_regression_wo_424703_specific_ques_473d5c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_rereading_reg_828352_regression_wo_424703_specific_ques_473d5c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Research on [eye movements]({{ 'eye-tradeoff/' | relative_url }}) shows that [regressions]({{ 'lookbacks/' | relative_url }}) are a normal part of reading and frequently support comprehension when readers need to reanalyse earlier text, resolve inconsistencies, or recover specific information. The key distinction is whether the regression answers a defined question or merely responds to a feeling of doubt. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">The function of these &quot;regressions&quot; is still largely unknown</span><span class="citation-popover-snippet">The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 132 — Standard text reading involves frequent...</span></span></span>
+Research on [eye movements]({{ 'eye-tradeoff/' | relative_url }}) shows that [regressions]({{ 'lookbacks/' | relative_url }}) are a normal part of reading and frequently support comprehension when readers need to reanalyse earlier text, resolve inconsistencies, or recover specific information. The key distinction is whether the regression answers a defined question or merely responds to a feeling of doubt.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">The function of these &quot;regressions&quot; is still largely unknown</span><span class="citation-popover-snippet">The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 132 — Standard text reading involves frequent...</span></span></span>
 
 ## Do You Know What You Need to Check?
 
@@ -283,7 +283,7 @@ Instead of immediately looking back, pause for a second and ask: *What exactly a
 
 If you can answer that question, the regression is likely justified. If you cannot, continuing forward is often the better choice.
 
-This matters because comprehension failures are usually local. A reader may have lost track of a definition, missed a condition in an argument, forgotten which person a pronoun refers to, or become unsure about a number. These are specific gaps. They can often be repaired with a brief glance at a small portion of text rather than a broad rereading of entire paragraphs. Research on reading regressions suggests that readers use many backward eye movements to reprocess text directly when comprehension requires it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.3758/s13421-012-0244-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer+2CORE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">The function of regressions in reading: Backward eye...by RW Booth · 2013 · Cited by 132 — These results suggest that readers us...</span></span></span>
+This matters because comprehension failures are usually local. A reader may have lost track of a definition, missed a condition in an argument, forgotten which person a pronoun refers to, or become unsure about a number. These are specific gaps. They can often be repaired with a brief glance at a small portion of text rather than a broad rereading of entire paragraphs. Research on reading regressions suggests that readers use many backward eye movements to reprocess text directly when comprehension requires it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.3758/s13421-012-0244-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer+2CORE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">The function of regressions in reading: Backward eye...by RW Booth · 2013 · Cited by 132 — These results suggest that readers us...</span></span></span>
 
 A useful mental distinction is:
 
@@ -313,7 +313,7 @@ In each case, the reader can point to a missing piece of information.
 
 Notice how different this is from broad uncertainty. A reader who thinks, “Something feels unclear,” has not yet identified the problem. Looking back at that stage often triggers unfocused rereading. The eyes move backwards, but the mind is still searching for the question.
 
-[Eye-tracking]({{ 'eye-tracking/' | relative_url }}) research consistently links regressions with comprehension monitoring—the process of noticing that understanding has broken down and attempting to repair it. When readers encounter information that conflicts with their current interpretation, they often return to earlier text to revise that interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ora.ox.ac.uk/objects/uuid%3Aa16f42e2-529d-47ae-ba51-50b75dd43899/files/rkh04dp70d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ora.ox.ac.uk">[Oxford University Research Archive+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ora.ox.ac.uk</span><span class="citation-popover-snippet">ford University Research ArchiveComprehension monitoring during reading: an eye-tracking...by AK Hessel · 2020 · Cited by 50 — We chos...</span></span></span>
+[Eye-tracking]({{ 'eye-tracking/' | relative_url }}) research consistently links regressions with comprehension monitoring—the process of noticing that understanding has broken down and attempting to repair it. When readers encounter information that conflicts with their current interpretation, they often return to earlier text to revise that interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ora.ox.ac.uk/objects/uuid%3Aa16f42e2-529d-47ae-ba51-50b75dd43899/files/rkh04dp70d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ora.ox.ac.uk">[Oxford University Research Archive+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ora.ox.ac.uk</span><span class="citation-popover-snippet">ford University Research ArchiveComprehension monitoring during reading: an eye-tracking...by AK Hessel · 2020 · Cited by 50 — We chos...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GY6zOP4b5LU" title="Common Reading Mistakes and How to Fix Them 📚" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GY6zOP4b5LU" target="_blank" rel="noopener noreferrer">Common Reading Mistakes and How to Fix Them 📚</a></p><p class="youtube-embed-meta">Channel: Jim Kwik &middot; Views: 55.5K &middot; Uploaded: October 2024 &middot; Length: 35 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GY6zOP4b5LU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GY6zOP4b5LU">Open on YouTube</a></p></div></div></div>
@@ -358,7 +358,7 @@ These reactions often lead to unnecessary rereading:
 
 The problem here is not necessarily comprehension. It is the inability to identify a missing fact.
 
-Many readers lose speed because they treat uncertainty itself as evidence that understanding has failed. Yet comprehension frequently develops over several sentences. Information that seems incomplete at one point is often clarified naturally by what follows. Interrupting that process too early can create a cycle of repeated checking and reduced reading flow. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 531 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</span></span></span>
+Many readers lose speed because they treat uncertainty itself as evidence that understanding has failed. Yet comprehension frequently develops over several sentences. Information that seems incomplete at one point is often clarified naturally by what follows. Interrupting that process too early can create a cycle of repeated checking and reduced reading flow.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 531 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fx1a6Dm64kA" title="Re-reading and Comprehension | Things About Speed-Reading People Often Miss" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fx1a6Dm64kA" target="_blank" rel="noopener noreferrer">Re-reading and Comprehension | Things About Speed-Reading People Often Miss</a></p><p class="youtube-embed-meta">Channel: How to Genius &middot; Views: 4.4K &middot; Uploaded: April 2021 &middot; Length: 4 minutes 40 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fx1a6Dm64kA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fx1a6Dm64kA">Open on YouTube</a></p></div></div></div>
@@ -396,7 +396,7 @@ At first glance, any backward movement appears to [slow reading]({{ 'slow-readin
 
 When a critical misunderstanding remains unresolved, the reader often carries confusion forward. Subsequent sentences become harder to interpret because they depend on information that was missed earlier. A short corrective glance may prevent a much larger breakdown later.
 
-Research distinguishes regressions that support comprehension from those that merely correct eye-movement positioning. Larger regressions often occur when readers need to revisit earlier text and revise their understanding. These movements are part of normal skilled reading rather than evidence of failure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6802794/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCRegressions during Reading</span><span class="citation-popover-snippet">NIHby AW Inhoff · 2019 · Cited by 62 — Abstract. Readers occasionally move their eyes to prior text. We distinguish two types of th...</span></span></span>
+Research distinguishes regressions that support comprehension from those that merely correct eye-movement positioning. Larger regressions often occur when readers need to revisit earlier text and revise their understanding. These movements are part of normal skilled reading rather than evidence of failure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6802794/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCRegressions during Reading</span><span class="citation-popover-snippet">NIHby AW Inhoff · 2019 · Cited by 62 — Abstract. Readers occasionally move their eyes to prior text. We distinguish two types of th...</span></span></span>
 
 The goal, therefore, is not zero regressions. The goal is high-value regressions: brief returns that answer a specific question and immediately allow forward progress.
 
@@ -408,169 +408,169 @@ When deciding whether to look back, replace the question “Should I reread this
 
 If you can answer that immediately, the regression is usually justified. If you cannot, the fastest choice is often to keep moving and allow the text to provide more context.
 
-In speed-conscious reading, clarity of purpose matters more than the number of backward eye movements. A regression with a specific target repairs understanding. A regression driven only by uncertainty often repeats work that was already good enough. The difference between the two can have a noticeable effect on both reading speed and comprehension. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">The function of these &quot;regressions&quot; is still largely unknown</span><span class="citation-popover-snippet">The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 132 — Standard text reading involves frequent...</span></span></span>
+In speed-conscious reading, clarity of purpose matters more than the number of backward eye movements. A regression with a specific target repairs understanding. A regression driven only by uncertainty often repeats work that was already good enough. The difference between the two can have a noticeable effect on both reading speed and comprehension.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">The function of these &quot;regressions&quot; is still largely unknown</span><span class="citation-popover-snippet">The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 132 — Standard text reading involves frequent...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ScheNGvItlI" title="GMAT Reading Comprehension #4: Function &amp; Role Questions in RC | GMAT Ninja" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ScheNGvItlI" target="_blank" rel="noopener noreferrer">GMAT Reading Comprehension #4: Function &amp; Role Questions in RC | GMAT Ninja</a></p><p class="youtube-embed-meta">Channel: GMAT Club</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ScheNGvItlI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ScheNGvItlI">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Do You Know What You Need to Check?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Do You Know What You Need to Check?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Encourages readers to ask precise questions and identify exact comprehension gaps.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Encourages readers to ask precise questions and identify exact comprehension gaps.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ultralearning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jyV2DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ultralearning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ultralearning">Ultralearning</a>
-        </h4>
-        <p class="fr-book-author">By Scott H. Young</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ultralearning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jyV2DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ultralearning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ultralearning">Ultralearning</a>
+</h4>
+<p class="fr-book-author">By Scott H. Young</p>
         
-        <p class="fr-book-desc">Promotes active questioning and deliberate knowledge acquisition.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Promotes active questioning and deliberate knowledge acquisition.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-        </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+</h4>
+<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Supports the value of targeted retrieval over vague uncertainty.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports the value of targeted retrieval over vague uncertainty.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Only+Skill+that+Matters+Jonathan+A.+Levi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Only Skill that Matters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/15160962-M.jpg" alt="Cover for The Only Skill that Matters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Only+Skill+that+Matters+Jonathan+A.+Levi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Only Skill that Matters">The Only Skill that Matters</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan A. Levi</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Only+Skill+that+Matters+Jonathan+A.+Levi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Only Skill that Matters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/15160962-M.jpg" alt="Cover for The Only Skill that Matters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Only+Skill+that+Matters+Jonathan+A.+Levi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Only Skill that Matters">The Only Skill that Matters</a>
+</h4>
+<p class="fr-book-author">By Jonathan A. Levi</p>
         
-        <p class="fr-book-desc">First published 2019.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Only+Skill+that+Matters+Jonathan+A.+Levi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2019.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Only+Skill+that+Matters+Jonathan+A.+Levi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ultralearning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ultralearning</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ultralearning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ultralearning</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+know+need+patch+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=specific-check-do-you-know-what-you-need-to-check-increasing-you-know-need-patch-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you know need patch -book -books -dvd" data-ebay-reference="specific-check-do-you-know-what-you-need-to-check-increasing-you-know-need-patch-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cookie Swap Gooseberry Patch Everything You Need to Know... 2003 1st Print"><img src="{{ '/assets/images/marketplace-covers/08658616e3d6a4668705.jpg' | relative_url }}" alt="Listing image for Cookie Swap Gooseberry Patch Everything You Need to Know... 2003 1st Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+know+need+patch+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=specific-check-do-you-know-what-you-need-to-check-increasing-you-know-need-patch-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you know need patch -book -books -dvd" data-ebay-reference="specific-check-do-you-know-what-you-need-to-check-increasing-you-know-need-patch-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Cookie Swap Gooseberry Patch Everything You Need to Know... 2003 1st Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+know+need+patch+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=specific-check-do-you-know-what-you-need-to-check-increasing-you-know-need-patch-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you know need patch -book -books -dvd" data-ebay-reference="specific-check-do-you-know-what-you-need-to-check-increasing-you-know-need-patch-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for you know need patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: you know need patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+know+need+patch+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=specific-check-do-you-know-what-you-need-to-check-increasing-you-know-need-patch-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you know need patch -book -books -dvd" data-ebay-reference="specific-check-do-you-know-what-you-need-to-check-increasing-you-know-need-patch-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+know+need+patch+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=specific-check-do-you-know-what-you-need-to-check-increasing-you-know-need-patch-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you know need patch -book -books -dvd" data-ebay-reference="specific-check-do-you-know-what-you-need-to-check-increasing-you-know-need-patch-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cookie Swap Gooseberry Patch Everything You Need to Know... 2003 1st Print"><img src="{{ '/assets/images/marketplace-covers/08658616e3d6a4668705.jpg' | relative_url }}" alt="Listing image for Cookie Swap Gooseberry Patch Everything You Need to Know... 2003 1st Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+know+need+patch+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=specific-check-do-you-know-what-you-need-to-check-increasing-you-know-need-patch-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you know need patch -book -books -dvd" data-ebay-reference="specific-check-do-you-know-what-you-need-to-check-increasing-you-know-need-patch-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Cookie Swap Gooseberry Patch Everything You Need to Know... 2003 1st Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+know+need+patch+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=specific-check-do-you-know-what-you-need-to-check-increasing-you-know-need-patch-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you know need patch -book -books -dvd" data-ebay-reference="specific-check-do-you-know-what-you-need-to-check-increasing-you-know-need-patch-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for you know need patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: you know need patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+know+need+patch+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=specific-check-do-you-know-what-you-need-to-check-increasing-you-know-need-patch-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you know need patch -book -books -dvd" data-ebay-reference="specific-check-do-you-know-what-you-need-to-check-increasing-you-know-need-patch-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+know+need+patch+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=specific-check-do-you-know-what-you-need-to-check-increasing-you-know-need-patch-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you know need patch -book -books -dvd" data-ebay-reference="specific-check-do-you-know-what-you-need-to-check-increasing-you-know-need-patch-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOKIE SWAP: EVERYTHING YOU NEED TO KNOW; GOOSEBERRY PATCH COOKBOOKLET (2003"><img src="{{ '/assets/images/marketplace-covers/30f9ac01de1403b66e10.jpg' | relative_url }}" alt="Listing image for COOKIE SWAP: EVERYTHING YOU NEED TO KNOW; GOOSEBERRY PATCH COOKBOOKLET (2003" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+know+need+patch+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=specific-check-do-you-know-what-you-need-to-check-increasing-you-know-need-patch-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you know need patch -book -books -dvd" data-ebay-reference="specific-check-do-you-know-what-you-need-to-check-increasing-you-know-need-patch-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">COOKIE SWAP: EVERYTHING YOU NEED TO KNOW; GOOSEBERRY PATCH COOKBOOKLET (2003</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+know+need+patch+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=specific-check-do-you-know-what-you-need-to-check-increasing-you-know-need-patch-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you know need patch -book -books -dvd" data-ebay-reference="specific-check-do-you-know-what-you-need-to-check-increasing-you-know-need-patch-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for you know need patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: you know need patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+know+need+patch+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=specific-check-do-you-know-what-you-need-to-check-increasing-you-know-need-patch-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you know need patch -book -books -dvd" data-ebay-reference="specific-check-do-you-know-what-you-need-to-check-increasing-you-know-need-patch-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+know+need+patch+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=specific-check-do-you-know-what-you-need-to-check-increasing-you-know-need-patch-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you know need patch -book -books -dvd" data-ebay-reference="specific-check-do-you-know-what-you-need-to-check-increasing-you-know-need-patch-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+know+need+patch+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=specific-check-do-you-know-what-you-need-to-check-increasing-you-know-need-patch-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you know need patch -book -books -dvd" data-ebay-reference="specific-check-do-you-know-what-you-need-to-check-increasing-you-know-need-patch-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOKIE SWAP: EVERYTHING YOU NEED TO KNOW; GOOSEBERRY PATCH COOKBOOKLET (2003"><img src="{{ '/assets/images/marketplace-covers/30f9ac01de1403b66e10.jpg' | relative_url }}" alt="Listing image for COOKIE SWAP: EVERYTHING YOU NEED TO KNOW; GOOSEBERRY PATCH COOKBOOKLET (2003" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+know+need+patch+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=specific-check-do-you-know-what-you-need-to-check-increasing-you-know-need-patch-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you know need patch -book -books -dvd" data-ebay-reference="specific-check-do-you-know-what-you-need-to-check-increasing-you-know-need-patch-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">COOKIE SWAP: EVERYTHING YOU NEED TO KNOW; GOOSEBERRY PATCH COOKBOOKLET (2003</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+know+need+patch+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=specific-check-do-you-know-what-you-need-to-check-increasing-you-know-need-patch-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you know need patch -book -books -dvd" data-ebay-reference="specific-check-do-you-know-what-you-need-to-check-increasing-you-know-need-patch-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for you know need patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: you know need patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+know+need+patch+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=specific-check-do-you-know-what-you-need-to-check-increasing-you-know-need-patch-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you know need patch -book -books -dvd" data-ebay-reference="specific-check-do-you-know-what-you-need-to-check-increasing-you-know-need-patch-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+know+need+patch+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=specific-check-do-you-know-what-you-need-to-check-increasing-you-know-need-patch-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you know need patch -book -books -dvd" data-ebay-reference="specific-check-do-you-know-what-you-need-to-check-increasing-you-know-need-patch-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -586,7 +586,7 @@ In speed-conscious reading, clarity of purpose matters more than the number of b
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -606,7 +606,7 @@ In speed-conscious reading, clarity of purpose matters more than the number of b
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -638,7 +638,7 @@ In speed-conscious reading, clarity of purpose matters more than the number of b
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -690,7 +690,7 @@ In speed-conscious reading, clarity of purpose matters more than the number of b
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -735,7 +735,7 @@ In speed-conscious reading, clarity of purpose matters more than the number of b
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -776,177 +776,177 @@ In speed-conscious reading, clarity of purpose matters more than the number of b
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCRegressions during Reading  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6802794/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6802794/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby AW Inhoff · 2019 · Cited by 62 — Abstract. Readers occasionally move their eyes to prior text. We distinguish two types of th...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6802794/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6802794/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby AW Inhoff · 2019 · Cited by 62 — Abstract. Readers occasionally move their eyes to prior text. We distinguish two types of th...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.3758/s13421-012-0244-y" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13421-012-0244-y</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The function of regressions in reading: Backward eye...by RW Booth · 2013 · Cited by 132 — These results suggest that readers us...</p></details>
+   Link:<a href="https://link.springer.com/article/10.3758/s13421-012-0244-y" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13421-012-0244-y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The function of regressions in reading: Backward eye...by RW Booth · 2013 · Cited by 132 — These results suggest that readers us...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: core.ac.uk  
-   Link: <a href="https://core.ac.uk/download/pdf/52172007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://core.ac.uk/download/pdf/52172007.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Keywords Eye movements...Read more...</p></details>
+   Link:<a href="https://core.ac.uk/download/pdf/52172007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://core.ac.uk/download/pdf/52172007.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Keywords Eye movements...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5604484/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5604484/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Alternatively, the regression may reflect self-monitoring during the...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5604484/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5604484/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alternatively, the regression may reflect self-monitoring during the...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6071415/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6071415/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The goal was to investigate the nature of online comprehension monitoring, its predictors, and its relation to reading comprehension.Read...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6071415/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6071415/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The goal was to investigate the nature of online comprehension monitoring, its predictors, and its relation to reading comprehension.Read...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6235565/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6235565/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by JR Folk · 2018 · Cited by 8 — This paper describes how to design materials to distinguish between regressions caused by comprehensi...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6235565/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6235565/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by JR Folk · 2018 · Cited by 8 — This paper describes how to design materials to distinguish between regressions caused by comprehensi...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s11409-025-09440-2" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11409-025-09440-2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>behavior as an indicator of comprehension...by C Tibken · 2025 · Cited by 2 — In the following section, we discuss how eye movement meas...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s11409-025-09440-2" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11409-025-09440-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>behavior as an indicator of comprehension...by C Tibken · 2025 · Cited by 2 — In the following section, we discuss how eye movement meas...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: The function of these "regressions" is still largely unknown  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22886737/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 132 — Standard text reading involves frequent...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22886737/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 132 — Standard text reading involves frequent...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ora.ox.ac.uk  
-   Link: <a href="https://ora.ox.ac.uk/objects/uuid%3Aa16f42e2-529d-47ae-ba51-50b75dd43899/files/rkh04dp70d" target="_blank" rel="noopener noreferrer nofollow">https://ora.ox.ac.uk/objects/uuid%3Aa16f42e2-529d-47ae-ba51-50b75dd43899/files/rkh04dp70d</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ford University Research ArchiveComprehension monitoring during reading: an eye-tracking...by AK Hessel · 2020 · Cited by 50 — We chos...</p></details>
+   Link:<a href="https://ora.ox.ac.uk/objects/uuid%3Aa16f42e2-529d-47ae-ba51-50b75dd43899/files/rkh04dp70d" target="_blank" rel="noopener noreferrer nofollow">https://ora.ox.ac.uk/objects/uuid%3Aa16f42e2-529d-47ae-ba51-50b75dd43899/files/rkh04dp70d</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ford University Research ArchiveComprehension monitoring during reading: an eye-tracking...by AK Hessel · 2020 · Cited by 50 — We chos...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med How Do We Read, and Can [Speed Reading](&#123;&#123; 'myths/' | relative_url &#125;&#125;) Help?  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26769745/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by K Rayner · 2016 · Cited by 531 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26769745/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by K Rayner · 2016 · Cited by 531 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/27873185/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/27873185/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Regressions during reading: The cost depends on the causeby MA Eskenazi · 2017 · Cited by 31 — The purpose of the current study was...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/27873185/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/27873185/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Regressions during reading: The cost depends on the causeby MA Eskenazi · 2017 · Cited by 31 — The purpose of the current study was...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7888242/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7888242/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Model of Regressive Eye Movements during...by AF Weiss · 2020 · Cited by 7 — In this article we present a new eye movement con...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7888242/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7888242/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Model of Regressive Eye Movements during...by AF Weiss · 2020 · Cited by 7 — In this article we present a new eye movement con...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6234076/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6234076/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of reader- and text-level characteristics to eye...by V Kuperman · 2018 · Cited by 75 — Eye-movements during passage reading are suscept...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6234076/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6234076/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of reader- and text-level characteristics to eye...by V Kuperman · 2018 · Cited by 75 — Eye-movements during passage reading are suscept...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12409514/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12409514/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the rereading effect of digital reading through eye...by Y Xu · 2025 — This study aimed to investigate the differences in eye movement c...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12409514/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12409514/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the rereading effect of digital reading through eye...by Y Xu · 2025 — This study aimed to investigate the differences in eye movement c...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/31735836/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/31735836/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>during Readingby AW Inhoff · 2019 · Cited by 70 — Readers occasionally move their eyes to prior text. We distinguish two types of these m...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/31735836/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/31735836/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>during Readingby AW Inhoff · 2019 · Cited by 70 — Readers occasionally move their eyes to prior text. We distinguish two types of these m...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/33029808/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/33029808/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eye Movements Reveal About Later Comprehension...by R Southwell · 2020 · Cited by 48 — Using a predictive modeling approach, we trained...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/33029808/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/33029808/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eye Movements Reveal About Later Comprehension...by R Southwell · 2020 · Cited by 48 — Using a predictive modeling approach, we trained...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12769648/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12769648/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by A Friede · 2026 · Cited by 1 — The function of regressions in reading: Backward eye movements allow rereading.... Comprehension is...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12769648/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12769648/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by A Friede · 2026 · Cited by 1 — The function of regressions in reading: Backward eye movements allow rereading.... Comprehension is...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/15468029/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/15468029/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rehabilitation in acquired brain injury: a case...by N Kapoor · 2004 · Cited by 115 — This case series provides objective documentation...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/15468029/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/15468029/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rehabilitation in acquired brain injury: a case...by N Kapoor · 2004 · Cited by 115 — This case series provides objective documentation...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/29461715/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29461715/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Speed-[Reading Apps](&amp;#123;&amp;#123; &#x27;reading-apps/&#x27; | relative_url &amp;#125;&amp;#125;) Do Not Foster...by D Acklin · 2017 · Cited by 25 — This is done using rapid serial visual presentation (RSVP), where...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/29461715/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29461715/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Speed-[Reading Apps](&amp;#123;&amp;#123; &#x27;reading-apps/&#x27; | relative_url &amp;#125;&amp;#125;) Do Not Foster...by D Acklin · 2017 · Cited by 25 — This is done using rapid serial visual presentation (RSVP), where...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/35321590/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/35321590/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Struggling Adult Readers Monitor Their Reading...by EL Tighe · 2023 · Cited by 23 — This study used a comprehension monitoring task with...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/35321590/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/35321590/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Struggling Adult Readers Monitor Their Reading...by EL Tighe · 2023 · Cited by 23 — This study used a comprehension monitoring task with...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/16390289/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/16390289/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>development of language by hand: composing, reading...by VW Berninger · 2006 · Cited by 485 — Results showed that individual differences...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/16390289/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/16390289/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>development of language by hand: composing, reading...by VW Berninger · 2006 · Cited by 485 — Results showed that individual differences...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Differences between the EZ Reader model and the SWIFT model are reviewed.Read  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2906818/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2906818/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Movements in Reading: Models and Data - PMCby K Rayner · 2009 · Cited by 285 — Models of eye movement control in reading and their impact...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2906818/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2906818/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Movements in Reading: Models and Data - PMCby K Rayner · 2009 · Cited by 285 — Models of eye movement control in reading and their impact...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Eye" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eye</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EyeAn eye is a sensory organ that allows an organism to perceive visual information. It detects light and converts it into electro-che...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Eye" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eye</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EyeAn eye is a sensory organ that allows an organism to perceive visual information. It detects light and converts it into electro-che...</p></details>
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: studenttheses.universiteitleiden.nl  
-   Link: <a href="https://studenttheses.universiteitleiden.nl/access/item%3A2629036/view" target="_blank" rel="noopener noreferrer nofollow">https://studenttheses.universiteitleiden.nl/access/item%3A2629036/view</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Relatively little research has been conducted to study eye movements in children. However, early eye tracking...Read more...</p></details>
+   Link:<a href="https://studenttheses.universiteitleiden.nl/access/item%3A2629036/view" target="_blank" rel="noopener noreferrer nofollow">https://studenttheses.universiteitleiden.nl/access/item%3A2629036/view</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Relatively little research has been conducted to study eye movements in children. However, early eye tracking...Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/353910349_Metacomprehension_and_regressions_during_reading_and_rereading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/353910349_Metacomprehension_and_regressions_during_reading_and_rereading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>etacomprehension judgments and accuracy in order to further understand the...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/353910349_Metacomprehension_and_regressions_during_reading_and_rereading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/353910349_Metacomprehension_and_regressions_during_reading_and_rereading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>etacomprehension judgments and accuracy in order to further understand the...Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: researchgate.net  
    Title: Comprehension monitoring during reading  
-   Link: <a href="https://www.researchgate.net/publication/335844637_Comprehension_monitoring_during_reading_an_eye-tracking_study_with_children_learning_English_as_an_additional_language" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/335844637_Comprehension_monitoring_during_reading_an_eye-tracking_study_with_children_learning_English_as_an_additional_language</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ChildrenThis experiment investigated comprehension monitoring in children learning English as an additional language (EAL) compared to mo...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/335844637_Comprehension_monitoring_during_reading_an_eye-tracking_study_with_children_learning_English_as_an_additional_language" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/335844637_Comprehension_monitoring_during_reading_an_eye-tracking_study_with_children_learning_English_as_an_additional_language</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ChildrenThis experiment investigated comprehension monitoring in children learning English as an additional language (EAL) compared to mo...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: d-nb.info  
-   Link: <a href="https://d-nb.info/1227301006/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1227301006/34</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Comprehension demands modulate re-reading, but not first...by AF Weiss · Cited by 58 — Abstract: Several studies have examined effec...</p></details>
+   Link:<a href="https://d-nb.info/1227301006/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1227301006/34</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Comprehension demands modulate re-reading, but not first...by AF Weiss · Cited by 58 — Abstract: Several studies have examined effec...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/230658181_The_function_of_regressions_in_reading_Backward_eye_movements_allow_rereading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/230658181_The_function_of_regressions_in_reading_Backward_eye_movements_allow_rereading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ue their memory for previously read words.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/230658181_The_function_of_regressions_in_reading_Backward_eye_movements_allow_rereading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/230658181_The_function_of_regressions_in_reading_Backward_eye_movements_allow_rereading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ue their memory for previously read words.Read more...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: GMAT Reading Comprehension #4: Function & Role Questions in RC | GMAT Ninja  
-   Link: <a href="https://www.youtube.com/watch?v=ScheNGvItlI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ScheNGvItlI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Comprehension Tricks for NIFT, NID, UCEED &amp; NATA 2027 | Improve RC Speed &amp; Accuracy...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ScheNGvItlI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ScheNGvItlI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Comprehension Tricks for NIFT, NID, UCEED &amp; NATA 2027 | Improve RC Speed &amp; Accuracy...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: assets.cambridge.org  
    Title: 9781108415354 excerpt  
-   Link: <a href="https://assets.cambridge.org/97811084/15354/excerpt/9781108415354_excerpt.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.cambridge.org/97811084/15354/excerpt/9781108415354_excerpt.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Introduction to Eye-TrackingIn reading, saccades do not always move the eye forward in a text. About 10–15 per cent of the time, reader...</p></details>
+   Link:<a href="https://assets.cambridge.org/97811084/15354/excerpt/9781108415354_excerpt.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.cambridge.org/97811084/15354/excerpt/9781108415354_excerpt.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1 Introduction to Eye-TrackingIn reading, saccades do not always move the eye forward in a text. About 10–15 per cent of the time, reader...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: cognitivetrain.com  
-   Link: <a href="https://cognitivetrain.com/regression-in-reading/" target="_blank" rel="noopener noreferrer nofollow">https://cognitivetrain.com/regression-in-reading/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Regression in Reading: Why Your Eyes Keep Going...Eye-tracking research shows that regressions account for 10-15% of all eye movements d...</p></details>
+   Link:<a href="https://cognitivetrain.com/regression-in-reading/" target="_blank" rel="noopener noreferrer nofollow">https://cognitivetrain.com/regression-in-reading/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Regression in Reading: Why Your Eyes Keep Going...Eye-tracking research shows that regressions account for 10-15% of all eye movements d...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: eric.ed.gov  
-   Link: <a href="https://eric.ed.gov/?id=EJ1288982" target="_blank" rel="noopener noreferrer nofollow">https://eric.ed.gov/?id=EJ1288982</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eye-Tracking Study with Children Learning English as...by AK Hessel · 2021 · Cited by 46 — This experiment investigated comprehension mo...</p></details>
+   Link:<a href="https://eric.ed.gov/?id=EJ1288982" target="_blank" rel="noopener noreferrer nofollow">https://eric.ed.gov/?id=EJ1288982</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eye-Tracking Study with Children Learning English as...by AK Hessel · 2021 · Cited by 46 — This experiment investigated comprehension mo...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: Re-reading and Comprehension | Things About Speed-Reading People Often Miss  
-   Link: <a href="https://www.youtube.com/watch?v=fx1a6Dm64kA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fx1a6Dm64kA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Common Reading Mistakes and How to Fix Them...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=fx1a6Dm64kA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fx1a6Dm64kA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Common Reading Mistakes and How to Fix Them...</p></details>

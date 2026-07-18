@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /increasing-re-852ca6-phrase-readin/
 description: Focused pages that expand on Phrases.
-date: '2026-06-16'
+date: '2026'
 layout: default
 parent_basename: increasing_re_852ca6_phrase_readin_eba9de
 parent_title: Phrases
@@ -16,7 +16,7 @@ parent_permalink: /phrases/
 
 # Explore Topics in Phrases
 
-The following pages expand on the main **[Phrases]({{ '/phrases/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Phrases]({{ '/phrases/' | relative_url }})** page and cover its key branches in.
 
 - [Phrase Breaks]({{ '/phrase-breaks/' | relative_url }})
 - [Not Hype]({{ '/not-hype/' | relative_url }})

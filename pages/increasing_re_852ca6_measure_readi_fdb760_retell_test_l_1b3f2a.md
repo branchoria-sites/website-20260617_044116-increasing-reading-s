@@ -298,7 +298,7 @@ Retelling is one of the most intuitive ways to check whether faster reading stil
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_measure_readi_fdb760_retell_test_l_1b3f2a-Illustration-1-dark.svg" | relative_url }}" alt="Retell Limits illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_measure_readi_fdb760_retell_test_l_1b3f2a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_measure_readi_fdb760_retell_test_l_1b3f2a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-However, retelling is not a complete test of comprehension. Research consistently finds that retell performance is related to reading comprehension, but only moderately so. A reader can produce an impressive retelling while missing deeper implications, and another reader can understand a text well yet struggle to express that understanding in a retell. For anyone trying to increase reading speed, the practical lesson is that retelling is useful evidence of comprehension, but not sufficient evidence on its own. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.eric.ed.gov/fulltext/ED609876.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.eric.ed.gov">[ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.eric.ed.gov</span><span class="citation-popover-title">ERICIs retell a valid measure of reading comprehension?</span><span class="citation-popover-snippet">ERICDecember 17, 2020 — by Y Cao · 2021 · Cited by 78 — In this meta-analysis, we evaluated the relation between retell and other measure...</span><span class="citation-popover-meta">Published: December 17, 2020</span></span></span>
+However, retelling is not a complete test of comprehension. Research consistently finds that retell performance is related to reading comprehension, but only moderately so. A reader can produce an impressive retelling while missing deeper implications, and another reader can understand a text well yet struggle to express that understanding in a retell. For anyone trying to increase reading speed, the practical lesson is that retelling is useful evidence of comprehension, but not sufficient evidence on its own.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.eric.ed.gov/fulltext/ED609876.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.eric.ed.gov">[ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.eric.ed.gov</span><span class="citation-popover-title">ERICIs retell a valid measure of reading comprehension?</span><span class="citation-popover-snippet">ERICDecember 17, 2020 — by Y Cao · 2021 · Cited by 78 — In this meta-analysis, we evaluated the relation between retell and other measure...</span><span class="citation-popover-meta">Published: December 17, 2020</span></span></span>
 
 ## What retelling reveals after timed reading
 
@@ -316,7 +316,7 @@ When readers retell a passage, they must reconstruct a mental representation of 
 
 </div>
 
-These strengths explain why retelling remains popular. A large review of retell assessments found that retell measures are consistently related to other comprehension measures and can provide valuable information about what a reader understood from a text. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3485692/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCRetell as an Indicator of Reading Comprehension</span><span class="citation-popover-snippet">by DK Reed · 2011 · Cited by 176 — The purpose of this narrative synthesis is to determine the reliability and validity of retell prot...</span></span></span>
+These strengths explain why retelling remains popular. A large review of retell assessments found that retell measures are consistently related to other comprehension measures and can provide valuable information about what a reader understood from a text.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3485692/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCRetell as an Indicator of Reading Comprehension</span><span class="citation-popover-snippet">by DK Reed · 2011 · Cited by 176 — The purpose of this narrative synthesis is to determine the reliability and validity of retell prot...</span></span></span>
 
 For reading-speed training, retelling is particularly valuable because it discourages superficial [skimming]({{ 'skimming/' | relative_url }}). A reader who increases speed from 220 to 280 words per minute but can no longer explain the text has not achieved meaningful progress. A retell quickly exposes that problem.
 
@@ -324,7 +324,7 @@ For reading-speed training, retelling is particularly valuable because it discou
 
 The main [limitation]({{ 'reading-limits/' | relative_url }}) of retelling is that remembering and explaining are not identical to understanding.
 
-A major meta-analysis examining 23 studies and more than 4,700 participants found only a moderate relationship between retell performance and other reading-comprehension measures (correlation approximately 0.46). In practical terms, retelling captures some important aspects of comprehension but leaves substantial variation unexplained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.eric.ed.gov/fulltext/ED609876.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.eric.ed.gov">[ERIC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.eric.ed.gov</span><span class="citation-popover-title">ERICIs retell a valid measure of reading comprehension?</span><span class="citation-popover-snippet">ERICDecember 17, 2020 — by Y Cao · 2021 · Cited by 78 — In this meta-analysis, we evaluated the relation between retell and other measure...</span><span class="citation-popover-meta">Published: December 17, 2020</span></span></span>
+A major meta-analysis examining 23 studies and more than 4,700 participants found only a moderate relationship between retell performance and other reading-comprehension measures (correlation approximately 0.46). In practical terms, retelling captures some important aspects of comprehension but leaves substantial variation unexplained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.eric.ed.gov/fulltext/ED609876.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.eric.ed.gov">[ERIC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.eric.ed.gov</span><span class="citation-popover-title">ERICIs retell a valid measure of reading comprehension?</span><span class="citation-popover-snippet">ERICDecember 17, 2020 — by Y Cao · 2021 · Cited by 78 — In this meta-analysis, we evaluated the relation between retell and other measure...</span><span class="citation-popover-meta">Published: December 17, 2020</span></span></span>
 
 Several factors create this gap.
 
@@ -347,13 +347,13 @@ This is especially important when comparing readers with different communication
 
 Readers tend to report what is easiest to recall. Important ideas that require inference or integration are sometimes omitted, even when they were understood during reading.
 
-Researchers have noted that retelling may not fully capture higher-order comprehension processes such as drawing conclusions, evaluating arguments, or connecting ideas across a text. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7806198/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCIs Retell a Valid Measure of Reading Comprehension?</span><span class="citation-popover-snippet">by Y Cao · 2020 · Cited by 74 — Retell is used widely as a measure of reading comprehension. In this meta-analysis, we evaluated the r...</span></span></span>
+Researchers have noted that retelling may not fully capture higher-order comprehension processes such as drawing conclusions, evaluating arguments, or connecting ideas across a text.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7806198/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCIs Retell a Valid Measure of Reading Comprehension?</span><span class="citation-popover-snippet">by Y Cao · 2020 · Cited by 74 — Retell is used widely as a measure of reading comprehension. In this meta-analysis, we evaluated the r...</span></span></span>
 
 ### Dense informational texts create special challenges
 
 Retelling often works naturally with narratives because stories have characters, events, and sequences that are easier to recount.
 
-Informational texts are different. A reader may understand a scientific explanation, legal argument, or [technical]({{ 'technical-texts/' | relative_url }}) article but struggle to reconstruct its structure from memory. In these cases, retell quality may underestimate actual comprehension. Researchers have suggested that similarities in retell performance across text types may partly reflect limitations in what retell captures rather than proof that all comprehension demands are equally measured. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.eric.ed.gov/fulltext/ED609876.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.eric.ed.gov">[ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.eric.ed.gov</span><span class="citation-popover-title">ERICIs retell a valid measure of reading comprehension?</span><span class="citation-popover-snippet">ERICDecember 17, 2020 — by Y Cao · 2021 · Cited by 78 — In this meta-analysis, we evaluated the relation between retell and other measure...</span><span class="citation-popover-meta">Published: December 17, 2020</span></span></span>
+Informational texts are different. A reader may understand a scientific explanation, legal argument, or [technical]({{ 'technical-texts/' | relative_url }}) article but struggle to reconstruct its structure from memory. In these cases, retell quality may underestimate actual comprehension. Researchers have suggested that similarities in retell performance across text types may partly reflect limitations in what retell captures rather than proof that all comprehension demands are equally measured.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.eric.ed.gov/fulltext/ED609876.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.eric.ed.gov">[ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.eric.ed.gov</span><span class="citation-popover-title">ERICIs retell a valid measure of reading comprehension?</span><span class="citation-popover-snippet">ERICDecember 17, 2020 — by Y Cao · 2021 · Cited by 78 — In this meta-analysis, we evaluated the relation between retell and other measure...</span><span class="citation-popover-meta">Published: December 17, 2020</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_measure_readi_fdb760_retell_test_l_1b3f2a-Illustration-2-dark.svg" | relative_url }}" alt="Retell Limits illustration 2" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_measure_readi_fdb760_retell_test_l_1b3f2a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_measure_readi_fdb760_retell_test_l_1b3f2a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -371,7 +371,7 @@ Yet the reader may have lost:
 * implied meanings;
 * author intent.
 
-A short retell often cannot reveal these losses. This is one reason researchers caution against treating retell as a complete measure of comprehension. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.eric.ed.gov/fulltext/ED609876.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.eric.ed.gov">[ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.eric.ed.gov</span><span class="citation-popover-title">ERICIs retell a valid measure of reading comprehension?</span><span class="citation-popover-snippet">ERICDecember 17, 2020 — by Y Cao · 2021 · Cited by 78 — In this meta-analysis, we evaluated the relation between retell and other measure...</span><span class="citation-popover-meta">Published: December 17, 2020</span></span></span>
+A short retell often cannot reveal these losses. This is one reason researchers caution against treating retell as a complete measure of comprehension.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.eric.ed.gov/fulltext/ED609876.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.eric.ed.gov">[ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.eric.ed.gov</span><span class="citation-popover-title">ERICIs retell a valid measure of reading comprehension?</span><span class="citation-popover-snippet">ERICDecember 17, 2020 — by Y Cao · 2021 · Cited by 78 — In this meta-analysis, we evaluated the relation between retell and other measure...</span><span class="citation-popover-meta">Published: December 17, 2020</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2uogF0nI2fk" title="CUBED Assessment Training: NLM Reading 1 (Third Grade Benchmark Story 3)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2uogF0nI2fk" target="_blank" rel="noopener noreferrer">CUBED Assessment Training: NLM Reading 1 (Third Grade Benchmark Story 3)</a></p><p class="youtube-embed-meta">Channel: Douglas Petersen &middot; Views: 7.3K &middot; Uploaded: January 2016 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2uogF0nI2fk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2uogF0nI2fk">Open on YouTube</a></p></div></div></div>
@@ -397,7 +397,7 @@ A useful sequence is:
 
 This combination tests multiple layers of comprehension. Retelling reveals the reader's spontaneous understanding, while targeted questions examine specific elements that may not appear naturally in the retell.
 
-Research comparing retell with other comprehension measures shows that different assessment formats tap different aspects of understanding. The moderate relationship between retell and other comprehension tests is precisely why combining measures produces a more complete picture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.eric.ed.gov/fulltext/ED609876.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.eric.ed.gov">[ERIC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.eric.ed.gov</span><span class="citation-popover-title">ERICIs retell a valid measure of reading comprehension?</span><span class="citation-popover-snippet">ERICDecember 17, 2020 — by Y Cao · 2021 · Cited by 78 — In this meta-analysis, we evaluated the relation between retell and other measure...</span><span class="citation-popover-meta">Published: December 17, 2020</span></span></span>
+Research comparing retell with other comprehension measures shows that different assessment formats tap different aspects of understanding. The moderate relationship between retell and other comprehension tests is precisely why combining measures produces a more complete picture.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.eric.ed.gov/fulltext/ED609876.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.eric.ed.gov">[ERIC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.eric.ed.gov</span><span class="citation-popover-title">ERICIs retell a valid measure of reading comprehension?</span><span class="citation-popover-snippet">ERICDecember 17, 2020 — by Y Cao · 2021 · Cited by 78 — In this meta-analysis, we evaluated the relation between retell and other measure...</span><span class="citation-popover-meta">Published: December 17, 2020</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_measure_readi_fdb760_retell_test_l_1b3f2a-Illustration-3-dark.svg" | relative_url }}" alt="Retell Limits illustration 3" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_measure_readi_fdb760_retell_test_l_1b3f2a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_measure_readi_fdb760_retell_test_l_1b3f2a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -420,185 +420,185 @@ When tracking progress:
 
 </div>
 
-Retelling remains one of the most practical [comprehension checks]({{ 'comprehension-checks/' | relative_url }}) because it requires readers to reconstruct meaning rather than recognise answers. Its limitation is that comprehension is broader than recall. The most reliable picture of progress comes from combining retell performance with targeted questioning, ensuring that faster reading reflects deeper understanding rather than faster forgetting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.eric.ed.gov/fulltext/ED609876.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.eric.ed.gov">[ERIC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.eric.ed.gov</span><span class="citation-popover-title">ERICIs retell a valid measure of reading comprehension?</span><span class="citation-popover-snippet">ERICDecember 17, 2020 — by Y Cao · 2021 · Cited by 78 — In this meta-analysis, we evaluated the relation between retell and other measure...</span><span class="citation-popover-meta">Published: December 17, 2020</span></span></span>
+Retelling remains one of the most practical [comprehension checks]({{ 'comprehension-checks/' | relative_url }}) because it requires readers to reconstruct meaning rather than recognise answers. Its limitation is that comprehension is broader than recall. The most reliable picture of progress comes from combining retell performance with targeted questioning, ensuring that faster reading reflects deeper understanding rather than faster forgetting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.eric.ed.gov/fulltext/ED609876.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.eric.ed.gov">[ERIC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.eric.ed.gov</span><span class="citation-popover-title">ERICIs retell a valid measure of reading comprehension?</span><span class="citation-popover-snippet">ERICDecember 17, 2020 — by Y Cao · 2021 · Cited by 78 — In this meta-analysis, we evaluated the relation between retell and other measure...</span><span class="citation-popover-meta">Published: December 17, 2020</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IWGGwnRmYoA" title="Robin Jia: Exposing Brittleness in Reading Comprehension Systems" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IWGGwnRmYoA" target="_blank" rel="noopener noreferrer">Robin Jia: Exposing Brittleness in Reading Comprehension Systems</a></p><p class="youtube-embed-meta">Channel: Ai2 &middot; Views: 712 &middot; Uploaded: October 2018 &middot; Length: 57 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IWGGwnRmYoA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IWGGwnRmYoA">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When retelling helps and when it misleads. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When retelling helps and when it misleads. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Supports deeper understanding beyond simple recall.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Supports deeper understanding beyond simple recall.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Summarizing%2C+paraphrasing%2C+and+retelling+Emily+Kissner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Summarizing, paraphrasing, and retelling on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2385448-M.jpg" alt="Cover for Summarizing, paraphrasing, and retelling" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Summarizing%2C+paraphrasing%2C+and+retelling+Emily+Kissner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Summarizing, paraphrasing, and retelling">Summarizing, paraphrasing, and retelling</a>
-        </h4>
-        <p class="fr-book-author">By Emily Kissner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Summarizing%2C+paraphrasing%2C+and+retelling+Emily+Kissner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Summarizing, paraphrasing, and retelling on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2385448-M.jpg" alt="Cover for Summarizing, paraphrasing, and retelling" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Summarizing%2C+paraphrasing%2C+and+retelling+Emily+Kissner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Summarizing, paraphrasing, and retelling">Summarizing, paraphrasing, and retelling</a>
+</h4>
+<p class="fr-book-author">By Emily Kissner</p>
         
-        <p class="fr-book-desc">First published 2006. Subjects: Composition and exercises, English language, Reading comprehension, Study and teaching, English language,...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Summarizing%2C+paraphrasing%2C+and+retelling+Emily+Kissner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2006. Subjects: Composition and exercises, English language, Reading comprehension, Study and teaching, English language,...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Summarizing%2C+paraphrasing%2C+and+retelling+Emily+Kissner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Breakthrough rapid reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/84360-M.jpg" alt="Cover for Breakthrough rapid reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breakthrough rapid reading">Breakthrough rapid reading</a>
-        </h4>
-        <p class="fr-book-author">By Peter Kump</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Breakthrough rapid reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/84360-M.jpg" alt="Cover for Breakthrough rapid reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breakthrough rapid reading">Breakthrough rapid reading</a>
+</h4>
+<p class="fr-book-author">By Peter Kump</p>
         
-        <p class="fr-book-desc">First published 1979. Subjects: Speed reading, Rapid reading, Du shu fang fa.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1979. Subjects: Speed reading, Rapid reading, Du shu fang fa.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Understanding+and+Teaching+Reading+Comprehension+Jane+Oakhill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding and Teaching Reading Comprehension on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Understanding+and+Teaching+Reading+Comprehension+Jane+Oakhill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding and Teaching Reading Comprehension">Understanding and Teaching Reading Comprehension</a>
-        </h4>
-        <p class="fr-book-author">By Jane Oakhill, Kate Cain et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Understanding+and+Teaching+Reading+Comprehension+Jane+Oakhill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding and Teaching Reading Comprehension on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Understanding+and+Teaching+Reading+Comprehension+Jane+Oakhill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding and Teaching Reading Comprehension">Understanding and Teaching Reading Comprehension</a>
+</h4>
+<p class="fr-book-author">By Jane Oakhill, Kate Cain et al.</p>
         
-        <p class="fr-book-desc">First published 2014. Subjects: Reading comprehension.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Understanding+and+Teaching+Reading+Comprehension+Jane+Oakhill&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2014. Subjects: Reading comprehension.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Understanding+and+Teaching+Reading+Comprehension+Jane+Oakhill&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Summarizing%2C+paraphrasing%2C+and+retelling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Summarizing, paraphrasing, and retelling</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Breakthrough rapid reading</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Summarizing%2C+paraphrasing%2C+and+retelling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Summarizing, paraphrasing, and retelling</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Breakthrough rapid reading</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retell-limits-when-retelling-helps-and-when-it-misleads-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="retell-limits-when-retelling-helps-and-when-it-misleads-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Engage Literacy Benchmark Assessment Kit Level A-P Capstone Classroom 60 texts"><img src="{{ '/assets/images/marketplace-covers/a98b5b437a435a3d0766.jpg' | relative_url }}" alt="Listing image for Engage Literacy Benchmark Assessment Kit Level A-P Capstone Classroom 60 texts" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retell-limits-when-retelling-helps-and-when-it-misleads-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="retell-limits-when-retelling-helps-and-when-it-misleads-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer">Engage Literacy Benchmark Assessment Kit Level A-P Capstone Classroom 60 texts</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retell-limits-when-retelling-helps-and-when-it-misleads-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="retell-limits-when-retelling-helps-and-when-it-misleads-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for literacy assessment kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: literacy assessment kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retell-limits-when-retelling-helps-and-when-it-misleads-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="retell-limits-when-retelling-helps-and-when-it-misleads-increasing-literacy-assessment-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retell-limits-when-retelling-helps-and-when-it-misleads-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="retell-limits-when-retelling-helps-and-when-it-misleads-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Engage Literacy Benchmark Assessment Kit Level A-P Capstone Classroom 60 texts"><img src="{{ '/assets/images/marketplace-covers/a98b5b437a435a3d0766.jpg' | relative_url }}" alt="Listing image for Engage Literacy Benchmark Assessment Kit Level A-P Capstone Classroom 60 texts" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retell-limits-when-retelling-helps-and-when-it-misleads-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="retell-limits-when-retelling-helps-and-when-it-misleads-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer">Engage Literacy Benchmark Assessment Kit Level A-P Capstone Classroom 60 texts</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retell-limits-when-retelling-helps-and-when-it-misleads-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="retell-limits-when-retelling-helps-and-when-it-misleads-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for literacy assessment kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: literacy assessment kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retell-limits-when-retelling-helps-and-when-it-misleads-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="retell-limits-when-retelling-helps-and-when-it-misleads-increasing-literacy-assessment-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retell-limits-when-retelling-helps-and-when-it-misleads-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="retell-limits-when-retelling-helps-and-when-it-misleads-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TOWL 4 Test of Written Language assessment kit / SEN, ALN, Literacy, school"><img src="{{ '/assets/images/marketplace-covers/8bff2c480feb01ce2715.jpg' | relative_url }}" alt="Listing image for TOWL 4 Test of Written Language assessment kit / SEN, ALN, Literacy, school" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retell-limits-when-retelling-helps-and-when-it-misleads-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="retell-limits-when-retelling-helps-and-when-it-misleads-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer">TOWL 4 Test of Written Language assessment kit / SEN, ALN, Literacy, school</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retell-limits-when-retelling-helps-and-when-it-misleads-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="retell-limits-when-retelling-helps-and-when-it-misleads-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for literacy assessment kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: literacy assessment kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retell-limits-when-retelling-helps-and-when-it-misleads-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="retell-limits-when-retelling-helps-and-when-it-misleads-increasing-literacy-assessment-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retell-limits-when-retelling-helps-and-when-it-misleads-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="retell-limits-when-retelling-helps-and-when-it-misleads-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TOWL 4 Test of Written Language assessment kit / SEN, ALN, Literacy, school"><img src="{{ '/assets/images/marketplace-covers/8bff2c480feb01ce2715.jpg' | relative_url }}" alt="Listing image for TOWL 4 Test of Written Language assessment kit / SEN, ALN, Literacy, school" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retell-limits-when-retelling-helps-and-when-it-misleads-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="retell-limits-when-retelling-helps-and-when-it-misleads-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer">TOWL 4 Test of Written Language assessment kit / SEN, ALN, Literacy, school</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retell-limits-when-retelling-helps-and-when-it-misleads-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="retell-limits-when-retelling-helps-and-when-it-misleads-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for literacy assessment kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: literacy assessment kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retell-limits-when-retelling-helps-and-when-it-misleads-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="retell-limits-when-retelling-helps-and-when-it-misleads-increasing-literacy-assessment-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retell-limits-when-retelling-helps-and-when-it-misleads-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="retell-limits-when-retelling-helps-and-when-it-misleads-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DEVELOPMENTAL READING ASSESSMENT DRA MANUAL FOR K3 LITERACY JOETTA BEAVER"><img src="{{ '/assets/images/marketplace-covers/588788312481d0d50bdc.jpg' | relative_url }}" alt="Listing image for DEVELOPMENTAL READING ASSESSMENT DRA MANUAL FOR K3 LITERACY JOETTA BEAVER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retell-limits-when-retelling-helps-and-when-it-misleads-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="retell-limits-when-retelling-helps-and-when-it-misleads-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer">DEVELOPMENTAL READING ASSESSMENT DRA MANUAL FOR K3 LITERACY JOETTA BEAVER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retell-limits-when-retelling-helps-and-when-it-misleads-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="retell-limits-when-retelling-helps-and-when-it-misleads-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for literacy assessment kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: literacy assessment kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retell-limits-when-retelling-helps-and-when-it-misleads-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="retell-limits-when-retelling-helps-and-when-it-misleads-increasing-literacy-assessment-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retell-limits-when-retelling-helps-and-when-it-misleads-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="retell-limits-when-retelling-helps-and-when-it-misleads-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retell-limits-when-retelling-helps-and-when-it-misleads-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="retell-limits-when-retelling-helps-and-when-it-misleads-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DEVELOPMENTAL READING ASSESSMENT DRA MANUAL FOR K3 LITERACY JOETTA BEAVER"><img src="{{ '/assets/images/marketplace-covers/588788312481d0d50bdc.jpg' | relative_url }}" alt="Listing image for DEVELOPMENTAL READING ASSESSMENT DRA MANUAL FOR K3 LITERACY JOETTA BEAVER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retell-limits-when-retelling-helps-and-when-it-misleads-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="retell-limits-when-retelling-helps-and-when-it-misleads-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer">DEVELOPMENTAL READING ASSESSMENT DRA MANUAL FOR K3 LITERACY JOETTA BEAVER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retell-limits-when-retelling-helps-and-when-it-misleads-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="retell-limits-when-retelling-helps-and-when-it-misleads-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for literacy assessment kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: literacy assessment kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retell-limits-when-retelling-helps-and-when-it-misleads-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="retell-limits-when-retelling-helps-and-when-it-misleads-increasing-literacy-assessment-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=retell-limits-when-retelling-helps-and-when-it-misleads-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="retell-limits-when-retelling-helps-and-when-it-misleads-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -614,7 +614,7 @@ Retelling remains one of the most practical [comprehension checks]({{ 'comprehen
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -634,7 +634,7 @@ Retelling remains one of the most practical [comprehension checks]({{ 'comprehen
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -666,7 +666,7 @@ Retelling remains one of the most practical [comprehension checks]({{ 'comprehen
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -718,7 +718,7 @@ Retelling remains one of the most practical [comprehension checks]({{ 'comprehen
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -763,7 +763,7 @@ Retelling remains one of the most practical [comprehension checks]({{ 'comprehen
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -804,103 +804,103 @@ Retelling remains one of the most practical [comprehension checks]({{ 'comprehen
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: files.eric.ed.gov  
    Title: ERICIs retell a valid measure of reading comprehension?  
-   Link: <a href="https://files.eric.ed.gov/fulltext/ED609876.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/ED609876.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ERICDecember 17, 2020 — by Y Cao · 2021 · Cited by 78 — In this meta-analysis, we evaluated the relation between retell and other measure...</p></details>
+   Link:<a href="https://files.eric.ed.gov/fulltext/ED609876.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/ED609876.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ERICDecember 17, 2020 — by Y Cao · 2021 · Cited by 78 — In this meta-analysis, we evaluated the relation between retell and other measure...</p></details>
    Published: December 17, 2020  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCIs Retell a Valid Measure of Reading Comprehension?  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7806198/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7806198/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by Y Cao · 2020 · Cited by 74 — Retell is used widely as a measure of reading comprehension. In this meta-analysis, we evaluated the r...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7806198/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7806198/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by Y Cao · 2020 · Cited by 74 — Retell is used widely as a measure of reading comprehension. In this meta-analysis, we evaluated the r...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCRetell as an Indicator of Reading Comprehension  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3485692/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3485692/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by DK Reed · 2011 · Cited by 176 — The purpose of this narrative synthesis is to determine the reliability and validity of retell prot...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3485692/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3485692/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by DK Reed · 2011 · Cited by 176 — The purpose of this narrative synthesis is to determine the reliability and validity of retell prot...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: eric.ed.gov  
    Title: ERICIs Retell a Valid Measure of Reading Comprehension?  
-   Link: <a href="https://eric.ed.gov/?id=ED609876" target="_blank" rel="noopener noreferrer nofollow">https://eric.ed.gov/?id=ED609876</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by Y Cao · 2021 · Cited by 78 — Retell is used widely as a measure of reading comprehension. In this meta-analysis, we evaluated the...</p></details>
+   Link:<a href="https://eric.ed.gov/?id=ED609876" target="_blank" rel="noopener noreferrer nofollow">https://eric.ed.gov/?id=ED609876</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by Y Cao · 2021 · Cited by 78 — Retell is used widely as a measure of reading comprehension. In this meta-analysis, we evaluated the...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: eric.ed.gov  
-   Link: <a href="https://eric.ed.gov/default.aspx?ff1=eduSecondary+Education&amp;ff2=subReading+Tests&amp;pg=3&amp;q=funded%3Ay" target="_blank" rel="noopener noreferrer nofollow">https://eric.ed.gov/default.aspx?ff1=eduSecondary+Education&amp;ff2=subReading+Tests&amp;pg=3&amp;q=funded%3Ay</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Search ResultsIn this meta-analysis, we evaluated the relation between retell and other measures of reading comprehension among students...</p></details>
+   Link:<a href="https://eric.ed.gov/default.aspx?ff1=eduSecondary+Education&amp;ff2=subReading+Tests&amp;pg=3&amp;q=funded%3Ay" target="_blank" rel="noopener noreferrer nofollow">https://eric.ed.gov/default.aspx?ff1=eduSecondary+Education&amp;ff2=subReading+Tests&amp;pg=3&amp;q=funded%3Ay</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Search ResultsIn this meta-analysis, we evaluated the relation between retell and other measures of reading comprehension among students...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: files.eric.ed.gov  
-   Link: <a href="https://files.eric.ed.gov/fulltext/ED493483.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/ED493483.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ed.govMeta-Analysis of Reading Strategies for Studentsby JM Sencibaugh · 2005 · Cited by 225 — The primary purpose of this study was to c...</p></details>
+   Link:<a href="https://files.eric.ed.gov/fulltext/ED493483.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/ED493483.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ed.govMeta-Analysis of Reading Strategies for Studentsby JM Sencibaugh · 2005 · Cited by 225 — The primary purpose of this study was to c...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: eric.ed.gov  
-   Link: <a href="https://eric.ed.gov/?id=ED548133" target="_blank" rel="noopener noreferrer nofollow">https://eric.ed.gov/?id=ED548133</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>a Brief Measure of Reading Comprehension for...by LB Thomas · 2012 · Cited by 2 — This study investigated the convergent and predictive...</p></details>
+   Link:<a href="https://eric.ed.gov/?id=ED548133" target="_blank" rel="noopener noreferrer nofollow">https://eric.ed.gov/?id=ED548133</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a Brief Measure of Reading Comprehension for...by LB Thomas · 2012 · Cited by 2 — This study investigated the convergent and predictive...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: teacherspayteachers.com  
-   Link: <a href="https://www.teacherspayteachers.com/browse/free?search=story+retelling+rubric" target="_blank" rel="noopener noreferrer nofollow">https://www.teacherspayteachers.com/browse/free?search=story+retelling+rubric</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This assessment can be used to monitor comprehension and assess...Read more...</p></details>
+   Link:<a href="https://www.teacherspayteachers.com/browse/free?search=story+retelling+rubric" target="_blank" rel="noopener noreferrer nofollow">https://www.teacherspayteachers.com/browse/free?search=story+retelling+rubric</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This assessment can be used to monitor comprehension and assess...Read more...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/232814060_Retell_as_an_Indicator_of_Reading_Comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232814060_Retell_as_an_Indicator_of_Reading_Comprehension</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Retell as an Indicator of Reading ComprehensionThe purpose of this narrative synthesis is to determine the reliability and validity...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/232814060_Retell_as_an_Indicator_of_Reading_Comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232814060_Retell_as_an_Indicator_of_Reading_Comprehension</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Retell as an Indicator of Reading ComprehensionThe purpose of this narrative synthesis is to determine the reliability and validity...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/400123815_Reading_comprehension_a_meta-analysis_comparing_standardized_and_non-standardized_assessment_results" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400123815_Reading_comprehension_a_meta-analysis_comparing_standardized_and_non-standardized_assessment_results</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading comprehension: a meta-analysis comparing...12 Mar 2026 — The primary purpose of this meta-analysis was to determine how reading...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/400123815_Reading_comprehension_a_meta-analysis_comparing_standardized_and_non-standardized_assessment_results" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400123815_Reading_comprehension_a_meta-analysis_comparing_standardized_and_non-standardized_assessment_results</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading comprehension: a meta-analysis comparing...12 Mar 2026 — The primary purpose of this meta-analysis was to determine how reading...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: journals.sagepub.com  
    Title: The task was specifically designed for use by junior school teachers.Read m  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/02656590231155861" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/02656590231155861</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>stories: The validity of an online oral narrative taskby G Gillon · 2023 · Cited by 25 — This study examined the validity of data collect...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/02656590231155861" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/02656590231155861</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>stories: The validity of an online oral narrative taskby G Gillon · 2023 · Cited by 25 — This study examined the validity of data collect...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/347438625_Is_Retell_a_Valid_Measure_of_Reading_Comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/347438625_Is_Retell_a_Valid_Measure_of_Reading_Comprehension</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In this meta-analysis, we evaluated the relation between retell and other measures of reading...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/347438625_Is_Retell_a_Valid_Measure_of_Reading_Comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/347438625_Is_Retell_a_Valid_Measure_of_Reading_Comprehension</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In this meta-analysis, we evaluated the relation between retell and other measures of reading...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/368672960_Retelling_stories_The_validity_of_an_online_oral_narrative_task" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/368672960_Retelling_stories_The_validity_of_an_online_oral_narrative_task</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Retelling stories: The validity of an online oral narrative taskThis study examined the validity of data collected from a novel online st...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/368672960_Retelling_stories_The_validity_of_an_online_oral_narrative_task" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/368672960_Retelling_stories_The_validity_of_an_online_oral_narrative_task</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Retelling stories: The validity of an online oral narrative taskThis study examined the validity of data collected from a novel online st...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ascd.org  
    Title: retellings as formative assessment  
-   Link: <a href="https://www.ascd.org/el/articles/retellings-as-formative-assessment" target="_blank" rel="noopener noreferrer nofollow">https://www.ascd.org/el/articles/retellings-as-formative-assessment</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Video Column / Retellings as Formative AssessmentApr 1, 2021 — Oral retellings are a way for a teacher to understand a student&#x27;s langua...</p></details>
+   Link:<a href="https://www.ascd.org/el/articles/retellings-as-formative-assessment" target="_blank" rel="noopener noreferrer nofollow">https://www.ascd.org/el/articles/retellings-as-formative-assessment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Video Column / Retellings as Formative AssessmentApr 1, 2021 — Oral retellings are a way for a teacher to understand a student&#x27;s langua...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/10888438.2010.538780" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/10888438.2010.538780</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineRetell as an Indicator of Reading Comprehensionby DK Reed · 2012 · Cited by 173 — The purpose of this narrative sy...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/abs/10.1080/10888438.2010.538780" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/10888438.2010.538780</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineRetell as an Indicator of Reading Comprehensionby DK Reed · 2012 · Cited by 173 — The purpose of this narrative sy...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: CUBED Assessment Training: NLM Reading 1 (Third Grade Benchmark Story 3)  
-   Link: <a href="https://www.youtube.com/watch?v=2uogF0nI2fk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2uogF0nI2fk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Robin Jia: Exposing Brittleness in Reading Comprehension Systems...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2uogF0nI2fk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2uogF0nI2fk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Robin Jia: Exposing Brittleness in Reading Comprehension Systems...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Robin Jia: Exposing Brittleness in Reading Comprehension Systems  
-   Link: <a href="https://www.youtube.com/watch?v=IWGGwnRmYoA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IWGGwnRmYoA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How To Assess Reading Comprehension Using Google Forms (Tutorial 2026)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=IWGGwnRmYoA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IWGGwnRmYoA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How To Assess Reading Comprehension Using Google Forms (Tutorial 2026)...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/360827597_The_Effects_of_Retelling_on_Reading_Comprehension_Focusing_on_Different_Levels_of_Comprehension_and_Non-Textual_Information_in_Retelling_Protocols" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/360827597_The_Effects_of_Retelling_on_Reading_Comprehension_Focusing_on_Different_Levels_of_Comprehension_and_Non-Textual_Information_in_Retelling_Protocols</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Effects of Retelling on Reading ComprehensionIn this meta-analysis, we evaluated the relation between retell and other measures...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/360827597_The_Effects_of_Retelling_on_Reading_Comprehension_Focusing_on_Different_Levels_of_Comprehension_and_Non-Textual_Information_in_Retelling_Protocols" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/360827597_The_Effects_of_Retelling_on_Reading_Comprehension_Focusing_on_Different_Levels_of_Comprehension_and_Non-Textual_Information_in_Retelling_Protocols</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Effects of Retelling on Reading ComprehensionIn this meta-analysis, we evaluated the relation between retell and other measures...</p></details>

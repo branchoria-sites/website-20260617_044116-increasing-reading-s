@@ -294,7 +294,7 @@ image: /assets/images/increasing_re_852ca6_phrase_readin_eba9de_not_speed_rea_5c
 
 ## Introduction
 
-Phrase reading is not magic speed reading. It does not allow readers to absorb entire lines at a glance, bypass comprehension, or read thousands of words per minute. What it does offer is something more realistic and more useful: a way to reduce unnecessary pauses by grouping words into meaningful units. That distinction matters because many claims about reading faster collapse two very different ideas. One is the unsupported promise that readers can dramatically exceed the limits of vision and language processing. The other is the evidence-based observation that readers can become more fluent when they process phrases rather than isolated words. Research on [eye movements]({{ 'eye-tradeoff/' | relative_url }}), fluency, and comprehension strongly supports the second claim while casting doubt on the first. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEye movements, the perceptual span, and reading speed</span><span class="citation-popover-snippet">by K Rayner · 2010 · Cited by 477 — The main findings were that fast readers (reading at about 330 wpm) had a larger perceptual span t...</span></span></span>
+Phrase reading is not magic speed reading. It does not allow readers to absorb entire lines at a glance, bypass comprehension, or read thousands of words per minute. What it does offer is something more realistic and more useful: a way to reduce unnecessary pauses by grouping words into meaningful units. That distinction matters because many claims about reading faster collapse two very different ideas. One is the unsupported promise that readers can dramatically exceed the limits of vision and language processing. The other is the evidence-based observation that readers can become more fluent when they process phrases rather than isolated words. Research on [eye movements]({{ 'eye-tradeoff/' | relative_url }}), fluency, and comprehension strongly supports the second claim while casting doubt on the first.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEye movements, the perceptual span, and reading speed</span><span class="citation-popover-snippet">by K Rayner · 2010 · Cited by 477 — The main findings were that fast readers (reading at about 330 wpm) had a larger perceptual span t...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_not_speed_rea_5caa5d-Illustration-1-dark.svg" | relative_url }}" alt="Not Hype illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_not_speed_rea_5caa5d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_not_speed_rea_5caa5d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -302,7 +302,7 @@ Phrase reading is not magic speed reading. It does not allow readers to absorb e
 
 The strongest argument against “speed reading hype” is that phrase reading does not ask readers to do anything biologically implausible. It works within the normal mechanics of reading.
 
-Traditional speed-reading marketing has often suggested that readers can train themselves to absorb whole lines, paragraphs, or pages through peripheral vision. Decades of vision research indicate that this is not how reading works. Readers move their eyes through a series of fixations and rapid jumps called saccades. During each fixation, only a limited region of text can be processed effectively. Skilled readers may use that information efficiently, but they do not take in unlimited text at once. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEye movements, the perceptual span, and reading speed</span><span class="citation-popover-snippet">by K Rayner · 2010 · Cited by 477 — The main findings were that fast readers (reading at about 330 wpm) had a larger perceptual span t...</span></span></span>
+Traditional speed-reading marketing has often suggested that readers can train themselves to absorb whole lines, paragraphs, or pages through peripheral vision. Decades of vision research indicate that this is not how reading works. Readers move their eyes through a series of fixations and rapid jumps called saccades. During each fixation, only a limited region of text can be processed effectively. Skilled readers may use that information efficiently, but they do not take in unlimited text at once.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEye movements, the perceptual span, and reading speed</span><span class="citation-popover-snippet">by K Rayner · 2010 · Cited by 477 — The main findings were that fast readers (reading at about 330 wpm) had a larger perceptual span t...</span></span></span>
 
 Phrase reading makes a much narrower claim. Instead of reading:
 
@@ -312,7 +312,7 @@ the reader learns to perceive:
 
 * the tired doctor / checked the notes
 
-Nothing is skipped. The words are still processed, but they are organised into meaningful chunks. That is a fluency strategy, not a claim of superhuman perception. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-title">Reading Rockets Fluency</span><span class="citation-popover-snippet">Reading RocketsFluency: IntroductionFluency is the ability to read a text accurately, at a good pace, and with proper expression and comp...</span></span></span>
+Nothing is skipped. The words are still processed, but they are organised into meaningful chunks. That is a fluency strategy, not a claim of superhuman perception.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-title">Reading Rockets Fluency</span><span class="citation-popover-snippet">Reading RocketsFluency: IntroductionFluency is the ability to read a text accurately, at a good pace, and with proper expression and comp...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5XkbCn5npq0" title="Developing Fluency" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5XkbCn5npq0" target="_blank" rel="noopener noreferrer">Developing Fluency</a></p><p class="youtube-embed-meta">Channel: Reading Rockets &middot; Views: 43.8K &middot; Uploaded: May 2008 &middot; Length: 4 minutes 15 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5XkbCn5npq0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5XkbCn5npq0">Open on YouTube</a></p></div></div></div>
@@ -325,7 +325,7 @@ One reason phrase reading is sometimes confused with speed reading is that both 
 
 **[Skimming]({{ 'skimming/' | relative_url }}) sacrifices detail for speed.** A reader intentionally samples headings, keywords, topic sentences, or visual cues while accepting that some information will be missed.
 
-These are not equivalent activities. A person using phrase reading aims to maintain comprehension while making reading smoother. A person skimming accepts a trade-off between coverage and depth. Research on reading fluency consistently treats automatic word recognition, phrasing, and comprehension as linked skills rather than as substitutes for one another. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets+2Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-title">Reading Rockets Fluency</span><span class="citation-popover-snippet">Reading RocketsFluency: IntroductionFluency is the ability to read a text accurately, at a good pace, and with proper expression and comp...</span></span></span>
+These are not equivalent activities. A person using phrase reading aims to maintain comprehension while making reading smoother. A person skimming accepts a trade-off between coverage and depth. Research on reading fluency consistently treats automatic word recognition, phrasing, and comprehension as linked skills rather than as substitutes for one another.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets+2Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-title">Reading Rockets Fluency</span><span class="citation-popover-snippet">Reading RocketsFluency: IntroductionFluency is the ability to read a text accurately, at a good pace, and with proper expression and comp...</span></span></span>
 
 This distinction helps explain why phrase reading is useful for books, reports, and complex articles, whereas skimming is often better suited to previewing material or locating specific information.
 
@@ -336,7 +336,7 @@ This distinction helps explain why phrase reading is useful for books, reports, 
 
 Evidence from eye-tracking studies provides a useful reality check on exaggerated speed-reading claims.
 
-Research led by Keith Rayner and colleagues found that readers obtain useful visual information from a limited perceptual span around the point of fixation. In English, this span extends only a modest distance beyond the directly fixated area. Fast readers tend to make better use of that span than slower readers, but they are still operating within the same visual system. They are not reading whole pages in a single glance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEye movements, the perceptual span, and reading speed</span><span class="citation-popover-snippet">by K Rayner · 2010 · Cited by 477 — The main findings were that fast readers (reading at about 330 wpm) had a larger perceptual span t...</span></span></span>
+Research led by Keith Rayner and colleagues found that readers obtain useful visual information from a limited perceptual span around the point of fixation. In English, this span extends only a modest distance beyond the directly fixated area. Fast readers tend to make better use of that span than slower readers, but they are still operating within the same visual system. They are not reading whole pages in a single glance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEye movements, the perceptual span, and reading speed</span><span class="citation-popover-snippet">by K Rayner · 2010 · Cited by 477 — The main findings were that fast readers (reading at about 330 wpm) had a larger perceptual span t...</span></span></span>
 
 This finding is important because phrase reading aligns with what the eye can actually do. A fixation may provide enough information to identify several closely connected words or anticipate a phrase structure. That allows smoother processing of groups such as:
 
@@ -349,9 +349,9 @@ This finding is important because phrase reading aligns with what the eye can ac
 
 </div>
 
-The reader is not seeing an entire line simultaneously. Instead, the brain is combining information from successive fixations into larger units of meaning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEye movements, the perceptual span, and reading speed</span><span class="citation-popover-snippet">by K Rayner · 2010 · Cited by 477 — The main findings were that fast readers (reading at about 330 wpm) had a larger perceptual span t...</span></span></span>
+The reader is not seeing an entire line simultaneously. Instead, the brain is combining information from successive fixations into larger units of meaning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEye movements, the perceptual span, and reading speed</span><span class="citation-popover-snippet">by K Rayner · 2010 · Cited by 477 — The main findings were that fast readers (reading at about 330 wpm) had a larger perceptual span t...</span></span></span>
 
-Eye-tracking research also shows that skilled readers naturally skip some highly predictable words and occasionally move backwards to verify meaning. Those [regressions]({{ 'lookbacks/' | relative_url }}) are not necessarily signs of failure; they are part of normal comprehension. Claims that effective reading should eliminate such behaviours altogether are difficult to reconcile with how readers actually process text. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/technology/2017/apr/08/speed-reading-apps-can-you-really-read-novel-in-your-lunch-hour" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Speed-reading apps: can you really read a novel in your lunch hour?</span><span class="citation-popover-snippet">The Guardian Speed-reading apps: can you really read a novel in your lunch hour?</span></span></span>
+Eye-tracking research also shows that skilled readers naturally skip some highly predictable words and occasionally move backwards to verify meaning. Those [regressions]({{ 'lookbacks/' | relative_url }}) are not necessarily signs of failure; they are part of normal comprehension. Claims that effective reading should eliminate such behaviours altogether are difficult to reconcile with how readers actually process text.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/technology/2017/apr/08/speed-reading-apps-can-you-really-read-novel-in-your-lunch-hour" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Speed-reading apps: can you really read a novel in your lunch hour?</span><span class="citation-popover-snippet">The Guardian Speed-reading apps: can you really read a novel in your lunch hour?</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_not_speed_rea_5caa5d-Illustration-2-dark.svg" | relative_url }}" alt="Not Hype illustration 2" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_not_speed_rea_5caa5d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_not_speed_rea_5caa5d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -361,7 +361,7 @@ The biggest weakness in many speed-reading claims is the assumption that reading
 
 Reading is partly visual, but understanding depends on language processing, memory, vocabulary knowledge, and integration of ideas across sentences. Even if the eyes move faster, comprehension must still occur.
 
-Studies examining speed-reading training frequently find that increases in reading rate become less impressive when comprehension is measured carefully. Some investigations report faster reading alongside weaker understanding, while others find more modest gains that appear to come from improved reading habits rather than from a radical change in visual processing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3348914/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Reading Speed, Comprehension and Eye Movements While...by H Miyata · 2012 · Cited by 59 — Eye movements while reading were recorded u...</span></span></span>
+Studies examining speed-reading training frequently find that increases in reading rate become less impressive when comprehension is measured carefully. Some investigations report faster reading alongside weaker understanding, while others find more modest gains that appear to come from improved reading habits rather than from a radical change in visual processing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3348914/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Reading Speed, Comprehension and Eye Movements While...by H Miyata · 2012 · Cited by 59 — Eye movements while reading were recorded u...</span></span></span>
 
 This is where phrase reading differs from hype-driven approaches. Its goal is not to outrun comprehension. Its goal is to support comprehension by making sentence structure easier to follow.
 
@@ -385,190 +385,190 @@ Several principles help keep the technique grounded:
 * **Match speed to difficulty.** Dense academic writing, legal documents, and literary prose often require slower reading than familiar narrative text.
 * **Monitor recall.** If comprehension drops sharply, the reading rate is probably too high.
 
-Research on fluency instruction places strong emphasis on accuracy, automaticity, and prosody—the rhythm and phrasing that reflect genuine understanding. Good readers do not simply move faster; they coordinate speed with comprehension. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets+3Reading Rockets+3Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-title">Reading Rockets Fluency</span><span class="citation-popover-snippet">Reading RocketsFluency: IntroductionFluency is the ability to read a text accurately, at a good pace, and with proper expression and comp...</span></span></span>
+Research on fluency instruction places strong emphasis on accuracy, automaticity, and prosody—the rhythm and phrasing that reflect genuine understanding. Good readers do not simply move faster; they coordinate speed with comprehension.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets+3Reading Rockets+3Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-title">Reading Rockets Fluency</span><span class="citation-popover-snippet">Reading RocketsFluency: IntroductionFluency is the ability to read a text accurately, at a good pace, and with proper expression and comp...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DGDkTyOt7gQ" title="Subvocalization | Things About Speed Reading Nobody Tells You" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DGDkTyOt7gQ" target="_blank" rel="noopener noreferrer">Subvocalization | Things About Speed Reading Nobody Tells You</a></p><p class="youtube-embed-meta">Channel: How to Genius &middot; Views: 165.9K &middot; Uploaded: March 2021 &middot; Length: 4 minutes 22 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DGDkTyOt7gQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DGDkTyOt7gQ">Open on YouTube</a></p></div></div></div>
 
 ## The evidence-based takeaway
 
-Phrase reading avoids the central problem of speed-reading hype: it does not promise impossible gains. Eye-movement research shows that readers cannot absorb unlimited text through peripheral vision, and comprehension studies repeatedly demonstrate that understanding places real constraints on reading speed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEye movements, the perceptual span, and reading speed</span><span class="citation-popover-snippet">by K Rayner · 2010 · Cited by 477 — The main findings were that fast readers (reading at about 330 wpm) had a larger perceptual span t...</span></span></span>
+Phrase reading avoids the central problem of speed-reading hype: it does not promise impossible gains. Eye-movement research shows that readers cannot absorb unlimited text through peripheral vision, and comprehension studies repeatedly demonstrate that understanding places real constraints on reading speed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEye movements, the perceptual span, and reading speed</span><span class="citation-popover-snippet">by K Rayner · 2010 · Cited by 477 — The main findings were that fast readers (reading at about 330 wpm) had a larger perceptual span t...</span></span></span>
 
-What phrase reading offers instead is a realistic path to smoother comprehension. By recognising meaningful groups of words, readers can reduce avoidable stalls, make better use of normal eye movements, and maintain stronger understanding as reading becomes more fluent. The result is often faster reading, but the speed comes from processing language more efficiently—not from escaping the fundamental limits of how reading works. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEye movements, the perceptual span, and reading speed</span><span class="citation-popover-snippet">by K Rayner · 2010 · Cited by 477 — The main findings were that fast readers (reading at about 330 wpm) had a larger perceptual span t...</span></span></span>
+What phrase reading offers instead is a realistic path to smoother comprehension. By recognising meaningful groups of words, readers can reduce avoidable stalls, make better use of normal eye movements, and maintain stronger understanding as reading becomes more fluent. The result is often faster reading, but the speed comes from processing language more efficiently—not from escaping the fundamental limits of how reading works.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEye movements, the perceptual span, and reading speed</span><span class="citation-popover-snippet">by K Rayner · 2010 · Cited by 477 — The main findings were that fast readers (reading at about 330 wpm) had a larger perceptual span t...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Phrase reading is not magic speed reading. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Phrase reading is not magic speed reading. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Explains reading levels and techniques for processing larger units of meaning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Explains reading levels and techniques for processing larger units of meaning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Proust+and+the+squid+%3A+the+story+and+science+of+the+reading+brain+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Proust and the squid : the story and science of the reading brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6370342-M.jpg" alt="Cover for Proust and the squid : the story and science of the reading brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Proust+and+the+squid+%3A+the+story+and+science+of+the+reading+brain+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Proust and the squid : the story and science of the reading brain">Proust and the squid : the story and science of the reading b...</a>
-        </h4>
-        <p class="fr-book-author">By Maryanne Wolf</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Proust+and+the+squid+%3A+the+story+and+science+of+the+reading+brain+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Proust and the squid : the story and science of the reading brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6370342-M.jpg" alt="Cover for Proust and the squid : the story and science of the reading brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Proust+and+the+squid+%3A+the+story+and+science+of+the+reading+brain+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Proust and the squid : the story and science of the reading brain">Proust and the squid : the story and science of the reading b...</a>
+</h4>
+<p class="fr-book-author">By Maryanne Wolf</p>
         
-        <p class="fr-book-desc">First published 2008. Subjects: Brain, Evolution, Neurophysiology, Reading comprehension, Reading.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Proust+and+the+squid+%3A+the+story+and+science+of+the+reading+brain+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2008. Subjects: Brain, Evolution, Neurophysiology, Reading comprehension, Reading.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Proust+and+the+squid+%3A+the+story+and+science+of+the+reading+brain+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading in the Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6649793-M.jpg" alt="Cover for Reading in the Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading in the Brain">Reading in the Brain</a>
-        </h4>
-        <p class="fr-book-author">By Stanislas Dehaene</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading in the Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6649793-M.jpg" alt="Cover for Reading in the Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading in the Brain">Reading in the Brain</a>
+</h4>
+<p class="fr-book-author">By Stanislas Dehaene</p>
         
-        <p class="fr-book-desc">First published 2009. Subjects: Science, Nonfiction, Psychology, Psychology of Reading, Reading.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2009. Subjects: Science, Nonfiction, Psychology, Psychology of Reading, Reading.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Reading+Mind+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading Mind on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Reading+Mind+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading Mind">Reading Mind</a>
-        </h4>
-        <p class="fr-book-author">By Daniel T. Willingham</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Reading+Mind+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading Mind on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Reading+Mind+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading Mind">Reading Mind</a>
+</h4>
+<p class="fr-book-author">By Daniel T. Willingham</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Reading, Reading comprehension, Cognitive psychology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Reading+Mind+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Reading, Reading comprehension, Cognitive psychology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Reading+Mind+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Proust+and+the+squid+%3A+the+story+and+science+of+the+reading+brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Proust and the squid : the story and science of the reading brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Reading+in+the+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Reading in the Brain</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Proust+and+the+squid+%3A+the+story+and+science+of+the+reading+brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Proust and the squid : the story and science of the reading brain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Reading+in+the+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Reading in the Brain</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-hype-phrase-reading-is-not-magic-speed-reading-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="not-hype-phrase-reading-is-not-magic-speed-reading-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desk Organiser Tray Organiser Office File Organiser Engineered wood vidaXL"><img src="{{ '/assets/images/marketplace-covers/509c5226465c913ad15d.jpg' | relative_url }}" alt="Listing image for Desk Organiser Tray Organiser Office File Organiser Engineered wood vidaXL" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-hype-phrase-reading-is-not-magic-speed-reading-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="not-hype-phrase-reading-is-not-magic-speed-reading-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Desk Organiser Tray Organiser Office File Organiser Engineered wood vidaXL</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-hype-phrase-reading-is-not-magic-speed-reading-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="not-hype-phrase-reading-is-not-magic-speed-reading-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: study desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-hype-phrase-reading-is-not-magic-speed-reading-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="not-hype-phrase-reading-is-not-magic-speed-reading-increasing-study-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-hype-phrase-reading-is-not-magic-speed-reading-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="not-hype-phrase-reading-is-not-magic-speed-reading-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desk Organiser Tray Organiser Office File Organiser Engineered wood vidaXL"><img src="{{ '/assets/images/marketplace-covers/509c5226465c913ad15d.jpg' | relative_url }}" alt="Listing image for Desk Organiser Tray Organiser Office File Organiser Engineered wood vidaXL" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-hype-phrase-reading-is-not-magic-speed-reading-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="not-hype-phrase-reading-is-not-magic-speed-reading-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Desk Organiser Tray Organiser Office File Organiser Engineered wood vidaXL</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-hype-phrase-reading-is-not-magic-speed-reading-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="not-hype-phrase-reading-is-not-magic-speed-reading-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: study desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-hype-phrase-reading-is-not-magic-speed-reading-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="not-hype-phrase-reading-is-not-magic-speed-reading-increasing-study-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-hype-phrase-reading-is-not-magic-speed-reading-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="not-hype-phrase-reading-is-not-magic-speed-reading-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Under Desk Drawers Study Table Drawer Tray Pencil Storage Organizer Box Holder"><img src="{{ '/assets/images/marketplace-covers/33486c199d5fa156bbf4.jpg' | relative_url }}" alt="Listing image for Under Desk Drawers Study Table Drawer Tray Pencil Storage Organizer Box Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-hype-phrase-reading-is-not-magic-speed-reading-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="not-hype-phrase-reading-is-not-magic-speed-reading-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Under Desk Drawers Study Table Drawer Tray Pencil Storage Organizer Box Holder</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-hype-phrase-reading-is-not-magic-speed-reading-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="not-hype-phrase-reading-is-not-magic-speed-reading-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: study desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-hype-phrase-reading-is-not-magic-speed-reading-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="not-hype-phrase-reading-is-not-magic-speed-reading-increasing-study-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-hype-phrase-reading-is-not-magic-speed-reading-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="not-hype-phrase-reading-is-not-magic-speed-reading-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Under Desk Drawers Study Table Drawer Tray Pencil Storage Organizer Box Holder"><img src="{{ '/assets/images/marketplace-covers/33486c199d5fa156bbf4.jpg' | relative_url }}" alt="Listing image for Under Desk Drawers Study Table Drawer Tray Pencil Storage Organizer Box Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-hype-phrase-reading-is-not-magic-speed-reading-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="not-hype-phrase-reading-is-not-magic-speed-reading-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Under Desk Drawers Study Table Drawer Tray Pencil Storage Organizer Box Holder</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-hype-phrase-reading-is-not-magic-speed-reading-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="not-hype-phrase-reading-is-not-magic-speed-reading-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: study desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-hype-phrase-reading-is-not-magic-speed-reading-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="not-hype-phrase-reading-is-not-magic-speed-reading-increasing-study-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-hype-phrase-reading-is-not-magic-speed-reading-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="not-hype-phrase-reading-is-not-magic-speed-reading-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Office Study Desk Organizer Table Box Tidy Case Display Stationaries Pen Holder"><img src="{{ '/assets/images/marketplace-covers/5c9ca9153eac647ccfb2.jpg' | relative_url }}" alt="Listing image for Office Study Desk Organizer Table Box Tidy Case Display Stationaries Pen Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-hype-phrase-reading-is-not-magic-speed-reading-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="not-hype-phrase-reading-is-not-magic-speed-reading-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Office Study Desk Organizer Table Box Tidy Case Display Stationaries Pen Holder</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-hype-phrase-reading-is-not-magic-speed-reading-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="not-hype-phrase-reading-is-not-magic-speed-reading-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: study desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-hype-phrase-reading-is-not-magic-speed-reading-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="not-hype-phrase-reading-is-not-magic-speed-reading-increasing-study-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-hype-phrase-reading-is-not-magic-speed-reading-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="not-hype-phrase-reading-is-not-magic-speed-reading-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-hype-phrase-reading-is-not-magic-speed-reading-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="not-hype-phrase-reading-is-not-magic-speed-reading-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Office Study Desk Organizer Table Box Tidy Case Display Stationaries Pen Holder"><img src="{{ '/assets/images/marketplace-covers/5c9ca9153eac647ccfb2.jpg' | relative_url }}" alt="Listing image for Office Study Desk Organizer Table Box Tidy Case Display Stationaries Pen Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-hype-phrase-reading-is-not-magic-speed-reading-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="not-hype-phrase-reading-is-not-magic-speed-reading-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Office Study Desk Organizer Table Box Tidy Case Display Stationaries Pen Holder</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-hype-phrase-reading-is-not-magic-speed-reading-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="not-hype-phrase-reading-is-not-magic-speed-reading-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: study desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-hype-phrase-reading-is-not-magic-speed-reading-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="not-hype-phrase-reading-is-not-magic-speed-reading-increasing-study-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=not-hype-phrase-reading-is-not-magic-speed-reading-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="not-hype-phrase-reading-is-not-magic-speed-reading-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -584,7 +584,7 @@ What phrase reading offers instead is a realistic path to smoother comprehension
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -604,7 +604,7 @@ What phrase reading offers instead is a realistic path to smoother comprehension
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -636,7 +636,7 @@ What phrase reading offers instead is a realistic path to smoother comprehension
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -688,7 +688,7 @@ What phrase reading offers instead is a realistic path to smoother comprehension
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -733,7 +733,7 @@ What phrase reading offers instead is a realistic path to smoother comprehension
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -774,150 +774,150 @@ What phrase reading offers instead is a realistic path to smoother comprehension
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCEye movements, the perceptual span, and reading speed  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by K Rayner · 2010 · Cited by 477 — The main findings were that fast readers (reading at about 330 wpm) had a larger perceptual span t...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by K Rayner · 2010 · Cited by 477 — The main findings were that fast readers (reading at about 330 wpm) had a larger perceptual span t...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/2017/01/make-resolution-read-speed-reading-wont-help" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2017/01/make-resolution-read-speed-reading-wont-help</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Basic calculations based on the properties of eyes and texts indicate that an average reading speed is around 280 words per minute, a val...</p></details>
+   Link:<a href="https://www.wired.com/2017/01/make-resolution-read-speed-reading-wont-help" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2017/01/make-resolution-read-speed-reading-wont-help</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Basic calculations based on the properties of eyes and texts indicate that an average reading speed is around 280 words per minute, a val...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3348914/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3348914/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Speed, Comprehension and Eye Movements While...by H Miyata · 2012 · Cited by 59 — Eye movements while reading were recorded u...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3348914/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3348914/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Speed, Comprehension and Eye Movements While...by H Miyata · 2012 · Cited by 59 — Eye movements while reading were recorded u...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: readingrockets.org  
    Title: Reading Rockets Fluency  
-   Link: <a href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsFluency: IntroductionFluency is the ability to read a text accurately, at a good pace, and with proper expression and comp...</p></details>
+   Link:<a href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsFluency: IntroductionFluency is the ability to read a text accurately, at a good pace, and with proper expression and comp...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/reading-101/reading-and-writing-basics/fluency" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/reading-101/reading-and-writing-basics/fluency</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Basics: FluencyFluency is the ability to read a text accurately, quickly, and with expression. Fluent reading builds stamina for reading...</p></details>
+   Link:<a href="https://www.readingrockets.org/reading-101/reading-and-writing-basics/fluency" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/reading-101/reading-and-writing-basics/fluency</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Basics: FluencyFluency is the ability to read a text accurately, quickly, and with expression. Fluent reading builds stamina for reading...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: devon.gov.uk  
-   Link: <a href="https://www.devon.gov.uk/support-schools-settings/ordinarily-available-inclusive-provision/targeted/cognition-and-learning-needs/reading-fluency-and-comprehension/" target="_blank" rel="noopener noreferrer nofollow">https://www.devon.gov.uk/support-schools-settings/ordinarily-available-inclusive-provision/targeted/cognition-and-learning-needs/reading-fluency-and-comprehension/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Devon County CouncilReading fluency and comprehension - Support for schools...Reading fluency refers to the ability to read text accurat...</p></details>
+   Link:<a href="https://www.devon.gov.uk/support-schools-settings/ordinarily-available-inclusive-provision/targeted/cognition-and-learning-needs/reading-fluency-and-comprehension/" target="_blank" rel="noopener noreferrer nofollow">https://www.devon.gov.uk/support-schools-settings/ordinarily-available-inclusive-provision/targeted/cognition-and-learning-needs/reading-fluency-and-comprehension/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Devon County CouncilReading fluency and comprehension - Support for schools...Reading fluency refers to the ability to read text accurat...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: theguardian.com  
    Title: The Guardian Speed-[reading apps](&#123;&#123; 'reading-apps/' | relative_url &#125;&#125;): can you really read a novel in your lunch hour?  
-   Link: <a href="https://www.theguardian.com/technology/2017/apr/08/speed-reading-apps-can-you-really-read-novel-in-your-lunch-hour" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2017/apr/08/speed-reading-apps-can-you-really-read-novel-in-your-lunch-hour</a>  
+   Link:<a href="https://www.theguardian.com/technology/2017/apr/08/speed-reading-apps-can-you-really-read-novel-in-your-lunch-hour" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2017/apr/08/speed-reading-apps-can-you-really-read-novel-in-your-lunch-hour</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/22590519/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22590519/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Results revealed higher reading speed and lower comprehension scores in the trainees...Read more...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/22590519/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22590519/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Results revealed higher reading speed and lower comprehension scores in the trainees...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: readingrockets.org  
    Title: what teachers need know about sentence comprehension  
-   Link: <a href="https://www.readingrockets.org/blogs/shanahan-on-literacy/what-teachers-need-know-about-sentence-comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/blogs/shanahan-on-literacy/what-teachers-need-know-about-sentence-comprehension</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Teachers Need to Know about Sentence...16 Aug 2022 — They suggest that teaching students how to read sentences aloud with proper pr...</p></details>
+   Link:<a href="https://www.readingrockets.org/blogs/shanahan-on-literacy/what-teachers-need-know-about-sentence-comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/blogs/shanahan-on-literacy/what-teachers-need-know-about-sentence-comprehension</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Teachers Need to Know about Sentence...16 Aug 2022 — They suggest that teaching students how to read sentences aloud with proper pr...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/classroom/classroom-strategies/audio-assisted-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/classroom/classroom-strategies/audio-assisted-reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Audio-Assisted ReadingWhy use audio-assisted reading? · It helps to build fluency skills including proper phrasing and expression. · It h...</p></details>
+   Link:<a href="https://www.readingrockets.org/classroom/classroom-strategies/audio-assisted-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/classroom/classroom-strategies/audio-assisted-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Audio-Assisted ReadingWhy use audio-assisted reading? · It helps to build fluency skills including proper phrasing and expression. · It h...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/[practice" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/[practice</a>  
+   Link:<a href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/[practice" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/[practice</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/topics/fluency/articles/developing-fluent-readers" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/fluency/articles/developing-fluent-readers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Developing Fluent ReadersThis article can help practitioners effectively use fluency-based assessments and select instructional practices...</p></details>
+   Link:<a href="https://www.readingrockets.org/topics/fluency/articles/developing-fluent-readers" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/fluency/articles/developing-fluent-readers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Developing Fluent ReadersThis article can help practitioners effectively use fluency-based assessments and select instructional practices...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: readingrockets.org  
    Title: But that's not the case.Read more  
-   Link: <a href="https://www.readingrockets.org/blogs/shanahan-on-literacy/can-we-really-teach-prosody-and-why-would-we-want" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/blogs/shanahan-on-literacy/can-we-really-teach-prosody-and-why-would-we-want</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Can We Really Teach Prosody and Why Would We Want To?5 Jul 2023 — If word reading fluency and text reading fluency were the same, they&#x27;d...</p></details>
+   Link:<a href="https://www.readingrockets.org/blogs/shanahan-on-literacy/can-we-really-teach-prosody-and-why-would-we-want" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/blogs/shanahan-on-literacy/can-we-really-teach-prosody-and-why-would-we-want</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Can We Really Teach Prosody and Why Would We Want To?5 Jul 2023 — If word reading fluency and text reading fluency were the same, they&#x27;d...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fluency: In DepthRepeated oral reading of familiar texts can substantially improve reading fluency in typical elementary students as well...</p></details>
+   Link:<a href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fluency: In DepthRepeated oral reading of familiar texts can substantially improve reading fluency in typical elementary students as well...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Theories of reading should account for speed.Read more  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3579520/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3579520/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of reading should predict reading speed - PMC - NIHby DG Pelli · 2012 · Cited by 8 — Reading speed matters in most real-world contexts, a...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3579520/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3579520/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of reading should predict reading speed - PMC - NIHby DG Pelli · 2012 · Cited by 8 — Reading speed matters in most real-world contexts, a...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12801452/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12801452/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and skimming clinical information: insights from...by MA Soltan · 2025 — Eye movements can provide unique insights into what is processe...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12801452/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12801452/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and skimming clinical information: insights from...by MA Soltan · 2025 — Eye movements can provide unique insights into what is processe...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8374993/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8374993/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>is text reading fluency and is it a predictor or an outcome...by YSG Kim · 2021 · Cited by 140 — Text reading fluency refers to the abil...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8374993/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8374993/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>is text reading fluency and is it a predictor or an outcome...by YSG Kim · 2021 · Cited by 140 — Text reading fluency refers to the abil...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: hfleducation.org  
    Title: Reading fluency?  
-   Link: <a href="https://www.hfleducation.org/blog/reading-fluency-how-do-i-teach" target="_blank" rel="noopener noreferrer nofollow">https://www.hfleducation.org/blog/reading-fluency-how-do-i-teach</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How do I teach that?1 Dec 2022 — Reading fluency is defined as being a combination of automaticity, accuracy and prosody. When a child ca...</p></details>
+   Link:<a href="https://www.hfleducation.org/blog/reading-fluency-how-do-i-teach" target="_blank" rel="noopener noreferrer nofollow">https://www.hfleducation.org/blog/reading-fluency-how-do-i-teach</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How do I teach that?1 Dec 2022 — Reading fluency is defined as being a combination of automaticity, accuracy and prosody. When a child ca...</p></details>
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: shanahanonliteracy.com  
-   Link: <a href="https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Everything You Wanted to Know about Repeated ReadingRepeated reading usually leads to better oral reading performance and reading compreh...</p></details>
+   Link:<a href="https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Everything You Wanted to Know about Repeated ReadingRepeated reading usually leads to better oral reading performance and reading compreh...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: speedreading.com  
-   Link: <a href="https://speedreading.com/research/eye-movements-visual-processing.php" target="_blank" rel="noopener noreferrer nofollow">https://speedreading.com/research/eye-movements-visual-processing.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eye Movements in Reading | SpeedReading.comEye movements in reading explain speed [reading limits](&amp;#123;&amp;#123; &#x27;reading-limits/&#x27; | relative_url &amp;#125;&amp;#125;): fixations, saccades, perceptual span, a...</p></details>
+   Link:<a href="https://speedreading.com/research/eye-movements-visual-processing.php" target="_blank" rel="noopener noreferrer nofollow">https://speedreading.com/research/eye-movements-visual-processing.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eye Movements in Reading | SpeedReading.comEye movements in reading explain speed [reading limits](&amp;#123;&amp;#123; &#x27;reading-limits/&#x27; | relative_url &amp;#125;&amp;#125;): fixations, saccades, perceptual span, a...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: sarahsnippets.com  
-   Link: <a href="https://sarahsnippets.com/fluency-phrased-reading-scooping/" target="_blank" rel="noopener noreferrer nofollow">https://sarahsnippets.com/fluency-phrased-reading-scooping/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Phrased Reading: Foundations of Fluency SkillsTeaching students to read in phrases strengthens prosody, decoding momentum, and comprehens...</p></details>
+   Link:<a href="https://sarahsnippets.com/fluency-phrased-reading-scooping/" target="_blank" rel="noopener noreferrer nofollow">https://sarahsnippets.com/fluency-phrased-reading-scooping/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Phrased Reading: Foundations of Fluency SkillsTeaching students to read in phrases strengthens prosody, decoding momentum, and comprehens...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: theamericanscholar.org  
-   Link: <a href="https://theamericanscholar.org/reading-fast-and-slow/" target="_blank" rel="noopener noreferrer nofollow">https://theamericanscholar.org/reading-fast-and-slow/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Fast and SlowA few empirical studies do suggest that reading speeds far beyond 500 words a minute can be attained, though these s...</p></details>
+   Link:<a href="https://theamericanscholar.org/reading-fast-and-slow/" target="_blank" rel="noopener noreferrer nofollow">https://theamericanscholar.org/reading-fast-and-slow/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Fast and SlowA few empirical studies do suggest that reading speeds far beyond 500 words a minute can be attained, though these s...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/49694262_Eye_movements_the_perceptual_span_and_reading_speed" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/49694262_Eye_movements_the_perceptual_span_and_reading_speed</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eye movements, the perceptual span, and reading speedThe main findings were that fast readers (reading at about 330 wpm) had a larger per...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/49694262_Eye_movements_the_perceptual_span_and_reading_speed" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/49694262_Eye_movements_the_perceptual_span_and_reading_speed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eye movements, the perceptual span, and reading speedThe main findings were that fast readers (reading at about 330 wpm) had a larger per...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: kenhub.com  
-   Link: <a href="https://www.kenhub.com/en/library/learning-strategies/speed-reading-myths-and-practice" target="_blank" rel="noopener noreferrer nofollow">https://www.kenhub.com/en/library/learning-strategies/speed-reading-myths-and-practice</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Speed reading myths and practiceThis article discusses the myth of speed reading, its limitations, false claims and ways that can increas...</p></details>
+   Link:<a href="https://www.kenhub.com/en/library/learning-strategies/speed-reading-myths-and-practice" target="_blank" rel="noopener noreferrer nofollow">https://www.kenhub.com/en/library/learning-strategies/speed-reading-myths-and-practice</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Speed reading myths and practiceThis article discusses the myth of speed reading, its limitations, false claims and ways that can increas...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: fivefromfive.com.au  
-   Link: <a href="https://fivefromfive.com.au/fluency/components-of-fluency/" target="_blank" rel="noopener noreferrer nofollow">https://fivefromfive.com.au/fluency/components-of-fluency/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ponents of fluencyProsody means reading with expression – with the appropriate rhythm, tone, pitch, pauses, and stresses for the text...</p></details>
+   Link:<a href="https://fivefromfive.com.au/fluency/components-of-fluency/" target="_blank" rel="noopener noreferrer nofollow">https://fivefromfive.com.au/fluency/components-of-fluency/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ponents of fluencyProsody means reading with expression – with the appropriate rhythm, tone, pitch, pauses, and stresses for the text...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/curious/speed-reading-is-a-myth-676be05df30c" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/curious/speed-reading-is-a-myth-676be05df30c</a>  
+   Link:<a href="https://medium.com/curious/speed-reading-is-a-myth-676be05df30c" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/curious/speed-reading-is-a-myth-676be05df30c</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=5XkbCn5npq0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5XkbCn5npq0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Developing FluencyThis video shows an after-school program called RAVE-O that helps teach reading fluency in Malden, Massachusetts... Go...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5XkbCn5npq0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5XkbCn5npq0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Developing FluencyThis video shows an after-school program called RAVE-O that helps teach reading fluency in Malden, Massachusetts... Go...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: typesy.com  
    Title: Techniques like skimming, [scanning](&#123;&#123; 'scanning-vs-reading/' | relative_url &#125;&#125;), and expanding peripheral vision can  
-   Link: <a href="https://www.typesy.com/busting-the-myths-what-speed-reading-can-and-cant-do/" target="_blank" rel="noopener noreferrer nofollow">https://www.typesy.com/busting-the-myths-what-speed-reading-can-and-cant-do/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Busting the Myths: What Speed Reading Can (and Can&#x27;t) Do - TypesySeptember 19, 2025 — In reality, there&#x27;s always a trade-off between spee...</p></details>
+   Link:<a href="https://www.typesy.com/busting-the-myths-what-speed-reading-can-and-cant-do/" target="_blank" rel="noopener noreferrer nofollow">https://www.typesy.com/busting-the-myths-what-speed-reading-can-and-cant-do/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Busting the Myths: What Speed Reading Can (and Can&#x27;t) Do - TypesySeptember 19, 2025 — In reality, there&#x27;s always a trade-off between spee...</p></details>
    Published: September 19, 2025  

@@ -275,17 +275,17 @@ image: /assets/images/increasing_re_852ca6_phrase_readin_eba9de_phrase_cued_t_f5
 
 ## Introduction
 
-Phrase-cued passages are often presented as a set of slash marks that show readers where meaningful groups of words begin and end. However, the markings alone are rarely the most important part of the intervention. The strongest use of phrase-[cued text]({{ 'cued-text/' | relative_url }}) occurs when a fluent reader first demonstrates how those marked phrases should sound. In [practice]({{ 'practice/' | relative_url }}), the slashes tell students where to group words, while teacher modelling shows them how phrasing, rhythm, emphasis, and meaning work together in real reading. Research and classroom guidance consistently describe phrase-cued reading as a fluency scaffold that becomes more effective when learners hear a skilled model and then reread the same text themselves. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jimwrightonline.com/mixed_files/pei/2_reading_intvs_PPT.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimwrightonline.com">[jimwrightonline.com+2Savvas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimwrightonline.com</span><span class="citation-popover-title">Reading &amp; Writing Interventions</span><span class="citation-popover-snippet">October 31, 2014 — Follow the Phrase-Cued Text Reading Sequence: The tutor prepares a new phrase-cued passage for each session and follow...</span></span></span>
+Phrase-cued passages are often presented as a set of slash marks that show readers where meaningful groups of words begin and end. However, the markings alone are rarely the most important part of the intervention. The strongest use of phrase-[cued text]({{ 'cued-text/' | relative_url }}) occurs when a fluent reader first demonstrates how those marked phrases should sound. In [practice]({{ 'practice/' | relative_url }}), the slashes tell students where to group words, while teacher modelling shows them how phrasing, rhythm, emphasis, and meaning work together in real reading. Research and classroom guidance consistently describe phrase-cued reading as a fluency scaffold that becomes more effective when learners hear a skilled model and then reread the same text themselves.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jimwrightonline.com/mixed_files/pei/2_reading_intvs_PPT.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimwrightonline.com">[jimwrightonline.com+2Savvas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimwrightonline.com</span><span class="citation-popover-title">Reading &amp; Writing Interventions</span><span class="citation-popover-snippet">October 31, 2014 — Follow the Phrase-Cued Text Reading Sequence: The tutor prepares a new phrase-cued passage for each session and follow...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_phrase_cued_t_f59b4d_teacher_model_41f310-Illustration-1-dark.svg" | relative_url }}" alt="Modelled Reading illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_phrase_cued_t_f59b4d_teacher_model_41f310-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_phrase_cued_t_f59b4d_teacher_model_41f310-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader goal of [increasing]({{ 'increasing/' | relative_url }}) reading speed, modelling matters because many struggling readers can identify phrase boundaries visually yet still read in a flat, hesitant, or word-by-word manner. Hearing fluent reading provides an auditory example of what the visual cues are trying to represent. As students imitate that model through guided rereading, reading often becomes smoother and more efficient, with gains in rate emerging as a by-product of improved fluency rather than as the direct target. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets+2Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-title">Reading Rockets Fluency</span><span class="citation-popover-snippet">Reading RocketsFluency: IntroductionFluent readers read aloud effortlessly and with expression — their reading sounds natural, as if they...</span></span></span>
+Within the broader goal of [increasing]({{ 'increasing/' | relative_url }}) reading speed, modelling matters because many struggling readers can identify phrase boundaries visually yet still read in a flat, hesitant, or word-by-word manner. Hearing fluent reading provides an auditory example of what the visual cues are trying to represent. As students imitate that model through guided rereading, reading often becomes smoother and more efficient, with gains in rate emerging as a by-product of improved fluency rather than as the direct target.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets+2Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-title">Reading Rockets Fluency</span><span class="citation-popover-snippet">Reading RocketsFluency: IntroductionFluent readers read aloud effortlessly and with expression — their reading sounds natural, as if they...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_phrase_cued_t_f59b4d_teacher_model_41f310-Illustration-3-dark.svg" | relative_url }}" alt="Modelled Reading illustration 3" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_phrase_cued_t_f59b4d_teacher_model_41f310-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_phrase_cued_t_f59b4d_teacher_model_41f310-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Modelling Adds Beyond Printed Marks
 
-Phrase-cued passages are designed to make sentence structure visible. Timothy Rasinski's work on phrase-cued texts emphasises helping readers group words into syntactically appropriate units rather than processing text one word at a time. The printed cues can reveal where [phrases]({{ 'phrases/' | relative_url }}) belong, but they cannot fully communicate [timing]({{ 'timing/' | relative_url }}), expression, or the relationship between phrasing and meaning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/105345129402900307" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDeveloping Syntactic Sensitivity in Reading Through...Highlights the benefits of developing students&#x27; skills in grouping te...</span></span></span>
+Phrase-cued passages are designed to make sentence structure visible. Timothy Rasinski's work on phrase-cued texts emphasises helping readers group words into syntactically appropriate units rather than processing text one word at a time. The printed cues can reveal where [phrases]({{ 'phrases/' | relative_url }}) belong, but they cannot fully communicate [timing]({{ 'timing/' | relative_url }}), expression, or the relationship between phrasing and meaning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/105345129402900307" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDeveloping Syntactic Sensitivity in Reading Through...Highlights the benefits of developing students&#x27; skills in grouping te...</span></span></span>
 
 Teacher modelling fills that gap.
 
@@ -298,11 +298,11 @@ When a teacher reads a phrase-cued passage aloud before students practise it, le
 * Where the voice rises, falls, or pauses naturally.
 * Which words receive emphasis because they carry meaning.
 * How punctuation influences expression without creating unnatural breaks.
-* How fluent reading sounds conversational rather than mechanical. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.savvas.com/resource-center/blogs-and-podcasts/savvas-insights/2025/strategies-to-improve-oral-reading-fluency" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: savvas.com">[Savvas+2Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">savvas.com</span><span class="citation-popover-snippet">These texts include visual markers such as slashes or added...Read more...</span></span></span>
+* How fluent reading sounds conversational rather than mechanical.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.savvas.com/resource-center/blogs-and-podcasts/savvas-insights/2025/strategies-to-improve-oral-reading-fluency" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: savvas.com">[Savvas+2Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">savvas.com</span><span class="citation-popover-snippet">These texts include visual markers such as slashes or added...Read more...</span></span></span>
 
 </div>
 
-This is particularly important because prosody—the rhythm and expression of reading—is not simply decoration. Reading researchers frequently describe prosody as part of fluent reading and as a bridge between accurate decoding and comprehension. Students who hear expressive reading gain a clearer model of how language should sound when it is understood. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/reading-101/reading-and-writing-basics/fluency" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets+2Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsBasics: FluencyFluency is the ability to read a text accurately, quickly, and with expression. Fluent reading builds stami...</span></span></span>
+This is particularly important because prosody—the rhythm and expression of reading—is not simply decoration. Reading researchers frequently describe prosody as part of fluent reading and as a bridge between accurate decoding and comprehension. Students who hear expressive reading gain a clearer model of how language should sound when it is understood.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/reading-101/reading-and-writing-basics/fluency" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets+2Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsBasics: FluencyFluency is the ability to read a text accurately, quickly, and with expression. Fluent reading builds stami...</span></span></span>
 
 A useful way to think about phrase-cued text is that the slashes identify the route, while modelling demonstrates the journey.
 
@@ -311,15 +311,15 @@ A useful way to think about phrase-cued text is that the slashes identify the ro
 
 ## Why a Fluent Voice Helps Reading Speed Indirectly
 
-A common misunderstanding is that phrase-cued passages are a [speed-reading]({{ 'myths/' | relative_url }}) technique. The evidence points in a different direction. Their primary purpose is to improve phrasing, prosody, and comprehension. Improvements in reading rate typically occur because students become more efficient at processing language. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.interventioncentral.org/academic-interventions/reading-comprehension/phrase-cued-text-lessons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interventioncentral.org">[interventioncentral.org+2Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interventioncentral.org</span><span class="citation-popover-snippet">Phrase-Cued Text LessonsDESCRIPTION: Phrase-cued texts are a means to train students to recognize the natural pauses that occur between p...</span></span></span>
+A common misunderstanding is that phrase-cued passages are a [speed-reading]({{ 'myths/' | relative_url }}) technique. The evidence points in a different direction. Their primary purpose is to improve phrasing, prosody, and comprehension. Improvements in reading rate typically occur because students become more efficient at processing language.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.interventioncentral.org/academic-interventions/reading-comprehension/phrase-cued-text-lessons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interventioncentral.org">[interventioncentral.org+2Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interventioncentral.org</span><span class="citation-popover-snippet">Phrase-Cued Text LessonsDESCRIPTION: Phrase-cued texts are a means to train students to recognize the natural pauses that occur between p...</span></span></span>
 
 Teacher modelling contributes to this process in several ways.
 
 First, it reduces uncertainty. A struggling reader who sees slash marks may still wonder how long to pause or how strongly to separate phrases. Hearing a fluent model removes much of that guesswork.
 
-Second, it encourages larger units of processing. Fluent readers naturally group words into meaningful chunks. When students repeatedly hear and reproduce those chunks, they begin to internalise the pattern and rely less on laborious word-by-word reading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://eric.ed.gov/?id=ED313689" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eric.ed.gov">[ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eric.ed.gov</span><span class="citation-popover-snippet">by TV Rasinski · 1990 · Cited by 16 — Rasinski, Timothy V. As in processing oral speech, proficient reading involves &quot;chunking&quot; writt...</span></span></span>
+Second, it encourages larger units of processing. Fluent readers naturally group words into meaningful chunks. When students repeatedly hear and reproduce those chunks, they begin to internalise the pattern and rely less on laborious word-by-word reading.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://eric.ed.gov/?id=ED313689" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eric.ed.gov">[ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eric.ed.gov</span><span class="citation-popover-snippet">by TV Rasinski · 1990 · Cited by 16 — Rasinski, Timothy V. As in processing oral speech, proficient reading involves &quot;chunking&quot; writt...</span></span></span>
 
-Third, modelling links fluency to meaning. Students are not merely copying a performance. They are learning how syntax and expression support comprehension. As reading becomes more meaningful and automatic, pace often improves naturally. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/blogs/shanahan-on-literacy/can-we-really-teach-prosody-and-why-would-we-want" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets+2Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-title">can we really teach prosody and why would we want</span><span class="citation-popover-snippet">Reading RocketsCan We Really Teach Prosody and Why Would We Want To?Jul 5, 2023 — We are told that oral reading fluencyFluency is the abi...</span></span></span>
+Third, modelling links fluency to meaning. Students are not merely copying a performance. They are learning how syntax and expression support comprehension. As reading becomes more meaningful and automatic, pace often improves naturally.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/blogs/shanahan-on-literacy/can-we-really-teach-prosody-and-why-would-we-want" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets+2Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-title">can we really teach prosody and why would we want</span><span class="citation-popover-snippet">Reading RocketsCan We Really Teach Prosody and Why Would We Want To?Jul 5, 2023 — We are told that oral reading fluencyFluency is the abi...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dpVe053hVwk" title="How to get your students to become fluent readers // From phonics to fluency in K-2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dpVe053hVwk" target="_blank" rel="noopener noreferrer">How to get your students to become fluent readers // From phonics to fluency in K-2</a></p><p class="youtube-embed-meta">Channel: Susan Jones Teaching</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dpVe053hVwk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dpVe053hVwk">Open on YouTube</a></p></div></div></div>
@@ -328,14 +328,14 @@ Third, modelling links fluency to meaning. Students are not merely copying a per
 <img src="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_phrase_cued_t_f59b4d_teacher_model_41f310-Illustration-2-dark.svg" | relative_url }}" alt="Modelled Reading illustration 2" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_phrase_cued_t_f59b4d_teacher_model_41f310-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_phrase_cued_t_f59b4d_teacher_model_41f310-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Guided Rereading Reinforces Phrasing
 
-The most common instructional sequence combines modelling with repeated oral reading. Rather than hearing a model once and moving on, students reread the same passage several times while attempting to match the phrasing and expression they have heard. Repeated reading has a substantial evidence base for improving fluency, and phrase-cued passages are often integrated into that practice. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets+2Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsFluency: In DepthRepeated oral reading of familiar texts can substantially improve reading fluency in typical elementary s...</span></span></span>
+The most common instructional sequence combines modelling with repeated oral reading. Rather than hearing a model once and moving on, students reread the same passage several times while attempting to match the phrasing and expression they have heard. Repeated reading has a substantial evidence base for improving fluency, and phrase-cued passages are often integrated into that practice.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets+2Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsFluency: In DepthRepeated oral reading of familiar texts can substantially improve reading fluency in typical elementary s...</span></span></span>
 
 A typical sequence looks like this:
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vMVB-RUKXKM" title="An Explicit Fluency Lesson with a Prosody Element Focus - Smoothness. By The Simple Teachers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vMVB-RUKXKM" target="_blank" rel="noopener noreferrer">An Explicit Fluency Lesson with a Prosody Element Focus - Smoothness. By The Simple Teachers</a></p><p class="youtube-embed-meta">Channel: The Simple Teachers</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vMVB-RUKXKM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vMVB-RUKXKM">Open on YouTube</a></p></div></div></div>
 
-1. The teacher reads the phrase-cued passage aloud while students follow the text. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.centralsoutherntierraen.org/wp-content/uploads/2025/03/00-Fluency-Instruction-ppt.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centralsoutherntierraen.org">[centralsoutherntierraen.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centralsoutherntierraen.org</span><span class="citation-popover-snippet">Fluency Instruction☆ The teacher models reading the passage while the students follow along on the marked text. ☆ The students practice r...</span></span></span>
+1. The teacher reads the phrase-cued passage aloud while students follow the text.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.centralsoutherntierraen.org/wp-content/uploads/2025/03/00-Fluency-Instruction-ppt.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centralsoutherntierraen.org">[centralsoutherntierraen.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centralsoutherntierraen.org</span><span class="citation-popover-snippet">Fluency Instruction☆ The teacher models reading the passage while the students follow along on the marked text. ☆ The students practice r...</span></span></span>
 2. Students read the passage aloud one or more times.
 3. Feedback focuses on phrasing and expression rather than speed alone.
 4. Students eventually read an unmarked version of the same passage. [jimwrightonline.com](https://www.jimwrightonline.com/mixed_files/pei/2_reading_intvs_PPT.pdf)
@@ -371,194 +371,194 @@ A useful sign that modelling is working is that students become less dependent o
 This gradual [transfer]({{ 'transfer/' | relative_url }}) is central to the purpose of phrase-cued reading. The markings are temporary supports, and teacher modelling is the bridge that helps learners move from visible cues to internalised phrasing. As students learn to hear the structure of language in their own heads, reading typically becomes smoother, more expressive, and often faster as a consequence. [Sage Journals+3Savvas+3Central/Southern Tier RAEN](https://www.savvas.com/resource-center/blogs-and-podcasts/savvas-insights/2025/strategies-to-improve-oral-reading-fluency)
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Slashes Need a Fluent Voice. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Slashes Need a Fluent Voice. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Covers reading strategies and efficient processing of complex texts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Covers reading strategies and efficient processing of complex texts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Megabook+of+Fluency+Timothy+V.+Rasinski%3BMelissa+Cheesman+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Megabook of Fluency on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8825334-M.jpg" alt="Cover for The Megabook of Fluency" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Megabook+of+Fluency+Timothy+V.+Rasinski%3BMelissa+Cheesman+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Megabook of Fluency">The Megabook of Fluency</a>
-        </h4>
-        <p class="fr-book-author">By Timothy V. Rasinski;Melissa Cheesman Smith</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Megabook+of+Fluency+Timothy+V.+Rasinski%3BMelissa+Cheesman+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Megabook of Fluency on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8825334-M.jpg" alt="Cover for The Megabook of Fluency" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Megabook+of+Fluency+Timothy+V.+Rasinski%3BMelissa+Cheesman+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Megabook of Fluency">The Megabook of Fluency</a>
+</h4>
+<p class="fr-book-author">By Timothy V. Rasinski;Melissa Cheesman Smith</p>
         
-        <p class="fr-book-desc">First published 2018. Subjects: Language arts (elementary), Teaching, aids and devices.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Megabook+of+Fluency+Timothy+V.+Rasinski%3BMelissa+Cheesman+Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2018. Subjects: Language arts (elementary), Teaching, aids and devices.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Megabook+of+Fluency+Timothy+V.+Rasinski%3BMelissa+Cheesman+Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fluency+instruction+Timothy+V.+Rasinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fluency instruction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1987271-M.jpg" alt="Cover for Fluency instruction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fluency+instruction+Timothy+V.+Rasinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fluency instruction">Fluency instruction</a>
-        </h4>
-        <p class="fr-book-author">By Timothy V. Rasinski, Camille Blachowicz et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fluency+instruction+Timothy+V.+Rasinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fluency instruction on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1987271-M.jpg" alt="Cover for Fluency instruction" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fluency+instruction+Timothy+V.+Rasinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fluency instruction">Fluency instruction</a>
+</h4>
+<p class="fr-book-author">By Timothy V. Rasinski, Camille Blachowicz et al.</p>
         
-        <p class="fr-book-desc">First published 2005. Subjects: Remedial teaching, Reading, Reading, remedial teaching.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fluency+instruction+Timothy+V.+Rasinski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2005. Subjects: Remedial teaching, Reading, Reading, remedial teaching.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fluency+instruction+Timothy+V.+Rasinski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+fluent+reader+Timothy+V.+Rasinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The fluent reader on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+fluent+reader+Timothy+V.+Rasinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fluent reader">The fluent reader</a>
-        </h4>
-        <p class="fr-book-author">By Timothy V. Rasinski</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+fluent+reader+Timothy+V.+Rasinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The fluent reader on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+fluent+reader+Timothy+V.+Rasinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fluent reader">The fluent reader</a>
+</h4>
+<p class="fr-book-author">By Timothy V. Rasinski</p>
         
-        <p class="fr-book-desc">First published 2010. Subjects: Oral reading, Reading, Study and teaching, Readers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+fluent+reader+Timothy+V.+Rasinski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2010. Subjects: Oral reading, Reading, Study and teaching, Readers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+fluent+reader+Timothy+V.+Rasinski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Megabook+of+Fluency&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Megabook of Fluency</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fluency+instruction&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fluency instruction</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Megabook+of+Fluency&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Megabook of Fluency</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fluency+instruction&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fluency instruction</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+resource+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher resource kit" data-ebay-reference="modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spelling Connections Grade 1 Sampler Lot Teacher Resource Book Tests Kit Guide"><img src="{{ '/assets/images/marketplace-covers/d3d96ee37e5afadf43e8.jpg' | relative_url }}" alt="Listing image for Spelling Connections Grade 1 Sampler Lot Teacher Resource Book Tests Kit Guide" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+resource+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher resource kit" data-ebay-reference="modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit" target="_blank" rel="sponsored noopener noreferrer">Spelling Connections Grade 1 Sampler Lot Teacher Resource Book Tests Kit Guide</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+resource+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher resource kit" data-ebay-reference="modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher resource kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher resource kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+resource+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher resource kit" data-ebay-reference="modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+resource+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher resource kit" data-ebay-reference="modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spelling Connections Grade 1 Sampler Lot Teacher Resource Book Tests Kit Guide"><img src="{{ '/assets/images/marketplace-covers/d3d96ee37e5afadf43e8.jpg' | relative_url }}" alt="Listing image for Spelling Connections Grade 1 Sampler Lot Teacher Resource Book Tests Kit Guide" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+resource+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher resource kit" data-ebay-reference="modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit" target="_blank" rel="sponsored noopener noreferrer">Spelling Connections Grade 1 Sampler Lot Teacher Resource Book Tests Kit Guide</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+resource+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher resource kit" data-ebay-reference="modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher resource kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: teacher resource kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+resource+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher resource kit" data-ebay-reference="modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+resource+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher resource kit" data-ebay-reference="modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VOYAGER PASSPORT Teacher Resource Kit and Student Reading Pack D Set 2004"><img src="{{ '/assets/images/marketplace-covers/a3c153a44890b29072a5.jpg' | relative_url }}" alt="Listing image for VOYAGER PASSPORT Teacher Resource Kit and Student Reading Pack D Set 2004" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+resource+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher resource kit" data-ebay-reference="modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit" target="_blank" rel="sponsored noopener noreferrer">VOYAGER PASSPORT Teacher Resource Kit and Student Reading Pack D Set 2004</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+resource+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher resource kit" data-ebay-reference="modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher resource kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher resource kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+resource+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher resource kit" data-ebay-reference="modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+resource+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher resource kit" data-ebay-reference="modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VOYAGER PASSPORT Teacher Resource Kit and Student Reading Pack D Set 2004"><img src="{{ '/assets/images/marketplace-covers/a3c153a44890b29072a5.jpg' | relative_url }}" alt="Listing image for VOYAGER PASSPORT Teacher Resource Kit and Student Reading Pack D Set 2004" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+resource+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher resource kit" data-ebay-reference="modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit" target="_blank" rel="sponsored noopener noreferrer">VOYAGER PASSPORT Teacher Resource Kit and Student Reading Pack D Set 2004</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+resource+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher resource kit" data-ebay-reference="modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher resource kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: teacher resource kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+resource+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher resource kit" data-ebay-reference="modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+resource+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher resource kit" data-ebay-reference="modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Teacher Resource Book (Y1-2/P2-3) (Primary Science Kit) Sherrington, Rosemary"><img src="{{ '/assets/images/marketplace-covers/ad7ca3beafcdfb2feaa5.jpg' | relative_url }}" alt="Listing image for Teacher Resource Book (Y1-2/P2-3) (Primary Science Kit) Sherrington, Rosemary" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+resource+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher resource kit" data-ebay-reference="modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit" target="_blank" rel="sponsored noopener noreferrer">Teacher Resource Book (Y1-2/P2-3) (Primary Science Kit) Sherrington, Rosemary</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+resource+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher resource kit" data-ebay-reference="modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher resource kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher resource kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+resource+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher resource kit" data-ebay-reference="modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+resource+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher resource kit" data-ebay-reference="modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Teacher Resource Book (Y1-2/P2-3) (Primary Science Kit) Sherrington, Rosemary"><img src="{{ '/assets/images/marketplace-covers/ad7ca3beafcdfb2feaa5.jpg' | relative_url }}" alt="Listing image for Teacher Resource Book (Y1-2/P2-3) (Primary Science Kit) Sherrington, Rosemary" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+resource+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher resource kit" data-ebay-reference="modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit" target="_blank" rel="sponsored noopener noreferrer">Teacher Resource Book (Y1-2/P2-3) (Primary Science Kit) Sherrington, Rosemary</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+resource+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher resource kit" data-ebay-reference="modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher resource kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: teacher resource kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+resource+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher resource kit" data-ebay-reference="modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+resource+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher resource kit" data-ebay-reference="modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VOYAGER PASSPORT Teacher Resource Kit and Student Reading Pack A Set"><img src="{{ '/assets/images/marketplace-covers/b3dcac2aa0caf8e5d595.jpg' | relative_url }}" alt="Listing image for VOYAGER PASSPORT Teacher Resource Kit and Student Reading Pack A Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+resource+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher resource kit" data-ebay-reference="modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit" target="_blank" rel="sponsored noopener noreferrer">VOYAGER PASSPORT Teacher Resource Kit and Student Reading Pack A Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+resource+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher resource kit" data-ebay-reference="modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher resource kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher resource kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+resource+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher resource kit" data-ebay-reference="modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+resource+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher resource kit" data-ebay-reference="modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+resource+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher resource kit" data-ebay-reference="modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VOYAGER PASSPORT Teacher Resource Kit and Student Reading Pack A Set"><img src="{{ '/assets/images/marketplace-covers/b3dcac2aa0caf8e5d595.jpg' | relative_url }}" alt="Listing image for VOYAGER PASSPORT Teacher Resource Kit and Student Reading Pack A Set" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+resource+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher resource kit" data-ebay-reference="modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit" target="_blank" rel="sponsored noopener noreferrer">VOYAGER PASSPORT Teacher Resource Kit and Student Reading Pack A Set</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+resource+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher resource kit" data-ebay-reference="modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher resource kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: teacher resource kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+resource+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher resource kit" data-ebay-reference="modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+resource+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher resource kit" data-ebay-reference="modelled-reading-why-slashes-need-a-fluent-voice-increasing-teacher-resource-kit" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -574,7 +574,7 @@ This gradual [transfer]({{ 'transfer/' | relative_url }}) is central to the purp
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -594,7 +594,7 @@ This gradual [transfer]({{ 'transfer/' | relative_url }}) is central to the purp
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -626,7 +626,7 @@ This gradual [transfer]({{ 'transfer/' | relative_url }}) is central to the purp
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -678,7 +678,7 @@ This gradual [transfer]({{ 'transfer/' | relative_url }}) is central to the purp
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -723,7 +723,7 @@ This gradual [transfer]({{ 'transfer/' | relative_url }}) is central to the purp
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -764,131 +764,131 @@ This gradual [transfer]({{ 'transfer/' | relative_url }}) is central to the purp
 
 ## Endnotes
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: savvas.com  
-   Link: <a href="https://www.savvas.com/resource-center/blogs-and-podcasts/savvas-insights/2025/strategies-to-improve-oral-reading-fluency" target="_blank" rel="noopener noreferrer nofollow">https://www.savvas.com/resource-center/blogs-and-podcasts/savvas-insights/2025/strategies-to-improve-oral-reading-fluency</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>These texts include visual markers such as slashes or added...Read more...</p></details>
+   Link:<a href="https://www.savvas.com/resource-center/blogs-and-podcasts/savvas-insights/2025/strategies-to-improve-oral-reading-fluency" target="_blank" rel="noopener noreferrer nofollow">https://www.savvas.com/resource-center/blogs-and-podcasts/savvas-insights/2025/strategies-to-improve-oral-reading-fluency</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These texts include visual markers such as slashes or added...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: thecttl.org  
    Title: reading unraveled building fluency  
-   Link: <a href="https://www.thecttl.org/2022/05/17/reading-unraveled-building-fluency/" target="_blank" rel="noopener noreferrer nofollow">https://www.thecttl.org/2022/05/17/reading-unraveled-building-fluency/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Unraveled: Building Fluency17 May 2022 — Phrase-cued oral reading provides the scaffold of teacher-marked text to support the dev...</p></details>
+   Link:<a href="https://www.thecttl.org/2022/05/17/reading-unraveled-building-fluency/" target="_blank" rel="noopener noreferrer nofollow">https://www.thecttl.org/2022/05/17/reading-unraveled-building-fluency/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Unraveled: Building Fluency17 May 2022 — Phrase-cued oral reading provides the scaffold of teacher-marked text to support the dev...</p></details>
    Published: May 2022  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: interventioncentral.org  
-   Link: <a href="https://www.interventioncentral.org/academic-interventions/reading-comprehension/phrase-cued-text-lessons" target="_blank" rel="noopener noreferrer nofollow">https://www.interventioncentral.org/academic-interventions/reading-comprehension/phrase-cued-text-lessons</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Phrase-Cued Text LessonsDESCRIPTION: Phrase-cued texts are a means to train students to recognize the natural pauses that occur between p...</p></details>
+   Link:<a href="https://www.interventioncentral.org/academic-interventions/reading-comprehension/phrase-cued-text-lessons" target="_blank" rel="noopener noreferrer nofollow">https://www.interventioncentral.org/academic-interventions/reading-comprehension/phrase-cued-text-lessons</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Phrase-Cued Text LessonsDESCRIPTION: Phrase-cued texts are a means to train students to recognize the natural pauses that occur between p...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: literacy.virginia.edu  
-   Link: <a href="https://literacy.virginia.edu/sites/literacy/files/2023-05/the_reading_sourcebook_phrase_cued_reading_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://literacy.virginia.edu/sites/literacy/files/2023-05/the_reading_sourcebook_phrase_cued_reading_1.pdf</a>  
+   Link:<a href="https://literacy.virginia.edu/sites/literacy/files/2023-05/the_reading_sourcebook_phrase_cued_reading_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://literacy.virginia.edu/sites/literacy/files/2023-05/the_reading_sourcebook_phrase_cued_reading_1.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: centralsoutherntierraen.org  
-   Link: <a href="https://www.centralsoutherntierraen.org/wp-content/uploads/2025/03/00-Fluency-Instruction-ppt.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.centralsoutherntierraen.org/wp-content/uploads/2025/03/00-Fluency-Instruction-ppt.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fluency Instruction☆ The teacher models reading the passage while the students follow along on the marked text. ☆ The students practice r...</p></details>
+   Link:<a href="https://www.centralsoutherntierraen.org/wp-content/uploads/2025/03/00-Fluency-Instruction-ppt.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.centralsoutherntierraen.org/wp-content/uploads/2025/03/00-Fluency-Instruction-ppt.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fluency Instruction☆ The teacher models reading the passage while the students follow along on the marked text. ☆ The students practice r...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: readingrockets.org  
    Title: Reading Rockets Fluency  
-   Link: <a href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsFluency: IntroductionFluent readers read aloud effortlessly and with expression — their reading sounds natural, as if they...</p></details>
+   Link:<a href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsFluency: IntroductionFluent readers read aloud effortlessly and with expression — their reading sounds natural, as if they...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/reading-101/reading-and-writing-basics/fluency" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/reading-101/reading-and-writing-basics/fluency</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsBasics: FluencyFluency is the ability to read a text accurately, quickly, and with expression. Fluent reading builds stami...</p></details>
+   Link:<a href="https://www.readingrockets.org/reading-101/reading-and-writing-basics/fluency" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/reading-101/reading-and-writing-basics/fluency</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsBasics: FluencyFluency is the ability to read a text accurately, quickly, and with expression. Fluent reading builds stami...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/105345129402900307" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/105345129402900307</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsDeveloping Syntactic Sensitivity in Reading Through...Highlights the benefits of developing students&#x27; skills in grouping te...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/105345129402900307" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/105345129402900307</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsDeveloping Syntactic Sensitivity in Reading Through...Highlights the benefits of developing students&#x27; skills in grouping te...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: eric.ed.gov  
-   Link: <a href="https://eric.ed.gov/?id=ED313689" target="_blank" rel="noopener noreferrer nofollow">https://eric.ed.gov/?id=ED313689</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by TV Rasinski · 1990 · Cited by 16 — Rasinski, Timothy V. As in processing oral speech, proficient reading involves &quot;chunking&quot; writt...</p></details>
+   Link:<a href="https://eric.ed.gov/?id=ED313689" target="_blank" rel="noopener noreferrer nofollow">https://eric.ed.gov/?id=ED313689</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by TV Rasinski · 1990 · Cited by 16 — Rasinski, Timothy V. As in processing oral speech, proficient reading involves &quot;chunking&quot; writt...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: readingrockets.org  
    Title: can we really teach prosody and why would we want  
-   Link: <a href="https://www.readingrockets.org/blogs/shanahan-on-literacy/can-we-really-teach-prosody-and-why-would-we-want" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/blogs/shanahan-on-literacy/can-we-really-teach-prosody-and-why-would-we-want</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsCan We Really Teach Prosody and Why Would We Want To?Jul 5, 2023 — We are told that oral reading fluencyFluency is the abi...</p></details>
+   Link:<a href="https://www.readingrockets.org/blogs/shanahan-on-literacy/can-we-really-teach-prosody-and-why-would-we-want" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/blogs/shanahan-on-literacy/can-we-really-teach-prosody-and-why-would-we-want</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsCan We Really Teach Prosody and Why Would We Want To?Jul 5, 2023 — We are told that oral reading fluencyFluency is the abi...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsFluency: In DepthRepeated oral reading of familiar texts can substantially improve reading fluency in typical elementary s...</p></details>
+   Link:<a href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsFluency: In DepthRepeated oral reading of familiar texts can substantially improve reading fluency in typical elementary s...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/classroom/classroom-strategies/timed-repeated-readings" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/classroom/classroom-strategies/timed-repeated-readings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Timed Repeated ReadingsThe goal of timed repeated readings is to increase reading speed, accuracy, and expression through repeated practi...</p></details>
+   Link:<a href="https://www.readingrockets.org/classroom/classroom-strategies/timed-repeated-readings" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/classroom/classroom-strategies/timed-repeated-readings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Timed Repeated ReadingsThe goal of timed repeated readings is to increase reading speed, accuracy, and expression through repeated practi...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: shanahanonliteracy.com  
    Title: It demonstrates that there are different  
-   Link: <a href="https://www.shanahanonliteracy.com/blog/modeling-in-fluency-instruction" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/modeling-in-fluency-instruction</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shanahan on LiteracyModeling in Fluency InstructionAugust 9, 2025 — 9 Aug 2025 — This blog explores the role -- if any -- that modeling p...</p></details>
+   Link:<a href="https://www.shanahanonliteracy.com/blog/modeling-in-fluency-instruction" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/modeling-in-fluency-instruction</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shanahan on LiteracyModeling in Fluency InstructionAugust 9, 2025 — 9 Aug 2025 — This blog explores the role -- if any -- that modeling p...</p></details>
    Published: August 9, 2025  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: education.vic.gov.au  
    Title: Oral Reading Fluency  
-   Link: <a href="https://www.education.vic.gov.au/Documents/school/teachers/teachingresources/discipline/english/literacy/Oral_Reading_Fluency_Oct2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.education.vic.gov.au/Documents/school/teachers/teachingresources/discipline/english/literacy/Oral_Reading_Fluency_Oct2023.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>is reading fluency important? Reading is a complex cognitive process whereby skilled readers decode texts to ma...</p></details>
+   Link:<a href="https://www.education.vic.gov.au/Documents/school/teachers/teachingresources/discipline/english/literacy/Oral_Reading_Fluency_Oct2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.education.vic.gov.au/Documents/school/teachers/teachingresources/discipline/english/literacy/Oral_Reading_Fluency_Oct2023.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>is reading fluency important? Reading is a complex cognitive process whereby skilled readers decode texts to ma...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/223966503_A_synthesis_of_fluency_interventions_for_secondary_struggling_readers" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/223966503_A_synthesis_of_fluency_interventions_for_secondary_struggling_readers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) A synthesis of fluency interventions for secondary...PDF | Previous research studies examining the effects of fluency intervention...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/223966503_A_synthesis_of_fluency_interventions_for_secondary_struggling_readers" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/223966503_A_synthesis_of_fluency_interventions_for_secondary_struggling_readers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) A synthesis of fluency interventions for secondary...PDF | Previous research studies examining the effects of fluency intervention...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/389791217_Pairing_phrase-cued_text_with_readers_theatre_Effects_on_reading_prosody_and_automaticity" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/389791217_Pairing_phrase-cued_text_with_readers_theatre_Effects_on_reading_prosody_and_automaticity</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pairing phrase‐cued text with readers theatreConclusions Adding text with highlighted phrase boundaries enhanced the effect of readers th...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/389791217_Pairing_phrase-cued_text_with_readers_theatre_Effects_on_reading_prosody_and_automaticity" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/389791217_Pairing_phrase-cued_text_with_readers_theatre_Effects_on_reading_prosody_and_automaticity</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pairing phrase‐cued text with readers theatreConclusions Adding text with highlighted phrase boundaries enhanced the effect of readers th...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: teacherspayteachers.com  
-   Link: <a href="https://www.teacherspayteachers.com/browse/staff-and-administrators/hands-on-activities/centers/free?search=phrase+cue+reading" target="_blank" rel="noopener noreferrer nofollow">https://www.teacherspayteachers.com/browse/staff-and-administrators/hands-on-activities/centers/free?search=phrase+cue+reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Phrase Cue ReadingThis cue card is a visual aid for student tutors, reminding them of key questions to ask before, during, and after a re...</p></details>
+   Link:<a href="https://www.teacherspayteachers.com/browse/staff-and-administrators/hands-on-activities/centers/free?search=phrase+cue+reading" target="_blank" rel="noopener noreferrer nofollow">https://www.teacherspayteachers.com/browse/staff-and-administrators/hands-on-activities/centers/free?search=phrase+cue+reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Phrase Cue ReadingThis cue card is a visual aid for student tutors, reminding them of key questions to ask before, during, and after a re...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: sortools.com  
-   Link: <a href="https://sortools.com/phrase_cue.html" target="_blank" rel="noopener noreferrer nofollow">https://sortools.com/phrase_cue.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Phrase-Cued Text GeneratorPhrase-cued text is a strategy for teaching reading fluency. Cues, or dashes, are inserted after punctuation ma...</p></details>
+   Link:<a href="https://sortools.com/phrase_cue.html" target="_blank" rel="noopener noreferrer nofollow">https://sortools.com/phrase_cue.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Phrase-Cued Text GeneratorPhrase-cued text is a strategy for teaching reading fluency. Cues, or dashes, are inserted after punctuation ma...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: sarahsnippets.com  
-   Link: <a href="https://sarahsnippets.com/fluency-phrased-reading-scooping/" target="_blank" rel="noopener noreferrer nofollow">https://sarahsnippets.com/fluency-phrased-reading-scooping/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Phrased Reading: Foundations of Fluency SkillsDiscover the benefits of phrased reading. Help students group words meaningfully to boost r...</p></details>
+   Link:<a href="https://sarahsnippets.com/fluency-phrased-reading-scooping/" target="_blank" rel="noopener noreferrer nofollow">https://sarahsnippets.com/fluency-phrased-reading-scooping/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Phrased Reading: Foundations of Fluency SkillsDiscover the benefits of phrased reading. Help students group words meaningfully to boost r...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: sortools.com  
-   Link: <a href="https://sortools.com/timed_repeated.html" target="_blank" rel="noopener noreferrer nofollow">https://sortools.com/timed_repeated.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Timed Repeated Reading GeneratorWelcome to the Repeated Reading Text Generator! Timed Repeated Reading is an instructional technique desi...</p></details>
+   Link:<a href="https://sortools.com/timed_repeated.html" target="_blank" rel="noopener noreferrer nofollow">https://sortools.com/timed_repeated.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Timed Repeated Reading GeneratorWelcome to the Repeated Reading Text Generator! Timed Repeated Reading is an instructional technique desi...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: allohio.org  
-   Link: <a href="https://allohio.org/wp-content/uploads/2025/03/PL10-Module-Resource-Guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://allohio.org/wp-content/uploads/2025/03/PL10-Module-Resource-Guide.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>teaching for reading fluencyDeveloping Reading Fluency through Practice. Phrase-Cued Reading. Phrase-cued... word reading, their fluency...</p></details>
+   Link:<a href="https://allohio.org/wp-content/uploads/2025/03/PL10-Module-Resource-Guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://allohio.org/wp-content/uploads/2025/03/PL10-Module-Resource-Guide.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>teaching for reading fluencyDeveloping Reading Fluency through Practice. Phrase-Cued Reading. Phrase-cued... word reading, their fluency...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DJaJcroRcQB/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DJaJcroRcQB/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>With phrase-cued reading, we&#x27;re taking the guesswork out of where phrases should be broken...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DJaJcroRcQB/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DJaJcroRcQB/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>With phrase-cued reading, we&#x27;re taking the guesswork out of where phrases should be broken...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/jennifer-throndsen-phd-1b833261_do-your-students-struggle-with-reading-fluency-activity-7417422921456996352--T9x" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/jennifer-throndsen-phd-1b833261_do-your-students-struggle-with-reading-fluency-activity-7417422921456996352--T9x</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This short video explains what it is, why it works, and how to use it. You...Read more...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/jennifer-throndsen-phd-1b833261_do-your-students-struggle-with-reading-fluency-activity-7417422921456996352--T9x" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/jennifer-throndsen-phd-1b833261_do-your-students-struggle-with-reading-fluency-activity-7417422921456996352--T9x</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This short video explains what it is, why it works, and how to use it. You...Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: landmarkoutreach.org  
    Title: Learn how strategies like chunking, modeling, repeated  
-   Link: <a href="https://www.landmarkoutreach.org/strategies/fluency-interventions-text-and-passage-level/" target="_blank" rel="noopener noreferrer nofollow">https://www.landmarkoutreach.org/strategies/fluency-interventions-text-and-passage-level/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fluency Interventions at the Text and Passage LevelsApr 16, 2025 — Explore effective text-level fluency interventions to support reading...</p></details>
+   Link:<a href="https://www.landmarkoutreach.org/strategies/fluency-interventions-text-and-passage-level/" target="_blank" rel="noopener noreferrer nofollow">https://www.landmarkoutreach.org/strategies/fluency-interventions-text-and-passage-level/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fluency Interventions at the Text and Passage LevelsApr 16, 2025 — Explore effective text-level fluency interventions to support reading...</p></details>

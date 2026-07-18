@@ -269,7 +269,7 @@ image: /assets/images/increasing_re_852ca6_dense_materia_3cc00e_rereading_com_bb
 
 ## Introduction
 
-One of the strongest signals that a reader should slow down and look back is not unfamiliar [vocabulary]({{ 'knowledge/' | relative_url }}) or a difficult sentence. It is a contradiction. When information later in a text clashes with what seemed true earlier, the conflict often exposes a gap in understanding that the first reading missed. Research on comprehension monitoring consistently shows that readers spend more time on inconsistent information, make more backward [eye movements]({{ 'eye-tradeoff/' | relative_url }}), and often revisit earlier passages when they detect a mismatch between parts of a text. These responses are not signs of failure. They are mechanisms for repairing understanding and building a more accurate mental model of what the author means. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/0163853X.2022.2073736" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineStability, Associations with Reading Comprehension Skills...by C Tibken · 2022 · Cited by 22 — The inconsistency...</span></span></span>
+One of the strongest signals that a reader should slow down and look back is not unfamiliar [vocabulary]({{ 'knowledge/' | relative_url }}) or a difficult sentence. It is a contradiction. When information later in a text clashes with what seemed true earlier, the conflict often exposes a gap in understanding that the first reading missed. Research on comprehension monitoring consistently shows that readers spend more time on inconsistent information, make more backward [eye movements]({{ 'eye-tradeoff/' | relative_url }}), and often revisit earlier passages when they detect a mismatch between parts of a text. These responses are not signs of failure. They are mechanisms for repairing understanding and building a more accurate mental model of what the author means.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/0163853X.2022.2073736" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineStability, Associations with Reading Comprehension Skills...by C Tibken · 2022 · Cited by 22 — The inconsistency...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_dense_materia_3cc00e_rereading_com_bb5a7c_contradiction_964280-Illustration-1-dark.svg" | relative_url }}" alt="Contradictions illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_dense_materia_3cc00e_rereading_com_bb5a7c_contradiction_964280-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_dense_materia_3cc00e_rereading_com_bb5a7c_contradiction_964280-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -279,7 +279,7 @@ For readers interested in [increasing]({{ 'increasing/' | relative_url }}) readi
 
 Readers do not wait until the end of a paragraph or chapter before forming interpretations. Instead, they build a running explanation as they go. Each new sentence is fitted into a developing mental model of the text.
 
-This process is efficient but risky. Early conclusions are often based on incomplete information. In difficult material, later details may reveal that an earlier assumption was wrong, oversimplified, or based on a mistaken interpretation of a key term. Studies of validation during reading show that readers continuously compare new information with both preceding text and their own [background]({{ 'expertise/' | relative_url }}) knowledge. When the comparison fails, processing slows and corrective actions begin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/0163853X.2020.1727683" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineFull article: Differentiating Text-Based and Knowledge...by ML van Moort · 2021 · Cited by 33 — To examine the ti...</span></span></span>
+This process is efficient but risky. Early conclusions are often based on incomplete information. In difficult material, later details may reveal that an earlier assumption was wrong, oversimplified, or based on a mistaken interpretation of a key term. Studies of validation during reading show that readers continuously compare new information with both preceding text and their own [background]({{ 'expertise/' | relative_url }}) knowledge. When the comparison fails, processing slows and corrective actions begin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/0163853X.2020.1727683" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineFull article: Differentiating Text-Based and Knowledge...by ML van Moort · 2021 · Cited by 33 — To examine the ti...</span></span></span>
 
 A common example occurs in academic writing. An early statement may appear to support one explanation, while a later paragraph introduces evidence that only makes sense under a different explanation. The apparent contradiction forces readers to reconsider what they thought the author was arguing.
 
@@ -292,14 +292,14 @@ The important insight is that confusion often appears before understanding. A sk
 
 Contradictions are useful because they reveal where comprehension is only superficial.
 
-Researchers often study this process using inconsistency-detection tasks. Readers encounter information that conflicts with earlier statements in a text. Stronger comprehenders typically notice the inconsistency, spend longer processing it, and are more likely to revisit earlier information. Weaker comprehenders often continue reading without recognising that anything is wrong. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/0163853X.2022.2073736" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineStability, Associations with Reading Comprehension Skills...by C Tibken · 2022 · Cited by 22 — The inconsistency...</span></span></span>
+Researchers often study this process using inconsistency-detection tasks. Readers encounter information that conflicts with earlier statements in a text. Stronger comprehenders typically notice the inconsistency, spend longer processing it, and are more likely to revisit earlier information. Weaker comprehenders often continue reading without recognising that anything is wrong.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/0163853X.2022.2073736" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineStability, Associations with Reading Comprehension Skills...by C Tibken · 2022 · Cited by 22 — The inconsistency...</span></span></span>
 
 Several kinds of contradiction commonly trigger productive rereading:
 
-* **Character or narrative contradictions:** A story describes a cautious character, then later presents behaviour that appears reckless. Readers may return to the earlier description to determine whether they misunderstood the character or whether the text is revealing a change. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3395345/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHow do children deal with inconsistencies in text?</span><span class="citation-popover-snippet">An eye...by M van der Schoot · 2011 · Cited by 153 — Abstract. In two experiments, we investigated comprehension monitoring in 10–12 yea...</span></span></span>
+* **Character or narrative contradictions:** A story describes a cautious character, then later presents behaviour that appears reckless. Readers may return to the earlier description to determine whether they misunderstood the character or whether the text is revealing a change.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3395345/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHow do children deal with inconsistencies in text?</span><span class="citation-popover-snippet">An eye...by M van der Schoot · 2011 · Cited by 153 — Abstract. In two experiments, we investigated comprehension monitoring in 10–12 yea...</span></span></span>
 * **Conceptual contradictions:** A scientific or [technical]({{ 'technical-texts/' | relative_url }}) text introduces a principle that later evidence seems to challenge. Readers must reconcile the two claims rather than accepting both independently.
 * **Definition conflicts:** An author uses a familiar word in a specialised sense. Later passages seem contradictory only because the reader unconsciously reverted to the everyday meaning.
-* **Knowledge-based contradictions:** A text states something that conflicts with what the reader already believes or knows. Research suggests that these conflicts can produce especially extensive rereading and repair processes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/0163853X.2020.1727683" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineFull article: Differentiating Text-Based and Knowledge...by ML van Moort · 2021 · Cited by 33 — To examine the ti...</span></span></span>
+* **Knowledge-based contradictions:** A text states something that conflicts with what the reader already believes or knows. Research suggests that these conflicts can produce especially extensive rereading and repair processes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/0163853X.2020.1727683" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineFull article: Differentiating Text-Based and Knowledge...by ML van Moort · 2021 · Cited by 33 — To examine the ti...</span></span></span>
 
 In each case, the contradiction acts like a diagnostic test. It reveals whether the reader has constructed a coherent interpretation or merely accumulated disconnected pieces of information.
 
@@ -309,7 +309,7 @@ In each case, the contradiction acts like a diagnostic test. It reveals whether 
 
 Not every contradiction originates in the document itself.
 
-Research distinguishes between conflicts within the text and conflicts between the text and the reader's existing knowledge. Both can trigger reanalysis, but knowledge-based conflicts often produce broader and longer-lasting disruption because readers must decide whether the text is wrong, their prior belief is wrong, or the two can somehow be reconciled. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/0163853X.2020.1727683" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineFull article: Differentiating Text-Based and Knowledge...by ML van Moort · 2021 · Cited by 33 — To examine the ti...</span></span></span>
+Research distinguishes between conflicts within the text and conflicts between the text and the reader's existing knowledge. Both can trigger reanalysis, but knowledge-based conflicts often produce broader and longer-lasting disruption because readers must decide whether the text is wrong, their prior belief is wrong, or the two can somehow be reconciled.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/0163853X.2020.1727683" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineFull article: Differentiating Text-Based and Knowledge...by ML van Moort · 2021 · Cited by 33 — To examine the ti...</span></span></span>
 
 Consider a reader who believes that a particular medical treatment is ineffective. A later passage in a medical review presents strong evidence supporting that treatment. The reader may experience the information as contradictory even if the text itself is internally consistent.
 
@@ -334,7 +334,7 @@ The answers frequently emerge only after revisiting earlier sections with a revi
 
 The most effective rereading after a contradiction is targeted rather than exhaustive.
 
-Instead of restarting the entire chapter, skilled readers typically return to the specific point where their interpretation diverged from the text. [Eye-tracking]({{ 'eye-tracking/' | relative_url }}) research shows that readers use regressions—backward movements through text—to reprocess earlier material and revise their mental representation of what they have read. These larger regressions appear closely linked to comprehension repair rather than simple visual correction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/334364752_Regressions_during_Reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">334364752 Regressions during Reading</span><span class="citation-popover-snippet">ResearchGate(PDF) Regressions during Reading20 May 2026 — Readers occasionally move their eyes to prior text. We distinguish two types of...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+Instead of restarting the entire chapter, skilled readers typically return to the specific point where their interpretation diverged from the text. [Eye-tracking]({{ 'eye-tracking/' | relative_url }}) research shows that readers use regressions—backward movements through text—to reprocess earlier material and revise their mental representation of what they have read. These larger regressions appear closely linked to comprehension repair rather than simple visual correction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/334364752_Regressions_during_Reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">334364752 Regressions during Reading</span><span class="citation-popover-snippet">ResearchGate(PDF) Regressions during Reading20 May 2026 — Readers occasionally move their eyes to prior text. We distinguish two types of...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 A practical approach involves three questions:
 
@@ -361,7 +361,7 @@ At first glance, rereading seems incompatible with reading faster. Yet contradic
 
 A reader who ignores inconsistencies may reach the end of a chapter with a fundamentally flawed understanding and then need to reread large portions of the text. A reader who pauses briefly when contradictions appear can often repair comprehension immediately and continue with a more accurate framework.
 
-Studies linking inconsistency detection and comprehension monitoring show that readers who successfully identify contradictions tend to demonstrate stronger comprehension outcomes. Detecting and resolving mismatches is not a distraction from understanding; it is part of understanding itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/0163853X.2022.2073736" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online+2Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineStability, Associations with Reading Comprehension Skills...by C Tibken · 2022 · Cited by 22 — The inconsistency...</span></span></span>
+Studies linking inconsistency detection and comprehension monitoring show that readers who successfully identify contradictions tend to demonstrate stronger comprehension outcomes. Detecting and resolving mismatches is not a distraction from understanding; it is part of understanding itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/0163853X.2022.2073736" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online+2Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineStability, Associations with Reading Comprehension Skills...by C Tibken · 2022 · Cited by 22 — The inconsistency...</span></span></span>
 
 For [difficult texts]({{ 'difficult-text/' | relative_url }}), the fastest route to comprehension is therefore not always the one with the fewest rereads. It is often the one that treats contradictions as useful signals. When later information no longer fits the story being constructed in the reader's mind, the resulting confusion is frequently an invitation to look back, revise, and continue with a stronger grasp of the text.
 
@@ -370,178 +370,178 @@ For [difficult texts]({{ 'difficult-text/' | relative_url }}), the fastest route
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When confusion is a sign to look back. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When confusion is a sign to look back. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Directly addresses rereading, comprehension monitoring, evaluating interpretations, and resolving misunderstandings while reading.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Directly addresses rereading, comprehension monitoring, evaluating interpretations, and resolving misunderstandings while reading.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-        </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+</h4>
+<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Explains how retrieval, review, and correcting misconceptions strengthen understanding when initial interpretations are flawed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how retrieval, review, and correcting misconceptions strengthen understanding when initial interpretations are flawed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Helps readers understand why first impressions and early interpretations can be misleading and require revision.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand why first impressions and early interpretations can be misleading and require revision.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Make+It+Stick+-+the+Science+of+Successful+Learning+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick - the Science of Successful Learning on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+-+the+Science+of+Successful+Learning+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick - the Science of Successful Learning">Make It Stick - the Science of Successful Learning</a>
-        </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Make+It+Stick+-+the+Science+of+Successful+Learning+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick - the Science of Successful Learning on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+-+the+Science+of+Successful+Learning+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick - the Science of Successful Learning">Make It Stick - the Science of Successful Learning</a>
+</h4>
+<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger et al.</p>
         
-        <p class="fr-book-desc">First published 2023.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+-+the+Science+of+Successful+Learning+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2023.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+-+the+Science+of+Successful+Learning+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contradictions-when-confusion-is-a-sign-to-look-back-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="contradictions-when-confusion-is-a-sign-to-look-back-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for OSCO Bamboo Desk Organiser | 6 Compartments | 1 Drawer | Office Tidy | Stationer"><img src="{{ '/assets/images/marketplace-covers/acce59ee37094e6800bd.jpg' | relative_url }}" alt="Listing image for OSCO Bamboo Desk Organiser | 6 Compartments | 1 Drawer | Office Tidy | Stationer" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contradictions-when-confusion-is-a-sign-to-look-back-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="contradictions-when-confusion-is-a-sign-to-look-back-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">OSCO Bamboo Desk Organiser | 6 Compartments | 1 Drawer | Office Tidy | Stationer</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contradictions-when-confusion-is-a-sign-to-look-back-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="contradictions-when-confusion-is-a-sign-to-look-back-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contradictions-when-confusion-is-a-sign-to-look-back-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="contradictions-when-confusion-is-a-sign-to-look-back-increasing-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contradictions-when-confusion-is-a-sign-to-look-back-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="contradictions-when-confusion-is-a-sign-to-look-back-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for OSCO Bamboo Desk Organiser | 6 Compartments | 1 Drawer | Office Tidy | Stationer"><img src="{{ '/assets/images/marketplace-covers/acce59ee37094e6800bd.jpg' | relative_url }}" alt="Listing image for OSCO Bamboo Desk Organiser | 6 Compartments | 1 Drawer | Office Tidy | Stationer" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contradictions-when-confusion-is-a-sign-to-look-back-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="contradictions-when-confusion-is-a-sign-to-look-back-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">OSCO Bamboo Desk Organiser | 6 Compartments | 1 Drawer | Office Tidy | Stationer</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contradictions-when-confusion-is-a-sign-to-look-back-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="contradictions-when-confusion-is-a-sign-to-look-back-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contradictions-when-confusion-is-a-sign-to-look-back-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="contradictions-when-confusion-is-a-sign-to-look-back-increasing-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contradictions-when-confusion-is-a-sign-to-look-back-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="contradictions-when-confusion-is-a-sign-to-look-back-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage Office Home"><img src="{{ '/assets/images/marketplace-covers/c4ba66d9ac362939999e.jpg' | relative_url }}" alt="Listing image for Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage Office Home" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contradictions-when-confusion-is-a-sign-to-look-back-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="contradictions-when-confusion-is-a-sign-to-look-back-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage Office Home</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contradictions-when-confusion-is-a-sign-to-look-back-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="contradictions-when-confusion-is-a-sign-to-look-back-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contradictions-when-confusion-is-a-sign-to-look-back-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="contradictions-when-confusion-is-a-sign-to-look-back-increasing-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contradictions-when-confusion-is-a-sign-to-look-back-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="contradictions-when-confusion-is-a-sign-to-look-back-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage Office Home"><img src="{{ '/assets/images/marketplace-covers/c4ba66d9ac362939999e.jpg' | relative_url }}" alt="Listing image for Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage Office Home" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contradictions-when-confusion-is-a-sign-to-look-back-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="contradictions-when-confusion-is-a-sign-to-look-back-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage Office Home</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contradictions-when-confusion-is-a-sign-to-look-back-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="contradictions-when-confusion-is-a-sign-to-look-back-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contradictions-when-confusion-is-a-sign-to-look-back-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="contradictions-when-confusion-is-a-sign-to-look-back-increasing-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contradictions-when-confusion-is-a-sign-to-look-back-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="contradictions-when-confusion-is-a-sign-to-look-back-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Office Study Desk Organizer Table Box Tidy Case Wooden Pen Pencil Storage Holder"><img src="{{ '/assets/images/marketplace-covers/ed40463974a57f4e909b.jpg' | relative_url }}" alt="Listing image for Office Study Desk Organizer Table Box Tidy Case Wooden Pen Pencil Storage Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contradictions-when-confusion-is-a-sign-to-look-back-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="contradictions-when-confusion-is-a-sign-to-look-back-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Office Study Desk Organizer Table Box Tidy Case Wooden Pen Pencil Storage Holder</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contradictions-when-confusion-is-a-sign-to-look-back-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="contradictions-when-confusion-is-a-sign-to-look-back-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contradictions-when-confusion-is-a-sign-to-look-back-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="contradictions-when-confusion-is-a-sign-to-look-back-increasing-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contradictions-when-confusion-is-a-sign-to-look-back-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="contradictions-when-confusion-is-a-sign-to-look-back-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contradictions-when-confusion-is-a-sign-to-look-back-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="contradictions-when-confusion-is-a-sign-to-look-back-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Office Study Desk Organizer Table Box Tidy Case Wooden Pen Pencil Storage Holder"><img src="{{ '/assets/images/marketplace-covers/ed40463974a57f4e909b.jpg' | relative_url }}" alt="Listing image for Office Study Desk Organizer Table Box Tidy Case Wooden Pen Pencil Storage Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contradictions-when-confusion-is-a-sign-to-look-back-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="contradictions-when-confusion-is-a-sign-to-look-back-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Office Study Desk Organizer Table Box Tidy Case Wooden Pen Pencil Storage Holder</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contradictions-when-confusion-is-a-sign-to-look-back-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="contradictions-when-confusion-is-a-sign-to-look-back-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contradictions-when-confusion-is-a-sign-to-look-back-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="contradictions-when-confusion-is-a-sign-to-look-back-increasing-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contradictions-when-confusion-is-a-sign-to-look-back-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="contradictions-when-confusion-is-a-sign-to-look-back-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -557,7 +557,7 @@ For [difficult texts]({{ 'difficult-text/' | relative_url }}), the fastest route
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -577,7 +577,7 @@ For [difficult texts]({{ 'difficult-text/' | relative_url }}), the fastest route
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -609,7 +609,7 @@ For [difficult texts]({{ 'difficult-text/' | relative_url }}), the fastest route
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -661,7 +661,7 @@ For [difficult texts]({{ 'difficult-text/' | relative_url }}), the fastest route
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -706,7 +706,7 @@ For [difficult texts]({{ 'difficult-text/' | relative_url }}), the fastest route
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -747,122 +747,122 @@ For [difficult texts]({{ 'difficult-text/' | relative_url }}), the fastest route
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCHow do children deal with inconsistencies in text?  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3395345/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3395345/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An eye...by M van der Schoot · 2011 · Cited by 153 — Abstract. In two experiments, we investigated comprehension monitoring in 10–12 yea...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3395345/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3395345/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An eye...by M van der Schoot · 2011 · Cited by 153 — Abstract. In two experiments, we investigated comprehension monitoring in 10–12 yea...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
    Title: 334364752 Regressions during Reading  
-   Link: <a href="https://www.researchgate.net/publication/334364752_Regressions_during_Reading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/334364752_Regressions_during_Reading</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Regressions during Reading20 May 2026 — Readers occasionally move their eyes to prior text. We distinguish two types of...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/334364752_Regressions_during_Reading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/334364752_Regressions_during_Reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Regressions during Reading20 May 2026 — Readers occasionally move their eyes to prior text. We distinguish two types of...</p></details>
    Published: May 2026  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/49176103_Effects_of_Inconsistent_Information_on_Text_Processing_Evidence_for_Comprehension_Monitoring" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/49176103_Effects_of_Inconsistent_Information_on_Text_Processing_Evidence_for_Comprehension_Monitoring</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of Inconsistent Information on Text ProcessingComprehension monitoring, a set of conscious and unconscious strategies used during...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/49176103_Effects_of_Inconsistent_Information_on_Text_Processing_Evidence_for_Comprehension_Monitoring" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/49176103_Effects_of_Inconsistent_Information_on_Text_Processing_Evidence_for_Comprehension_Monitoring</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of Inconsistent Information on Text ProcessingComprehension monitoring, a set of conscious and unconscious strategies used during...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/389173629_Medical_Student%27s_Comprehension_Problems_in_Reading_English_Medical_Texts" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/389173629_Medical_Student%27s_Comprehension_Problems_in_Reading_English_Medical_Texts</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Medical Student&#x27;s Comprehension Problems in Reading...4 Jun 2026 — The study recommended that reading EAP classrooms need to include the...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/389173629_Medical_Student%27s_Comprehension_Problems_in_Reading_English_Medical_Texts" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/389173629_Medical_Student%27s_Comprehension_Problems_in_Reading_English_Medical_Texts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Medical Student&#x27;s Comprehension Problems in Reading...4 Jun 2026 — The study recommended that reading EAP classrooms need to include the...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/0163853X.2022.2073736" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/0163853X.2022.2073736</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineStability, Associations with Reading Comprehension Skills...by C Tibken · 2022 · Cited by 22 — The inconsistency...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/0163853X.2022.2073736" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/0163853X.2022.2073736</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineStability, Associations with Reading Comprehension Skills...by C Tibken · 2022 · Cited by 22 — The inconsistency...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.02253/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.02253/full</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Metacognitive Monitoring of Text Comprehensionby C Mirandola · 2018 · Cited by 30 — This procedure investigates the readers&#x27; ability to d...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.02253/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.02253/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Metacognitive Monitoring of Text Comprehensionby C Mirandola · 2018 · Cited by 30 — This procedure investigates the readers&#x27; ability to d...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/0163853X.2020.1727683" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/0163853X.2020.1727683</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineFull article: Differentiating Text-Based and Knowledge...by ML van Moort · 2021 · Cited by 33 — To examine the ti...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/0163853X.2020.1727683" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/0163853X.2020.1727683</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineFull article: Differentiating Text-Based and Knowledge...by ML van Moort · 2021 · Cited by 33 — To examine the ti...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/00222194221081473" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/00222194221081473</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsDo Struggling Adult Readers Monitor Their Reading...This study used a comprehension monitoring task with struggling adult r...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/00222194221081473" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/00222194221081473</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsDo Struggling Adult Readers Monitor Their Reading...This study used a comprehension monitoring task with struggling adult r...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12862574/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12862574/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by HA Alfahaad · 2026 — Abstract. Objective: Medical students frequently attend lectures without prior review of the related literatur...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12862574/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12862574/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by HA Alfahaad · 2026 — Abstract. Objective: Medical students frequently attend lectures without prior review of the related literatur...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12228860/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12228860/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Paradox of Knowledge: Why Medical Students Know...by HL Lujan · 2025 · Cited by 30 — Medical education faces a paradox: despite unpreced...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12228860/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12228860/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Paradox of Knowledge: Why Medical Students Know...by HL Lujan · 2025 · Cited by 30 — Medical education faces a paradox: despite unpreced...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ideals.illinois.edu  
-   Link: <a href="https://www.ideals.illinois.edu/items/17988/bitstreams/64436/data.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ideals.illinois.edu/items/17988/bitstreams/64436/data.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>monitoring - IDEALSby L Baker · 1979 · Cited by 508 — The present study was a preliminary investigation of college students&#x27; comprehensio...</p></details>
+   Link:<a href="https://www.ideals.illinois.edu/items/17988/bitstreams/64436/data.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ideals.illinois.edu/items/17988/bitstreams/64436/data.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>monitoring - IDEALSby L Baker · 1979 · Cited by 508 — The present study was a preliminary investigation of college students&#x27; comprehensio...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/14739879.2024.2414741" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/14739879.2024.2414741</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lessons learned from the experiences of patients with long...by P Cannon · 2024 — The aim of this study is to explore what views patient...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/14739879.2024.2414741" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/14739879.2024.2414741</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lessons learned from the experiences of patients with long...by P Cannon · 2024 — The aim of this study is to explore what views patient...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: research-portal.uu.nl  
-   Link: <a href="https://research-portal.uu.nl/files/113745332/Differentiating_Text_Based_and_Knowledge_Based_Validation_Processes_during_Reading_Evidence_from_Eye_Movements.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research-portal.uu.nl/files/113745332/Differentiating_Text_Based_and_Knowledge_Based_Validation_Processes_during_Reading_Evidence_from_Eye_Movements.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Utrecht UniversityDifferentiating Text-Based and Knowledge-...by ML Moort · 2021 · Cited by 33 — To examine the time course and cognitiv...</p></details>
+   Link:<a href="https://research-portal.uu.nl/files/113745332/Differentiating_Text_Based_and_Knowledge_Based_Validation_Processes_during_Reading_Evidence_from_Eye_Movements.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research-portal.uu.nl/files/113745332/Differentiating_Text_Based_and_Knowledge_Based_Validation_Processes_during_Reading_Evidence_from_Eye_Movements.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Utrecht UniversityDifferentiating Text-Based and Knowledge-...by ML Moort · 2021 · Cited by 33 — To examine the time course and cognitiv...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: journalijdr.com  
-   Link: <a href="https://www.journalijdr.com/relationship-between-multiple-intelligences-and-reading-comprehension-case-iranian-medical-students" target="_blank" rel="noopener noreferrer nofollow">https://www.journalijdr.com/relationship-between-multiple-intelligences-and-reading-comprehension-case-iranian-medical-students</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The case of iranian medical students and review of literatureThe present study was an attempt to investigate the relationship between mul...</p></details>
+   Link:<a href="https://www.journalijdr.com/relationship-between-multiple-intelligences-and-reading-comprehension-case-iranian-medical-students" target="_blank" rel="noopener noreferrer nofollow">https://www.journalijdr.com/relationship-between-multiple-intelligences-and-reading-comprehension-case-iranian-medical-students</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The case of iranian medical students and review of literatureThe present study was an attempt to investigate the relationship between mul...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: shanahanonliteracy.com  
-   Link: <a href="https://www.shanahanonliteracy.com/blog/dont-confuse-reading-comprehension-and-learning-to-read-and-to-reread" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/dont-confuse-reading-comprehension-and-learning-to-read-and-to-reread</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Teachers should provide guidance to students even with the rereading of...Read more...</p></details>
+   Link:<a href="https://www.shanahanonliteracy.com/blog/dont-confuse-reading-comprehension-and-learning-to-read-and-to-reread" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/dont-confuse-reading-comprehension-and-learning-to-read-and-to-reread</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Teachers should provide guidance to students even with the rereading of...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Schema Theory vs. Construction-Integration Model in Reading  
-   Link: <a href="http://www.youtube.com/watch?v=6vw2UjHJHPo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=6vw2UjHJHPo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Comprehension monitoring reading contradictions eye tracking Tracing a Gaze to Understand Language Delays Scientific American...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=6vw2UjHJHPo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=6vw2UjHJHPo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Comprehension monitoring reading contradictions eye tracking Tracing a Gaze to Understand Language Delays Scientific American...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pdfs.semanticscholar.org  
-   Link: <a href="https://pdfs.semanticscholar.org/7ac3/73b72cda9bfaf3ecfdc70f8bb82cbb7514e2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pdfs.semanticscholar.org/7ac3/73b72cda9bfaf3ecfdc70f8bb82cbb7514e2.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Comprehension in the Medical Education...by ZN GHAFAR · Cited by 3 — This study aimed to examine information about reading comprehension...</p></details>
+   Link:<a href="https://pdfs.semanticscholar.org/7ac3/73b72cda9bfaf3ecfdc70f8bb82cbb7514e2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pdfs.semanticscholar.org/7ac3/73b72cda9bfaf3ecfdc70f8bb82cbb7514e2.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Comprehension in the Medical Education...by ZN GHAFAR · Cited by 3 — This study aimed to examine information about reading comprehension...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/iph-uaeu-78148922a_from-text-to-test-pre-lecture-reading-boosts-activity-7467541239937228800-6F4I" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/iph-uaeu-78148922a_from-text-to-test-pre-lecture-reading-boosts-activity-7467541239937228800-6F4I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>n Our recent study examines the impact of...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/iph-uaeu-78148922a_from-text-to-test-pre-lecture-reading-boosts-activity-7467541239937228800-6F4I" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/iph-uaeu-78148922a_from-text-to-test-pre-lecture-reading-boosts-activity-7467541239937228800-6F4I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n Our recent study examines the impact of...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: openscholar.uga.edu  
    Title: oddone cameron g 201505 ma  
-   Link: <a href="https://openscholar.uga.edu/record/18440/files/oddone_cameron_g_201505_ma.pdf" target="_blank" rel="noopener noreferrer nofollow">https://openscholar.uga.edu/record/18440/files/oddone_cameron_g_201505_ma.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>comprehension monitoring in sentence reading withby CG Oddone · 2015 — Findings from this study indicated that inconsistency in sentence...</p></details>
+   Link:<a href="https://openscholar.uga.edu/record/18440/files/oddone_cameron_g_201505_ma.pdf" target="_blank" rel="noopener noreferrer nofollow">https://openscholar.uga.edu/record/18440/files/oddone_cameron_g_201505_ma.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>comprehension monitoring in sentence reading withby CG Oddone · 2015 — Findings from this study indicated that inconsistency in sentence...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: lead.ube.fr  
    Title: Chevet et al. 2022b  
-   Link: <a href="https://lead.ube.fr/wp-content/uploads/2023/09/Chevet_et_al._2022b.pdf" target="_blank" rel="noopener noreferrer nofollow">https://lead.ube.fr/wp-content/uploads/2023/09/Chevet_et_al._2022b.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of interruption on eye movements and...by G Chevet · 2022 · Cited by 19 — The aim of the present study is to observe the consequences of...</p></details>
+   Link:<a href="https://lead.ube.fr/wp-content/uploads/2023/09/Chevet_et_al._2022b.pdf" target="_blank" rel="noopener noreferrer nofollow">https://lead.ube.fr/wp-content/uploads/2023/09/Chevet_et_al._2022b.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of interruption on eye movements and...by G Chevet · 2022 · Cited by 19 — The aim of the present study is to observe the consequences of...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: aclanthology.org  
    Title: 2024.cl4health 1.10  
-   Link: <a href="https://aclanthology.org/2024.cl4health-1.10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aclanthology.org/2024.cl4health-1.10.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading plays a crucial role in cognitive processes, acting as the primary way in which people access and assimilate information.Read more...</p></details>
+   Link:<a href="https://aclanthology.org/2024.cl4health-1.10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aclanthology.org/2024.cl4health-1.10.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading plays a crucial role in cognitive processes, acting as the primary way in which people access and assimilate information.Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: centaur.reading.ac.uk  
    Title: 2015 PerezJosephBajoNation accepted Oct2015  
-   Link: <a href="https://centaur.reading.ac.uk/45762/1/2015_PerezJosephBajoNation_accepted_Oct2015.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centaur.reading.ac.uk/45762/1/2015_PerezJosephBajoNation_accepted_Oct2015.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It allows the reader to read a text at their own pace without the...Read...</p></details>
+   Link:<a href="https://centaur.reading.ac.uk/45762/1/2015_PerezJosephBajoNation_accepted_Oct2015.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centaur.reading.ac.uk/45762/1/2015_PerezJosephBajoNation_accepted_Oct2015.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It allows the reader to read a text at their own pace without the...Read...</p></details>

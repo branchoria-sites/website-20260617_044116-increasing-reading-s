@@ -288,17 +288,17 @@ image: /assets/images/increasing_re_852ca6_speed_reading_71e807_perceptual_sp_15
 
 ## Introduction
 
-[Speed-reading]({{ 'myths/' | relative_url }}) courses often suggest that skilled readers can learn to “see” entire lines, paragraphs, or even pages at a glance. Research on eye movements and reading paints a very different picture. Readers do gather information from a region around where the eyes are focused, known as the [perceptual span]({{ 'perceptual-span/' | relative_url }}), but this span is limited and uneven. High-detail vision is concentrated near the point of fixation, while information farther away becomes progressively less useful. As a result, fluent reading still depends on a sequence of fixations and eye movements rather than wholesale visual capture of large blocks of text. The evidence behind perceptual span helps explain why claims about reading whole lines at once are among the least credible promises in the speed-reading industry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEye movements, the perceptual span, and reading speed</span><span class="citation-popover-snippet">by K Rayner · 2010 · Cited by 462 — The perceptual span or region of effective vision during eye fixations in reading was examined as...</span></span></span>
+[Speed-reading]({{ 'myths/' | relative_url }}) courses often suggest that skilled readers can learn to “see” entire lines, paragraphs, or even pages at a glance. Research on eye movements and reading paints a very different picture. Readers do gather information from a region around where the eyes are focused, known as the [perceptual span]({{ 'perceptual-span/' | relative_url }}), but this span is limited and uneven. High-detail vision is concentrated near the point of fixation, while information farther away becomes progressively less useful. As a result, fluent reading still depends on a sequence of fixations and eye movements rather than wholesale visual capture of large blocks of text. The evidence behind perceptual span helps explain why claims about reading whole lines at once are among the least credible promises in the speed-reading industry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEye movements, the perceptual span, and reading speed</span><span class="citation-popover-snippet">by K Rayner · 2010 · Cited by 462 — The perceptual span or region of effective vision during eye fixations in reading was examined as...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_speed_reading_71e807_perceptual_sp_1579db-Illustration-1-dark.svg" | relative_url }}" alt="Visual span illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_speed_reading_71e807_perceptual_sp_1579db-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_speed_reading_71e807_perceptual_sp_1579db-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Can Your Eyes Really Read Whole Lines?
 
-The short answer is no. During reading, the eyes pause briefly on a location, extract information, then jump to the next location. Researchers refer to the useful area around each fixation as the perceptual span. It extends beyond the word currently being looked at, but not nearly far enough to support reading entire lines with equal clarity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEye movements, the perceptual span, and reading speed</span><span class="citation-popover-snippet">by K Rayner · 2010 · Cited by 462 — The perceptual span or region of effective vision during eye fixations in reading was examined as...</span></span></span>
+The short answer is no. During reading, the eyes pause briefly on a location, extract information, then jump to the next location. Researchers refer to the useful area around each fixation as the perceptual span. It extends beyond the word currently being looked at, but not nearly far enough to support reading entire lines with equal clarity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEye movements, the perceptual span, and reading speed</span><span class="citation-popover-snippet">by K Rayner · 2010 · Cited by 462 — The perceptual span or region of effective vision during eye fixations in reading was examined as...</span></span></span>
 
-Experiments using the “[moving window]({{ 'window-tests/' | relative_url }})” method have repeatedly shown that skilled English readers typically obtain useful information from roughly 3–4 characters to the left of fixation and about 14–15 characters to the right. Text outside this region contributes little to normal reading performance. When researchers hide information beyond that window, reading is largely unaffected; when they shrink the window further, reading slows and becomes less efficient. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.3758/s13414-015-0942-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkIndividual differences in the perceptual span during readingby W Choi · 2015 · Cited by 79 — The perceptual span for skilled...</span></span></span>
+Experiments using the “[moving window]({{ 'window-tests/' | relative_url }})” method have repeatedly shown that skilled English readers typically obtain useful information from roughly 3–4 characters to the left of fixation and about 14–15 characters to the right. Text outside this region contributes little to normal reading performance. When researchers hide information beyond that window, reading is largely unaffected; when they shrink the window further, reading slows and becomes less efficient.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.3758/s13414" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkIndividual differences in the perceptual span during readingby W Choi · 2015 · Cited by 79 — The perceptual span for skilled...</span></span></span>
 
-This finding is important because a standard line of text often contains many more characters than the perceptual span covers. Even highly skilled readers therefore process text through multiple overlapping fixations rather than a single panoramic glance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEye movements, the perceptual span, and reading speed</span><span class="citation-popover-snippet">by K Rayner · 2010 · Cited by 462 — The perceptual span or region of effective vision during eye fixations in reading was examined as...</span></span></span>
+This finding is important because a standard line of text often contains many more characters than the perceptual span covers. Even highly skilled readers therefore process text through multiple overlapping fixations rather than a single panoramic glance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEye movements, the perceptual span, and reading speed</span><span class="citation-popover-snippet">by K Rayner · 2010 · Cited by 462 — The perceptual span or region of effective vision during eye fixations in reading was examined as...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/D2aZ3THL8BQ" title="What Speed Readers Won&#x27;t Tell You" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=D2aZ3THL8BQ" target="_blank" rel="noopener noreferrer">What Speed Readers Won&#x27;t Tell You</a></p><p class="youtube-embed-meta">Channel: Benjamin Keep, PhD, JD &middot; Views: 57.6K &middot; Uploaded: March 2023 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=D2aZ3THL8BQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=D2aZ3THL8BQ">Open on YouTube</a></p></div></div></div>
@@ -307,11 +307,11 @@ This finding is important because a standard line of text often contains many mo
 
 The perceptual span is not a zone in which every letter is recognised equally well. Instead, it contains different levels of information.
 
-Near the centre of fixation, readers can identify letters and words with high accuracy. Slightly farther away, in the parafoveal region, readers can obtain partial information about upcoming words. This advance information is called parafoveal preview. It helps readers prepare for the next fixation, improving efficiency and reducing processing time when the eyes arrive at the upcoming word. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/34881946/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The perceptual span is dynamically adjusted in response...by JM Meixner · 2022 · Cited by 41 — The perceptual span describes the s...</span></span></span>
+Near the centre of fixation, readers can identify letters and words with high accuracy. Slightly farther away, in the parafoveal region, readers can obtain partial information about upcoming words. This advance information is called parafoveal preview. It helps readers prepare for the next fixation, improving efficiency and reducing processing time when the eyes arrive at the upcoming word.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/34881946/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The perceptual span is dynamically adjusted in response...by JM Meixner · 2022 · Cited by 41 — The perceptual span describes the s...</span></span></span>
 
-The key point is that preview is not the same as fully reading. A reader may gain clues about word length, letter patterns, or likely identity before directly fixating a word, but detailed recognition still depends heavily on bringing that word into central vision. Research consistently shows that parafoveal information aids reading rather than replacing normal fixation-based word recognition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/34881946/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The perceptual span is dynamically adjusted in response...by JM Meixner · 2022 · Cited by 41 — The perceptual span describes the s...</span></span></span>
+The key point is that preview is not the same as fully reading. A reader may gain clues about word length, letter patterns, or likely identity before directly fixating a word, but detailed recognition still depends heavily on bringing that word into central vision. Research consistently shows that parafoveal information aids reading rather than replacing normal fixation-based word recognition.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/34881946/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The perceptual span is dynamically adjusted in response...by JM Meixner · 2022 · Cited by 41 — The perceptual span describes the s...</span></span></span>
 
-Even fast readers continue to rely on this process. Studies comparing faster and slower readers find that faster readers tend to have somewhat larger perceptual spans, but the difference is modest. A larger span does not eliminate the need for sequential fixations or transform [peripheral vision]({{ 'peripheral-vision/' | relative_url }}) into high-resolution vision. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEye movements, the perceptual span, and reading speed</span><span class="citation-popover-snippet">by K Rayner · 2010 · Cited by 462 — The perceptual span or region of effective vision during eye fixations in reading was examined as...</span></span></span>
+Even fast readers continue to rely on this process. Studies comparing faster and slower readers find that faster readers tend to have somewhat larger perceptual spans, but the difference is modest. A larger span does not eliminate the need for sequential fixations or transform [peripheral vision]({{ 'peripheral-vision/' | relative_url }}) into high-resolution vision.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEye movements, the perceptual span, and reading speed</span><span class="citation-popover-snippet">by K Rayner · 2010 · Cited by 462 — The perceptual span or region of effective vision during eye fixations in reading was examined as...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_speed_reading_71e807_perceptual_sp_1579db-Illustration-2-dark.svg" | relative_url }}" alt="Visual span illustration 2" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_speed_reading_71e807_perceptual_sp_1579db-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_speed_reading_71e807_perceptual_sp_1579db-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -319,11 +319,11 @@ Even fast readers continue to rely on this process. Studies comparing faster and
 
 The biological reason is straightforward. Human vision is not uniformly sharp across the visual field.
 
-The fovea, a small central region of the retina, provides the highest visual acuity. Outside that region, visual detail declines rapidly. Peripheral vision remains excellent for detecting movement, layout, and general structure, but it is much less effective for identifying precise letter sequences and word identities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1706.04568" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">SideEye: A Generative Neural Network Based Simulator of Human Peripheral VisionJune 14, 2017...</span><span class="citation-popover-meta">Published: June 14, 2017</span></span></span>
+The fovea, a small central region of the retina, provides the highest visual acuity. Outside that region, visual detail declines rapidly. Peripheral vision remains excellent for detecting movement, layout, and general structure, but it is much less effective for identifying precise letter sequences and word identities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1706.04568" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">SideEye: A Generative Neural Network Based Simulator of Human Peripheral VisionJune 14, 2017...</span><span class="citation-popover-meta">Published: June 14, 2017</span></span></span>
 
-Reading places unusually high demands on visual precision because many words differ by only one or two letters. Distinguishing “form” from “from” or “trial” from “trail” requires detail that peripheral vision does not reliably provide. Consequently, readers move their eyes so that important words fall within the highest-resolution part of the visual system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wexler.free.fr/library/files/rayner%20%281998%29%20eye%20movements%20in%20reading%20and%20information%20processing.%2020%20years%20of%20research.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wexler.free.fr">[Wexler]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wexler.free.fr</span><span class="citation-popover-snippet">Eye Movements in Reading and Information Processingby K Rayner · Cited by 11796 — Rayner (1986) found that beginning readers had a...</span></span></span>
+Reading places unusually high demands on visual precision because many words differ by only one or two letters. Distinguishing “form” from “from” or “trial” from “trail” requires detail that peripheral vision does not reliably provide. Consequently, readers move their eyes so that important words fall within the highest-resolution part of the visual system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wexler.free.fr/library/files/rayner%20%281998%29%20eye%20movements%20in%20reading%20and%20information%20processing.%2020%20years%20of%20research.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wexler.free.fr">[Wexler]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wexler.free.fr</span><span class="citation-popover-snippet">Eye Movements in Reading and Information Processingby K Rayner · Cited by 11796 — Rayner (1986) found that beginning readers had a...</span></span></span>
 
-Researchers have tested whether enlarging or enhancing peripheral text allows readers to process substantially more information. Results generally indicate that visual acuity alone is not the main bottleneck. Even when parafoveal text is manipulated to make it easier to see, readers do not suddenly process dramatically larger portions of text. Attention and language processing constraints remain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://eprints.gla.ac.uk/32968/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eprints.gla.ac.uk">[Enlighten Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eprints.gla.ac.uk</span><span class="citation-popover-snippet">parafoveal text is magnified to equalize its perceptual impact with concurrent...</span></span></span>
+Researchers have tested whether enlarging or enhancing peripheral text allows readers to process substantially more information. Results generally indicate that visual acuity alone is not the main bottleneck. Even when parafoveal text is manipulated to make it easier to see, readers do not suddenly process dramatically larger portions of text. Attention and language processing constraints remain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://eprints.gla.ac.uk/32968/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eprints.gla.ac.uk">[Enlighten Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eprints.gla.ac.uk</span><span class="citation-popover-snippet">parafoveal text is magnified to equalize its perceptual impact with concurrent...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5RfMMBTLDms" title="A Psychology Professor discovered the secret to SPEED READING - it&#x27;s simple" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5RfMMBTLDms" target="_blank" rel="noopener noreferrer">A Psychology Professor discovered the secret to SPEED READING - it&#x27;s simple</a></p><p class="youtube-embed-meta">Channel: Python Programmer &middot; Views: 188.8K &middot; Uploaded: November 2023 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5RfMMBTLDms" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5RfMMBTLDms">Open on YouTube</a></p></div></div></div>
@@ -332,271 +332,271 @@ Researchers have tested whether enlarging or enhancing peripheral text allows re
 
 Many speed-reading systems take a real scientific concept—the perceptual span—and extend it far beyond what the evidence supports.
 
-One common claim is that training can expand visual span until readers absorb entire lines in a single fixation. Research does show that perceptual span varies with reading skill and reading conditions. It can expand somewhat in skilled readers and contract when text becomes difficult. However, the documented changes are incremental, not transformative. The span remains a relatively narrow region centred on fixation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEye movements, the perceptual span, and reading speed</span><span class="citation-popover-snippet">by K Rayner · 2010 · Cited by 462 — The perceptual span or region of effective vision during eye fixations in reading was examined as...</span></span></span>
+One common claim is that training can expand visual span until readers absorb entire lines in a single fixation. Research does show that perceptual span varies with reading skill and reading conditions. It can expand somewhat in skilled readers and contract when text becomes difficult. However, the documented changes are incremental, not transformative. The span remains a relatively narrow region centred on fixation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEye movements, the perceptual span, and reading speed</span><span class="citation-popover-snippet">by K Rayner · 2010 · Cited by 462 — The perceptual span or region of effective vision during eye fixations in reading was examined as...</span></span></span>
 
-Another claim is that readers can learn to bypass normal [eye movements]({{ 'eye-tradeoff/' | relative_url }}) and rely primarily on peripheral vision. This idea conflicts with decades of [eye-tracking]({{ 'eye-tracking/' | relative_url }}) evidence showing that comprehension depends on coordinated fixations, word recognition, and language processing. If peripheral vision could substitute for direct fixation, researchers would not observe the strong effects of restricting visible text outside the perceptual span. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/3701249/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">NIHby K Rayner · 1986 · Cited by 885 — Using a moving window technique, it was found that the perceptual span of beginning reade...</span></span></span>
+Another claim is that readers can learn to bypass normal [eye movements]({{ 'eye-tradeoff/' | relative_url }}) and rely primarily on peripheral vision. This idea conflicts with decades of [eye-tracking]({{ 'eye-tracking/' | relative_url }}) evidence showing that comprehension depends on coordinated fixations, word recognition, and language processing. If peripheral vision could substitute for direct fixation, researchers would not observe the strong effects of restricting visible text outside the perceptual span.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/3701249/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">NIHby K Rayner · 1986 · Cited by 885 — Using a moving window technique, it was found that the perceptual span of beginning reade...</span></span></span>
 
-The broader review literature on speed reading reaches a similar conclusion. There is no evidence that readers can routinely double or triple reading speed while maintaining full comprehension by simply widening visual intake. Improvements in reading rate usually come from [skimming]({{ 'skimming/' | relative_url }}), skipping, or accepting reduced understanding, not from unlocking hidden visual capacity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2USF Faculty]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 534 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</span></span></span>
+The broader review literature on speed reading reaches a similar conclusion. There is no evidence that readers can routinely double or triple reading speed while maintaining full comprehension by simply widening visual intake. Improvements in reading rate usually come from [skimming]({{ 'skimming/' | relative_url }}), skipping, or accepting reduced understanding, not from unlocking hidden visual capacity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2USF Faculty]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 534 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_speed_reading_71e807_perceptual_sp_1579db-Illustration-3-dark.svg" | relative_url }}" alt="Visual span illustration 3" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_speed_reading_71e807_perceptual_sp_1579db-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_speed_reading_71e807_perceptual_sp_1579db-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What This Means for Increasing Reading Speed
 
-Perceptual-span research supports a more realistic view of reading improvement. Skilled readers often make better use of information around fixation and may require fewer unnecessary eye movements. They can become more efficient. What they do not do is convert peripheral vision into a mechanism for reading entire lines with the same accuracy as directly viewed text. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEye movements, the perceptual span, and reading speed</span><span class="citation-popover-snippet">by K Rayner · 2010 · Cited by 462 — The perceptual span or region of effective vision during eye fixations in reading was examined as...</span></span></span>
+Perceptual-span research supports a more realistic view of reading improvement. Skilled readers often make better use of information around fixation and may require fewer unnecessary eye movements. They can become more efficient. What they do not do is convert peripheral vision into a mechanism for reading entire lines with the same accuracy as directly viewed text.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEye movements, the perceptual span, and reading speed</span><span class="citation-popover-snippet">by K Rayner · 2010 · Cited by 462 — The perceptual span or region of effective vision during eye fixations in reading was examined as...</span></span></span>
 
-For readers seeking greater speed, the practical lesson is that gains usually come from better comprehension strategies, familiarity with vocabulary and subject matter, and flexible adjustment between skimming and [careful reading]({{ 'careful-reading/' | relative_url }}). The visual system already extracts useful information beyond the current word, but its limits are well documented. Those limits make claims of reading whole pages at a glance far less plausible than advertisements often suggest. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2USF Faculty]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 534 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</span></span></span>
+For readers seeking greater speed, the practical lesson is that gains usually come from better comprehension strategies, familiarity with vocabulary and subject matter, and flexible adjustment between skimming and [careful reading]({{ 'careful-reading/' | relative_url }}). The visual system already extracts useful information beyond the current word, but its limits are well documented. Those limits make claims of reading whole pages at a glance far less plausible than advertisements often suggest.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2USF Faculty]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 534 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zQmf5TkJrJ8" title="The Brain&#x27;s Challenge: Processing: What Eye Movements During Reading Reveal About Processing Speed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zQmf5TkJrJ8" target="_blank" rel="noopener noreferrer">The Brain&#x27;s Challenge: Processing: What Eye Movements During Reading Reveal About Processing Speed</a></p><p class="youtube-embed-meta">Channel: The Children of the Code Project &middot; Views: 32.9K &middot; Uploaded: April 2012 &middot; Length: 2 minutes 24 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zQmf5TkJrJ8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zQmf5TkJrJ8">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can Your Eyes Really Read Whole Lines?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can Your Eyes Really Read Whole Lines?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Focuses on reading for understanding rather than raw speed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Focuses on reading for understanding rather than raw speed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Visual+Intelligence+by+Amy+E.+Herman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Visual Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4_XHBQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Visual Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Visual+Intelligence+by+Amy+E.+Herman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Visual Intelligence">Visual Intelligence</a>
-        </h4>
-        <p class="fr-book-author">By Amy E. Herman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Visual+Intelligence+by+Amy+E.+Herman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Visual Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4_XHBQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Visual Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Visual+Intelligence+by+Amy+E.+Herman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Visual Intelligence">Visual Intelligence</a>
+</h4>
+<p class="fr-book-author">By Amy E. Herman</p>
         
-        <p class="fr-book-desc">Offers insight into the limits of visual information processing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Visual+Intelligence+by+Amy+E.+Herman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers insight into the limits of visual information processing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Visual+Intelligence+by+Amy+E.+Herman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading in the Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6649793-M.jpg" alt="Cover for Reading in the Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading in the Brain">Reading in the Brain</a>
-        </h4>
-        <p class="fr-book-author">By Stanislas Dehaene</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading in the Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6649793-M.jpg" alt="Cover for Reading in the Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading in the Brain">Reading in the Brain</a>
+</h4>
+<p class="fr-book-author">By Stanislas Dehaene</p>
         
-        <p class="fr-book-desc">First published 2009. Subjects: Science, Nonfiction, Psychology, Psychology of Reading, Reading.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2009. Subjects: Science, Nonfiction, Psychology, Psychology of Reading, Reading.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Breakthrough rapid reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/84360-M.jpg" alt="Cover for Breakthrough rapid reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breakthrough rapid reading">Breakthrough rapid reading</a>
-        </h4>
-        <p class="fr-book-author">By Peter Kump</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Breakthrough rapid reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/84360-M.jpg" alt="Cover for Breakthrough rapid reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breakthrough rapid reading">Breakthrough rapid reading</a>
+</h4>
+<p class="fr-book-author">By Peter Kump</p>
         
-        <p class="fr-book-desc">First published 1979. Subjects: Speed reading, Rapid reading, Du shu fang fa.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1979. Subjects: Speed reading, Rapid reading, Du shu fang fa.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Visual+Intelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Visual Intelligence</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Reading+in+the+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Reading in the Brain</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Visual+Intelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Visual Intelligence</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Reading+in+the+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Reading in the Brain</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCEye movements, the perceptual span, and reading speed  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by K Rayner · 2010 · Cited by 462 — The perceptual span or region of effective vision during eye fixations in reading was examined as...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by K Rayner · 2010 · Cited by 462 — The perceptual span or region of effective vision during eye fixations in reading was examined as...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: faculty.cas.usf.edu  
    Title: Rayner Schotter Masson Potter Treiman 2016 PSPI  
-   Link: <a href="https://faculty.cas.usf.edu/eschotter/papers/Rayner_Schotter_Masson_Potter_Treiman_2016_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://faculty.cas.usf.edu/eschotter/papers/Rayner_Schotter_Masson_Potter_Treiman_2016_PSPI.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>USF FacultyHow Do We Read, and Can Speed Reading Help?by K Rayner · 2016 · Cited by 533 — The current article reviews what the scientific...</p></details>
+   Link:<a href="https://faculty.cas.usf.edu/eschotter/papers/Rayner_Schotter_Masson_Potter_Treiman_2016_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://faculty.cas.usf.edu/eschotter/papers/Rayner_Schotter_Masson_Potter_Treiman_2016_PSPI.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USF FacultyHow Do We Read, and Can Speed Reading Help?by K Rayner · 2016 · Cited by 533 — The current article reviews what the scientific...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.3758/s13414-015-0942-1" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13414-015-0942-1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkIndividual differences in the perceptual span during readingby W Choi · 2015 · Cited by 79 — The perceptual span for skilled...</p></details>
+   Link:<a href="https://link.springer.com/article/10.3758/s13414" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13414</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkIndividual differences in the perceptual span during readingby W Choi · 2015 · Cited by 79 — The perceptual span for skilled...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11335319/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11335319/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Perceptual Span in Dyslexic Reading and Visual Searchby SG Luke · 2024 · Cited by 11 — For typical readers of alphabetic languages, the p...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11335319/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11335319/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Perceptual Span in Dyslexic Reading and Visual Searchby SG Luke · 2024 · Cited by 11 — For typical readers of alphabetic languages, the p...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.3758/s13414-019-01960-9" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13414-019-01960-9</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkFlexibility in the perceptual span during readingby J Su · 2020 · Cited by 24 — Readers can acquire useful information from...</p></details>
+   Link:<a href="https://link.springer.com/article/10.3758/s13414-019-01960-9" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13414-019-01960-9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkFlexibility in the perceptual span during readingby J Su · 2020 · Cited by 24 — Readers can acquire useful information from...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3925305/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3925305/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence for direct control of eye movements during readingby M Dambacher · 2013 · Cited by 28 — Thus, there is evidence that eye move...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3925305/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3925305/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence for direct control of eye movements during readingby M Dambacher · 2013 · Cited by 28 — Thus, there is evidence that eye move...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.3758/PBR.17.6.834" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/PBR.17.6.834</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkEye movements, the perceptual span, and reading speedby K Rayner · 2010 · Cited by 462 — The main findings were that fast re...</p></details>
+   Link:<a href="https://link.springer.com/article/10.3758/PBR.17.6.834" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/PBR.17.6.834</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkEye movements, the perceptual span, and reading speedby K Rayner · 2010 · Cited by 462 — The main findings were that fast re...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1706.04568" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1706.04568</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SideEye: A Generative Neural Network Based Simulator of Human Peripheral VisionJune 14, 2017...</p></details>
+   Link:<a href="https://arxiv.org/abs/1706.04568" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1706.04568</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SideEye: A Generative Neural Network Based Simulator of Human Peripheral VisionJune 14, 2017...</p></details>
    Published: June 14, 2017  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med How Do We Read, and Can Speed Reading Help?  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26769745/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by K Rayner · 2016 · Cited by 534 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26769745/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by K Rayner · 2016 · Cited by 534 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/3701249/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/3701249/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby K Rayner · 1986 · Cited by 885 — Using a moving window technique, it was found that the perceptual span of beginning reade...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/3701249/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/3701249/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby K Rayner · 1986 · Cited by 885 — Using a moving window technique, it was found that the perceptual span of beginning reade...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/34881946/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/34881946/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The perceptual span is dynamically adjusted in response...by JM Meixner · 2022 · Cited by 41 — The perceptual span describes the s...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/34881946/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/34881946/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The perceptual span is dynamically adjusted in response...by JM Meixner · 2022 · Cited by 41 — The perceptual span describes the s...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: wexler.free.fr  
-   Link: <a href="https://wexler.free.fr/library/files/rayner%20%281998%29%20eye%20movements%20in%20reading%20and%20information%20processing.%2020%20years%20of%20research.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wexler.free.fr/library/files/rayner%20%281998%29%20eye%20movements%20in%20reading%20and%20information%20processing.%2020%20years%20of%20research.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eye Movements in Reading and Information Processingby K Rayner · Cited by 11796 — Rayner (1986) found that beginning readers had a...</p></details>
+   Link:<a href="https://wexler.free.fr/library/files/rayner%20%281998%29%20eye%20movements%20in%20reading%20and%20information%20processing.%2020%20years%20of%20research.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wexler.free.fr/library/files/rayner%20%281998%29%20eye%20movements%20in%20reading%20and%20information%20processing.%2020%20years%20of%20research.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eye Movements in Reading and Information Processingby K Rayner · Cited by 11796 — Rayner (1986) found that beginning readers had a...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: eprints.gla.ac.uk  
-   Link: <a href="https://eprints.gla.ac.uk/32968/" target="_blank" rel="noopener noreferrer nofollow">https://eprints.gla.ac.uk/32968/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>parafoveal text is magnified to equalize its perceptual impact with concurrent...</p></details>
+   Link:<a href="https://eprints.gla.ac.uk/32968/" target="_blank" rel="noopener noreferrer nofollow">https://eprints.gla.ac.uk/32968/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>parafoveal text is magnified to equalize its perceptual impact with concurrent...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCA Theoretical Analysis of the Perceptual Span based  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3996545/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3996545/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by S Risse · 2014 · Cited by 42 — Eye-movement experiments suggest that the perceptual span during reading is larger than the fixated...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3996545/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3996545/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by S Risse · 2014 · Cited by 42 — Eye-movement experiments suggest that the perceptual span during reading is larger than the fixated...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: psychologicalscience.org  
    Title: speed reading  
-   Link: <a href="https://www.psychologicalscience.org/publications/speed_reading.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/publications/speed_reading.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>So Much to Read, So Little Time: How Do We...13 Jan 2016 — The report shows there is no quick and easy way to improve reading speed whil...</p></details>
+   Link:<a href="https://www.psychologicalscience.org/publications/speed_reading.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/publications/speed_reading.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>So Much to Read, So Little Time: How Do We...13 Jan 2016 — The report shows there is no quick and easy way to improve reading speed whil...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Eye" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eye</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EyeAn eye is a sensory organ that allows an organism to perceive visual information. It detects light and converts it into electro-che...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Eye" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eye</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EyeAn eye is a sensory organ that allows an organism to perceive visual information. It detects light and converts it into electro-che...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Speed reading  
-   Link: <a href="https://en.wikipedia.org/wiki/Speed_reading" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Speed_reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Speed readingSpeed reading is any of many techniques claiming to improve one&#x27;s ability to read quickly. Speed-reading methods include...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Speed_reading" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Speed_reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Speed readingSpeed reading is any of many techniques claiming to improve one&#x27;s ability to read quickly. Speed-reading methods include...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: rayner.com  
-   Link: <a href="https://rayner.com/" target="_blank" rel="noopener noreferrer nofollow">https://rayner.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rayner USA | Global Ophthalmic SolutionsRayner is a British manufacturer of ophthalmic medical products, including intraocular lenses (IO...</p></details>
+   Link:<a href="https://rayner.com/" target="_blank" rel="noopener noreferrer nofollow">https://rayner.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rayner USA | Global Ophthalmic SolutionsRayner is a British manufacturer of ophthalmic medical products, including intraocular lenses (IO...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: memletics.com  
-   Link: <a href="https://www.memletics.com/speed-reading-course" target="_blank" rel="noopener noreferrer nofollow">https://www.memletics.com/speed-reading-course</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Speed Reading | Memletics Accelerated Learning ManualThere&#x27;s a hard physiological ceiling on reading speed with full comprehension, somew...</p></details>
+   Link:<a href="https://www.memletics.com/speed-reading-course" target="_blank" rel="noopener noreferrer nofollow">https://www.memletics.com/speed-reading-course</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Speed Reading | Memletics Accelerated Learning ManualThere&#x27;s a hard physiological ceiling on reading speed with full comprehension, somew...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: scholarpedia.org  
    Title: Eye movements  
-   Link: <a href="https://www.scholarpedia.org/article/Eye_movements" target="_blank" rel="noopener noreferrer nofollow">https://www.scholarpedia.org/article/Eye_movements</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sep 17, 2007 — The perceptual span is clearly smaller in reading than in either scene perception or visual search. Hence, for example, fi...</p></details>
+   Link:<a href="https://www.scholarpedia.org/article/Eye_movements" target="_blank" rel="noopener noreferrer nofollow">https://www.scholarpedia.org/article/Eye_movements</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sep 17, 2007 — The perceptual span is clearly smaller in reading than in either scene perception or visual search. Hence, for example, fi...</p></details>
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/372308452_Eye_movements_and_the_perceptual_span_in_disordered_reading_A_comparison_of_schizophrenia_and_dyslexia" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/372308452_Eye_movements_and_the_perceptual_span_in_disordered_reading_A_comparison_of_schizophrenia_and_dyslexia</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eye movements and the perceptual span in disordered...Mar 20, 2026 — However, despite these reductions, the dyslexia group exhibited a l...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/372308452_Eye_movements_and_the_perceptual_span_in_disordered_reading_A_comparison_of_schizophrenia_and_dyslexia" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/372308452_Eye_movements_and_the_perceptual_span_in_disordered_reading_A_comparison_of_schizophrenia_and_dyslexia</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eye movements and the perceptual span in disordered...Mar 20, 2026 — However, despite these reductions, the dyslexia group exhibited a l...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/49694262_Eye_movements_the_perceptual_span_and_reading_speed" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/49694262_Eye_movements_the_perceptual_span_and_reading_speed</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eye movements, the perceptual span, and reading speedThe term &#x27;perceptual span&#x27; describes the number of characters visible in one fixatio...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/49694262_Eye_movements_the_perceptual_span_and_reading_speed" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/49694262_Eye_movements_the_perceptual_span_and_reading_speed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eye movements, the perceptual span, and reading speedThe term &#x27;perceptual span&#x27; describes the number of characters visible in one fixatio...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: ryanair.com  
-   Link: <a href="https://www.ryanair.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.ryanair.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Official Ryanair website | Cheap flights in Europe | RyanairBook Cheap Flights direct at the official Ryanair website for Europe&#x27;s lowest...</p></details>
+   Link:<a href="https://www.ryanair.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.ryanair.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Official Ryanair website | Cheap flights in Europe | RyanairBook Cheap Flights direct at the official Ryanair website for Europe&#x27;s lowest...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=D2aZ3THL8BQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=D2aZ3THL8BQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Speed Readers Won&#x27;t Tell YouReading fast leads to misunderstandings. Good authors pick their words precisely and by skimming through...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=D2aZ3THL8BQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=D2aZ3THL8BQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Speed Readers Won&#x27;t Tell YouReading fast leads to misunderstandings. Good authors pick their words precisely and by skimming through...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: ideals.illinois.edu  
    Title: IDEALSPerceptual span for letter distinctions during reading /  
-   Link: <a href="https://www.ideals.illinois.edu/items/17803/bitstreams/63880/data.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ideals.illinois.edu/items/17803/bitstreams/63880/data.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by NR Underwood · 1983 · Cited by 259 — McConkie and Rayner (1975) introduced a technique for investigating the size of the visual...</p></details>
+   Link:<a href="https://www.ideals.illinois.edu/items/17803/bitstreams/63880/data.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ideals.illinois.edu/items/17803/bitstreams/63880/data.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by NR Underwood · 1983 · Cited by 259 — McConkie and Rayner (1975) introduced a technique for investigating the size of the visual...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: publishingperspectives.com  
    Title: speed reading may not really be the thing its promised to be  
-   Link: <a href="https://publishingperspectives.com/2016/02/speed-reading-may-not-really-be-the-thing-its-promised-to-be/" target="_blank" rel="noopener noreferrer nofollow">https://publishingperspectives.com/2016/02/speed-reading-may-not-really-be-the-thing-its-promised-to-be/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Not So Fast: Speed-Reading May Not Be The Answer1 Feb 2016 — A recent review of the actual science on the subject says that speed-reading...</p></details>
+   Link:<a href="https://publishingperspectives.com/2016/02/speed-reading-may-not-really-be-the-thing-its-promised-to-be/" target="_blank" rel="noopener noreferrer nofollow">https://publishingperspectives.com/2016/02/speed-reading-may-not-really-be-the-thing-its-promised-to-be/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Not So Fast: Speed-Reading May Not Be The Answer1 Feb 2016 — A recent review of the actual science on the subject says that speed-reading...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=zQmf5TkJrJ8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zQmf5TkJrJ8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Brain&#x27;s Challenge: Processing: What Eye Movements During Reading Reveal About Processing Speed - YouTube...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=zQmf5TkJrJ8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zQmf5TkJrJ8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Brain&#x27;s Challenge: Processing: What Eye Movements During Reading Reveal About Processing Speed - YouTube...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: researchgate.net  
    Title: (PDF) Does speed-reading training work, and if so, why?  
-   Link: <a href="https://www.researchgate.net/publication/367560632_Does_speed-reading_training_work_and_if_so_why_Effects_of_speed-reading_training_and_metacognitive_training_on_reading_speed_comprehension_and_eye_movements" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/367560632_Does_speed-reading_training_work_and_if_so_why_Effects_of_speed-reading_training_and_metacognitive_training_on_reading_speed_comprehension_and_eye_movements</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Feb 2023 — Speed reading techniques have the potential to bridge this gap by improving reading speed without sacrificing comprehension...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/367560632_Does_speed-reading_training_work_and_if_so_why_Effects_of_speed-reading_training_and_metacognitive_training_on_reading_speed_comprehension_and_eye_movements" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/367560632_Does_speed-reading_training_work_and_if_so_why_Effects_of_speed-reading_training_and_metacognitive_training_on_reading_speed_comprehension_and_eye_movements</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1 Feb 2023 — Speed reading techniques have the potential to bridge this gap by improving reading speed without sacrificing comprehension...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/figure/The-perceptual-span-for-the-foveal-and-parafoveal-area-during-text-reading_fig1_220827473" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/The-perceptual-span-for-the-foveal-and-parafoveal-area-during-text-reading_fig1_220827473</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Although humans are able to dissociate their attention from the foveal...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/figure/The-perceptual-span-for-the-foveal-and-parafoveal-area-during-text-reading_fig1_220827473" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/The-perceptual-span-for-the-foveal-and-parafoveal-area-during-text-reading_fig1_220827473</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Although humans are able to dissociate their attention from the foveal...Read more...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/290492746_So_Much_to_Read_So_Little_Time_How_Do_We_Read_and_Can_Speed_Reading_Help" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/290492746_So_Much_to_Read_So_Little_Time_How_Do_We_Read_and_Can_Speed_Reading_Help</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It is unlikely that readers will be able to double or triple their reading speeds.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/290492746_So_Much_to_Read_So_Little_Time_How_Do_We_Read_and_Can_Speed_Reading_Help" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/290492746_So_Much_to_Read_So_Little_Time_How_Do_We_Read_and_Can_Speed_Reading_Help</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It is unlikely that readers will be able to double or triple their reading speeds.Read more...</p></details>

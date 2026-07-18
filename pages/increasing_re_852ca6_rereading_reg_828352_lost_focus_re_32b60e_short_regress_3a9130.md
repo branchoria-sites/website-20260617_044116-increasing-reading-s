@@ -269,7 +269,7 @@ image: /assets/images/increasing_re_852ca6_rereading_reg_828352_lost_focus_re_32
 
 ## Introduction
 
-When a sentence suddenly stops making sense, the fastest response is usually not to restart the page. A short regression—a brief look back to the specific point where meaning was lost—often restores comprehension with far less time cost. [Eye-tracking]({{ 'eye-tracking/' | relative_url }}) research shows that backward [eye movements]({{ 'eye-tradeoff/' | relative_url }}), known as regressions, are a normal part of skilled reading rather than evidence of failure. Readers naturally move back when a definition, reference, or logical connection has not been fully integrated into their understanding. The key for increasing reading speed is to keep these lookbacks targeted: return only far enough to rebuild the missing link, then resume forward reading. Studies of reading behaviour suggest that regressions can support comprehension when they are used to reprocess the relevant text rather than repeatedly rereading large sections that were already understood. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">The function of these &quot;regressions&quot; is still largely unknown</span><span class="citation-popover-snippet">The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 132 — Standard text reading involves frequent...</span></span></span>
+When a sentence suddenly stops making sense, the fastest response is usually not to restart the page. A short regression—a brief look back to the specific point where meaning was lost—often restores comprehension with far less time cost. [Eye-tracking]({{ 'eye-tracking/' | relative_url }}) research shows that backward [eye movements]({{ 'eye-tradeoff/' | relative_url }}), known as regressions, are a normal part of skilled reading rather than evidence of failure. Readers naturally move back when a definition, reference, or logical connection has not been fully integrated into their understanding. The key for increasing reading speed is to keep these lookbacks targeted: return only far enough to rebuild the missing link, then resume forward reading. Studies of reading behaviour suggest that regressions can support comprehension when they are used to reprocess the relevant text rather than repeatedly rereading large sections that were already understood.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">The function of these &quot;regressions&quot; is still largely unknown</span><span class="citation-popover-snippet">The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 132 — Standard text reading involves frequent...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_rereading_reg_828352_lost_focus_re_32b60e_short_regress_3a9130-Illustration-1-dark.svg" | relative_url }}" alt="Short Lookbacks illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_rereading_reg_828352_lost_focus_re_32b60e_short_regress_3a9130-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_rereading_reg_828352_lost_focus_re_32b60e_short_regress_3a9130-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -279,7 +279,7 @@ The practical answer is: as little as necessary to make the text coherent again.
 
 Many readers treat rereading as an all-or-nothing decision. Either they continue despite confusion or they restart an entire paragraph. Short [regressions]({{ 'lookbacks/' | relative_url }}) offer a middle option. Instead of asking, “Should I reread this page?”, ask, “What exact piece of information is missing?”
 
-Research distinguishes between large regressions used to revise understanding and smaller regressions used to correct local reading problems. The larger comprehension-driven regressions occur when readers need to reconnect ideas, resolve ambiguity, or recover information that has become detached from the current sentence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2411-5150/3/3/35" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">We distinguish two types of these movements (regressions). One type consists of relatively large...Read more...</span></span></span>
+Research distinguishes between large regressions used to revise understanding and smaller regressions used to correct local reading problems. The larger comprehension-driven regressions occur when readers need to reconnect ideas, resolve ambiguity, or recover information that has become detached from the current sentence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2411-5150/3/3/35" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">We distinguish two types of these movements (regressions). One type consists of relatively large...Read more...</span></span></span>
 
 For speed-focused reading, the objective is not perfect certainty. The objective is restoring continuity. Once the missing connection has been recovered, additional rereading usually provides diminishing returns.
 
@@ -287,7 +287,7 @@ For speed-focused reading, the objective is not perfect certainty. The objective
 
 Comprehension depends on connecting new information to what has just been read. When one link in that chain is missed, everything after it may feel unclear even if the later sentences themselves are simple.
 
-A short regression works because it targets the broken connection directly. Research on reading regressions indicates that readers use backward eye movements to reread information that supports understanding rather than merely returning to a location as a memory cue. In experimental work, the evidence favoured actual rereading as the mechanism that improves comprehension. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">The function of these &quot;regressions&quot; is still largely unknown</span><span class="citation-popover-snippet">The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 132 — Standard text reading involves frequent...</span></span></span>
+A short regression works because it targets the broken connection directly. Research on reading regressions indicates that readers use backward eye movements to reread information that supports understanding rather than merely returning to a location as a memory cue. In experimental work, the evidence favoured actual rereading as the mechanism that improves comprehension.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">The function of these &quot;regressions&quot; is still largely unknown</span><span class="citation-popover-snippet">The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 132 — Standard text reading involves frequent...</span></span></span>
 
 A useful implementation rule is:
 
@@ -303,7 +303,7 @@ A useful implementation rule is:
 
 This approach treats rereading as a repair tool rather than a restart button.
 
-Interestingly, regressions are common even among proficient readers. Studies estimate that a meaningful proportion of reading eye movements move backwards through text, reflecting ongoing monitoring and [correction]({{ 'corrections/' | relative_url }}) during comprehension. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6235565/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by JR Folk · 2018 · Cited by 8 — Regressive eye movements are eye movements that move backwards through the text and comprise approxim...</span></span></span>
+Interestingly, regressions are common even among proficient readers. Studies estimate that a meaningful proportion of reading eye movements move backwards through text, reflecting ongoing monitoring and [correction]({{ 'corrections/' | relative_url }}) during comprehension.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6235565/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by JR Folk · 2018 · Cited by 8 — Regressive eye movements are eye movements that move backwards through the text and comprise approxim...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DGDkTyOt7gQ" title="Subvocalization | Things About Speed Reading Nobody Tells You" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DGDkTyOt7gQ" target="_blank" rel="noopener noreferrer">Subvocalization | Things About Speed Reading Nobody Tells You</a></p><p class="youtube-embed-meta">Channel: How to Genius &middot; Views: 165.9K &middot; Uploaded: March 2021 &middot; Length: 4 minutes 22 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DGDkTyOt7gQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DGDkTyOt7gQ">Open on YouTube</a></p></div></div></div>
@@ -316,7 +316,7 @@ Once the missing relationship has been restored, continuing to reread familiar m
 
 A practical stopping rule is simple: stop the moment the current sentence makes sense again.
 
-You do not need to remember every detail perfectly before moving on. Reading research consistently shows a balance between speed and comprehension. Efficient reading requires accepting that not every passage deserves exhaustive reprocessing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 531 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</span></span></span>
+You do not need to remember every detail perfectly before moving on. Reading research consistently shows a balance between speed and comprehension. Efficient reading requires accepting that not every passage deserves exhaustive reprocessing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 531 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</span></span></span>
 
 Signs that the regression has done its job include:
 
@@ -361,7 +361,7 @@ Imagine reading:
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * A problem is described.
-* A sentence begins with “however”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6802807/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Can Eye Movements Tell Us about Higher Level... - PMCby AE Cook · 2019 · Cited by 40 — The majority of eye tracking studies in reading a...</span></span></span>
+* A sentence begins with “however”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6802807/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Can Eye Movements Tell Us about Higher Level... - PMCby AE Cook · 2019 · Cited by 40 — The majority of eye tracking studies in reading a...</span></span></span>
 * A different conclusion follows.
 
 </div>
@@ -384,7 +384,7 @@ The efficient solution is to look back until the referent is located, then retur
 
 ## Why selective rereading supports reading speed
 
-Readers sometimes assume that every backward glance is evidence of poor reading. Eye-movement research suggests the opposite. Regressions are a normal component of comprehension and appear to serve a useful corrective function when understanding falters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2411-5150/3/3/35" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">We distinguish two types of these movements (regressions). One type consists of relatively large...Read more...</span></span></span>
+Readers sometimes assume that every backward glance is evidence of poor reading. Eye-movement research suggests the opposite. Regressions are a normal component of comprehension and appear to serve a useful corrective function when understanding falters.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2411-5150/3/3/35" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">We distinguish two types of these movements (regressions). One type consists of relatively large...Read more...</span></span></span>
 
 The real threat to reading speed is not the occasional regression. It is uncontrolled rereading that expands a small comprehension gap into a large time cost.
 
@@ -394,242 +394,242 @@ Short regressions preserve momentum because they match the repair to the size of
 <img src="{{ "/assets/images/increasing_re_852ca6_rereading_reg_828352_lost_focus_re_32b60e_short_regress_3a9130-Illustration-3-dark.svg" | relative_url }}" alt="Short Lookbacks illustration 3" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_rereading_reg_828352_lost_focus_re_32b60e_short_regress_3a9130-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_rereading_reg_828352_lost_focus_re_32b60e_short_regress_3a9130-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How much should you reread?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How much should you reread?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Directly relevant to deciding how much rereading is necessary.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Directly relevant to deciding how much rereading is necessary.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Work on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lZpFCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Work" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Work">Deep Work</a>
-        </h4>
-        <p class="fr-book-author">By Cal Newport</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Work on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lZpFCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Work" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Work">Deep Work</a>
+</h4>
+<p class="fr-book-author">By Cal Newport</p>
         
-        <p class="fr-book-desc">Helps reduce the attention lapses that trigger regressions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps reduce the attention lapses that trigger regressions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-        </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+</h4>
+<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Encourages efficient review instead of repetitive rereading.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages efficient review instead of repetitive rereading.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Reading+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading Mind on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Reading+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading Mind">Reading Mind</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Reading+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading Mind on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Reading+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading Mind">Reading Mind</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Explains how small corrective rereads support comprehension.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Reading+Mind&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how small corrective rereads support comprehension.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Reading+Mind&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Work&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Work</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Work&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Work</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2411-5150/3/3/35" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2411-5150/3/3/35</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>We distinguish two types of these movements (regressions). One type consists of relatively large...Read more...</p></details>
+   Link:<a href="https://www.mdpi.com/2411-5150/3/3/35" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2411-5150/3/3/35</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We distinguish two types of these movements (regressions). One type consists of relatively large...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6235565/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6235565/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by JR Folk · 2018 · Cited by 8 — Regressive eye movements are eye movements that move backwards through the text and comprise approxim...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6235565/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6235565/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by JR Folk · 2018 · Cited by 8 — Regressive eye movements are eye movements that move backwards through the text and comprise approxim...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/1995-8692/13/4/31" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1995-8692/13/4/31</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Long-range regressions to previously read words are guided by spatial and...</p></details>
+   Link:<a href="https://www.mdpi.com/1995-8692/13/4/31" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1995-8692/13/4/31</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Long-range regressions to previously read words are guided by spatial and...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2079-3200/12/11/112" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2079-3200/12/11/112</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Eye Movement Patterns in Russian-Speaking Adolescents...by A Berlin Khenis · 2024 · Cited by 4 — This exploratory eye-tracking study aim...</p></details>
+   Link:<a href="https://www.mdpi.com/2079-3200/12/11/112" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2079-3200/12/11/112</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eye Movement Patterns in Russian-Speaking Adolescents...by A Berlin Khenis · 2024 · Cited by 4 — This exploratory eye-tracking study aim...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: The function of these "regressions" is still largely unknown  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22886737/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 132 — Standard text reading involves frequent...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22886737/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 132 — Standard text reading involves frequent...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/27873185/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/27873185/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Regressions during reading: The cost depends on the causeby MA Eskenazi · 2017 · Cited by 31 — The [purpose](&amp;#123;&amp;#123; &#x27;purpose/&#x27; | relative_url &amp;#125;&amp;#125;) of the current study was...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/27873185/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/27873185/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Regressions during reading: The cost depends on the causeby MA Eskenazi · 2017 · Cited by 31 — The [purpose](&amp;#123;&amp;#123; &#x27;purpose/&#x27; | relative_url &amp;#125;&amp;#125;) of the current study was...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med How Do We Read, and Can [Speed Reading](&#123;&#123; 'myths/' | relative_url &#125;&#125;) Help?  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26769745/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by K Rayner · 2016 · Cited by 531 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26769745/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by K Rayner · 2016 · Cited by 531 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12409514/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12409514/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the rereading effect of digital reading through eye...by Y Xu · 2025 — This study aimed to investigate the differences in eye movement c...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12409514/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12409514/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the rereading effect of digital reading through eye...by Y Xu · 2025 — This study aimed to investigate the differences in eye movement c...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7888242/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7888242/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Model of Regressive Eye Movements during...by AF Weiss · 2020 · Cited by 7 — In this article we present a new eye movement con...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7888242/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7888242/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Model of Regressive Eye Movements during...by AF Weiss · 2020 · Cited by 7 — In this article we present a new eye movement con...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/33029808/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/33029808/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eye Movements Reveal About Later Comprehension...by R Southwell · 2020 · Cited by 48 — Using a predictive modeling approach, we trained...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/33029808/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/33029808/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eye Movements Reveal About Later Comprehension...by R Southwell · 2020 · Cited by 48 — Using a predictive modeling approach, we trained...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6802794/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6802794/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Several findings...Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6802794/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6802794/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Several findings...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12769648/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12769648/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by A Friede · 2026 · Cited by 1 — The function of regressions in reading: Backward eye movements allow rereading.... Comprehension is...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12769648/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12769648/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by A Friede · 2026 · Cited by 1 — The function of regressions in reading: Backward eye movements allow rereading.... Comprehension is...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6802807/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6802807/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Can Eye Movements Tell Us about Higher Level... - PMCby AE Cook · 2019 · Cited by 40 — The majority of eye tracking studies in reading a...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6802807/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6802807/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Can Eye Movements Tell Us about Higher Level... - PMCby AE Cook · 2019 · Cited by 40 — The majority of eye tracking studies in reading a...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/35321590/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/35321590/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Struggling Adult Readers Monitor Their Reading...by EL Tighe · 2023 · Cited by 23 — This study used a comprehension monitoring task with...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/35321590/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/35321590/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Struggling Adult Readers Monitor Their Reading...by EL Tighe · 2023 · Cited by 23 — This study used a comprehension monitoring task with...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7198234/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7198234/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Thorough reading involved longer total reading times and more rereading, and resulted in higher comprehension...Read...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7198234/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7198234/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thorough reading involved longer total reading times and more rereading, and resulted in higher comprehension...Read...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12641876/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12641876/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by M Markevich · 2025 — Successful reading comprehension depends on many factors, including text genre. Eye-tracking studies indicate...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12641876/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12641876/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by M Markevich · 2025 — Successful reading comprehension depends on many factors, including text genre. Eye-tracking studies indicate...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11845442/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11845442/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and word predictability during reading - PMC - NIHby A Pagán · 2025 · Cited by 3 — Our experiment provides compelling complementary evide...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11845442/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11845442/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and word predictability during reading - PMC - NIHby A Pagán · 2025 · Cited by 3 — Our experiment provides compelling complementary evide...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10046295/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10046295/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by P Bonifacci · 2023 · Cited by 18 — Cognitive and reading standardized tasks confirmed severe delays in reading in children with dys...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10046295/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10046295/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by P Bonifacci · 2023 · Cited by 18 — Cognitive and reading standardized tasks confirmed severe delays in reading in children with dys...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Eye" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eye</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EyeAn eye is a sensory organ that allows an organism to perceive visual information. It detects light and converts it into electro-che...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Eye" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eye</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EyeAn eye is a sensory organ that allows an organism to perceive visual information. It detects light and converts it into electro-che...</p></details>
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: d-nb.info  
-   Link: <a href="https://d-nb.info/1227301006/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1227301006/34</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>pping rate and probability of regressions can be modulated by specific reading of implicit processing demands...</p></details>
+   Link:<a href="https://d-nb.info/1227301006/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1227301006/34</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>pping rate and probability of regressions can be modulated by specific reading of implicit processing demands...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/230658181_The_function_of_regressions_in_reading_Backward_eye_movements_allow_rereading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/230658181_The_function_of_regressions_in_reading_Backward_eye_movements_allow_rereading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The function of regressions in reading: Backward...The most obvious explanation is that regressions allow for the rereading of pre...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/230658181_The_function_of_regressions_in_reading_Backward_eye_movements_allow_rereading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/230658181_The_function_of_regressions_in_reading_Backward_eye_movements_allow_rereading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The function of regressions in reading: Backward...The most obvious explanation is that regressions allow for the rereading of pre...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Subvocalization | Things About Speed Reading Nobody Tells You  
-   Link: <a href="http://www.youtube.com/watch?v=DGDkTyOt7gQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=DGDkTyOt7gQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Eye movements in reading&quot; fixations saccades regressions What Are Eye Movements In Reading? - Ultimate Study Hacks...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=DGDkTyOt7gQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=DGDkTyOt7gQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Eye movements in reading&quot; fixations saccades regressions What Are Eye Movements In Reading? - Ultimate Study Hacks...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=8QPQHJD1IUM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8QPQHJD1IUM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>sions triggered as a result of comprehension difficulty versus...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8QPQHJD1IUM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8QPQHJD1IUM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sions triggered as a result of comprehension difficulty versus...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=AcKkwFY1dpQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=AcKkwFY1dpQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Are Eye Movements In Reading? - Ultimate Study Hacks...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=AcKkwFY1dpQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=AcKkwFY1dpQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Are Eye Movements In Reading? - Ultimate Study Hacks...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: researchgate.net  
    Title: 334364752 Regressions during Reading  
-   Link: <a href="https://www.researchgate.net/publication/334364752_Regressions_during_Reading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/334364752_Regressions_during_Reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We distinguish two types of these movements (regressions). One type consists of relatively large...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/334364752_Regressions_during_Reading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/334364752_Regressions_during_Reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We distinguish two types of these movements (regressions). One type consists of relatively large...Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: What Are Eye Movements In Reading?  
-   Link: <a href="http://www.youtube.com/watch?v=G-tcgVA2L_Y" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=G-tcgVA2L_Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Subvocalization | Things About Speed Reading Nobody Tells You...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=G-tcgVA2L_Y" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=G-tcgVA2L_Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Subvocalization | Things About Speed Reading Nobody Tells You...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: 05o Eye movements in reading  
-   Link: <a href="http://www.youtube.com/watch?v=GPHtUAErmEs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=GPHtUAErmEs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Using Eye Movements: Evaluate Cognitive Processes Involved In Text Comprehension l Protocol Preview...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=GPHtUAErmEs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=GPHtUAErmEs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Using Eye Movements: Evaluate Cognitive Processes Involved In Text Comprehension l Protocol Preview...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5405257" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5405257</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eye Movements in Reading Go from Easy to...by AT Lopes Rego — One prevailing hypothesis is that regressions reflect comprehension proces...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5405257" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5405257</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eye Movements in Reading Go from Easy to...by AT Lopes Rego — One prevailing hypothesis is that regressions reflect comprehension proces...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: ila.onlinelibrary.wiley.com  
-   Link: <a href="https://ila.onlinelibrary.wiley.com/doi/full/10.1002/rrq.70023" target="_blank" rel="noopener noreferrer nofollow">https://ila.onlinelibrary.wiley.com/doi/full/10.1002/rrq.70023</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eye Movements From a “Read‐Only” Task to Predict...by DC Mézière · 2025 · Cited by 5 — In this study, we examined the usefulness of eye...</p></details>
+   Link:<a href="https://ila.onlinelibrary.wiley.com/doi/full/10.1002/rrq.70023" target="_blank" rel="noopener noreferrer nofollow">https://ila.onlinelibrary.wiley.com/doi/full/10.1002/rrq.70023</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eye Movements From a “Read‐Only” Task to Predict...by DC Mézière · 2025 · Cited by 5 — In this study, we examined the usefulness of eye...</p></details>

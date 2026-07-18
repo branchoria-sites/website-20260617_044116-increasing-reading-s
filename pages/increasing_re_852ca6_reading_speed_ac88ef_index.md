@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /increasing-re-852ca6-reading-speed/
 description: Focused pages that expand on Benchmarks.
-date: '2026-06-16'
+date: '2026'
 layout: default
 parent_basename: increasing_re_852ca6_reading_speed_ac88ef
 parent_title: Benchmarks
@@ -16,7 +16,7 @@ parent_permalink: /benchmarks/
 
 # Explore Topics in Benchmarks
 
-The following pages expand on the main **[Benchmarks]({{ '/benchmarks/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Benchmarks]({{ '/benchmarks/' | relative_url }})** page and cover its key branches in.
 
 - [Fiction vs Fact]({{ '/fiction-vs-fact/' | relative_url }})
 - [WPM Ranges]({{ '/wpm-ranges/' | relative_url }})

@@ -292,7 +292,7 @@ When readers first learn phrase reading, the biggest improvement often comes fro
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_useful_word_g_d937c7-Illustration-1-dark.svg" | relative_url }}" alt="Word Groups illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_useful_word_g_d937c7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_useful_word_g_d937c7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters because fluent reading depends on more than recognising individual words. Skilled readers naturally group words into meaningful units, allowing attention to stay on meaning rather than on decoding isolated words. Research on reading fluency consistently links accurate phrasing and prosody—the rhythm and grouping of language—to stronger comprehension and smoother reading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets+2EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-title">Reading Rockets Fluency</span><span class="citation-popover-snippet">Reading RocketsFluency: IntroductionFluency is the ability to read a text accurately, at a good pace, and with proper expression and comp...</span></span></span>
+This matters because fluent reading depends on more than recognising individual words. Skilled readers naturally group words into meaningful units, allowing attention to stay on meaning rather than on decoding isolated words. Research on reading fluency consistently links accurate phrasing and prosody—the rhythm and grouping of language—to stronger comprehension and smoother reading.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets+2EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-title">Reading Rockets Fluency</span><span class="citation-popover-snippet">Reading RocketsFluency: IntroductionFluency is the ability to read a text accurately, at a good pace, and with proper expression and comp...</span></span></span>
 
 ## Who or what the sentence is about
 
@@ -300,7 +300,7 @@ The first word groups worth spotting are [noun phrases]({{ 'noun-phrases/' | rel
 
 Instead of treating each word separately, read the whole phrase as a single meaning unit.
 
-Examples: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.readingrockets.org/blogs/shanahan-on-literacy/what-teachers-need-know-about-sentence-comprehension" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[readingrockets.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-title">what teachers need know about sentence comprehension</span><span class="citation-popover-snippet">Reading RocketsWhat Teachers Need to Know about Sentence...16 Aug 2022 — They suggest that teaching students how to read sentences aloud...</span></span></span>
+Examples:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.readingrockets.org/blogs/shanahan-on-literacy/what-teachers-need-know-about-sentence-comprehension" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[readingrockets.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-title">what teachers need know about sentence comprehension</span><span class="citation-popover-snippet">Reading RocketsWhat Teachers Need to Know about Sentence...16 Aug 2022 — They suggest that teaching students how to read sentences aloud...</span></span></span>
 
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
@@ -312,7 +312,7 @@ Examples: <span class="citation-chip-wrap"><a class="citation-chip" href="https:
 
 </div>
 
-Consider this sentence: <span class="citation-chip-wrap"><a class="citation-chip" href="https://centaur.reading.ac.uk/106198/1/Working%20Memory%20and%20L2%20Sentence%20Processing%20-%20Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centaur.reading.ac.uk">[centaur.reading.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centaur.reading.ac.uk</span><span class="citation-popover-title">reading.ac.uk Working memory and L2 sentence processing</span><span class="citation-popover-snippet">memory and L2 sentence processing - CentAURby I Cunnings · 2022 · Cited by 11 — In this chapter, I critically evaluate different models o...</span></span></span>
+Consider this sentence:<span class="citation-chip-wrap"><a class="citation-chip" href="https://centaur.reading.ac.uk/106198/1/Working%20Memory%20and%20L2%20Sentence%20Processing%20-%20Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centaur.reading.ac.uk">[centaur.reading.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centaur.reading.ac.uk</span><span class="citation-popover-title">reading.ac.uk Working memory and L2 sentence processing</span><span class="citation-popover-snippet">memory and L2 sentence processing - CentAURby I Cunnings · 2022 · Cited by 11 — In this chapter, I critically evaluate different models o...</span></span></span>
 
 *The exhausted rescue team reached the village before dawn.*
 
@@ -364,7 +364,7 @@ Seeing the whole action at once reduces the effort required to interpret tense, 
 
 Time phrases are another high-value group because they establish context quickly.
 
-Examples: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.readingrockets.org/blogs/shanahan-on-literacy/what-teachers-need-know-about-sentence-comprehension" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[readingrockets.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-title">what teachers need know about sentence comprehension</span><span class="citation-popover-snippet">Reading RocketsWhat Teachers Need to Know about Sentence...16 Aug 2022 — They suggest that teaching students how to read sentences aloud...</span></span></span>
+Examples:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.readingrockets.org/blogs/shanahan-on-literacy/what-teachers-need-know-about-sentence-comprehension" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[readingrockets.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-title">what teachers need know about sentence comprehension</span><span class="citation-popover-snippet">Reading RocketsWhat Teachers Need to Know about Sentence...16 Aug 2022 — They suggest that teaching students how to read sentences aloud...</span></span></span>
 
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
@@ -400,7 +400,7 @@ For example:
 
 The phrase *because of the weather* explains the cause. Readers who recognise it as a complete explanation avoid unnecessary pauses and backtracking.
 
-Research on fluency suggests that effective readers allocate less attention to individual words and more attention to meaning-bearing units, freeing cognitive resources for comprehension. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://d10a08pz293654.cloudfront.net/production/documents/reading_fluency_glossary.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d10a08pz293654.cloudfront.net">[d10a08pz293654.cloudfront.net+2CloudFront]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d10a08pz293654.cloudfront.net</span><span class="citation-popover-title">Reading with automaticity is reading words on sight automatically. Prosody</span><span class="citation-popover-snippet">Supporting pupils to develop fluent reading capabilitiesJuly 3, 2024 — Reading fluency can be defined as reading with accuracy, automatic...</span><span class="citation-popover-meta">Published: July 3, 2024</span></span></span>
+Research on fluency suggests that effective readers allocate less attention to individual words and more attention to meaning-bearing units, freeing cognitive resources for comprehension.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://d10a08pz293654.cloudfront.net/production/documents/reading_fluency_glossary.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d10a08pz293654.cloudfront.net">[d10a08pz293654.cloudfront.net+2CloudFront]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d10a08pz293654.cloudfront.net</span><span class="citation-popover-title">Reading with automaticity is reading words on sight automatically. Prosody</span><span class="citation-popover-snippet">Supporting pupils to develop fluent reading capabilitiesJuly 3, 2024 — Reading fluency can be defined as reading with accuracy, automatic...</span><span class="citation-popover-meta">Published: July 3, 2024</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_useful_word_g_d937c7-Illustration-2-dark.svg" | relative_url }}" alt="Word Groups illustration 2" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_useful_word_g_d937c7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_useful_word_g_d937c7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -428,7 +428,7 @@ A skilled reader often groups this as:
 
 *Although the forecast was poor* / *the event attracted a large crowd*
 
-The opening phrase creates an expectation, while the second phrase reverses it. Recognising the contrast structure early reduces confusion and improves comprehension. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/blogs/shanahan-on-literacy/what-teachers-need-know-about-sentence-comprehension" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-title">what teachers need know about sentence comprehension</span><span class="citation-popover-snippet">Reading RocketsWhat Teachers Need to Know about Sentence...16 Aug 2022 — They suggest that teaching students how to read sentences aloud...</span></span></span>
+The opening phrase creates an expectation, while the second phrase reverses it. Recognising the contrast structure early reduces confusion and improves comprehension.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/blogs/shanahan-on-literacy/what-teachers-need-know-about-sentence-comprehension" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-title">what teachers need know about sentence comprehension</span><span class="citation-popover-snippet">Reading RocketsWhat Teachers Need to Know about Sentence...16 Aug 2022 — They suggest that teaching students how to read sentences aloud...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mMej4PNoP8c" title="Improving Reading Fluency: Tips for phrase cued reading for new intervention teachers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mMej4PNoP8c" target="_blank" rel="noopener noreferrer">Improving Reading Fluency: Tips for phrase cued reading for new intervention teachers</a></p><p class="youtube-embed-meta">Channel: Emily Muccianti &middot; Views: 2.9K &middot; Uploaded: March 2023 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mMej4PNoP8c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mMej4PNoP8c">Open on YouTube</a></p></div></div></div>
@@ -441,7 +441,7 @@ For example:
 
 *The committee, which had met three times already, approved the proposal.*
 
-The phrase: <span class="citation-chip-wrap"><a class="citation-chip" href="https://sarahsnippets.com/fluency-phrased-reading-scooping/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sarahsnippets.com">[sarahsnippets.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sarahsnippets.com</span><span class="citation-popover-snippet">Phrasing plays a big role in reading fluency because it helps students learn to group...Read more...</span></span></span>
+The phrase:<span class="citation-chip-wrap"><a class="citation-chip" href="https://sarahsnippets.com/fluency-phrased-reading-scooping/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sarahsnippets.com">[sarahsnippets.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sarahsnippets.com</span><span class="citation-popover-snippet">Phrasing plays a big role in reading fluency because it helps students learn to group...Read more...</span></span></span>
 
 *which had met three times already*
 
@@ -503,165 +503,165 @@ When practising phrase reading, there is no need to mark every possible chunk. S
 
 </div>
 
-These categories appear repeatedly across almost all forms of writing. Learning to recognise them quickly helps sentences feel less like long strings of words and more like connected packets of meaning. Because fluent readers naturally group language in this way, they can devote more attention to understanding ideas rather than managing individual words. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://keystoliteracy.com/blog/the-importance-of-teaching-prosody-as-part-of-reading-fluency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: keystoliteracy.com">[themindcompany.com+3keystoliteracy.com+3sarahsnippets.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">keystoliteracy.com</span><span class="citation-popover-snippet">The Importance of Teaching Prosody as Part of Reading...11 Jul 2023 — Fluent readers chunk words together in appropriate, meaningful phr...</span></span></span>
+These categories appear repeatedly across almost all forms of writing. Learning to recognise them quickly helps sentences feel less like long strings of words and more like connected packets of meaning. Because fluent readers naturally group language in this way, they can devote more attention to understanding ideas rather than managing individual words.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://keystoliteracy.com/blog/the-importance-of-teaching-prosody-as-part-of-reading-fluency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: keystoliteracy.com">[themindcompany.com+3keystoliteracy.com+3sarahsnippets.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">keystoliteracy.com</span><span class="citation-popover-snippet">The Importance of Teaching Prosody as Part of Reading...11 Jul 2023 — Fluent readers chunk words together in appropriate, meaningful phr...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The word groups that make sentences click. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The word groups that make sentences click. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=English+Grammar+in+Use+Book+with+Answers%3A+A+Self-study+Reference+and+Practice+Book+for+Intermediate+Learners+of+English&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open English Grammar in Use Book with Answers: A Self-study Reference and Practice Book for Intermediate Learners of English on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8665352-M.jpg" alt="Cover for English Grammar in Use Book with Answers: A Self-study Reference and Practice Book for Intermediate Learners of English" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=English+Grammar+in+Use+Book+with+Answers%3A+A+Self-study+Reference+and+Practice+Book+for+Intermediate+Learners+of+English&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="English Grammar in Use Book with Answers: A Self-study Reference and Practice Book for Intermediate Learners of English">English Grammar in Use Book with Answers: A Self-study Refere...</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=English+Grammar+in+Use+Book+with+Answers%3A+A+Self-study+Reference+and+Practice+Book+for+Intermediate+Learners+of+English&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open English Grammar in Use Book with Answers: A Self-study Reference and Practice Book for Intermediate Learners of English on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8665352-M.jpg" alt="Cover for English Grammar in Use Book with Answers: A Self-study Reference and Practice Book for Intermediate Learners of English" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=English+Grammar+in+Use+Book+with+Answers%3A+A+Self-study+Reference+and+Practice+Book+for+Intermediate+Learners+of+English&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="English Grammar in Use Book with Answers: A Self-study Reference and Practice Book for Intermediate Learners of English">English Grammar in Use Book with Answers: A Self-study Refere...</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Builds practical understanding of phrases, clauses, subjects, and sentence construction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=English+Grammar+in+Use+Book+with+Answers%3A+A+Self-study+Reference+and+Practice+Book+for+Intermediate+Learners+of+English&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Builds practical understanding of phrases, clauses, subjects, and sentence construction.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=English+Grammar+in+Use+Book+with+Answers%3A+A+Self-study+Reference+and+Practice+Book+for+Intermediate+Learners+of+English&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Sense+of+Style+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Sense of Style on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7366712-M.jpg" alt="Cover for The Sense of Style" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Sense+of+Style+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sense of Style">The Sense of Style</a>
-        </h4>
-        <p class="fr-book-author">By Steven Pinker</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Sense+of+Style+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Sense of Style on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7366712-M.jpg" alt="Cover for The Sense of Style" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Sense+of+Style+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sense of Style">The Sense of Style</a>
+</h4>
+<p class="fr-book-author">By Steven Pinker</p>
         
-        <p class="fr-book-desc">Explains how readers process sentences and why certain word groupings improve comprehension.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Sense+of+Style+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how readers process sentences and why certain word groupings improve comprehension.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Sense+of+Style+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Explains reading levels and techniques for processing larger units of meaning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Explains reading levels and techniques for processing larger units of meaning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Elements+of+Style+William+Strunk%2C+Jr.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Elements of Style on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10515358-M.jpg" alt="Cover for The Elements of Style" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Elements+of+Style+William+Strunk%2C+Jr.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Elements of Style">The Elements of Style</a>
-        </h4>
-        <p class="fr-book-author">By William Strunk, Jr., E. B. White et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Elements+of+Style+William+Strunk%2C+Jr.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Elements of Style on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10515358-M.jpg" alt="Cover for The Elements of Style" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Elements+of+Style+William+Strunk%2C+Jr.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Elements of Style">The Elements of Style</a>
+</h4>
+<p class="fr-book-author">By William Strunk, Jr., E. B. White et al.</p>
         
-        <p class="fr-book-desc">First published 1920. Subjects: reference, Report writing, Rhetoric, Open Syllabus Project, Art d&#x27;écrire.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Elements+of+Style+William+Strunk%2C+Jr.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1920. Subjects: reference, Report writing, Rhetoric, Open Syllabus Project, Art d&#x27;écrire.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Elements+of+Style+William+Strunk%2C+Jr.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=English+Grammar+in+Use+Book+with+Answers%3A+A+Self+study+and+Practice+Book+for+Intermediate+Learners+of+English+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">English Grammar in Use Book with Answers: A Self study and Practice Book for Intermediate Learners of English books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Sense+of+Style&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Sense of Style</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=English+Grammar+in+Use+Book+with+Answers%3A+A+Self+study+and+Practice+Book+for+Intermediate+Learners+of+English+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">English Grammar in Use Book with Answers: A Self study and Practice Book for Intermediate Learners of English books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Sense+of+Style&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Sense of Style</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+literacy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-groups-the-word-groups-that-make-sentences-click-increasing-classroom-literacy-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom literacy poster -book -books" data-ebay-reference="word-groups-the-word-groups-that-make-sentences-click-increasing-classroom-literacy-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rare 1904-1909 Japanese Woodblock Classroom Poster - Meiji Era Literacy Chart"><img src="{{ '/assets/images/marketplace-covers/d811268f23783443ea90.jpg' | relative_url }}" alt="Listing image for Rare 1904-1909 Japanese Woodblock Classroom Poster - Meiji Era Literacy Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+literacy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-groups-the-word-groups-that-make-sentences-click-increasing-classroom-literacy-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom literacy poster -book -books" data-ebay-reference="word-groups-the-word-groups-that-make-sentences-click-increasing-classroom-literacy-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Rare 1904-1909 Japanese Woodblock Classroom Poster - Meiji Era Literacy Chart</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+literacy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-groups-the-word-groups-that-make-sentences-click-increasing-classroom-literacy-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom literacy poster -book -books" data-ebay-reference="word-groups-the-word-groups-that-make-sentences-click-increasing-classroom-literacy-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom literacy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: classroom literacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+literacy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-groups-the-word-groups-that-make-sentences-click-increasing-classroom-literacy-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom literacy poster -book -books" data-ebay-reference="word-groups-the-word-groups-that-make-sentences-click-increasing-classroom-literacy-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+literacy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-groups-the-word-groups-that-make-sentences-click-increasing-classroom-literacy-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom literacy poster -book -books" data-ebay-reference="word-groups-the-word-groups-that-make-sentences-click-increasing-classroom-literacy-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rare 1904-1909 Japanese Woodblock Classroom Poster - Meiji Era Literacy Chart"><img src="{{ '/assets/images/marketplace-covers/d811268f23783443ea90.jpg' | relative_url }}" alt="Listing image for Rare 1904-1909 Japanese Woodblock Classroom Poster - Meiji Era Literacy Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+literacy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-groups-the-word-groups-that-make-sentences-click-increasing-classroom-literacy-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom literacy poster -book -books" data-ebay-reference="word-groups-the-word-groups-that-make-sentences-click-increasing-classroom-literacy-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Rare 1904-1909 Japanese Woodblock Classroom Poster - Meiji Era Literacy Chart</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+literacy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-groups-the-word-groups-that-make-sentences-click-increasing-classroom-literacy-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom literacy poster -book -books" data-ebay-reference="word-groups-the-word-groups-that-make-sentences-click-increasing-classroom-literacy-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom literacy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: classroom literacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+literacy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-groups-the-word-groups-that-make-sentences-click-increasing-classroom-literacy-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom literacy poster -book -books" data-ebay-reference="word-groups-the-word-groups-that-make-sentences-click-increasing-classroom-literacy-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+literacy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-groups-the-word-groups-that-make-sentences-click-increasing-classroom-literacy-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom literacy poster -book -books" data-ebay-reference="word-groups-the-word-groups-that-make-sentences-click-increasing-classroom-literacy-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 X More Key Words School Classroom Poster Prompts For Literacy English Teaching"><img src="{{ '/assets/images/marketplace-covers/f822c7fb8ab43ac5498c.jpg' | relative_url }}" alt="Listing image for 2 X More Key Words School Classroom Poster Prompts For Literacy English Teaching" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+literacy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-groups-the-word-groups-that-make-sentences-click-increasing-classroom-literacy-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom literacy poster -book -books" data-ebay-reference="word-groups-the-word-groups-that-make-sentences-click-increasing-classroom-literacy-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">2 X More Key Words School Classroom Poster Prompts For Literacy English Teaching</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+literacy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-groups-the-word-groups-that-make-sentences-click-increasing-classroom-literacy-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom literacy poster -book -books" data-ebay-reference="word-groups-the-word-groups-that-make-sentences-click-increasing-classroom-literacy-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom literacy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: classroom literacy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+literacy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-groups-the-word-groups-that-make-sentences-click-increasing-classroom-literacy-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom literacy poster -book -books" data-ebay-reference="word-groups-the-word-groups-that-make-sentences-click-increasing-classroom-literacy-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+literacy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-groups-the-word-groups-that-make-sentences-click-increasing-classroom-literacy-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom literacy poster -book -books" data-ebay-reference="word-groups-the-word-groups-that-make-sentences-click-increasing-classroom-literacy-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+literacy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-groups-the-word-groups-that-make-sentences-click-increasing-classroom-literacy-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom literacy poster -book -books" data-ebay-reference="word-groups-the-word-groups-that-make-sentences-click-increasing-classroom-literacy-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 X More Key Words School Classroom Poster Prompts For Literacy English Teaching"><img src="{{ '/assets/images/marketplace-covers/f822c7fb8ab43ac5498c.jpg' | relative_url }}" alt="Listing image for 2 X More Key Words School Classroom Poster Prompts For Literacy English Teaching" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+literacy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-groups-the-word-groups-that-make-sentences-click-increasing-classroom-literacy-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom literacy poster -book -books" data-ebay-reference="word-groups-the-word-groups-that-make-sentences-click-increasing-classroom-literacy-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">2 X More Key Words School Classroom Poster Prompts For Literacy English Teaching</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+literacy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-groups-the-word-groups-that-make-sentences-click-increasing-classroom-literacy-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom literacy poster -book -books" data-ebay-reference="word-groups-the-word-groups-that-make-sentences-click-increasing-classroom-literacy-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for classroom literacy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: classroom literacy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+literacy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-groups-the-word-groups-that-make-sentences-click-increasing-classroom-literacy-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom literacy poster -book -books" data-ebay-reference="word-groups-the-word-groups-that-make-sentences-click-increasing-classroom-literacy-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=classroom+literacy+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-groups-the-word-groups-that-make-sentences-click-increasing-classroom-literacy-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="classroom literacy poster -book -books" data-ebay-reference="word-groups-the-word-groups-that-make-sentences-click-increasing-classroom-literacy-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -677,7 +677,7 @@ These categories appear repeatedly across almost all forms of writing. Learning 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -697,7 +697,7 @@ These categories appear repeatedly across almost all forms of writing. Learning 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -729,7 +729,7 @@ These categories appear repeatedly across almost all forms of writing. Learning 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -781,7 +781,7 @@ These categories appear repeatedly across almost all forms of writing. Learning 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -826,7 +826,7 @@ These categories appear repeatedly across almost all forms of writing. Learning 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -867,137 +867,137 @@ These categories appear repeatedly across almost all forms of writing. Learning 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: educationendowmentfoundation.org.uk  
    Title: why focus on reading fluency  
-   Link: <a href="https://educationendowmentfoundation.org.uk/news/why-focus-on-reading-fluency" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/why-focus-on-reading-fluency</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EEFWhy focus on reading fluency? | EEF23 Mar 2022 — Lower levels of automaticity and prosody are associated with lower levels of comprehe...</p></details>
+   Link:<a href="https://educationendowmentfoundation.org.uk/news/why-focus-on-reading-fluency" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/why-focus-on-reading-fluency</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EEFWhy focus on reading fluency? | EEF23 Mar 2022 — Lower levels of automaticity and prosody are associated with lower levels of comprehe...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: d10a08pz293654.cloudfront.net  
    Title: Reading with automaticity is reading words on sight automatically. Prosody  
-   Link: <a href="https://d10a08pz293654.cloudfront.net/production/documents/reading_fluency_glossary.pdf" target="_blank" rel="noopener noreferrer nofollow">https://d10a08pz293654.cloudfront.net/production/documents/reading_fluency_glossary.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Supporting pupils to develop fluent reading capabilitiesJuly 3, 2024 — Reading fluency can be defined as reading with accuracy, automatic...</p></details>
+   Link:<a href="https://d10a08pz293654.cloudfront.net/production/documents/reading_fluency_glossary.pdf" target="_blank" rel="noopener noreferrer nofollow">https://d10a08pz293654.cloudfront.net/production/documents/reading_fluency_glossary.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Supporting pupils to develop fluent reading capabilitiesJuly 3, 2024 — Reading fluency can be defined as reading with accuracy, automatic...</p></details>
    Published: July 3, 2024  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: d2tic4wvo1iusb.cloudfront.net  
    Title: Cloud Front READING FLUENCY  
-   Link: <a href="https://d2tic4wvo1iusb.cloudfront.net/production/eef-guidance-[reports" target="_blank" rel="noopener noreferrer nofollow">https://d2tic4wvo1iusb.cloudfront.net/production/eef-guidance-[reports</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>READING FLUENCY - Cloudfront.netReading fluency can be defined as reading with accuracy, automaticity and prosody. When pupils...</p></details>
+   Link:<a href="https://d2tic4wvo1iusb.cloudfront.net/production/eef-guidance-[reports" target="_blank" rel="noopener noreferrer nofollow">https://d2tic4wvo1iusb.cloudfront.net/production/eef-guidance-[reports</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>READING FLUENCY - Cloudfront.netReading fluency can be defined as reading with accuracy, automaticity and prosody. When pupils...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: keystoliteracy.com  
-   Link: <a href="https://keystoliteracy.com/blog/the-importance-of-teaching-prosody-as-part-of-reading-fluency/" target="_blank" rel="noopener noreferrer nofollow">https://keystoliteracy.com/blog/the-importance-of-teaching-prosody-as-part-of-reading-fluency/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Importance of Teaching Prosody as Part of Reading...11 Jul 2023 — Fluent readers chunk words together in appropriate, meaningful phr...</p></details>
+   Link:<a href="https://keystoliteracy.com/blog/the-importance-of-teaching-prosody-as-part-of-reading-fluency/" target="_blank" rel="noopener noreferrer nofollow">https://keystoliteracy.com/blog/the-importance-of-teaching-prosody-as-part-of-reading-fluency/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Importance of Teaching Prosody as Part of Reading...11 Jul 2023 — Fluent readers chunk words together in appropriate, meaningful phr...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sarahsnippets.com  
-   Link: <a href="https://sarahsnippets.com/fluency-phrased-reading-scooping/" target="_blank" rel="noopener noreferrer nofollow">https://sarahsnippets.com/fluency-phrased-reading-scooping/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Phrasing plays a big role in reading fluency because it helps students learn to group...Read more...</p></details>
+   Link:<a href="https://sarahsnippets.com/fluency-phrased-reading-scooping/" target="_blank" rel="noopener noreferrer nofollow">https://sarahsnippets.com/fluency-phrased-reading-scooping/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Phrasing plays a big role in reading fluency because it helps students learn to group...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: themindcompany.com  
    Title: 8 reading efficiency techniques  
-   Link: <a href="https://themindcompany.com/blog/8-reading-efficiency-techniques" target="_blank" rel="noopener noreferrer nofollow">https://themindcompany.com/blog/8-reading-efficiency-techniques</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Your brain naturally processes language in groups to reduce eye fixations and give your working...Read more...</p></details>
+   Link:<a href="https://themindcompany.com/blog/8-reading-efficiency-techniques" target="_blank" rel="noopener noreferrer nofollow">https://themindcompany.com/blog/8-reading-efficiency-techniques</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Your brain naturally processes language in groups to reduce eye fixations and give your working...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: readingrockets.org  
    Title: Reading Rockets Fluency  
-   Link: <a href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsFluency: IntroductionFluency is the ability to read a text accurately, at a good pace, and with proper expression and comp...</p></details>
+   Link:<a href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsFluency: IntroductionFluency is the ability to read a text accurately, at a good pace, and with proper expression and comp...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: readingrockets.org  
    Title: what teachers need know about sentence comprehension  
-   Link: <a href="https://www.readingrockets.org/blogs/shanahan-on-literacy/what-teachers-need-know-about-sentence-comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/blogs/shanahan-on-literacy/what-teachers-need-know-about-sentence-comprehension</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsWhat Teachers Need to Know about Sentence...16 Aug 2022 — They suggest that teaching students how to read sentences aloud...</p></details>
+   Link:<a href="https://www.readingrockets.org/blogs/shanahan-on-literacy/what-teachers-need-know-about-sentence-comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/blogs/shanahan-on-literacy/what-teachers-need-know-about-sentence-comprehension</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsWhat Teachers Need to Know about Sentence...16 Aug 2022 — They suggest that teaching students how to read sentences aloud...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/reading-101/reading-and-writing-basics/fluency" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/reading-101/reading-and-writing-basics/fluency</a>  
+   Link:<a href="https://www.readingrockets.org/reading-101/reading-and-writing-basics/fluency" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/reading-101/reading-and-writing-basics/fluency</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/topics/fluency/articles/developing-fluent-readers" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/fluency/articles/developing-fluent-readers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Developing Fluent ReadersfluencyFluency is the ability to read a text accurately, at a good pace, and with proper expression and comprehe...</p></details>
+   Link:<a href="https://www.readingrockets.org/topics/fluency/articles/developing-fluent-readers" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/fluency/articles/developing-fluent-readers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Developing Fluent ReadersfluencyFluency is the ability to read a text accurately, at a good pace, and with proper expression and comprehe...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/[practice" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/[practice</a>  
+   Link:<a href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/[practice" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/[practice</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: readingrockets.org  
    Title: But that's not the case.Read more  
-   Link: <a href="https://www.readingrockets.org/blogs/shanahan-on-literacy/can-we-really-teach-prosody-and-why-would-we-want" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/blogs/shanahan-on-literacy/can-we-really-teach-prosody-and-why-would-we-want</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Can We Really Teach Prosody and Why Would We Want To?5 Jul 2023 — If word reading fluency and text reading fluency were the same, they&#x27;d...</p></details>
+   Link:<a href="https://www.readingrockets.org/blogs/shanahan-on-literacy/can-we-really-teach-prosody-and-why-would-we-want" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/blogs/shanahan-on-literacy/can-we-really-teach-prosody-and-why-would-we-want</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Can We Really Teach Prosody and Why Would We Want To?5 Jul 2023 — If word reading fluency and text reading fluency were the same, they&#x27;d...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fluency: In DepthRepeated oral reading of familiar texts can substantially improve reading fluency in typical elementary students as well...</p></details>
+   Link:<a href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fluency: In DepthRepeated oral reading of familiar texts can substantially improve reading fluency in typical elementary students as well...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: <a href="https://educationendowmentfoundation.org.uk/reading-house/fluency" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/reading-house/fluency</a>  
+   Link:<a href="https://educationendowmentfoundation.org.uk/reading-house/fluency" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/reading-house/fluency</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: hfleducation.org  
    Title: Reading fluency?  
-   Link: <a href="https://www.hfleducation.org/blog/reading-fluency-how-do-i-teach" target="_blank" rel="noopener noreferrer nofollow">https://www.hfleducation.org/blog/reading-fluency-how-do-i-teach</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How do I teach that?1 Dec 2022 — Reading fluency is defined as being a combination of automaticity, accuracy and prosody. When a child ca...</p></details>
+   Link:<a href="https://www.hfleducation.org/blog/reading-fluency-how-do-i-teach" target="_blank" rel="noopener noreferrer nofollow">https://www.hfleducation.org/blog/reading-fluency-how-do-i-teach</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How do I teach that?1 Dec 2022 — Reading fluency is defined as being a combination of automaticity, accuracy and prosody. When a child ca...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: hfleducation.org  
-   Link: <a href="https://www.hfleducation.org/reading-fluency" target="_blank" rel="noopener noreferrer nofollow">https://www.hfleducation.org/reading-fluency</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HFL Reading Fluency ProjectOur Reading Fluency Project works to significantly improve outcomes for pupils and is designed to help equip t...</p></details>
+   Link:<a href="https://www.hfleducation.org/reading-fluency" target="_blank" rel="noopener noreferrer nofollow">https://www.hfleducation.org/reading-fluency</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HFL Reading Fluency ProjectOur Reading Fluency Project works to significantly improve outcomes for pupils and is designed to help equip t...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: fluencyfocus.org.uk  
-   Link: <a href="https://www.fluencyfocus.org.uk/our-approach" target="_blank" rel="noopener noreferrer nofollow">https://www.fluencyfocus.org.uk/our-approach</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Our ApproachFluent readers read accurately, at an appropriate speed without great effort(automaticity), and with appropriate stress and i...</p></details>
+   Link:<a href="https://www.fluencyfocus.org.uk/our-approach" target="_blank" rel="noopener noreferrer nofollow">https://www.fluencyfocus.org.uk/our-approach</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Our ApproachFluent readers read accurately, at an appropriate speed without great effort(automaticity), and with appropriate stress and i...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: teachwire.net  
-   Link: <a href="https://www.teachwire.net/news/prosody-in-reading/" target="_blank" rel="noopener noreferrer nofollow">https://www.teachwire.net/news/prosody-in-reading/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Prosody in reading – How to teach it in primaryProsody is a vital component of reading fluency. Find out how you can bring it into your l...</p></details>
+   Link:<a href="https://www.teachwire.net/news/prosody-in-reading/" target="_blank" rel="noopener noreferrer nofollow">https://www.teachwire.net/news/prosody-in-reading/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Prosody in reading – How to teach it in primaryProsody is a vital component of reading fluency. Find out how you can bring it into your l...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: roadeenglishhub.co.uk  
-   Link: <a href="https://www.roadeenglishhub.co.uk/blog/reading-just-right-the-goldilocks-guide-to-fluency/" target="_blank" rel="noopener noreferrer nofollow">https://www.roadeenglishhub.co.uk/blog/reading-just-right-the-goldilocks-guide-to-fluency/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Just Right: The Goldilocks Guide to FluencyAs the Education Endowment Foundation (EEF) notes, “Fluent readers demonstrate automat...</p></details>
+   Link:<a href="https://www.roadeenglishhub.co.uk/blog/reading-just-right-the-goldilocks-guide-to-fluency/" target="_blank" rel="noopener noreferrer nofollow">https://www.roadeenglishhub.co.uk/blog/reading-just-right-the-goldilocks-guide-to-fluency/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Just Right: The Goldilocks Guide to FluencyAs the Education Endowment Foundation (EEF) notes, “Fluent readers demonstrate automat...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ces.org  
-   Link: <a href="https://www.ces.org/prosody-in-reading/" target="_blank" rel="noopener noreferrer nofollow">https://www.ces.org/prosody-in-reading/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Room- Prosody in ReadingDo repeated readings: Doing repeated reading helps reinforce prosody and improves fluency. Partner up: Pu...</p></details>
+   Link:<a href="https://www.ces.org/prosody-in-reading/" target="_blank" rel="noopener noreferrer nofollow">https://www.ces.org/prosody-in-reading/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Room- Prosody in ReadingDo repeated readings: Doing repeated reading helps reinforce prosody and improves fluency. Partner up: Pu...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: hfleducation.org  
-   Link: <a href="https://www.hfleducation.org/blog/new-reading-fluency-guidance-materials-produced-collaboration-education-endowment-foundation" target="_blank" rel="noopener noreferrer nofollow">https://www.hfleducation.org/blog/new-reading-fluency-guidance-materials-produced-collaboration-education-endowment-foundation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New reading fluency guidance materials produced in...7 Jun 2022 — Two new tools designed to support practitioners in developing pupils&#x27;...</p></details>
+   Link:<a href="https://www.hfleducation.org/blog/new-reading-fluency-guidance-materials-produced-collaboration-education-endowment-foundation" target="_blank" rel="noopener noreferrer nofollow">https://www.hfleducation.org/blog/new-reading-fluency-guidance-materials-produced-collaboration-education-endowment-foundation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New reading fluency guidance materials produced in...7 Jun 2022 — Two new tools designed to support practitioners in developing pupils&#x27;...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=5XkbCn5npq0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5XkbCn5npq0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Developing FluencyThis video shows an after-school program called RAVE-O that helps teach reading fluency in Malden, Massachusetts. For m...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5XkbCn5npq0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5XkbCn5npq0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Developing FluencyThis video shows an after-school program called RAVE-O that helps teach reading fluency in Malden, Massachusetts. For m...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: educationendowmentfoundation.org.uk  
    Title: eef blog reading fluency practice in the primary classroom  
-   Link: <a href="https://educationendowmentfoundation.org.uk/news/eef-blog-reading-fluency-practice-in-the-primary-classroom" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/eef-blog-reading-fluency-practice-in-the-primary-classroom</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EEF blog: Reading Fluency Practice in the Primary...29 Mar 2022 — Rob Laight explains how to develop reading fluency practice using the...</p></details>
+   Link:<a href="https://educationendowmentfoundation.org.uk/news/eef-blog-reading-fluency-practice-in-the-primary-classroom" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/eef-blog-reading-fluency-practice-in-the-primary-classroom</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EEF blog: Reading Fluency Practice in the Primary...29 Mar 2022 — Rob Laight explains how to develop reading fluency practice using the...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: centaur.reading.ac.uk  
    Title: reading.ac.uk Working memory and L2 sentence processing  
-   Link: <a href="https://centaur.reading.ac.uk/106198/1/Working%20Memory%20and%20L2%20Sentence%20Processing%20-%20Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centaur.reading.ac.uk/106198/1/Working%20Memory%20and%20L2%20Sentence%20Processing%20-%20Final.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>memory and L2 sentence processing - CentAURby I Cunnings · 2022 · Cited by 11 — In this chapter, I critically evaluate different [models](&amp;#123;&amp;#123; &#x27;models/&#x27; | relative_url &amp;#125;&amp;#125;) o...</p></details>
+   Link:<a href="https://centaur.reading.ac.uk/106198/1/Working%20Memory%20and%20L2%20Sentence%20Processing%20-%20Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centaur.reading.ac.uk/106198/1/Working%20Memory%20and%20L2%20Sentence%20Processing%20-%20Final.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>memory and L2 sentence processing - CentAURby I Cunnings · 2022 · Cited by 11 — In this chapter, I critically evaluate different [models](&amp;#123;&amp;#123; &#x27;models/&#x27; | relative_url &amp;#125;&amp;#125;) o...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: scispace.com  
-   Link: <a href="https://scispace.com/pdf/eye-movements-in-reading-span-tasks-to-working-memory-487m6pjj49.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/eye-movements-in-reading-span-tasks-to-working-memory-487m6pjj49.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nline measure of the time-course of processing and storage components.Read more...</p></details>
+   Link:<a href="https://scispace.com/pdf/eye-movements-in-reading-span-tasks-to-working-memory-487m6pjj49.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/eye-movements-in-reading-span-tasks-to-working-memory-487m6pjj49.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nline measure of the time-course of processing and storage components.Read more...</p></details>

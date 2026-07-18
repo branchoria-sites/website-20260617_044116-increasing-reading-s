@@ -269,7 +269,7 @@ image: /assets/images/increasing_re_852ca6_reading_speed_ac88ef_slow_reading_74e
 
 ## Introduction
 
-A [slow reading]({{ 'slow-reading/' | relative_url }}) speed is only a problem if it fails to produce understanding. The better question is not “How many words per minute did I read?” but “What can I do with what I just read?” A reader who moves slowly through a challenging chapter and can accurately explain it afterwards may be reading far more effectively than someone who finishes quickly and remembers little. Research on reading and learning consistently shows that comprehension and retention are more meaningful measures of success than raw speed alone. When speed increases substantially, understanding often declines, especially for complex material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 537 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</span></span></span>
+A [slow reading]({{ 'slow-reading/' | relative_url }}) speed is only a problem if it fails to produce understanding. The better question is not “How many words per minute did I read?” but “What can I do with what I just read?” A reader who moves slowly through a challenging chapter and can accurately explain it afterwards may be reading far more effectively than someone who finishes quickly and remembers little. Research on reading and learning consistently shows that comprehension and retention are more meaningful measures of success than raw speed alone. When speed increases substantially, understanding often declines, especially for complex material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 537 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef_slow_reading_74e46c_comprehension_8dbbb4-Illustration-1-dark.svg" | relative_url }}" alt="Checks illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef_slow_reading_74e46c_comprehension_8dbbb4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef_slow_reading_74e46c_comprehension_8dbbb4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -279,7 +279,7 @@ This is where [comprehension checks]({{ 'comprehension-checks/' | relative_url }
 
 Reading speed is easy to [measure]({{ 'measure/' | relative_url }}). Comprehension is harder. Yet comprehension is the outcome that matters.
 
-Research reviewing speed-reading claims has found little evidence that people can dramatically increase reading speed while maintaining full understanding of detailed texts. Studies repeatedly show a trade-off between speed and comprehension, particularly when readers move beyond skimming and attempt to understand arguments, evidence, or complex explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psychologicalscience.org/news/releases/speed-reading-promises-are-too-good-to-be-true-scientists-find.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Association for Psychological Science+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-title">speed reading promises are too good to be true scientists find</span><span class="citation-popover-snippet">Association for Psychological ScienceSpeed Reading Promises Are Too Good to Be True...14 Jan 2016 — A team of psychological scientists...</span></span></span>
+Research reviewing speed-reading claims has found little evidence that people can dramatically increase reading speed while maintaining full understanding of detailed texts. Studies repeatedly show a trade-off between speed and comprehension, particularly when readers move beyond skimming and attempt to understand arguments, evidence, or complex explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psychologicalscience.org/news/releases/speed-reading-promises-are-too-good-to-be-true-scientists-find.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Association for Psychological Science+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-title">speed reading promises are too good to be true scientists find</span><span class="citation-popover-snippet">Association for Psychological ScienceSpeed Reading Promises Are Too Good to Be True...14 Jan 2016 — A team of psychological scientists...</span></span></span>
 
 A simple comprehension check often reveals more than a stopwatch:
 
@@ -303,7 +303,7 @@ This distinction is particularly important when reading material that introduces
 
 The most effective comprehension checks are surprisingly simple. They require the reader to retrieve information from memory rather than merely recognise it on the page.
 
-Research on retrieval practice—the act of recalling information without looking at the source—shows that recall is a powerful indicator of learning and often strengthens understanding more effectively than additional rereading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12292765/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Use of Retrieval Practice in the Health Professions</span><span class="citation-popover-snippet">by MJ Serra · 2025 · Cited by 16 — Retrieval practice, or the active recall of information from memory, is a highly effective learning...</span></span></span>
+Research on retrieval practice—the act of recalling information without looking at the source—shows that recall is a powerful indicator of learning and often strengthens understanding more effectively than additional rereading.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12292765/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Use of Retrieval Practice in the Health Professions</span><span class="citation-popover-snippet">by MJ Serra · 2025 · Cited by 16 — Retrieval practice, or the active recall of information from memory, is a highly effective learning...</span></span></span>
 
 Three practical checks stand out.
 
@@ -314,7 +314,7 @@ Three practical checks stand out.
 
 After finishing a section, close the book or document and write a brief summary in your own words.
 
-Summarising forces the reader to identify the central ideas rather than repeat isolated sentences. Research on generative learning strategies suggests that summarising helps learners organise information and reveal gaps in understanding. Cambridge University Press &amp; Assessment+2Shanahan on Literacy <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/books/learning-as-a-generative-activity/learning-by-summarizing/A980D8425E171398BFF95D7738C14B55" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Summarizing is often used as a strategy to help learners comprehend text...Read more...</span></span></span>
+Summarising forces the reader to identify the central ideas rather than repeat isolated sentences. Research on generative learning strategies suggests that summarising helps learners organise information and reveal gaps in understanding. Cambridge University Press &amp; Assessment+2Shanahan on Literacy<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/books/learning-as-a-generative-activity/learning-by-summarizing/A980D8425E171398BFF95D7738C14B55" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Summarizing is often used as a strategy to help learners comprehend text...Read more...</span></span></span>
 
 A useful question is:
 
@@ -326,7 +326,7 @@ If not, the slower reading may still be doing useful work, but more processing i
 
 Imagine teaching the material to someone else.
 
-Studies examining learning through explanation have found that explaining content after studying can improve learning because it requires active retrieval and organisation of knowledge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9130926/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Retrieval Practice Hypothesis in Research on Learning by...by K Kobayashi · 2022 · Cited by 23 — If retrieval practice produces t...</span></span></span>
+Studies examining learning through explanation have found that explaining content after studying can improve learning because it requires active retrieval and organisation of knowledge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9130926/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Retrieval Practice Hypothesis in Research on Learning by...by K Kobayashi · 2022 · Cited by 23 — If retrieval practice produces t...</span></span></span>
 
 You do not need an audience. Simply attempting to explain a concept aloud often reveals whether you genuinely understood it or merely recognised familiar wording while reading.
 
@@ -357,7 +357,7 @@ Not every text deserves the same level of scrutiny.
 
 A weather forecast, restaurant menu, or short email may require little more than accurate recall of a few facts. A research paper or technical manual demands far more.
 
-The comprehension check should therefore match the reading goal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://speedreading.com/research/comprehension-[speed-tradeoff" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: speedreading.com">[speedreading.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">speedreading.com</span><span class="citation-popover-snippet">Speed Reading Comprehension Trade-Off &#124; SpeedReading.comSpeed reading comprehension trade-off explained: why speed impacts understanding...</span></span></span>
+The comprehension check should therefore match the reading goal.<span class="citation-chip-wrap"><a class="citation-chip" href="https://speedreading.com/research/comprehension-[speed-tradeoff" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: speedreading.com">[speedreading.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">speedreading.com</span><span class="citation-popover-snippet">Speed Reading Comprehension Trade-Off &#124; SpeedReading.comSpeed reading comprehension trade-off explained: why speed impacts understanding...</span></span></span>
 
 For straightforward material:
 
@@ -434,194 +434,194 @@ The most reliable measure of reading effectiveness is therefore not words per mi
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The better test than reading speed. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The better test than reading speed. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Promotes comprehension as the primary reading outcome.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Promotes comprehension as the primary reading outcome.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-        </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+</h4>
+<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Focuses on retention and recall rather than speed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on retention and recall rather than speed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ultralearning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jyV2DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ultralearning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ultralearning">Ultralearning</a>
-        </h4>
-        <p class="fr-book-author">By Scott H. Young</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ultralearning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jyV2DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ultralearning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ultralearning">Ultralearning</a>
+</h4>
+<p class="fr-book-author">By Scott H. Young</p>
         
-        <p class="fr-book-desc">Highlights active recall and understanding.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights active recall and understanding.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Speed Reading Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/375099-M.jpg" alt="Cover for The Speed Reading Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Speed Reading Book">The Speed Reading Book</a>
-        </h4>
-        <p class="fr-book-author">By Tony Buzan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Speed Reading Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/375099-M.jpg" alt="Cover for The Speed Reading Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Speed Reading Book">The Speed Reading Book</a>
+</h4>
+<p class="fr-book-author">By Tony Buzan</p>
         
-        <p class="fr-book-desc">First published 1997. Subjects: Speed reading, Développement d&#x27;aptitudes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1997. Subjects: Speed reading, Développement d&#x27;aptitudes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ultralearning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ultralearning</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ultralearning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ultralearning</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 8pcs Silver Roof Reading Lamp Button Cover Patch for Mercedes EQA 2022-2026"><img src="{{ '/assets/images/marketplace-covers/56167096c4ffa3430169.jpg' | relative_url }}" alt="Listing image for 8pcs Silver Roof Reading Lamp Button Cover Patch for Mercedes EQA 2022-2026" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch" target="_blank" rel="sponsored noopener noreferrer">8pcs Silver Roof Reading Lamp Button Cover Patch for Mercedes EQA 2022-2026</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading lamps patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: reading lamps patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 8pcs Silver Roof Reading Lamp Button Cover Patch for Mercedes EQA"><img src="{{ '/assets/images/marketplace-covers/56167096c4ffa3430169.jpg' | relative_url }}" alt="Listing image for 8pcs Silver Roof Reading Lamp Button Cover Patch for Mercedes EQA" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch" target="_blank" rel="sponsored noopener noreferrer">8pcs Silver Roof Reading Lamp Button Cover Patch for Mercedes EQA</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading lamps patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: reading lamps patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 5pcs Silver Roof Reading Lamp Button Patch for Mercedes Light Control Panel"><img src="{{ '/assets/images/marketplace-covers/293bd6f59ea811a0cc76.jpg' | relative_url }}" alt="Listing image for 5pcs Silver Roof Reading Lamp Button Patch for Mercedes Light Control Panel" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch" target="_blank" rel="sponsored noopener noreferrer">5pcs Silver Roof Reading Lamp Button Patch for Mercedes Light Control Panel</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading lamps patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: reading lamps patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 5pcs Silver Roof Reading Lamp Button Patch for Mercedes Light Control Panel"><img src="{{ '/assets/images/marketplace-covers/293bd6f59ea811a0cc76.jpg' | relative_url }}" alt="Listing image for 5pcs Silver Roof Reading Lamp Button Patch for Mercedes Light Control Panel" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch" target="_blank" rel="sponsored noopener noreferrer">5pcs Silver Roof Reading Lamp Button Patch for Mercedes Light Control Panel</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading lamps patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: reading lamps patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bible Reading Patch Vintage Nazarene Caravan Scouts Lamp and Book Embroidered"><img src="{{ '/assets/images/marketplace-covers/f2d50322e432521f590f.jpg' | relative_url }}" alt="Listing image for Bible Reading Patch Vintage Nazarene Caravan Scouts Lamp and Book Embroidered" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch" target="_blank" rel="sponsored noopener noreferrer">Bible Reading Patch Vintage Nazarene Caravan Scouts Lamp and Book Embroidered</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading lamps patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: reading lamps patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bible Reading Patch Vintage Nazarene Caravan Scouts Lamp and Book Embroidered"><img src="{{ '/assets/images/marketplace-covers/f2d50322e432521f590f.jpg' | relative_url }}" alt="Listing image for Bible Reading Patch Vintage Nazarene Caravan Scouts Lamp and Book Embroidered" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch" target="_blank" rel="sponsored noopener noreferrer">Bible Reading Patch Vintage Nazarene Caravan Scouts Lamp and Book Embroidered</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading lamps patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: reading lamps patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 5pcs Silver Roof Reading Lamp Button Patch for Mercedes For GLA 2015 2019 Pack"><img src="{{ '/assets/images/marketplace-covers/29c142c956869ced532a.jpg' | relative_url }}" alt="Listing image for 5pcs Silver Roof Reading Lamp Button Patch for Mercedes For GLA 2015 2019 Pack" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch" target="_blank" rel="sponsored noopener noreferrer">5pcs Silver Roof Reading Lamp Button Patch for Mercedes For GLA 2015 2019 Pack</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading lamps patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: reading lamps patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 5pcs Silver Roof Reading Lamp Button Patch for Mercedes For GLA 2015 2019 Pack"><img src="{{ '/assets/images/marketplace-covers/29c142c956869ced532a.jpg' | relative_url }}" alt="Listing image for 5pcs Silver Roof Reading Lamp Button Patch for Mercedes For GLA 2015 2019 Pack" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch" target="_blank" rel="sponsored noopener noreferrer">5pcs Silver Roof Reading Lamp Button Patch for Mercedes For GLA 2015 2019 Pack</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading lamps patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: reading lamps patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="checks-the-better-test-than-reading-speed-increasing-reading-lamps-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -637,7 +637,7 @@ The most reliable measure of reading effectiveness is therefore not words per mi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -657,7 +657,7 @@ The most reliable measure of reading effectiveness is therefore not words per mi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -689,7 +689,7 @@ The most reliable measure of reading effectiveness is therefore not words per mi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -741,7 +741,7 @@ The most reliable measure of reading effectiveness is therefore not words per mi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -786,7 +786,7 @@ The most reliable measure of reading effectiveness is therefore not words per mi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -827,133 +827,133 @@ The most reliable measure of reading effectiveness is therefore not words per mi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe Use of Retrieval Practice in the Health Professions  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12292765/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12292765/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by MJ Serra · 2025 · Cited by 16 — Retrieval practice, or the active recall of information from memory, is a highly effective learning...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12292765/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12292765/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by MJ Serra · 2025 · Cited by 16 — Retrieval practice, or the active recall of information from memory, is a highly effective learning...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10229024/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10229024/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Improves Performance as Well as Assesses Learningby CW Polack · 2022 · Cited by 45 — Taking a test of previously studied material has bee...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10229024/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10229024/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Improves Performance as Well as Assesses Learningby CW Polack · 2022 · Cited by 45 — Taking a test of previously studied material has bee...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/books/learning-as-a-generative-activity/learning-by-summarizing/A980D8425E171398BFF95D7738C14B55" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/learning-as-a-generative-activity/learning-by-summarizing/A980D8425E171398BFF95D7738C14B55</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Summarizing is often used as a strategy to help learners comprehend text...Read more...</p></details>
+   Link:<a href="https://www.cambridge.org/core/books/learning-as-a-generative-activity/learning-by-summarizing/A980D8425E171398BFF95D7738C14B55" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/learning-as-a-generative-activity/learning-by-summarizing/A980D8425E171398BFF95D7738C14B55</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Summarizing is often used as a strategy to help learners comprehend text...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9130926/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9130926/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Retrieval Practice Hypothesis in Research on Learning by...by K Kobayashi · 2022 · Cited by 23 — If retrieval practice produces t...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9130926/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9130926/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Retrieval Practice Hypothesis in Research on Learning by...by K Kobayashi · 2022 · Cited by 23 — If retrieval practice produces t...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med How Do We Read, and Can Speed Reading Help?  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26769745/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by K Rayner · 2016 · Cited by 537 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26769745/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by K Rayner · 2016 · Cited by 537 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: psychologicalscience.org  
    Title: speed reading promises are too good to be true scientists find  
-   Link: <a href="https://www.psychologicalscience.org/news/releases/speed-reading-promises-are-too-good-to-be-true-scientists-find.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/news/releases/speed-reading-promises-are-too-good-to-be-true-scientists-find.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceSpeed Reading Promises Are Too Good to Be True...14 Jan 2016 — A team of psychological scientists...</p></details>
+   Link:<a href="https://www.psychologicalscience.org/news/releases/speed-reading-promises-are-too-good-to-be-true-scientists-find.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/news/releases/speed-reading-promises-are-too-good-to-be-true-scientists-find.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceSpeed Reading Promises Are Too Good to Be True...14 Jan 2016 — A team of psychological scientists...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: psychologicalscience.org  
-   Link: <a href="https://www.psychologicalscience.org/news/how-to-speed-read-without-skimming.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/news/how-to-speed-read-without-skimming.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceHow to Speed Read Without Skimming29 Jan 2016 — They found “little evidence for a unique behavior, s...</p></details>
+   Link:<a href="https://www.psychologicalscience.org/news/how-to-speed-read-without-skimming.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/news/how-to-speed-read-without-skimming.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceHow to Speed Read Without Skimming29 Jan 2016 — They found “little evidence for a unique behavior, s...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: shanahanonliteracy.com  
    Title: how to teach summarizing part i  
-   Link: <a href="https://www.shanahanonliteracy.com/blog/how-to-teach-summarizing-part-i" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/how-to-teach-summarizing-part-i</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Teach Summarizing, Part I13 Jul 2019 — Summarizing is the ability to retell the most important information from a text in a shorte...</p></details>
+   Link:<a href="https://www.shanahanonliteracy.com/blog/how-to-teach-summarizing-part-i" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/how-to-teach-summarizing-part-i</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Teach Summarizing, Part I13 Jul 2019 — Summarizing is the ability to retell the most important information from a text in a shorte...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1258359/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1258359/full</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Re-examining the testing effect as a learning strategyby R Mayrhofer · 2023 · Cited by 8 — Several previous studies appear to have demons...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1258359/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1258359/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Re-examining the testing effect as a learning strategyby R Mayrhofer · 2023 · Cited by 8 — Several previous studies appear to have demons...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6920633/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6920633/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by S Palmer · 2019 · Cited by 28 — Retrieval practice, otherwise called the “testing effect,” has been repeatedly found to be better a...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6920633/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6920633/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by S Palmer · 2019 · Cited by 28 — Retrieval practice, otherwise called the “testing effect,” has been repeatedly found to be better a...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/31045483/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/31045483/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>students really prefer repeated rereading over testing...Results showed that rereading is preferred only by few students early in the le...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/31045483/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/31045483/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>students really prefer repeated rereading over testing...Results showed that rereading is preferred only by few students early in the le...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12372469/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12372469/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>practice enhances learning in real primary school...by L Franzoi · 2025 · Cited by 2 — Students may perceive re-reading and massed learn...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12372469/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12372469/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>practice enhances learning in real primary school...by L Franzoi · 2025 · Cited by 2 — Students may perceive re-reading and massed learn...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Theories of reading should account for speed  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3579520/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3579520/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of reading should predict reading speed - PMC - NIHby DG Pelli · 2012 · Cited by 8 — Reading speed matters in most real-world contexts, a...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3579520/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3579520/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of reading should predict reading speed - PMC - NIHby DG Pelli · 2012 · Cited by 8 — Reading speed matters in most real-world contexts, a...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: psychology.ucsd.edu  
    Title: retrieval practice  
-   Link: <a href="https://psychology.ucsd.edu/undergraduate-program/undergraduate-resources/academic-writing-resources/effective-studying/retrieval-practice.html" target="_blank" rel="noopener noreferrer nofollow">https://psychology.ucsd.edu/undergraduate-program/undergraduate-resources/academic-writing-resources/effective-studying/retrieval-practice.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PracticeOne of the reasons why restudying, rereading, and reviewing are not the most effective learning strategies is because they do not...</p></details>
+   Link:<a href="https://psychology.ucsd.edu/undergraduate-program/undergraduate-resources/academic-writing-resources/effective-studying/retrieval-practice.html" target="_blank" rel="noopener noreferrer nofollow">https://psychology.ucsd.edu/undergraduate-program/undergraduate-resources/academic-writing-resources/effective-studying/retrieval-practice.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PracticeOne of the reasons why restudying, rereading, and reviewing are not the most effective learning strategies is because they do not...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/retrieval" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/retrieval</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RETRIEVAL Definition &amp; Meaning7 days ago — 1. an act or process of retrieving 2. possibility of being retrieved or of recovering beyond r...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/retrieval" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/retrieval</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RETRIEVAL Definition &amp; Meaning7 days ago — 1. an act or process of retrieving 2. possibility of being retrieved or of recovering beyond r...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/curious/speed-reading-is-a-myth-676be05df30c" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/curious/speed-reading-is-a-myth-676be05df30c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Speed Reading Is a MythThe available scientific evidence demonstrates that there is a trade-off between speed and accuracy — as readers s...</p></details>
+   Link:<a href="https://medium.com/curious/speed-reading-is-a-myth-676be05df30c" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/curious/speed-reading-is-a-myth-676be05df30c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Speed Reading Is a MythThe available scientific evidence demonstrates that there is a trade-off between speed and accuracy — as readers s...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: speedreading.com  
-   Link: <a href="https://speedreading.com/research/comprehension-[speed-tradeoff" target="_blank" rel="noopener noreferrer nofollow">https://speedreading.com/research/comprehension-[speed-tradeoff</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Speed Reading Comprehension Trade-Off | SpeedReading.comSpeed reading comprehension trade-off explained: why speed impacts understanding...</p></details>
+   Link:<a href="https://speedreading.com/research/comprehension-[speed-tradeoff" target="_blank" rel="noopener noreferrer nofollow">https://speedreading.com/research/comprehension-[speed-tradeoff</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Speed Reading Comprehension Trade-Off | SpeedReading.comSpeed reading comprehension trade-off explained: why speed impacts understanding...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: digitalcommons.gardner-webb.edu  
-   Link: <a href="https://digitalcommons.gardner-webb.edu/context/education_etd/article/1249/viewcontent/The_Impact_of_the_SummarizationParaphrasing_Strategy_Frayer_Model_and_Student_Engagement_on_Reading_Comprehension.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.gardner-webb.edu/context/education_etd/article/1249/viewcontent/The_Impact_of_the_SummarizationParaphrasing_Strategy_Frayer_Model_and_Student_Engagement_on_Reading_Comprehension.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Strategy that involves putting main ideas or information from read passages into your own words, including only the main points.Read more...</p></details>
+   Link:<a href="https://digitalcommons.gardner-webb.edu/context/education_etd/article/1249/viewcontent/The_Impact_of_the_SummarizationParaphrasing_Strategy_Frayer_Model_and_Student_Engagement_on_Reading_Comprehension.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.gardner-webb.edu/context/education_etd/article/1249/viewcontent/The_Impact_of_the_SummarizationParaphrasing_Strategy_Frayer_Model_and_Student_Engagement_on_Reading_Comprehension.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Strategy that involves putting main ideas or information from read passages into your own words, including only the main points.Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ase.org.uk  
-   Link: <a href="https://www.ase.org.uk/system/files/17-21%20SSRD%20392%20Bates.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ase.org.uk/system/files/17-21%20SSRD%20392%20Bates.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>port improved test performance when compared with other strategies, such as re-reading or restudy.Read more...</p></details>
+   Link:<a href="https://www.ase.org.uk/system/files/17-21%20SSRD%20392%20Bates.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ase.org.uk/system/files/17-21%20SSRD%20392%20Bates.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>port improved test performance when compared with other strategies, such as re-reading or restudy.Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: educationendowmentfoundation.org.uk  
    Title: does research on retrieval practice translate into classroom practice  
-   Link: <a href="https://educationendowmentfoundation.org.uk/news/does-research-on-retrieval-practice-translate-into-classroom-practice" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/does-research-on-retrieval-practice-translate-into-classroom-practice</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EEF Blog: Does research on ​&#x27;retrieval practice&#x27; translate...5 Dec 2019 — Retrieval practice is strongly supported by over 100 years of...</p></details>
+   Link:<a href="https://educationendowmentfoundation.org.uk/news/does-research-on-retrieval-practice-translate-into-classroom-practice" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/does-research-on-retrieval-practice-translate-into-classroom-practice</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EEF Blog: Does research on ​&#x27;retrieval practice&#x27; translate...5 Dec 2019 — Retrieval practice is strongly supported by over 100 years of...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: thirdspacelearning.com  
-   Link: <a href="https://thirdspacelearning.com/blog/retrieval-practice/" target="_blank" rel="noopener noreferrer nofollow">https://thirdspacelearning.com/blog/retrieval-practice/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>revision methods like re-reading, concept mapping, repeated study, highlighting...Read more...</p></details>
+   Link:<a href="https://thirdspacelearning.com/blog/retrieval-practice/" target="_blank" rel="noopener noreferrer nofollow">https://thirdspacelearning.com/blog/retrieval-practice/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>revision methods like re-reading, concept mapping, repeated study, highlighting...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: macrothink.org  
-   Link: <a href="https://www.macrothink.org/journal/index.php/ijld/article/viewFile/8271/6862" target="_blank" rel="noopener noreferrer nofollow">https://www.macrothink.org/journal/index.php/ijld/article/viewFile/8271/6862</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and construction of meaning through interaction and involvement with written...Read more...</p></details>
+   Link:<a href="https://www.macrothink.org/journal/index.php/ijld/article/viewFile/8271/6862" target="_blank" rel="noopener noreferrer nofollow">https://www.macrothink.org/journal/index.php/ijld/article/viewFile/8271/6862</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and construction of meaning through interaction and involvement with written...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: researchgate.net  
    Title: (PDF) Does speed-reading training work, and if so, why?  
-   Link: <a href="https://www.researchgate.net/publication/367560632_Does_speed-reading_training_work_and_if_so_why_Effects_of_speed-reading_training_and_metacognitive_training_on_reading_speed_comprehension_and_eye_movements" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/367560632_Does_speed-reading_training_work_and_if_so_why_Effects_of_speed-reading_training_and_metacognitive_training_on_reading_speed_comprehension_and_eye_movements</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Feb 1, 2023 — Furthermore, prior research suggests that there is an inevitable trade-off between reading speed and comprehension, showing...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/367560632_Does_speed-reading_training_work_and_if_so_why_Effects_of_speed-reading_training_and_metacognitive_training_on_reading_speed_comprehension_and_eye_movements" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/367560632_Does_speed-reading_training_work_and_if_so_why_Effects_of_speed-reading_training_and_metacognitive_training_on_reading_speed_comprehension_and_eye_movements</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Feb 1, 2023 — Furthermore, prior research suggests that there is an inevitable trade-off between reading speed and comprehension, showing...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: journals.sagepub.com  
    Title: Sage Journals So Much to Read, So Little Time  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/1529100615623267" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1529100615623267</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsSo Much to Read, So Little Time - Keith Rayner, Elizabeth...Our brief discussion of trade-offs between speed and comprehens...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/1529100615623267" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1529100615623267</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsSo Much to Read, So Little Time - Keith Rayner, Elizabeth...Our brief discussion of trade-offs between speed and comprehens...</p></details>

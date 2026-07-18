@@ -269,7 +269,7 @@ image: /assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_headings_topi_0f
 
 ## Introduction
 
-When you are trying to increase reading speed, topic sentences are among the most useful shortcuts available. Many nonfiction writers place a paragraph’s main claim near the beginning, allowing readers to identify the paragraph’s [purpose]({{ 'purpose/' | relative_url }}) in seconds rather than reading every line. Writing guides commonly describe topic sentences as signals that announce the paragraph’s central idea and organise the material that follows. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://owl.purdue.edu/owl/general_writing/academic_writing/paragraphs_and_paragraphing/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL+2Touro University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLOn Paragraphs</span><span class="citation-popover-snippet">Purdue OWLOn Paragraphs - Purdue OWLA topic sentence is a sentence that indicates in a general way what idea or thesis the paragraph is g...</span></span></span>
+When you are trying to increase reading speed, topic sentences are among the most useful shortcuts available. Many nonfiction writers place a paragraph’s main claim near the beginning, allowing readers to identify the paragraph’s [purpose]({{ 'purpose/' | relative_url }}) in seconds rather than reading every line. Writing guides commonly describe topic sentences as signals that announce the paragraph’s central idea and organise the material that follows.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://owl.purdue.edu/owl/general_writing/academic_writing/paragraphs_and_paragraphing/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL+2Touro University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLOn Paragraphs</span><span class="citation-popover-snippet">Purdue OWLOn Paragraphs - Purdue OWLA topic sentence is a sentence that indicates in a general way what idea or thesis the paragraph is g...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_headings_topi_0f9143_topic_sentenc_9e0d61-Illustration-1-dark.svg" | relative_url }}" alt="Why Topic Sentences Can Mislead Skimmers illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_headings_topi_0f9143_topic_sentenc_9e0d61-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_headings_topi_0f9143_topic_sentenc_9e0d61-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -277,16 +277,16 @@ The danger is that a topic sentence tells you what the author intends to argue, 
 
 ## What Paragraph Openings Usually Signal
 
-A topic sentence is best understood as a signpost. It tells you where the paragraph is heading before the supporting material appears. In many forms of nonfiction writing, the opening sentence introduces the point and the remaining sentences develop it with examples, statistics, explanations, quotations, or analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://purdueglobalwriting.center/topic-sentence-and-paragraph-organization/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: purdueglobalwriting.center">[Purdue Global Success Center+2Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">purdueglobalwriting.center</span><span class="citation-popover-snippet">Purdue Global Success CenterTopic Sentence and Paragraph OrganizationA topic sentence has two parts: 1) the topic that is being discussed...</span></span></span>
+A topic sentence is best understood as a signpost. It tells you where the paragraph is heading before the supporting material appears. In many forms of nonfiction writing, the opening sentence introduces the point and the remaining sentences develop it with examples, statistics, explanations, quotations, or analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://purdueglobalwriting.center/topic-sentence-and-paragraph-organization/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: purdueglobalwriting.center">[Purdue Global Success Center+2Purdue OWL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">purdueglobalwriting.center</span><span class="citation-popover-snippet">Purdue Global Success CenterTopic Sentence and Paragraph OrganizationA topic sentence has two parts: 1) the topic that is being discussed...</span></span></span>
 
 For a reader who is [skimming]({{ 'skimming/' | relative_url }}), this is extremely valuable. A quick pass through topic sentences can reveal:
 
 * The sequence of an argument.
-* The role of each paragraph. <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/paragraphs_and_paragraphing/paragraphing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[owl.purdue.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-snippet">Length Consistency) - Purdue OWLPut only one main idea per paragraph. Aim for three to five or more sentences per paragraph. Include on...</span></span></span>
+* The role of each paragraph.<span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/paragraphs_and_paragraphing/paragraphing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[owl.purdue.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-snippet">Length Consistency) - Purdue OWLPut only one main idea per paragraph. Aim for three to five or more sentences per paragraph. Include on...</span></span></span>
 * Which sections contain claims versus explanations.
 * Whether a paragraph is introducing evidence, presenting a conclusion, or addressing a [limitation]({{ 'reading-limits/' | relative_url }}).
 
-This is why many skimming guides recommend paying special attention to headings and opening sentences when seeking the main ideas of a text. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://learningcenter.unc.edu/tips-and-tools/skimming/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learningcenter.unc.edu">[The Learning Center+2Butte-Glenn Community College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learningcenter.unc.edu</span><span class="citation-popover-title">The Learning Center Skimming</span><span class="citation-popover-snippet">The Learning CenterSkimming - UNC Learning CenterSkimming is a strategic, selective reading method in which you focus on the main ideas o...</span></span></span>
+This is why many skimming guides recommend paying special attention to headings and opening sentences when seeking the main ideas of a text.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://learningcenter.unc.edu/tips-and-tools/skimming/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learningcenter.unc.edu">[The Learning Center+2Butte-Glenn Community College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learningcenter.unc.edu</span><span class="citation-popover-title">The Learning Center Skimming</span><span class="citation-popover-snippet">The Learning CenterSkimming - UNC Learning CenterSkimming is a strategic, selective reading method in which you focus on the main ideas o...</span></span></span>
 
 Consider these paragraph openings:
 
@@ -314,7 +314,7 @@ A paragraph may begin:
 
 At this point, the reader knows the paragraph’s position but knows nothing about the quality of support. The rest of the paragraph might contain rigorous research, a small anecdote, an outdated survey, or merely the author's opinion.
 
-Writing guidance consistently treats the topic sentence as a statement of the paragraph's main point, while separate supporting sentences provide the evidence and development. In other words, the topic sentence and the proof are different parts of the paragraph. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://owl.purdue.edu/owl/general_writing/common_writing_assignments/argument_papers/body_paragraphs.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL+2Writing Tutorial Services]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLBody Paragraphs</span><span class="citation-popover-snippet">Purdue OWLBody Paragraphs - Purdue OWLA good paragraph should contain at least the following four elements: Transition, Topic sentence, s...</span></span></span>
+Writing guidance consistently treats the topic sentence as a statement of the paragraph's main point, while separate supporting sentences provide the evidence and development. In other words, the topic sentence and the proof are different parts of the paragraph.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://owl.purdue.edu/owl/general_writing/common_writing_assignments/argument_papers/body_paragraphs.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[Purdue OWL+2Writing Tutorial Services]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLBody Paragraphs</span><span class="citation-popover-snippet">Purdue OWLBody Paragraphs - Purdue OWLA good paragraph should contain at least the following four elements: Transition, Topic sentence, s...</span></span></span>
 
 This distinction creates a common skimming trap:
 
@@ -367,7 +367,7 @@ The goal is not to abandon topic sentences. The goal is to verify them efficient
 
 When a paragraph contains information that matters to your purpose, perform a rapid support check:
 
-**Step 1: Read the topic sentence.** <span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/paragraphs_and_paragraphing/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[owl.purdue.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLOn Paragraphs</span><span class="citation-popover-snippet">Purdue OWLOn Paragraphs - Purdue OWLA topic sentence is a sentence that indicates in a general way what idea or thesis the paragraph is g...</span></span></span>
+**Step 1: Read the topic sentence.**<span class="citation-chip-wrap"><a class="citation-chip" href="https://owl.purdue.edu/owl/general_writing/academic_writing/paragraphs_and_paragraphing/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: owl.purdue.edu">[owl.purdue.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">owl.purdue.edu</span><span class="citation-popover-title">OWLOn Paragraphs</span><span class="citation-popover-snippet">Purdue OWLOn Paragraphs - Purdue OWLA topic sentence is a sentence that indicates in a general way what idea or thesis the paragraph is g...</span></span></span>
 
 Identify the main claim.
 
@@ -400,7 +400,7 @@ A paragraph that contains none of these may still be correct, but it deserves mo
 <img src="{{ "/assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_headings_topi_0f9143_topic_sentenc_9e0d61-Illustration-3-dark.svg" | relative_url }}" alt="Why Topic Sentences Can Mislead Skimmers illustration 3" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_headings_topi_0f9143_topic_sentenc_9e0d61-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_headings_topi_0f9143_topic_sentenc_9e0d61-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Reading Fast Without Becoming Gullible
 
-Skimming works because nonfiction writing often exposes its structure through headings and topic sentences. Research and study guides on skimming consistently describe the technique as a way to gain a rapid overview, not as a replacement for deeper reading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://learningcenter.unc.edu/tips-and-tools/skimming/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learningcenter.unc.edu">[The Learning Center+2OER Collective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learningcenter.unc.edu</span><span class="citation-popover-title">The Learning Center Skimming</span><span class="citation-popover-snippet">The Learning CenterSkimming - UNC Learning CenterSkimming is a strategic, selective reading method in which you focus on the main ideas o...</span></span></span>
+Skimming works because nonfiction writing often exposes its structure through headings and topic sentences. Research and study guides on skimming consistently describe the technique as a way to gain a rapid overview, not as a replacement for deeper reading.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://learningcenter.unc.edu/tips-and-tools/skimming/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learningcenter.unc.edu">[The Learning Center+2OER Collective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learningcenter.unc.edu</span><span class="citation-popover-title">The Learning Center Skimming</span><span class="citation-popover-snippet">The Learning CenterSkimming - UNC Learning CenterSkimming is a strategic, selective reading method in which you focus on the main ideas o...</span></span></span>
 
 The most effective fast readers therefore use a two-level approach:
 
@@ -414,239 +414,239 @@ Think of the opening sentence as a prediction about what the paragraph will prov
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Topic Sentences Can Mislead Skimmers. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Topic Sentences Can Mislead Skimmers. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Teaches readers to test whether a claim is actually supported.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Teaches readers to test whether a claim is actually supported.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Critical Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Xg4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Critical Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Critical Thinking">Critical Thinking</a>
-        </h4>
-        <p class="fr-book-author">By Tom Chatfield</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Critical Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Xg4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Critical Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Critical Thinking">Critical Thinking</a>
+</h4>
+<p class="fr-book-author">By Tom Chatfield</p>
         
-        <p class="fr-book-desc">Focuses on evaluating arguments beyond surface statements.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating arguments beyond surface statements.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Encourages scrutiny of evidence behind strong claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages scrutiny of evidence behind strong claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains why people accept topic sentences as proof without verification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why people accept topic sentences as proof without verification.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Critical+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Critical+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: owl.purdue.edu  
    Title: OWLOn Paragraphs  
-   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/paragraphs_and_paragraphing/index.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/paragraphs_and_paragraphing/index.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWLOn Paragraphs - Purdue OWLA topic sentence is a sentence that indicates in a general way what idea or thesis the paragraph is g...</p></details>
+   Link:<a href="https://owl.purdue.edu/owl/general_writing/academic_writing/paragraphs_and_paragraphing/index.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/paragraphs_and_paragraphing/index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWLOn Paragraphs - Purdue OWLA topic sentence is a sentence that indicates in a general way what idea or thesis the paragraph is g...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: touro.edu  
-   Link: <a href="https://www.touro.edu/departments/writing-center/tutorials/topic-sentence/" target="_blank" rel="noopener noreferrer nofollow">https://www.touro.edu/departments/writing-center/tutorials/topic-sentence/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Touro UniversityTopic SentenceA topic sentence is the most important sentence in a paragraph. Sometimes referred to as a focus sentence...</p></details>
+   Link:<a href="https://www.touro.edu/departments/writing-center/tutorials/topic-sentence/" target="_blank" rel="noopener noreferrer nofollow">https://www.touro.edu/departments/writing-center/tutorials/topic-sentence/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Touro UniversityTopic SentenceA topic sentence is the most important sentence in a paragraph. Sometimes referred to as a focus sentence...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: owl.purdue.edu  
    Title: OWLBody Paragraphs  
-   Link: <a href="https://owl.purdue.edu/owl/general_writing/common_writing_assignments/argument_papers/body_paragraphs.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/common_writing_assignments/argument_papers/body_paragraphs.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWLBody Paragraphs - Purdue OWLA good paragraph should contain at least the following four elements: Transition, Topic sentence, s...</p></details>
+   Link:<a href="https://owl.purdue.edu/owl/general_writing/common_writing_assignments/argument_papers/body_paragraphs.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/common_writing_assignments/argument_papers/body_paragraphs.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWLBody Paragraphs - Purdue OWLA good paragraph should contain at least the following four elements: Transition, Topic sentence, s...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: butte.edu  
    Title: Glenn Community College Skimming and [Scanning](&#123;&#123; 'scanning-vs-reading/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.butte.edu/departments/cas/tipsheets/readingstrategies/skimming_scanning.html" target="_blank" rel="noopener noreferrer nofollow">https://www.butte.edu/departments/cas/tipsheets/readingstrategies/skimming_scanning.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Skimming and Scanning - TIP SheetSkimming is reading rapidly in order to get a general overview of the material. Scanning is reading rapi...</p></details>
+   Link:<a href="https://www.butte.edu/departments/cas/tipsheets/readingstrategies/skimming_scanning.html" target="_blank" rel="noopener noreferrer nofollow">https://www.butte.edu/departments/cas/tipsheets/readingstrategies/skimming_scanning.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skimming and Scanning - TIP SheetSkimming is reading rapidly in order to get a general overview of the material. Scanning is reading rapi...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: owl.purdue.edu  
-   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/paragraphs_and_paragraphing/paragraphing.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/paragraphs_and_paragraphing/paragraphing.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(Length Consistency) - Purdue OWLPut only one main idea per paragraph. Aim for three to five or more sentences per paragraph. Include on...</p></details>
+   Link:<a href="https://owl.purdue.edu/owl/general_writing/academic_writing/paragraphs_and_paragraphing/paragraphing.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/paragraphs_and_paragraphing/paragraphing.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(Length Consistency) - Purdue OWLPut only one main idea per paragraph. Aim for three to five or more sentences per paragraph. Include on...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: owl.purdue.edu  
-   Link: <a href="https://owl.purdue.edu/owl/general_writing/academic_writing/index.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/index.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Writing Introduction - Purdue OWLThe OWL resources range from rhetorical approaches for writing, to document organization, to sentence le...</p></details>
+   Link:<a href="https://owl.purdue.edu/owl/general_writing/academic_writing/index.html" target="_blank" rel="noopener noreferrer nofollow">https://owl.purdue.edu/owl/general_writing/academic_writing/index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Writing Introduction - Purdue OWLThe OWL resources range from rhetorical approaches for writing, to document organization, to sentence le...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: topic.com  
-   Link: <a href="https://topic.com/" target="_blank" rel="noopener noreferrer nofollow">https://topic.com/</a>  
+   Link:<a href="https://topic.com/" target="_blank" rel="noopener noreferrer nofollow">https://topic.com/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: wts.indiana.edu  
    Title: Writing Tutorial Services Paragraphs & Topic Sentences  
-   Link: <a href="https://wts.indiana.edu/writing-guides/paragraphs-and-topic-sentences.html" target="_blank" rel="noopener noreferrer nofollow">https://wts.indiana.edu/writing-guides/paragraphs-and-topic-sentences.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Writing Tutorial ServicesParagraphs &amp; Topic Sentences - Writing Tutorial ServicesA well-organized paragraph supports or develops a single...</p></details>
+   Link:<a href="https://wts.indiana.edu/writing-guides/paragraphs-and-topic-sentences.html" target="_blank" rel="noopener noreferrer nofollow">https://wts.indiana.edu/writing-guides/paragraphs-and-topic-sentences.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Writing Tutorial ServicesParagraphs &amp; Topic Sentences - Writing Tutorial ServicesA well-organized paragraph supports or develops a single...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: purdueglobalwriting.center  
-   Link: <a href="https://purdueglobalwriting.center/topic-sentence-and-paragraph-organization/" target="_blank" rel="noopener noreferrer nofollow">https://purdueglobalwriting.center/topic-sentence-and-paragraph-organization/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue Global Success CenterTopic Sentence and Paragraph OrganizationA topic sentence has two parts: 1) the topic that is being discussed...</p></details>
+   Link:<a href="https://purdueglobalwriting.center/topic-sentence-and-paragraph-organization/" target="_blank" rel="noopener noreferrer nofollow">https://purdueglobalwriting.center/topic-sentence-and-paragraph-organization/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue Global Success CenterTopic Sentence and Paragraph OrganizationA topic sentence has two parts: 1) the topic that is being discussed...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: scribbr.com  
    Title: topic sentences  
-   Link: <a href="https://www.scribbr.com/research-paper/topic-sentences/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/research-paper/topic-sentences/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Write Topic Sentences | 4 Steps, Examples &amp; PurposeJul 21, 2022 — A topic sentence sums up the main point of each paragraph. Use t...</p></details>
+   Link:<a href="https://www.scribbr.com/research-paper/topic-sentences/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/research-paper/topic-sentences/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Write Topic Sentences | 4 Steps, Examples &amp; PurposeJul 21, 2022 — A topic sentence sums up the main point of each paragraph. Use t...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: learningcenter.unc.edu  
    Title: The Learning Center Skimming  
-   Link: <a href="https://learningcenter.unc.edu/tips-and-tools/skimming/" target="_blank" rel="noopener noreferrer nofollow">https://learningcenter.unc.edu/tips-and-tools/skimming/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Learning CenterSkimming - UNC Learning CenterSkimming is a strategic, selective reading method in which you focus on the main ideas o...</p></details>
+   Link:<a href="https://learningcenter.unc.edu/tips-and-tools/skimming/" target="_blank" rel="noopener noreferrer nofollow">https://learningcenter.unc.edu/tips-and-tools/skimming/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Learning CenterSkimming - UNC Learning CenterSkimming is a strategic, selective reading method in which you focus on the main ideas o...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: oercollective.caul.edu.au  
-   Link: <a href="https://oercollective.caul.edu.au/communication/chapter/skimming-and-scanning/" target="_blank" rel="noopener noreferrer nofollow">https://oercollective.caul.edu.au/communication/chapter/skimming-and-scanning/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OER CollectiveChapter 7: Skimming and ScanningSkimming is a time-saving beginning to reading, but it should not replace in-depth reading...</p></details>
+   Link:<a href="https://oercollective.caul.edu.au/communication/chapter/skimming-and-scanning/" target="_blank" rel="noopener noreferrer nofollow">https://oercollective.caul.edu.au/communication/chapter/skimming-and-scanning/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OER CollectiveChapter 7: Skimming and ScanningSkimming is a time-saving beginning to reading, but it should not replace in-depth reading...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/us/dictionary/english/topic" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/us/dictionary/english/topic</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>definition in the Cambridge English Dictionarya subject that is discussed, written about, or studied: Our discussion included topics su...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/us/dictionary/english/topic" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/us/dictionary/english/topic</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>definition in the Cambridge English Dictionarya subject that is discussed, written about, or studied: Our discussion included topics su...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/topic" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/topic</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionarya subject that is discussed, written about, or studied: Our discussion included topics such as ac...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/topic" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/topic</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionarya subject that is discussed, written about, or studied: Our discussion included topics such as ac...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: purdueglobal.edu  
    Title: Purdue Global  
-   Link: <a href="https://www.purdueglobal.edu/" target="_blank" rel="noopener noreferrer nofollow">https://www.purdueglobal.edu/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An Accredited Online UniversityPurdue Global is 100% online so you can fit earning a degree into your busy life. Take undergraduate cours...</p></details>
+   Link:<a href="https://www.purdueglobal.edu/" target="_blank" rel="noopener noreferrer nofollow">https://www.purdueglobal.edu/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An Accredited Online UniversityPurdue Global is 100% online so you can fit earning a degree into your busy life. Take undergraduate cours...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/320684141/Purdue-OWL-Paragraphs-and-Paragraphing" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/320684141/Purdue-OWL-Paragraphs-and-Paragraphing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWL Paragraphs and Paragraphing | PDFMar 1, 2013 — A topic sentence is a sentence that indicates in a general way what idea or the...</p></details>
+   Link:<a href="https://www.scribd.com/document/320684141/Purdue-OWL-Paragraphs-and-Paragraphing" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/320684141/Purdue-OWL-Paragraphs-and-Paragraphing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Purdue OWL Paragraphs and Paragraphing | PDFMar 1, 2013 — A topic sentence is a sentence that indicates in a general way what idea or the...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: courses.lumenlearning.com  
    Title: Use skimming to quickly  
-   Link: <a href="https://courses.lumenlearning.com/suny-mcc-college-composition/chapter/outcome-reading-strategies/" target="_blank" rel="noopener noreferrer nofollow">https://courses.lumenlearning.com/suny-mcc-college-composition/chapter/outcome-reading-strategies/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Strategies | College CompositionSkimming is used to quickly gather the most important information, or “gist.” Run your eyes over the text...</p></details>
+   Link:<a href="https://courses.lumenlearning.com/suny-mcc-college-composition/chapter/outcome-reading-strategies/" target="_blank" rel="noopener noreferrer nofollow">https://courses.lumenlearning.com/suny-mcc-college-composition/chapter/outcome-reading-strategies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Strategies | College CompositionSkimming is used to quickly gather the most important information, or “gist.” Run your eyes over the text...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: papersowl.com  
    Title: topic sentence  
-   Link: <a href="https://papersowl.com/blog/topic-sentence" target="_blank" rel="noopener noreferrer nofollow">https://papersowl.com/blog/topic-sentence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s your reader&#x27;s guide to what each section covers. Effective topic sentence...Read more...</p></details>
+   Link:<a href="https://papersowl.com/blog/topic-sentence" target="_blank" rel="noopener noreferrer nofollow">https://papersowl.com/blog/topic-sentence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s your reader&#x27;s guide to what each section covers. Effective topic sentence...Read more...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: learn.rumie.org  
-   Link: <a href="https://learn.rumie.org/jR/bytes/need-to-improve-your-reading-strategies-try-skimming-scanning-for-better-comprehension/" target="_blank" rel="noopener noreferrer nofollow">https://learn.rumie.org/jR/bytes/need-to-improve-your-reading-strategies-try-skimming-scanning-for-better-comprehension/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Improve Your Reading Strategies with Skimming &amp; ScanningRead the topic sentences (first sentence in the paragraph) and last sentence...</p></details>
+   Link:<a href="https://learn.rumie.org/jR/bytes/need-to-improve-your-reading-strategies-try-skimming-scanning-for-better-comprehension/" target="_blank" rel="noopener noreferrer nofollow">https://learn.rumie.org/jR/bytes/need-to-improve-your-reading-strategies-try-skimming-scanning-for-better-comprehension/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Improve Your Reading Strategies with Skimming &amp; ScanningRead the topic sentences (first sentence in the paragraph) and last sentence...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: amle.org  
-   Link: <a href="https://www.amle.org/skimming-and-scanning-for-understanding/" target="_blank" rel="noopener noreferrer nofollow">https://www.amle.org/skimming-and-scanning-for-understanding/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skimming and Scanning for UnderstandingSkimming and scanning are great techniques to help students read long, complex pieces. As they pra...</p></details>
+   Link:<a href="https://www.amle.org/skimming-and-scanning-for-understanding/" target="_blank" rel="noopener noreferrer nofollow">https://www.amle.org/skimming-and-scanning-for-understanding/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skimming and Scanning for UnderstandingSkimming and scanning are great techniques to help students read long, complex pieces. As they pra...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: usetopic.com  
-   Link: <a href="https://www.usetopic.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.usetopic.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Topic: The Best SEO Content Optimization ToolCreate quality SEO content, faster. Topic helps editors and agencies create content briefs i...</p></details>
+   Link:<a href="https://www.usetopic.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.usetopic.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Topic: The Best SEO Content Optimization ToolCreate quality SEO content, faster. Topic helps editors and agencies create content briefs i...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: utc.edu  
-   Link: <a href="https://www.utc.edu/enrollment-management-and-student-affairs/center-for-academic-support-and-advisement/tips-for-academic-success/skimming" target="_blank" rel="noopener noreferrer nofollow">https://www.utc.edu/enrollment-management-and-student-affairs/center-for-academic-support-and-advisement/tips-for-academic-success/skimming</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skimming and Scanning | University of Tennessee at...Skimming and scanning are two very different strategies for [speed reading](&amp;#123;&amp;#123; &#x27;myths/&#x27; | relative_url &amp;#125;&amp;#125;). They are...</p></details>
+   Link:<a href="https://www.utc.edu/enrollment-management-and-student-affairs/center-for-academic-support-and-advisement/tips-for-academic-success/skimming" target="_blank" rel="noopener noreferrer nofollow">https://www.utc.edu/enrollment-management-and-student-affairs/center-for-academic-support-and-advisement/tips-for-academic-success/skimming</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skimming and Scanning | University of Tennessee at...Skimming and scanning are two very different strategies for [speed reading](&amp;#123;&amp;#123; &#x27;myths/&#x27; | relative_url &amp;#125;&amp;#125;). They are...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: purduesports.com  
-   Link: <a href="https://purduesports.com/" target="_blank" rel="noopener noreferrer nofollow">https://purduesports.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Home Page - Purdue Boilermakers - Official Athletics WebsiteThe Official Athletic Site of Purdue University, partner of WMT Digital...</p></details>
+   Link:<a href="https://purduesports.com/" target="_blank" rel="noopener noreferrer nofollow">https://purduesports.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Home Page - Purdue Boilermakers - Official Athletics WebsiteThe Official Athletic Site of Purdue University, partner of WMT Digital...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=7MTAdhoqcOk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7MTAdhoqcOk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IWE: Paragraph Organization and FlowIn this IWE lecture, Heather from the Writing Lab helps thesis and dissertation writers organize thei...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7MTAdhoqcOk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7MTAdhoqcOk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IWE: Paragraph Organization and FlowIn this IWE lecture, Heather from the Writing Lab helps thesis and dissertation writers organize thei...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/channel/UCa11JO6WBzyxUV4fOPczfFw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/channel/UCa11JO6WBzyxUV4fOPczfFw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TopicWatch all of TOPIC&#x27;s official music videos incl. collabs &amp; Remixes. Including his hit singles, remixes... and many more in this off...</p></details>
+   Link:<a href="https://www.youtube.com/channel/UCa11JO6WBzyxUV4fOPczfFw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/channel/UCa11JO6WBzyxUV4fOPczfFw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TopicWatch all of TOPIC&#x27;s official music videos incl. collabs &amp; Remixes. Including his hit singles, remixes... and many more in this off...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=3g2UYgOjbh0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3g2UYgOjbh0</a>  
+   Link:<a href="https://www.youtube.com/watch?v=3g2UYgOjbh0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3g2UYgOjbh0</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: scoilnet.ie  
-   Link: <a href="https://www.scoilnet.ie/uploads/resources/40694/40553.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scoilnet.ie/uploads/resources/40694/40553.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When skimming, we read the entire text and take note of different components such...</p></details>
+   Link:<a href="https://www.scoilnet.ie/uploads/resources/40694/40553.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scoilnet.ie/uploads/resources/40694/40553.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When skimming, we read the entire text and take note of different components such...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: merriam-webster.com  
    Title: TOPI C Definition & Meaning4 days ago — 1  
-   Link: <a href="https://www.merriam-webster.com/dictionary/topic" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/topic</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a... the subject of a discourse or of a section of a discourse... b... a heading in an outlined argument or exposition... 2... a...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/topic" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/topic</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a... the subject of a discourse or of a section of a discourse... b... a heading in an outlined argument or exposition... 2... a...</p></details>

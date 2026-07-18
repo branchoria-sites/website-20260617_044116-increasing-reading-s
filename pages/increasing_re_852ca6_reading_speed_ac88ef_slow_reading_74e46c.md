@@ -294,7 +294,7 @@ image: /assets/images/increasing_re_852ca6_reading_speed_ac88ef_slow_reading_74e
 
 ## Introduction
 
-Slow reading is not always a problem. In many situations, it is a sign that the text itself is demanding careful thought. A dense scientific paper, a legal contract, a philosophical argument, or a [technical]({{ 'technical-texts/' | relative_url }}) manual often requires a slower pace because the reader is building understanding rather than merely recognising words. Within realistic adult reading [benchmarks]({{ 'benchmarks/' | relative_url }}), speed only becomes meaningful when considered alongside comprehension and text difficulty. Research suggests that average adult silent reading is around 238 words per minute (wpm) for non-fiction and 260 wpm for fiction, but individual rates naturally fall well above and below those averages depending on the task. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://biblio.ugent.be/publication/8647789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: biblio.ugent.be">[Ghent University Bibliography]</a><span class="citation-popover" role="note"><span class="citation-popover-source">biblio.ugent.be</span><span class="citation-popover-title">Ghent University Bibliography How many words do we read per minute?</span><span class="citation-popover-snippet">A review and meta...by M Brysbaert · 2019 · Cited by 817 —... reading rate for adults in English is 238 words per minute (wpm) for non...</span></span></span>
+Slow reading is not always a problem. In many situations, it is a sign that the text itself is demanding careful thought. A dense scientific paper, a legal contract, a philosophical argument, or a [technical]({{ 'technical-texts/' | relative_url }}) manual often requires a slower pace because the reader is building understanding rather than merely recognising words. Within realistic adult reading [benchmarks]({{ 'benchmarks/' | relative_url }}), speed only becomes meaningful when considered alongside comprehension and text difficulty. Research suggests that average adult silent reading is around 238 words per minute (wpm) for non-fiction and 260 wpm for fiction, but individual rates naturally fall well above and below those averages depending on the task.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://biblio.ugent.be/publication/8647789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: biblio.ugent.be">[Ghent University Bibliography]</a><span class="citation-popover" role="note"><span class="citation-popover-source">biblio.ugent.be</span><span class="citation-popover-title">Ghent University Bibliography How many words do we read per minute?</span><span class="citation-popover-snippet">A review and meta...by M Brysbaert · 2019 · Cited by 817 —... reading rate for adults in English is 238 words per minute (wpm) for non...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef_slow_reading_74e46c-Illustration-1-dark.svg" | relative_url }}" alt="Slow Reading illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef_slow_reading_74e46c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef_slow_reading_74e46c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -315,7 +315,7 @@ One useful rule is:
 * **Slow reading of difficult material is often normal.**
 * **Slow reading of easy material deserves investigation.**
 
-This distinction matters because many [speed-reading]({{ 'myths/' | relative_url }}) discussions treat all slow reading as a defect. Research on reading consistently shows that task demands strongly influence realistic reading rates, making a single personal speed number a poor measure of reading skill. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://biblio.ugent.be/publication/8647789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: biblio.ugent.be">[Ghent University Bibliography]</a><span class="citation-popover" role="note"><span class="citation-popover-source">biblio.ugent.be</span><span class="citation-popover-title">Ghent University Bibliography How many words do we read per minute?</span><span class="citation-popover-snippet">A review and meta...by M Brysbaert · 2019 · Cited by 817 —... reading rate for adults in English is 238 words per minute (wpm) for non...</span></span></span>
+This distinction matters because many [speed-reading]({{ 'myths/' | relative_url }}) discussions treat all slow reading as a defect. Research on reading consistently shows that task demands strongly influence realistic reading rates, making a single personal speed number a poor measure of reading skill.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://biblio.ugent.be/publication/8647789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: biblio.ugent.be">[Ghent University Bibliography]</a><span class="citation-popover" role="note"><span class="citation-popover-source">biblio.ugent.be</span><span class="citation-popover-title">Ghent University Bibliography How many words do we read per minute?</span><span class="citation-popover-snippet">A review and meta...by M Brysbaert · 2019 · Cited by 817 —... reading rate for adults in English is 238 words per minute (wpm) for non...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5RfMMBTLDms" title="A Psychology Professor discovered the secret to SPEED READING - it&#x27;s simple" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5RfMMBTLDms" target="_blank" rel="noopener noreferrer">A Psychology Professor discovered the secret to SPEED READING - it&#x27;s simple</a></p><p class="youtube-embed-meta">Channel: Python Programmer &middot; Views: 188.8K &middot; Uploaded: November 2023 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5RfMMBTLDms" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5RfMMBTLDms">Open on YouTube</a></p></div></div></div>
@@ -326,7 +326,7 @@ The most revealing indicator of reading effectiveness is not words per minute bu
 
 A reader moving through a complex article at 120 wpm who can accurately explain the argument may be reading more effectively than someone racing through at 300 wpm and remembering only fragments.
 
-Research reviews of speed-reading claims repeatedly find that large gains in speed usually come with comprehension costs. While readers can skim for general ideas, there is little evidence that people can dramatically exceed normal reading rates while maintaining full understanding of detailed material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 537 — So Much to Read, So Little Time: How Do We Read, and Can Speed Reading Help? Psychol Sci Public...</span></span></span>
+Research reviews of speed-reading claims repeatedly find that large gains in speed usually come with comprehension costs. While readers can skim for general ideas, there is little evidence that people can dramatically exceed normal reading rates while maintaining full understanding of detailed material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 537 — So Much to Read, So Little Time: How Do We Read, and Can Speed Reading Help? Psychol Sci Public...</span></span></span>
 
 Useful friction often produces signs such as:
 
@@ -370,7 +370,7 @@ When reading remains unusually slow across a wide range of easy texts, several f
 
 ### Vocabulary Gaps
 
-Readers process familiar words much faster than unfamiliar ones. Decades of psycholinguistic research show that word frequency strongly affects recognition speed. Rare or unfamiliar vocabulary creates additional processing demands because the brain must devote more effort to identifying and interpreting the word. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/21768069/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The word frequency effect: a review of recent...by M Brysbaert · 2011 · Cited by 686 — We review recent evidence indicating that r...</span></span></span>
+Readers process familiar words much faster than unfamiliar ones. Decades of psycholinguistic research show that word frequency strongly affects recognition speed. Rare or unfamiliar vocabulary creates additional processing demands because the brain must devote more effort to identifying and interpreting the word.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/21768069/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The word frequency effect: a review of recent...by M Brysbaert · 2011 · Cited by 686 — We review recent evidence indicating that r...</span></span></span>
 
 Someone entering a new field may temporarily read slowly simply because the terminology is unfamiliar. This usually improves with exposure.
 
@@ -397,9 +397,9 @@ Persistent discomfort, headaches, or difficulty sustaining reading are often bet
 
 Some adults continue to experience reading fluency difficulties that originated in childhood, even if they developed effective coping strategies.
 
-Organisations specialising in dyslexia note that adults with reading difficulties may read slowly, need to reread frequently, struggle to skim efficiently, or find reading unusually effortful despite adequate intelligence and education. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bdadyslexia.org.uk/advice/adults/am-i-dyslexic/signs-of-dyslexia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bdadyslexia.org.uk">[British Dyslexia Association+2International Dyslexia Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bdadyslexia.org.uk</span><span class="citation-popover-snippet">British Dyslexia AssociationSigns of dyslexia (adult)Signs of dyslexia (adult) · Confuse visually similar words such as cat and cot · Spe...</span></span></span>
+Organisations specialising in dyslexia note that adults with reading difficulties may read slowly, need to reread frequently, struggle to skim efficiently, or find reading unusually effortful despite adequate intelligence and education.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bdadyslexia.org.uk/advice/adults/am-i-dyslexic/signs-of-dyslexia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bdadyslexia.org.uk">[British Dyslexia Association+2International Dyslexia Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bdadyslexia.org.uk</span><span class="citation-popover-snippet">British Dyslexia AssociationSigns of dyslexia (adult)Signs of dyslexia (adult) · Confuse visually similar words such as cat and cot · Spe...</span></span></span>
 
-Importantly, slow reading alone does not indicate dyslexia. However, persistent slowness combined with a history of reading struggles, spelling difficulties, word-recognition problems, or heavy reliance on rereading may justify further assessment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mayoclinic.org/diseases-conditions/dyslexia/symptoms-causes/syc-20353552" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mayoclinic.org">[Mayo Clinic+2International Dyslexia Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mayoclinic.org</span><span class="citation-popover-title">Mayo Clinic Dyslexia</span><span class="citation-popover-snippet">Mayo ClinicDyslexia - Symptoms and causes6 Aug 2022 — Difficulty reading, including reading aloud · Slow and labor-intensive reading and...</span></span></span>
+Importantly, slow reading alone does not indicate dyslexia. However, persistent slowness combined with a history of reading struggles, spelling difficulties, word-recognition problems, or heavy reliance on rereading may justify further assessment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mayoclinic.org/diseases-conditions/dyslexia/symptoms-causes/syc-20353552" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mayoclinic.org">[Mayo Clinic+2International Dyslexia Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mayoclinic.org</span><span class="citation-popover-title">Mayo Clinic Dyslexia</span><span class="citation-popover-snippet">Mayo ClinicDyslexia - Symptoms and causes6 Aug 2022 — Difficulty reading, including reading aloud · Slow and labor-intensive reading and...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef_slow_reading_74e46c-Illustration-3-dark.svg" | relative_url }}" alt="Slow Reading illustration 3" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef_slow_reading_74e46c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef_slow_reading_74e46c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -409,7 +409,7 @@ Modern readers are exposed to constant messages about productivity, information 
 
 Historically, however, reading was often evaluated by understanding rather than speed. The pressure to maximise words per minute is relatively recent and has been amplified by commercial speed-reading programmes.
 
-Research reviews have repeatedly concluded that reading speed cannot be increased indefinitely without affecting comprehension. Human reading remains constrained by visual processing, language comprehension, memory, and attention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2USF Faculty]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 537 — So Much to Read, So Little Time: How Do We Read, and Can Speed Reading Help? Psychol Sci Public...</span></span></span>
+Research reviews have repeatedly concluded that reading speed cannot be increased indefinitely without affecting comprehension. Human reading remains constrained by visual processing, language comprehension, memory, and attention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2USF Faculty]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 537 — So Much to Read, So Little Time: How Do We Read, and Can Speed Reading Help? Psychol Sci Public...</span></span></span>
 
 Seen from that perspective, some forms of slow reading are not obstacles to learning but evidence that learning is happening.
 
@@ -426,178 +426,178 @@ The goal of increasing reading speed is therefore not to eliminate all friction.
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Slow Reading Is a Problem. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Slow Reading Is a Problem. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Explains why different texts require different reading speeds.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Explains why different texts require different reading speeds.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Proust and the Squid on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4940484-M.jpg" alt="Cover for Proust and the Squid" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Proust and the Squid">Proust and the Squid</a>
-        </h4>
-        <p class="fr-book-author">By Maryanne Wolf</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Proust and the Squid on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4940484-M.jpg" alt="Cover for Proust and the Squid" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Proust and the Squid">Proust and the Squid</a>
+</h4>
+<p class="fr-book-author">By Maryanne Wolf</p>
         
-        <p class="fr-book-desc">First published 2007. Subjects: Brain, Evolution, Reading history, Neurophysiology, Reading comprehension.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2007. Subjects: Brain, Evolution, Reading history, Neurophysiology, Reading comprehension.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Reader%2C+Come+Home+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reader, Come Home on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10170090-M.jpg" alt="Cover for Reader, Come Home" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Reader%2C+Come+Home+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reader, Come Home">Reader, Come Home</a>
-        </h4>
-        <p class="fr-book-author">By Maryanne Wolf</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Reader%2C+Come+Home+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reader, Come Home on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10170090-M.jpg" alt="Cover for Reader, Come Home" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Reader%2C+Come+Home+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reader, Come Home">Reader, Come Home</a>
+</h4>
+<p class="fr-book-author">By Maryanne Wolf</p>
         
-        <p class="fr-book-desc">First published 2018. Subjects: Books and reading, Technological innovations, Psychology of Reading, Psychological aspects, Reading compr...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Reader%2C+Come+Home+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2018. Subjects: Books and reading, Technological innovations, Psychology of Reading, Psychological aspects, Reading compr...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Reader%2C+Come+Home+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Speed Reading Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/375099-M.jpg" alt="Cover for The Speed Reading Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Speed Reading Book">The Speed Reading Book</a>
-        </h4>
-        <p class="fr-book-author">By Tony Buzan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Speed Reading Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/375099-M.jpg" alt="Cover for The Speed Reading Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Speed Reading Book">The Speed Reading Book</a>
+</h4>
+<p class="fr-book-author">By Tony Buzan</p>
         
-        <p class="fr-book-desc">First published 1997. Subjects: Speed reading, Développement d&#x27;aptitudes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1997. Subjects: Speed reading, Développement d&#x27;aptitudes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Proust+and+the+Squid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Proust and the Squid</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Reader%2C+Come+Home&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Reader, Come Home</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Proust+and+the+Squid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Proust and the Squid</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Reader%2C+Come+Home&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Reader, Come Home</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slow-reading-when-slow-reading-is-a-problem-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="slow-reading-when-slow-reading-is-a-problem-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desk Organiser Tray Organiser Office File Organiser Engineered wood vidaXL"><img src="{{ '/assets/images/marketplace-covers/509c5226465c913ad15d.jpg' | relative_url }}" alt="Listing image for Desk Organiser Tray Organiser Office File Organiser Engineered wood vidaXL" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slow-reading-when-slow-reading-is-a-problem-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="slow-reading-when-slow-reading-is-a-problem-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Desk Organiser Tray Organiser Office File Organiser Engineered wood vidaXL</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slow-reading-when-slow-reading-is-a-problem-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="slow-reading-when-slow-reading-is-a-problem-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: study desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slow-reading-when-slow-reading-is-a-problem-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="slow-reading-when-slow-reading-is-a-problem-increasing-study-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slow-reading-when-slow-reading-is-a-problem-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="slow-reading-when-slow-reading-is-a-problem-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desk Organiser Tray Organiser Office File Organiser Engineered wood vidaXL"><img src="{{ '/assets/images/marketplace-covers/509c5226465c913ad15d.jpg' | relative_url }}" alt="Listing image for Desk Organiser Tray Organiser Office File Organiser Engineered wood vidaXL" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slow-reading-when-slow-reading-is-a-problem-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="slow-reading-when-slow-reading-is-a-problem-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Desk Organiser Tray Organiser Office File Organiser Engineered wood vidaXL</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slow-reading-when-slow-reading-is-a-problem-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="slow-reading-when-slow-reading-is-a-problem-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: study desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slow-reading-when-slow-reading-is-a-problem-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="slow-reading-when-slow-reading-is-a-problem-increasing-study-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slow-reading-when-slow-reading-is-a-problem-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="slow-reading-when-slow-reading-is-a-problem-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Under Desk Drawers Study Table Drawer Tray Pencil Storage Organizer Box Holder"><img src="{{ '/assets/images/marketplace-covers/33486c199d5fa156bbf4.jpg' | relative_url }}" alt="Listing image for Under Desk Drawers Study Table Drawer Tray Pencil Storage Organizer Box Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slow-reading-when-slow-reading-is-a-problem-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="slow-reading-when-slow-reading-is-a-problem-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Under Desk Drawers Study Table Drawer Tray Pencil Storage Organizer Box Holder</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slow-reading-when-slow-reading-is-a-problem-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="slow-reading-when-slow-reading-is-a-problem-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: study desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slow-reading-when-slow-reading-is-a-problem-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="slow-reading-when-slow-reading-is-a-problem-increasing-study-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slow-reading-when-slow-reading-is-a-problem-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="slow-reading-when-slow-reading-is-a-problem-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Under Desk Drawers Study Table Drawer Tray Pencil Storage Organizer Box Holder"><img src="{{ '/assets/images/marketplace-covers/33486c199d5fa156bbf4.jpg' | relative_url }}" alt="Listing image for Under Desk Drawers Study Table Drawer Tray Pencil Storage Organizer Box Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slow-reading-when-slow-reading-is-a-problem-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="slow-reading-when-slow-reading-is-a-problem-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Under Desk Drawers Study Table Drawer Tray Pencil Storage Organizer Box Holder</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slow-reading-when-slow-reading-is-a-problem-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="slow-reading-when-slow-reading-is-a-problem-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: study desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slow-reading-when-slow-reading-is-a-problem-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="slow-reading-when-slow-reading-is-a-problem-increasing-study-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slow-reading-when-slow-reading-is-a-problem-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="slow-reading-when-slow-reading-is-a-problem-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Office Study Desk Organizer Table Box Tidy Case Display Stationaries Pen Holder"><img src="{{ '/assets/images/marketplace-covers/5c9ca9153eac647ccfb2.jpg' | relative_url }}" alt="Listing image for Office Study Desk Organizer Table Box Tidy Case Display Stationaries Pen Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slow-reading-when-slow-reading-is-a-problem-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="slow-reading-when-slow-reading-is-a-problem-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Office Study Desk Organizer Table Box Tidy Case Display Stationaries Pen Holder</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slow-reading-when-slow-reading-is-a-problem-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="slow-reading-when-slow-reading-is-a-problem-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: study desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slow-reading-when-slow-reading-is-a-problem-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="slow-reading-when-slow-reading-is-a-problem-increasing-study-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slow-reading-when-slow-reading-is-a-problem-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="slow-reading-when-slow-reading-is-a-problem-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slow-reading-when-slow-reading-is-a-problem-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="slow-reading-when-slow-reading-is-a-problem-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Office Study Desk Organizer Table Box Tidy Case Display Stationaries Pen Holder"><img src="{{ '/assets/images/marketplace-covers/5c9ca9153eac647ccfb2.jpg' | relative_url }}" alt="Listing image for Office Study Desk Organizer Table Box Tidy Case Display Stationaries Pen Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slow-reading-when-slow-reading-is-a-problem-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="slow-reading-when-slow-reading-is-a-problem-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Office Study Desk Organizer Table Box Tidy Case Display Stationaries Pen Holder</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slow-reading-when-slow-reading-is-a-problem-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="slow-reading-when-slow-reading-is-a-problem-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: study desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slow-reading-when-slow-reading-is-a-problem-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="slow-reading-when-slow-reading-is-a-problem-increasing-study-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=slow-reading-when-slow-reading-is-a-problem-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="slow-reading-when-slow-reading-is-a-problem-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -613,7 +613,7 @@ The goal of increasing reading speed is therefore not to eliminate all friction.
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -633,7 +633,7 @@ The goal of increasing reading speed is therefore not to eliminate all friction.
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -665,7 +665,7 @@ The goal of increasing reading speed is therefore not to eliminate all friction.
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -717,7 +717,7 @@ The goal of increasing reading speed is therefore not to eliminate all friction.
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -762,7 +762,7 @@ The goal of increasing reading speed is therefore not to eliminate all friction.
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -803,128 +803,128 @@ The goal of increasing reading speed is therefore not to eliminate all friction.
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: faculty.cas.usf.edu  
    Title: Rayner Schotter Masson Potter Treiman 2016 PSPI  
-   Link: <a href="https://faculty.cas.usf.edu/eschotter/papers/Rayner_Schotter_Masson_Potter_Treiman_2016_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://faculty.cas.usf.edu/eschotter/papers/Rayner_Schotter_Masson_Potter_Treiman_2016_PSPI.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>USF FacultyHow Do We Read, and Can Speed Reading Help?by K Rayner · 2016 · Cited by 522 — The current article reviews what the scientific...</p></details>
+   Link:<a href="https://faculty.cas.usf.edu/eschotter/papers/Rayner_Schotter_Masson_Potter_Treiman_2016_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://faculty.cas.usf.edu/eschotter/papers/Rayner_Schotter_Masson_Potter_Treiman_2016_PSPI.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USF FacultyHow Do We Read, and Can Speed Reading Help?by K Rayner · 2016 · Cited by 522 — The current article reviews what the scientific...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: dyslexia.com  
-   Link: <a href="https://www.dyslexia.com/about-dyslexia/signs-of-dyslexia/common-characteristics-of-adult-dyslexia/" target="_blank" rel="noopener noreferrer nofollow">https://www.dyslexia.com/about-dyslexia/signs-of-dyslexia/common-characteristics-of-adult-dyslexia/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>These characteristics are often inconsistent, and may vary depending upon...Read more...</p></details>
+   Link:<a href="https://www.dyslexia.com/about-dyslexia/signs-of-dyslexia/common-characteristics-of-adult-dyslexia/" target="_blank" rel="noopener noreferrer nofollow">https://www.dyslexia.com/about-dyslexia/signs-of-dyslexia/common-characteristics-of-adult-dyslexia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These characteristics are often inconsistent, and may vary depending upon...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: blog.dyslexia.com  
    Title: and comprehension when the words dont stick  
-   Link: <a href="https://blog.dyslexia.com/dyslexia-and-comprehension-when-the-words-dont-stick/" target="_blank" rel="noopener noreferrer nofollow">https://blog.dyslexia.com/dyslexia-and-comprehension-when-the-words-dont-stick/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Slow reading lets your brain catch up and connect the visuals and that&#x27;s where...Read more...</p></details>
+   Link:<a href="https://blog.dyslexia.com/dyslexia-and-comprehension-when-the-words-dont-stick/" target="_blank" rel="noopener noreferrer nofollow">https://blog.dyslexia.com/dyslexia-and-comprehension-when-the-words-dont-stick/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Slow reading lets your brain catch up and connect the visuals and that&#x27;s where...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: biblio.ugent.be  
    Title: Ghent University Bibliography How many words do we read per minute?  
-   Link: <a href="https://biblio.ugent.be/publication/8647789" target="_blank" rel="noopener noreferrer nofollow">https://biblio.ugent.be/publication/8647789</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A review and meta...by M Brysbaert · 2019 · Cited by 817 —... reading rate for adults in English is 238 words per minute (wpm) for non...</p></details>
+   Link:<a href="https://biblio.ugent.be/publication/8647789" target="_blank" rel="noopener noreferrer nofollow">https://biblio.ugent.be/publication/8647789</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A review and meta...by M Brysbaert · 2019 · Cited by 817 —... reading rate for adults in English is 238 words per minute (wpm) for non...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med How Do We Read, and Can Speed Reading Help?  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26769745/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by K Rayner · 2016 · Cited by 537 — So Much to Read, So Little Time: How Do We Read, and Can Speed Reading Help? Psychol Sci Public...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26769745/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by K Rayner · 2016 · Cited by 537 — So Much to Read, So Little Time: How Do We Read, and Can Speed Reading Help? Psychol Sci Public...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: psychologicalscience.org  
    Title: speed reading  
-   Link: <a href="https://www.psychologicalscience.org/publications/speed_reading.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/publications/speed_reading.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceSo Much to Read, So Little Time: How Do We Read, and...13 Jan 2016 — The report shows there is no q...</p></details>
+   Link:<a href="https://www.psychologicalscience.org/publications/speed_reading.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/publications/speed_reading.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceSo Much to Read, So Little Time: How Do We Read, and...13 Jan 2016 — The report shows there is no q...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: psychologicalscience.org  
    Title: speed reading promises are too good to be true scientists find  
-   Link: <a href="https://www.psychologicalscience.org/news/releases/speed-reading-promises-are-too-good-to-be-true-scientists-find.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/news/releases/speed-reading-promises-are-too-good-to-be-true-scientists-find.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceSpeed Reading Promises Are Too Good to Be True...Jan 14, 2016 — A team of psychological scientists...</p></details>
+   Link:<a href="https://www.psychologicalscience.org/news/releases/speed-reading-promises-are-too-good-to-be-true-scientists-find.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/news/releases/speed-reading-promises-are-too-good-to-be-true-scientists-find.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceSpeed Reading Promises Are Too Good to Be True...Jan 14, 2016 — A team of psychological scientists...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/21768069/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/21768069/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The word frequency effect: a review of recent...by M Brysbaert · 2011 · Cited by 686 — We review recent evidence indicating that r...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/21768069/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/21768069/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The word frequency effect: a review of recent...by M Brysbaert · 2011 · Cited by 686 — We review recent evidence indicating that r...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: bdadyslexia.org.uk  
-   Link: <a href="https://www.bdadyslexia.org.uk/advice/adults/am-i-dyslexic/signs-of-dyslexia" target="_blank" rel="noopener noreferrer nofollow">https://www.bdadyslexia.org.uk/advice/adults/am-i-dyslexic/signs-of-dyslexia</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>British Dyslexia AssociationSigns of dyslexia (adult)Signs of dyslexia (adult) · Confuse visually similar words such as cat and cot · Spe...</p></details>
+   Link:<a href="https://www.bdadyslexia.org.uk/advice/adults/am-i-dyslexic/signs-of-dyslexia" target="_blank" rel="noopener noreferrer nofollow">https://www.bdadyslexia.org.uk/advice/adults/am-i-dyslexic/signs-of-dyslexia</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>British Dyslexia AssociationSigns of dyslexia (adult)Signs of dyslexia (adult) · Confuse visually similar words such as cat and cot · Spe...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: dyslexiaida.org  
-   Link: <a href="https://dyslexiaida.org/dyslexia-basics/" target="_blank" rel="noopener noreferrer nofollow">https://dyslexiaida.org/dyslexia-basics/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dyslexia BasicsDyslexia refers to a cluster of symptoms, which result in people having difficulties with specific language skills, partic...</p></details>
+   Link:<a href="https://dyslexiaida.org/dyslexia-basics/" target="_blank" rel="noopener noreferrer nofollow">https://dyslexiaida.org/dyslexia-basics/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dyslexia BasicsDyslexia refers to a cluster of symptoms, which result in people having difficulties with specific language skills, partic...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: dyslexiaida.org  
-   Link: <a href="https://dyslexiaida.org/dyslexia-test/" target="_blank" rel="noopener noreferrer nofollow">https://dyslexiaida.org/dyslexia-test/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Do I Have Dyslexia?Dyslexia Self-Assessment for Adults; 1, Do you read slowly?; 2, Did you have trouble learning how to read when you w...</p></details>
+   Link:<a href="https://dyslexiaida.org/dyslexia-test/" target="_blank" rel="noopener noreferrer nofollow">https://dyslexiaida.org/dyslexia-test/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Do I Have Dyslexia?Dyslexia Self-Assessment for Adults; 1, Do you read slowly?; 2, Did you have trouble learning how to read when you w...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: mayoclinic.org  
    Title: Mayo Clinic Dyslexia  
-   Link: <a href="https://www.mayoclinic.org/diseases-conditions/dyslexia/symptoms-causes/syc-20353552" target="_blank" rel="noopener noreferrer nofollow">https://www.mayoclinic.org/diseases-conditions/dyslexia/symptoms-causes/syc-20353552</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mayo ClinicDyslexia - Symptoms and causes6 Aug 2022 — Difficulty reading, including [reading aloud](&amp;#123;&amp;#123; &#x27;reading-aloud/&#x27; | relative_url &amp;#125;&amp;#125;) · Slow and labor-intensive reading and...</p></details>
+   Link:<a href="https://www.mayoclinic.org/diseases-conditions/dyslexia/symptoms-causes/syc-20353552" target="_blank" rel="noopener noreferrer nofollow">https://www.mayoclinic.org/diseases-conditions/dyslexia/symptoms-causes/syc-20353552</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mayo ClinicDyslexia - Symptoms and causes6 Aug 2022 — Difficulty reading, including [reading aloud](&amp;#123;&amp;#123; &#x27;reading-aloud/&#x27; | relative_url &amp;#125;&amp;#125;) · Slow and labor-intensive reading and...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: dyslexiaida.org  
-   Link: <a href="https://dyslexiaida.org/screening-for-dyslexia/dyslexia-screener-for-adults/" target="_blank" rel="noopener noreferrer nofollow">https://dyslexiaida.org/screening-for-dyslexia/dyslexia-screener-for-adults/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>International Dyslexia AssociationDyslexia Screener for AdultsThe Adult Reading History Questionnaire (ARHQ) is a self-report screening t...</p></details>
+   Link:<a href="https://dyslexiaida.org/screening-for-dyslexia/dyslexia-screener-for-adults/" target="_blank" rel="noopener noreferrer nofollow">https://dyslexiaida.org/screening-for-dyslexia/dyslexia-screener-for-adults/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>International Dyslexia AssociationDyslexia Screener for AdultsThe Adult Reading History Questionnaire (ARHQ) is a self-report screening t...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: dyslexiaida.org  
-   Link: <a href="https://dyslexiaida.org/testing-and-evaluation/" target="_blank" rel="noopener noreferrer nofollow">https://dyslexiaida.org/testing-and-evaluation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>International Dyslexia AssociationTesting and EvaluationTypically, students with dyslexia score lower on tests of reading comprehension t...</p></details>
+   Link:<a href="https://dyslexiaida.org/testing-and-evaluation/" target="_blank" rel="noopener noreferrer nofollow">https://dyslexiaida.org/testing-and-evaluation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>International Dyslexia AssociationTesting and EvaluationTypically, students with dyslexia score lower on tests of reading comprehension t...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: psychologicalscience.org  
-   Link: <a href="https://www.psychologicalscience.org/news/the-harsh-truth-about-speed-reading.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/news/the-harsh-truth-about-speed-reading.html</a>  
+   Link:<a href="https://www.psychologicalscience.org/news/the-harsh-truth-about-speed-reading.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/news/the-harsh-truth-about-speed-reading.html</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/topics/developmental-milestones/articles/common-signs-dyslexia" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/developmental-milestones/articles/common-signs-dyslexia</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Common Signs of DyslexiaDyslexia is a language-based disability that affects both oral and written language. With help, children with dys...</p></details>
+   Link:<a href="https://www.readingrockets.org/topics/developmental-milestones/articles/common-signs-dyslexia" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/developmental-milestones/articles/common-signs-dyslexia</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Common Signs of DyslexiaDyslexia is a language-based disability that affects both oral and written language. With help, children with dys...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/figure/Distribution-of-reading-rates-for-fiction-books_fig4_335174808" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Distribution-of-reading-rates-for-fiction-books_fig4_335174808</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Figure 5: Distribution of reading rates for fiction booksWe estimate that the average silent reading rate for adults in English is 238 wo...</p></details>
+   Link:<a href="https://www.researchgate.net/figure/Distribution-of-reading-rates-for-fiction-books_fig4_335174808" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Distribution-of-reading-rates-for-fiction-books_fig4_335174808</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Figure 5: Distribution of reading rates for fiction booksWe estimate that the average silent reading rate for adults in English is 238 wo...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: psychonomic.org  
-   Link: <a href="https://www.psychonomic.org/page/brysbaert" target="_blank" rel="noopener noreferrer nofollow">https://www.psychonomic.org/page/brysbaert</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Marc BrysbaertMarc Brysbaert is author of over 250 articles and book chapters, of which 25 appeared in Behavior Research Methods. His int...</p></details>
+   Link:<a href="https://www.psychonomic.org/page/brysbaert" target="_blank" rel="noopener noreferrer nofollow">https://www.psychonomic.org/page/brysbaert</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Marc BrysbaertMarc Brysbaert is author of over 250 articles and book chapters, of which 25 appeared in Behavior Research Methods. His int...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: perfors.net  
-   Link: <a href="https://perfors.net/authors/marc-brysbaert/" target="_blank" rel="noopener noreferrer nofollow">https://perfors.net/authors/marc-brysbaert/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Marc BrysbaertMarc Brysbaert. Latest. The &quot;Small World of Words&quot; English word association norms for over 12,000 cue words · privacy. ©And...</p></details>
+   Link:<a href="https://perfors.net/authors/marc-brysbaert/" target="_blank" rel="noopener noreferrer nofollow">https://perfors.net/authors/marc-brysbaert/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Marc BrysbaertMarc Brysbaert. Latest. The &quot;Small World of Words&quot; English word association norms for over 12,000 cue words · privacy. ©And...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: codereadnetwork.org  
-   Link: <a href="https://codereadnetwork.org/wp-content/uploads/2023/10/Signs-of-Dyslexia-in-Adults-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://codereadnetwork.org/wp-content/uploads/2023/10/Signs-of-Dyslexia-in-Adults-1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Signs of Dyslexia in AdultsI found learning to read difficult at school. 2. I continue to read slowly. 3. I often need to re-read paragra...</p></details>
+   Link:<a href="https://codereadnetwork.org/wp-content/uploads/2023/10/Signs-of-Dyslexia-in-Adults-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://codereadnetwork.org/wp-content/uploads/2023/10/Signs-of-Dyslexia-in-Adults-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Signs of Dyslexia in AdultsI found learning to read difficult at school. 2. I continue to read slowly. 3. I often need to re-read paragra...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: thereadingcenter.org  
-   Link: <a href="https://www.thereadingcenter.org/signs-of-ld" target="_blank" rel="noopener noreferrer nofollow">https://www.thereadingcenter.org/signs-of-ld</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Signs of Learning Disability/DyslexiaIn Adults · May hide their reading problems, many subterfuges · May spell poorly, relies on others t...</p></details>
+   Link:<a href="https://www.thereadingcenter.org/signs-of-ld" target="_blank" rel="noopener noreferrer nofollow">https://www.thereadingcenter.org/signs-of-ld</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Signs of Learning Disability/DyslexiaIn Adults · May hide their reading problems, many subterfuges · May spell poorly, relies on others t...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: das.org.sg  
-   Link: <a href="https://das.org.sg/learning_differently/understanding-dyslexia/" target="_blank" rel="noopener noreferrer nofollow">https://das.org.sg/learning_differently/understanding-dyslexia/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding DyslexiaPoor spelling is highly related to poor reading, and poor spelling shows up first.... Even so, they may continue t...</p></details>
+   Link:<a href="https://das.org.sg/learning_differently/understanding-dyslexia/" target="_blank" rel="noopener noreferrer nofollow">https://das.org.sg/learning_differently/understanding-dyslexia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding DyslexiaPoor spelling is highly related to poor reading, and poor spelling shows up first.... Even so, they may continue t...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: apm.net.au  
-   Link: <a href="https://apm.net.au/iea/support/blog/how-to-know-if-you-ve-got-dyslexia" target="_blank" rel="noopener noreferrer nofollow">https://apm.net.au/iea/support/blog/how-to-know-if-you-ve-got-dyslexia</a>  
+   Link:<a href="https://apm.net.au/iea/support/blog/how-to-know-if-you-ve-got-dyslexia" target="_blank" rel="noopener noreferrer nofollow">https://apm.net.au/iea/support/blog/how-to-know-if-you-ve-got-dyslexia</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: moveforwardwithdyslexia.com  
-   Link: <a href="https://www.moveforwardwithdyslexia.com/dyslexia/speed-reading-for-dyslexics.html" target="_blank" rel="noopener noreferrer nofollow">https://www.moveforwardwithdyslexia.com/dyslexia/speed-reading-for-dyslexics.html</a>  
+   Link:<a href="https://www.moveforwardwithdyslexia.com/dyslexia/speed-reading-for-dyslexics.html" target="_blank" rel="noopener noreferrer nofollow">https://www.moveforwardwithdyslexia.com/dyslexia/speed-reading-for-dyslexics.html</a>  

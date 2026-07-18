@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /increasing-re-852ca6-dense-materia/
 description: Focused pages that expand on Expertise.
-date: '2026-06-16'
+date: '2026'
 layout: default
 parent_basename: increasing_re_852ca6_dense_materia_3cc00e_background_kn_3a104a
 parent_title: Expertise
@@ -16,7 +16,7 @@ parent_permalink: /expertise/
 
 # Explore Topics in Expertise
 
-The following pages expand on the main **[Expertise]({{ '/expertise/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Expertise]({{ '/expertise/' | relative_url }})** page and cover its key branches in.
 
 - [Methods drag]({{ '/methods-drag/' | relative_url }})
 - [Previewing]({{ '/previewing/' | relative_url }})

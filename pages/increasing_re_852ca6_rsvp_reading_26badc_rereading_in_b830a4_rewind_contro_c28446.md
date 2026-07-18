@@ -269,19 +269,19 @@ image: /assets/images/increasing_re_852ca6_rsvp_reading_26badc_rereading_in_b830
 
 ## Introduction
 
-Rapid Serial Visual Presentation (RSVP) apps are often promoted as a way to increase reading speed by removing [eye movements]({{ 'eye-tradeoff/' | relative_url }}). The problem is that normal reading does not merely use eye movements to move forward. Skilled readers also make brief backward movements, known as [regressions]({{ 'lookbacks/' | relative_url }}), whenever they need to check a word, resolve ambiguity, or confirm meaning. Research suggests these regressions are a normal and useful part of comprehension rather than a sign of inefficient reading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Alternatively, physically returning the eyes to a word&#x27;s</span><span class="citation-popover-snippet">The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 134 — The most obvious explanation is that re...</span></span></span>
+Rapid Serial Visual Presentation (RSVP) apps are often promoted as a way to increase reading speed by removing [eye movements]({{ 'eye-tradeoff/' | relative_url }}). The problem is that normal reading does not merely use eye movements to move forward. Skilled readers also make brief backward movements, known as [regressions]({{ 'lookbacks/' | relative_url }}), whenever they need to check a word, resolve ambiguity, or confirm meaning. Research suggests these regressions are a normal and useful part of comprehension rather than a sign of inefficient reading.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Alternatively, physically returning the eyes to a word&#x27;s</span><span class="citation-popover-snippet">The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 134 — The most obvious explanation is that re...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_rsvp_reading_26badc_rereading_in_b830a4_rewind_contro_c28446-Illustration-1-dark.svg" | relative_url }}" alt="Rewind limits illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_rsvp_reading_26badc_rereading_in_b830a4_rewind_contro_c28446-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_rsvp_reading_26badc_rereading_in_b830a4_rewind_contro_c28446-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Many RSVP applications attempt to compensate for disappearing text by adding rewind buttons or jump-back controls. On paper, this seems to restore access to previous words. In [practice]({{ 'practice/' | relative_url }}), however, a rewind control is very different from a natural rereading movement. The difference is not simply that one is manual and the other automatic. It is a difference of timing, precision, and cognitive disruption. A control can return the text, but it cannot reproduce the seamless way readers normally repair understanding while remaining immersed in a sentence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rapid_serial_visual_presentation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rapid serial visual presentation</span><span class="citation-popover-snippet">Rapid serial visual presentation</span></span></span>
+Many RSVP applications attempt to compensate for disappearing text by adding rewind buttons or jump-back controls. On paper, this seems to restore access to previous words. In [practice]({{ 'practice/' | relative_url }}), however, a rewind control is very different from a natural rereading movement. The difference is not simply that one is manual and the other automatic. It is a difference of timing, precision, and cognitive disruption. A control can return the text, but it cannot reproduce the seamless way readers normally repair understanding while remaining immersed in a sentence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rapid_serial_visual_presentation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rapid serial visual presentation</span><span class="citation-popover-snippet">Rapid serial visual presentation</span></span></span>
 
 ## How natural regressions happen in fractions of a second
 
-During ordinary reading, the eyes do not move steadily from left to right. Eye-tracking studies show that readers regularly jump backwards to previously viewed text. These regressions occur naturally and often without conscious awareness. Skilled readers make such backward movements roughly 10–15% of the time, using them to support comprehension when needed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedaily.com/releases/2014/04/140422113428.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedaily.com">[ScienceDaily+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedaily.com</span><span class="citation-popover-snippet">Speed-reading apps may impair reading comprehension...22 Apr 2014 — Studies have shown that readers make regressions, moving...</span></span></span>
+During ordinary reading, the eyes do not move steadily from left to right. Eye-tracking studies show that readers regularly jump backwards to previously viewed text. These regressions occur naturally and often without conscious awareness. Skilled readers make such backward movements roughly 10–15% of the time, using them to support comprehension when needed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedaily.com/releases/2014/04/140422113428.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedaily.com">[ScienceDaily+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedaily.com</span><span class="citation-popover-snippet">Speed-reading apps may impair reading comprehension...22 Apr 2014 — Studies have shown that readers make regressions, moving...</span></span></span>
 
-What makes these regressions powerful is their speed and precision. A reader who encounters a confusing phrase does not usually stop, analyse the problem, and deliberately decide to reread. Instead, the eyes often return almost immediately to the relevant location. The movement may cover only a few words or part of a line. Once the needed information is recovered, reading continues. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Alternatively, physically returning the eyes to a word&#x27;s</span><span class="citation-popover-snippet">The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 134 — The most obvious explanation is that re...</span></span></span>
+What makes these regressions powerful is their speed and precision. A reader who encounters a confusing phrase does not usually stop, analyse the problem, and deliberately decide to reread. Instead, the eyes often return almost immediately to the relevant location. The movement may cover only a few words or part of a line. Once the needed information is recovered, reading continues.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Alternatively, physically returning the eyes to a word&#x27;s</span><span class="citation-popover-snippet">The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 134 — The most obvious explanation is that re...</span></span></span>
 
-This behaviour acts as a built-in repair mechanism. Research on eye movements suggests that regressions help readers revisit information that was not fully processed on the first pass and support successful comprehension. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Alternatively, physically returning the eyes to a word&#x27;s</span><span class="citation-popover-snippet">The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 134 — The most obvious explanation is that re...</span></span></span>
+This behaviour acts as a built-in repair mechanism. Research on eye movements suggests that regressions help readers revisit information that was not fully processed on the first pass and support successful comprehension.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Alternatively, physically returning the eyes to a word&#x27;s</span><span class="citation-popover-snippet">The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 134 — The most obvious explanation is that re...</span></span></span>
 
 A rewind button changes this process fundamentally. The reader must first recognise that comprehension has failed, then decide to interrupt the reading stream, activate a control, and orient themselves again within the text. What was previously an almost automatic correction becomes a separate task.
 
@@ -292,7 +292,7 @@ A rewind button changes this process fundamentally. The reader must first recogn
 
 Natural rereading is highly targeted. Readers do not usually need to revisit an entire sentence or paragraph. Often they need only a single word, phrase, or reference.
 
-Consider a sentence where the meaning becomes unclear because of one ambiguous pronoun, a [technical]({{ 'technical-texts/' | relative_url }}) term, or a modifier near the beginning of the sentence. In ordinary reading, the eyes can jump directly to that location. The correction is spatially precise because the reader can see the text's layout and immediately identify the source of confusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Alternatively, physically returning the eyes to a word&#x27;s</span><span class="citation-popover-snippet">The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 134 — The most obvious explanation is that re...</span></span></span>
+Consider a sentence where the meaning becomes unclear because of one ambiguous pronoun, a [technical]({{ 'technical-texts/' | relative_url }}) term, or a modifier near the beginning of the sentence. In ordinary reading, the eyes can jump directly to that location. The correction is spatially precise because the reader can see the text's layout and immediately identify the source of confusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Alternatively, physically returning the eyes to a word&#x27;s</span><span class="citation-popover-snippet">The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 134 — The most obvious explanation is that re...</span></span></span>
 
 Most RSVP rewind systems work differently. They typically jump back by a fixed number of words or seconds. Even when adjustable, they rarely know which specific word caused the problem. The result is often one of two outcomes:
 
@@ -301,7 +301,7 @@ Most RSVP rewind systems work differently. They typically jump back by a fixed n
 
 Neither outcome matches the efficiency of a targeted regression.
 
-Research comparing normal reading with situations where readers were prevented from effectively rereading has found that comprehension suffers when access to previous words is restricted. Importantly, the benefit of regressions was not limited to rare ambiguities; readers appeared to gain from the general ability to revisit text whenever needed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/abs/10.1177/0956797614531148?_ga=1.178501604.1559762790.1391883154" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDon&#x27;t Believe What You Read (Only Once)by ER Schotter · 2014 · Cited by 277 — This manipulation created a scenario similar t...</span></span></span>
+Research comparing normal reading with situations where readers were prevented from effectively rereading has found that comprehension suffers when access to previous words is restricted. Importantly, the benefit of regressions was not limited to rare ambiguities; readers appeared to gain from the general ability to revisit text whenever needed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/abs/10.1177/0956797614531148?_ga=1.178501604.1559762790.1391883154" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDon&#x27;t Believe What You Read (Only Once)by ER Schotter · 2014 · Cited by 277 — This manipulation created a scenario similar t...</span></span></span>
 
 This helps explain why adding a rewind function does not automatically recreate normal reading behaviour. Access alone is not enough. The access must be immediate, precise, and integrated into the reading process.
 
@@ -313,7 +313,7 @@ A natural regression occurs inside the act of reading. A rewind command creates 
 
 When using RSVP, readers must monitor not only the text but also the interface. They need to decide whether understanding has fallen below an acceptable level, determine whether rewinding is worth the interruption, and then manage the mechanics of returning to earlier content. This introduces an additional layer of cognitive work at exactly the moment when comprehension is already under strain.
 
-The interruption can be especially noticeable in complex material. A reader trying to understand a dense argument, a legal clause, or a technical explanation may need several small checks within a short span of text. In conventional reading, these checks can occur fluidly. In RSVP, repeated use of controls can create a stop-start pattern that breaks concentration and reading rhythm. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rapid_serial_visual_presentation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rapid serial visual presentation</span><span class="citation-popover-snippet">Rapid serial visual presentation</span></span></span>
+The interruption can be especially noticeable in complex material. A reader trying to understand a dense argument, a legal clause, or a technical explanation may need several small checks within a short span of text. In conventional reading, these checks can occur fluidly. In RSVP, repeated use of controls can create a stop-start pattern that breaks concentration and reading rhythm.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rapid_serial_visual_presentation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rapid serial visual presentation</span><span class="citation-popover-snippet">Rapid serial visual presentation</span></span></span>
 
 There is also a memory burden. During a manual rewind, the reader must remember what they were trying to verify while simultaneously relocating the relevant information. In normal reading, the eyes return directly to the suspected source of confusion, reducing the need for conscious tracking.
 
@@ -328,7 +328,7 @@ A natural regression is adaptive. It can vary in length, timing, and destination
 
 This creates a mismatch between what readers need and what the interface can provide. The reader's problem may involve a single missed adjective, an unclear reference introduced twenty words earlier, or a relationship between two distant parts of a sentence. A generic rewind function cannot reliably identify or target these comprehension failures.
 
-Research on reading repeatedly points to the importance of flexible eye movements and rereading behaviour. Experiments that effectively removed the ability to reread created conditions resembling RSVP and found measurable costs for comprehension. The findings suggest that the value of regressions lies not simply in having access to old text but in having immediate, reader-controlled access to exactly the right text at exactly the right moment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/abs/10.1177/0956797614531148?_ga=1.178501604.1559762790.1391883154" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals+2JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDon&#x27;t Believe What You Read (Only Once)by ER Schotter · 2014 · Cited by 277 — This manipulation created a scenario similar t...</span></span></span>
+Research on reading repeatedly points to the importance of flexible eye movements and rereading behaviour. Experiments that effectively removed the ability to reread created conditions resembling RSVP and found measurable costs for comprehension. The findings suggest that the value of regressions lies not simply in having access to old text but in having immediate, reader-controlled access to exactly the right text at exactly the right moment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/abs/10.1177/0956797614531148?_ga=1.178501604.1559762790.1391883154" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals+2JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDon&#x27;t Believe What You Read (Only Once)by ER Schotter · 2014 · Cited by 277 — This manipulation created a scenario similar t...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_rsvp_reading_26badc_rereading_in_b830a4_rewind_contro_c28446-Illustration-3-dark.svg" | relative_url }}" alt="Rewind limits illustration 3" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_rsvp_reading_26badc_rereading_in_b830a4_rewind_contro_c28446-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_rsvp_reading_26badc_rereading_in_b830a4_rewind_contro_c28446-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -336,185 +336,185 @@ Research on reading repeatedly points to the importance of flexible eye movement
 
 Rewind controls solve a narrower problem than natural rereading. They restore the possibility of seeing vanished words again, but they do not reproduce the way skilled readers normally use backward eye movements.
 
-Natural regressions are fast, precise, automatic, and tightly integrated with comprehension. Rewind controls are slower, coarser, and require conscious intervention. As a result, they often transform a seamless repair process into an explicit interruption. Research on regressions and rereading consistently indicates that comprehension benefits from the ability to revisit text naturally, which helps explain why RSVP systems continue to face challenges even when rewind features are available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[Wikipedia+3PubMed+3USF Faculty]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Alternatively, physically returning the eyes to a word&#x27;s</span><span class="citation-popover-snippet">The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 134 — The most obvious explanation is that re...</span></span></span>
+Natural regressions are fast, precise, automatic, and tightly integrated with comprehension. Rewind controls are slower, coarser, and require conscious intervention. As a result, they often transform a seamless repair process into an explicit interruption. Research on regressions and rereading consistently indicates that comprehension benefits from the ability to revisit text naturally, which helps explain why RSVP systems continue to face challenges even when rewind features are available.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[Wikipedia+3PubMed+3USF Faculty]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Alternatively, physically returning the eyes to a word&#x27;s</span><span class="citation-popover-snippet">The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 134 — The most obvious explanation is that re...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wQ1IVqyUjYc" title="Speed Reading Is USELESS, Practice This Instead" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wQ1IVqyUjYc" target="_blank" rel="noopener noreferrer">Speed Reading Is USELESS, Practice This Instead</a></p><p class="youtube-embed-meta">Channel: Robin Waldun &middot; Views: 21.4K &middot; Uploaded: August 2025 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wQ1IVqyUjYc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wQ1IVqyUjYc">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why rewind buttons do not fix RSVP. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why rewind buttons do not fix RSVP. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Proust+and+the+squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Proust and the squid on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14656065-M.jpg" alt="Cover for Proust and the squid" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Proust+and+the+squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Proust and the squid">Proust and the squid</a>
-        </h4>
-        <p class="fr-book-author">By Maryanne Wolf</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Proust+and+the+squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Proust and the squid on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14656065-M.jpg" alt="Cover for Proust and the squid" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Proust+and+the+squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Proust and the squid">Proust and the squid</a>
+</h4>
+<p class="fr-book-author">By Maryanne Wolf</p>
         
-        <p class="fr-book-desc">Provides accessible background on how skilled reading develops and why comprehension depends on complex cognitive processes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Proust+and+the+squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides accessible background on how skilled reading develops and why comprehension depends on complex cognitive processes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Proust+and+the+squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Promotes active, recursive reading practices that align with the article&#x27;s argument that effective reading is not purely linear.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Promotes active, recursive reading practices that align with the article&#x27;s argument that effective reading is not purely linear.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Shallows+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Shallows on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1KayoVl3OTMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Shallows" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Shallows+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Shallows">The Shallows</a>
-        </h4>
-        <p class="fr-book-author">By Nicholas Carr</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Shallows+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Shallows on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1KayoVl3OTMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Shallows" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Shallows+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Shallows">The Shallows</a>
+</h4>
+<p class="fr-book-author">By Nicholas Carr</p>
         
-        <p class="fr-book-desc">Explores how digital media changes attention and cognitive processing, complementing discussions of RSVP reading and lost rereading oppor...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Shallows+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how digital media changes attention and cognitive processing, complementing discussions of RSVP reading and lost rereading oppor...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Shallows+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading in the Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6649793-M.jpg" alt="Cover for Reading in the Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading in the Brain">Reading in the Brain</a>
-        </h4>
-        <p class="fr-book-author">By Stanislas Dehaene</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading in the Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6649793-M.jpg" alt="Cover for Reading in the Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading in the Brain">Reading in the Brain</a>
+</h4>
+<p class="fr-book-author">By Stanislas Dehaene</p>
         
-        <p class="fr-book-desc">First published 2009. Subjects: Science, Nonfiction, Psychology, Psychology of Reading, Reading.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2009. Subjects: Science, Nonfiction, Psychology, Psychology of Reading, Reading.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Proust+and+the+squid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Proust and the squid</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Shallows&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Shallows</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Proust+and+the+squid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Proust and the squid</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Shallows&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Shallows</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewind-limits-why-rewind-buttons-do-not-fix-rsvp-increasing-reading-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading poster -book -books" data-ebay-reference="rewind-limits-why-rewind-buttons-do-not-fix-rsvp-increasing-reading-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Reading Girl Coffee Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6b4c64229e303a66b900.jpg' | relative_url }}" alt="Listing image for Reading Girl Coffee Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewind-limits-why-rewind-buttons-do-not-fix-rsvp-increasing-reading-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading poster -book -books" data-ebay-reference="rewind-limits-why-rewind-buttons-do-not-fix-rsvp-increasing-reading-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Reading Girl Coffee Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewind-limits-why-rewind-buttons-do-not-fix-rsvp-increasing-reading-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading poster -book -books" data-ebay-reference="rewind-limits-why-rewind-buttons-do-not-fix-rsvp-increasing-reading-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: reading poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewind-limits-why-rewind-buttons-do-not-fix-rsvp-increasing-reading-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading poster -book -books" data-ebay-reference="rewind-limits-why-rewind-buttons-do-not-fix-rsvp-increasing-reading-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewind-limits-why-rewind-buttons-do-not-fix-rsvp-increasing-reading-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading poster -book -books" data-ebay-reference="rewind-limits-why-rewind-buttons-do-not-fix-rsvp-increasing-reading-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Reading Girl Coffee Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6b4c64229e303a66b900.jpg' | relative_url }}" alt="Listing image for Reading Girl Coffee Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewind-limits-why-rewind-buttons-do-not-fix-rsvp-increasing-reading-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading poster -book -books" data-ebay-reference="rewind-limits-why-rewind-buttons-do-not-fix-rsvp-increasing-reading-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Reading Girl Coffee Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewind-limits-why-rewind-buttons-do-not-fix-rsvp-increasing-reading-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading poster -book -books" data-ebay-reference="rewind-limits-why-rewind-buttons-do-not-fix-rsvp-increasing-reading-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: reading poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewind-limits-why-rewind-buttons-do-not-fix-rsvp-increasing-reading-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading poster -book -books" data-ebay-reference="rewind-limits-why-rewind-buttons-do-not-fix-rsvp-increasing-reading-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewind-limits-why-rewind-buttons-do-not-fix-rsvp-increasing-reading-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading poster -book -books" data-ebay-reference="rewind-limits-why-rewind-buttons-do-not-fix-rsvp-increasing-reading-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Stage 3 Phonics Reading A2 Learning Educational Poster , Sounds Pictures, New"><img src="{{ '/assets/images/marketplace-covers/62c70e702a500ef92834.jpg' | relative_url }}" alt="Listing image for Stage 3 Phonics Reading A2 Learning Educational Poster , Sounds Pictures, New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewind-limits-why-rewind-buttons-do-not-fix-rsvp-increasing-reading-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading poster -book -books" data-ebay-reference="rewind-limits-why-rewind-buttons-do-not-fix-rsvp-increasing-reading-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Stage 3 Phonics Reading A2 Learning Educational Poster , Sounds Pictures, New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewind-limits-why-rewind-buttons-do-not-fix-rsvp-increasing-reading-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading poster -book -books" data-ebay-reference="rewind-limits-why-rewind-buttons-do-not-fix-rsvp-increasing-reading-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: reading poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewind-limits-why-rewind-buttons-do-not-fix-rsvp-increasing-reading-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading poster -book -books" data-ebay-reference="rewind-limits-why-rewind-buttons-do-not-fix-rsvp-increasing-reading-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewind-limits-why-rewind-buttons-do-not-fix-rsvp-increasing-reading-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading poster -book -books" data-ebay-reference="rewind-limits-why-rewind-buttons-do-not-fix-rsvp-increasing-reading-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Stage 3 Phonics Reading A2 Learning Educational Poster , Sounds Pictures, New"><img src="{{ '/assets/images/marketplace-covers/62c70e702a500ef92834.jpg' | relative_url }}" alt="Listing image for Stage 3 Phonics Reading A2 Learning Educational Poster , Sounds Pictures, New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewind-limits-why-rewind-buttons-do-not-fix-rsvp-increasing-reading-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading poster -book -books" data-ebay-reference="rewind-limits-why-rewind-buttons-do-not-fix-rsvp-increasing-reading-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Stage 3 Phonics Reading A2 Learning Educational Poster , Sounds Pictures, New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewind-limits-why-rewind-buttons-do-not-fix-rsvp-increasing-reading-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading poster -book -books" data-ebay-reference="rewind-limits-why-rewind-buttons-do-not-fix-rsvp-increasing-reading-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: reading poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewind-limits-why-rewind-buttons-do-not-fix-rsvp-increasing-reading-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading poster -book -books" data-ebay-reference="rewind-limits-why-rewind-buttons-do-not-fix-rsvp-increasing-reading-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewind-limits-why-rewind-buttons-do-not-fix-rsvp-increasing-reading-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading poster -book -books" data-ebay-reference="rewind-limits-why-rewind-buttons-do-not-fix-rsvp-increasing-reading-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moral Tales: Reading The 1980s - Original Tate Liverpool Poster, 1994, Thatcher"><img src="{{ '/assets/images/marketplace-covers/097a83ff559f22d36aa7.jpg' | relative_url }}" alt="Listing image for Moral Tales: Reading The 1980s - Original Tate Liverpool Poster, 1994, Thatcher" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewind-limits-why-rewind-buttons-do-not-fix-rsvp-increasing-reading-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading poster -book -books" data-ebay-reference="rewind-limits-why-rewind-buttons-do-not-fix-rsvp-increasing-reading-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Moral Tales: Reading The 1980s - Original Tate Liverpool Poster, 1994, Thatcher</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewind-limits-why-rewind-buttons-do-not-fix-rsvp-increasing-reading-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading poster -book -books" data-ebay-reference="rewind-limits-why-rewind-buttons-do-not-fix-rsvp-increasing-reading-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: reading poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewind-limits-why-rewind-buttons-do-not-fix-rsvp-increasing-reading-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading poster -book -books" data-ebay-reference="rewind-limits-why-rewind-buttons-do-not-fix-rsvp-increasing-reading-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewind-limits-why-rewind-buttons-do-not-fix-rsvp-increasing-reading-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading poster -book -books" data-ebay-reference="rewind-limits-why-rewind-buttons-do-not-fix-rsvp-increasing-reading-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewind-limits-why-rewind-buttons-do-not-fix-rsvp-increasing-reading-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading poster -book -books" data-ebay-reference="rewind-limits-why-rewind-buttons-do-not-fix-rsvp-increasing-reading-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moral Tales: Reading The 1980s - Original Tate Liverpool Poster, 1994, Thatcher"><img src="{{ '/assets/images/marketplace-covers/097a83ff559f22d36aa7.jpg' | relative_url }}" alt="Listing image for Moral Tales: Reading The 1980s - Original Tate Liverpool Poster, 1994, Thatcher" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewind-limits-why-rewind-buttons-do-not-fix-rsvp-increasing-reading-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading poster -book -books" data-ebay-reference="rewind-limits-why-rewind-buttons-do-not-fix-rsvp-increasing-reading-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Moral Tales: Reading The 1980s - Original Tate Liverpool Poster, 1994, Thatcher</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewind-limits-why-rewind-buttons-do-not-fix-rsvp-increasing-reading-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading poster -book -books" data-ebay-reference="rewind-limits-why-rewind-buttons-do-not-fix-rsvp-increasing-reading-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: reading poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewind-limits-why-rewind-buttons-do-not-fix-rsvp-increasing-reading-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading poster -book -books" data-ebay-reference="rewind-limits-why-rewind-buttons-do-not-fix-rsvp-increasing-reading-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rewind-limits-why-rewind-buttons-do-not-fix-rsvp-increasing-reading-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading poster -book -books" data-ebay-reference="rewind-limits-why-rewind-buttons-do-not-fix-rsvp-increasing-reading-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -530,7 +530,7 @@ Natural regressions are fast, precise, automatic, and tightly integrated with co
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -550,7 +550,7 @@ Natural regressions are fast, precise, automatic, and tightly integrated with co
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -582,7 +582,7 @@ Natural regressions are fast, precise, automatic, and tightly integrated with co
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -634,7 +634,7 @@ Natural regressions are fast, precise, automatic, and tightly integrated with co
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -679,7 +679,7 @@ Natural regressions are fast, precise, automatic, and tightly integrated with co
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -720,104 +720,104 @@ Natural regressions are fast, precise, automatic, and tightly integrated with co
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Rapid serial visual presentation  
-   Link: <a href="https://en.wikipedia.org/wiki/Rapid_serial_visual_presentation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rapid_serial_visual_presentation</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Rapid_serial_visual_presentation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rapid_serial_visual_presentation</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedaily.com  
-   Link: <a href="https://www.sciencedaily.com/releases/2014/04/140422113428.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedaily.com/releases/2014/04/140422113428.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Speed-[reading apps](&amp;#123;&amp;#123; &#x27;reading-apps/&#x27; | relative_url &amp;#125;&amp;#125;) may impair reading comprehension...22 Apr 2014 — Studies have shown that readers make regressions, moving...</p></details>
+   Link:<a href="https://www.sciencedaily.com/releases/2014/04/140422113428.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedaily.com/releases/2014/04/140422113428.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Speed-[reading apps](&amp;#123;&amp;#123; &#x27;reading-apps/&#x27; | relative_url &amp;#125;&amp;#125;) may impair reading comprehension...22 Apr 2014 — Studies have shown that readers make regressions, moving...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Eye movement in reading  
-   Link: <a href="https://en.wikipedia.org/wiki/Eye_movement_in_reading" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eye_movement_in_reading</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Eye_movement_in_reading" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eye_movement_in_reading</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: faculty.cas.usf.edu  
    Title: Schotter Tran Rayner 2014 PsychSci  
-   Link: <a href="https://faculty.cas.usf.edu/eschotter/papers/Schotter_Tran_Rayner_2014_PsychSci.pdf" target="_blank" rel="noopener noreferrer nofollow">https://faculty.cas.usf.edu/eschotter/papers/Schotter_Tran_Rayner_2014_PsychSci.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>To assess the degree to which regressions supported reading comprehension, we compared comprehension...</p></details>
+   Link:<a href="https://faculty.cas.usf.edu/eschotter/papers/Schotter_Tran_Rayner_2014_PsychSci.pdf" target="_blank" rel="noopener noreferrer nofollow">https://faculty.cas.usf.edu/eschotter/papers/Schotter_Tran_Rayner_2014_PsychSci.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>To assess the degree to which regressions supported reading comprehension, we compared comprehension...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Science of reading  
-   Link: <a href="https://en.wikipedia.org/wiki/Science_of_reading" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Science_of_reading</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Science_of_reading" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Science_of_reading</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: jstor.org  
    Title: Rereading on Comprehension  
-   Link: <a href="https://www.jstor.org/stable/24543510" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/24543510</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>JSTOR(Only Once): Comprehension Is Supported by Regressions...by ER Schotter · 2014 · Cited by 276 — This manipulation created a scenari...</p></details>
+   Link:<a href="https://www.jstor.org/stable/24543510" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/24543510</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>JSTOR(Only Once): Comprehension Is Supported by Regressions...by ER Schotter · 2014 · Cited by 276 — This manipulation created a scenari...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Alternatively, physically returning the eyes to a word's  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22886737/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 134 — The most obvious explanation is that re...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22886737/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 134 — The most obvious explanation is that re...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/0956797614531148?_ga=1.178501604.1559762790.1391883154" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/0956797614531148?_ga=1.178501604.1559762790.1391883154</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsDon&#x27;t Believe What You Read (Only Once)by ER Schotter · 2014 · Cited by 277 — This manipulation created a scenario similar t...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/abs/10.1177/0956797614531148?_ga=1.178501604.1559762790.1391883154" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/0956797614531148?_ga=1.178501604.1559762790.1391883154</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsDon&#x27;t Believe What You Read (Only Once)by ER Schotter · 2014 · Cited by 277 — This manipulation created a scenario similar t...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pure.mpg.de  
-   Link: <a href="https://pure.mpg.de/rest/items/item_2567078_1/component/file_2567077/content" target="_blank" rel="noopener noreferrer nofollow">https://pure.mpg.de/rest/items/item_2567078_1/component/file_2567077/content</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading on a Smart Watchby E Gannon · 2016 · Cited by 14 — Reading with Rapid Serial Visual Presentation (RSVP) has shown promise for opt...</p></details>
+   Link:<a href="https://pure.mpg.de/rest/items/item_2567078_1/component/file_2567077/content" target="_blank" rel="noopener noreferrer nofollow">https://pure.mpg.de/rest/items/item_2567078_1/component/file_2567077/content</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading on a Smart Watchby E Gannon · 2016 · Cited by 14 — Reading with Rapid Serial Visual Presentation (RSVP) has shown promise for opt...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: readingquick.com  
-   Link: <a href="https://readingquick.com/articles/what-is-rsvp-[speed-reading" target="_blank" rel="noopener noreferrer nofollow">https://readingquick.com/articles/what-is-rsvp-[speed-reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Is RSVP Speed Reading? The Science Behind Reading...RSVP (Rapid Serial Visual Presentation) flashes words at a fixed point to elimi...</p></details>
+   Link:<a href="https://readingquick.com/articles/what-is-rsvp-[speed-reading" target="_blank" rel="noopener noreferrer nofollow">https://readingquick.com/articles/what-is-rsvp-[speed-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Is RSVP Speed Reading? The Science Behind Reading...RSVP (Rapid Serial Visual Presentation) flashes words at a fixed point to elimi...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: erickimphotography.com  
-   Link: <a href="https://erickimphotography.com/the-landscape-of-fast-reading-science-technology-education-and-field-applications/" target="_blank" rel="noopener noreferrer nofollow">https://erickimphotography.com/the-landscape-of-fast-reading-science-technology-education-and-field-applications/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Landscape of Fast Reading: Science, Technology...9 Jan 2026 — Speed reading techniques that eliminate eye movements, such as Rapid S...</p></details>
+   Link:<a href="https://erickimphotography.com/the-landscape-of-fast-reading-science-technology-education-and-field-applications/" target="_blank" rel="noopener noreferrer nofollow">https://erickimphotography.com/the-landscape-of-fast-reading-science-technology-education-and-field-applications/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Landscape of Fast Reading: Science, Technology...9 Jan 2026 — Speed reading techniques that eliminate eye movements, such as Rapid S...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: scilit.com  
-   Link: <a href="https://www.scilit.com/publications/30a693d418f5bac9557cae4a5a50cd8b" target="_blank" rel="noopener noreferrer nofollow">https://www.scilit.com/publications/30a693d418f5bac9557cae4a5a50cd8b</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>· research article · Published by Springer Nature in Metacognition and Learning...</p></details>
+   Link:<a href="https://www.scilit.com/publications/30a693d418f5bac9557cae4a5a50cd8b" target="_blank" rel="noopener noreferrer nofollow">https://www.scilit.com/publications/30a693d418f5bac9557cae4a5a50cd8b</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>· research article · Published by Springer Nature in Metacognition and Learning...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cognitivetrain.com  
-   Link: <a href="https://cognitivetrain.com/regression-in-reading/" target="_blank" rel="noopener noreferrer nofollow">https://cognitivetrain.com/regression-in-reading/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>0 WPM or lower—a 20% speed penalty from backward eye movements alone.Read more...</p></details>
+   Link:<a href="https://cognitivetrain.com/regression-in-reading/" target="_blank" rel="noopener noreferrer nofollow">https://cognitivetrain.com/regression-in-reading/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>0 WPM or lower—a 20% speed penalty from backward eye movements alone.Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: [knowledge](&#123;&#123; 'knowledge/' | relative_url &#125;&#125;). lancashire.ac.uk  
    Title: 39455 i1534 7362 21 12 5 1636451734.57769  
-   Link: <a href="https://knowledge.lancashire.ac.uk/id/eprint/39455/9/39455%20i1534-7362-21-12-5_1636451734.57769.pdf" target="_blank" rel="noopener noreferrer nofollow">https://knowledge.lancashire.ac.uk/id/eprint/39455/9/39455%20i1534-7362-21-12-5_1636451734.57769.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>comparison of reading, in people with simulated...by F Akthar · 2021 · Cited by 12 — RSVP, for example, can be read (normally) without t...</p></details>
+   Link:<a href="https://knowledge.lancashire.ac.uk/id/eprint/39455/9/39455%20i1534-7362-21-12-5_1636451734.57769.pdf" target="_blank" rel="noopener noreferrer nofollow">https://knowledge.lancashire.ac.uk/id/eprint/39455/9/39455%20i1534-7362-21-12-5_1636451734.57769.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>comparison of reading, in people with simulated...by F Akthar · 2021 · Cited by 12 — RSVP, for example, can be read (normally) without t...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/261761989_Don%27t_Believe_What_You_Read_Only_Once_Comprehension_Is_Supported_by_Regressions_During_Reading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/261761989_Don%27t_Believe_What_You_Read_Only_Once_Comprehension_Is_Supported_by_Regressions_During_Reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ehension (e.g. Schotter et al., 2014). Moreover, the spillover...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/261761989_Don%27t_Believe_What_You_Read_Only_Once_Comprehension_Is_Supported_by_Regressions_During_Reading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/261761989_Don%27t_Believe_What_You_Read_Only_Once_Comprehension_Is_Supported_by_Regressions_During_Reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ehension (e.g. Schotter et al., 2014). Moreover, the spillover...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: readlite.in  
-   Link: <a href="https://readlite.in/reading-concepts/reading-mechanics/" target="_blank" rel="noopener noreferrer nofollow">https://readlite.in/reading-concepts/reading-mechanics/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ed, and evidence-based techniques to read more efficiently...</p></details>
+   Link:<a href="https://readlite.in/reading-concepts/reading-mechanics/" target="_blank" rel="noopener noreferrer nofollow">https://readlite.in/reading-concepts/reading-mechanics/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ed, and evidence-based techniques to read more efficiently...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: readlite.in  
-   Link: <a href="https://readlite.in/concepts/regressions-reading" target="_blank" rel="noopener noreferrer nofollow">https://readlite.in/concepts/regressions-reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>cience behind regressions in reading for better reading...</p></details>
+   Link:<a href="https://readlite.in/concepts/regressions-reading" target="_blank" rel="noopener noreferrer nofollow">https://readlite.in/concepts/regressions-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cience behind regressions in reading for better reading...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=fx1a6Dm64kA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fx1a6Dm64kA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>if you don&#x27;t re-read you will read faster - true...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=fx1a6Dm64kA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fx1a6Dm64kA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>if you don&#x27;t re-read you will read faster - true...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: studenttheses.universiteitleiden.nl  
    Title: Other independent interval.Read more  
-   Link: <a href="https://studenttheses.universiteitleiden.nl/access/item%3A2629036/view" target="_blank" rel="noopener noreferrer nofollow">https://studenttheses.universiteitleiden.nl/access/item%3A2629036/view</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>eye movements to predict reading skills in childrenIndependent interval eye movement variables were number of fixations, saccades and reg...</p></details>
+   Link:<a href="https://studenttheses.universiteitleiden.nl/access/item%3A2629036/view" target="_blank" rel="noopener noreferrer nofollow">https://studenttheses.universiteitleiden.nl/access/item%3A2629036/view</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>eye movements to predict reading skills in childrenIndependent interval eye movement variables were number of fixations, saccades and reg...</p></details>

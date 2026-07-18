@@ -269,7 +269,7 @@ image: /assets/images/increasing_re_852ca6_phrase_readin_eba9de_not_speed_rea_5c
 
 ## Introduction
 
-Claims that people can learn to read entire lines, paragraphs, or even pages in a single glance run into a basic finding from reading research: the human visual system does not work that way. Eye-tracking studies show that readers extract useful information from a limited region around where their eyes are currently fixed. This region, known as the perceptual span, places a practical ceiling on how much text can be processed during each fixation. Rather than supporting extreme [speed-reading]({{ 'myths/' | relative_url }}) claims, the evidence helps explain why skilled readers improve through efficiency, phrase recognition, and better [eye-movement]({{ 'eye-tradeoff/' | relative_url }}) patterns—not by bypassing the visual limits of reading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEye movements, the perceptual span, and reading speed</span><span class="citation-popover-snippet">by K Rayner · 2010 · Cited by 474 — That is, the perceptual span for skilled readers of alphabetic writing systems consists of 3-4 let...</span></span></span>
+Claims that people can learn to read entire lines, paragraphs, or even pages in a single glance run into a basic finding from reading research: the human visual system does not work that way. Eye-tracking studies show that readers extract useful information from a limited region around where their eyes are currently fixed. This region, known as the perceptual span, places a practical ceiling on how much text can be processed during each fixation. Rather than supporting extreme [speed-reading]({{ 'myths/' | relative_url }}) claims, the evidence helps explain why skilled readers improve through efficiency, phrase recognition, and better [eye-movement]({{ 'eye-tradeoff/' | relative_url }}) patterns—not by bypassing the visual limits of reading.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEye movements, the perceptual span, and reading speed</span><span class="citation-popover-snippet">by K Rayner · 2010 · Cited by 474 — That is, the perceptual span for skilled readers of alphabetic writing systems consists of 3-4 let...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_not_speed_rea_5caa5d_perceptual_sp_1579db-Illustration-1-dark.svg" | relative_url }}" alt="Perceptual span illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_not_speed_rea_5caa5d_perceptual_sp_1579db-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_not_speed_rea_5caa5d_perceptual_sp_1579db-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -277,9 +277,9 @@ Claims that people can learn to read entire lines, paragraphs, or even pages in 
 
 The idea behind many speed-reading systems is simple: if readers could absorb much more text during each glance, reading speed could increase dramatically without sacrificing understanding. Research on perceptual span suggests that this assumption is wrong.
 
-The perceptual span is the area of text from which readers obtain useful information during a fixation. For skilled readers of English and other alphabetic languages, the span is surprisingly limited. Studies consistently find that readers gain useful information from roughly three to four letters to the left of fixation and about fourteen to fifteen letter spaces to the right. Beyond that region, visual information contributes little to ongoing reading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEye movements, the perceptual span, and reading speed</span><span class="citation-popover-snippet">by K Rayner · 2010 · Cited by 474 — That is, the perceptual span for skilled readers of alphabetic writing systems consists of 3-4 let...</span></span></span>
+The perceptual span is the area of text from which readers obtain useful information during a fixation. For skilled readers of English and other alphabetic languages, the span is surprisingly limited. Studies consistently find that readers gain useful information from roughly three to four letters to the left of fixation and about fourteen to fifteen letter spaces to the right. Beyond that region, visual information contributes little to ongoing reading.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEye movements, the perceptual span, and reading speed</span><span class="citation-popover-snippet">by K Rayner · 2010 · Cited by 474 — That is, the perceptual span for skilled readers of alphabetic writing systems consists of 3-4 let...</span></span></span>
 
-This does not mean readers are aware of only a handful of letters. The brain combines information across many fixations. However, it does mean that the visual system is not gathering an entire line of text at once. The sharpest vision is concentrated in the fovea, a small central region of the retina. Visual acuity drops rapidly outside that area, making accurate word recognition increasingly difficult in [peripheral vision]({{ 'peripheral-vision/' | relative_url }}). Research on reading has repeatedly shown that skilled readers still depend on a sequence of fixations rather than a single panoramic view of the page. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wexler.free.fr/library/files/rayner%20%281998%29%20eye%20movements%20in%20reading%20and%20information%20processing.%2020%20years%20of%20research.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wexler.free.fr">[Wexler+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wexler.free.fr</span><span class="citation-popover-snippet">Eye Movements in Reading and Information Processingby K Rayner · Cited by 11914 — Basic topics discussed with respect to reading ar...</span></span></span>
+This does not mean readers are aware of only a handful of letters. The brain combines information across many fixations. However, it does mean that the visual system is not gathering an entire line of text at once. The sharpest vision is concentrated in the fovea, a small central region of the retina. Visual acuity drops rapidly outside that area, making accurate word recognition increasingly difficult in [peripheral vision]({{ 'peripheral-vision/' | relative_url }}). Research on reading has repeatedly shown that skilled readers still depend on a sequence of fixations rather than a single panoramic view of the page.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wexler.free.fr/library/files/rayner%20%281998%29%20eye%20movements%20in%20reading%20and%20information%20processing.%2020%20years%20of%20research.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wexler.free.fr">[Wexler+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wexler.free.fr</span><span class="citation-popover-snippet">Eye Movements in Reading and Information Processingby K Rayner · Cited by 11914 — Basic topics discussed with respect to reading ar...</span></span></span>
 
 A useful way to think about the finding is that reading resembles a moving spotlight, not a camera taking in a full page at full resolution.
 
@@ -290,9 +290,9 @@ A useful way to think about the finding is that reading resembles a moving spotl
 
 [Eye-tracking]({{ 'eye-tracking/' | relative_url }}) research reveals that reading is not a smooth sweep across text. Instead, the eyes alternate between brief pauses called fixations and rapid jumps called saccades.
 
-During a fixation, readers identify the currently viewed word and gather limited information about upcoming words. The perceptual span allows some preview of what lies ahead, helping readers prepare for the next eye movement and sometimes process predictable or familiar words more efficiently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wexler.free.fr/library/files/rayner%20%281998%29%20eye%20movements%20in%20reading%20and%20information%20processing.%2020%20years%20of%20research.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wexler.free.fr">[Wexler+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wexler.free.fr</span><span class="citation-popover-snippet">Eye Movements in Reading and Information Processingby K Rayner · Cited by 11914 — Basic topics discussed with respect to reading ar...</span></span></span>
+During a fixation, readers identify the currently viewed word and gather limited information about upcoming words. The perceptual span allows some preview of what lies ahead, helping readers prepare for the next eye movement and sometimes process predictable or familiar words more efficiently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wexler.free.fr/library/files/rayner%20%281998%29%20eye%20movements%20in%20reading%20and%20information%20processing.%2020%20years%20of%20research.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wexler.free.fr">[Wexler+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wexler.free.fr</span><span class="citation-popover-snippet">Eye Movements in Reading and Information Processingby K Rayner · Cited by 11914 — Basic topics discussed with respect to reading ar...</span></span></span>
 
-Importantly, the information available across the perceptual span is not equally detailed. Readers can recognise words near fixation much more accurately than words farther away. Peripheral vision provides useful cues about word length, spacing, and upcoming text structure, but it does not deliver the detailed recognition needed to comprehend dozens of words simultaneously. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEye movements, the perceptual span, and reading speed</span><span class="citation-popover-snippet">by K Rayner · 2010 · Cited by 474 — That is, the perceptual span for skilled readers of alphabetic writing systems consists of 3-4 let...</span></span></span>
+Importantly, the information available across the perceptual span is not equally detailed. Readers can recognise words near fixation much more accurately than words farther away. Peripheral vision provides useful cues about word length, spacing, and upcoming text structure, but it does not deliver the detailed recognition needed to comprehend dozens of words simultaneously.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEye movements, the perceptual span, and reading speed</span><span class="citation-popover-snippet">by K Rayner · 2010 · Cited by 474 — That is, the perceptual span for skilled readers of alphabetic writing systems consists of 3-4 let...</span></span></span>
 
 This distinction matters because some speed-reading promotions blur the difference between detecting that text exists and actually understanding it. Eye-tracking studies [measure]({{ 'measure/' | relative_url }}) what readers can truly use during reading, not merely what they can notice in the periphery.
 
@@ -302,11 +302,11 @@ This distinction matters because some speed-reading promotions blur the differen
 
 If readers cannot process an entire page at once, they must move their eyes repeatedly through the text. These movements are called saccades.
 
-Saccades are not a flaw in reading that can simply be trained away. They are a fundamental adaptation to the structure of the visual system. Because useful visual information comes from a restricted perceptual span, readers need many fixations to complete a page. Each fixation provides new information; each saccade repositions the eyes so that the next portion of text falls within effective vision. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/9849112/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Wexler]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Eye movements in reading and information processingby K Rayner · 1998 · Cited by 11902 — Basic topics discussed with respect to rea...</span></span></span>
+Saccades are not a flaw in reading that can simply be trained away. They are a fundamental adaptation to the structure of the visual system. Because useful visual information comes from a restricted perceptual span, readers need many fixations to complete a page. Each fixation provides new information; each saccade repositions the eyes so that the next portion of text falls within effective vision.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/9849112/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Wexler]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Eye movements in reading and information processingby K Rayner · 1998 · Cited by 11902 — Basic topics discussed with respect to rea...</span></span></span>
 
-This explains why extreme claims about reading thousands of words per minute with full comprehension are difficult to reconcile with established evidence. Even if a reader shortened fixation durations or reduced unnecessary [regressions]({{ 'lookbacks/' | relative_url }}), the eyes would still need to make enough fixations to bring words into the perceptual span. The visual bottleneck remains. Research reviews by Keith Rayner and colleagues conclude that substantial increases in reading speed generally involve a trade-off with comprehension rather than a discovery that bypasses visual constraints. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 531 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</span></span></span>
+This explains why extreme claims about reading thousands of words per minute with full comprehension are difficult to reconcile with established evidence. Even if a reader shortened fixation durations or reduced unnecessary [regressions]({{ 'lookbacks/' | relative_url }}), the eyes would still need to make enough fixations to bring words into the perceptual span. The visual bottleneck remains. Research reviews by Keith Rayner and colleagues conclude that substantial increases in reading speed generally involve a trade-off with comprehension rather than a discovery that bypasses visual constraints.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 531 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</span></span></span>
 
-A practical consequence is that reading speed improvements tend to be incremental. Better readers often make more efficient eye movements, spend less time on familiar words, and anticipate language patterns more effectively, but they do not eliminate the need for saccades altogether. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/21169577/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Eye movements, the perceptual span, and reading speedby K Rayner · 2010 · Cited by 474 — The perceptual span or region of effective...</span></span></span>
+A practical consequence is that reading speed improvements tend to be incremental. Better readers often make more efficient eye movements, spend less time on familiar words, and anticipate language patterns more effectively, but they do not eliminate the need for saccades altogether.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/21169577/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Eye movements, the perceptual span, and reading speedby K Rayner · 2010 · Cited by 474 — The perceptual span or region of effective...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1zlncOAPh7A" title="Eye Movement and Reading" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1zlncOAPh7A" target="_blank" rel="noopener noreferrer">Eye Movement and Reading</a></p><p class="youtube-embed-meta">Channel: Dr. Andy Johnson</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1zlncOAPh7A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1zlncOAPh7A">Open on YouTube</a></p></div></div></div>
@@ -315,215 +315,215 @@ A practical consequence is that reading speed improvements tend to be incrementa
 
 One common misunderstanding is that fast readers possess a radically larger visual field for reading. The evidence suggests something more modest.
 
-Studies comparing faster and slower readers have found that skilled readers may make somewhat better use of the available perceptual span. Faster readers can often extract information more efficiently from the text surrounding fixation and may plan eye movements more effectively. However, they remain constrained by the same basic architecture of vision. The difference is one of efficiency, not superhuman perception. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/21169577/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Eye movements, the perceptual span, and reading speedby K Rayner · 2010 · Cited by 474 — The perceptual span or region of effective...</span></span></span>
+Studies comparing faster and slower readers have found that skilled readers may make somewhat better use of the available perceptual span. Faster readers can often extract information more efficiently from the text surrounding fixation and may plan eye movements more effectively. However, they remain constrained by the same basic architecture of vision. The difference is one of efficiency, not superhuman perception.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/21169577/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Eye movements, the perceptual span, and reading speedby K Rayner · 2010 · Cited by 474 — The perceptual span or region of effective...</span></span></span>
 
-This finding is important because it separates genuine reading [expertise]({{ 'expertise/' | relative_url }}) from exaggerated marketing claims. Expert readers do not appear to unlock an unlimited span that allows whole-page perception. Instead, they become better at using the limited span available to every reader. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEye movements, the perceptual span, and reading speed</span><span class="citation-popover-snippet">by K Rayner · 2010 · Cited by 474 — That is, the perceptual span for skilled readers of alphabetic writing systems consists of 3-4 let...</span></span></span>
+This finding is important because it separates genuine reading [expertise]({{ 'expertise/' | relative_url }}) from exaggerated marketing claims. Expert readers do not appear to unlock an unlimited span that allows whole-page perception. Instead, they become better at using the limited span available to every reader.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEye movements, the perceptual span, and reading speed</span><span class="citation-popover-snippet">by K Rayner · 2010 · Cited by 474 — That is, the perceptual span for skilled readers of alphabetic writing systems consists of 3-4 let...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_not_speed_rea_5caa5d_perceptual_sp_1579db-Illustration-3-dark.svg" | relative_url }}" alt="Perceptual span illustration 3" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_not_speed_rea_5caa5d_perceptual_sp_1579db-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_not_speed_rea_5caa5d_perceptual_sp_1579db-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How phrase reading fits real visual limits
 
-The concept of phrase reading fits comfortably within what perceptual-span research shows. <span class="citation-chip-wrap"><a class="citation-chip" href="https://researchportal.northumbria.ac.uk/en/publications/the-perceptual-span-in-chinese-reading/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchportal.northumbria.ac.uk">[researchportal.northumbria.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchportal.northumbria.ac.uk</span><span class="citation-popover-title">the perceptual span in chinese reading</span><span class="citation-popover-snippet">English readers is asymmetric about the point of fixation, extending approximately 3-4 characters to the left and 14-15 characters to the...</span></span></span>
+The concept of phrase reading fits comfortably within what perceptual-span research shows.<span class="citation-chip-wrap"><a class="citation-chip" href="https://researchportal.northumbria.ac.uk/en/publications/the-perceptual-span-in-chinese-reading/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchportal.northumbria.ac.uk">[researchportal.northumbria.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchportal.northumbria.ac.uk</span><span class="citation-popover-title">the perceptual span in chinese reading</span><span class="citation-popover-snippet">English readers is asymmetric about the point of fixation, extending approximately 3-4 characters to the left and 14-15 characters to the...</span></span></span>
 
-When readers recognise groups such as “at the end of the meeting” or “the results of the study”, they are not reading entire lines at once. Rather, they are using the information available within and just beyond fixation to process meaningful language units more efficiently. The words remain subject to normal visual constraints, but language familiarity allows them to be integrated quickly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEye movements, the perceptual span, and reading speed</span><span class="citation-popover-snippet">by K Rayner · 2010 · Cited by 474 — That is, the perceptual span for skilled readers of alphabetic writing systems consists of 3-4 let...</span></span></span>
+When readers recognise groups such as “at the end of the meeting” or “the results of the study”, they are not reading entire lines at once. Rather, they are using the information available within and just beyond fixation to process meaningful language units more efficiently. The words remain subject to normal visual constraints, but language familiarity allows them to be integrated quickly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEye movements, the perceptual span, and reading speed</span><span class="citation-popover-snippet">by K Rayner · 2010 · Cited by 474 — That is, the perceptual span for skilled readers of alphabetic writing systems consists of 3-4 let...</span></span></span>
 
-This helps explain why phrase reading can increase fluency without requiring extraordinary visual abilities. The improvement comes from reducing unnecessary pauses and making better use of predictable language patterns. It does not depend on perceiving whole paragraphs through peripheral vision. Instead, it works with the perceptual span rather than attempting to overcome it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEye movements, the perceptual span, and reading speed</span><span class="citation-popover-snippet">by K Rayner · 2010 · Cited by 474 — That is, the perceptual span for skilled readers of alphabetic writing systems consists of 3-4 let...</span></span></span>
+This helps explain why phrase reading can increase fluency without requiring extraordinary visual abilities. The improvement comes from reducing unnecessary pauses and making better use of predictable language patterns. It does not depend on perceiving whole paragraphs through peripheral vision. Instead, it works with the perceptual span rather than attempting to overcome it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEye movements, the perceptual span, and reading speed</span><span class="citation-popover-snippet">by K Rayner · 2010 · Cited by 474 — That is, the perceptual span for skilled readers of alphabetic writing systems consists of 3-4 let...</span></span></span>
 
-The broader lesson from eye-tracking research is that realistic reading improvement respects the mechanics of vision. Readers can become faster, smoother, and more efficient, but the evidence does not support the notion that the eyes can absorb entire pages in a single glance. The perceptual span remains one of the clearest scientific explanations for why phrase reading is plausible while many speed-reading promises are not. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEye movements, the perceptual span, and reading speed</span><span class="citation-popover-snippet">by K Rayner · 2010 · Cited by 474 — That is, the perceptual span for skilled readers of alphabetic writing systems consists of 3-4 let...</span></span></span>
+The broader lesson from eye-tracking research is that realistic reading improvement respects the mechanics of vision. Readers can become faster, smoother, and more efficient, but the evidence does not support the notion that the eyes can absorb entire pages in a single glance. The perceptual span remains one of the clearest scientific explanations for why phrase reading is plausible while many speed-reading promises are not.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEye movements, the perceptual span, and reading speed</span><span class="citation-popover-snippet">by K Rayner · 2010 · Cited by 474 — That is, the perceptual span for skilled readers of alphabetic writing systems consists of 3-4 let...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/juei8P-lWnY" title="Speed Reading Exposed: The Truth About How To Read Faster" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=juei8P-lWnY" target="_blank" rel="noopener noreferrer">Speed Reading Exposed: The Truth About How To Read Faster</a></p><p class="youtube-embed-meta">Channel: Anthony Metivier &middot; Views: 12.2K &middot; Uploaded: January 2021 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=juei8P-lWnY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=juei8P-lWnY">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why your eyes cannot read whole pages. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why your eyes cannot read whole pages. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading in the Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6649793-M.jpg" alt="Cover for Reading in the Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading in the Brain">Reading in the Brain</a>
-        </h4>
-        <p class="fr-book-author">By Stanislas Dehaene</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading in the Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6649793-M.jpg" alt="Cover for Reading in the Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading in the Brain">Reading in the Brain</a>
+</h4>
+<p class="fr-book-author">By Stanislas Dehaene</p>
         
-        <p class="fr-book-desc">Explains the neural and visual processing behind reading, making it an excellent match for a page debunking whole-page-at-a-glance speed-...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the neural and visual processing behind reading, making it an excellent match for a page debunking whole-page-at-a-glance speed-...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Proust+and+the+squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Proust and the squid on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14656065-M.jpg" alt="Cover for Proust and the squid" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Proust+and+the+squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Proust and the squid">Proust and the squid</a>
-        </h4>
-        <p class="fr-book-author">By Maryanne Wolf</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Proust+and+the+squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Proust and the squid on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14656065-M.jpg" alt="Cover for Proust and the squid" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Proust+and+the+squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Proust and the squid">Proust and the squid</a>
+</h4>
+<p class="fr-book-author">By Maryanne Wolf</p>
         
-        <p class="fr-book-desc">Covers how the brain learns and performs reading, giving broader context for why fluent reading depends on trained neural systems rather...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Proust+and+the+squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers how the brain learns and performs reading, giving broader context for why fluent reading depends on trained neural systems rather...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Proust+and+the+squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Psychology+of+reading&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Psychology of reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13798360-M.jpg" alt="Cover for Psychology of reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Psychology+of+reading&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Psychology of reading">Psychology of reading</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Psychology+of+reading&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Psychology of reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13798360-M.jpg" alt="Cover for Psychology of reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Psychology+of+reading&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Psychology of reading">Psychology of reading</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Keith Rayner’s work is central to eye-movement, fixation, saccade, and perceptual-span research, making this the strongest technical match.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Psychology+of+reading&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Keith Rayner’s work is central to eye-movement, fixation, saccade, and perceptual-span research, making this the strongest technical match.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Psychology+of+reading&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Reading+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading Mind on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Reading+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading Mind">Reading Mind</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Reading+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading Mind on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Reading+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading Mind">Reading Mind</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Walks through the mental processes involved in moving from letters and words to comprehension, fitting the article’s emphasis on real rea...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Reading+Mind&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Walks through the mental processes involved in moving from letters and words to comprehension, fitting the article’s emphasis on real rea...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Reading+Mind&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Reading+in+the+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Reading in the Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Proust+and+the+squid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Proust and the squid</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Psychology+of+reading&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Psychology of reading</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Reading+in+the+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Reading in the Brain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Proust+and+the+squid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Proust and the squid</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Psychology+of+reading&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Psychology of reading</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading accessories" data-ebay-reference="perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for book page holder thumb bookmark reading accessories paper clip page holder"><img src="{{ '/assets/images/marketplace-covers/a302d2e217ddb682f61d.jpg' | relative_url }}" alt="Listing image for book page holder thumb bookmark reading accessories paper clip page holder" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading accessories" data-ebay-reference="perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories" target="_blank" rel="sponsored noopener noreferrer">book page holder thumb bookmark reading accessories paper clip page holder</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading accessories" data-ebay-reference="perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading accessories">Search <span data-ebay-domain-label>eBay.co.uk</span>: reading accessories</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading accessories" data-ebay-reference="perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading accessories" data-ebay-reference="perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for book page holder thumb bookmark reading accessories paper clip page holder"><img src="{{ '/assets/images/marketplace-covers/a302d2e217ddb682f61d.jpg' | relative_url }}" alt="Listing image for book page holder thumb bookmark reading accessories paper clip page holder" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading accessories" data-ebay-reference="perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories" target="_blank" rel="sponsored noopener noreferrer">book page holder thumb bookmark reading accessories paper clip page holder</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading accessories" data-ebay-reference="perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading accessories">Search<span data-ebay-domain-label>eBay.co.uk</span>: reading accessories</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading accessories" data-ebay-reference="perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading accessories" data-ebay-reference="perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wooden Thumb Book Page Holder Ring Bookmark Reading Accessories Book Lovers Gift"><img src="{{ '/assets/images/marketplace-covers/c065dd8d000f68478731.jpg' | relative_url }}" alt="Listing image for Wooden Thumb Book Page Holder Ring Bookmark Reading Accessories Book Lovers Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading accessories" data-ebay-reference="perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories" target="_blank" rel="sponsored noopener noreferrer">Wooden Thumb Book Page Holder Ring Bookmark Reading Accessories Book Lovers Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading accessories" data-ebay-reference="perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading accessories">Search <span data-ebay-domain-label>eBay.co.uk</span>: reading accessories</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading accessories" data-ebay-reference="perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading accessories" data-ebay-reference="perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wooden Thumb Book Page Holder Ring Bookmark Reading Accessories Book Lovers Gift"><img src="{{ '/assets/images/marketplace-covers/c065dd8d000f68478731.jpg' | relative_url }}" alt="Listing image for Wooden Thumb Book Page Holder Ring Bookmark Reading Accessories Book Lovers Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading accessories" data-ebay-reference="perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories" target="_blank" rel="sponsored noopener noreferrer">Wooden Thumb Book Page Holder Ring Bookmark Reading Accessories Book Lovers Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading accessories" data-ebay-reference="perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading accessories">Search<span data-ebay-domain-label>eBay.co.uk</span>: reading accessories</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading accessories" data-ebay-reference="perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading accessories" data-ebay-reference="perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cat Stainless Steel Text Bookmark Reading Accessories Creative Stylish Cat Theme"><img src="{{ '/assets/images/marketplace-covers/edf1e3fca8014bd8034b.jpg' | relative_url }}" alt="Listing image for Cat Stainless Steel Text Bookmark Reading Accessories Creative Stylish Cat Theme" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading accessories" data-ebay-reference="perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories" target="_blank" rel="sponsored noopener noreferrer">Cat Stainless Steel Text Bookmark Reading Accessories Creative Stylish Cat Theme</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading accessories" data-ebay-reference="perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading accessories">Search <span data-ebay-domain-label>eBay.co.uk</span>: reading accessories</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading accessories" data-ebay-reference="perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading accessories" data-ebay-reference="perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cat Stainless Steel Text Bookmark Reading Accessories Creative Stylish Cat Theme"><img src="{{ '/assets/images/marketplace-covers/edf1e3fca8014bd8034b.jpg' | relative_url }}" alt="Listing image for Cat Stainless Steel Text Bookmark Reading Accessories Creative Stylish Cat Theme" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading accessories" data-ebay-reference="perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories" target="_blank" rel="sponsored noopener noreferrer">Cat Stainless Steel Text Bookmark Reading Accessories Creative Stylish Cat Theme</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading accessories" data-ebay-reference="perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading accessories">Search<span data-ebay-domain-label>eBay.co.uk</span>: reading accessories</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading accessories" data-ebay-reference="perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading accessories" data-ebay-reference="perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dark Romance Bookmarks Set Gothic Villain, Reading Accessories Book Lover Gift"><img src="{{ '/assets/images/marketplace-covers/aecad2c9b7fb6372a229.jpg' | relative_url }}" alt="Listing image for Dark Romance Bookmarks Set Gothic Villain, Reading Accessories Book Lover Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading accessories" data-ebay-reference="perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories" target="_blank" rel="sponsored noopener noreferrer">Dark Romance Bookmarks Set Gothic Villain, Reading Accessories Book Lover Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading accessories" data-ebay-reference="perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading accessories">Search <span data-ebay-domain-label>eBay.co.uk</span>: reading accessories</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading accessories" data-ebay-reference="perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading accessories" data-ebay-reference="perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading accessories" data-ebay-reference="perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dark Romance Bookmarks Set Gothic Villain, Reading Accessories Book Lover Gift"><img src="{{ '/assets/images/marketplace-covers/aecad2c9b7fb6372a229.jpg' | relative_url }}" alt="Listing image for Dark Romance Bookmarks Set Gothic Villain, Reading Accessories Book Lover Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading accessories" data-ebay-reference="perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories" target="_blank" rel="sponsored noopener noreferrer">Dark Romance Bookmarks Set Gothic Villain, Reading Accessories Book Lover Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading accessories" data-ebay-reference="perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading accessories">Search<span data-ebay-domain-label>eBay.co.uk</span>: reading accessories</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading accessories" data-ebay-reference="perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading accessories" data-ebay-reference="perceptual-span-why-your-eyes-cannot-read-whole-pages-increasing-reading-accessories" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -539,7 +539,7 @@ The broader lesson from eye-tracking research is that realistic reading improvem
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -559,7 +559,7 @@ The broader lesson from eye-tracking research is that realistic reading improvem
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -591,7 +591,7 @@ The broader lesson from eye-tracking research is that realistic reading improvem
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -643,7 +643,7 @@ The broader lesson from eye-tracking research is that realistic reading improvem
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -688,7 +688,7 @@ The broader lesson from eye-tracking research is that realistic reading improvem
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -729,169 +729,169 @@ The broader lesson from eye-tracking research is that realistic reading improvem
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCEye movements, the perceptual span, and reading speed  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by K Rayner · 2010 · Cited by 474 — That is, the perceptual span for skilled readers of alphabetic writing systems consists of 3-4 let...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by K Rayner · 2010 · Cited by 474 — That is, the perceptual span for skilled readers of alphabetic writing systems consists of 3-4 let...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCEye Movements in Reading: [Models](&#123;&#123; 'models/' | relative_url &#125;&#125;) and Data  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2906818/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2906818/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Movements in Reading: Models and Data - PMC - NIHFirst, the perceptual span (or region of effective vision during a fixation) extends 3–4...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2906818/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2906818/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Movements in Reading: Models and Data - PMC - NIHFirst, the perceptual span (or region of effective vision during a fixation) extends 3–4...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: academia.edu  
    Title: The perceptual span and peripheral cues in reading  
-   Link: <a href="https://www.academia.edu/3153626/The_perceptual_span_and_peripheral_cues_in_reading" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/3153626/The_perceptual_span_and_peripheral_cues_in_reading</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>COGNITIVE PSYCHOLOGY 7, 65-81 (1975) The Perceptual Span and Peripheral Cues in Reading KEITH RAYNER University of Rochester Skilled read...</p></details>
+   Link:<a href="https://www.academia.edu/3153626/The_perceptual_span_and_peripheral_cues_in_reading" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/3153626/The_perceptual_span_and_peripheral_cues_in_reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>COGNITIVE PSYCHOLOGY 7, 65-81 (1975) The Perceptual Span and Peripheral Cues in Reading KEITH RAYNER University of Rochester Skilled read...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/290492746_So_Much_to_Read_So_Little_Time_How_Do_We_Read_and_Can_Speed_Reading_Help" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/290492746_So_Much_to_Read_So_Little_Time_How_Do_We_Read_and_Can_Speed_Reading_Help</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Do We Read, and Can Speed Reading Help?10 May 2026 — The speed-reading technique engages the brain&#x27;s capacity and the ocular velocity...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/290492746_So_Much_to_Read_So_Little_Time_How_Do_We_Read_and_Can_Speed_Reading_Help" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/290492746_So_Much_to_Read_So_Little_Time_How_Do_We_Read_and_Can_Speed_Reading_Help</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Do We Read, and Can Speed Reading Help?10 May 2026 — The speed-reading technique engages the brain&#x27;s capacity and the ocular velocity...</p></details>
    Published: May 2026  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/49694262_Eye_movements_the_perceptual_span_and_reading_speed" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/49694262_Eye_movements_the_perceptual_span_and_reading_speed</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Eye movements, the perceptual span, and reading speedThe main findings were that fast readers (reading at about 330 wpm) had a larger per...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/49694262_Eye_movements_the_perceptual_span_and_reading_speed" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/49694262_Eye_movements_the_perceptual_span_and_reading_speed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eye movements, the perceptual span, and reading speedThe main findings were that fast readers (reading at about 330 wpm) had a larger per...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/259361726_Eye_movements_in_reading_Models_and_data" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/259361726_Eye_movements_in_reading_Models_and_data</a>  
+   Link:<a href="https://www.researchgate.net/publication/259361726_Eye_movements_in_reading_Models_and_data" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/259361726_Eye_movements_in_reading_Models_and_data</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: rayner.com  
-   Link: <a href="https://rayner.com/global/about-us/" target="_blank" rel="noopener noreferrer nofollow">https://rayner.com/global/about-us/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>About Rayner: History, Research and Vision | Rayner GlobalWith more than 70 years of continuous growth and experience Rayner have been wo...</p></details>
+   Link:<a href="https://rayner.com/global/about-us/" target="_blank" rel="noopener noreferrer nofollow">https://rayner.com/global/about-us/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>About Rayner: History, Research and Vision | Rayner GlobalWith more than 70 years of continuous growth and experience Rayner have been wo...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: journals.sagepub.com  
    Title: Sage Journals So Much to Read, So Little Time  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/1529100615623267" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1529100615623267</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsSo Much to Read, So Little Time - Keith Rayner, Elizabeth...by K Rayner · 2016 · Cited by 525 — In general, in English the...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/1529100615623267" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1529100615623267</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsSo Much to Read, So Little Time - Keith Rayner, Elizabeth...by K Rayner · 2016 · Cited by 525 — In general, in English the...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med How Do We Read, and Can Speed Reading Help?  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26769745/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by K Rayner · 2016 · Cited by 531 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26769745/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by K Rayner · 2016 · Cited by 531 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: wexler.free.fr  
-   Link: <a href="https://wexler.free.fr/library/files/rayner%20%281998%29%20eye%20movements%20in%20reading%20and%20information%20processing.%2020%20years%20of%20research.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wexler.free.fr/library/files/rayner%20%281998%29%20eye%20movements%20in%20reading%20and%20information%20processing.%2020%20years%20of%20research.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eye Movements in Reading and Information Processingby K Rayner · Cited by 11914 — Basic topics discussed with respect to reading ar...</p></details>
+   Link:<a href="https://wexler.free.fr/library/files/rayner%20%281998%29%20eye%20movements%20in%20reading%20and%20information%20processing.%2020%20years%20of%20research.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wexler.free.fr/library/files/rayner%20%281998%29%20eye%20movements%20in%20reading%20and%20information%20processing.%2020%20years%20of%20research.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eye Movements in Reading and Information Processingby K Rayner · Cited by 11914 — Basic topics discussed with respect to reading ar...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/9849112/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/9849112/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eye movements in reading and information processingby K Rayner · 1998 · Cited by 11902 — Basic topics discussed with respect to rea...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/9849112/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/9849112/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eye movements in reading and information processingby K Rayner · 1998 · Cited by 11902 — Basic topics discussed with respect to rea...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/21169577/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/21169577/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eye movements, the perceptual span, and reading speedby K Rayner · 2010 · Cited by 474 — The perceptual span or region of effective...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/21169577/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/21169577/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eye movements, the perceptual span, and reading speedby K Rayner · 2010 · Cited by 474 — The perceptual span or region of effective...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: idlookmall.com  
    Title: KEIT H  
-   Link: <a href="https://www.idlookmall.com/brandHome?bDispCtgrNo=31296" target="_blank" rel="noopener noreferrer nofollow">https://www.idlookmall.com/brandHome?bDispCtgrNo=31296</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>KEITH - 아이디룩몰아이디룩몰 홈으로 · KEITH 브랜드 레이어 열림. 상품 · 전체상품 · NEW IN · 단독혜택 · 아우터 · 니트웨어 · 티셔츠 · 블라우스/셔츠 · 원피스 · 스커트 · 팬츠...</p></details>
+   Link:<a href="https://www.idlookmall.com/brandHome?bDispCtgrNo=31296" target="_blank" rel="noopener noreferrer nofollow">https://www.idlookmall.com/brandHome?bDispCtgrNo=31296</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>KEITH - 아이디룩몰아이디룩몰 홈으로 · KEITH 브랜드 레이어 열림. 상품 · 전체상품 · NEW IN · 단독혜택 · 아우터 · 니트웨어 · 티셔츠 · 블라우스/셔츠 · 원피스 · 스커트 · 팬츠...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: keithweb.jp  
    Title: KEIT H  
-   Link: <a href="https://keithweb.jp/" target="_blank" rel="noopener noreferrer nofollow">https://keithweb.jp/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>KEITH - キース公式サイト『KEITH』（キース）公式サイト。自分らしさを常に意識する仕事を持つ女性のためのトラディショナルブランド。新作紹介、最新ニュース、全国のショップ情報等をお届けし...</p></details>
+   Link:<a href="https://keithweb.jp/" target="_blank" rel="noopener noreferrer nofollow">https://keithweb.jp/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>KEITH - キース公式サイト『KEITH』（キース）公式サイト。自分らしさを常に意識する仕事を持つ女性のためのトラディショナルブランド。新作紹介、最新ニュース、全国のショップ情報等をお届けし...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11335319/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11335319/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Perceptual Span in Dyslexic Reading and Visual Searchby SG Luke · 2024 · Cited by 11 — For typical readers of alphabetic languages, the p...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11335319/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11335319/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Perceptual Span in Dyslexic Reading and Visual Searchby SG Luke · 2024 · Cited by 11 — For typical readers of alphabetic languages, the p...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: childrenofthecode.org  
-   Link: <a href="https://childrenofthecode.org/interviews/rayner.htm" target="_blank" rel="noopener noreferrer nofollow">https://childrenofthecode.org/interviews/rayner.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Keith Rayner - What Eye Movements Tell Us About...Dr. Rayner&#x27;s work focuses on understanding the cognitive processes involved in reading...</p></details>
+   Link:<a href="https://childrenofthecode.org/interviews/rayner.htm" target="_blank" rel="noopener noreferrer nofollow">https://childrenofthecode.org/interviews/rayner.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Keith Rayner - What Eye Movements Tell Us About...Dr. Rayner&#x27;s work focuses on understanding the cognitive processes involved in reading...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: scirp.org  
-   Link: <a href="https://www.scirp.org/journal/paperinformation?paperid=51379" target="_blank" rel="noopener noreferrer nofollow">https://www.scirp.org/journal/paperinformation?paperid=51379</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 characters to the left and 14 - 15 characters to the right of fixation among native...Read more...</p></details>
+   Link:<a href="https://www.scirp.org/journal/paperinformation?paperid=51379" target="_blank" rel="noopener noreferrer nofollow">https://www.scirp.org/journal/paperinformation?paperid=51379</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 characters to the left and 14 - 15 characters to the right of fixation among native...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchportal.northumbria.ac.uk  
    Title: the perceptual span in chinese reading  
-   Link: <a href="https://researchportal.northumbria.ac.uk/en/publications/the-perceptual-span-in-chinese-reading/" target="_blank" rel="noopener noreferrer nofollow">https://researchportal.northumbria.ac.uk/en/publications/the-perceptual-span-in-chinese-reading/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>English readers is asymmetric about the point of fixation, extending approximately 3-4 characters to the left and 14-15 characters to the...</p></details>
+   Link:<a href="https://researchportal.northumbria.ac.uk/en/publications/the-perceptual-span-in-chinese-reading/" target="_blank" rel="noopener noreferrer nofollow">https://researchportal.northumbria.ac.uk/en/publications/the-perceptual-span-in-chinese-reading/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English readers is asymmetric about the point of fixation, extending approximately 3-4 characters to the left and 14-15 characters to the...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: e-csd.org  
-   Link: <a href="https://www.e-csd.org/journal/view.php?doi=10.12963%2Fcsd.22926" target="_blank" rel="noopener noreferrer nofollow">https://www.e-csd.org/journal/view.php?doi=10.12963%2Fcsd.22926</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aging Effects on Perceptual Reading Spanby HJ Shin · 2022 · Cited by 1 — 본 연구에서는 노화에 따른 지각 폭이 읽기 능력에 미치는 영향을 시선추적기법을 이용한 온라인 읽기 측정변수를 통해...</p></details>
+   Link:<a href="https://www.e-csd.org/journal/view.php?doi=10.12963%2Fcsd.22926" target="_blank" rel="noopener noreferrer nofollow">https://www.e-csd.org/journal/view.php?doi=10.12963%2Fcsd.22926</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aging Effects on Perceptual Reading Spanby HJ Shin · 2022 · Cited by 1 — 본 연구에서는 노화에 따른 지각 폭이 읽기 능력에 미치는 영향을 시선추적기법을 이용한 온라인 읽기 측정변수를 통해...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: scholarpedia.org  
    Title: Eye movements  
-   Link: <a href="https://www.scholarpedia.org/article/Eye_movements" target="_blank" rel="noopener noreferrer nofollow">https://www.scholarpedia.org/article/Eye_movements</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sep 17, 2007 — The difficulty of the stimulus influences eye movements: in reading, when the text becomes more difficult, eye fixations g...</p></details>
+   Link:<a href="https://www.scholarpedia.org/article/Eye_movements" target="_blank" rel="noopener noreferrer nofollow">https://www.scholarpedia.org/article/Eye_movements</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sep 17, 2007 — The difficulty of the stimulus influences eye movements: in reading, when the text becomes more difficult, eye fixations g...</p></details>
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AngelaRaynerMP/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AngelaRaynerMP/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Angela Rayner (@AngelaRaynerMP)My team deal with around 10,000 pieces of casework every year, helping people with issues such as housing...</p></details>
+   Link:<a href="https://www.facebook.com/AngelaRaynerMP/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AngelaRaynerMP/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Angela Rayner (@AngelaRaynerMP)My team deal with around 10,000 pieces of casework every year, helping people with issues such as housing...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: papersflow.ai  
-   Link: <a href="https://papersflow.ai/research/topics/reading-and-literacy-development/eye-movements-in-reading" target="_blank" rel="noopener noreferrer nofollow">https://papersflow.ai/research/topics/reading-and-literacy-development/eye-movements-in-reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eye Movements in Reading: Research Guide &amp; PapersPerceptual span—the visual region processed per fixation—varies by text difficulty and r...</p></details>
+   Link:<a href="https://papersflow.ai/research/topics/reading-and-literacy-development/eye-movements-in-reading" target="_blank" rel="noopener noreferrer nofollow">https://papersflow.ai/research/topics/reading-and-literacy-development/eye-movements-in-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eye Movements in Reading: Research Guide &amp; PapersPerceptual span—the visual region processed per fixation—varies by text difficulty and r...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: pure.royalholloway.ac.uk  
    Title: Perceptual span ms resubmission clean Feb16 2019  
-   Link: <a href="https://pure.royalholloway.ac.uk/files/33547401/Perceptual_span_ms_resubmission_clean_Feb16_2019.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.royalholloway.ac.uk/files/33547401/Perceptual_span_ms_resubmission_clean_Feb16_2019.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>perceptual span in reading scrolling textby H Harvey · Cited by 6 — In particular, the movement of the text may disrupt the allocation of...</p></details>
+   Link:<a href="https://pure.royalholloway.ac.uk/files/33547401/Perceptual_span_ms_resubmission_clean_Feb16_2019.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.royalholloway.ac.uk/files/33547401/Perceptual_span_ms_resubmission_clean_Feb16_2019.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>perceptual span in reading scrolling textby H Harvey · Cited by 6 — In particular, the movement of the text may disrupt the allocation of...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/sharingbestpractice/posts/1371636693169838/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/sharingbestpractice/posts/1371636693169838/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>er&#x27;s studies of the perceptual span and eye movement...</p></details>
+   Link:<a href="https://www.facebook.com/groups/sharingbestpractice/posts/1371636693169838/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/sharingbestpractice/posts/1371636693169838/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>er&#x27;s studies of the perceptual span and eye movement...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: andrewd.ces.clemson.edu  
    Title: Ray98 reading Survey  
-   Link: <a href="https://andrewd.ces.clemson.edu/courses/cpsc881/papers/reading/Ray98_readingSurvey.pdf" target="_blank" rel="noopener noreferrer nofollow">https://andrewd.ces.clemson.edu/courses/cpsc881/papers/reading/Ray98_readingSurvey.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Movements in Reading and Information Processingby K Rayner · Cited by 11914 — Basic topics discussed with respect to reading are (a) the...</p></details>
+   Link:<a href="https://andrewd.ces.clemson.edu/courses/cpsc881/papers/reading/Ray98_readingSurvey.pdf" target="_blank" rel="noopener noreferrer nofollow">https://andrewd.ces.clemson.edu/courses/cpsc881/papers/reading/Ray98_readingSurvey.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Movements in Reading and Information Processingby K Rayner · Cited by 11914 — Basic topics discussed with respect to reading are (a) the...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: tradingwithrayner.com  
    Title: Tradingwith Rayner  
-   Link: <a href="https://www.tradingwithrayner.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.tradingwithrayner.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HomeDiscover new trading strategies and insights to level up your trading so you can become a consistently profitable...</p></details>
+   Link:<a href="https://www.tradingwithrayner.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.tradingwithrayner.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HomeDiscover new trading strategies and insights to level up your trading so you can become a consistently profitable...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: Eye Movement and Reading  
-   Link: <a href="https://www.youtube.com/watch?v=1zlncOAPh7A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1zlncOAPh7A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Speed reading feels real… But isn&#x27;t is a highly relevant video because it details the actual biological mechanics of how reading works an...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=1zlncOAPh7A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1zlncOAPh7A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Speed reading feels real… But isn&#x27;t is a highly relevant video because it details the actual biological mechanics of how reading works an...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: faculty.cas.usf.edu  
    Title: Clifton etal 2016 JML  
-   Link: <a href="https://faculty.cas.usf.edu/eschotter/papers/Clifton_etal_2016_JML.pdf" target="_blank" rel="noopener noreferrer nofollow">https://faculty.cas.usf.edu/eschotter/papers/Clifton_etal_2016_JML.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Keith Rayner&#x27;s studies of the perceptual span and eye movement control were predicated on the...Read more...</p></details>
+   Link:<a href="https://faculty.cas.usf.edu/eschotter/papers/Clifton_etal_2016_JML.pdf" target="_blank" rel="noopener noreferrer nofollow">https://faculty.cas.usf.edu/eschotter/papers/Clifton_etal_2016_JML.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Keith Rayner&#x27;s studies of the perceptual span and eye movement control were predicated on the...Read more...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: psybeh.tjnu.edu.cn  
    Title: Eye movement.Read more  
-   Link: <a href="https://psybeh.tjnu.edu.cn/EN/article/downloadArticleFile.do?attachType=PDF&amp;id=1185" target="_blank" rel="noopener noreferrer nofollow">https://psybeh.tjnu.edu.cn/EN/article/downloadArticleFile.do?attachType=PDF&amp;id=1185</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Movements, Cognitive Processes, and Readingby K Rayner · 2004 · Cited by 10 — It is very clear that eye movement data have been extremely...</p></details>
+   Link:<a href="https://psybeh.tjnu.edu.cn/EN/article/downloadArticleFile.do?attachType=PDF&amp;id=1185" target="_blank" rel="noopener noreferrer nofollow">https://psybeh.tjnu.edu.cn/EN/article/downloadArticleFile.do?attachType=PDF&amp;id=1185</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Movements, Cognitive Processes, and Readingby K Rayner · 2004 · Cited by 10 — It is very clear that eye movement data have been extremely...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.3758/s13414-019-01960-9" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13414-019-01960-9</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>in the perceptual span during readingby J Su · 2020 · Cited by 24 — Readers can acquire useful information from only a narrow region of t...</p></details>
+   Link:<a href="https://link.springer.com/article/10.3758/s13414-019-01960-9" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13414-019-01960-9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in the perceptual span during readingby J Su · 2020 · Cited by 24 — Readers can acquire useful information from only a narrow region of t...</p></details>

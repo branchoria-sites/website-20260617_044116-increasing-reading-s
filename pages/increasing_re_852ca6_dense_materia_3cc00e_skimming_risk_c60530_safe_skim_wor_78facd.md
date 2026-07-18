@@ -269,7 +269,7 @@ image: /assets/images/increasing_re_852ca6_dense_materia_3cc00e_skimming_risk_c6
 
 ## Introduction
 
-When [dense text]({{ 'dense-texts-39ce2c/' | relative_url }}) becomes too risky to skim straight through, the solution is not necessarily to abandon speed. A safer approach is to treat skimming as a navigation tool rather than a substitute for reading. The goal is to identify where careful attention is needed before investing time in every paragraph. Research and reading-instruction guidance consistently suggest that readers understand complex material better when they first build a mental map of its structure and then [slow down]({{ 'slow-down/' | relative_url }}) selectively for the sections that carry the most meaning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://help.open.ac.uk/critical-reading-techniques/use-an-efficient-approach" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: help.open.ac.uk">[Open University Help+2The Learning Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">help.open.ac.uk</span><span class="citation-popover-snippet">Open University HelpUse an efficient approach: Critical reading techniquesUse an efficient approach Critical reading techniques · Know wh...</span></span></span>
+When [dense text]({{ 'dense-texts-39ce2c/' | relative_url }}) becomes too risky to skim straight through, the solution is not necessarily to abandon speed. A safer approach is to treat skimming as a navigation tool rather than a substitute for reading. The goal is to identify where careful attention is needed before investing time in every paragraph. Research and reading-instruction guidance consistently suggest that readers understand complex material better when they first build a mental map of its structure and then [slow down]({{ 'slow-down/' | relative_url }}) selectively for the sections that carry the most meaning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://help.open.ac.uk/critical-reading-techniques/use-an-efficient-approach" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: help.open.ac.uk">[Open University Help+2The Learning Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">help.open.ac.uk</span><span class="citation-popover-snippet">Open University HelpUse an efficient approach: Critical reading techniquesUse an efficient approach Critical reading techniques · Know wh...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_dense_materia_3cc00e_skimming_risk_c60530_safe_skim_wor_78facd-Illustration-1-dark.svg" | relative_url }}" alt="Safe Workflow illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_dense_materia_3cc00e_skimming_risk_c60530_safe_skim_wor_78facd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_dense_materia_3cc00e_skimming_risk_c60530_safe_skim_wor_78facd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -279,9 +279,9 @@ This skim-first workflow preserves many of the time savings associated with rapi
 
 A skim-first workflow begins with orientation. Before reading closely, spend a few minutes discovering how the document is organised.
 
-Many reading specialists recommend examining titles, headings, subheadings, introductions, conclusions, summaries, highlighted terms, diagrams, and the opening or closing sentences of sections before attempting a full read. This creates a framework into which later details can fit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://learningcenter.unc.edu/tips-and-tools/skimming/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learningcenter.unc.edu">[The Learning Center+2Open University Help]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learningcenter.unc.edu</span><span class="citation-popover-title">The Learning Center Skimming</span><span class="citation-popover-snippet">The Learning CenterSkimming - The Learning CenterSkimming is a strategic, selective reading method in which you focus on the main ideas o...</span></span></span>
+Many reading specialists recommend examining titles, headings, subheadings, introductions, conclusions, summaries, highlighted terms, diagrams, and the opening or closing sentences of sections before attempting a full read. This creates a framework into which later details can fit.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://learningcenter.unc.edu/tips-and-tools/skimming/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learningcenter.unc.edu">[The Learning Center+2Open University Help]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learningcenter.unc.edu</span><span class="citation-popover-title">The Learning Center Skimming</span><span class="citation-popover-snippet">The Learning CenterSkimming - The Learning CenterSkimming is a strategic, selective reading method in which you focus on the main ideas o...</span></span></span>
 
-The practical advantage is that comprehension depends partly on recognising structure. Research on text structure and headings shows that organisational signals help readers understand how ideas relate to one another and support both comprehension and memory. Headings function as signposts that reveal the author's organisation before the reader becomes immersed in details. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/full/10.1002/acp.4076" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library+2Center for Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Caption it!</span><span class="citation-popover-snippet">The impact of headings on learning from textsby A Prinz‐Weiß · 2023 · Cited by 2 — Including headings within texts might help to promote...</span></span></span>
+The practical advantage is that comprehension depends partly on recognising structure. Research on text structure and headings shows that organisational signals help readers understand how ideas relate to one another and support both comprehension and memory. Headings function as signposts that reveal the author's organisation before the reader becomes immersed in details.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/full/10.1002/acp.4076" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library+2Center for Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Caption it!</span><span class="citation-popover-snippet">The impact of headings on learning from textsby A Prinz‐Weiß · 2023 · Cited by 2 — Including headings within texts might help to promote...</span></span></span>
 
 A useful first-pass routine is:
 
@@ -315,7 +315,7 @@ Dense punctuation often provides another warning signal. Sentences filled with s
 
 A practical technique is to mark rather than immediately solve every difficult passage. When a definition or exception appears, place a note, highlight, or digital annotation and continue mapping the document. Once the overall structure is understood, return and read those marked sections carefully. This preserves momentum while ensuring that critical details receive the attention they require.
 
-Educational guidance on efficient reading frequently recommends combining quick scanning with purposeful rereading rather than treating rereading as failure. Strategic rereading is part of comprehension, especially when terminology or arguments are complex. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://help.open.ac.uk/critical-reading-techniques/use-an-efficient-approach" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: help.open.ac.uk">[Open University Help]</a><span class="citation-popover" role="note"><span class="citation-popover-source">help.open.ac.uk</span><span class="citation-popover-snippet">Open University HelpUse an efficient approach: Critical reading techniquesUse an efficient approach Critical reading techniques · Know wh...</span></span></span>
+Educational guidance on efficient reading frequently recommends combining quick scanning with purposeful rereading rather than treating rereading as failure. Strategic rereading is part of comprehension, especially when terminology or arguments are complex.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://help.open.ac.uk/critical-reading-techniques/use-an-efficient-approach" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: help.open.ac.uk">[Open University Help]</a><span class="citation-popover" role="note"><span class="citation-popover-source">help.open.ac.uk</span><span class="citation-popover-snippet">Open University HelpUse an efficient approach: Critical reading techniquesUse an efficient approach Critical reading techniques · Know wh...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/t2K6mJkSWoA" title="Tutorial: How to Read and Comprehend Scientific Research Articles" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=t2K6mJkSWoA" target="_blank" rel="noopener noreferrer">Tutorial: How to Read and Comprehend Scientific Research Articles</a></p><p class="youtube-embed-meta">Channel: umnLibraries</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=t2K6mJkSWoA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=t2K6mJkSWoA">Open on YouTube</a></p></div></div></div>
@@ -336,9 +336,9 @@ Examples include:
 * **Slow:** definitions, rules, conclusions, recommendations, eligibility criteria, assumptions, and exceptions.
 * **Very slow:** passages where a decision, action, or judgement depends on exact wording.
 
-Open University guidance on critical reading explicitly recommends adapting reading methods to purpose, beginning with a scan for overview and then moving into more thorough reading where needed. Efficient readers vary their strategy according to the task rather than maintaining a constant pace. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://help.open.ac.uk/critical-reading-techniques/use-an-efficient-approach" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: help.open.ac.uk">[Open University Help]</a><span class="citation-popover" role="note"><span class="citation-popover-source">help.open.ac.uk</span><span class="citation-popover-snippet">Open University HelpUse an efficient approach: Critical reading techniquesUse an efficient approach Critical reading techniques · Know wh...</span></span></span>
+Open University guidance on critical reading explicitly recommends adapting reading methods to purpose, beginning with a scan for overview and then moving into more thorough reading where needed. Efficient readers vary their strategy according to the task rather than maintaining a constant pace.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://help.open.ac.uk/critical-reading-techniques/use-an-efficient-approach" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: help.open.ac.uk">[Open University Help]</a><span class="citation-popover" role="note"><span class="citation-popover-source">help.open.ac.uk</span><span class="citation-popover-snippet">Open University HelpUse an efficient approach: Critical reading techniquesUse an efficient approach Critical reading techniques · Know wh...</span></span></span>
 
-This principle matters because research on skim-reading consistently finds that faster reading tends to reduce comprehension. The safest way to preserve understanding is not to force higher speed everywhere but to concentrate careful reading where comprehension has the highest value. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12801452/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Reading and skimming clinical information: insights from...by MA Soltan · 2025 · Cited by 1 — Reading times are shorter and comprehen...</span></span></span>
+This principle matters because research on skim-reading consistently finds that faster reading tends to reduce comprehension. The safest way to preserve understanding is not to force higher speed everywhere but to concentrate careful reading where comprehension has the highest value.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12801452/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Reading and skimming clinical information: insights from...by MA Soltan · 2025 · Cited by 1 — Reading times are shorter and comprehen...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_dense_materia_3cc00e_skimming_risk_c60530_safe_skim_wor_78facd-Illustration-2-dark.svg" | relative_url }}" alt="Safe Workflow illustration 2" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_dense_materia_3cc00e_skimming_risk_c60530_safe_skim_wor_78facd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_dense_materia_3cc00e_skimming_risk_c60530_safe_skim_wor_78facd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -400,179 +400,179 @@ This final verification stage protects against the most common skimming error: f
 
 The value of skim-first reading lies in attention allocation. Instead of spending equal effort on every sentence, readers spend most of their time where comprehension matters most.
 
-Evidence from research on text structure, headings, and reading strategies suggests that understanding improves when readers recognise organisational patterns and use them to guide attention. Structured previewing helps readers build expectations about a text, while selective rereading allows them to resolve ambiguity where precision is required. Open University Help+3Wiley Online Library+3Center for Assessment <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/full/10.1002/acp.4076" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[onlinelibrary.wiley.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Caption it!</span><span class="citation-popover-snippet">The impact of headings on learning from textsby A Prinz‐Weiß · 2023 · Cited by 2 — Including headings within texts might help to promote...</span></span></span>
+Evidence from research on text structure, headings, and reading strategies suggests that understanding improves when readers recognise organisational patterns and use them to guide attention. Structured previewing helps readers build expectations about a text, while selective rereading allows them to resolve ambiguity where precision is required. Open University Help+3Wiley Online Library+3Center for Assessment<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/full/10.1002/acp.4076" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[onlinelibrary.wiley.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Caption it!</span><span class="citation-popover-snippet">The impact of headings on learning from textsby A Prinz‐Weiß · 2023 · Cited by 2 — Including headings within texts might help to promote...</span></span></span>
 
 For increasing reading speed, this means that skimming remains useful even when dense text makes pure [speed-reading]({{ 'myths/' | relative_url }}) risky. The safest strategy is not to read everything quickly. It is to skim first, identify where meaning is concentrated, and then slow down exactly where the text demands it.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How to Skim First Without Missing the Point. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How to Skim First Without Missing the Point. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Directly teaches inspectional reading, structural reading, and when to slow down for difficult material.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Directly teaches inspectional reading, structural reading, and when to slow down for difficult material.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-        </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+</h4>
+<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Explains how comprehension and retention improve when readers actively engage with key information rather than passively racing through t...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how comprehension and retention improve when readers actively engage with key information rather than passively racing through t...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Work on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lZpFCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Work" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Work">Deep Work</a>
-        </h4>
-        <p class="fr-book-author">By Cal Newport</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Work on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lZpFCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Work" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Work">Deep Work</a>
+</h4>
+<p class="fr-book-author">By Cal Newport</p>
         
-        <p class="fr-book-desc">Supports the article&#x27;s theme of switching from quick scanning to focused concentration when material becomes cognitively demanding.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports the article&#x27;s theme of switching from quick scanning to focused concentration when material becomes cognitively demanding.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Productivity+Project+Chris+Bailey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Productivity Project on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8850807-M.jpg" alt="Cover for The Productivity Project" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Productivity+Project+Chris+Bailey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Productivity Project">The Productivity Project</a>
-        </h4>
-        <p class="fr-book-author">By Chris Bailey</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Productivity+Project+Chris+Bailey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Productivity Project on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8850807-M.jpg" alt="Cover for The Productivity Project" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Productivity+Project+Chris+Bailey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Productivity Project">The Productivity Project</a>
+</h4>
+<p class="fr-book-author">By Chris Bailey</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: Distraction (Psychology), BUSINESS &amp; ECONOMICS / Skills, BUSINESS &amp; ECONOMICS / Time Management, Industri...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Productivity+Project+Chris+Bailey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: Distraction (Psychology), BUSINESS &amp; ECONOMICS / Skills, BUSINESS &amp; ECONOMICS / Time Management, Industri...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Productivity+Project+Chris+Bailey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Work&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Work</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Work&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Work</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: onlinelibrary.wiley.com  
    Title: Online Library Caption it!  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/acp.4076" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1002/acp.4076</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of headings on learning from textsby A Prinz‐Weiß · 2023 · Cited by 2 — Including headings within texts might help to promote...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/acp.4076" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1002/acp.4076</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of headings on learning from textsby A Prinz‐Weiß · 2023 · Cited by 2 — Including headings within texts might help to promote...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12801452/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12801452/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading and skimming clinical information: insights from...by MA Soltan · 2025 · Cited by 1 — Reading times are shorter and comprehen...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12801452/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12801452/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading and skimming clinical information: insights from...by MA Soltan · 2025 · Cited by 1 — Reading times are shorter and comprehen...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: help.open.ac.uk  
-   Link: <a href="https://help.open.ac.uk/critical-reading-techniques/use-an-efficient-approach" target="_blank" rel="noopener noreferrer nofollow">https://help.open.ac.uk/critical-reading-techniques/use-an-efficient-approach</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Open University HelpUse an efficient approach: Critical reading techniquesUse an efficient approach Critical reading techniques · Know wh...</p></details>
+   Link:<a href="https://help.open.ac.uk/critical-reading-techniques/use-an-efficient-approach" target="_blank" rel="noopener noreferrer nofollow">https://help.open.ac.uk/critical-reading-techniques/use-an-efficient-approach</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Open University HelpUse an efficient approach: Critical reading techniquesUse an efficient approach Critical reading techniques · Know wh...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: learningcenter.unc.edu  
    Title: The Learning Center Skimming  
-   Link: <a href="https://learningcenter.unc.edu/tips-and-tools/skimming/" target="_blank" rel="noopener noreferrer nofollow">https://learningcenter.unc.edu/tips-and-tools/skimming/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Learning CenterSkimming - The Learning CenterSkimming is a strategic, selective reading method in which you focus on the main ideas o...</p></details>
+   Link:<a href="https://learningcenter.unc.edu/tips-and-tools/skimming/" target="_blank" rel="noopener noreferrer nofollow">https://learningcenter.unc.edu/tips-and-tools/skimming/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Learning CenterSkimming - The Learning CenterSkimming is a strategic, selective reading method in which you focus on the main ideas o...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nciea.org  
-   Link: <a href="https://www.nciea.org/wp-content/uploads/2008/10/TextStructures_KH08_ADA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nciea.org/wp-content/uploads/2008/10/TextStructures_KH08_ADA.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Research also supports the causal relationship between text.Read more...</p></details>
+   Link:<a href="https://www.nciea.org/wp-content/uploads/2008/10/TextStructures_KH08_ADA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nciea.org/wp-content/uploads/2008/10/TextStructures_KH08_ADA.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Research also supports the causal relationship between text.Read more...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/classroom/comprehension/teaching-text-structure" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/classroom/comprehension/teaching-text-structure</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsTeaching Text StructureIn this section you&#x27;ll learn about the 5 most common text structures and how to help students learn...</p></details>
+   Link:<a href="https://www.readingrockets.org/classroom/comprehension/teaching-text-structure" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/classroom/comprehension/teaching-text-structure</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsTeaching Text StructureIn this section you&#x27;ll learn about the 5 most common text structures and how to help students learn...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: restore.ac.uk  
-   Link: <a href="https://www.restore.ac.uk/logicofenquiry/gst/Reading/Pages/Readingstrategies.html" target="_blank" rel="noopener noreferrer nofollow">https://www.restore.ac.uk/logicofenquiry/gst/Reading/Pages/Readingstrategies.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading strategies: scanning, skimming and intensive readingCheck your reading purpose and then use scanning, skimming or intensive readi...</p></details>
+   Link:<a href="https://www.restore.ac.uk/logicofenquiry/gst/Reading/Pages/Readingstrategies.html" target="_blank" rel="noopener noreferrer nofollow">https://www.restore.ac.uk/logicofenquiry/gst/Reading/Pages/Readingstrategies.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading strategies: scanning, skimming and intensive readingCheck your reading purpose and then use scanning, skimming or intensive readi...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: utc.edu  
-   Link: <a href="https://www.utc.edu/enrollment-management-and-student-affairs/center-for-academic-support-and-advisement/tips-for-academic-success/skimming" target="_blank" rel="noopener noreferrer nofollow">https://www.utc.edu/enrollment-management-and-student-affairs/center-for-academic-support-and-advisement/tips-for-academic-success/skimming</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>University of Tennessee at ChattanoogaSkimming and Scanning | University of Tennessee at...With skimming, your overall understanding is...</p></details>
+   Link:<a href="https://www.utc.edu/enrollment-management-and-student-affairs/center-for-academic-support-and-advisement/tips-for-academic-success/skimming" target="_blank" rel="noopener noreferrer nofollow">https://www.utc.edu/enrollment-management-and-student-affairs/center-for-academic-support-and-advisement/tips-for-academic-success/skimming</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of Tennessee at ChattanoogaSkimming and Scanning | University of Tennessee at...With skimming, your overall understanding is...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: studysmarter.co.uk  
    Title: skimming techniques  
-   Link: <a href="https://www.studysmarter.co.uk/explanations/english/textual-analysis/skimming-techniques/" target="_blank" rel="noopener noreferrer nofollow">https://www.studysmarter.co.uk/explanations/english/textual-analysis/skimming-techniques/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>StudySmarter UKSkimming Techniques: Reading &amp; Methods22 Aug 2024 — Skimming techniques involve quickly reading text to grasp the main ide...</p></details>
+   Link:<a href="https://www.studysmarter.co.uk/explanations/english/textual-analysis/skimming-techniques/" target="_blank" rel="noopener noreferrer nofollow">https://www.studysmarter.co.uk/explanations/english/textual-analysis/skimming-techniques/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>StudySmarter UKSkimming Techniques: Reading &amp; Methods22 Aug 2024 — Skimming techniques involve quickly reading text to grasp the main ide...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: How to Read a Textbook  
-   Link: <a href="https://www.youtube.com/watch?v=l0vfLGHoREU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l0vfLGHoREU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tutorial: How to Read and Comprehend Scientific Research Articles...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=l0vfLGHoREU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l0vfLGHoREU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tutorial: How to Read and Comprehend Scientific Research Articles...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: How to Skim Reading Comprehension Passages  
-   Link: <a href="https://www.youtube.com/watch?v=bhTh7XTk4lE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bhTh7XTk4lE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;How to skim read&quot; method comprehension Teach how to skim read long texts 📚 Smekens Education...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bhTh7XTk4lE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bhTh7XTk4lE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;How to skim read&quot; method comprehension Teach how to skim read long texts 📚 Smekens Education...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Reading Strategy: Skimming  
-   Link: <a href="https://www.youtube.com/watch?v=u5-EIeXskOs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=u5-EIeXskOs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Read a Textbook - Study Tips - Improve Reading Skills...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=u5-EIeXskOs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=u5-EIeXskOs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Read a Textbook - Study Tips - Improve Reading Skills...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Teach how to skim read long texts 📚  
-   Link: <a href="https://www.youtube.com/watch?v=A419UZ5nD0w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=A419UZ5nD0w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Skim Reading Comprehension Passages...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=A419UZ5nD0w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=A419UZ5nD0w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Skim Reading Comprehension Passages...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Tutorial: How to Read and Comprehend Scientific Research Articles  
-   Link: <a href="https://www.youtube.com/watch?v=t2K6mJkSWoA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t2K6mJkSWoA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Teach how to skim read long texts 📚...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=t2K6mJkSWoA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t2K6mJkSWoA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Teach how to skim read long texts 📚...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtu.be  
-   Link: <a href="https://youtu.be/mbsAtyoNIpU" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/mbsAtyoNIpU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;How to read a textbook&quot; preview scan active reading How to read a textbook...</p></details>
+   Link:<a href="https://youtu.be/mbsAtyoNIpU" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/mbsAtyoNIpU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;How to read a textbook&quot; preview scan active reading How to read a textbook...</p></details>

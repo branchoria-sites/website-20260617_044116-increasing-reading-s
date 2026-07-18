@@ -269,7 +269,7 @@ image: /assets/images/increasing_re_852ca6_purpose_based_25e5d2_technical_doc_ad
 
 ## Introduction
 
-Concept documentation is the fastest type of [technical]({{ 'technical-texts/' | relative_url }}) documentation to read because its job is not to tell you what to do next. Its job is to give you a mental model: what the system is, why it exists, what its major parts are, and how those parts relate to each other. Documentation frameworks such as DITA and Diátaxis explicitly separate concept or explanation content from tasks and reference material because readers need understanding before they need procedures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://diataxis.fr/explanation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: diataxis.fr">[Diátaxis+2Heretto]</a><span class="citation-popover" role="note"><span class="citation-popover-source">diataxis.fr</span><span class="citation-popover-snippet">DiátaxisExplanationExplanation is a discursive treatment of a subject, that permits reflection. Explanation is understanding-oriented. Ex...</span></span></span>
+Concept documentation is the fastest type of [technical]({{ 'technical-texts/' | relative_url }}) documentation to read because its job is not to tell you what to do next. Its job is to give you a mental model: what the system is, why it exists, what its major parts are, and how those parts relate to each other. Documentation frameworks such as DITA and Diátaxis explicitly separate concept or explanation content from tasks and reference material because readers need understanding before they need procedures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://diataxis.fr/explanation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: diataxis.fr">[Diátaxis+2Heretto]</a><span class="citation-popover" role="note"><span class="citation-popover-source">diataxis.fr</span><span class="citation-popover-snippet">DiátaxisExplanationExplanation is a discursive treatment of a subject, that permits reflection. Explanation is understanding-oriented. Ex...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_purpose_based_25e5d2_technical_doc_adaa0a_concept_doc_s_c8324e-Illustration-1-dark.svg" | relative_url }}" alt="Concept Documentation illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_purpose_based_25e5d2_technical_doc_adaa0a_concept_doc_s_c8324e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_purpose_based_25e5d2_technical_doc_adaa0a_concept_doc_s_c8324e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -279,7 +279,7 @@ The key to [increasing]({{ 'increasing/' | relative_url }}) reading speed is rec
 
 You can usually read concept documentation much faster than task documentation because mistakes are less costly. Missing a command-line flag in a setup guide can cause failure. Missing a secondary example in a concept page rarely prevents understanding.
 
-The goal is not memorisation. The goal is orientation. Concept topics exist to provide [background]({{ 'expertise/' | relative_url }}), context, [definitions]({{ 'definitions/' | relative_url }}), rules, and relationships that help readers understand a product, process, or architecture before performing work. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.ptc.com/help/arbortext/r8.2.1.0/en/editor/tutorial/help17039.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.ptc.com">[PTC Support+2Heretto]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.ptc.com</span><span class="citation-popover-snippet">PTC SupportConceptThe DITA Concept topic is used to provide background information that users must understand before they can work with a...</span></span></span>
+The goal is not memorisation. The goal is orientation. Concept topics exist to provide [background]({{ 'expertise/' | relative_url }}), context, [definitions]({{ 'definitions/' | relative_url }}), rules, and relationships that help readers understand a product, process, or architecture before performing work.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://support.ptc.com/help/arbortext/r8.2.1.0/en/editor/tutorial/help17039.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.ptc.com">[PTC Support+2Heretto]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.ptc.com</span><span class="citation-popover-snippet">PTC SupportConceptThe DITA Concept topic is used to provide background information that users must understand before they can work with a...</span></span></span>
 
 A useful mindset is to treat the page as a map rather than a procedure. You are trying to answer questions such as:
 
@@ -300,7 +300,7 @@ Once those questions are answered, the page has delivered most of its value.
 
 Many readers skim too aggressively and end up remembering isolated facts rather than the model itself. The model is the hidden structure beneath the text.
 
-Documentation frameworks describe concept or explanation content as understanding-oriented rather than action-oriented. The [purpose]({{ 'purpose/' | relative_url }}) is to deepen comprehension and provide context, not to guide a specific procedure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://diataxis.fr/explanation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: diataxis.fr">[Diátaxis+2I&#x27;d Rather Be Writing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">diataxis.fr</span><span class="citation-popover-snippet">DiátaxisExplanationExplanation is a discursive treatment of a subject, that permits reflection. Explanation is understanding-oriented. Ex...</span></span></span>
+Documentation frameworks describe concept or explanation content as understanding-oriented rather than action-oriented. The [purpose]({{ 'purpose/' | relative_url }}) is to deepen comprehension and provide context, not to guide a specific procedure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://diataxis.fr/explanation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: diataxis.fr">[Diátaxis+2I&#x27;d Rather Be Writing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">diataxis.fr</span><span class="citation-popover-snippet">DiátaxisExplanationExplanation is a discursive treatment of a subject, that permits reflection. Explanation is understanding-oriented. Ex...</span></span></span>
 
 When reading a concept page, try to identify three layers:
 
@@ -325,7 +325,7 @@ A fast skim works because concept pages tend to concentrate their highest-value 
 
 Read every heading before reading the body text.
 
-Well-structured documentation is intentionally organised into concept, task, and reference units. The headings often reveal the complete architecture of the idea without requiring a full read. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oxygenxml.com/dita/styleguide/c_Topics_and_Information_Types.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oxygenxml.com">[Oxygen XML Editor+2Adobe Help Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oxygenxml.com</span><span class="citation-popover-snippet">Oxygen XML EditorInformation types and topicsThe three base DITA information types are concept, task and reference. What is a topic? A to...</span></span></span>
+Well-structured documentation is intentionally organised into concept, task, and reference units. The headings often reveal the complete architecture of the idea without requiring a full read.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oxygenxml.com/dita/styleguide/c_Topics_and_Information_Types.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oxygenxml.com">[Oxygen XML Editor+2Adobe Help Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oxygenxml.com</span><span class="citation-popover-snippet">Oxygen XML EditorInformation types and topicsThe three base DITA information types are concept, task and reference. What is a topic? A to...</span></span></span>
 
 As you scan, mentally build a hierarchy:
 
@@ -340,7 +340,7 @@ This creates a framework into which later details can fit.
 
 Architecture diagrams, conceptual diagrams, and system maps frequently communicate relationships more efficiently than prose.
 
-A conceptual architecture diagram is specifically designed to show key components and their [interactions]({{ 'interactions/' | relative_url }}) without implementation detail. Architecture documentation guidance similarly emphasises diagrams as tools for understanding systems and communicating structure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://boardmix.com/knowledge/conceptual-architecture-diagram/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: boardmix.com">[Boardmix+2Bizzdesign]</a><span class="citation-popover" role="note"><span class="citation-popover-source">boardmix.com</span><span class="citation-popover-title">Understanding Conceptual Architecture Diagrams A conceptual architecture diagram is a graphical representation that illustrates the high</span><span class="citation-popover-snippet">BoardmixUnderstanding Conceptual Architecture DiagramsA conceptual architecture diagram is a graphical representation that illustrates th...</span></span></span>
+A conceptual architecture diagram is specifically designed to show key components and their [interactions]({{ 'interactions/' | relative_url }}) without implementation detail. Architecture documentation guidance similarly emphasises diagrams as tools for understanding systems and communicating structure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://boardmix.com/knowledge/conceptual-architecture-diagram/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: boardmix.com">[Boardmix+2Bizzdesign]</a><span class="citation-popover" role="note"><span class="citation-popover-source">boardmix.com</span><span class="citation-popover-title">Understanding Conceptual Architecture Diagrams A conceptual architecture diagram is a graphical representation that illustrates the high</span><span class="citation-popover-snippet">BoardmixUnderstanding Conceptual Architecture DiagramsA conceptual architecture diagram is a graphical representation that illustrates th...</span></span></span>
 
 When you encounter a diagram, ask:
 
@@ -438,7 +438,7 @@ Definitions, diagrams, and relationship descriptions often contain most of the i
 
 Many readers continue reading after the conceptual model is already clear.
 
-Reference content exists to provide exact facts, specifications, or detailed lookup information. Concept content exists to create understanding. Once the understanding is established, continuing to absorb every supporting detail often yields diminishing returns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heretto.com/blog/concept-task-reference" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heretto.com">[Heretto+2OASIS Open]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heretto.com</span><span class="citation-popover-snippet">The 3 Core DITA Topic Types ExplainedMaster the 3 core DITA topic types: concept, task, and reference. Learn when to use each for...</span></span></span>
+Reference content exists to provide exact facts, specifications, or detailed lookup information. Concept content exists to create understanding. Once the understanding is established, continuing to absorb every supporting detail often yields diminishing returns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heretto.com/blog/concept-task-reference" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heretto.com">[Heretto+2OASIS Open]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heretto.com</span><span class="citation-popover-snippet">The 3 Core DITA Topic Types ExplainedMaster the 3 core DITA topic types: concept, task, and reference. Learn when to use each for...</span></span></span>
 
 ## When a Skim Has Become Enough
 
@@ -462,178 +462,178 @@ If you can answer those questions confidently, further reading often shifts from
 At that point, the fastest path is usually to move on to task documentation, practical examples, or implementation work. The concept page has already achieved its purpose: it has given you a mental framework that makes everything else easier and faster to learn.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Fast Should You Read Concept Docs?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Fast Should You Read Concept Docs?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Phoenix+Project+by+Gene+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Phoenix Project on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=H6x-DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Phoenix Project" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Phoenix+Project+by+Gene+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Phoenix Project">The Phoenix Project</a>
-        </h4>
-        <p class="fr-book-author">By Gene Kim, Kevin Behr et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Phoenix+Project+by+Gene+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Phoenix Project on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=H6x-DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Phoenix Project" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Phoenix+Project+by+Gene+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Phoenix Project">The Phoenix Project</a>
+</h4>
+<p class="fr-book-author">By Gene Kim, Kevin Behr et al.</p>
         
-        <p class="fr-book-desc">Builds mental models of systems and processes, matching concept-oriented reading.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Phoenix+Project+by+Gene+Kim&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Builds mental models of systems and processes, matching concept-oriented reading.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Phoenix+Project+by+Gene+Kim&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+DevOps+Handbook+by+Gene+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The DevOps Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ui8hDgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The DevOps Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+DevOps+Handbook+by+Gene+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The DevOps Handbook">The DevOps Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Gene Kim, Jez Humble et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+DevOps+Handbook+by+Gene+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The DevOps Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ui8hDgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The DevOps Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+DevOps+Handbook+by+Gene+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The DevOps Handbook">The DevOps Handbook</a>
+</h4>
+<p class="fr-book-author">By Gene Kim, Jez Humble et al.</p>
         
-        <p class="fr-book-desc">Explains how complex systems fit together, similar to concept documentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+DevOps+Handbook+by+Gene+Kim&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how complex systems fit together, similar to concept documentation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+DevOps+Handbook+by+Gene+Kim&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pragmatic+Programmer+by+Andrew+Hunt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pragmatic Programmer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5wBQEp6ruIAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pragmatic Programmer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Pragmatic+Programmer+by+Andrew+Hunt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pragmatic Programmer">The Pragmatic Programmer</a>
-        </h4>
-        <p class="fr-book-author">By Andrew Hunt, David Thomas</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Promotes effective use of technical knowledge and references.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Pragmatic+Programmer+by+Andrew+Hunt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pragmatic+Programmer+by+Andrew+Hunt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pragmatic Programmer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5wBQEp6ruIAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pragmatic Programmer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Pragmatic+Programmer+by+Andrew+Hunt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pragmatic Programmer">The Pragmatic Programmer</a>
+</h4>
+<p class="fr-book-author">By Andrew Hunt, David Thomas</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Promotes effective use of technical knowledge and references.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Pragmatic+Programmer+by+Andrew+Hunt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Software+Architecture+In+Practice+3%2FE+Len+Bass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Software Architecture In Practice 3/E on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10798294-M.jpg" alt="Cover for Software Architecture In Practice 3/E" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Software+Architecture+In+Practice+3%2FE+Len+Bass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Software Architecture In Practice 3/E">Software Architecture In Practice 3/E</a>
-        </h4>
-        <p class="fr-book-author">By Len Bass, Paul Clements et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Software+Architecture+In+Practice+3%2FE+Len+Bass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Software Architecture In Practice 3/E on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10798294-M.jpg" alt="Cover for Software Architecture In Practice 3/E" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Software+Architecture+In+Practice+3%2FE+Len+Bass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Software Architecture In Practice 3/E">Software Architecture In Practice 3/E</a>
+</h4>
+<p class="fr-book-author">By Len Bass, Paul Clements et al.</p>
         
-        <p class="fr-book-desc">First published 2013.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Software+Architecture+In+Practice+3%2FE+Len+Bass&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2013.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Software+Architecture+In+Practice+3%2FE+Len+Bass&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Phoenix+Project&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Phoenix Project</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+DevOps+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The DevOps books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pragmatic+Programmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pragmatic Programmer</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Phoenix+Project&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Phoenix Project</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+DevOps+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The DevOps books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pragmatic+Programmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pragmatic Programmer</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+productivity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concept-documentation-how-fast-should-you-read-concept-docs-increasing-office-productivity-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office productivity poster -book -books" data-ebay-reference="concept-documentation-how-fast-should-you-read-concept-docs-increasing-office-productivity-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivation Booster Cyberpunk Productivity Engine Poster Futuristic Office Wall D"><img src="{{ '/assets/images/marketplace-covers/dc9d154c90cca18e1939.jpg' | relative_url }}" alt="Listing image for Motivation Booster Cyberpunk Productivity Engine Poster Futuristic Office Wall D" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+productivity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concept-documentation-how-fast-should-you-read-concept-docs-increasing-office-productivity-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office productivity poster -book -books" data-ebay-reference="concept-documentation-how-fast-should-you-read-concept-docs-increasing-office-productivity-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Motivation Booster Cyberpunk Productivity Engine Poster Futuristic Office Wall D</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+productivity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concept-documentation-how-fast-should-you-read-concept-docs-increasing-office-productivity-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office productivity poster -book -books" data-ebay-reference="concept-documentation-how-fast-should-you-read-concept-docs-increasing-office-productivity-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for office productivity poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: office productivity poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+productivity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concept-documentation-how-fast-should-you-read-concept-docs-increasing-office-productivity-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office productivity poster -book -books" data-ebay-reference="concept-documentation-how-fast-should-you-read-concept-docs-increasing-office-productivity-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+productivity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concept-documentation-how-fast-should-you-read-concept-docs-increasing-office-productivity-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office productivity poster -book -books" data-ebay-reference="concept-documentation-how-fast-should-you-read-concept-docs-increasing-office-productivity-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivation Booster Cyberpunk Productivity Engine Poster Futuristic Office Wall D"><img src="{{ '/assets/images/marketplace-covers/dc9d154c90cca18e1939.jpg' | relative_url }}" alt="Listing image for Motivation Booster Cyberpunk Productivity Engine Poster Futuristic Office Wall D" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+productivity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concept-documentation-how-fast-should-you-read-concept-docs-increasing-office-productivity-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office productivity poster -book -books" data-ebay-reference="concept-documentation-how-fast-should-you-read-concept-docs-increasing-office-productivity-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Motivation Booster Cyberpunk Productivity Engine Poster Futuristic Office Wall D</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+productivity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concept-documentation-how-fast-should-you-read-concept-docs-increasing-office-productivity-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office productivity poster -book -books" data-ebay-reference="concept-documentation-how-fast-should-you-read-concept-docs-increasing-office-productivity-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for office productivity poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: office productivity poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+productivity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concept-documentation-how-fast-should-you-read-concept-docs-increasing-office-productivity-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office productivity poster -book -books" data-ebay-reference="concept-documentation-how-fast-should-you-read-concept-docs-increasing-office-productivity-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+productivity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concept-documentation-how-fast-should-you-read-concept-docs-increasing-office-productivity-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office productivity poster -book -books" data-ebay-reference="concept-documentation-how-fast-should-you-read-concept-docs-increasing-office-productivity-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Productivity Paradox Work Longer Office Cubicles 12x18 Poster"><img src="{{ '/assets/images/marketplace-covers/e3357224d5efec8576ba.jpg' | relative_url }}" alt="Listing image for Productivity Paradox Work Longer Office Cubicles 12x18 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+productivity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concept-documentation-how-fast-should-you-read-concept-docs-increasing-office-productivity-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office productivity poster -book -books" data-ebay-reference="concept-documentation-how-fast-should-you-read-concept-docs-increasing-office-productivity-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Productivity Paradox Work Longer Office Cubicles 12x18 Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+productivity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concept-documentation-how-fast-should-you-read-concept-docs-increasing-office-productivity-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office productivity poster -book -books" data-ebay-reference="concept-documentation-how-fast-should-you-read-concept-docs-increasing-office-productivity-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for office productivity poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: office productivity poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+productivity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concept-documentation-how-fast-should-you-read-concept-docs-increasing-office-productivity-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office productivity poster -book -books" data-ebay-reference="concept-documentation-how-fast-should-you-read-concept-docs-increasing-office-productivity-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+productivity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concept-documentation-how-fast-should-you-read-concept-docs-increasing-office-productivity-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office productivity poster -book -books" data-ebay-reference="concept-documentation-how-fast-should-you-read-concept-docs-increasing-office-productivity-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Productivity Paradox Work Longer Office Cubicles 12x18 Poster"><img src="{{ '/assets/images/marketplace-covers/e3357224d5efec8576ba.jpg' | relative_url }}" alt="Listing image for Productivity Paradox Work Longer Office Cubicles 12x18 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+productivity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concept-documentation-how-fast-should-you-read-concept-docs-increasing-office-productivity-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office productivity poster -book -books" data-ebay-reference="concept-documentation-how-fast-should-you-read-concept-docs-increasing-office-productivity-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Productivity Paradox Work Longer Office Cubicles 12x18 Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+productivity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concept-documentation-how-fast-should-you-read-concept-docs-increasing-office-productivity-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office productivity poster -book -books" data-ebay-reference="concept-documentation-how-fast-should-you-read-concept-docs-increasing-office-productivity-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for office productivity poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: office productivity poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+productivity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concept-documentation-how-fast-should-you-read-concept-docs-increasing-office-productivity-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office productivity poster -book -books" data-ebay-reference="concept-documentation-how-fast-should-you-read-concept-docs-increasing-office-productivity-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+productivity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concept-documentation-how-fast-should-you-read-concept-docs-increasing-office-productivity-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office productivity poster -book -books" data-ebay-reference="concept-documentation-how-fast-should-you-read-concept-docs-increasing-office-productivity-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Focus Expansion Cyberpunk Cognitive Productivity Poster Futuristic Office Wall D"><img src="{{ '/assets/images/marketplace-covers/758d760d3400afd38b9a.jpg' | relative_url }}" alt="Listing image for Focus Expansion Cyberpunk Cognitive Productivity Poster Futuristic Office Wall D" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+productivity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concept-documentation-how-fast-should-you-read-concept-docs-increasing-office-productivity-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office productivity poster -book -books" data-ebay-reference="concept-documentation-how-fast-should-you-read-concept-docs-increasing-office-productivity-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Focus Expansion Cyberpunk Cognitive Productivity Poster Futuristic Office Wall D</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+productivity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concept-documentation-how-fast-should-you-read-concept-docs-increasing-office-productivity-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office productivity poster -book -books" data-ebay-reference="concept-documentation-how-fast-should-you-read-concept-docs-increasing-office-productivity-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for office productivity poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: office productivity poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+productivity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concept-documentation-how-fast-should-you-read-concept-docs-increasing-office-productivity-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office productivity poster -book -books" data-ebay-reference="concept-documentation-how-fast-should-you-read-concept-docs-increasing-office-productivity-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+productivity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concept-documentation-how-fast-should-you-read-concept-docs-increasing-office-productivity-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office productivity poster -book -books" data-ebay-reference="concept-documentation-how-fast-should-you-read-concept-docs-increasing-office-productivity-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+productivity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concept-documentation-how-fast-should-you-read-concept-docs-increasing-office-productivity-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office productivity poster -book -books" data-ebay-reference="concept-documentation-how-fast-should-you-read-concept-docs-increasing-office-productivity-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Focus Expansion Cyberpunk Cognitive Productivity Poster Futuristic Office Wall D"><img src="{{ '/assets/images/marketplace-covers/758d760d3400afd38b9a.jpg' | relative_url }}" alt="Listing image for Focus Expansion Cyberpunk Cognitive Productivity Poster Futuristic Office Wall D" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+productivity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concept-documentation-how-fast-should-you-read-concept-docs-increasing-office-productivity-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office productivity poster -book -books" data-ebay-reference="concept-documentation-how-fast-should-you-read-concept-docs-increasing-office-productivity-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Focus Expansion Cyberpunk Cognitive Productivity Poster Futuristic Office Wall D</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+productivity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concept-documentation-how-fast-should-you-read-concept-docs-increasing-office-productivity-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office productivity poster -book -books" data-ebay-reference="concept-documentation-how-fast-should-you-read-concept-docs-increasing-office-productivity-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for office productivity poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: office productivity poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+productivity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concept-documentation-how-fast-should-you-read-concept-docs-increasing-office-productivity-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office productivity poster -book -books" data-ebay-reference="concept-documentation-how-fast-should-you-read-concept-docs-increasing-office-productivity-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+productivity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=concept-documentation-how-fast-should-you-read-concept-docs-increasing-office-productivity-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office productivity poster -book -books" data-ebay-reference="concept-documentation-how-fast-should-you-read-concept-docs-increasing-office-productivity-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -649,7 +649,7 @@ At that point, the fastest path is usually to move on to task documentation, pra
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -669,7 +669,7 @@ At that point, the fastest path is usually to move on to task documentation, pra
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -701,7 +701,7 @@ At that point, the fastest path is usually to move on to task documentation, pra
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -753,7 +753,7 @@ At that point, the fastest path is usually to move on to task documentation, pra
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -798,7 +798,7 @@ At that point, the fastest path is usually to move on to task documentation, pra
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -839,143 +839,143 @@ At that point, the fastest path is usually to move on to task documentation, pra
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: heretto.com  
-   Link: <a href="https://www.heretto.com/blog/concept-task-reference" target="_blank" rel="noopener noreferrer nofollow">https://www.heretto.com/blog/concept-task-reference</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The 3 Core DITA Topic Types ExplainedMaster the 3 core DITA topic types: concept, task, and reference. Learn when to use each for...</p></details>
+   Link:<a href="https://www.heretto.com/blog/concept-task-reference" target="_blank" rel="noopener noreferrer nofollow">https://www.heretto.com/blog/concept-task-reference</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 3 Core DITA Topic Types ExplainedMaster the 3 core DITA topic types: concept, task, and reference. Learn when to use each for...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: support.ptc.com  
-   Link: <a href="https://support.ptc.com/help/arbortext/r8.2.1.0/en/editor/tutorial/help17039.html" target="_blank" rel="noopener noreferrer nofollow">https://support.ptc.com/help/arbortext/r8.2.1.0/en/editor/tutorial/help17039.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PTC SupportConceptThe DITA Concept topic is used to provide background information that users must understand before they can work with a...</p></details>
+   Link:<a href="https://support.ptc.com/help/arbortext/r8.2.1.0/en/editor/tutorial/help17039.html" target="_blank" rel="noopener noreferrer nofollow">https://support.ptc.com/help/arbortext/r8.2.1.0/en/editor/tutorial/help17039.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PTC SupportConceptThe DITA Concept topic is used to provide background information that users must understand before they can work with a...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: help.adobe.com  
-   Link: <a href="https://help.adobe.com/en_US/framemaker/using/using-framemaker/user-guide/frm_structauthdita_sd_dita-topics.html" target="_blank" rel="noopener noreferrer nofollow">https://help.adobe.com/en_US/framemaker/using/using-framemaker/user-guide/frm_structauthdita_sd_dita-topics.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Adobe Help CenterDITA topicsA topic in DITA is the most granular entity of information. According to the DITA specifications, a topic sho...</p></details>
+   Link:<a href="https://help.adobe.com/en_US/framemaker/using/using-framemaker/user-guide/frm_structauthdita_sd_dita-topics.html" target="_blank" rel="noopener noreferrer nofollow">https://help.adobe.com/en_US/framemaker/using/using-framemaker/user-guide/frm_structauthdita_sd_dita-topics.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Adobe Help CenterDITA topicsA topic in DITA is the most granular entity of information. According to the DITA specifications, a topic sho...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: boardmix.com  
-   Link: <a href="https://boardmix.com/[knowledge" target="_blank" rel="noopener noreferrer nofollow">https://boardmix.com/[knowledge</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Conceptual Architecture DiagramsA conceptual architecture diagram is a graphical representation that illustrates th...</p></details>
+   Link:<a href="https://boardmix.com/[knowledge" target="_blank" rel="noopener noreferrer nofollow">https://boardmix.com/[knowledge</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Conceptual Architecture DiagramsA conceptual architecture diagram is a graphical representation that illustrates th...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: bizzdesign.com  
-   Link: <a href="https://bizzdesign.com/blog/technical-architecture-diagrams" target="_blank" rel="noopener noreferrer nofollow">https://bizzdesign.com/blog/technical-architecture-diagrams</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mastering Technical Architecture Diagrams for BeginnersOverall, technical architecture diagrams facilitate effective communication, under...</p></details>
+   Link:<a href="https://bizzdesign.com/blog/technical-architecture-diagrams" target="_blank" rel="noopener noreferrer nofollow">https://bizzdesign.com/blog/technical-architecture-diagrams</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mastering Technical Architecture Diagrams for BeginnersOverall, technical architecture diagrams facilitate effective communication, under...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: docs.oasis-open.org  
-   Link: <a href="https://docs.oasis-open.org/dita/v1.0/archspec/topicover.html" target="_blank" rel="noopener noreferrer nofollow">https://docs.oasis-open.org/dita/v1.0/archspec/topicover.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>topicsTasks Task topics answer &quot;How do I?&quot; questions, Reference Reference topics describe regular features of a subject or product, such...</p></details>
+   Link:<a href="https://docs.oasis-open.org/dita/v1.0/archspec/topicover.html" target="_blank" rel="noopener noreferrer nofollow">https://docs.oasis-open.org/dita/v1.0/archspec/topicover.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>topicsTasks Task topics answer &quot;How do I?&quot; questions, Reference Reference topics describe regular features of a subject or product, such...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: docs.oasis-open.org  
    Title: dita technical Content Information Types  
-   Link: <a href="https://docs.oasis-open.org/dita/v1.2/os/spec/archSpec/dita_technicalContent_InformationTypes.html" target="_blank" rel="noopener noreferrer nofollow">https://docs.oasis-open.org/dita/v1.2/os/spec/archSpec/dita_technicalContent_InformationTypes.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>oasis-open.org2.2.2 Technical content: Document and information types1 Dec 2010 — The Technical Content package contains five topic speci...</p></details>
+   Link:<a href="https://docs.oasis-open.org/dita/v1.2/os/spec/archSpec/dita_technicalContent_InformationTypes.html" target="_blank" rel="noopener noreferrer nofollow">https://docs.oasis-open.org/dita/v1.2/os/spec/archSpec/dita_technicalContent_InformationTypes.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>oasis-open.org2.2.2 Technical content: Document and information types1 Dec 2010 — The Technical Content package contains five topic speci...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: docs.oasis-open.org  
    Title: dita concept topic  
-   Link: <a href="https://docs.oasis-open.org/dita/v1.2/os/spec/archSpec/dita_concept_topic.html" target="_blank" rel="noopener noreferrer nofollow">https://docs.oasis-open.org/dita/v1.2/os/spec/archSpec/dita_concept_topic.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>oasis-open.org2.2.2.1 Concept topicDec 1, 2010 — The DITA concept document type uses the concept information type. Concept topics are spe...</p></details>
+   Link:<a href="https://docs.oasis-open.org/dita/v1.2/os/spec/archSpec/dita_concept_topic.html" target="_blank" rel="noopener noreferrer nofollow">https://docs.oasis-open.org/dita/v1.2/os/spec/archSpec/dita_concept_topic.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>oasis-open.org2.2.2.1 Concept topicDec 1, 2010 — The DITA concept document type uses the concept information type. Concept topics are spe...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: heretto.com  
    Title: What's the DITA Full Form? A Practical  
-   Link: <a href="https://www.heretto.com/blog/dita-task" target="_blank" rel="noopener noreferrer nofollow">https://www.heretto.com/blog/dita-task</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IntroductionLearn the DITA full form and how Task, Concept, and Reference topic types help you create clear, reusable technical documenta...</p></details>
+   Link:<a href="https://www.heretto.com/blog/dita-task" target="_blank" rel="noopener noreferrer nofollow">https://www.heretto.com/blog/dita-task</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IntroductionLearn the DITA full form and how Task, Concept, and Reference topic types help you create clear, reusable technical documenta...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: diataxis.fr  
-   Link: <a href="https://diataxis.fr/explanation/" target="_blank" rel="noopener noreferrer nofollow">https://diataxis.fr/explanation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DiátaxisExplanationExplanation is a discursive treatment of a subject, that permits reflection. Explanation is understanding-oriented. Ex...</p></details>
+   Link:<a href="https://diataxis.fr/explanation/" target="_blank" rel="noopener noreferrer nofollow">https://diataxis.fr/explanation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DiátaxisExplanationExplanation is a discursive treatment of a subject, that permits reflection. Explanation is understanding-oriented. Ex...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: idratherbewriting.com  
    Title: what is diataxis documentation framework  
-   Link: <a href="https://idratherbewriting.com/blog/what-is-diataxis-documentation-framework" target="_blank" rel="noopener noreferrer nofollow">https://idratherbewriting.com/blog/what-is-diataxis-documentation-framework</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I&#x27;d Rather Be WritingWhat is Diátaxis and should you be using it with your...18 Oct 2023 — The Diátaxis approach to documentation organi...</p></details>
+   Link:<a href="https://idratherbewriting.com/blog/what-is-diataxis-documentation-framework" target="_blank" rel="noopener noreferrer nofollow">https://idratherbewriting.com/blog/what-is-diataxis-documentation-framework</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I&#x27;d Rather Be WritingWhat is Diátaxis and should you be using it with your...18 Oct 2023 — The Diátaxis approach to documentation organi...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: discuss.ocaml.org  
    Title: "Diátaxis" documentation structure  
-   Link: <a href="https://discuss.ocaml.org/t/diataxis-documentation-structure/7750" target="_blank" rel="noopener noreferrer nofollow">https://discuss.ocaml.org/t/diataxis-documentation-structure/7750</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ocaml.org&quot;Diátaxis&quot; documentation structure - Community27 Apr 2021 — Diátaxis divides documentation across two axes of knowledge: theory/...</p></details>
+   Link:<a href="https://discuss.ocaml.org/t/diataxis-documentation-structure/7750" target="_blank" rel="noopener noreferrer nofollow">https://discuss.ocaml.org/t/diataxis-documentation-structure/7750</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ocaml.org&quot;Diátaxis&quot; documentation structure - Community27 Apr 2021 — Diátaxis divides documentation across two axes of knowledge: theory/...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: oxygenxml.com  
-   Link: <a href="https://www.oxygenxml.com/dita/styleguide/c_Topics_and_Information_Types.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oxygenxml.com/dita/styleguide/c_Topics_and_Information_Types.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Oxygen XML EditorInformation types and topicsThe three base DITA information types are concept, task and reference. What is a topic? A to...</p></details>
+   Link:<a href="https://www.oxygenxml.com/dita/styleguide/c_Topics_and_Information_Types.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oxygenxml.com/dita/styleguide/c_Topics_and_Information_Types.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Oxygen XML EditorInformation types and topicsThe three base DITA information types are concept, task and reference. What is a topic? A to...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: idratherbewriting.com  
-   Link: <a href="https://idratherbewriting.com/specializations/" target="_blank" rel="noopener noreferrer nofollow">https://idratherbewriting.com/specializations/</a>  
+   Link:<a href="https://idratherbewriting.com/specializations/" target="_blank" rel="noopener noreferrer nofollow">https://idratherbewriting.com/specializations/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: oxygenxml.com  
-   Link: <a href="https://www.oxygenxml.com/dita/1.3/specs/archSpec/technicalContent/dita-concept-topic.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oxygenxml.com/dita/1.3/specs/archSpec/technicalContent/dita-concept-topic.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Concept topicConcept topics are specialized from topic. They include the standard topic elements, including the short description, prolog...</p></details>
+   Link:<a href="https://www.oxygenxml.com/dita/1.3/specs/archSpec/technicalContent/dita-concept-topic.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oxygenxml.com/dita/1.3/specs/archSpec/technicalContent/dita-concept-topic.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Concept topicConcept topics are specialized from topic. They include the standard topic elements, including the short description, prolog...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: dita-lang.org  
-   Link: <a href="https://dita-lang.org/1.3/dita/langref/technicalcontent/task" target="_blank" rel="noopener noreferrer nofollow">https://dita-lang.org/1.3/dita/langref/technicalcontent/task</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DITAConcept topic · Reference topic · General task topic · Task topic (strict task) · Machinery Task topic · Troubleshooting topic · Glos...</p></details>
+   Link:<a href="https://dita-lang.org/1.3/dita/langref/technicalcontent/task" target="_blank" rel="noopener noreferrer nofollow">https://dita-lang.org/1.3/dita/langref/technicalcontent/task</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DITAConcept topic · Reference topic · General task topic · Task topic (strict task) · Machinery Task topic · Troubleshooting topic · Glos...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/the-ci-cd-guild-automate-evolve-deploy/a-practical-guide-to-architecture-documentation-34855a514923" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-ci-cd-guild-automate-evolve-deploy/a-practical-guide-to-architecture-documentation-34855a514923</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Practical Guide to Architecture DocumentationThis blog series is mainly focused on standardizing architecture documentation and sharing...</p></details>
+   Link:<a href="https://medium.com/the-ci-cd-guild-automate-evolve-deploy/a-practical-guide-to-architecture-documentation-34855a514923" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-ci-cd-guild-automate-evolve-deploy/a-practical-guide-to-architecture-documentation-34855a514923</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Practical Guide to Architecture DocumentationThis blog series is mainly focused on standardizing architecture documentation and sharing...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: postdigitalarchitecture.com  
-   Link: <a href="https://postdigitalarchitecture.com/blogs/articles/the-complete-guide-to-architectural-documents-for-students-amp-professionals?srsltid=AfmBOopKRXZsBqdZ2x4HlcIEVY8_VjssnMoP6o4GNNbUo286WkwMhNjM" target="_blank" rel="noopener noreferrer nofollow">https://postdigitalarchitecture.com/blogs/articles/the-complete-guide-to-architectural-documents-for-students-amp-professionals?srsltid=AfmBOopKRXZsBqdZ2x4HlcIEVY8_VjssnMoP6o4GNNbUo286WkwMhNjM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Guide to Architectural DocumentsThis guide breaks down over varied types of architectural documents into simple, useful categories—from e...</p></details>
+   Link:<a href="https://postdigitalarchitecture.com/blogs/articles/the-complete-guide-to-architectural-documents-for-students-amp-professionals?srsltid=AfmBOopKRXZsBqdZ2x4HlcIEVY8_VjssnMoP6o4GNNbUo286WkwMhNjM" target="_blank" rel="noopener noreferrer nofollow">https://postdigitalarchitecture.com/blogs/articles/the-complete-guide-to-architectural-documents-for-students-amp-professionals?srsltid=AfmBOopKRXZsBqdZ2x4HlcIEVY8_VjssnMoP6o4GNNbUo286WkwMhNjM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Guide to Architectural DocumentsThis guide breaks down over varied types of architectural documents into simple, useful categories—from e...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40techdineshwrites/my-take-on-the-diataxis-approach-9400e65e2f5b" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40techdineshwrites/my-take-on-the-diataxis-approach-9400e65e2f5b</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>My Take on the Diataxis ApproachThis approach for technical documentation lays down four kinds of documentation: Tutorials and how-to gui...</p></details>
+   Link:<a href="https://medium.com/%40techdineshwrites/my-take-on-the-diataxis-approach-9400e65e2f5b" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40techdineshwrites/my-take-on-the-diataxis-approach-9400e65e2f5b</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>My Take on the Diataxis ApproachThis approach for technical documentation lays down four kinds of documentation: Tutorials and how-to gui...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40techdineshwrites/using-dita-for-technical-documentation-c5c846260a73" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40techdineshwrites/using-dita-for-technical-documentation-c5c846260a73</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Using DITA for Technical Documentation | by Dinesh NairTopic Types. There are three main types of DITA topics: Concept, Task, and Referen...</p></details>
+   Link:<a href="https://medium.com/%40techdineshwrites/using-dita-for-technical-documentation-c5c846260a73" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40techdineshwrites/using-dita-for-technical-documentation-c5c846260a73</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Using DITA for Technical Documentation | by Dinesh NairTopic Types. There are three main types of DITA topics: Concept, Task, and Referen...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=buEKMi4tAew" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=buEKMi4tAew</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Diataxis explanation concept documentation framework Better docs, happier users: What we learned applying Diataxis to HoloViz libraries P...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=buEKMi4tAew" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=buEKMi4tAew</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Diataxis explanation concept documentation framework Better docs, happier users: What we learned applying Diataxis to HoloViz libraries P...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: freecodecamp.org  
    Title: system architecture documentation best practices and tools  
-   Link: <a href="https://www.freecodecamp.org/news/system-architecture-documentation-best-practices-and-tools/" target="_blank" rel="noopener noreferrer nofollow">https://www.freecodecamp.org/news/system-architecture-documentation-best-practices-and-tools/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>12 Nov 2025 — Here&#x27;s a practical guide for creating system architecture documentation that anyone on your team can read and use: Step 1...</p></details>
+   Link:<a href="https://www.freecodecamp.org/news/system-architecture-documentation-best-practices-and-tools/" target="_blank" rel="noopener noreferrer nofollow">https://www.freecodecamp.org/news/system-architecture-documentation-best-practices-and-tools/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>12 Nov 2025 — Here&#x27;s a practical guide for creating system architecture documentation that anyone on your team can read and use: Step 1...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: lobehub.com  
    Title: sammcj agentic coding diataxis documentation  
-   Link: <a href="https://lobehub.com/skills/sammcj-agentic-coding-diataxis-documentation" target="_blank" rel="noopener noreferrer nofollow">https://lobehub.com/skills/sammcj-agentic-coding-diataxis-documentation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>writing-documentation-with-diataxis15 May 2026 — Diataxis is a framework for creating documentation that feels good to use - documentatio...</p></details>
+   Link:<a href="https://lobehub.com/skills/sammcj-agentic-coding-diataxis-documentation" target="_blank" rel="noopener noreferrer nofollow">https://lobehub.com/skills/sammcj-agentic-coding-diataxis-documentation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>writing-documentation-with-diataxis15 May 2026 — Diataxis is a framework for creating documentation that feels good to use - documentatio...</p></details>
    Published: May 2026  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: edel-optics.com  
    Title: Buy DITA sunglasses online at low prices  
-   Link: <a href="https://www.edel-optics.com/DITA-Sunglasses.html" target="_blank" rel="noopener noreferrer nofollow">https://www.edel-optics.com/DITA-Sunglasses.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Choose from 419 pairs of DITA Sunglasses to buy or order in our online shop at low prices. Quick and inexpensive shipping in U...</p></details>
+   Link:<a href="https://www.edel-optics.com/DITA-Sunglasses.html" target="_blank" rel="noopener noreferrer nofollow">https://www.edel-optics.com/DITA-Sunglasses.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Choose from 419 pairs of DITA Sunglasses to buy or order in our online shop at low prices. Quick and inexpensive shipping in U...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: github.com  
-   Link: <a href="https://github.com/evildmp/diataxis-documentation-framework/discussions/130" target="_blank" rel="noopener noreferrer nofollow">https://github.com/evildmp/diataxis-documentation-framework/discussions/130</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>able to them for more information. In the later part of the...</p></details>
+   Link:<a href="https://github.com/evildmp/diataxis-documentation-framework/discussions/130" target="_blank" rel="noopener noreferrer nofollow">https://github.com/evildmp/diataxis-documentation-framework/discussions/130</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>able to them for more information. In the later part of the...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: Wikipedia  
    Title: Darwin Information Typing Architecture  
-   Link: <a href="https://en.wikipedia.org/wiki/Darwin_Information_Typing_Architecture" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Darwin_Information_Typing_Architecture</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Darwin Information Typing ArchitectureThe Darwin Information Typing Architecture (DITA) specification defines a set of document types...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Darwin_Information_Typing_Architecture" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Darwin_Information_Typing_Architecture</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Darwin Information Typing ArchitectureThe Darwin Information Typing Architecture (DITA) specification defines a set of document types...</p></details>

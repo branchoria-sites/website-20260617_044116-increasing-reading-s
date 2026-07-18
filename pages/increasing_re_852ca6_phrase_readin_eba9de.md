@@ -337,21 +337,21 @@ Phrase reading means taking in a sentence through meaningful [word groups]({{ 'w
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de-overview.webp" | relative_url }}" alt="Overview image for Phrases" loading="eager" decoding="sync" fetchpriority="high">
-Within the broader goal of [increasing]({{ 'increasing/' | relative_url }}) reading speed, phrase reading helps because it reduces unnecessary friction. A reader who pauses after every word has to rebuild the sentence repeatedly. A reader who groups “after the meeting”, “the project team”, and “agreed a new deadline” can carry larger units of meaning forward. The gain is not magic acceleration; it is better rhythm, clearer syntax, and fewer avoidable stalls. Research on fluency usually defines skilled reading as a combination of accuracy, automaticity, and prosody: not merely fast word calling, but smooth, expressive reading that supports understanding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://educationendowmentfoundation.org.uk/news/eef-blog-shining-a-spotlight-on-reading-fluency" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-title">eef blog shining a spotlight on reading fluency</span><span class="citation-popover-snippet">EEFEEF blog: Shining a spotlight on reading fluency1 Dec 2021 — Reading fluency is defined as reading with accuracy (reading words correc...</span></span></span>
+Within the broader goal of [increasing]({{ 'increasing/' | relative_url }}) reading speed, phrase reading helps because it reduces unnecessary friction. A reader who pauses after every word has to rebuild the sentence repeatedly. A reader who groups “after the meeting”, “the project team”, and “agreed a new deadline” can carry larger units of meaning forward. The gain is not magic acceleration; it is better rhythm, clearer syntax, and fewer avoidable stalls. Research on fluency usually defines skilled reading as a combination of accuracy, automaticity, and prosody: not merely fast word calling, but smooth, expressive reading that supports understanding.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://educationendowmentfoundation.org.uk/news/eef-blog-shining-a-spotlight-on-reading-fluency" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-title">eef blog shining a spotlight on reading fluency</span><span class="citation-popover-snippet">EEFEEF blog: Shining a spotlight on reading fluency1 Dec 2021 — Reading fluency is defined as reading with accuracy (reading words correc...</span></span></span>
 
 ## What Phrase Reading Means
 
 Phrase reading is the habit of grouping words that naturally work together in a sentence. These groups may be grammatical units, such as [noun phrases]({{ 'noun-phrases/' | relative_url }}), [verb phrases]({{ 'verb-phrases/' | relative_url }}), prepositional phrases, or clauses. They may also be meaning units that a reader can hold comfortably before moving on.
 
-Take this sentence: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/behavioral-neuroscience/articles/10.3389/fnbeh.2026.1775487/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[frontiersin.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Take this sentence:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/behavioral-neuroscience/articles/10.3389/fnbeh.2026.1775487/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[frontiersin.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The tired doctor checked the notes before speaking to the family.
 
 A word-by-word reader may experience it as a long string of small tasks: “The / tired / doctor / checked / the / notes / before / speaking / to / the / family.” A phrase reader is more likely to feel the sentence in larger pieces: “The tired doctor / checked the notes / before speaking to the family.” Nothing has been skipped. The reader has simply organised the words into units that match how the meaning unfolds.
 
-This matters because reading fluency is not just a matter of recognising individual words. Reading Rockets describes fluent readers as people who recognise words automatically, group words quickly to gain meaning, and read with expression when [reading aloud]({{ 'reading-aloud/' | relative_url }}). Choppy word-by-word reading, by contrast, is a sign that fluency has not fully developed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-title">Reading Rockets Fluency</span><span class="citation-popover-snippet">Reading RocketsFluency: IntroductionFluent readers read aloud effortlessly and with expression — their reading sounds natural, as if they...</span></span></span>
+This matters because reading fluency is not just a matter of recognising individual words. Reading Rockets describes fluent readers as people who recognise words automatically, group words quickly to gain meaning, and read with expression when [reading aloud]({{ 'reading-aloud/' | relative_url }}). Choppy word-by-word reading, by contrast, is a sign that fluency has not fully developed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-title">Reading Rockets Fluency</span><span class="citation-popover-snippet">Reading RocketsFluency: IntroductionFluent readers read aloud effortlessly and with expression — their reading sounds natural, as if they...</span></span></span>
 
-Phrase reading also explains why the advice “just move your eyes faster” is usually unhelpful. Skilled reading depends on the coordination of vision, word recognition, syntax, and meaning. Eye-movement research shows that readers do not take in an unlimited amount of text at each glance. In alphabetic writing systems, useful visual information during a fixation is limited, commonly extending only a few letters to the left and around 14–15 letter spaces to the right of fixation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEye movements, the perceptual span, and reading speed</span><span class="citation-popover-snippet">by K Rayner · 2010 · Cited by 477 — The main findings were that fast readers (reading at about 330 wpm) had a larger perceptual span t...</span></span></span> Phrase reading therefore should not be understood as seeing a whole line at once. It is better understood as using the words currently available to build sensible chunks of meaning.
+Phrase reading also explains why the advice “just move your eyes faster” is usually unhelpful. Skilled reading depends on the coordination of vision, word recognition, syntax, and meaning. Eye-movement research shows that readers do not take in an unlimited amount of text at each glance. In alphabetic writing systems, useful visual information during a fixation is limited, commonly extending only a few letters to the left and around 14–15 letter spaces to the right of fixation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEye movements, the perceptual span, and reading speed</span><span class="citation-popover-snippet">by K Rayner · 2010 · Cited by 477 — The main findings were that fast readers (reading at about 330 wpm) had a larger perceptual span t...</span></span></span> Phrase reading therefore should not be understood as seeing a whole line at once. It is better understood as using the words currently available to build sensible chunks of meaning.
 
 ## Why Phrases Make Reading Feel Smoother
 
@@ -359,7 +359,7 @@ Phrase reading helps because sentences are not built as equal strings of words. 
 
 For example, in “Although the train was late, the meeting started on time,” the opening word “Although” prepares the reader for a contrast. The phrase “the train was late” sets up an expectation, and “the meeting started on time” resolves it. Reading the sentence as two connected chunks is more efficient than treating each word as an isolated item.
 
-This is one reason fluency researchers often include phrasing and expression under the broader term “prosody”. Prosody is the rhythm, stress, intonation, and phrasing that make spoken reading sound natural. In reading education, it matters because it reflects whether the reader is using syntax and meaning, not merely decoding words. The Education Endowment Foundation defines reading fluency as accuracy, automaticity, and prosody, and notes that these elements work together rather than as separate skills. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://educationendowmentfoundation.org.uk/news/eef-blog-shining-a-spotlight-on-reading-fluency" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-title">eef blog shining a spotlight on reading fluency</span><span class="citation-popover-snippet">EEFEEF blog: Shining a spotlight on reading fluency1 Dec 2021 — Reading fluency is defined as reading with accuracy (reading words correc...</span></span></span>
+This is one reason fluency researchers often include phrasing and expression under the broader term “prosody”. Prosody is the rhythm, stress, intonation, and phrasing that make spoken reading sound natural. In reading education, it matters because it reflects whether the reader is using syntax and meaning, not merely decoding words. The Education Endowment Foundation defines reading fluency as accuracy, automaticity, and prosody, and notes that these elements work together rather than as separate skills.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://educationendowmentfoundation.org.uk/news/eef-blog-shining-a-spotlight-on-reading-fluency" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-title">eef blog shining a spotlight on reading fluency</span><span class="citation-popover-snippet">EEFEEF blog: Shining a spotlight on reading fluency1 Dec 2021 — Reading fluency is defined as reading with accuracy (reading words correc...</span></span></span>
 
 The effect is clearest when reading aloud, but it is not limited to oral reading. Many silent readers still experience an inner rhythm: a sense of where a phrase begins, where it closes, and which word deserves emphasis. This inner phrasing can help a reader avoid two common problems: rushing past the structure of a sentence, or reading so slowly that the beginning of the sentence fades before the end arrives.
 
@@ -403,9 +403,9 @@ After the storm / the village roads / were covered with branches / and deep pool
 
 The marks are not meant to remain forever. They act like training wheels: they make phrasing visible until the reader starts noticing similar boundaries in ordinary text.
 
-Phrase-cued text has been used in fluency instruction for decades. Timothy Rasinski’s work on phrase-cued texts argued that marking phrase boundaries can help readers attend to meaningful units rather than isolated words, and his ERIC report summarised studies suggesting benefits for comprehension in school-age readers and adolescents. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.eric.ed.gov/fulltext/ED313689.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.eric.ed.gov">[ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.eric.ed.gov</span><span class="citation-popover-title">ERICDOCUMENT RESUME ED 313 689 CS 009 882</span><span class="citation-popover-snippet">ERICFebruary 16, 2011 — by TV Rasinski · 1990 · Cited by 16 — phrase boundaries are cued by prosody to written texts phrase- cued texts f...</span><span class="citation-popover-meta">Published: February 16, 2011</span></span></span> Later research by Levasseur, Macaruso, Palumbo, and Shankweiler found that syntactically cued text facilitated oral reading fluency in developing readers, giving support to the idea that visible phrase boundaries can help readers read more naturally. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/journals/applied-psycholinguistics/article/syntactically-cued-text-facilitates-oral-reading-fluency-in-developing-readers/49D41A8EF948352C852B647237540E57" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Published online by Cambridge University Press: 14 July 2006.Read more...</span><span class="citation-popover-meta">Published: July 2006</span></span></span>
+Phrase-cued text has been used in fluency instruction for decades. Timothy Rasinski’s work on phrase-cued texts argued that marking phrase boundaries can help readers attend to meaningful units rather than isolated words, and his ERIC report summarised studies suggesting benefits for comprehension in school-age readers and adolescents.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.eric.ed.gov/fulltext/ED313689.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.eric.ed.gov">[ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.eric.ed.gov</span><span class="citation-popover-title">ERICDOCUMENT RESUME ED 313 689 CS</span><span class="citation-popover-snippet">ERICFebruary 16, 2011 — by TV Rasinski · 1990 · Cited by 16 — phrase boundaries are cued by prosody to written texts phrase- cued texts f...</span><span class="citation-popover-meta">Published: February 16, 2011</span></span></span> Later research by Levasseur, Macaruso, Palumbo, and Shankweiler found that syntactically cued text facilitated oral reading fluency in developing readers, giving support to the idea that visible phrase boundaries can help readers read more naturally.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/journals/applied-psycholinguistics/article/syntactically-cued-text-facilitates-oral-reading-fluency-in-developing-readers/49D41A8EF948352C852B647237540E57" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Published online by Cambridge University Press: 14 July 2006.Read more...</span><span class="citation-popover-meta">Published: July 2006</span></span></span>
 
-More recent literacy resources continue to treat phrased text as a fluency scaffold rather than a speed trick. Landmark Outreach describes phrase-cued text as a way of marking phrase boundaries so readers can practise grouping words together, while also noting that cueing requires judgement rather than rigid rules. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.landmarkoutreach.org/strategies/fluency-interventions-text-and-passage-level/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: landmarkoutreach.org">[Landmark Outreach]</a><span class="citation-popover" role="note"><span class="citation-popover-source">landmarkoutreach.org</span><span class="citation-popover-title">Landmark Outreach Fluency Interventions at the Text and Passage Levels</span><span class="citation-popover-snippet">Landmark Outreach Fluency Interventions at the Text and Passage Levels</span></span></span> A 2025 study on pairing phrase-cued text with readers theatre similarly defines phrase-cued text as marking phrase boundaries to cue which words should be grouped together when reading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/full/10.1111/1467-9817.70002" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">1467 9817.70002</span><span class="citation-popover-snippet">1467 9817.70002</span></span></span>
+More recent literacy resources continue to treat phrased text as a fluency scaffold rather than a speed trick. Landmark Outreach describes phrase-cued text as a way of marking phrase boundaries so readers can practise grouping words together, while also noting that cueing requires judgement rather than rigid rules.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.landmarkoutreach.org/strategies/fluency-interventions-text-and-passage-level/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: landmarkoutreach.org">[Landmark Outreach]</a><span class="citation-popover" role="note"><span class="citation-popover-source">landmarkoutreach.org</span><span class="citation-popover-title">Landmark Outreach Fluency Interventions at the Text and Passage Levels</span><span class="citation-popover-snippet">Landmark Outreach Fluency Interventions at the Text and Passage Levels</span></span></span> A 2025 study on pairing phrase-cued text with readers theatre similarly defines phrase-cued text as marking phrase boundaries to cue which words should be grouped together when reading.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/full/10.1111/1467-9817.70002" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">1467 9817.70002</span><span class="citation-popover-snippet">1467 9817.70002</span></span></span>
 
 The important limitation is that phrase-cued text is mainly a practice format. It can help a reader hear and feel better phrasing, especially in short passages, but it is not a guarantee of faster reading across every kind of text. The skill has to transfer from marked examples to unmarked prose.
 
@@ -429,7 +429,7 @@ A simple practice routine works well:
 
 </div>
 
-This kind of practice fits the wider evidence on fluency: repeated reading and guided oral reading can improve aspects of reading performance, especially when the reader receives modelling or feedback rather than simply being told to go faster. A review of fluency interventions found guided oral repeated reading with feedback to be an effective method for improving fluency and comprehension across learners, though the strength and type of evidence varies by group and intervention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5097019/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span> The What Works Clearinghouse review of repeated reading for students with learning disabilities found potentially positive effects on reading comprehension but a small evidence base, which is a useful reminder not to oversell any one technique. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ies.ed.gov/ncee/wwc/Docs/InterventionReports/wwc_repeatedreading_051314.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ies.ed.gov">[Institute of Education Sciences]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ies.ed.gov</span><span class="citation-popover-title">Institute of Education Sciences Repeated Reading</span><span class="citation-popover-snippet">Institute of Education Sciences Repeated Reading</span></span></span>
+This kind of practice fits the wider evidence on fluency: repeated reading and guided oral reading can improve aspects of reading performance, especially when the reader receives modelling or feedback rather than simply being told to go faster. A review of fluency interventions found guided oral repeated reading with feedback to be an effective method for improving fluency and comprehension across learners, though the strength and type of evidence varies by group and intervention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5097019/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span> The What Works Clearinghouse review of repeated reading for students with learning disabilities found potentially positive effects on reading comprehension but a small evidence base, which is a useful reminder not to oversell any one technique.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ies.ed.gov/ncee/wwc/Docs/InterventionReports/wwc_repeatedreading_051314.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ies.ed.gov">[Institute of Education Sciences]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ies.ed.gov</span><span class="citation-popover-title">Institute of Education Sciences Repeated Reading</span><span class="citation-popover-snippet">Institute of Education Sciences Repeated Reading</span></span></span>
 
 Phrase reading is especially useful when a reader’s normal pattern is too choppy. It is less useful when the real barrier is unknown vocabulary, weak background knowledge, tiredness, or a text that genuinely needs slow analysis.
 
@@ -440,7 +440,7 @@ Phrase reading is especially useful when a reader’s normal pattern is too chop
 
 Phrase reading can increase reading speed indirectly, but it should not be confused with extreme speed-reading claims. The difference is simple: phrase reading keeps meaning at the centre; many speed-reading systems try to reduce or bypass normal reading processes.
 
-A major review in *Psychological Science in the Public Interest* concluded that there is a speed–accuracy trade-off in reading and that readers are unlikely to double or triple their reading speed while maintaining the same level of comprehension. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">Pub Med How Do We Read, and Can Speed Reading Help?</span></span></span> This does not make all speed improvement impossible. It means that the realistic gains come from fluency, familiarity, vocabulary, and better reading strategy, not from forcing the eyes to behave as if language had no structure.
+A major review in *Psychological Science in the Public Interest* concluded that there is a speed–accuracy trade-off in reading and that readers are unlikely to double or triple their reading speed while maintaining the same level of comprehension.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">Pub Med How Do We Read, and Can Speed Reading Help?</span></span></span> This does not make all speed improvement impossible. It means that the realistic gains come from fluency, familiarity, vocabulary, and better reading strategy, not from forcing the eyes to behave as if language had no structure.
 
 Phrase reading works within those limits. It does not ask the reader to suppress the inner voice completely, skip punctuation, ignore syntax, or absorb a line in one glance. It asks the reader to notice that written prose already comes in units of meaning. When those units are recognised quickly, reading becomes smoother; when they are ignored, the reader may either stumble word by word or skim too roughly.
 
@@ -463,7 +463,7 @@ It tends to help when:
 
 </div>
 
-It helps less when the bottleneck is somewhere else. If a reader does not know the meaning of key words, cannot decode many words accurately, or lacks the background knowledge needed for the passage, phrase reading may improve rhythm without improving understanding. The EEF’s fluency model is useful here because it treats accuracy, automaticity, and prosody as interdependent. Weakness in one area can limit the others. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://educationendowmentfoundation.org.uk/news/eef-blog-shining-a-spotlight-on-reading-fluency" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-title">eef blog shining a spotlight on reading fluency</span><span class="citation-popover-snippet">EEFEEF blog: Shining a spotlight on reading fluency1 Dec 2021 — Reading fluency is defined as reading with accuracy (reading words correc...</span></span></span>
+It helps less when the bottleneck is somewhere else. If a reader does not know the meaning of key words, cannot decode many words accurately, or lacks the background knowledge needed for the passage, phrase reading may improve rhythm without improving understanding. The EEF’s fluency model is useful here because it treats accuracy, automaticity, and prosody as interdependent. Weakness in one area can limit the others.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://educationendowmentfoundation.org.uk/news/eef-blog-shining-a-spotlight-on-reading-fluency" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-title">eef blog shining a spotlight on reading fluency</span><span class="citation-popover-snippet">EEFEEF blog: Shining a spotlight on reading fluency1 Dec 2021 — Reading fluency is defined as reading with accuracy (reading words correc...</span></span></span>
 
 A good test is to ask: “After grouping the sentence into phrases, do I understand it better?” If yes, the issue was partly rhythm and syntax. If no, the issue may be vocabulary, prior knowledge, sentence complexity, or the need for closer reading.
 
@@ -471,7 +471,7 @@ A good test is to ask: “After grouping the sentence into phrases, do I underst
 <img src="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de-Illustration-3-dark.svg" | relative_url }}" alt="Phrases illustration 3" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A Practical Example of Phrase Reading in Action
 
-Consider this sentence: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nichd.nih.gov">[nichd.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nichd.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Consider this sentence:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nichd.nih.gov">[nichd.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nichd.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Because the first explanation was incomplete, the reviewer asked for more evidence before accepting the claim.
 
@@ -494,199 +494,199 @@ This is why phrase reading belongs in a realistic approach to increasing reading
 
 ## The Takeaway for Faster, Smoother Reading
 
-Phrase reading is a mechanism for making comprehension smoother, not a shortcut around comprehension. It helps readers move from isolated word recognition to meaningful units, making sentences easier to hold, hear, and understand. The strongest case for it comes from the broader fluency tradition: skilled reading involves accuracy, automaticity, and prosody, and phrasing is one visible part of that fluency. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://educationendowmentfoundation.org.uk/news/eef-blog-shining-a-spotlight-on-reading-fluency" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-title">eef blog shining a spotlight on reading fluency</span><span class="citation-popover-snippet">EEFEEF blog: Shining a spotlight on reading fluency1 Dec 2021 — Reading fluency is defined as reading with accuracy (reading words correc...</span></span></span>
+Phrase reading is a mechanism for making comprehension smoother, not a shortcut around comprehension. It helps readers move from isolated word recognition to meaningful units, making sentences easier to hold, hear, and understand. The strongest case for it comes from the broader fluency tradition: skilled reading involves accuracy, automaticity, and prosody, and phrasing is one visible part of that fluency.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://educationendowmentfoundation.org.uk/news/eef-blog-shining-a-spotlight-on-reading-fluency" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-title">eef blog shining a spotlight on reading fluency</span><span class="citation-popover-snippet">EEFEEF blog: Shining a spotlight on reading fluency1 Dec 2021 — Reading fluency is defined as reading with accuracy (reading words correc...</span></span></span>
 
 The most realistic benefit is a cleaner rhythm. A reader who learns to group words sensibly may read some prose faster because fewer mental pauses are wasted on rebuilding the sentence. But the reader still needs to [slow down]({{ 'slow-down/' | relative_url }}) for unfamiliar ideas, dense arguments, and important details. Phrase reading is therefore best understood as a way to remove choppiness: it lets the eyes, inner voice, and meaning of the sentence work together instead of competing word by word.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Read Phrases, Not Just Words. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Read Phrases, Not Just Words. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Explains reading levels and techniques for processing larger units of meaning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Explains reading levels and techniques for processing larger units of meaning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-        </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+</h4>
+<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Connects reading with durable comprehension and retention.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects reading with durable comprehension and retention.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Breakthrough rapid reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/84360-M.jpg" alt="Cover for Breakthrough rapid reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breakthrough rapid reading">Breakthrough rapid reading</a>
-        </h4>
-        <p class="fr-book-author">By Peter Kump</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Breakthrough rapid reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/84360-M.jpg" alt="Cover for Breakthrough rapid reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breakthrough rapid reading">Breakthrough rapid reading</a>
+</h4>
+<p class="fr-book-author">By Peter Kump</p>
         
-        <p class="fr-book-desc">First published 1979. Subjects: Speed reading, Rapid reading, Du shu fang fa.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1979. Subjects: Speed reading, Rapid reading, Du shu fang fa.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Speed Reading Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/375099-M.jpg" alt="Cover for The Speed Reading Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Speed Reading Book">The Speed Reading Book</a>
-        </h4>
-        <p class="fr-book-author">By Tony Buzan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Speed Reading Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/375099-M.jpg" alt="Cover for The Speed Reading Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Speed Reading Book">The Speed Reading Book</a>
+</h4>
+<p class="fr-book-author">By Tony Buzan</p>
         
-        <p class="fr-book-desc">First published 1997. Subjects: Speed reading, Développement d&#x27;aptitudes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1997. Subjects: Speed reading, Développement d&#x27;aptitudes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Breakthrough rapid reading</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Breakthrough rapid reading</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrases-read-phrases-not-just-words-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="phrases-read-phrases-not-just-words-increasing-reading-lamps-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 8pcs Silver Interior Roof Reading Lamp Button Patch for Mercedes GLA 2020-2026"><img src="{{ '/assets/images/marketplace-covers/d97e5603935cf5a55fea.jpg' | relative_url }}" alt="Listing image for 8pcs Silver Interior Roof Reading Lamp Button Patch for Mercedes GLA 2020-2026" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrases-read-phrases-not-just-words-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="phrases-read-phrases-not-just-words-increasing-reading-lamps-patch" target="_blank" rel="sponsored noopener noreferrer">8pcs Silver Interior Roof Reading Lamp Button Patch for Mercedes GLA 2020-2026</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrases-read-phrases-not-just-words-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="phrases-read-phrases-not-just-words-increasing-reading-lamps-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading lamps patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: reading lamps patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrases-read-phrases-not-just-words-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="phrases-read-phrases-not-just-words-increasing-reading-lamps-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrases-read-phrases-not-just-words-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="phrases-read-phrases-not-just-words-increasing-reading-lamps-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 8pcs Silver Interior Roof Reading Lamp Button Patch for Mercedes GLA"><img src="{{ '/assets/images/marketplace-covers/d97e5603935cf5a55fea.jpg' | relative_url }}" alt="Listing image for 8pcs Silver Interior Roof Reading Lamp Button Patch for Mercedes GLA" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrases-read-phrases-not-just-words-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="phrases-read-phrases-not-just-words-increasing-reading-lamps-patch" target="_blank" rel="sponsored noopener noreferrer">8pcs Silver Interior Roof Reading Lamp Button Patch for Mercedes GLA</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrases-read-phrases-not-just-words-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="phrases-read-phrases-not-just-words-increasing-reading-lamps-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading lamps patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: reading lamps patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrases-read-phrases-not-just-words-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="phrases-read-phrases-not-just-words-increasing-reading-lamps-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrases-read-phrases-not-just-words-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="phrases-read-phrases-not-just-words-increasing-reading-lamps-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Set of 8 Silver Roof Reading Lamp Button Patch for Mercedes For GLB 2020-2026"><img src="{{ '/assets/images/marketplace-covers/ae20b9d17e05d10b9817.jpg' | relative_url }}" alt="Listing image for Set of 8 Silver Roof Reading Lamp Button Patch for Mercedes For GLB 2020-2026" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrases-read-phrases-not-just-words-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="phrases-read-phrases-not-just-words-increasing-reading-lamps-patch" target="_blank" rel="sponsored noopener noreferrer">Set of 8 Silver Roof Reading Lamp Button Patch for Mercedes For GLB 2020-2026</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrases-read-phrases-not-just-words-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="phrases-read-phrases-not-just-words-increasing-reading-lamps-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading lamps patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: reading lamps patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrases-read-phrases-not-just-words-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="phrases-read-phrases-not-just-words-increasing-reading-lamps-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrases-read-phrases-not-just-words-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="phrases-read-phrases-not-just-words-increasing-reading-lamps-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Set of 8 Silver Roof Reading Lamp Button Patch for Mercedes For GLB"><img src="{{ '/assets/images/marketplace-covers/ae20b9d17e05d10b9817.jpg' | relative_url }}" alt="Listing image for Set of 8 Silver Roof Reading Lamp Button Patch for Mercedes For GLB" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrases-read-phrases-not-just-words-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="phrases-read-phrases-not-just-words-increasing-reading-lamps-patch" target="_blank" rel="sponsored noopener noreferrer">Set of 8 Silver Roof Reading Lamp Button Patch for Mercedes For GLB</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrases-read-phrases-not-just-words-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="phrases-read-phrases-not-just-words-increasing-reading-lamps-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading lamps patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: reading lamps patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrases-read-phrases-not-just-words-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="phrases-read-phrases-not-just-words-increasing-reading-lamps-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrases-read-phrases-not-just-words-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="phrases-read-phrases-not-just-words-increasing-reading-lamps-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bible Reading Patch Vintage Nazarene Caravan Scouts Lamp and Book Embroidered"><img src="{{ '/assets/images/marketplace-covers/f2d50322e432521f590f.jpg' | relative_url }}" alt="Listing image for Bible Reading Patch Vintage Nazarene Caravan Scouts Lamp and Book Embroidered" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrases-read-phrases-not-just-words-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="phrases-read-phrases-not-just-words-increasing-reading-lamps-patch" target="_blank" rel="sponsored noopener noreferrer">Bible Reading Patch Vintage Nazarene Caravan Scouts Lamp and Book Embroidered</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrases-read-phrases-not-just-words-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="phrases-read-phrases-not-just-words-increasing-reading-lamps-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading lamps patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: reading lamps patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrases-read-phrases-not-just-words-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="phrases-read-phrases-not-just-words-increasing-reading-lamps-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrases-read-phrases-not-just-words-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="phrases-read-phrases-not-just-words-increasing-reading-lamps-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bible Reading Patch Vintage Nazarene Caravan Scouts Lamp and Book Embroidered"><img src="{{ '/assets/images/marketplace-covers/f2d50322e432521f590f.jpg' | relative_url }}" alt="Listing image for Bible Reading Patch Vintage Nazarene Caravan Scouts Lamp and Book Embroidered" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrases-read-phrases-not-just-words-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="phrases-read-phrases-not-just-words-increasing-reading-lamps-patch" target="_blank" rel="sponsored noopener noreferrer">Bible Reading Patch Vintage Nazarene Caravan Scouts Lamp and Book Embroidered</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrases-read-phrases-not-just-words-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="phrases-read-phrases-not-just-words-increasing-reading-lamps-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading lamps patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: reading lamps patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrases-read-phrases-not-just-words-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="phrases-read-phrases-not-just-words-increasing-reading-lamps-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrases-read-phrases-not-just-words-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="phrases-read-phrases-not-just-words-increasing-reading-lamps-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 5pcs Silver Roof Reading Lamp Button Patch for Mercedes For GLA 2015 2019 Pack"><img src="{{ '/assets/images/marketplace-covers/29c142c956869ced532a.jpg' | relative_url }}" alt="Listing image for 5pcs Silver Roof Reading Lamp Button Patch for Mercedes For GLA 2015 2019 Pack" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrases-read-phrases-not-just-words-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="phrases-read-phrases-not-just-words-increasing-reading-lamps-patch" target="_blank" rel="sponsored noopener noreferrer">5pcs Silver Roof Reading Lamp Button Patch for Mercedes For GLA 2015 2019 Pack</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrases-read-phrases-not-just-words-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="phrases-read-phrases-not-just-words-increasing-reading-lamps-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading lamps patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: reading lamps patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrases-read-phrases-not-just-words-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="phrases-read-phrases-not-just-words-increasing-reading-lamps-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrases-read-phrases-not-just-words-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="phrases-read-phrases-not-just-words-increasing-reading-lamps-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrases-read-phrases-not-just-words-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="phrases-read-phrases-not-just-words-increasing-reading-lamps-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 5pcs Silver Roof Reading Lamp Button Patch for Mercedes For GLA 2015 2019 Pack"><img src="{{ '/assets/images/marketplace-covers/29c142c956869ced532a.jpg' | relative_url }}" alt="Listing image for 5pcs Silver Roof Reading Lamp Button Patch for Mercedes For GLA 2015 2019 Pack" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrases-read-phrases-not-just-words-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="phrases-read-phrases-not-just-words-increasing-reading-lamps-patch" target="_blank" rel="sponsored noopener noreferrer">5pcs Silver Roof Reading Lamp Button Patch for Mercedes For GLA 2015 2019 Pack</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrases-read-phrases-not-just-words-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="phrases-read-phrases-not-just-words-increasing-reading-lamps-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading lamps patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: reading lamps patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrases-read-phrases-not-just-words-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="phrases-read-phrases-not-just-words-increasing-reading-lamps-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+lamps+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrases-read-phrases-not-just-words-increasing-reading-lamps-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading lamps patch" data-ebay-reference="phrases-read-phrases-not-just-words-increasing-reading-lamps-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -702,7 +702,7 @@ The most realistic benefit is a cleaner rhythm. A reader who learns to group wor
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -722,7 +722,7 @@ The most realistic benefit is a cleaner rhythm. A reader who learns to group wor
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -754,7 +754,7 @@ The most realistic benefit is a cleaner rhythm. A reader who learns to group wor
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -806,7 +806,7 @@ The most realistic benefit is a cleaner rhythm. A reader who learns to group wor
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -851,7 +851,7 @@ The most realistic benefit is a cleaner rhythm. A reader who learns to group wor
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -892,202 +892,202 @@ The most realistic benefit is a cleaner rhythm. A reader who learns to group wor
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCEye movements, the perceptual span, and reading speed  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by K Rayner · 2010 · Cited by 477 — The main findings were that fast readers (reading at about 330 wpm) had a larger perceptual span t...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by K Rayner · 2010 · Cited by 477 — The main findings were that fast readers (reading at about 330 wpm) had a larger perceptual span t...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/journals/applied-psycholinguistics/article/syntactically-cued-text-facilitates-oral-reading-fluency-in-developing-readers/49D41A8EF948352C852B647237540E57" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/applied-psycholinguistics/article/syntactically-cued-text-facilitates-oral-reading-fluency-in-developing-readers/49D41A8EF948352C852B647237540E57</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Published online by Cambridge University Press: 14 July 2006.Read more...</p></details>
+   Link:<a href="https://www.cambridge.org/core/journals/applied-psycholinguistics/article/syntactically-cued-text-facilitates-oral-reading-fluency-in-developing-readers/49D41A8EF948352C852B647237540E57" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/applied-psycholinguistics/article/syntactically-cued-text-facilitates-oral-reading-fluency-in-developing-readers/49D41A8EF948352C852B647237540E57</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Published online by Cambridge University Press: 14 July 2006.Read more...</p></details>
    Published: July 2006  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: onlinelibrary.wiley.com  
    Title: 1467 9817.70002  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/1467-9817.70002" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1111/1467-9817.70002</a>  
+   Link:<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/1467-9817.70002" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1111/1467-9817.70002</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5097019/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5097019/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5097019/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5097019/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: onlinelibrary.wiley.com  
    Title: 1467 9817.70002  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/1467-9817.70002" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1111/1467-9817.70002</a>  
+   Link:<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/1467-9817.70002" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1111/1467-9817.70002</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: phrase.com  
-   Link: <a href="https://phrase.com/ja/" target="_blank" rel="noopener noreferrer nofollow">https://phrase.com/ja/</a>  
+   Link:<a href="https://phrase.com/ja/" target="_blank" rel="noopener noreferrer nofollow">https://phrase.com/ja/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: phrase.com  
-   Link: <a href="https://phrase.com/" target="_blank" rel="noopener noreferrer nofollow">https://phrase.com/</a>  
+   Link:<a href="https://phrase.com/" target="_blank" rel="noopener noreferrer nofollow">https://phrase.com/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: educationendowmentfoundation.org.uk  
    Title: eef blog shining a spotlight on reading fluency  
-   Link: <a href="https://educationendowmentfoundation.org.uk/news/eef-blog-shining-a-spotlight-on-reading-fluency" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/eef-blog-shining-a-spotlight-on-reading-fluency</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EEFEEF blog: Shining a spotlight on reading fluency1 Dec 2021 — Reading fluency is defined as reading with accuracy (reading words correc...</p></details>
+   Link:<a href="https://educationendowmentfoundation.org.uk/news/eef-blog-shining-a-spotlight-on-reading-fluency" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/eef-blog-shining-a-spotlight-on-reading-fluency</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EEFEEF blog: Shining a spotlight on reading fluency1 Dec 2021 — Reading fluency is defined as reading with accuracy (reading words correc...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/reading-101/reading-and-writing-basics/fluency" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/reading-101/reading-and-writing-basics/fluency</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsBasics: FluencyFluency is the ability to read a text accurately, quickly, and with expression. Fluent reading builds stami...</p></details>
+   Link:<a href="https://www.readingrockets.org/reading-101/reading-and-writing-basics/fluency" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/reading-101/reading-and-writing-basics/fluency</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsBasics: FluencyFluency is the ability to read a text accurately, quickly, and with expression. Fluent reading builds stami...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: readingrockets.org  
    Title: Reading Rockets Fluency  
-   Link: <a href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsFluency: IntroductionFluent readers read aloud effortlessly and with expression — their reading sounds natural, as if they...</p></details>
+   Link:<a href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsFluency: IntroductionFluent readers read aloud effortlessly and with expression — their reading sounds natural, as if they...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: files.eric.ed.gov  
    Title: ERICDOCUMENT RESUME ED 313 689 CS 009 882  
-   Link: <a href="https://files.eric.ed.gov/fulltext/ED313689.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/ED313689.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ERICFebruary 16, 2011 — by TV Rasinski · 1990 · Cited by 16 — phrase boundaries are cued by prosody to written texts phrase- cued texts f...</p></details>
+   Link:<a href="https://files.eric.ed.gov/fulltext/ED313689.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/ED313689.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ERICFebruary 16, 2011 — by TV Rasinski · 1990 · Cited by 16 — phrase boundaries are cued by prosody to written texts phrase- cued texts f...</p></details>
    Published: February 16, 2011  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: landmarkoutreach.org  
    Title: Landmark Outreach Fluency Interventions at the Text and Passage Levels  
-   Link: <a href="https://www.landmarkoutreach.org/strategies/fluency-interventions-text-and-passage-level/" target="_blank" rel="noopener noreferrer nofollow">https://www.landmarkoutreach.org/strategies/fluency-interventions-text-and-passage-level/</a>  
+   Link:<a href="https://www.landmarkoutreach.org/strategies/fluency-interventions-text-and-passage-level/" target="_blank" rel="noopener noreferrer nofollow">https://www.landmarkoutreach.org/strategies/fluency-interventions-text-and-passage-level/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ies.ed.gov  
    Title: Institute of Education Sciences Repeated Reading  
-   Link: <a href="https://ies.ed.gov/ncee/wwc/Docs/InterventionReports/wwc_repeatedreading_051314.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ies.ed.gov/ncee/wwc/Docs/InterventionReports/wwc_repeatedreading_051314.pdf</a>  
+   Link:<a href="https://ies.ed.gov/ncee/wwc/Docs/InterventionReports/wwc_repeatedreading_051314.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ies.ed.gov/ncee/wwc/Docs/InterventionReports/wwc_repeatedreading_051314.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med How Do We Read, and Can Speed Reading Help?  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26769745/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26769745/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/topics/assessment-and-evaluation/articles/understanding-and-assessing-fluency" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/assessment-and-evaluation/articles/understanding-and-assessing-fluency</a>  
+   Link:<a href="https://www.readingrockets.org/topics/assessment-and-evaluation/articles/understanding-and-assessing-fluency" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/assessment-and-evaluation/articles/understanding-and-assessing-fluency</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: readingn.com  
    Title: READIN G &  
-   Link: <a href="https://www.readingn.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.readingn.com/</a>  
+   Link:<a href="https://www.readingn.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.readingn.com/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/topics/curriculum-and-instruction/articles/findings-national-reading-panel" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/curriculum-and-instruction/articles/findings-national-reading-panel</a>  
+   Link:<a href="https://www.readingrockets.org/topics/curriculum-and-instruction/articles/findings-national-reading-panel" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/curriculum-and-instruction/articles/findings-national-reading-panel</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: readingrockets.org  
    Title: can we really teach prosody and why would we want  
-   Link: <a href="https://www.readingrockets.org/blogs/shanahan-on-literacy/can-we-really-teach-prosody-and-why-would-we-want" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/blogs/shanahan-on-literacy/can-we-really-teach-prosody-and-why-would-we-want</a>  
+   Link:<a href="https://www.readingrockets.org/blogs/shanahan-on-literacy/can-we-really-teach-prosody-and-why-would-we-want" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/blogs/shanahan-on-literacy/can-we-really-teach-prosody-and-why-would-we-want</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2783645/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2783645/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2783645/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2783645/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nichd.nih.gov  
-   Link: <a href="https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf</a>  
+   Link:<a href="https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/21169577/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/21169577/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/21169577/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/21169577/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2906818/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2906818/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2906818/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2906818/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2993640/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2993640/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2993640/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2993640/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5085888/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5085888/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5085888/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5085888/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2748352/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2748352/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2748352/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2748352/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: educationendowmentfoundation.org.uk  
    Title: guide to the eefs tools reading fluency  
-   Link: <a href="https://educationendowmentfoundation.org.uk/news/guide-to-the-eefs-tools-reading-fluency" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/guide-to-the-eefs-tools-reading-fluency</a>  
+   Link:<a href="https://educationendowmentfoundation.org.uk/news/guide-to-the-eefs-tools-reading-fluency" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/guide-to-the-eefs-tools-reading-fluency</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: educationendowmentfoundation.org.uk  
    Title: why focus on reading fluency  
-   Link: <a href="https://educationendowmentfoundation.org.uk/news/why-focus-on-reading-fluency" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/why-focus-on-reading-fluency</a>  
+   Link:<a href="https://educationendowmentfoundation.org.uk/news/why-focus-on-reading-fluency" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/why-focus-on-reading-fluency</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: <a href="https://educationendowmentfoundation.org.uk/reading-house/fluency" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/reading-house/fluency</a>  
+   Link:<a href="https://educationendowmentfoundation.org.uk/reading-house/fluency" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/reading-house/fluency</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.01265/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.01265/full</a>  
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.01265/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.01265/full</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/behavioral-neuroscience/articles/10.3389/fnbeh.2026.1775487/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/behavioral-neuroscience/articles/10.3389/fnbeh.2026.1775487/full</a>  
+   Link:<a href="https://www.frontiersin.org/journals/behavioral-neuroscience/articles/10.3389/fnbeh.2026.1775487/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/behavioral-neuroscience/articles/10.3389/fnbeh.2026.1775487/full</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: education.vic.gov.au  
-   Link: <a href="https://www.education.vic.gov.au/Documents/school/teachers/teachingresources/discipline/english/literacy/Oral_Reading_Fluency_Oct2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.education.vic.gov.au/Documents/school/teachers/teachingresources/discipline/english/literacy/Oral_Reading_Fluency_Oct2023.pdf</a>  
+   Link:<a href="https://www.education.vic.gov.au/Documents/school/teachers/teachingresources/discipline/english/literacy/Oral_Reading_Fluency_Oct2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.education.vic.gov.au/Documents/school/teachers/teachingresources/discipline/english/literacy/Oral_Reading_Fluency_Oct2023.pdf</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: ies.ed.gov  
-   Link: <a href="https://ies.ed.gov/use-work/awards/development-oral-and-silent-reading-fluency-and-their-relation-reading-comprehension-first-through" target="_blank" rel="noopener noreferrer nofollow">https://ies.ed.gov/use-work/awards/development-oral-and-silent-reading-fluency-and-their-relation-reading-comprehension-first-through</a>  
+   Link:<a href="https://ies.ed.gov/use-work/awards/development-oral-and-silent-reading-fluency-and-their-relation-reading-comprehension-first-through" target="_blank" rel="noopener noreferrer nofollow">https://ies.ed.gov/use-work/awards/development-oral-and-silent-reading-fluency-and-their-relation-reading-comprehension-first-through</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: eric.ed.gov  
-   Link: <a href="https://eric.ed.gov/?id=ED313689" target="_blank" rel="noopener noreferrer nofollow">https://eric.ed.gov/?id=ED313689</a>  
+   Link:<a href="https://eric.ed.gov/?id=ED313689" target="_blank" rel="noopener noreferrer nofollow">https://eric.ed.gov/?id=ED313689</a>  
 
 ### Additional References
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/content/pdf/10.3758/PBR.17.6.834.pdf" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/content/pdf/10.3758/PBR.17.6.834.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eye movements, the perceptual span, and reading speedby K Rayner · 2010 · Cited by 477 — That is, the perceptual span for skilled...</p></details>
+   Link:<a href="https://link.springer.com/content/pdf/10.3758/PBR.17.6.834.pdf" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/content/pdf/10.3758/PBR.17.6.834.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eye movements, the perceptual span, and reading speedby K Rayner · 2010 · Cited by 477 — That is, the perceptual span for skilled...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/289208481_The_influence_of_chunking_on_reading_comprehension_Investigating_the_acquisition_of_chunking_skill" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/289208481_The_influence_of_chunking_on_reading_comprehension_Investigating_the_acquisition_of_chunking_skill</a>  
+   Link:<a href="https://www.researchgate.net/publication/289208481_The_influence_of_chunking_on_reading_comprehension_Investigating_the_acquisition_of_chunking_skill" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/289208481_The_influence_of_chunking_on_reading_comprehension_Investigating_the_acquisition_of_chunking_skill</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/jennifer-throndsen-phd-1b833261_do-your-students-struggle-with-reading-fluency-activity-7417422921456996352--T9x" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/jennifer-throndsen-phd-1b833261_do-your-students-struggle-with-reading-fluency-activity-7417422921456996352--T9x</a>  
+   Link:<a href="https://www.linkedin.com/posts/jennifer-throndsen-phd-1b833261_do-your-students-struggle-with-reading-fluency-activity-7417422921456996352--T9x" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/jennifer-throndsen-phd-1b833261_do-your-students-struggle-with-reading-fluency-activity-7417422921456996352--T9x</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: education-progress.org  
-   Link: <a href="https://www.education-progress.org/focus/24-readingspeed" target="_blank" rel="noopener noreferrer nofollow">https://www.education-progress.org/focus/24-readingspeed</a>  
+   Link:<a href="https://www.education-progress.org/focus/24-readingspeed" target="_blank" rel="noopener noreferrer nofollow">https://www.education-progress.org/focus/24-readingspeed</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/843303879/Developing-Fluent-Readers-Reading-Rockets" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/843303879/Developing-Fluent-Readers-Reading-Rockets</a>  
+   Link:<a href="https://www.scribd.com/document/843303879/Developing-Fluent-Readers-Reading-Rockets" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/843303879/Developing-Fluent-Readers-Reading-Rockets</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: shanahanonliteracy.com  
-   Link: <a href="https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading</a>  
+   Link:<a href="https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: andreasmhallberg.github.io  
-   Link: <a href="https://andreasmhallberg.github.io/documents/eye-movements-and-perceptual-span/eye-movements-and-perceptual-span.tex.pdf" target="_blank" rel="noopener noreferrer nofollow">https://andreasmhallberg.github.io/documents/eye-movements-and-perceptual-span/eye-movements-and-perceptual-span.tex.pdf</a>  
+   Link:<a href="https://andreasmhallberg.github.io/documents/eye-movements-and-perceptual-span/eye-movements-and-perceptual-span.tex.pdf" target="_blank" rel="noopener noreferrer nofollow">https://andreasmhallberg.github.io/documents/eye-movements-and-perceptual-span/eye-movements-and-perceptual-span.tex.pdf</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/560641462/rayner2009" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/560641462/rayner2009</a>  
+   Link:<a href="https://www.scribd.com/document/560641462/rayner2009" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/560641462/rayner2009</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/49694262_Eye_movements_the_perceptual_span_and_reading_speed" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/49694262_Eye_movements_the_perceptual_span_and_reading_speed</a>  
+   Link:<a href="https://www.researchgate.net/publication/49694262_Eye_movements_the_perceptual_span_and_reading_speed" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/49694262_Eye_movements_the_perceptual_span_and_reading_speed</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: savvas.com  
-   Link: <a href="https://www.savvas.com/resource-center/blogs-and-podcasts/savvas-insights/2025/strategies-to-improve-oral-reading-fluency" target="_blank" rel="noopener noreferrer nofollow">https://www.savvas.com/resource-center/blogs-and-podcasts/savvas-insights/2025/strategies-to-improve-oral-reading-fluency</a>  
+   Link:<a href="https://www.savvas.com/resource-center/blogs-and-podcasts/savvas-insights/2025/strategies-to-improve-oral-reading-fluency" target="_blank" rel="noopener noreferrer nofollow">https://www.savvas.com/resource-center/blogs-and-podcasts/savvas-insights/2025/strategies-to-improve-oral-reading-fluency</a>  

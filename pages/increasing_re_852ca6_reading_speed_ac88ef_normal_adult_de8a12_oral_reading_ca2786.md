@@ -275,19 +275,19 @@ image: /assets/images/increasing_re_852ca6_reading_speed_ac88ef_normal_adult_de8
 
 ## Introduction
 
-Reading aloud is substantially slower than silent reading, not because the reader suddenly becomes less skilled, but because speech production imposes a physical limit on how quickly language can be expressed. In large reviews of reading research, average adult oral reading speed is about 183 words per minute (wpm), while average silent reading rates are roughly 238 wpm for non-fiction and 260 wpm for fiction. The gap exists because reading aloud requires the reader to convert written words into coordinated speech, involving pronunciation, breathing, [timing]({{ 'timing/' | relative_url }}), and articulation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://biblio.ugent.be/publication/8647789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: biblio.ugent.be">[Ghent University Bibliography]</a><span class="citation-popover" role="note"><span class="citation-popover-source">biblio.ugent.be</span><span class="citation-popover-title">Ghent University Bibliography How many words do we read per minute?</span><span class="citation-popover-snippet">A review and meta...by M Brysbaert · 2019 · Cited by 870 — The reasons for the overestimates are reviewed. The average oral reading rate...</span></span></span>
+Reading aloud is substantially slower than silent reading, not because the reader suddenly becomes less skilled, but because speech production imposes a physical limit on how quickly language can be expressed. In large reviews of reading research, average adult oral reading speed is about 183 words per minute (wpm), while average silent reading rates are roughly 238 wpm for non-fiction and 260 wpm for fiction. The gap exists because reading aloud requires the reader to convert written words into coordinated speech, involving pronunciation, breathing, [timing]({{ 'timing/' | relative_url }}), and articulation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://biblio.ugent.be/publication/8647789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: biblio.ugent.be">[Ghent University Bibliography]</a><span class="citation-popover" role="note"><span class="citation-popover-source">biblio.ugent.be</span><span class="citation-popover-title">Ghent University Bibliography How many words do we read per minute?</span><span class="citation-popover-snippet">A review and meta...by M Brysbaert · 2019 · Cited by 870 — The reasons for the overestimates are reviewed. The average oral reading rate...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef_normal_adult_de8a12_oral_reading_ca2786-Illustration-1-dark.svg" | relative_url }}" alt="Reading Aloud illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef_normal_adult_de8a12_oral_reading_ca2786-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef_normal_adult_de8a12_oral_reading_ca2786-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For anyone interested in [increasing]({{ 'increasing/' | relative_url }}) reading speed, this distinction matters. Silent reading and oral reading are different tasks. A person who can silently understand text at 250 wpm may be unable to read the same material aloud at anything close to that speed because the bottleneck is no longer visual recognition or comprehension—it is speech itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://biblio.ugent.be/publication/8647789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: biblio.ugent.be">[Ghent University Bibliography]</a><span class="citation-popover" role="note"><span class="citation-popover-source">biblio.ugent.be</span><span class="citation-popover-title">Ghent University Bibliography How many words do we read per minute?</span><span class="citation-popover-snippet">A review and meta...by M Brysbaert · 2019 · Cited by 870 — The reasons for the overestimates are reviewed. The average oral reading rate...</span></span></span>
+For anyone interested in [increasing]({{ 'increasing/' | relative_url }}) reading speed, this distinction matters. Silent reading and oral reading are different tasks. A person who can silently understand text at 250 wpm may be unable to read the same material aloud at anything close to that speed because the bottleneck is no longer visual recognition or comprehension—it is speech itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://biblio.ugent.be/publication/8647789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: biblio.ugent.be">[Ghent University Bibliography]</a><span class="citation-popover" role="note"><span class="citation-popover-source">biblio.ugent.be</span><span class="citation-popover-title">Ghent University Bibliography How many words do we read per minute?</span><span class="citation-popover-snippet">A review and meta...by M Brysbaert · 2019 · Cited by 870 — The reasons for the overestimates are reviewed. The average oral reading rate...</span></span></span>
 
 ## Why Speech Limits Speed
 
 The central constraint in oral reading is that spoken language unfolds sequentially. Even when readers recognise words rapidly, they can only pronounce them one sound at a time.
 
-Research on language processing places typical speaking rates for conversational English in roughly the 120–200 wpm range, depending on context and speaker style. Oral reading therefore operates within the same general limits as ordinary speech production. The mouth, tongue, vocal folds, and respiratory system must coordinate thousands of movements while maintaining intelligibility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2649675/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Estimates of normal speaking rate range from 120 to 200 words per minute...Read more...</span></span></span>
+Research on language processing places typical speaking rates for conversational English in roughly the 120–200 wpm range, depending on context and speaker style. Oral reading therefore operates within the same general limits as ordinary speech production. The mouth, tongue, vocal folds, and respiratory system must coordinate thousands of movements while maintaining intelligibility.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2649675/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Estimates of normal speaking rate range from 120 to 200 words per minute...Read more...</span></span></span>
 
-Silent reading is different. The eyes can move ahead of the currently processed word, and readers can extract information from upcoming text before they reach it directly. This allows comprehension to proceed faster than spoken output. When reading aloud, however, the reader must wait for speech to catch up. The speech mechanism becomes the rate-limiting step. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10360968/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNo Correlation Between Articulation Speed and Silent</span><span class="citation-popover-snippet">by M Brysbaert · 2023 · Cited by 12 — First, it was found that the average reading rate in silent reading is not 300 wpm but 240 wpm (...</span></span></span>
+Silent reading is different. The eyes can move ahead of the currently processed word, and readers can extract information from upcoming text before they reach it directly. This allows comprehension to proceed faster than spoken output. When reading aloud, however, the reader must wait for speech to catch up. The speech mechanism becomes the rate-limiting step.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10360968/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNo Correlation Between Articulation Speed and Silent</span><span class="citation-popover-snippet">by M Brysbaert · 2023 · Cited by 12 — First, it was found that the average reading rate in silent reading is not 300 wpm but 240 wpm (...</span></span></span>
 
 Several practical factors contribute to this bottleneck:
 
@@ -311,15 +311,15 @@ These constraints do not disappear with [practice]({{ 'practice/' | relative_url
 
 Many readers report the feeling that they can “think faster than they can talk”. Reading research supports this intuition.
 
-The large meta-analysis by Marc Brysbaert and colleagues found average oral reading at 183 wpm, while silent reading averages were roughly 30–40% higher. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://biblio.ugent.be/publication/8647789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: biblio.ugent.be">[Ghent University Bibliography]</a><span class="citation-popover" role="note"><span class="citation-popover-source">biblio.ugent.be</span><span class="citation-popover-title">Ghent University Bibliography How many words do we read per minute?</span><span class="citation-popover-snippet">A review and meta...by M Brysbaert · 2019 · Cited by 870 — The reasons for the overestimates are reviewed. The average oral reading rate...</span></span></span>
+The large meta-analysis by Marc Brysbaert and colleagues found average oral reading at 183 wpm, while silent reading averages were roughly 30–40% higher.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://biblio.ugent.be/publication/8647789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: biblio.ugent.be">[Ghent University Bibliography]</a><span class="citation-popover" role="note"><span class="citation-popover-source">biblio.ugent.be</span><span class="citation-popover-title">Ghent University Bibliography How many words do we read per minute?</span><span class="citation-popover-snippet">A review and meta...by M Brysbaert · 2019 · Cited by 870 — The reasons for the overestimates are reviewed. The average oral reading rate...</span></span></span>
 
-Other studies comparing silent and oral reading have reported similar differences. In one comparison, participants took about 30% longer to complete passages when reading aloud than when reading silently, despite comparable comprehension outcomes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/227764676_Silent_versus_oral_reading_comprehension" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">227764676 Silent versus oral reading comprehension</span><span class="citation-popover-snippet">comprehension, as well as reading speed...Read more...</span></span></span>
+Other studies comparing silent and oral reading have reported similar differences. In one comparison, participants took about 30% longer to complete passages when reading aloud than when reading silently, despite comparable comprehension outcomes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/227764676_Silent_versus_oral_reading_comprehension" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">227764676 Silent versus oral reading comprehension</span><span class="citation-popover-snippet">comprehension, as well as reading speed...Read more...</span></span></span>
 
 This helps explain why attempts to increase reading speed by training speech mechanisms alone usually have limited effects. Once articulation becomes the bottleneck, gains are constrained by how quickly language can be spoken clearly.
 
 ## Average Adult Oral Reading Rates
 
-The strongest benchmark comes from the review and meta-analysis of 190 studies and more than 18,000 participants. Within that dataset, oral reading rates were estimated from 77 studies involving nearly 6,000 readers. The average adult oral reading rate was approximately 183 wpm. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://biblio.ugent.be/publication/8647789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: biblio.ugent.be">[Ghent University Bibliography]</a><span class="citation-popover" role="note"><span class="citation-popover-source">biblio.ugent.be</span><span class="citation-popover-title">Ghent University Bibliography How many words do we read per minute?</span><span class="citation-popover-snippet">A review and meta...by M Brysbaert · 2019 · Cited by 870 — The reasons for the overestimates are reviewed. The average oral reading rate...</span></span></span>
+The strongest benchmark comes from the review and meta-analysis of 190 studies and more than 18,000 participants. Within that dataset, oral reading rates were estimated from 77 studies involving nearly 6,000 readers. The average adult oral reading rate was approximately 183 wpm.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://biblio.ugent.be/publication/8647789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: biblio.ugent.be">[Ghent University Bibliography]</a><span class="citation-popover" role="note"><span class="citation-popover-source">biblio.ugent.be</span><span class="citation-popover-title">Ghent University Bibliography How many words do we read per minute?</span><span class="citation-popover-snippet">A review and meta...by M Brysbaert · 2019 · Cited by 870 — The reasons for the overestimates are reviewed. The average oral reading rate...</span></span></span>
 
 This figure should be understood as a broad average rather than a fixed target. Actual performance varies according to:
 
@@ -329,7 +329,7 @@ This figure should be understood as a broad average rather than a fixed target. 
 * Reader experience
 * Whether accuracy or performance is emphasised
 
-For example, a reader delivering a public reading, recording an audiobook, or reading [technical]({{ 'technical-texts/' | relative_url }}) material may slow substantially below 183 wpm in order to preserve clarity. Conversely, an experienced speaker reading familiar material may exceed that figure. The important point is that oral reading remains much closer to natural speech rates than to the fastest silent reading rates. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2649675/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Estimates of normal speaking rate range from 120 to 200 words per minute...Read more...</span></span></span>
+For example, a reader delivering a public reading, recording an audiobook, or reading [technical]({{ 'technical-texts/' | relative_url }}) material may slow substantially below 183 wpm in order to preserve clarity. Conversely, an experienced speaker reading familiar material may exceed that figure. The important point is that oral reading remains much closer to natural speech rates than to the fastest silent reading rates.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2649675/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Estimates of normal speaking rate range from 120 to 200 words per minute...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef_normal_adult_de8a12_oral_reading_ca2786-Illustration-2-dark.svg" | relative_url }}" alt="Reading Aloud illustration 2" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef_normal_adult_de8a12_oral_reading_ca2786-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef_normal_adult_de8a12_oral_reading_ca2786-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -337,7 +337,7 @@ For example, a reader delivering a public reading, recording an audiobook, or re
 
 A common assumption is that highly skilled readers should eventually eliminate the gap between silent and oral reading. Evidence suggests otherwise.
 
-Recent work examining articulation speed and silent reading found that silent reading rates are not simply determined by how quickly someone can physically speak. Readers often process written language more rapidly than their overt speech rate would suggest. This means that even when speech production becomes faster, silent reading can remain faster still. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10360968/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNo Correlation Between Articulation Speed and Silent</span><span class="citation-popover-snippet">by M Brysbaert · 2023 · Cited by 12 — First, it was found that the average reading rate in silent reading is not 300 wpm but 240 wpm (...</span></span></span>
+Recent work examining articulation speed and silent reading found that silent reading rates are not simply determined by how quickly someone can physically speak. Readers often process written language more rapidly than their overt speech rate would suggest. This means that even when speech production becomes faster, silent reading can remain faster still.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10360968/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCNo Correlation Between Articulation Speed and Silent</span><span class="citation-popover-snippet">by M Brysbaert · 2023 · Cited by 12 — First, it was found that the average reading rate in silent reading is not 300 wpm but 240 wpm (...</span></span></span>
 
 In practical terms, the ceiling for oral reading is set by speech production, while the ceiling for silent reading is influenced by visual processing, language knowledge, and comprehension demands. Because these systems are partly independent, the two rates do not converge completely.
 
@@ -364,7 +364,7 @@ Reading aloud may help readers notice:
 
 Writers frequently read drafts aloud for this reason. Hearing text spoken exposes problems that remain invisible during silent reading.
 
-For learners, oral reading can also strengthen decoding and fluency skills, particularly when accuracy and expression are more important than raw speed. Repeated reading exercises are commonly used to improve oral fluency because they help readers move from hesitant word-by-word delivery toward smoother phrasing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2006.14320" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Analyzing Effect of Repeated Reading on Oral Fluency and Narrative Production for Computer-Assisted Language LearningJune 25, 2020...</span><span class="citation-popover-meta">Published: June 25, 2020</span></span></span>
+For learners, oral reading can also strengthen decoding and fluency skills, particularly when accuracy and expression are more important than raw speed. Repeated reading exercises are commonly used to improve oral fluency because they help readers move from hesitant word-by-word delivery toward smoother phrasing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2006.14320" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Analyzing Effect of Repeated Reading on Oral Fluency and Narrative Production for Computer-Assisted Language LearningJune 25, 2020...</span><span class="citation-popover-meta">Published: June 25, 2020</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/i0cQu7vnDzs" title="Reading Fluency: Speed, Accuracy, and Expression" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=i0cQu7vnDzs" target="_blank" rel="noopener noreferrer">Reading Fluency: Speed, Accuracy, and Expression</a></p><p class="youtube-embed-meta">Channel: Growing Primary &middot; Views: 122.7K &middot; Uploaded: September 2023 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=i0cQu7vnDzs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=i0cQu7vnDzs">Open on YouTube</a></p></div></div></div>
@@ -375,201 +375,201 @@ One of the most useful lessons from oral reading research is that not every spee
 
 If you [measure]({{ 'measure/' | relative_url }}) your reading speed by reading aloud, you are largely measuring a combination of reading skill and speaking speed. The result will almost always underestimate how quickly you can process text silently. Conversely, comparing a silent reading speed to an oral reading benchmark can make normal readers appear unusually fast.
 
-For adults seeking to increase reading speed, oral reading is therefore a poor benchmark for overall reading efficiency. The speech bottleneck caps performance long before the visual and language systems reach their own limits. Research consistently shows that normal silent reading exceeds oral reading speed, and that the difference is a predictable consequence of speech production rather than a sign of superior or inferior reading ability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://biblio.ugent.be/publication/8647789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: biblio.ugent.be">[Ghent University Bibliography+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">biblio.ugent.be</span><span class="citation-popover-title">Ghent University Bibliography How many words do we read per minute?</span><span class="citation-popover-snippet">A review and meta...by M Brysbaert · 2019 · Cited by 870 — The reasons for the overestimates are reviewed. The average oral reading rate...</span></span></span>
+For adults seeking to increase reading speed, oral reading is therefore a poor benchmark for overall reading efficiency. The speech bottleneck caps performance long before the visual and language systems reach their own limits. Research consistently shows that normal silent reading exceeds oral reading speed, and that the difference is a predictable consequence of speech production rather than a sign of superior or inferior reading ability.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://biblio.ugent.be/publication/8647789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: biblio.ugent.be">[Ghent University Bibliography+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">biblio.ugent.be</span><span class="citation-popover-title">Ghent University Bibliography How many words do we read per minute?</span><span class="citation-popover-snippet">A review and meta...by M Brysbaert · 2019 · Cited by 870 — The reasons for the overestimates are reviewed. The average oral reading rate...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DGDkTyOt7gQ" title="Subvocalization | Things About Speed Reading Nobody Tells You" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DGDkTyOt7gQ" target="_blank" rel="noopener noreferrer">Subvocalization | Things About Speed Reading Nobody Tells You</a></p><p class="youtube-embed-meta">Channel: How to Genius &middot; Views: 165.9K &middot; Uploaded: March 2021 &middot; Length: 4 minutes 22 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DGDkTyOt7gQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DGDkTyOt7gQ">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Much Slower Is Reading Out Loud?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Much Slower Is Reading Out Loud?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Distinguishes different purposes and methods of reading, including careful versus rapid reading.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Distinguishes different purposes and methods of reading, including careful versus rapid reading.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Evelyn+Wood+Seven-Day+Speed+Reading+and+Learning+Program+Stanley+D.+Frank&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Evelyn Wood Seven-Day Speed Reading and Learning Program on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/806088-M.jpg" alt="Cover for The Evelyn Wood Seven-Day Speed Reading and Learning Program" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Evelyn+Wood+Seven-Day+Speed+Reading+and+Learning+Program+Stanley+D.+Frank&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Evelyn Wood Seven-Day Speed Reading and Learning Program">The Evelyn Wood Seven-Day Speed Reading and Learning Program</a>
-        </h4>
-        <p class="fr-book-author">By Stanley D. Frank</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Evelyn+Wood+Seven-Day+Speed+Reading+and+Learning+Program+Stanley+D.+Frank&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Evelyn Wood Seven-Day Speed Reading and Learning Program on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/806088-M.jpg" alt="Cover for The Evelyn Wood Seven-Day Speed Reading and Learning Program" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Evelyn+Wood+Seven-Day+Speed+Reading+and+Learning+Program+Stanley+D.+Frank&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Evelyn Wood Seven-Day Speed Reading and Learning Program">The Evelyn Wood Seven-Day Speed Reading and Learning Program</a>
+</h4>
+<p class="fr-book-author">By Stanley D. Frank</p>
         
-        <p class="fr-book-desc">First published 1994. Subjects: Speed reading, Study skills, Reading.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Evelyn+Wood+Seven-Day+Speed+Reading+and+Learning+Program+Stanley+D.+Frank&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1994. Subjects: Speed reading, Study skills, Reading.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Evelyn+Wood+Seven-Day+Speed+Reading+and+Learning+Program+Stanley+D.+Frank&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading in the Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6649793-M.jpg" alt="Cover for Reading in the Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading in the Brain">Reading in the Brain</a>
-        </h4>
-        <p class="fr-book-author">By Stanislas Dehaene</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading in the Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6649793-M.jpg" alt="Cover for Reading in the Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading in the Brain">Reading in the Brain</a>
+</h4>
+<p class="fr-book-author">By Stanislas Dehaene</p>
         
-        <p class="fr-book-desc">First published 2009. Subjects: Science, Nonfiction, Psychology, Psychology of Reading, Reading.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2009. Subjects: Science, Nonfiction, Psychology, Psychology of Reading, Reading.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Speed Reading Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/375099-M.jpg" alt="Cover for The Speed Reading Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Speed Reading Book">The Speed Reading Book</a>
-        </h4>
-        <p class="fr-book-author">By Tony Buzan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Speed Reading Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/375099-M.jpg" alt="Cover for The Speed Reading Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Speed Reading Book">The Speed Reading Book</a>
+</h4>
+<p class="fr-book-author">By Tony Buzan</p>
         
-        <p class="fr-book-desc">First published 1997. Subjects: Speed reading, Développement d&#x27;aptitudes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1997. Subjects: Speed reading, Développement d&#x27;aptitudes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Evelyn+Wood+Seven+Day+Speed+Reading+and+Learning+Program&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Evelyn Wood Seven Day Speed Reading and Learning Program</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Reading+in+the+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Reading in the Brain</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Evelyn+Wood+Seven+Day+Speed+Reading+and+Learning+Program&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Evelyn Wood Seven Day Speed Reading and Learning Program</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Reading+in+the+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Reading in the Brain</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover mug" data-ebay-reference="reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Book Lover Mug Introvert Coffee Cup Birthday Gift Readers and Bookworms"><img src="{{ '/assets/images/marketplace-covers/64f50793c703ff57d3ca.jpg' | relative_url }}" alt="Listing image for Funny Book Lover Mug Introvert Coffee Cup Birthday Gift Readers and Bookworms" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover mug" data-ebay-reference="reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug" target="_blank" rel="sponsored noopener noreferrer">Funny Book Lover Mug Introvert Coffee Cup Birthday Gift Readers and Bookworms</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover mug" data-ebay-reference="reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for book lover mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: book lover mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover mug" data-ebay-reference="reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover mug" data-ebay-reference="reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Book Lover Mug Introvert Coffee Cup Birthday Gift Readers and Bookworms"><img src="{{ '/assets/images/marketplace-covers/64f50793c703ff57d3ca.jpg' | relative_url }}" alt="Listing image for Funny Book Lover Mug Introvert Coffee Cup Birthday Gift Readers and Bookworms" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover mug" data-ebay-reference="reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug" target="_blank" rel="sponsored noopener noreferrer">Funny Book Lover Mug Introvert Coffee Cup Birthday Gift Readers and Bookworms</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover mug" data-ebay-reference="reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for book lover mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: book lover mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover mug" data-ebay-reference="reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover mug" data-ebay-reference="reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Book Lover Mug, Custom Name Floral Bookish Mug, Pastel Blue"><img src="{{ '/assets/images/marketplace-covers/9a2c6cc25c4cb57aacc1.jpg' | relative_url }}" alt="Listing image for Personalised Book Lover Mug, Custom Name Floral Bookish Mug, Pastel Blue" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover mug" data-ebay-reference="reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug" target="_blank" rel="sponsored noopener noreferrer">Personalised Book Lover Mug, Custom Name Floral Bookish Mug, Pastel Blue</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover mug" data-ebay-reference="reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for book lover mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: book lover mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover mug" data-ebay-reference="reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover mug" data-ebay-reference="reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Book Lover Mug, Custom Name Floral Bookish Mug, Pastel Blue"><img src="{{ '/assets/images/marketplace-covers/9a2c6cc25c4cb57aacc1.jpg' | relative_url }}" alt="Listing image for Personalised Book Lover Mug, Custom Name Floral Bookish Mug, Pastel Blue" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover mug" data-ebay-reference="reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug" target="_blank" rel="sponsored noopener noreferrer">Personalised Book Lover Mug, Custom Name Floral Bookish Mug, Pastel Blue</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover mug" data-ebay-reference="reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for book lover mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: book lover mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover mug" data-ebay-reference="reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover mug" data-ebay-reference="reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Book Lover Mug with Name | Gift for Readers Christmas Stocking Filler Pink Theme"><img src="{{ '/assets/images/marketplace-covers/556064676312a6df0b73.jpg' | relative_url }}" alt="Listing image for Book Lover Mug with Name | Gift for Readers Christmas Stocking Filler Pink Theme" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover mug" data-ebay-reference="reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug" target="_blank" rel="sponsored noopener noreferrer">Book Lover Mug with Name | Gift for Readers Christmas Stocking Filler Pink Theme</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover mug" data-ebay-reference="reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for book lover mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: book lover mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover mug" data-ebay-reference="reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover mug" data-ebay-reference="reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Book Lover Mug with Name | Gift for Readers Christmas Stocking Filler Pink Theme"><img src="{{ '/assets/images/marketplace-covers/556064676312a6df0b73.jpg' | relative_url }}" alt="Listing image for Book Lover Mug with Name | Gift for Readers Christmas Stocking Filler Pink Theme" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover mug" data-ebay-reference="reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug" target="_blank" rel="sponsored noopener noreferrer">Book Lover Mug with Name | Gift for Readers Christmas Stocking Filler Pink Theme</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover mug" data-ebay-reference="reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for book lover mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: book lover mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover mug" data-ebay-reference="reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover mug" data-ebay-reference="reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Book Lover Mug Funny Coffee Tea Cup Present Office Family Gift Sarcastic Books"><img src="{{ '/assets/images/marketplace-covers/d691038f38b91acdbdc0.jpg' | relative_url }}" alt="Listing image for Book Lover Mug Funny Coffee Tea Cup Present Office Family Gift Sarcastic Books" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover mug" data-ebay-reference="reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug" target="_blank" rel="sponsored noopener noreferrer">Book Lover Mug Funny Coffee Tea Cup Present Office Family Gift Sarcastic Books</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover mug" data-ebay-reference="reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for book lover mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: book lover mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover mug" data-ebay-reference="reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover mug" data-ebay-reference="reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover mug" data-ebay-reference="reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Book Lover Mug Funny Coffee Tea Cup Present Office Family Gift Sarcastic Books"><img src="{{ '/assets/images/marketplace-covers/d691038f38b91acdbdc0.jpg' | relative_url }}" alt="Listing image for Book Lover Mug Funny Coffee Tea Cup Present Office Family Gift Sarcastic Books" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover mug" data-ebay-reference="reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug" target="_blank" rel="sponsored noopener noreferrer">Book Lover Mug Funny Coffee Tea Cup Present Office Family Gift Sarcastic Books</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover mug" data-ebay-reference="reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for book lover mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: book lover mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover mug" data-ebay-reference="reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover mug" data-ebay-reference="reading-aloud-how-much-slower-is-reading-out-loud-increasing-book-lover-mug" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -585,7 +585,7 @@ For adults seeking to increase reading speed, oral reading is therefore a poor b
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -605,7 +605,7 @@ For adults seeking to increase reading speed, oral reading is therefore a poor b
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -637,7 +637,7 @@ For adults seeking to increase reading speed, oral reading is therefore a poor b
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -689,7 +689,7 @@ For adults seeking to increase reading speed, oral reading is therefore a poor b
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -734,7 +734,7 @@ For adults seeking to increase reading speed, oral reading is therefore a poor b
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -775,182 +775,182 @@ For adults seeking to increase reading speed, oral reading is therefore a poor b
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) How many words do we read per minute?  
-   Link: <a href="https://www.researchgate.net/publication/335174808_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/335174808_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A review...Aug 15, 2019 — We estimate that the average silent reading rate for adults in English is 238 words per minute (wpm) for non-f...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/335174808_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/335174808_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A review...Aug 15, 2019 — We estimate that the average silent reading rate for adults in English is 238 words per minute (wpm) for non-f...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2649675/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2649675/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Estimates of normal speaking rate range from 120 to 200 words per minute...Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2649675/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2649675/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Estimates of normal speaking rate range from 120 to 200 words per minute...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCNo Correlation Between Articulation Speed and Silent  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10360968/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10360968/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by M Brysbaert · 2023 · Cited by 12 — First, it was found that the average reading rate in silent reading is not 300 wpm but 240 wpm (...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10360968/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10360968/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by M Brysbaert · 2023 · Cited by 12 — First, it was found that the average reading rate in silent reading is not 300 wpm but 240 wpm (...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
    Title: 227764676 Silent versus oral reading comprehension  
-   Link: <a href="https://www.researchgate.net/publication/227764676_Silent_versus_oral_reading_comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/227764676_Silent_versus_oral_reading_comprehension</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>comprehension, as well as reading speed...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/227764676_Silent_versus_oral_reading_comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/227764676_Silent_versus_oral_reading_comprehension</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>comprehension, as well as reading speed...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) How many words do we read per minute?  
-   Link: <a href="https://www.researchgate.net/publication/332380784_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/332380784_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A review...by M Brysbaert · Cited by 870 — The average oral reading rate (based on 77 studies and 5,965 participants) is 183 wpm. Within...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/332380784_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/332380784_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A review...by M Brysbaert · Cited by 870 — The average oral reading rate (based on 77 studies and 5,965 participants) is 183 wpm. Within...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2006.14320" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2006.14320</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Analyzing Effect of Repeated Reading on Oral Fluency and Narrative Production for Computer-Assisted Language LearningJune 25, 2020...</p></details>
+   Link:<a href="https://arxiv.org/abs/2006.14320" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2006.14320</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Analyzing Effect of Repeated Reading on Oral Fluency and Narrative Production for Computer-Assisted Language LearningJune 25, 2020...</p></details>
    Published: June 25, 2020  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/377809043_Relationship_between_Speed_of_Reading_and_Reading_Comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/377809043_Relationship_between_Speed_of_Reading_and_Reading_Comprehension</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>January 30, 2024 — The present study is an attempt to find if there is a relationship between silent reading speed and readin...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/377809043_Relationship_between_Speed_of_Reading_and_Reading_Comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/377809043_Relationship_between_Speed_of_Reading_and_Reading_Comprehension</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 30, 2024 — The present study is an attempt to find if there is a relationship between silent reading speed and readin...</p></details>
    Published: January 30, 2024  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/229734412_Speech_Rate_and_NNS_Comprehension_A_Preliminary_Study_in_Time-Benefit_Analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/229734412_Speech_Rate_and_NNS_Comprehension_A_Preliminary_Study_in_Time-Benefit_Analysis</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>e speech rate that is unlikely to undermine learners&#x27; comprehension (e.g....Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/229734412_Speech_Rate_and_NNS_Comprehension_A_Preliminary_Study_in_Time-Benefit_Analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/229734412_Speech_Rate_and_NNS_Comprehension_A_Preliminary_Study_in_Time-Benefit_Analysis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e speech rate that is unlikely to undermine learners&#x27; comprehension (e.g....Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/393991327_To_Read_Aloud_or_Not_A_Comparative_Study_of_the_Two_Reading_Methods" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/393991327_To_Read_Aloud_or_Not_A_Comparative_Study_of_the_Two_Reading_Methods</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>To Read Aloud or Not: A Comparative Study of the Two...24 Jul 2025 — The findings of the study indicate a positive impact of reading alo...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/393991327_To_Read_Aloud_or_Not_A_Comparative_Study_of_the_Two_Reading_Methods" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/393991327_To_Read_Aloud_or_Not_A_Comparative_Study_of_the_Two_Reading_Methods</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>To Read Aloud or Not: A Comparative Study of the Two...24 Jul 2025 — The findings of the study indicate a positive impact of reading alo...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
    Title: Reading aloud rates as a function of text length  
-   Link: <a href="https://www.researchgate.net/figure/Reading-aloud-rates-as-a-function-of-text-length-Each-dot-is-a-study-from-Table-3_fig3_335174808" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Reading-aloud-rates-as-a-function-of-text-length-Each-dot-is-a-study-from-Table-3_fig3_335174808</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Each dot is...The amount of time each text would take to read aloud by the teacher was calculated using a 180-day school year, assuming a...</p></details>
+   Link:<a href="https://www.researchgate.net/figure/Reading-aloud-rates-as-a-function-of-text-length-Each-dot-is-a-study-from-Table-3_fig3_335174808" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Reading-aloud-rates-as-a-function-of-text-length-Each-dot-is-a-study-from-Table-3_fig3_335174808</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Each dot is...The amount of time each text would take to read aloud by the teacher was calculated using a 180-day school year, assuming a...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: biblio.ugent.be  
    Title: Ghent University Bibliography How many words do we read per minute?  
-   Link: <a href="https://biblio.ugent.be/publication/8647789" target="_blank" rel="noopener noreferrer nofollow">https://biblio.ugent.be/publication/8647789</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A review and meta...by M Brysbaert · 2019 · Cited by 870 — The reasons for the overestimates are reviewed. The average oral reading rate...</p></details>
+   Link:<a href="https://biblio.ugent.be/publication/8647789" target="_blank" rel="noopener noreferrer nofollow">https://biblio.ugent.be/publication/8647789</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A review and meta...by M Brysbaert · 2019 · Cited by 870 — The reasons for the overestimates are reviewed. The average oral reading rate...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Adult" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Adult</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AdultAn adult is an animal that has reached full growth. [1] The biological definition of adult is an organism that has reached sexual...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Adult" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Adult</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AdultAn adult is an animal that has reached full growth. [1] The biological definition of adult is an organism that has reached sexual...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Average" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Average</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AverageIn mathematics, an average of a collection or group is a value that is most central, common, or typical in some sense, and repr...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Average" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Average</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AverageIn mathematics, an average of a collection or group is a value that is most central, common, or typical in some sense, and repr...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3131673/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3131673/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Among Oral Reading Fluency, Silent Reading... - PMCThe present study examined oral and silent reading fluency and their relations with r...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3131673/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3131673/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Among Oral Reading Fluency, Silent Reading... - PMCThe present study examined oral and silent reading fluency and their relations with r...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/34516216/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/34516216/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Thus...R...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/34516216/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/34516216/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thus...R...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6773961/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6773961/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by J Yoo · 2019 · Cited by 14 — For male speakers, the average speech rates for clear and conversational speech were 103.1 (SD=14.1) e...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6773961/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6773961/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by J Yoo · 2019 · Cited by 14 — For male speakers, the average speech rates for clear and conversational speech were 103.1 (SD=14.1) e...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10132265/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10132265/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>like me: Exploring the feedback speech rate regulation...by J Wang · 2023 · Cited by 10 — The six feedback speech rates of the system we...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10132265/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10132265/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>like me: Exploring the feedback speech rate regulation...by J Wang · 2023 · Cited by 10 — The six feedback speech rates of the system we...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4461240/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4461240/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>average reading rates (188.4 words per minute, Walker, 1988). Klich and May reported a rate of 14 WPM less during their metronome conditi...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4461240/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4461240/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>average reading rates (188.4 words per minute, Walker, 1988). Klich and May reported a rate of 14 WPM less during their metronome conditi...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11905113/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11905113/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>manual and automated methods for calculating...by LJ Arzbecker · 2025 · Cited by 2 — This study compared manual and automated methods fo...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11905113/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11905113/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>manual and automated methods for calculating...by LJ Arzbecker · 2025 · Cited by 2 — This study compared manual and automated methods fo...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10374040/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10374040/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>speech with pauses inserted between words...by S Deoisres · 2023 · Cited by 10 — Our results show that continuous speech with additional...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10374040/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10374040/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>speech with pauses inserted between words...by S Deoisres · 2023 · Cited by 10 — Our results show that continuous speech with additional...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/us/dictionary/english/adult" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/us/dictionary/english/adult</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An adult under English law is someone over 18 years old. Adults pay an admission charge but...Read more...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/us/dictionary/english/adult" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/us/dictionary/english/adult</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An adult under English law is someone over 18 years old. Adults pay an admission charge but...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: teachingvisuallyimpaired.com  
    Title: reading rates  
-   Link: <a href="https://www.teachingvisuallyimpaired.com/reading-rates.html" target="_blank" rel="noopener noreferrer nofollow">https://www.teachingvisuallyimpaired.com/reading-rates.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>14 Jun 2025 — 1st grade – 60WPM oral reading, less than 81 WPM silent reading · 2nd grade – 70 WPM oral reading, 82-108 WPM [silent readin](&amp;#123;&amp;#123; &#x27;inner-rhythm/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link:<a href="https://www.teachingvisuallyimpaired.com/reading-rates.html" target="_blank" rel="noopener noreferrer nofollow">https://www.teachingvisuallyimpaired.com/reading-rates.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>14 Jun 2025 — 1st grade – 60WPM oral reading, less than 81 WPM silent reading · 2nd grade – 70 WPM oral reading, 82-108 WPM [silent readin](&amp;#123;&amp;#123; &#x27;inner-rhythm/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: etymonline.com  
-   Link: <a href="https://www.etymonline.com/word/adult" target="_blank" rel="noopener noreferrer nofollow">https://www.etymonline.com/word/adult</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Etymology, Origin &amp; Meaning&quot;grown, mature,&quot; from Latin adultus &quot;grown up, mature, adult, ripe,&quot; past participle of adolescere &quot;grow up, c...</p></details>
+   Link:<a href="https://www.etymonline.com/word/adult" target="_blank" rel="noopener noreferrer nofollow">https://www.etymonline.com/word/adult</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Etymology, Origin &amp; Meaning&quot;grown, mature,&quot; from Latin adultus &quot;grown up, mature, adult, ripe,&quot; past participle of adolescere &quot;grow up, c...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: calculatorsoup.com  
-   Link: <a href="https://www.calculatorsoup.com/calculators/statistics/average.php" target="_blank" rel="noopener noreferrer nofollow">https://www.calculatorsoup.com/calculators/statistics/average.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mean Calculator | Average CalculatorNov 4, 2025 — Calculate the average of a set of numbers. Mean calculator finds the mean by adding all...</p></details>
+   Link:<a href="https://www.calculatorsoup.com/calculators/statistics/average.php" target="_blank" rel="noopener noreferrer nofollow">https://www.calculatorsoup.com/calculators/statistics/average.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mean Calculator | Average CalculatorNov 4, 2025 — Calculate the average of a set of numbers. Mean calculator finds the mean by adding all...</p></details>
 
 ### Additional References
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/adult" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/adult</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ADULT Definition &amp; Meaning3 days ago — 1. fully developed and mature: grown-up; an adult lion. 2. of, relating to, intended for, or befi...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/adult" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/adult</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ADULT Definition &amp; Meaning3 days ago — 1. fully developed and mature: grown-up; an adult lion. 2. of, relating to, intended for, or befi...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/average" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/average</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AVERAGE Definition &amp; Meaning3 days ago — The meaning of AVERAGE is a single value (such as a mean, mode, or median) that summarizes or re...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/average" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/average</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AVERAGE Definition &amp; Meaning3 days ago — The meaning of AVERAGE is a single value (such as a mean, mode, or median) that summarizes or re...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: cognifit.com  
-   Link: <a href="https://www.cognifit.com/?srsltid=AfmBOoqVUbf6rliZl_rHZRHkV56W4XObQCVOMer9HAnuLp3Fr9Oi1YwZ" target="_blank" rel="noopener noreferrer nofollow">https://www.cognifit.com/?srsltid=AfmBOoqVUbf6rliZl_rHZRHkV56W4XObQCVOMer9HAnuLp3Fr9Oi1YwZ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Brain Training | Trusted by DoctorsTrusted by Researchers and Doctors. Cognitive training is gaining traction among doctors and...</p></details>
+   Link:<a href="https://www.cognifit.com/?srsltid=AfmBOoqVUbf6rliZl_rHZRHkV56W4XObQCVOMer9HAnuLp3Fr9Oi1YwZ" target="_blank" rel="noopener noreferrer nofollow">https://www.cognifit.com/?srsltid=AfmBOoqVUbf6rliZl_rHZRHkV56W4XObQCVOMer9HAnuLp3Fr9Oi1YwZ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brain Training | Trusted by DoctorsTrusted by Researchers and Doctors. Cognitive training is gaining traction among doctors and...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: neurodirect.co.uk  
-   Link: <a href="https://neurodirect.co.uk/screening-tests/online-autism-tests/raads-r-test/" target="_blank" rel="noopener noreferrer nofollow">https://neurodirect.co.uk/screening-tests/online-autism-tests/raads-r-test/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RAADS-R Test: Free Online Autism Test for AdultsTake the free RAADS-R test online for adults. Complete this autism screening test, unders...</p></details>
+   Link:<a href="https://neurodirect.co.uk/screening-tests/online-autism-tests/raads-r-test/" target="_blank" rel="noopener noreferrer nofollow">https://neurodirect.co.uk/screening-tests/online-autism-tests/raads-r-test/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RAADS-R Test: Free Online Autism Test for AdultsTake the free RAADS-R test online for adults. Complete this autism screening test, unders...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: virtualspeech.com  
-   Link: <a href="https://virtualspeech.com/blog/average-speaking-rate-words-per-minute" target="_blank" rel="noopener noreferrer nofollow">https://virtualspeech.com/blog/average-speaking-rate-words-per-minute</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Average Speaking Rate and Words per MinuteAccording to the National Center for Voice and Speech, the average conversation rate for Englis...</p></details>
+   Link:<a href="https://virtualspeech.com/blog/average-speaking-rate-words-per-minute" target="_blank" rel="noopener noreferrer nofollow">https://virtualspeech.com/blog/average-speaking-rate-words-per-minute</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Average Speaking Rate and Words per MinuteAccording to the National Center for Voice and Speech, the average conversation rate for Englis...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: calculator.net  
-   Link: <a href="https://www.calculator.net/average-calculator.html" target="_blank" rel="noopener noreferrer nofollow">https://www.calculator.net/average-calculator.html</a>  
+   Link:<a href="https://www.calculator.net/average-calculator.html" target="_blank" rel="noopener noreferrer nofollow">https://www.calculator.net/average-calculator.html</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: scholarwithin.com  
-   Link: <a href="https://scholarwithin.com/average-reading-speed?srsltid=AfmBOopL2fAYKDVd5mWss7JJJORsjFLZmTuqbWLJFOijHRWBFZ-QFppX" target="_blank" rel="noopener noreferrer nofollow">https://scholarwithin.com/average-reading-speed?srsltid=AfmBOopL2fAYKDVd5mWss7JJJORsjFLZmTuqbWLJFOijHRWBFZ-QFppX</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Adults who read aloud average 183 words per minute. With more and more new research on neuroplasticity, we...Read more...</p></details>
+   Link:<a href="https://scholarwithin.com/average-reading-speed?srsltid=AfmBOopL2fAYKDVd5mWss7JJJORsjFLZmTuqbWLJFOijHRWBFZ-QFppX" target="_blank" rel="noopener noreferrer nofollow">https://scholarwithin.com/average-reading-speed?srsltid=AfmBOopL2fAYKDVd5mWss7JJJORsjFLZmTuqbWLJFOijHRWBFZ-QFppX</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Adults who read aloud average 183 words per minute. With more and more new research on neuroplasticity, we...Read more...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=mJxS_Q7xVYw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mJxS_Q7xVYw</a>  
+   Link:<a href="https://www.youtube.com/watch?v=mJxS_Q7xVYw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mJxS_Q7xVYw</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: psychologicabelgica.com  
    Title: This is about twice as fast as the typical speech rate (140–180 wpm)  
-   Link: <a href="https://psychologicabelgica.com/articles/10.5334/pb.1189" target="_blank" rel="noopener noreferrer nofollow">https://psychologicabelgica.com/articles/10.5334/pb.1189</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychologica BelgicaNo Correlation Between Articulation Speed and Silent...by M Brysbaert · 2023 · Cited by 12 — average reading rate in...</p></details>
+   Link:<a href="https://psychologicabelgica.com/articles/10.5334/pb.1189" target="_blank" rel="noopener noreferrer nofollow">https://psychologicabelgica.com/articles/10.5334/pb.1189</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Psychologica BelgicaNo Correlation Between Articulation Speed and Silent...by M Brysbaert · 2023 · Cited by 12 — average reading rate in...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: law.cornell.edu  
-   Link: <a href="https://www.law.cornell.edu/wex/adult" target="_blank" rel="noopener noreferrer nofollow">https://www.law.cornell.edu/wex/adult</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The age of majority refers to the age at which a person will be defined by law to be an adult.Read more...</p></details>
+   Link:<a href="https://www.law.cornell.edu/wex/adult" target="_blank" rel="noopener noreferrer nofollow">https://www.law.cornell.edu/wex/adult</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The age of majority refers to the age at which a person will be defined by law to be an adult.Read more...</p></details>

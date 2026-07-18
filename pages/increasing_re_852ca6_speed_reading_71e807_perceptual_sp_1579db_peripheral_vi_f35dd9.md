@@ -269,17 +269,17 @@ image: /assets/images/increasing_re_852ca6_speed_reading_71e807_perceptual_sp_15
 
 ## Introduction
 
-Many [speed-reading]({{ 'myths/' | relative_url }}) claims assume that peripheral vision can be trained to read entire lines of text at once. The evidence from vision science points in a different direction. Peripheral vision is valuable for guiding eye movements, detecting page layout, and providing limited preview information about upcoming words, but it lacks the precision needed to identify large amounts of text accurately. Reading depends on recognising fine letter patterns, and that ability falls off rapidly outside the centre of gaze. As a result, even highly skilled readers still move their eyes through a line of text rather than extracting every word from the visual periphery. Research on [perceptual span]({{ 'perceptual-span/' | relative_url }}), visual acuity, and crowding helps explain why reading whole lines through peripheral vision remains biologically unrealistic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEye movements, the perceptual span, and reading speed</span><span class="citation-popover-snippet">by K Rayner · 2010 · Cited by 467 — The main findings were that fast readers (reading at about 330 wpm) had a larger perceptual span t...</span></span></span>
+Many [speed-reading]({{ 'myths/' | relative_url }}) claims assume that peripheral vision can be trained to read entire lines of text at once. The evidence from vision science points in a different direction. Peripheral vision is valuable for guiding eye movements, detecting page layout, and providing limited preview information about upcoming words, but it lacks the precision needed to identify large amounts of text accurately. Reading depends on recognising fine letter patterns, and that ability falls off rapidly outside the centre of gaze. As a result, even highly skilled readers still move their eyes through a line of text rather than extracting every word from the visual periphery. Research on [perceptual span]({{ 'perceptual-span/' | relative_url }}), visual acuity, and crowding helps explain why reading whole lines through peripheral vision remains biologically unrealistic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEye movements, the perceptual span, and reading speed</span><span class="citation-popover-snippet">by K Rayner · 2010 · Cited by 467 — The main findings were that fast readers (reading at about 330 wpm) had a larger perceptual span t...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_speed_reading_71e807_perceptual_sp_1579db_peripheral_vi_f35dd9-Illustration-1-dark.svg" | relative_url }}" alt="Peripheral Vision illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_speed_reading_71e807_perceptual_sp_1579db_peripheral_vi_f35dd9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_speed_reading_71e807_perceptual_sp_1579db_peripheral_vi_f35dd9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Sharp Vision Drops Outside the Fovea
 
-The key [limitation]({{ 'reading-limits/' | relative_url }}) is the structure of human vision itself. Detailed vision is concentrated in a tiny central retinal region called the fovea. When reading, the word being fixated falls on this high-resolution area. As distance from the point of fixation increases, visual acuity declines and fine detail becomes progressively harder to distinguish. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.verywellhealth.com/central-vision-5209526" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verywellhealth.com">[Verywell Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verywellhealth.com</span><span class="citation-popover-title">Verywell Health What Is Central Vision?</span><span class="citation-popover-snippet">It is the type of vision typically associated with having &quot;good vision,&quot; often measured as 20/20 visual acuity. Central vision depends on...</span></span></span>
+The key [limitation]({{ 'reading-limits/' | relative_url }}) is the structure of human vision itself. Detailed vision is concentrated in a tiny central retinal region called the fovea. When reading, the word being fixated falls on this high-resolution area. As distance from the point of fixation increases, visual acuity declines and fine detail becomes progressively harder to distinguish.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.verywellhealth.com/central-vision-5209526" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verywellhealth.com">[Verywell Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verywellhealth.com</span><span class="citation-popover-title">Verywell Health What Is Central Vision?</span><span class="citation-popover-snippet">It is the type of vision typically associated with having &quot;good vision,&quot; often measured as 20/20 visual acuity. Central vision depends on...</span></span></span>
 
-This decline is not a minor inconvenience. Reading requires distinguishing highly similar visual patterns. The difference between words such as “from” and “form”, or “trail” and “trial”, depends on precise letter identities and positions. Peripheral vision is much less reliable at extracting this level of detail because letter shapes become blurrier and less distinct as they move away from the centre of gaze. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.3758/s13414-023-02787-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkThe role of visual crowding in eye movements during readingby TY Chiu · 2023 · Cited by 19 — Visual crowding, generally defi...</span></span></span>
+This decline is not a minor inconvenience. Reading requires distinguishing highly similar visual patterns. The difference between words such as “from” and “form”, or “trail” and “trial”, depends on precise letter identities and positions. Peripheral vision is much less reliable at extracting this level of detail because letter shapes become blurrier and less distinct as they move away from the centre of gaze.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.3758/s13414-023-02787-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkThe role of visual crowding in eye movements during readingby TY Chiu · 2023 · Cited by 19 — Visual crowding, generally defi...</span></span></span>
 
-The consequences can be seen in eye-tracking research. Skilled readers do obtain information beyond the currently fixated word, but the useful region is limited. For English text, the effective perceptual span extends only a few characters to the left and roughly 14–15 characters to the right of fixation, far less than a full line of text. Even fast readers continue to rely on multiple overlapping fixations to process a sentence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2906818/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEye Movements in Reading: Models and Data</span><span class="citation-popover-snippet">NIHFirst, the perceptual span (or region of effective vision during a fixation) extends 3–4 letter spaces to the left of fixation t...</span></span></span>
+The consequences can be seen in eye-tracking research. Skilled readers do obtain information beyond the currently fixated word, but the useful region is limited. For English text, the effective perceptual span extends only a few characters to the left and roughly 14–15 characters to the right of fixation, far less than a full line of text. Even fast readers continue to rely on multiple overlapping fixations to process a sentence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2906818/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEye Movements in Reading: Models and Data</span><span class="citation-popover-snippet">NIHFirst, the perceptual span (or region of effective vision during a fixation) extends 3–4 letter spaces to the left of fixation t...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lZRTMLjYTMM" title="Why does the the human brain ignore the second the?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lZRTMLjYTMM" target="_blank" rel="noopener noreferrer">Why does the the human brain ignore the second the?</a></p><p class="youtube-embed-meta">Channel: Brew &middot; Views: 4.7M &middot; Uploaded: September 2020 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lZRTMLjYTMM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lZRTMLjYTMM">Open on YouTube</a></p></div></div></div>
@@ -293,16 +293,16 @@ A major reason is that reading depends on accurate letter coding. The brain must
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Which letters are present. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3429790/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">of Reading Speed on Letter Spacing in Central...by STL Chung · 2012 · Cited by 25 — Increased letter spacing beyond the standard size, w...</span></span></span>
+* Which letters are present.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3429790/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">of Reading Speed on Letter Spacing in Central...by STL Chung · 2012 · Cited by 25 — Increased letter spacing beyond the standard size, w...</span></span></span>
 * The order of those letters.
 * Where word boundaries occur.
 * Which of several visually similar words is correct.
 
 </div>
 
-Errors at any of these stages can change meaning. A reader may infer that a peripheral word is short or long, or gain clues about its general shape, but that is not equivalent to reading it. Research on parafoveal preview shows that peripheral information helps prepare the next [eye movement]({{ 'eye-tradeoff/' | relative_url }}) and speeds later recognition, yet direct fixation remains crucial for reliable word identification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://europepmc.org/article/med/22361955" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: europepmc.org">[Europe PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">europepmc.org</span><span class="citation-popover-snippet">The lack of parafoveal...Read more...</span></span></span>
+Errors at any of these stages can change meaning. A reader may infer that a peripheral word is short or long, or gain clues about its general shape, but that is not equivalent to reading it. Research on parafoveal preview shows that peripheral information helps prepare the next [eye movement]({{ 'eye-tradeoff/' | relative_url }}) and speeds later recognition, yet direct fixation remains crucial for reliable word identification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://europepmc.org/article/med/22361955" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: europepmc.org">[Europe PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">europepmc.org</span><span class="citation-popover-snippet">The lack of parafoveal...Read more...</span></span></span>
 
-This distinction is important because some speed-reading systems blur the difference between “getting clues about a word” and “reading the word”. The scientific evidence supports the former but not the latter. Readers gain partial information from upcoming text; they do not accurately decode entire lines through peripheral vision alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEye movements, the perceptual span, and reading speed</span><span class="citation-popover-snippet">by K Rayner · 2010 · Cited by 467 — The main findings were that fast readers (reading at about 330 wpm) had a larger perceptual span t...</span></span></span>
+This distinction is important because some speed-reading systems blur the difference between “getting clues about a word” and “reading the word”. The scientific evidence supports the former but not the latter. Readers gain partial information from upcoming text; they do not accurately decode entire lines through peripheral vision alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEye movements, the perceptual span, and reading speed</span><span class="citation-popover-snippet">by K Rayner · 2010 · Cited by 467 — The main findings were that fast readers (reading at about 330 wpm) had a larger perceptual span t...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_speed_reading_71e807_perceptual_sp_1579db_peripheral_vi_f35dd9-Illustration-2-dark.svg" | relative_url }}" alt="Peripheral Vision illustration 2" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_speed_reading_71e807_perceptual_sp_1579db_peripheral_vi_f35dd9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_speed_reading_71e807_perceptual_sp_1579db_peripheral_vi_f35dd9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -310,9 +310,9 @@ This distinction is important because some speed-reading systems blur the differ
 
 Even if peripheral vision were sharper, another obstacle remains: crowding.
 
-Crowding occurs when nearby visual elements interfere with one another. In peripheral vision, letters that are easy to recognise individually become much harder to identify when surrounded by other letters. Since text consists of densely packed strings of characters, crowding becomes a major bottleneck for reading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3045113/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCrowding in peripheral vision: why bigger is better</span><span class="citation-popover-snippet">NIHby DM Levi · 2009 · Cited by 217 — Here we uncover and explain a paradox in peripheral crowding: under certain conditions increa...</span></span></span>
+Crowding occurs when nearby visual elements interfere with one another. In peripheral vision, letters that are easy to recognise individually become much harder to identify when surrounded by other letters. Since text consists of densely packed strings of characters, crowding becomes a major bottleneck for reading.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3045113/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCrowding in peripheral vision: why bigger is better</span><span class="citation-popover-snippet">NIHby DM Levi · 2009 · Cited by 217 — Here we uncover and explain a paradox in peripheral crowding: under certain conditions increa...</span></span></span>
 
-Researchers now regard crowding as one of the central reasons peripheral reading is slow. The problem is not merely that letters become smaller or blurrier away from fixation. Rather, neighbouring letters begin to interfere with each other, making their identities difficult to separate. A reader may detect that a cluster of letters exists without being able to determine exactly which letters are present. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2734885/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCReading Speed Benefits from Increased Vertical Word</span><span class="citation-popover-snippet">by STL CHUNG · 2004 · Cited by 123 — Crowding, the adverse spatial interaction due to proximity of adjacent targets, has been suggeste...</span></span></span>
+Researchers now regard crowding as one of the central reasons peripheral reading is slow. The problem is not merely that letters become smaller or blurrier away from fixation. Rather, neighbouring letters begin to interfere with each other, making their identities difficult to separate. A reader may detect that a cluster of letters exists without being able to determine exactly which letters are present.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2734885/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCReading Speed Benefits from Increased Vertical Word</span><span class="citation-popover-snippet">by STL CHUNG · 2004 · Cited by 123 — Crowding, the adverse spatial interaction due to proximity of adjacent targets, has been suggeste...</span></span></span>
 
 This helps explain why reading performance declines much faster than simple object detection as text moves into the periphery. Peripheral vision can notice that a word is there, but recognising the exact word is another matter entirely.
 
@@ -323,9 +323,9 @@ This helps explain why reading performance declines much faster than simple obje
 
 A common response is that larger text should eliminate the limitation. The research shows that enlargement helps, but only up to a point.
 
-Studies of peripheral reading consistently find that larger print improves performance because it compensates for reduced acuity. However, [increasing]({{ 'increasing/' | relative_url }}) size does not restore peripheral reading to normal foveal reading levels. Reading remains substantially slower than when text is viewed directly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://legge.psych.umn.edu/sites/legge.psych.umn.edu/files/2020-08/psychophysics_of_reading._xviii._the_effect_of_print_size_on_reading_speed_in_normal_peripheral_vision_chung_mansfield_legge_1998.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legge.psych.umn.edu">[Gordon Legge Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legge.psych.umn.edu</span><span class="citation-popover-title">Gordon Legge Lab Psychophysics of reading</span><span class="citation-popover-snippet">XVIII. The effect of print size on...by STL Chung · 1998 · Cited by 387 — The purpose of this study, therefore, was to measure the effec...</span></span></span>
+Studies of peripheral reading consistently find that larger print improves performance because it compensates for reduced acuity. However, [increasing]({{ 'increasing/' | relative_url }}) size does not restore peripheral reading to normal foveal reading levels. Reading remains substantially slower than when text is viewed directly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://legge.psych.umn.edu/sites/legge.psych.umn.edu/files/2020-08/psychophysics_of_reading._xviii._the_effect_of_print_size_on_reading_speed_in_normal_peripheral_vision_chung_mansfield_legge_1998.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legge.psych.umn.edu">[Gordon Legge Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legge.psych.umn.edu</span><span class="citation-popover-title">Gordon Legge Lab Psychophysics of reading</span><span class="citation-popover-snippet">XVIII. The effect of print size on...by STL Chung · 1998 · Cited by 387 — The purpose of this study, therefore, was to measure the effec...</span></span></span>
 
-The reason is that crowding persists. Making letters larger does not fully remove interference between neighbouring letters. Researchers have tested modifications such as increased letter spacing and altered text layouts. Some adjustments can produce modest gains under specific conditions, particularly for readers who rely heavily on peripheral vision because of central vision loss. Yet these improvements do not transform peripheral vision into a substitute for foveal reading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://iovs.arvojournals.org/article.aspx?articleid=2200181" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iovs.arvojournals.org">[iovs.arvojournals.org+2PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iovs.arvojournals.org</span><span class="citation-popover-snippet">The Effect of Letter Spacing on Reading Speed in Central and...by STL Chung · 2002 · Cited by 281 — The purpose of this study was to exa...</span></span></span>
+The reason is that crowding persists. Making letters larger does not fully remove interference between neighbouring letters. Researchers have tested modifications such as increased letter spacing and altered text layouts. Some adjustments can produce modest gains under specific conditions, particularly for readers who rely heavily on peripheral vision because of central vision loss. Yet these improvements do not transform peripheral vision into a substitute for foveal reading.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://iovs.arvojournals.org/article.aspx?articleid=2200181" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iovs.arvojournals.org">[iovs.arvojournals.org+2PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iovs.arvojournals.org</span><span class="citation-popover-snippet">The Effect of Letter Spacing on Reading Speed in Central and...by STL Chung · 2002 · Cited by 281 — The purpose of this study was to exa...</span></span></span>
 
 In practical terms, enlarging text may make a peripheral word easier to recognise, but it does not enable accurate, simultaneous reading of an entire line. The underlying constraints remain.
 
@@ -335,203 +335,203 @@ In practical terms, enlarging text may make a peripheral word easier to recognis
 
 The idea of reading whole lines through peripheral vision assumes that the outer visual field can perform the same detailed analysis as the centre of gaze. Decades of research suggest otherwise.
 
-Peripheral vision contributes useful information during reading. It helps readers anticipate upcoming words, maintain orientation on the page, and guide future eye movements. Faster readers may extract slightly more information from the parafoveal region than slower readers, but even they remain constrained by the same basic architecture of the visual system. Their perceptual span is larger, not unlimited. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEye movements, the perceptual span, and reading speed</span><span class="citation-popover-snippet">by K Rayner · 2010 · Cited by 467 — The main findings were that fast readers (reading at about 330 wpm) had a larger perceptual span t...</span></span></span>
+Peripheral vision contributes useful information during reading. It helps readers anticipate upcoming words, maintain orientation on the page, and guide future eye movements. Faster readers may extract slightly more information from the parafoveal region than slower readers, but even they remain constrained by the same basic architecture of the visual system. Their perceptual span is larger, not unlimited.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEye movements, the perceptual span, and reading speed</span><span class="citation-popover-snippet">by K Rayner · 2010 · Cited by 467 — The main findings were that fast readers (reading at about 330 wpm) had a larger perceptual span t...</span></span></span>
 
-The practical implication is straightforward: improving reading speed is more likely to come from better language processing, familiarity with the material, and efficient eye-movement patterns than from attempts to teach peripheral vision to read entire lines. Peripheral vision is an important assistant in reading, but it is not a hidden high-resolution channel waiting to be unlocked. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEye movements, the perceptual span, and reading speed</span><span class="citation-popover-snippet">by K Rayner · 2010 · Cited by 467 — The main findings were that fast readers (reading at about 330 wpm) had a larger perceptual span t...</span></span></span>
+The practical implication is straightforward: improving reading speed is more likely to come from better language processing, familiarity with the material, and efficient eye-movement patterns than from attempts to teach peripheral vision to read entire lines. Peripheral vision is an important assistant in reading, but it is not a hidden high-resolution channel waiting to be unlocked.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEye movements, the perceptual span, and reading speed</span><span class="citation-popover-snippet">by K Rayner · 2010 · Cited by 467 — The main findings were that fast readers (reading at about 330 wpm) had a larger perceptual span t...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/d1ISJz9SNi4" title="How Does Peripheral Vision Boost Your Speed Reading? - Ultimate Study Hacks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=d1ISJz9SNi4" target="_blank" rel="noopener noreferrer">How Does Peripheral Vision Boost Your Speed Reading? - Ultimate Study Hacks</a></p><p class="youtube-embed-meta">Channel: Ultimate Study Hacks</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=d1ISJz9SNi4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=d1ISJz9SNi4">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Your Peripheral Vision Misses Words. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Your Peripheral Vision Misses Words. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Proust and the Squid on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4940484-M.jpg" alt="Cover for Proust and the Squid" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Proust and the Squid">Proust and the Squid</a>
-        </h4>
-        <p class="fr-book-author">By Maryanne Wolf</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Proust and the Squid on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4940484-M.jpg" alt="Cover for Proust and the Squid" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Proust and the Squid">Proust and the Squid</a>
+</h4>
+<p class="fr-book-author">By Maryanne Wolf</p>
         
-        <p class="fr-book-desc">First published 2007. Subjects: Brain, Evolution, Reading history, Neurophysiology, Reading comprehension.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2007. Subjects: Brain, Evolution, Reading history, Neurophysiology, Reading comprehension.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading in the Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6649793-M.jpg" alt="Cover for Reading in the Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading in the Brain">Reading in the Brain</a>
-        </h4>
-        <p class="fr-book-author">By Stanislas Dehaene</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading in the Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6649793-M.jpg" alt="Cover for Reading in the Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading in the Brain">Reading in the Brain</a>
+</h4>
+<p class="fr-book-author">By Stanislas Dehaene</p>
         
-        <p class="fr-book-desc">First published 2009. Subjects: Science, Nonfiction, Psychology, Psychology of Reading, Reading.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2009. Subjects: Science, Nonfiction, Psychology, Psychology of Reading, Reading.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Vision+and+Art+Margaret+S.+Livingstone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Vision and Art on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/595959-M.jpg" alt="Cover for Vision and Art" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Vision+and+Art+Margaret+S.+Livingstone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vision and Art">Vision and Art</a>
-        </h4>
-        <p class="fr-book-author">By Margaret S. Livingstone</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Vision+and+Art+Margaret+S.+Livingstone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Vision and Art on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/595959-M.jpg" alt="Cover for Vision and Art" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Vision+and+Art+Margaret+S.+Livingstone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vision and Art">Vision and Art</a>
+</h4>
+<p class="fr-book-author">By Margaret S. Livingstone</p>
         
-        <p class="fr-book-desc">First published 2002. Subjects: Visual perception, Color vision, Painting, Psychological aspects, Art.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Vision+and+Art+Margaret+S.+Livingstone&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2002. Subjects: Visual perception, Color vision, Painting, Psychological aspects, Art.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Vision+and+Art+Margaret+S.+Livingstone&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Speed+reading&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Speed reading on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Speed+reading&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Speed reading">Speed reading</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Speed+reading&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Speed reading on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Speed+reading&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Speed reading">Speed reading</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Represents common speed-reading claims about wider visual intake.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Speed+reading&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Represents common speed-reading claims about wider visual intake.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Speed+reading&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Proust+and+the+Squid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Proust and the Squid</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Reading+in+the+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Reading in the Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Vision+and+Art&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Vision and Art</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Proust+and+the+Squid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Proust and the Squid</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Reading+in+the+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Reading in the Brain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Vision+and+Art&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Vision and Art</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=words+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="words poster -book -books -dvd" data-ebay-reference="peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom Quote Unframed Print, Choose Your Own Words, Personalised Word Art Poster"><img src="{{ '/assets/images/marketplace-covers/7c5d77c9c94790b5e684.jpg' | relative_url }}" alt="Listing image for Custom Quote Unframed Print, Choose Your Own Words, Personalised Word Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=words+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="words poster -book -books -dvd" data-ebay-reference="peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Custom Quote Unframed Print, Choose Your Own Words, Personalised Word Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=words+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="words poster -book -books -dvd" data-ebay-reference="peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for words poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: words poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=words+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="words poster -book -books -dvd" data-ebay-reference="peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=words+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="words poster -book -books -dvd" data-ebay-reference="peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom Quote Unframed Print, Choose Your Own Words, Personalised Word Art Poster"><img src="{{ '/assets/images/marketplace-covers/7c5d77c9c94790b5e684.jpg' | relative_url }}" alt="Listing image for Custom Quote Unframed Print, Choose Your Own Words, Personalised Word Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=words+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="words poster -book -books -dvd" data-ebay-reference="peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Custom Quote Unframed Print, Choose Your Own Words, Personalised Word Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=words+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="words poster -book -books -dvd" data-ebay-reference="peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for words poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: words poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=words+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="words poster -book -books -dvd" data-ebay-reference="peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=words+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="words poster -book -books -dvd" data-ebay-reference="peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Common Key Words Level 2 Educational children kids school nursery learn Poster"><img src="{{ '/assets/images/marketplace-covers/fe187b8b7e4cd22262fd.jpg' | relative_url }}" alt="Listing image for Common Key Words Level 2 Educational children kids school nursery learn Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=words+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="words poster -book -books -dvd" data-ebay-reference="peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Common Key Words Level 2 Educational children kids school nursery learn Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=words+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="words poster -book -books -dvd" data-ebay-reference="peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for words poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: words poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=words+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="words poster -book -books -dvd" data-ebay-reference="peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=words+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="words poster -book -books -dvd" data-ebay-reference="peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Common Key Words Level 2 Educational children kids school nursery learn Poster"><img src="{{ '/assets/images/marketplace-covers/fe187b8b7e4cd22262fd.jpg' | relative_url }}" alt="Listing image for Common Key Words Level 2 Educational children kids school nursery learn Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=words+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="words poster -book -books -dvd" data-ebay-reference="peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Common Key Words Level 2 Educational children kids school nursery learn Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=words+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="words poster -book -books -dvd" data-ebay-reference="peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for words poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: words poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=words+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="words poster -book -books -dvd" data-ebay-reference="peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=words+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="words poster -book -books -dvd" data-ebay-reference="peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Words Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2908e7ab1ae661b24e58.jpg' | relative_url }}" alt="Listing image for Motivational Words Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=words+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="words poster -book -books -dvd" data-ebay-reference="peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Motivational Words Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=words+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="words poster -book -books -dvd" data-ebay-reference="peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for words poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: words poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=words+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="words poster -book -books -dvd" data-ebay-reference="peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=words+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="words poster -book -books -dvd" data-ebay-reference="peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Words Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/2908e7ab1ae661b24e58.jpg' | relative_url }}" alt="Listing image for Motivational Words Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=words+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="words poster -book -books -dvd" data-ebay-reference="peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Motivational Words Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=words+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="words poster -book -books -dvd" data-ebay-reference="peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for words poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: words poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=words+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="words poster -book -books -dvd" data-ebay-reference="peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=words+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="words poster -book -books -dvd" data-ebay-reference="peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 200 of most commonly heard words on Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9355b0298fe92436881a.jpg' | relative_url }}" alt="Listing image for 200 of most commonly heard words on Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=words+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="words poster -book -books -dvd" data-ebay-reference="peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">200 of most commonly heard words on Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=words+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="words poster -book -books -dvd" data-ebay-reference="peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for words poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: words poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=words+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="words poster -book -books -dvd" data-ebay-reference="peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=words+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="words poster -book -books -dvd" data-ebay-reference="peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=words+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="words poster -book -books -dvd" data-ebay-reference="peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 200 of most commonly heard words on Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9355b0298fe92436881a.jpg' | relative_url }}" alt="Listing image for 200 of most commonly heard words on Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=words+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="words poster -book -books -dvd" data-ebay-reference="peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">200 of most commonly heard words on Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=words+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="words poster -book -books -dvd" data-ebay-reference="peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for words poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: words poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=words+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="words poster -book -books -dvd" data-ebay-reference="peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=words+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="words poster -book -books -dvd" data-ebay-reference="peripheral-vision-why-your-peripheral-vision-misses-words-increasing-words-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -547,7 +547,7 @@ The practical implication is straightforward: improving reading speed is more li
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -567,7 +567,7 @@ The practical implication is straightforward: improving reading speed is more li
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -599,7 +599,7 @@ The practical implication is straightforward: improving reading speed is more li
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -651,7 +651,7 @@ The practical implication is straightforward: improving reading speed is more li
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -696,7 +696,7 @@ The practical implication is straightforward: improving reading speed is more li
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -737,125 +737,125 @@ The practical implication is straightforward: improving reading speed is more li
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCEye movements, the perceptual span, and reading speed  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by K Rayner · 2010 · Cited by 467 — The main findings were that fast readers (reading at about 330 wpm) had a larger perceptual span t...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by K Rayner · 2010 · Cited by 467 — The main findings were that fast readers (reading at about 330 wpm) had a larger perceptual span t...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCEye Movements in Reading: [Models](&#123;&#123; 'models/' | relative_url &#125;&#125;) and Data  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2906818/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2906818/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHFirst, the perceptual span (or region of effective vision during a fixation) extends 3–4 letter spaces to the left of fixation t...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2906818/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2906818/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIHFirst, the perceptual span (or region of effective vision during a fixation) extends 3–4 letter spaces to the left of fixation t...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.3758/s13414-023-02787-1" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13414-023-02787-1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkThe role of visual crowding in eye movements during readingby TY Chiu · 2023 · Cited by 19 — Visual crowding, generally defi...</p></details>
+   Link:<a href="https://link.springer.com/article/10.3758/s13414-023-02787-1" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13414-023-02787-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkThe role of visual crowding in eye movements during readingby TY Chiu · 2023 · Cited by 19 — Visual crowding, generally defi...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: europepmc.org  
-   Link: <a href="https://europepmc.org/article/med/22361955" target="_blank" rel="noopener noreferrer nofollow">https://europepmc.org/article/med/22361955</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The lack of parafoveal...Read more...</p></details>
+   Link:<a href="https://europepmc.org/article/med/22361955" target="_blank" rel="noopener noreferrer nofollow">https://europepmc.org/article/med/22361955</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The lack of parafoveal...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCCrowding in peripheral vision: why bigger is better  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3045113/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3045113/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby DM Levi · 2009 · Cited by 217 — Here we uncover and explain a paradox in peripheral crowding: under certain conditions increa...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3045113/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3045113/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby DM Levi · 2009 · Cited by 217 — Here we uncover and explain a paradox in peripheral crowding: under certain conditions increa...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCReading Speed Benefits from Increased Vertical Word  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2734885/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2734885/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by STL CHUNG · 2004 · Cited by 123 — Crowding, the adverse spatial interaction due to proximity of adjacent targets, has been suggeste...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2734885/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2734885/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by STL CHUNG · 2004 · Cited by 123 — Crowding, the adverse spatial interaction due to proximity of adjacent targets, has been suggeste...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: iovs.arvojournals.org  
-   Link: <a href="https://iovs.arvojournals.org/article.aspx?articleid=2200181" target="_blank" rel="noopener noreferrer nofollow">https://iovs.arvojournals.org/article.aspx?articleid=2200181</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Effect of Letter Spacing on Reading Speed in Central and...by STL Chung · 2002 · Cited by 281 — The [purpose](&amp;#123;&amp;#123; &#x27;purpose/&#x27; | relative_url &amp;#125;&amp;#125;) of this study was to exa...</p></details>
+   Link:<a href="https://iovs.arvojournals.org/article.aspx?articleid=2200181" target="_blank" rel="noopener noreferrer nofollow">https://iovs.arvojournals.org/article.aspx?articleid=2200181</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Effect of Letter Spacing on Reading Speed in Central and...by STL Chung · 2002 · Cited by 281 — The [purpose](&amp;#123;&amp;#123; &#x27;purpose/&#x27; | relative_url &amp;#125;&amp;#125;) of this study was to exa...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: journals.plos.org  
-   Link: <a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0080325" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0080325</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Enhanced Text Spacing Improves Reading Performance in...by S Blackmore-Wright · 2013 · Cited by 43 — The results of this study sugge...</p></details>
+   Link:<a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0080325" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0080325</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enhanced Text Spacing Improves Reading Performance in...by S Blackmore-Wright · 2013 · Cited by 43 — The results of this study sugge...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3429790/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3429790/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>of Reading Speed on Letter Spacing in Central...by STL Chung · 2012 · Cited by 25 — Increased letter spacing beyond the standard size, w...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3429790/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3429790/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Reading Speed on Letter Spacing in Central...by STL Chung · 2012 · Cited by 25 — Increased letter spacing beyond the standard size, w...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: verywellhealth.com  
    Title: Verywell Health What Is Central Vision?  
-   Link: <a href="https://www.verywellhealth.com/central-vision-5209526" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellhealth.com/central-vision-5209526</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It is the type of vision typically associated with having &quot;good vision,&quot; often measured as 20/20 visual acuity. Central vision depends on...</p></details>
+   Link:<a href="https://www.verywellhealth.com/central-vision-5209526" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellhealth.com/central-vision-5209526</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It is the type of vision typically associated with having &quot;good vision,&quot; often measured as 20/20 visual acuity. Central vision depends on...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: legge.psych.umn.edu  
    Title: Gordon Legge Lab Psychophysics of reading  
-   Link: <a href="https://legge.psych.umn.edu/sites/legge.psych.umn.edu/files/2020-08/psychophysics_of_reading._xviii._the_effect_of_print_size_on_reading_speed_in_normal_peripheral_vision_chung_mansfield_legge_1998.pdf" target="_blank" rel="noopener noreferrer nofollow">https://legge.psych.umn.edu/sites/legge.psych.umn.edu/files/2020-08/psychophysics_of_reading._xviii._the_effect_of_print_size_on_reading_speed_in_normal_peripheral_vision_chung_mansfield_legge_1998.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>XVIII. The effect of print size on...by STL Chung · 1998 · Cited by 387 — The purpose of this study, therefore, was to [measure](&amp;#123;&amp;#123; &#x27;measure/&#x27; | relative_url &amp;#125;&amp;#125;) the effec...</p></details>
+   Link:<a href="https://legge.psych.umn.edu/sites/legge.psych.umn.edu/files/2020-08/psychophysics_of_reading._xviii._the_effect_of_print_size_on_reading_speed_in_normal_peripheral_vision_chung_mansfield_legge_1998.pdf" target="_blank" rel="noopener noreferrer nofollow">https://legge.psych.umn.edu/sites/legge.psych.umn.edu/files/2020-08/psychophysics_of_reading._xviii._the_effect_of_print_size_on_reading_speed_in_normal_peripheral_vision_chung_mansfield_legge_1998.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>XVIII. The effect of print size on...by STL Chung · 1998 · Cited by 387 — The purpose of this study, therefore, was to [measure](&amp;#123;&amp;#123; &#x27;measure/&#x27; | relative_url &amp;#125;&amp;#125;) the effec...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7540203/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7540203/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It is determined by many factors, including reading proficiency...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7540203/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7540203/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It is determined by many factors, including reading proficiency...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12972110/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12972110/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of visual span on reading speed and parafoveal processing in eye movements during sentence reading.Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12972110/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12972110/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of visual span on reading speed and parafoveal processing in eye movements during sentence reading.Read more...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/49694262_Eye_movements_the_perceptual_span_and_reading_speed" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/49694262_Eye_movements_the_perceptual_span_and_reading_speed</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eye movements, the perceptual span, and reading speedThe main findings were that fast readers (reading at about 330 wpm) had a larger per...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/49694262_Eye_movements_the_perceptual_span_and_reading_speed" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/49694262_Eye_movements_the_perceptual_span_and_reading_speed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eye movements, the perceptual span, and reading speedThe main findings were that fast readers (reading at about 330 wpm) had a larger per...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: scispace.com  
-   Link: <a href="https://scispace.com/papers/eye-movements-the-perceptual-span-and-reading-speed-4k5g3c1jka" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/papers/eye-movements-the-perceptual-span-and-reading-speed-4k5g3c1jka</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eye movements, the perceptual span, and reading speed.TL;DR: The main findings were that fast readers had a larger perceptual span than d...</p></details>
+   Link:<a href="https://scispace.com/papers/eye-movements-the-perceptual-span-and-reading-speed-4k5g3c1jka" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/papers/eye-movements-the-perceptual-span-and-reading-speed-4k5g3c1jka</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eye movements, the perceptual span, and reading speed.TL;DR: The main findings were that fast readers had a larger perceptual span than d...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/askscience/comments/4uitp1/why_cant_we_read_with_our_peripheral_vision/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askscience/comments/4uitp1/why_cant_we_read_with_our_peripheral_vision/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why can&#x27;t we read with our peripheral vision?: r/askscienceBecause rod cells are more sensitive to light/dark and less sensitive to deta...</p></details>
+   Link:<a href="https://www.reddit.com/r/askscience/comments/4uitp1/why_cant_we_read_with_our_peripheral_vision/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askscience/comments/4uitp1/why_cant_we_read_with_our_peripheral_vision/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why can&#x27;t we read with our peripheral vision?: r/askscienceBecause rod cells are more sensitive to light/dark and less sensitive to deta...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/259361726_Eye_movements_in_reading_Models_and_data" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/259361726_Eye_movements_in_reading_Models_and_data</a>  
+   Link:<a href="https://www.researchgate.net/publication/259361726_Eye_movements_in_reading_Models_and_data" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/259361726_Eye_movements_in_reading_Models_and_data</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: speedreading.com  
-   Link: <a href="https://speedreading.com/research/eye-movements-visual-processing.php" target="_blank" rel="noopener noreferrer nofollow">https://speedreading.com/research/eye-movements-visual-processing.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eye Movements in Reading | SpeedReading.comClassic findings place effective perceptual span at about 3-4 letters to the left of fixation...</p></details>
+   Link:<a href="https://speedreading.com/research/eye-movements-visual-processing.php" target="_blank" rel="noopener noreferrer nofollow">https://speedreading.com/research/eye-movements-visual-processing.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eye Movements in Reading | SpeedReading.comClassic findings place effective perceptual span at about 3-4 letters to the left of fixation...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/11442506_The_effect_of_letter_spacing_on_reading_speed_in_central_and_peripheral_vision" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/11442506_The_effect_of_letter_spacing_on_reading_speed_in_central_and_peripheral_vision</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The effect of letter spacing on reading speed in...8 Feb 2026 — The purpose of this study was to examine whether reading speed can...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/11442506_The_effect_of_letter_spacing_on_reading_speed_in_central_and_peripheral_vision" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/11442506_The_effect_of_letter_spacing_on_reading_speed_in_central_and_peripheral_vision</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The effect of letter spacing on reading speed in...8 Feb 2026 — The purpose of this study was to examine whether reading speed can...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: research.aston.ac.uk  
    Title: enhanced text spacing improves reading performance in individuals  
-   Link: <a href="https://research.aston.ac.uk/en/publications/enhanced-text-spacing-improves-reading-performance-in-individuals/" target="_blank" rel="noopener noreferrer nofollow">https://research.aston.ac.uk/en/publications/enhanced-text-spacing-improves-reading-performance-in-individuals/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>text spacing improves reading performance in...by S Blackmore-Wright · 2013 · Cited by 43 — Enhanced text spacing improves reading perfo...</p></details>
+   Link:<a href="https://research.aston.ac.uk/en/publications/enhanced-text-spacing-improves-reading-performance-in-individuals/" target="_blank" rel="noopener noreferrer nofollow">https://research.aston.ac.uk/en/publications/enhanced-text-spacing-improves-reading-performance-in-individuals/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>text spacing improves reading performance in...by S Blackmore-Wright · 2013 · Cited by 43 — Enhanced text spacing improves reading perfo...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: scirp.org  
-   Link: <a href="https://www.scirp.org/journal/paperinformation?paperid=51379" target="_blank" rel="noopener noreferrer nofollow">https://www.scirp.org/journal/paperinformation?paperid=51379</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 characters to the left and 14 - 15 characters to the right of fixation among native...Read more...</p></details>
+   Link:<a href="https://www.scirp.org/journal/paperinformation?paperid=51379" target="_blank" rel="noopener noreferrer nofollow">https://www.scirp.org/journal/paperinformation?paperid=51379</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 characters to the left and 14 - 15 characters to the right of fixation among native...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=zQmf5TkJrJ8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zQmf5TkJrJ8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Keith Rayner - What Eye Movements Tell Us About the Processing Involved In Reading...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=zQmf5TkJrJ8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zQmf5TkJrJ8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Keith Rayner - What Eye Movements Tell Us About the Processing Involved In Reading...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=lZRTMLjYTMM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lZRTMLjYTMM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Brain&#x27;s Challenge: Processing: What Eye Movements During Reading Reveal About Processing Speed - YouTube The Children of the Code Pro...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lZRTMLjYTMM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lZRTMLjYTMM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Brain&#x27;s Challenge: Processing: What Eye Movements During Reading Reveal About Processing Speed - YouTube The Children of the Code Pro...</p></details>

@@ -294,7 +294,7 @@ image: /assets/images/increasing_re_852ca6_inner_voice_r_589d88_subvocalisati_6c
 
 ## Introduction
 
-Many [speed-reading]({{ 'myths/' | relative_url }}) systems treat subvocalisation as an obstacle to be eliminated. That advice can be useful when a reader is trapped in slow, word-by-word mental narration. However, trying to suppress the inner voice too aggressively often damages comprehension, especially when material is unfamiliar, technical, or logically dense. Research on phonological coding and [articulatory]({{ 'suppression/' | relative_url }}) suppression repeatedly shows that preventing readers from using sound-based representations can make it harder to integrate ideas across sentences, detect syntactic relationships, and retain information long enough to understand complex arguments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2CoLab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Phonological coding during reading - PMC - NIHby M Leinenger · 2014 · Cited by 168 — When we read silently, we experience the sensatio...</span></span></span>
+Many [speed-reading]({{ 'myths/' | relative_url }}) systems treat subvocalisation as an obstacle to be eliminated. That advice can be useful when a reader is trapped in slow, word-by-word mental narration. However, trying to suppress the inner voice too aggressively often damages comprehension, especially when material is unfamiliar, technical, or logically dense. Research on phonological coding and [articulatory]({{ 'suppression/' | relative_url }}) suppression repeatedly shows that preventing readers from using sound-based representations can make it harder to integrate ideas across sentences, detect syntactic relationships, and retain information long enough to understand complex arguments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2CoLab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Phonological coding during reading - PMC - NIHby M Leinenger · 2014 · Cited by 168 — When we read silently, we experience the sensatio...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_inner_voice_r_589d88_subvocalisati_6c5059-Illustration-1-dark.svg" | relative_url }}" alt="Suppression risk illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_inner_voice_r_589d88_subvocalisati_6c5059-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_inner_voice_r_589d88_subvocalisati_6c5059-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -304,7 +304,7 @@ For [increasing]({{ 'increasing/' | relative_url }}) reading speed, the key ques
 
 The most common sign that subvocalisation suppression has gone too far is not that readers fail to recognise words. It is that they understand individual sentences but lose track of the relationships between them.
 
-Classic experiments by Ronald Slowiaczek and Charles Clifton found that blocking subvocalisation impaired comprehension on tasks requiring readers to integrate concepts within and across sentences. Readers could often remember individual word meanings, but they struggled more when understanding depended on connecting ideas over larger stretches of text. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://colab.ws/articles/10.1016%2FS0022-5371%2880%2990628-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: colab.ws">[CoLab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">colab.ws</span><span class="citation-popover-title">Co Lab Subvocalization and reading for meaning</span><span class="citation-popover-snippet">Subvocalization and reading for meaning - CoLab.wsTwo experiments demonstrated that subvocalization is of value in reading for certa...</span></span></span>
+Classic experiments by Ronald Slowiaczek and Charles Clifton found that blocking subvocalisation impaired comprehension on tasks requiring readers to integrate concepts within and across sentences. Readers could often remember individual word meanings, but they struggled more when understanding depended on connecting ideas over larger stretches of text.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://colab.ws/articles/10.1016%2FS0022-5371%2880%2990628-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: colab.ws">[CoLab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">colab.ws</span><span class="citation-popover-title">Co Lab Subvocalization and reading for meaning</span><span class="citation-popover-snippet">Subvocalization and reading for meaning - CoLab.wsTwo experiments demonstrated that subvocalization is of value in reading for certa...</span></span></span>
 
 In practical reading, this can appear as:
 
@@ -319,7 +319,7 @@ In practical reading, this can appear as:
 
 </div>
 
-Research on articulatory suppression—tasks that occupy the speech system while reading, such as repeatedly saying irrelevant syllables—shows similar effects. Comprehension may decline even when reading speed remains unchanged, suggesting that faster [eye movements]({{ 'eye-tradeoff/' | relative_url }}) do not necessarily indicate better understanding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1080/14640748108400802" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsThe Role of Subvocalisation in ReadingA series of experiments explored the role of subvocalisation in fluent reading. Experi...</span></span></span>
+Research on articulatory suppression—tasks that occupy the speech system while reading, such as repeatedly saying irrelevant syllables—shows similar effects. Comprehension may decline even when reading speed remains unchanged, suggesting that faster [eye movements]({{ 'eye-tradeoff/' | relative_url }}) do not necessarily indicate better understanding.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1080/14640748108400802" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsThe Role of Subvocalisation in ReadingA series of experiments explored the role of subvocalisation in fluent reading. Experi...</span></span></span>
 
 This distinction matters because speed-reading enthusiasts sometimes judge success by pages per hour rather than by how accurately they can reconstruct the author's reasoning.
 
@@ -335,9 +335,9 @@ Consider the difference between:
 * “The treatment was effective.”
 * “The treatment was not effective unless administered after symptoms appeared.”
 
-The second sentence requires the reader to hold several relationships simultaneously: negation, exception, timing, and condition. Even modern language-processing systems find negation unusually difficult because it changes meaning through relationships rather than isolated words. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2211.00295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">CONDAQA: A Contrastive Reading Comprehension Dataset for Reasoning about NegationNovember 1, 2022...</span><span class="citation-popover-meta">Published: November 1, 2022</span></span></span>
+The second sentence requires the reader to hold several relationships simultaneously: negation, exception, timing, and condition. Even modern language-processing systems find negation unusually difficult because it changes meaning through relationships rather than isolated words.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2211.00295" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">CONDAQA: A Contrastive Reading Comprehension Dataset for Reasoning about NegationNovember 1, 2022...</span><span class="citation-popover-meta">Published: November 1, 2022</span></span></span>
 
-Human readers face a similar challenge. Sound-based representations appear to help maintain linguistic information long enough for these relationships to be assembled into a coherent interpretation. Research on sentence comprehension and working memory consistently links phonological storage mechanisms with successful processing of complex sentence structures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4684953/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Complex Sentence Comprehension and Working Memory in...by JW Montgomery · 2008 · Cited by 429 — This study investigated the associati...</span></span></span>
+Human readers face a similar challenge. Sound-based representations appear to help maintain linguistic information long enough for these relationships to be assembled into a coherent interpretation. Research on sentence comprehension and working memory consistently links phonological storage mechanisms with successful processing of complex sentence structures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4684953/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Complex Sentence Comprehension and Working Memory in...by JW Montgomery · 2008 · Cited by 429 — This study investigated the associati...</span></span></span>
 
 This is particularly relevant for:
 
@@ -360,7 +360,7 @@ A reader may be able to visually recognise every word rapidly while still failin
 
 Readers often underestimate how much silent phrasing contributes to understanding.
 
-Experiments investigating subvocalisation suppression found reduced ability to detect word-order anomalies and linguistic irregularities even when reading speed itself was largely unaffected. The disruption seemed specific to speech-related processing rather than to the mere burden of doing a second task. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1080/14640748108400802" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsThe Role of Subvocalisation in ReadingA series of experiments explored the role of subvocalisation in fluent reading. Experi...</span></span></span>
+Experiments investigating subvocalisation suppression found reduced ability to detect word-order anomalies and linguistic irregularities even when reading speed itself was largely unaffected. The disruption seemed specific to speech-related processing rather than to the mere burden of doing a second task.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1080/14640748108400802" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsThe Role of Subvocalisation in ReadingA series of experiments explored the role of subvocalisation in fluent reading. Experi...</span></span></span>
 
 This suggests that the inner voice does more than pronounce words. It helps preserve sequence, emphasis, grouping, and syntactic boundaries. When those cues disappear, [complex sentences]({{ 'complex-sentences/' | relative_url }}) can become harder to parse correctly.
 
@@ -370,7 +370,7 @@ The strongest speed gains from reduced subvocalisation usually occur when reader
 
 Dense new material is different.
 
-When readers encounter unfamiliar terminology, new concepts, or unusual sentence structures, they have fewer existing mental models available. The reading process becomes more dependent on working memory and active integration. Under those conditions, suppressing phonological coding can remove a useful support system at exactly the moment it is needed most. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Phonological coding during reading - PMC - NIHby M Leinenger · 2014 · Cited by 168 — When we read silently, we experience the sensatio...</span></span></span>
+When readers encounter unfamiliar terminology, new concepts, or unusual sentence structures, they have fewer existing mental models available. The reading process becomes more dependent on working memory and active integration. Under those conditions, suppressing phonological coding can remove a useful support system at exactly the moment it is needed most.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Phonological coding during reading - PMC - NIHby M Leinenger · 2014 · Cited by 168 — When we read silently, we experience the sensatio...</span></span></span>
 
 This helps explain a common experience:
 
@@ -404,7 +404,7 @@ Some readers gain speed on the first pass but repeatedly revisit difficult secti
 
 If notes, tests, or later discussions reveal poor recall, the apparent speed improvement may simply reflect reduced processing.
 
-Research examining interference with speech recoding found average comprehension decreases when subvocalisation was disrupted, although the magnitude varied across individuals. The practical lesson is that speed gains must always be evaluated alongside understanding rather than in isolation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/BF01027072" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">However, Experiment 2 also showed...Read more...</span></span></span>
+Research examining interference with speech recoding found average comprehension decreases when subvocalisation was disrupted, although the magnitude varied across individuals. The practical lesson is that speed gains must always be evaluated alongside understanding rather than in isolation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/BF01027072" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">However, Experiment 2 also showed...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_inner_voice_r_589d88_subvocalisati_6c5059-Illustration-3-dark.svg" | relative_url }}" alt="Suppression risk illustration 3" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_inner_voice_r_589d88_subvocalisati_6c5059-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_inner_voice_r_589d88_subvocalisati_6c5059-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -412,7 +412,7 @@ Research examining interference with speech recoding found average comprehension
 
 The evidence does not support a simple rule that subvocalisation should always be removed. Instead, it points toward flexibility.
 
-For straightforward material, readers may rely less on internal speech and move rapidly through text. For dense reasoning, unfamiliar concepts, or clause-heavy prose, allowing some sound-based processing can improve accuracy and retention. Studies of phonological coding suggest that silent reading normally recruits these mechanisms, and attempts to block them often create measurable comprehension costs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+3PMC+3CoLab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Phonological coding during reading - PMC - NIHby M Leinenger · 2014 · Cited by 168 — When we read silently, we experience the sensatio...</span></span></span>
+For straightforward material, readers may rely less on internal speech and move rapidly through text. For dense reasoning, unfamiliar concepts, or clause-heavy prose, allowing some sound-based processing can improve accuracy and retention. Studies of phonological coding suggest that silent reading normally recruits these mechanisms, and attempts to block them often create measurable comprehension costs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+3PMC+3CoLab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Phonological coding during reading - PMC - NIHby M Leinenger · 2014 · Cited by 168 — When we read silently, we experience the sensatio...</span></span></span>
 
 The most useful benchmark is not whether the inner voice disappears. It is whether reading becomes faster while preserving the ability to understand, connect, and remember what the text actually says.
 
@@ -421,214 +421,214 @@ The most useful benchmark is not whether the inner voice disappears. It is wheth
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When silencing the inner voice backfires. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When silencing the inner voice backfires. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Emphasizes comprehension and purposeful reading over mechanical speed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Emphasizes comprehension and purposeful reading over mechanical speed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Shallows+by+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Shallows on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1KayoVl3OTMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Shallows" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Shallows+by+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Shallows">The Shallows</a>
-        </h4>
-        <p class="fr-book-author">By Nicholas Carr</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Shallows+by+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Shallows on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1KayoVl3OTMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Shallows" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Shallows+by+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Shallows">The Shallows</a>
+</h4>
+<p class="fr-book-author">By Nicholas Carr</p>
         
-        <p class="fr-book-desc">Explores what happens when reading becomes faster but less reflective.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Shallows+by+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores what happens when reading becomes faster but less reflective.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Shallows+by+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Speed+reading+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Speed reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/296299-M.jpg" alt="Cover for Speed reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Speed+reading+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Speed reading">Speed reading</a>
-        </h4>
-        <p class="fr-book-author">By Tony Buzan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Speed+reading+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Speed reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/296299-M.jpg" alt="Cover for Speed reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Speed+reading+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Speed reading">Speed reading</a>
+</h4>
+<p class="fr-book-author">By Tony Buzan</p>
         
-        <p class="fr-book-desc">First published 1971. Subjects: Speed reading, Rapid reading, English language, Lecture rapide.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Speed+reading+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1971. Subjects: Speed reading, Rapid reading, English language, Lecture rapide.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Speed+reading+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Proust and the Squid on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4940484-M.jpg" alt="Cover for Proust and the Squid" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Proust and the Squid">Proust and the Squid</a>
-        </h4>
-        <p class="fr-book-author">By Maryanne Wolf</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Proust and the Squid on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4940484-M.jpg" alt="Cover for Proust and the Squid" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Proust and the Squid">Proust and the Squid</a>
+</h4>
+<p class="fr-book-author">By Maryanne Wolf</p>
         
-        <p class="fr-book-desc">First published 2007. Subjects: Brain, Evolution, Reading history, Neurophysiology, Reading comprehension.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2007. Subjects: Brain, Evolution, Reading history, Neurophysiology, Reading comprehension.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Shallows&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Shallows</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Speed+reading&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Speed reading</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Shallows&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Shallows</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Speed+reading&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Speed reading</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Phonological coding during reading - PMC - NIHby M Leinenger · 2014 · Cited by 168 — When we read silently, we experience the sensatio...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Phonological coding during reading - PMC - NIHby M Leinenger · 2014 · Cited by 168 — When we read silently, we experience the sensatio...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: colab.ws  
    Title: Co Lab Subvocalization and reading for meaning  
-   Link: <a href="https://colab.ws/articles/10.1016%2FS0022-5371%2880%2990628-3" target="_blank" rel="noopener noreferrer nofollow">https://colab.ws/articles/10.1016%2FS0022-5371%2880%2990628-3</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Subvocalization and reading for meaning - CoLab.wsTwo experiments demonstrated that subvocalization is of value in reading for certa...</p></details>
+   Link:<a href="https://colab.ws/articles/10.1016%2FS0022-5371%2880%2990628-3" target="_blank" rel="noopener noreferrer nofollow">https://colab.ws/articles/10.1016%2FS0022-5371%2880%2990628-3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Subvocalization and reading for meaning - CoLab.wsTwo experiments demonstrated that subvocalization is of value in reading for certa...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/BF01027072" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/BF01027072</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>However, Experiment 2 also showed...Read more...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/BF01027072" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/BF01027072</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, Experiment 2 also showed...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2211.00295" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2211.00295</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CONDAQA: A Contrastive Reading Comprehension Dataset for Reasoning about NegationNovember 1, 2022...</p></details>
+   Link:<a href="https://arxiv.org/abs/2211.00295" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2211.00295</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CONDAQA: A Contrastive Reading Comprehension Dataset for Reasoning about NegationNovember 1, 2022...</p></details>
    Published: November 1, 2022  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4684953/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4684953/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Complex Sentence Comprehension and Working Memory in...by JW Montgomery · 2008 · Cited by 429 — This study investigated the associati...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4684953/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4684953/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Complex Sentence Comprehension and Working Memory in...by JW Montgomery · 2008 · Cited by 429 — This study investigated the associati...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: It facilitates planning, comprehension, reasoning,  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4207727/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4207727/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Working Memory Underpins Cognitive Development, Learning...by N Cowan · 2013 · Cited by 1472 — Working memory is the retention of a s...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4207727/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4207727/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Working Memory Underpins Cognitive Development, Learning...by N Cowan · 2013 · Cited by 1472 — Working memory is the retention of a s...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCNo Correlation Between Articulation Speed and Silent  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10360968/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10360968/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by M Brysbaert · 2023 · Cited by 12 — Silent reading often involves phonological encoding of the text in addition to orthographic proc...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10360968/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10360968/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by M Brysbaert · 2023 · Cited by 12 — Silent reading often involves phonological encoding of the text in addition to orthographic proc...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1080/14640748108400802" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1080/14640748108400802</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsThe Role of Subvocalisation in ReadingA series of experiments explored the role of subvocalisation in fluent reading. Experi...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1080/14640748108400802" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1080/14640748108400802</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsThe Role of Subvocalisation in ReadingA series of experiments explored the role of subvocalisation in fluent reading. Experi...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1080/14640749008401227" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1080/14640749008401227</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsArticulatory Suppression and Phonological Codes in...The aim of this study was to investigate whether the phonological code...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1080/14640749008401227" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1080/14640749008401227</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsArticulatory Suppression and Phonological Codes in...The aim of this study was to investigate whether the phonological code...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4511188/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4511188/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govExpertise, Working Memory and Articulatory Suppression Effectby I Injoque-Ricle · 2015 · Cited by 62 — Articulatory suppression im...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4511188/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4511188/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govExpertise, Working Memory and Articulatory Suppression Effectby I Injoque-Ricle · 2015 · Cited by 62 — Articulatory suppression im...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8557949/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8557949/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>subvocalization: An [eye-tracking](&amp;#123;&amp;#123; &#x27;eye-tracking/&#x27; | relative_url &amp;#125;&amp;#125;) study on silent...by J Beck · 2021 · Cited by 22 — The present study investigates effects of convention...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8557949/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8557949/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>subvocalization: An [eye-tracking](&amp;#123;&amp;#123; &#x27;eye-tracking/&#x27; | relative_url &amp;#125;&amp;#125;) study on silent...by J Beck · 2021 · Cited by 22 — The present study investigates effects of convention...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8655773/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8655773/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Influence of Articulatory Suppression on Reading Among...by X Li · 2021 · Cited by 2 — The study aimed to examine how the phonological l...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8655773/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8655773/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Influence of Articulatory Suppression on Reading Among...by X Li · 2021 · Cited by 2 — The study aimed to examine how the phonological l...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.2307/1510799" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.2307/1510799</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Subvocal Suppression on Learning Disabled...For both reading groups subvocalization was found to be necessary for comprehension of in...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.2307/1510799" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.2307/1510799</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Subvocal Suppression on Learning Disabled...For both reading groups subvocalization was found to be necessary for comprehension of in...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/280043352_Expertise_Working_Memory_and_Articulatory_Suppression_Effect_Their_Relation_with_Simultaneous_Interpreting_Performance" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/280043352_Expertise_Working_Memory_and_Articulatory_Suppression_Effect_Their_Relation_with_Simultaneous_Interpreting_Performance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Their Relation with Simultaneous Interpreting Performance1 Jan 2026 — The aim of this work was to study the relationship between expertis...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/280043352_Expertise_Working_Memory_and_Articulatory_Suppression_Effect_Their_Relation_with_Simultaneous_Interpreting_Performance" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/280043352_Expertise_Working_Memory_and_Articulatory_Suppression_Effect_Their_Relation_with_Simultaneous_Interpreting_Performance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Their Relation with Simultaneous Interpreting Performance1 Jan 2026 — The aim of this work was to study the relationship between expertis...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: research.manchester.ac.uk  
-   Link: <a href="https://research.manchester.ac.uk/en/studentTheses/the-effect-of-reading-direction-on-sentence-processing-an-investi/" target="_blank" rel="noopener noreferrer nofollow">https://research.manchester.ac.uk/en/studentTheses/the-effect-of-reading-direction-on-sentence-processing-an-investi/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of Reading Direction on Sentence ProcessingIn Chapters 5 and 6, we examined the effect of reading direction on complex sentence co...</p></details>
+   Link:<a href="https://research.manchester.ac.uk/en/studentTheses/the-effect-of-reading-direction-on-sentence-processing-an-investi/" target="_blank" rel="noopener noreferrer nofollow">https://research.manchester.ac.uk/en/studentTheses/the-effect-of-reading-direction-on-sentence-processing-an-investi/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of Reading Direction on Sentence ProcessingIn Chapters 5 and 6, we examined the effect of reading direction on complex sentence co...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pubs.asha.org  
-   Link: <a href="https://pubs.asha.org/doi/10.1044/jslhr.4302.293" target="_blank" rel="noopener noreferrer nofollow">https://pubs.asha.org/doi/10.1044/jslhr.4302.293</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ASHA PublicationsVerbal Working Memory and Sentence Comprehension in...In this study we examined the influence of verbal working memory...</p></details>
+   Link:<a href="https://pubs.asha.org/doi/10.1044/jslhr.4302.293" target="_blank" rel="noopener noreferrer nofollow">https://pubs.asha.org/doi/10.1044/jslhr.4302.293</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ASHA PublicationsVerbal Working Memory and Sentence Comprehension in...In this study we examined the influence of verbal working memory...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: psychology.stackexchange.com  
    Title: what is the effect of not sub vocalizing on reading comprehension  
-   Link: <a href="https://psychology.stackexchange.com/questions/2009/what-is-the-effect-of-not-sub-vocalizing-on-reading-comprehension" target="_blank" rel="noopener noreferrer nofollow">https://psychology.stackexchange.com/questions/2009/what-is-the-effect-of-not-sub-vocalizing-on-reading-comprehension</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>is the effect of not sub-vocalizing on reading...6 Dec 2012 — Sometimes when reading, text segments are not so important or relevant, wh...</p></details>
+   Link:<a href="https://psychology.stackexchange.com/questions/2009/what-is-the-effect-of-not-sub-vocalizing-on-reading-comprehension" target="_blank" rel="noopener noreferrer nofollow">https://psychology.stackexchange.com/questions/2009/what-is-the-effect-of-not-sub-vocalizing-on-reading-comprehension</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>is the effect of not sub-vocalizing on reading...6 Dec 2012 — Sometimes when reading, text segments are not so important or relevant, wh...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: advancedtherapyclinic.com  
    Title: how speech therapy assists with comprehending complex sentences  
-   Link: <a href="https://www.advancedtherapyclinic.com/blog/how-speech-therapy-assists-with-comprehending-complex-sentences" target="_blank" rel="noopener noreferrer nofollow">https://www.advancedtherapyclinic.com/blog/how-speech-therapy-assists-with-comprehending-complex-sentences</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Speech Therapy Assists with Comprehending...22 Oct 2025 — Research has established that [knowledge](&amp;#123;&amp;#123; &#x27;knowledge/&#x27; | relative_url &amp;#125;&amp;#125;) of sentence structures influences...</p></details>
+   Link:<a href="https://www.advancedtherapyclinic.com/blog/how-speech-therapy-assists-with-comprehending-complex-sentences" target="_blank" rel="noopener noreferrer nofollow">https://www.advancedtherapyclinic.com/blog/how-speech-therapy-assists-with-comprehending-complex-sentences</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Speech Therapy Assists with Comprehending...22 Oct 2025 — Research has established that [knowledge](&amp;#123;&amp;#123; &#x27;knowledge/&#x27; | relative_url &amp;#125;&amp;#125;) of sentence structures influences...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: scotthyoung.com  
    Title: Even expert speed readers do it, they just do it a bit faster than  
-   Link: <a href="https://www.scotthyoung.com/blog/2015/01/19/speed-reading-redo/" target="_blank" rel="noopener noreferrer nofollow">https://www.scotthyoung.com/blog/2015/01/19/speed-reading-redo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I Was Wrong About Speed Reading: Here are the Facts19 Jan 2015 — Here the evidence is clear: subvocalization is necessary to read well...</p></details>
+   Link:<a href="https://www.scotthyoung.com/blog/2015/01/19/speed-reading-redo/" target="_blank" rel="noopener noreferrer nofollow">https://www.scotthyoung.com/blog/2015/01/19/speed-reading-redo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I Was Wrong About Speed Reading: Here are the Facts19 Jan 2015 — Here the evidence is clear: subvocalization is necessary to read well...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/368145969_Effects_of_Reading_Aloud_and_Subvocalization_on_Text_Comprehension_and_Eye_Movementsyinshenghuatoneishenghuagawenzhangnolijieyayanqiuyundongnijibosuyingxiang" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/368145969_Effects_of_Reading_Aloud_and_Subvocalization_on_Text_Comprehension_and_Eye_Movementsyinshenghuatoneishenghuagawenzhangnolijieyayanqiuyundongnijibosuyingxiang</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>omprehension and eye movements, and also effects of type of subvocalization.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/368145969_Effects_of_Reading_Aloud_and_Subvocalization_on_Text_Comprehension_and_Eye_Movementsyinshenghuatoneishenghuagawenzhangnolijieyayanqiuyundongnijibosuyingxiang" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/368145969_Effects_of_Reading_Aloud_and_Subvocalization_on_Text_Comprehension_and_Eye_Movementsyinshenghuatoneishenghuagawenzhangnolijieyayanqiuyundongnijibosuyingxiang</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>omprehension and eye movements, and also effects of type of subvocalization.Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/328586159_Articulatory_Suppression_Impairs_Working_Memory_for_Ostensibly_Unvocalizable_Abstract_Sounds" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/328586159_Articulatory_Suppression_Impairs_Working_Memory_for_Ostensibly_Unvocalizable_Abstract_Sounds</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>etention interval showed worse memory performance than a control condition.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/328586159_Articulatory_Suppression_Impairs_Working_Memory_for_Ostensibly_Unvocalizable_Abstract_Sounds" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/328586159_Articulatory_Suppression_Impairs_Working_Memory_for_Ostensibly_Unvocalizable_Abstract_Sounds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>etention interval showed worse memory performance than a control condition.Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/23190459_Complex_Sentence_Comprehension_and_Working_Memory_in_Children_With_Specific_Language_Impairment" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/23190459_Complex_Sentence_Comprehension_and_Working_Memory_in_Children_With_Specific_Language_Impairment</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>cal short-term memory [PSTM], attentional resource capacity/allocation)Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/23190459_Complex_Sentence_Comprehension_and_Working_Memory_in_Children_With_Specific_Language_Impairment" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/23190459_Complex_Sentence_Comprehension_and_Working_Memory_in_Children_With_Specific_Language_Impairment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cal short-term memory [PSTM], attentional resource capacity/allocation)Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: reddit.com  
    Title: Researchers are still trying to understand those who don't need it.Read more  
-   Link: <a href="https://www.reddit.com/r/books/comments/plkx2r/the_never_ending_use_of_subvocalization_when/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/books/comments/plkx2r/the_never_ending_use_of_subvocalization_when/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The never ending use of subvocalization, when reading.Studies have shown that for 90+% of readers, subvocalization is essential for compr...</p></details>
+   Link:<a href="https://www.reddit.com/r/books/comments/plkx2r/the_never_ending_use_of_subvocalization_when/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/books/comments/plkx2r/the_never_ending_use_of_subvocalization_when/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The never ending use of subvocalization, when reading.Studies have shown that for 90+% of readers, subvocalization is essential for compr...</p></details>

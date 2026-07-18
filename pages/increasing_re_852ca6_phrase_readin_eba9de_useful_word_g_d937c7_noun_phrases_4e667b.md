@@ -279,7 +279,7 @@ When readers try to increase reading speed, one of the most useful habits is rec
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_useful_word_g_d937c7_noun_phrases_4e667b-Illustration-1-dark.svg" | relative_url }}" alt="Noun Phrases illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_useful_word_g_d937c7_noun_phrases_4e667b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_useful_word_g_d937c7_noun_phrases_4e667b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters because the subject often carries the sentence's main focus. If readers lose track of who or what the sentence concerns, they must [slow down]({{ 'slow-down/' | relative_url }}), reread, or mentally rebuild meaning. Research on reading fluency and phrase-cued reading shows that grouping words into meaningful units supports comprehension and more natural, efficient reading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets+2Intervention Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-title">Reading Rockets Fluency</span><span class="citation-popover-snippet">Reading RocketsFluency: IntroductionFluency is the ability to read a text accurately, at a good pace, and with proper expression and comp...</span></span></span>
+This matters because the subject often carries the sentence's main focus. If readers lose track of who or what the sentence concerns, they must [slow down]({{ 'slow-down/' | relative_url }}), reread, or mentally rebuild meaning. Research on reading fluency and phrase-cued reading shows that grouping words into meaningful units supports comprehension and more natural, efficient reading.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets+2Intervention Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-title">Reading Rockets Fluency</span><span class="citation-popover-snippet">Reading RocketsFluency: IntroductionFluency is the ability to read a text accurately, at a good pace, and with proper expression and comp...</span></span></span>
 
 ## What counts as a noun phrase?
 
@@ -313,11 +313,11 @@ In fluent reading, each of these groups is treated as one unit of meaning. The r
 
 Compare these two approaches:
 
-Sentence: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/397287122_The_Effects_of_Phrase-Cued_Reading_on_Reading_Fluency_and_Comprehension_in_Children_with_Borderline_Intellectual_Functioning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">structure awareness and meaning prediction abilities in children...</span></span></span>
+Sentence:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/397287122_The_Effects_of_Phrase-Cued_Reading_on_Reading_Fluency_and_Comprehension_in_Children_with_Borderline_Intellectual_Functioning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">structure awareness and meaning prediction abilities in children...</span></span></span>
 
 *The experienced mountain guide led the group safely home.*
 
-Word-by-word reading: <span class="citation-chip-wrap"><a class="citation-chip" href="https://prezi.com/h7iexyacm9_4/phrased-cued-learning/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prezi.com">[prezi.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prezi.com</span><span class="citation-popover-snippet">Phrased-Cued LearningPhrased-Cued Reading can help develop prosody and fluency · This type of reading instruction can be applied when rea...</span></span></span>
+Word-by-word reading:<span class="citation-chip-wrap"><a class="citation-chip" href="https://prezi.com/h7iexyacm9_4/phrased-cued-learning/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prezi.com">[prezi.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prezi.com</span><span class="citation-popover-snippet">Phrased-Cued LearningPhrased-Cued Reading can help develop prosody and fluency · This type of reading instruction can be applied when rea...</span></span></span>
 
 *The* → *experienced* → *mountain* → *guide*
 
@@ -337,13 +337,13 @@ Consider:
 
 A reader who processes each word separately must hold several pieces of information in memory before reaching the action word *announced*.
 
-A phrase reader sees: <span class="citation-chip-wrap"><a class="citation-chip" href="https://literacy.virginia.edu/sites/literacy/files/2023-05/the_reading_sourcebook_phrase_cued_reading_1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: literacy.virginia.edu">[literacy.virginia.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">literacy.virginia.edu</span><span class="citation-popover-snippet">Phrase-Cued ReadingOne of the characteristics of a fluent, proficient reader is the abil- ity to read with appropriate phrasing-chunking...</span></span></span>
+A phrase reader sees:<span class="citation-chip-wrap"><a class="citation-chip" href="https://literacy.virginia.edu/sites/literacy/files/2023-05/the_reading_sourcebook_phrase_cued_reading_1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: literacy.virginia.edu">[literacy.virginia.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">literacy.virginia.edu</span><span class="citation-popover-snippet">Phrase-Cued ReadingOne of the characteristics of a fluent, proficient reader is the abil- ity to read with appropriate phrasing-chunking...</span></span></span>
 
 *The newly appointed director of international operations* / *announced the changes*
 
 The entire subject becomes one mental package.
 
-Research on phrase-cued reading is based on the idea that skilled readers naturally "chunk" text into meaningful phrase units rather than treating every word as an isolated item. Marking phrase boundaries has repeatedly been shown to support more fluent reading and better recognition of sentence structure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://eric.ed.gov/?id=ED313689" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eric.ed.gov">[ERIC+2Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eric.ed.gov</span><span class="citation-popover-snippet">by TV Rasinski · 1990 · Cited by 16 — As in processing oral speech, proficient reading involves &quot;chunking&quot; written texts into meaning...</span></span></span>
+Research on phrase-cued reading is based on the idea that skilled readers naturally "chunk" text into meaningful phrase units rather than treating every word as an isolated item. Marking phrase boundaries has repeatedly been shown to support more fluent reading and better recognition of sentence structure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://eric.ed.gov/?id=ED313689" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eric.ed.gov">[ERIC+2Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eric.ed.gov</span><span class="citation-popover-snippet">by TV Rasinski · 1990 · Cited by 16 — As in processing oral speech, proficient reading involves &quot;chunking&quot; written texts into meaning...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mMej4PNoP8c" title="Improving Reading Fluency: Tips for phrase cued reading for new intervention teachers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mMej4PNoP8c" target="_blank" rel="noopener noreferrer">Improving Reading Fluency: Tips for phrase cued reading for new intervention teachers</a></p><p class="youtube-embed-meta">Channel: Emily Muccianti &middot; Views: 2.9K &middot; Uploaded: March 2023 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mMej4PNoP8c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mMej4PNoP8c">Open on YouTube</a></p></div></div></div>
@@ -385,7 +385,7 @@ When the subject is recognised as one unit:
 3. The reader can anticipate how the sentence will develop.
 4. Fewer [regressions]({{ 'lookbacks/' | relative_url }}) and rereads are needed.
 
-Studies of phrase-cued and syntactically segmented text suggest that preserving meaningful phrase boundaries improves aspects of reading fluency and helps readers process sentence structure more effectively. Cambridge University Press &amp; Assessment+2Wiley Online Library <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/journals/applied-psycholinguistics/article/syntactically-cued-text-facilitates-oral-reading-fluency-in-developing-readers/49D41A8EF948352C852B647237540E57" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">49D41A8EF948352C852B647237540E57</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentSyntactically cued text facilitates oral reading fluency in ...by VM LEVASSEUR · 2006 · Cited by 6...</span></span></span>
+Studies of phrase-cued and syntactically segmented text suggest that preserving meaningful phrase boundaries improves aspects of reading fluency and helps readers process sentence structure more effectively. Cambridge University Press &amp; Assessment+2Wiley Online Library<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/journals/applied-psycholinguistics/article/syntactically-cued-text-facilitates-oral-reading-fluency-in-developing-readers/49D41A8EF948352C852B647237540E57" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">49D41A8EF948352C852B647237540E57</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentSyntactically cued text facilitates oral reading fluency in ...by VM LEVASSEUR · 2006 · Cited by 6...</span></span></span>
 
 The key idea is simple: readers do not need to understand every word separately before understanding the subject. They need to recognise which words belong together.
 
@@ -399,7 +399,7 @@ One effective way to train phrase recognition is to watch a subject grow while k
 
 **the scientist**
 
-Sentence: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/397287122_The_Effects_of_Phrase-Cued_Reading_on_Reading_Fluency_and_Comprehension_in_Children_with_Borderline_Intellectual_Functioning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">structure awareness and meaning prediction abilities in children...</span></span></span>
+Sentence:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/397287122_The_Effects_of_Phrase-Cued_Reading_on_Reading_Fluency_and_Comprehension_in_Children_with_Borderline_Intellectual_Functioning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">structure awareness and meaning prediction abilities in children...</span></span></span>
 
 *The scientist presented the findings.*
 
@@ -407,18 +407,18 @@ Sentence: <span class="citation-chip-wrap"><a class="citation-chip" href="https:
 
 **the young scientist**
 
-Sentence: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/397287122_The_Effects_of_Phrase-Cued_Reading_on_Reading_Fluency_and_Comprehension_in_Children_with_Borderline_Intellectual_Functioning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">structure awareness and meaning prediction abilities in children...</span></span></span>
+Sentence:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/397287122_The_Effects_of_Phrase-Cued_Reading_on_Reading_Fluency_and_Comprehension_in_Children_with_Borderline_Intellectual_Functioning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">structure awareness and meaning prediction abilities in children...</span></span></span>
 
 *The young scientist presented the findings.*
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jRCN6ayGKJU" title="Speed Reading in Phrases" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jRCN6ayGKJU" target="_blank" rel="noopener noreferrer">Speed Reading in Phrases</a></p><p class="youtube-embed-meta">Channel: ReadSpeeder &middot; Views: 228 &middot; Uploaded: April 2024 &middot; Length: 1 minute 34 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jRCN6ayGKJU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jRCN6ayGKJU">Open on YouTube</a></p></div></div></div>
 
-### Stage 3: Add more detail
+### Stage 3: Add
 
 **the young scientist from the university**
 
-Sentence: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/397287122_The_Effects_of_Phrase-Cued_Reading_on_Reading_Fluency_and_Comprehension_in_Children_with_Borderline_Intellectual_Functioning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">structure awareness and meaning prediction abilities in children...</span></span></span>
+Sentence:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/397287122_The_Effects_of_Phrase-Cued_Reading_on_Reading_Fluency_and_Comprehension_in_Children_with_Borderline_Intellectual_Functioning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">structure awareness and meaning prediction abilities in children...</span></span></span>
 
 *The young scientist from the university presented the findings.*
 
@@ -426,7 +426,7 @@ Sentence: <span class="citation-chip-wrap"><a class="citation-chip" href="https:
 
 **the young scientist from the university's climate research programme**
 
-Sentence: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/397287122_The_Effects_of_Phrase-Cued_Reading_on_Reading_Fluency_and_Comprehension_in_Children_with_Borderline_Intellectual_Functioning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">structure awareness and meaning prediction abilities in children...</span></span></span>
+Sentence:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/397287122_The_Effects_of_Phrase-Cued_Reading_on_Reading_Fluency_and_Comprehension_in_Children_with_Borderline_Intellectual_Functioning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">structure awareness and meaning prediction abilities in children...</span></span></span>
 
 *The young scientist from the university's climate research programme presented the findings.*
 
@@ -444,7 +444,7 @@ Although the subject becomes longer, the reading goal remains the same: see the 
 
 **the large dog near the gate with the red collar**
 
-Sentence: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/397287122_The_Effects_of_Phrase-Cued_Reading_on_Reading_Fluency_and_Comprehension_in_Children_with_Borderline_Intellectual_Functioning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">structure awareness and meaning prediction abilities in children...</span></span></span>
+Sentence:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/397287122_The_Effects_of_Phrase-Cued_Reading_on_Reading_Fluency_and_Comprehension_in_Children_with_Borderline_Intellectual_Functioning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">structure awareness and meaning prediction abilities in children...</span></span></span>
 
 *The large dog near the gate with the red collar barked loudly.*
 
@@ -502,197 +502,197 @@ For example:
 
 </div>
 
-This habit reduces word-by-word processing and encourages phrase reading. Over time, readers begin recognising longer noun phrases automatically, allowing the subject to become clear almost instantly and freeing attention for understanding the rest of the sentence. Research on phrase-cued reading and fluency instruction consistently supports the value of grouping words into meaningful units rather than processing them one at a time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.interventioncentral.org/academic-interventions/reading-comprehension/phrase-cued-text-lessons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interventioncentral.org">[Intervention Central+2literacy.virginia.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interventioncentral.org</span><span class="citation-popover-snippet">Intervention CentralPhrase-Cued Text LessonsDESCRIPTION: Phrase-cued texts are a means to train students to recognize the natural pauses...</span></span></span>
+This habit reduces word-by-word processing and encourages phrase reading. Over time, readers begin recognising longer noun phrases automatically, allowing the subject to become clear almost instantly and freeing attention for understanding the rest of the sentence. Research on phrase-cued reading and fluency instruction consistently supports the value of grouping words into meaningful units rather than processing them one at a time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.interventioncentral.org/academic-interventions/reading-comprehension/phrase-cued-text-lessons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interventioncentral.org">[Intervention Central+2literacy.virginia.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interventioncentral.org</span><span class="citation-popover-snippet">Intervention CentralPhrase-Cued Text LessonsDESCRIPTION: Phrase-cued texts are a means to train students to recognize the natural pauses...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why subject groups stop sentence confusion. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why subject groups stop sentence confusion. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=English+Grammar+in+Use+Book+with+Answers%3A+A+Self-study+Reference+and+Practice+Book+for+Intermediate+Learners+of+English&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open English Grammar in Use Book with Answers: A Self-study Reference and Practice Book for Intermediate Learners of English on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8665352-M.jpg" alt="Cover for English Grammar in Use Book with Answers: A Self-study Reference and Practice Book for Intermediate Learners of English" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=English+Grammar+in+Use+Book+with+Answers%3A+A+Self-study+Reference+and+Practice+Book+for+Intermediate+Learners+of+English&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="English Grammar in Use Book with Answers: A Self-study Reference and Practice Book for Intermediate Learners of English">English Grammar in Use Book with Answers: A Self-study Refere...</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=English+Grammar+in+Use+Book+with+Answers%3A+A+Self-study+Reference+and+Practice+Book+for+Intermediate+Learners+of+English&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open English Grammar in Use Book with Answers: A Self-study Reference and Practice Book for Intermediate Learners of English on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8665352-M.jpg" alt="Cover for English Grammar in Use Book with Answers: A Self-study Reference and Practice Book for Intermediate Learners of English" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=English+Grammar+in+Use+Book+with+Answers%3A+A+Self-study+Reference+and+Practice+Book+for+Intermediate+Learners+of+English&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="English Grammar in Use Book with Answers: A Self-study Reference and Practice Book for Intermediate Learners of English">English Grammar in Use Book with Answers: A Self-study Refere...</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Provides extensive coverage of noun phrases, subjects, modifiers, and sentence structure.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=English+Grammar+in+Use+Book+with+Answers%3A+A+Self-study+Reference+and+Practice+Book+for+Intermediate+Learners+of+English&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides extensive coverage of noun phrases, subjects, modifiers, and sentence structure.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=English+Grammar+in+Use+Book+with+Answers%3A+A+Self-study+Reference+and+Practice+Book+for+Intermediate+Learners+of+English&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Sense+of+Style+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Sense of Style on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7366712-M.jpg" alt="Cover for The Sense of Style" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Sense+of+Style+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sense of Style">The Sense of Style</a>
-        </h4>
-        <p class="fr-book-author">By Steven Pinker</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Sense+of+Style+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Sense of Style on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7366712-M.jpg" alt="Cover for The Sense of Style" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Sense+of+Style+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sense of Style">The Sense of Style</a>
+</h4>
+<p class="fr-book-author">By Steven Pinker</p>
         
-        <p class="fr-book-desc">Explains how readers mentally process complex subjects and sentence structures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Sense+of+Style+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how readers mentally process complex subjects and sentence structures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Sense+of+Style+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Practical+English+Usage+Michael+Swan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Practical English Usage on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5295458-M.jpg" alt="Cover for Practical English Usage" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Practical+English+Usage+Michael+Swan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical English Usage">Practical English Usage</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Practical+English+Usage+Michael+Swan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Practical English Usage on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5295458-M.jpg" alt="Cover for Practical English Usage" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Practical+English+Usage+Michael+Swan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical English Usage">Practical English Usage</a>
+</h4>
+<p class="fr-book-author">By Michael Swan</p>
         
-        <p class="fr-book-desc">First published 1980. Subjects: English language, Grammar, Textbooks for foreign speakers, Usage, Podre ·czniki dla obcoje ·zycznych.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Practical+English+Usage+Michael+Swan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1980. Subjects: English language, Grammar, Textbooks for foreign speakers, Usage, Podre ·czniki dla obcoje ·zycznych.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Practical+English+Usage+Michael+Swan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Only+Grammar+Book+You%27ll+Ever+Need+Susan+Thurman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Only Grammar Book You&#x27;ll Ever Need on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/840809-M.jpg" alt="Cover for The Only Grammar Book You&#x27;ll Ever Need" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Only+Grammar+Book+You%27ll+Ever+Need+Susan+Thurman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Only Grammar Book You&#x27;ll Ever Need">The Only Grammar Book You&#x27;ll Ever Need</a>
-        </h4>
-        <p class="fr-book-author">By Susan Thurman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Only+Grammar+Book+You%27ll+Ever+Need+Susan+Thurman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Only Grammar Book You&#x27;ll Ever Need on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/840809-M.jpg" alt="Cover for The Only Grammar Book You&#x27;ll Ever Need" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Only+Grammar+Book+You%27ll+Ever+Need+Susan+Thurman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Only Grammar Book You&#x27;ll Ever Need">The Only Grammar Book You&#x27;ll Ever Need</a>
+</h4>
+<p class="fr-book-author">By Susan Thurman</p>
         
-        <p class="fr-book-desc">First published 2003. Subjects: Grammar, English, Writing, English language, Handbooks, manuals.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Only+Grammar+Book+You%27ll+Ever+Need+Susan+Thurman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2003. Subjects: Grammar, English, Writing, English language, Handbooks, manuals.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Only+Grammar+Book+You%27ll+Ever+Need+Susan+Thurman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=English+Grammar+in+Use+Book+with+Answers%3A+A+Self+study+and+Practice+Book+for+Intermediate+Learners+of+English+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">English Grammar in Use Book with Answers: A Self study and Practice Book for Intermediate Learners of English books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Sense+of+Style&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Sense of Style</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Practical+English+Usage&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Practical English Usage</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=English+Grammar+in+Use+Book+with+Answers%3A+A+Self+study+and+Practice+Book+for+Intermediate+Learners+of+English+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">English Grammar in Use Book with Answers: A Self study and Practice Book for Intermediate Learners of English books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Sense+of+Style&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Sense of Style</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Practical+English+Usage&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Practical English Usage</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Take That Music Poster The Circus Summer Tour 2026 Promotional Tour Gig Poster"><img src="{{ '/assets/images/marketplace-covers/8447e39577d6f74e5f28.jpg' | relative_url }}" alt="Listing image for Take That Music Poster The Circus Summer Tour 2026 Promotional Tour Gig Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Take That Music Poster The Circus Summer Tour 2026 Promotional Tour Gig Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for that poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: that poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Take That Music Poster The Circus Summer Tour 2026 Promotional Tour Gig Poster"><img src="{{ '/assets/images/marketplace-covers/8447e39577d6f74e5f28.jpg' | relative_url }}" alt="Listing image for Take That Music Poster The Circus Summer Tour 2026 Promotional Tour Gig Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Take That Music Poster The Circus Summer Tour 2026 Promotional Tour Gig Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for that poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: that poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 Take That Poster"><img src="{{ '/assets/images/marketplace-covers/882c029ae826dfc3772e.jpg' | relative_url }}" alt="Listing image for Large A3 Take That Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Large A3 Take That Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for that poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: that poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 Take That Poster"><img src="{{ '/assets/images/marketplace-covers/882c029ae826dfc3772e.jpg' | relative_url }}" alt="Listing image for Large A3 Take That Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Large A3 Take That Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for that poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: that poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 Take That Poster"><img src="{{ '/assets/images/marketplace-covers/a04176a0d525ecfe2f81.jpg' | relative_url }}" alt="Listing image for Large A3 Take That Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Large A3 Take That Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for that poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: that poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 Take That Poster"><img src="{{ '/assets/images/marketplace-covers/a04176a0d525ecfe2f81.jpg' | relative_url }}" alt="Listing image for Large A3 Take That Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Large A3 Take That Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for that poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: that poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 Take That Poster"><img src="{{ '/assets/images/marketplace-covers/4e3daf9f35bf883cfa2b.jpg' | relative_url }}" alt="Listing image for Large A3 Take That Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Large A3 Take That Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for that poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: that poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 Take That Poster"><img src="{{ '/assets/images/marketplace-covers/4e3daf9f35bf883cfa2b.jpg' | relative_url }}" alt="Listing image for Large A3 Take That Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Large A3 Take That Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for that poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: that poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="noun-phrases-why-subject-groups-stop-sentence-confusion-increasing-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -708,7 +708,7 @@ This habit reduces word-by-word processing and encourages phrase reading. Over t
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -728,7 +728,7 @@ This habit reduces word-by-word processing and encourages phrase reading. Over t
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -760,7 +760,7 @@ This habit reduces word-by-word processing and encourages phrase reading. Over t
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -812,7 +812,7 @@ This habit reduces word-by-word processing and encourages phrase reading. Over t
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -857,7 +857,7 @@ This habit reduces word-by-word processing and encourages phrase reading. Over t
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -898,103 +898,103 @@ This habit reduces word-by-word processing and encourages phrase reading. Over t
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/journals/applied-psycholinguistics/article/syntactically-[cued-text" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/applied-psycholinguistics/article/syntactically-[cued-text</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentSyntactically cued text facilitates oral reading fluency in...by VM LEVASSEUR · 2006 · Cited by 6...</p></details>
+   Link:<a href="https://www.cambridge.org/core/journals/applied-psycholinguistics/article/syntactically-[cued-text" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/applied-psycholinguistics/article/syntactically-[cued-text</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentSyntactically cued text facilitates oral reading fluency in...by VM LEVASSEUR · 2006 · Cited by 6...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: onlinelibrary.wiley.com  
    Title: 1467 9817.70002  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/1467-9817.70002" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1111/1467-9817.70002</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryPairing phrase‐cued text with readers theatre: Effects on...by E Rodgers · 2025 · Cited by 2 — Another method that h...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/1467-9817.70002" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1111/1467-9817.70002</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryPairing phrase‐cued text with readers theatre: Effects on...by E Rodgers · 2025 · Cited by 2 — Another method that h...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: literacy.virginia.edu  
-   Link: <a href="https://literacy.virginia.edu/sites/literacy/files/2023-05/the_reading_sourcebook_phrase_cued_reading_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://literacy.virginia.edu/sites/literacy/files/2023-05/the_reading_sourcebook_phrase_cued_reading_1.pdf</a>  
+   Link:<a href="https://literacy.virginia.edu/sites/literacy/files/2023-05/the_reading_sourcebook_phrase_cued_reading_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://literacy.virginia.edu/sites/literacy/files/2023-05/the_reading_sourcebook_phrase_cued_reading_1.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: phrase.com  
-   Link: <a href="https://phrase.com/ja/" target="_blank" rel="noopener noreferrer nofollow">https://phrase.com/ja/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Phrase：AI搭載のローカリゼーション＆翻訳プラットフォームPhraseは、翻訳メモリ、用語集、スタイルガイド、品質データ、マルチモーダル資産を統合し、AIにすべての言語と市場で正しい判断を下すために必要な言語的深さを提供します...</p></details>
+   Link:<a href="https://phrase.com/ja/" target="_blank" rel="noopener noreferrer nofollow">https://phrase.com/ja/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Phrase：AI搭載のローカリゼーション＆翻訳プラットフォームPhraseは、翻訳メモリ、用語集、スタイルガイド、品質データ、マルチモーダル資産を統合し、AIにすべての言語と市場で正しい判断を下すために必要な言語的深さを提供します...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: readingrockets.org  
    Title: Reading Rockets Fluency  
-   Link: <a href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsFluency: IntroductionFluency is the ability to read a text accurately, at a good pace, and with proper expression and comp...</p></details>
+   Link:<a href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsFluency: IntroductionFluency is the ability to read a text accurately, at a good pace, and with proper expression and comp...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: interventioncentral.org  
-   Link: <a href="https://www.interventioncentral.org/academic-interventions/reading-comprehension/phrase-cued-text-lessons" target="_blank" rel="noopener noreferrer nofollow">https://www.interventioncentral.org/academic-interventions/reading-comprehension/phrase-cued-text-lessons</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Intervention CentralPhrase-Cued Text LessonsDESCRIPTION: Phrase-cued texts are a means to train students to recognize the natural pauses...</p></details>
+   Link:<a href="https://www.interventioncentral.org/academic-interventions/reading-comprehension/phrase-cued-text-lessons" target="_blank" rel="noopener noreferrer nofollow">https://www.interventioncentral.org/academic-interventions/reading-comprehension/phrase-cued-text-lessons</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Intervention CentralPhrase-Cued Text LessonsDESCRIPTION: Phrase-cued texts are a means to train students to recognize the natural pauses...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: eric.ed.gov  
-   Link: <a href="https://eric.ed.gov/?id=ED313689" target="_blank" rel="noopener noreferrer nofollow">https://eric.ed.gov/?id=ED313689</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by TV Rasinski · 1990 · Cited by 16 — As in processing oral speech, proficient reading involves &quot;chunking&quot; written texts into meaning...</p></details>
+   Link:<a href="https://eric.ed.gov/?id=ED313689" target="_blank" rel="noopener noreferrer nofollow">https://eric.ed.gov/?id=ED313689</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by TV Rasinski · 1990 · Cited by 16 — As in processing oral speech, proficient reading involves &quot;chunking&quot; written texts into meaning...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/topics/comprehension/articles/performance-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/comprehension/articles/performance-reading</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Performance ReadingPerformance reading, or fluent oral reading, can be practiced when young students join in a repeated reading of a book...</p></details>
+   Link:<a href="https://www.readingrockets.org/topics/comprehension/articles/performance-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/comprehension/articles/performance-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Performance ReadingPerformance reading, or fluent oral reading, can be practiced when young students join in a repeated reading of a book...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/397287122_The_Effects_of_Phrase-Cued_Reading_on_Reading_Fluency_and_Comprehension_in_Children_with_Borderline_Intellectual_Functioning" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397287122_The_Effects_of_Phrase-Cued_Reading_on_Reading_Fluency_and_Comprehension_in_Children_with_Borderline_Intellectual_Functioning</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>structure awareness and meaning prediction abilities in children...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/397287122_The_Effects_of_Phrase-Cued_Reading_on_Reading_Fluency_and_Comprehension_in_Children_with_Borderline_Intellectual_Functioning" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397287122_The_Effects_of_Phrase-Cued_Reading_on_Reading_Fluency_and_Comprehension_in_Children_with_Borderline_Intellectual_Functioning</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>structure awareness and meaning prediction abilities in children...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/389791217_Pairing_phrase-cued_text_with_readers_theatre_Effects_on_reading_prosody_and_automaticity" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/389791217_Pairing_phrase-cued_text_with_readers_theatre_Effects_on_reading_prosody_and_automaticity</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pairing phrase‐cued text with readers theatreConclusions Adding text with highlighted phrase boundaries enhanced the effect of readers th...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/389791217_Pairing_phrase-cued_text_with_readers_theatre_Effects_on_reading_prosody_and_automaticity" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/389791217_Pairing_phrase-cued_text_with_readers_theatre_Effects_on_reading_prosody_and_automaticity</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pairing phrase‐cued text with readers theatreConclusions Adding text with highlighted phrase boundaries enhanced the effect of readers th...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sortools.com  
-   Link: <a href="https://sortools.com/phrase_cue.html" target="_blank" rel="noopener noreferrer nofollow">https://sortools.com/phrase_cue.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Phrase-Cued Text GeneratorPhrase-cued text is a strategy for teaching reading fluency. Cues, or dashes, are inserted after punctuation ma...</p></details>
+   Link:<a href="https://sortools.com/phrase_cue.html" target="_blank" rel="noopener noreferrer nofollow">https://sortools.com/phrase_cue.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Phrase-Cued Text GeneratorPhrase-cued text is a strategy for teaching reading fluency. Cues, or dashes, are inserted after punctuation ma...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sarahsnippets.com  
-   Link: <a href="https://sarahsnippets.com/fluency-phrased-reading-scooping/" target="_blank" rel="noopener noreferrer nofollow">https://sarahsnippets.com/fluency-phrased-reading-scooping/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Phrased Reading: Foundations of Fluency SkillsPhrase-cued reading dates back to fluency research by Jay Samuels and has been further deve...</p></details>
+   Link:<a href="https://sarahsnippets.com/fluency-phrased-reading-scooping/" target="_blank" rel="noopener noreferrer nofollow">https://sarahsnippets.com/fluency-phrased-reading-scooping/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Phrased Reading: Foundations of Fluency SkillsPhrase-cued reading dates back to fluency research by Jay Samuels and has been further deve...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: prezi.com  
-   Link: <a href="https://prezi.com/h7iexyacm9_4/phrased-cued-learning/" target="_blank" rel="noopener noreferrer nofollow">https://prezi.com/h7iexyacm9_4/phrased-cued-learning/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Phrased-Cued LearningPhrased-Cued Reading can help develop prosody and fluency · This type of reading instruction can be applied when rea...</p></details>
+   Link:<a href="https://prezi.com/h7iexyacm9_4/phrased-cued-learning/" target="_blank" rel="noopener noreferrer nofollow">https://prezi.com/h7iexyacm9_4/phrased-cued-learning/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Phrased-Cued LearningPhrased-Cued Reading can help develop prosody and fluency · This type of reading instruction can be applied when rea...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: naset.com  
-   Link: <a href="https://www.naset.com/publications/the-practical-teacher/the-brain-prosody-and-reading-fluency/" target="_blank" rel="noopener noreferrer nofollow">https://www.naset.com/publications/the-practical-teacher/the-brain-prosody-and-reading-fluency/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Brain, Prosody, and Reading Fluency -A phrase-cued text is a written passage that is divided according to natural pauses that oc...</p></details>
+   Link:<a href="https://www.naset.com/publications/the-practical-teacher/the-brain-prosody-and-reading-fluency/" target="_blank" rel="noopener noreferrer nofollow">https://www.naset.com/publications/the-practical-teacher/the-brain-prosody-and-reading-fluency/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Brain, Prosody, and Reading Fluency -A phrase-cued text is a written passage that is divided according to natural pauses that oc...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/326792180_The_Effect_of_Phrase-Cued_Text_Strategy_on_Students%27_Reading_Comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/326792180_The_Effect_of_Phrase-Cued_Text_Strategy_on_Students%27_Reading_Comprehension</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Effect of Phrase-Cued Text Strategy on Students...Mar 26, 2026 — The [purpose](&amp;#123;&amp;#123; &#x27;purpose/&#x27; | relative_url &amp;#125;&amp;#125;) of this research was to know the significant effe...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/326792180_The_Effect_of_Phrase-Cued_Text_Strategy_on_Students%27_Reading_Comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/326792180_The_Effect_of_Phrase-Cued_Text_Strategy_on_Students%27_Reading_Comprehension</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Effect of Phrase-Cued Text Strategy on Students...Mar 26, 2026 — The [purpose](&amp;#123;&amp;#123; &#x27;purpose/&#x27; | relative_url &amp;#125;&amp;#125;) of this research was to know the significant effe...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DJaJcroRcQB/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DJaJcroRcQB/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>With phrase-cued reading, we&#x27;re taking the guesswork out of where phrases should be broken...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DJaJcroRcQB/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DJaJcroRcQB/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>With phrase-cued reading, we&#x27;re taking the guesswork out of where phrases should be broken...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: theteachingtexan.com  
    Title: Building Blocks of Reading: Fluency Promote Phrased Reading  
-   Link: <a href="https://theteachingtexan.com/building-blocks-of-reading-fluency/" target="_blank" rel="noopener noreferrer nofollow">https://theteachingtexan.com/building-blocks-of-reading-fluency/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Since “fluency involves reading phrases seamlessly, as opposed to word by word,” I love to reinforce this skill with weekly poems...Rea...</p></details>
+   Link:<a href="https://theteachingtexan.com/building-blocks-of-reading-fluency/" target="_blank" rel="noopener noreferrer nofollow">https://theteachingtexan.com/building-blocks-of-reading-fluency/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Since “fluency involves reading phrases seamlessly, as opposed to word by word,” I love to reinforce this skill with weekly poems...Rea...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: literacyedventures.com  
    Title: research backed fluency strategies that work  
-   Link: <a href="https://www.literacyedventures.com/blog/research-backed-fluency-strategies-that-work" target="_blank" rel="noopener noreferrer nofollow">https://www.literacyedventures.com/blog/research-backed-fluency-strategies-that-work</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Phrase-Cued Reading... Why it works: Fluent readers don&#x27;t read word by word—they read in phrases, grouping words naturally to reflect me...</p></details>
+   Link:<a href="https://www.literacyedventures.com/blog/research-backed-fluency-strategies-that-work" target="_blank" rel="noopener noreferrer nofollow">https://www.literacyedventures.com/blog/research-backed-fluency-strategies-that-work</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Phrase-Cued Reading... Why it works: Fluent readers don&#x27;t read word by word—they read in phrases, grouping words naturally to reflect me...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: studentachievementsolutions.com  
    Title: reading fluency and proficiency proven strategies  
-   Link: <a href="https://www.studentachievementsolutions.com/reading-fluency-and-proficiency-proven-strategies/" target="_blank" rel="noopener noreferrer nofollow">https://www.studentachievementsolutions.com/reading-fluency-and-proficiency-proven-strategies/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Marking text with [phrase cues](&amp;#123;&amp;#123; &#x27;phrase-cues/&#x27; | relative_url &amp;#125;&amp;#125;) helps students learn proper intonation and natural breaks in sentences, improving their...Read more...</p></details>
+   Link:<a href="https://www.studentachievementsolutions.com/reading-fluency-and-proficiency-proven-strategies/" target="_blank" rel="noopener noreferrer nofollow">https://www.studentachievementsolutions.com/reading-fluency-and-proficiency-proven-strategies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Marking text with [phrase cues](&amp;#123;&amp;#123; &#x27;phrase-cues/&#x27; | relative_url &amp;#125;&amp;#125;) helps students learn proper intonation and natural breaks in sentences, improving their...Read more...</p></details>

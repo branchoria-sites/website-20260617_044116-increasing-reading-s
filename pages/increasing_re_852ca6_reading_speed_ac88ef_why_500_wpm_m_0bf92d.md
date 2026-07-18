@@ -288,17 +288,17 @@ image: /assets/images/increasing_re_852ca6_reading_speed_ac88ef_why_500_wpm_m_0b
 
 ## Introduction
 
-Many adults who want to increase their reading speed encounter claims that 500 words per minute (wpm) is an achievable target for ordinary reading. The key question is not whether someone’s eyes can move across text at that pace, but whether they are performing the same task as a reader moving through a text carefully and understanding its details. Research in reading psychology consistently finds that very high reading rates often involve [skimming]({{ 'skimming/' | relative_url }}), [scanning]({{ 'scanning-vs-reading/' | relative_url }}), or selective attention rather than full reading with equivalent comprehension. In other words, a reported speed of 500 wpm frequently reflects a change in what is being measured, not simply a more efficient version of normal reading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 534 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</span></span></span>
+Many adults who want to increase their reading speed encounter claims that 500 words per minute (wpm) is an achievable target for ordinary reading. The key question is not whether someone’s eyes can move across text at that pace, but whether they are performing the same task as a reader moving through a text carefully and understanding its details. Research in reading psychology consistently finds that very high reading rates often involve [skimming]({{ 'skimming/' | relative_url }}), [scanning]({{ 'scanning-vs-reading/' | relative_url }}), or selective attention rather than full reading with equivalent comprehension. In other words, a reported speed of 500 wpm frequently reflects a change in what is being measured, not simply a more efficient version of normal reading.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 534 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef_why_500_wpm_m_0bf92d-Illustration-1-dark.svg" | relative_url }}" alt="500 WPM illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef_why_500_wpm_m_0bf92d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef_why_500_wpm_m_0bf92d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction matters because realistic adult reading [benchmarks]({{ 'benchmarks/' | relative_url }}) are much lower. Average silent reading rates for English-speaking adults are around 238 wpm for non-fiction and 260 wpm for fiction, making 500 wpm roughly double the normal pace. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://biblio.ugent.be/publication/8647789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: biblio.ugent.be">[Ghent University Bibliography]</a><span class="citation-popover" role="note"><span class="citation-popover-source">biblio.ugent.be</span><span class="citation-popover-title">Ghent University Bibliography How many words do we read per minute?</span><span class="citation-popover-snippet">A review and meta...by M Brysbaert · 2019 · Cited by 879 — M. Brysbaert, “How many words do we read per minute? A review and meta-analys...</span></span></span>
+This distinction matters because realistic adult reading [benchmarks]({{ 'benchmarks/' | relative_url }}) are much lower. Average silent reading rates for English-speaking adults are around 238 wpm for non-fiction and 260 wpm for fiction, making 500 wpm roughly double the normal pace.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://biblio.ugent.be/publication/8647789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: biblio.ugent.be">[Ghent University Bibliography]</a><span class="citation-popover" role="note"><span class="citation-popover-source">biblio.ugent.be</span><span class="citation-popover-title">Ghent University Bibliography How many words do we read per minute?</span><span class="citation-popover-snippet">A review and meta...by M Brysbaert · 2019 · Cited by 879 — M. Brysbaert, “How many words do we read per minute? A review and meta-analys...</span></span></span>
 
 ## Can You Really Read 500 WPM?
 
 The short answer is: sometimes, but usually not in the sense people imagine.
 
-A reader may move through text at 500 wpm and still emerge with a general understanding of the topic. The problem is that “general understanding” is not the same as full comprehension. Scientific reviews of reading research have repeatedly found that attempts to double or triple normal reading speed come with costs to understanding, recall, or both. Researchers reviewing decades of evidence concluded that readers are unlikely to move from roughly 250 wpm to 500–750 wpm while maintaining the same level of comprehension they would achieve at their normal pace. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2USF Faculty]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 534 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</span></span></span>
+A reader may move through text at 500 wpm and still emerge with a general understanding of the topic. The problem is that “general understanding” is not the same as full comprehension. Scientific reviews of reading research have repeatedly found that attempts to double or triple normal reading speed come with costs to understanding, recall, or both. Researchers reviewing decades of evidence concluded that readers are unlikely to move from roughly 250 wpm to 500–750 wpm while maintaining the same level of comprehension they would achieve at their normal pace.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2USF Faculty]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 534 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</span></span></span>
 
 That does not mean 500 wpm is impossible. It means that when readers report success at that speed, they are often performing a different cognitive task.
 
@@ -310,7 +310,7 @@ Skimming changes those priorities. Instead of processing every sentence with equ
 
 This distinction explains why two readers can finish the same article at dramatically different speeds and both claim to have “understood it”. One may be able to summarise the main argument. The other may be able to explain the evidence, identify [exceptions]({{ 'exceptions/' | relative_url }}), and answer detailed questions. These are different levels of comprehension.
 
-Research reviews therefore make a crucial distinction between reading and text scanning. The evidence does support much faster rates for scanning and skimming, but not for maintaining the same depth of understanding associated with ordinary reading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://reader.ku.edu/sites/reader/files/2024-01/How%20many%20words%20do%20we%20read%20per%20minute%20%281%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reader.ku.edu">[Audio-Reader]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reader.ku.edu</span><span class="citation-popover-title">Audio-Reader How many words do we read per minute</span><span class="citation-popover-snippet">• For English silent reading it is 238 words per minute. • For reading aloud it is 183 words per minute. •...Read more...</span></span></span>
+Research reviews therefore make a crucial distinction between reading and text scanning. The evidence does support much faster rates for scanning and skimming, but not for maintaining the same depth of understanding associated with ordinary reading.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://reader.ku.edu/sites/reader/files/2024-01/How%20many%20words%20do%20we%20read%20per%20minute%20%281%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reader.ku.edu">[Audio-Reader]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reader.ku.edu</span><span class="citation-popover-title">Audio-Reader How many words do we read per minute</span><span class="citation-popover-snippet">• For English silent reading it is 238 words per minute. • For reading aloud it is 183 words per minute. •...Read more...</span></span></span>
 
 A practical example illustrates the difference:
 
@@ -332,11 +332,11 @@ For many real-world tasks, those missed qualifications matter.
 
 The main reason is that reading is constrained not only by eye movement but also by language processing.
 
-During normal reading, the brain must identify words, access their meanings, integrate them into sentences, connect those sentences into larger ideas, and update memory as new information arrives. Each of these processes consumes time. Simply moving the eyes faster does not remove those cognitive requirements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 534 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</span></span></span>
+During normal reading, the brain must identify words, access their meanings, integrate them into sentences, connect those sentences into larger ideas, and update memory as new information arrives. Each of these processes consumes time. Simply moving the eyes faster does not remove those cognitive requirements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 534 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</span></span></span>
 
-Researchers often describe this as a speed–accuracy trade-off. As reading speed increases, comprehension tends to decrease because the reader has less time to perform the mental operations needed for deep understanding. The trade-off is not always severe at moderate increases in speed, but it becomes increasingly difficult to avoid as rates approach 500 wpm and beyond. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2readingquick.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 534 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</span></span></span>
+Researchers often describe this as a speed–accuracy trade-off. As reading speed increases, comprehension tends to decrease because the reader has less time to perform the mental operations needed for deep understanding. The trade-off is not always severe at moderate increases in speed, but it becomes increasingly difficult to avoid as rates approach 500 wpm and beyond.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2readingquick.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 534 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</span></span></span>
 
-Eye-tracking studies help explain why. Skilled readers already use remarkably efficient patterns of eye movements. Most reading consists of brief fixations separated by rapid jumps called saccades. Speed-reading systems often promise that readers can dramatically reduce the number of fixations per line, but the scientific literature suggests there are practical limits to how much information can be extracted from [peripheral vision]({{ 'peripheral-vision/' | relative_url }}) without sacrificing comprehension. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/1529100615623268" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Speed Reading</span><span class="citation-popover-snippet">Balota, 2016by DA Balota · 2016 · Cited by 14 — The review is an outstanding resource for anyone who is interested in reading and speed r...</span></span></span>
+Eye-tracking studies help explain why. Skilled readers already use remarkably efficient patterns of eye movements. Most reading consists of brief fixations separated by rapid jumps called saccades. Speed-reading systems often promise that readers can dramatically reduce the number of fixations per line, but the scientific literature suggests there are practical limits to how much information can be extracted from [peripheral vision]({{ 'peripheral-vision/' | relative_url }}) without sacrificing comprehension.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/1529100615623268" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Speed Reading</span><span class="citation-popover-snippet">Balota, 2016by DA Balota · 2016 · Cited by 14 — The review is an outstanding resource for anyone who is interested in reading and speed r...</span></span></span>
 
 The result is that very large increases in speed usually come from reading less information rather than processing the same information more efficiently.
 
@@ -348,7 +348,7 @@ One reason speed-reading claims remain attractive is that comprehension losses a
 
 Many texts contain redundancy. Authors repeat ideas, provide multiple examples, and signal their conclusions clearly. A reader can therefore skip some information and still feel as though they understood everything important.
 
-This creates an illusion of complete comprehension. The reader remembers the central message and assumes nothing significant was missed. However, when tested on details, supporting evidence, or nuanced distinctions, performance often falls. Researchers evaluating speed-reading approaches frequently observe this pattern: higher speed is achievable, but detailed understanding declines. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2centerforinquiry.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 534 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</span></span></span>
+This creates an illusion of complete comprehension. The reader remembers the central message and assumes nothing significant was missed. However, when tested on details, supporting evidence, or nuanced distinctions, performance often falls. Researchers evaluating speed-reading approaches frequently observe this pattern: higher speed is achievable, but detailed understanding declines.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2centerforinquiry.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 534 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</span></span></span>
 
 The effect becomes especially visible with:
 
@@ -372,7 +372,7 @@ These materials contain less redundancy and place greater importance on precise 
 
 None of this means skimming is a bad skill. In fact, it can be extremely valuable when used deliberately.
 
-If the goal is to decide whether a document deserves closer attention, a 500 wpm skim may be highly effective. Readers can identify structure, major themes, and potentially relevant sections in a fraction of the time required for full reading. Researchers reviewing speed-reading methods note that faster skimming can be beneficial when only a broad overview is needed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psychologicalscience.org/publications/speed_reading.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-title">speed reading</span><span class="citation-popover-snippet">Association for Psychological ScienceSo Much to Read, So Little Time: How Do We...13 Jan 2016 — The report shows there is no quick and e...</span></span></span>
+If the goal is to decide whether a document deserves closer attention, a 500 wpm skim may be highly effective. Readers can identify structure, major themes, and potentially relevant sections in a fraction of the time required for full reading. Researchers reviewing speed-reading methods note that faster skimming can be beneficial when only a broad overview is needed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psychologicalscience.org/publications/speed_reading.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-title">speed reading</span><span class="citation-popover-snippet">Association for Psychological ScienceSo Much to Read, So Little Time: How Do We...13 Jan 2016 — The report shows there is no quick and e...</span></span></span>
 
 Situations where fast skimming can be useful include:
 
@@ -389,7 +389,7 @@ Situations where fast skimming can be useful include:
 
 In these cases, the objective is not maximum comprehension. The objective is efficient information triage.
 
-The mistake is treating skimming speed as though it were equivalent to full-reading speed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1529100615623268" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[journals.sagepub.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Speed Reading</span><span class="citation-popover-snippet">Balota, 2016by DA Balota · 2016 · Cited by 14 — The review is an outstanding resource for anyone who is interested in reading and speed r...</span></span></span>
+The mistake is treating skimming speed as though it were equivalent to full-reading speed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1529100615623268" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[journals.sagepub.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Speed Reading</span><span class="citation-popover-snippet">Balota, 2016by DA Balota · 2016 · Cited by 14 — The review is an outstanding resource for anyone who is interested in reading and speed r...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef_why_500_wpm_m_0bf92d-Illustration-3-dark.svg" | relative_url }}" alt="500 WPM illustration 3" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef_why_500_wpm_m_0bf92d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef_why_500_wpm_m_0bf92d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -397,187 +397,187 @@ The mistake is treating skimming speed as though it were equivalent to full-read
 
 For adults interested in [increasing]({{ 'increasing/' | relative_url }}) reading speed, the most meaningful improvement is usually not reaching 500 wpm. It is reading somewhat faster while preserving comprehension.
 
-Moving from 180 to 230 wpm on work documents, or from 220 to 280 wpm on familiar non-fiction, can represent a genuine improvement in reading efficiency. Those gains stay within the range where comprehension is more likely to remain intact. By contrast, claims of sustained 500 wpm reading with unchanged understanding require a much larger departure from established findings about how reading works. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://biblio.ugent.be/publication/8647789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: biblio.ugent.be">[Ghent University Bibliography+2British Psychological Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">biblio.ugent.be</span><span class="citation-popover-title">Ghent University Bibliography How many words do we read per minute?</span><span class="citation-popover-snippet">A review and meta...by M Brysbaert · 2019 · Cited by 879 — M. Brysbaert, “How many words do we read per minute? A review and meta-analys...</span></span></span>
+Moving from 180 to 230 wpm on work documents, or from 220 to 280 wpm on familiar non-fiction, can represent a genuine improvement in reading efficiency. Those gains stay within the range where comprehension is more likely to remain intact. By contrast, claims of sustained 500 wpm reading with unchanged understanding require a much larger departure from established findings about how reading works.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://biblio.ugent.be/publication/8647789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: biblio.ugent.be">[Ghent University Bibliography+2British Psychological Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">biblio.ugent.be</span><span class="citation-popover-title">Ghent University Bibliography How many words do we read per minute?</span><span class="citation-popover-snippet">A review and meta...by M Brysbaert · 2019 · Cited by 879 — M. Brysbaert, “How many words do we read per minute? A review and meta-analys...</span></span></span>
 
-The central lesson from the research is simple: when a reading rate approaches 500 wpm, the reader is often no longer measuring the same activity. They may be reading faster, but they are usually reading differently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Audio-Reader]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 534 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</span></span></span>
+The central lesson from the research is simple: when a reading rate approaches 500 wpm, the reader is often no longer measuring the same activity. They may be reading faster, but they are usually reading differently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Audio-Reader]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 534 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/66VsUN1E6oo" title="The Speed Reading Scam" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=66VsUN1E6oo" target="_blank" rel="noopener noreferrer">The Speed Reading Scam</a></p><p class="youtube-embed-meta">Channel: Odysseas &middot; Views: 7.8K &middot; Uploaded: February 2024 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=66VsUN1E6oo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=66VsUN1E6oo">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can You Really Read 500 WPM?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can You Really Read 500 WPM?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Grounds readers in realistic goals for comprehension.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Grounds readers in realistic goals for comprehension.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Breakthrough rapid reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/84360-M.jpg" alt="Cover for Breakthrough rapid reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breakthrough rapid reading">Breakthrough rapid reading</a>
-        </h4>
-        <p class="fr-book-author">By Peter Kump</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Breakthrough rapid reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/84360-M.jpg" alt="Cover for Breakthrough rapid reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breakthrough rapid reading">Breakthrough rapid reading</a>
+</h4>
+<p class="fr-book-author">By Peter Kump</p>
         
-        <p class="fr-book-desc">First published 1979. Subjects: Speed reading, Rapid reading, Du shu fang fa.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1979. Subjects: Speed reading, Rapid reading, Du shu fang fa.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Speed Reading Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/375099-M.jpg" alt="Cover for The Speed Reading Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Speed Reading Book">The Speed Reading Book</a>
-        </h4>
-        <p class="fr-book-author">By Tony Buzan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Speed Reading Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/375099-M.jpg" alt="Cover for The Speed Reading Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Speed Reading Book">The Speed Reading Book</a>
+</h4>
+<p class="fr-book-author">By Tony Buzan</p>
         
-        <p class="fr-book-desc">First published 1997. Subjects: Speed reading, Développement d&#x27;aptitudes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1997. Subjects: Speed reading, Développement d&#x27;aptitudes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=10+days+to+faster+reading+Abby+Marks-Beale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 10 days to faster reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9453897-M.jpg" alt="Cover for 10 days to faster reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=10+days+to+faster+reading+Abby+Marks-Beale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="10 days to faster reading">10 days to faster reading</a>
-        </h4>
-        <p class="fr-book-author">By Abby Marks-Beale</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=10+days+to+faster+reading+Abby+Marks-Beale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 10 days to faster reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9453897-M.jpg" alt="Cover for 10 days to faster reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=10+days+to+faster+reading+Abby+Marks-Beale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="10 days to faster reading">10 days to faster reading</a>
+</h4>
+<p class="fr-book-author">By Abby Marks-Beale</p>
         
-        <p class="fr-book-desc">First published 2001. Subjects: Speed reading.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=10+days+to+faster+reading+Abby+Marks-Beale&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2001. Subjects: Speed reading.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=10+days+to+faster+reading+Abby+Marks-Beale&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Breakthrough rapid reading</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Speed+Reading+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Speed Reading Book</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Breakthrough rapid reading</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Speed+Reading+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Speed Reading Book</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=500-wpm-can-you-really-read-500-wpm-increasing-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you poster -book -books -dvd" data-ebay-reference="500-wpm-can-you-really-read-500-wpm-increasing-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1999 10 THINGS I HATE ABOUT YOU - Movie Film Poster Print - A3 A4 A5 Home Decor"><img src="{{ '/assets/images/marketplace-covers/0ef035cc5c337295ca8f.jpg' | relative_url }}" alt="Listing image for 1999 10 THINGS I HATE ABOUT YOU - Movie Film Poster Print - A3 A4 A5 Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=500-wpm-can-you-really-read-500-wpm-increasing-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you poster -book -books -dvd" data-ebay-reference="500-wpm-can-you-really-read-500-wpm-increasing-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">1999 10 THINGS I HATE ABOUT YOU - Movie Film Poster Print - A3 A4 A5 Home Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=500-wpm-can-you-really-read-500-wpm-increasing-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you poster -book -books -dvd" data-ebay-reference="500-wpm-can-you-really-read-500-wpm-increasing-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for you poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: you poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=500-wpm-can-you-really-read-500-wpm-increasing-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you poster -book -books -dvd" data-ebay-reference="500-wpm-can-you-really-read-500-wpm-increasing-you-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=500-wpm-can-you-really-read-500-wpm-increasing-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you poster -book -books -dvd" data-ebay-reference="500-wpm-can-you-really-read-500-wpm-increasing-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1999 10 THINGS I HATE ABOUT YOU - Movie Film Poster Print - A3 A4 A5 Home Decor"><img src="{{ '/assets/images/marketplace-covers/0ef035cc5c337295ca8f.jpg' | relative_url }}" alt="Listing image for 1999 10 THINGS I HATE ABOUT YOU - Movie Film Poster Print - A3 A4 A5 Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=500-wpm-can-you-really-read-500-wpm-increasing-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you poster -book -books -dvd" data-ebay-reference="500-wpm-can-you-really-read-500-wpm-increasing-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">1999 10 THINGS I HATE ABOUT YOU - Movie Film Poster Print - A3 A4 A5 Home Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=500-wpm-can-you-really-read-500-wpm-increasing-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you poster -book -books -dvd" data-ebay-reference="500-wpm-can-you-really-read-500-wpm-increasing-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for you poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: you poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=500-wpm-can-you-really-read-500-wpm-increasing-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you poster -book -books -dvd" data-ebay-reference="500-wpm-can-you-really-read-500-wpm-increasing-you-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=500-wpm-can-you-really-read-500-wpm-increasing-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you poster -book -books -dvd" data-ebay-reference="500-wpm-can-you-really-read-500-wpm-increasing-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for You Netflix Poster A3 | Joe Goldberg Hand Drawn Fan Art Print 300gsm"><img src="{{ '/assets/images/marketplace-covers/b7300a5ec765099826fe.jpg' | relative_url }}" alt="Listing image for You Netflix Poster A3 | Joe Goldberg Hand Drawn Fan Art Print 300gsm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=500-wpm-can-you-really-read-500-wpm-increasing-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you poster -book -books -dvd" data-ebay-reference="500-wpm-can-you-really-read-500-wpm-increasing-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">You Netflix Poster A3 | Joe Goldberg Hand Drawn Fan Art Print 300gsm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=500-wpm-can-you-really-read-500-wpm-increasing-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you poster -book -books -dvd" data-ebay-reference="500-wpm-can-you-really-read-500-wpm-increasing-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for you poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: you poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=500-wpm-can-you-really-read-500-wpm-increasing-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you poster -book -books -dvd" data-ebay-reference="500-wpm-can-you-really-read-500-wpm-increasing-you-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=500-wpm-can-you-really-read-500-wpm-increasing-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you poster -book -books -dvd" data-ebay-reference="500-wpm-can-you-really-read-500-wpm-increasing-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for You Netflix Poster A3 | Joe Goldberg Hand Drawn Fan Art Print 300gsm"><img src="{{ '/assets/images/marketplace-covers/b7300a5ec765099826fe.jpg' | relative_url }}" alt="Listing image for You Netflix Poster A3 | Joe Goldberg Hand Drawn Fan Art Print 300gsm" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=500-wpm-can-you-really-read-500-wpm-increasing-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you poster -book -books -dvd" data-ebay-reference="500-wpm-can-you-really-read-500-wpm-increasing-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">You Netflix Poster A3 | Joe Goldberg Hand Drawn Fan Art Print 300gsm</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=500-wpm-can-you-really-read-500-wpm-increasing-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you poster -book -books -dvd" data-ebay-reference="500-wpm-can-you-really-read-500-wpm-increasing-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for you poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: you poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=500-wpm-can-you-really-read-500-wpm-increasing-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you poster -book -books -dvd" data-ebay-reference="500-wpm-can-you-really-read-500-wpm-increasing-you-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=500-wpm-can-you-really-read-500-wpm-increasing-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you poster -book -books -dvd" data-ebay-reference="500-wpm-can-you-really-read-500-wpm-increasing-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for You Series Poster A5 A4 A3 A2 A1"><img src="{{ '/assets/images/marketplace-covers/c6c3be4326fe6777bbdd.jpg' | relative_url }}" alt="Listing image for You Series Poster A5 A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=500-wpm-can-you-really-read-500-wpm-increasing-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you poster -book -books -dvd" data-ebay-reference="500-wpm-can-you-really-read-500-wpm-increasing-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">You Series Poster A5 A4 A3 A2 A1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=500-wpm-can-you-really-read-500-wpm-increasing-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you poster -book -books -dvd" data-ebay-reference="500-wpm-can-you-really-read-500-wpm-increasing-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for you poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: you poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=500-wpm-can-you-really-read-500-wpm-increasing-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you poster -book -books -dvd" data-ebay-reference="500-wpm-can-you-really-read-500-wpm-increasing-you-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=500-wpm-can-you-really-read-500-wpm-increasing-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you poster -book -books -dvd" data-ebay-reference="500-wpm-can-you-really-read-500-wpm-increasing-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=500-wpm-can-you-really-read-500-wpm-increasing-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you poster -book -books -dvd" data-ebay-reference="500-wpm-can-you-really-read-500-wpm-increasing-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for You Series Poster A5 A4 A3 A2 A1"><img src="{{ '/assets/images/marketplace-covers/c6c3be4326fe6777bbdd.jpg' | relative_url }}" alt="Listing image for You Series Poster A5 A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=500-wpm-can-you-really-read-500-wpm-increasing-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you poster -book -books -dvd" data-ebay-reference="500-wpm-can-you-really-read-500-wpm-increasing-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">You Series Poster A5 A4 A3 A2 A1</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=500-wpm-can-you-really-read-500-wpm-increasing-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you poster -book -books -dvd" data-ebay-reference="500-wpm-can-you-really-read-500-wpm-increasing-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for you poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: you poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=500-wpm-can-you-really-read-500-wpm-increasing-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you poster -book -books -dvd" data-ebay-reference="500-wpm-can-you-really-read-500-wpm-increasing-you-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=500-wpm-can-you-really-read-500-wpm-increasing-you-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you poster -book -books -dvd" data-ebay-reference="500-wpm-can-you-really-read-500-wpm-increasing-you-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -593,7 +593,7 @@ The central lesson from the research is simple: when a reading rate approaches 5
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -613,7 +613,7 @@ The central lesson from the research is simple: when a reading rate approaches 5
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -645,7 +645,7 @@ The central lesson from the research is simple: when a reading rate approaches 5
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -697,7 +697,7 @@ The central lesson from the research is simple: when a reading rate approaches 5
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -742,7 +742,7 @@ The central lesson from the research is simple: when a reading rate approaches 5
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -783,131 +783,131 @@ The central lesson from the research is simple: when a reading rate approaches 5
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: faculty.cas.usf.edu  
    Title: Rayner Schotter Masson Potter Treiman 2016 PSPI  
-   Link: <a href="https://faculty.cas.usf.edu/eschotter/papers/Rayner_Schotter_Masson_Potter_Treiman_2016_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://faculty.cas.usf.edu/eschotter/papers/Rayner_Schotter_Masson_Potter_Treiman_2016_PSPI.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>USF FacultyHow Do We Read, and Can Speed Reading Help?by K Rayner · 2016 · Cited by 533 — The current article reviews what the scientific...</p></details>
+   Link:<a href="https://faculty.cas.usf.edu/eschotter/papers/Rayner_Schotter_Masson_Potter_Treiman_2016_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://faculty.cas.usf.edu/eschotter/papers/Rayner_Schotter_Masson_Potter_Treiman_2016_PSPI.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USF FacultyHow Do We Read, and Can Speed Reading Help?by K Rayner · 2016 · Cited by 533 — The current article reviews what the scientific...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: readingquick.com  
    Title: What Is RSVP Speed Reading?  
-   Link: <a href="https://readingquick.com/articles/what-is-rsvp-speed-reading.html" target="_blank" rel="noopener noreferrer nofollow">https://readingquick.com/articles/what-is-rsvp-speed-reading.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science Behind Reading...A 2016 review published in Psychological Science in the Public Interest found that there is no shortcut to...</p></details>
+   Link:<a href="https://readingquick.com/articles/what-is-rsvp-speed-reading.html" target="_blank" rel="noopener noreferrer nofollow">https://readingquick.com/articles/what-is-rsvp-speed-reading.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Science Behind Reading...A 2016 review published in Psychological Science in the Public Interest found that there is no shortcut to...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: centerforinquiry.org  
    Title: does speed reading improve reading comprehension  
-   Link: <a href="https://centerforinquiry.org/blog/does-speed-reading-improve-reading-comprehension/" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.org/blog/does-speed-reading-improve-reading-comprehension/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>?22 Sept 2022 — The researchers concluded that the speed readers showed a speed-accuracy tradeoff; with increased speed, their accuracy i...</p></details>
+   Link:<a href="https://centerforinquiry.org/blog/does-speed-reading-improve-reading-comprehension/" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.org/blog/does-speed-reading-improve-reading-comprehension/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?22 Sept 2022 — The researchers concluded that the speed readers showed a speed-accuracy tradeoff; with increased speed, their accuracy i...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med How Do We Read, and Can Speed Reading Help?  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26769745/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by K Rayner · 2016 · Cited by 534 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26769745/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by K Rayner · 2016 · Cited by 534 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: psychologicalscience.org  
    Title: speed reading promises are too good to be true scientists find  
-   Link: <a href="https://www.psychologicalscience.org/news/releases/speed-reading-promises-are-too-good-to-be-true-scientists-find.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/news/releases/speed-reading-promises-are-too-good-to-be-true-scientists-find.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceSpeed Reading Promises Are Too Good to Be True...Jan 14, 2016 — A team of psychological scientists...</p></details>
+   Link:<a href="https://www.psychologicalscience.org/news/releases/speed-reading-promises-are-too-good-to-be-true-scientists-find.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/news/releases/speed-reading-promises-are-too-good-to-be-true-scientists-find.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceSpeed Reading Promises Are Too Good to Be True...Jan 14, 2016 — A team of psychological scientists...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: biblio.ugent.be  
    Title: Ghent University Bibliography How many words do we read per minute?  
-   Link: <a href="https://biblio.ugent.be/publication/8647789" target="_blank" rel="noopener noreferrer nofollow">https://biblio.ugent.be/publication/8647789</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A review and meta...by M Brysbaert · 2019 · Cited by 879 — M. Brysbaert, “How many words do we read per minute? A review and meta-analys...</p></details>
+   Link:<a href="https://biblio.ugent.be/publication/8647789" target="_blank" rel="noopener noreferrer nofollow">https://biblio.ugent.be/publication/8647789</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A review and meta...by M Brysbaert · 2019 · Cited by 879 — M. Brysbaert, “How many words do we read per minute? A review and meta-analys...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reader.ku.edu  
    Title: Audio-Reader How many words do we read per minute  
-   Link: <a href="https://reader.ku.edu/sites/reader/files/2024-01/How%20many%20words%20do%20we%20read%20per%20minute%20%281%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://reader.ku.edu/sites/reader/files/2024-01/How%20many%20words%20do%20we%20read%20per%20minute%20%281%29.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>• For English silent reading it is 238 words per minute. • For [reading aloud](&amp;#123;&amp;#123; &#x27;reading-aloud/&#x27; | relative_url &amp;#125;&amp;#125;) it is 183 words per minute. •...Read more...</p></details>
+   Link:<a href="https://reader.ku.edu/sites/reader/files/2024-01/How%20many%20words%20do%20we%20read%20per%20minute%20%281%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://reader.ku.edu/sites/reader/files/2024-01/How%20many%20words%20do%20we%20read%20per%20minute%20%281%29.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>• For English silent reading it is 238 words per minute. • For [reading aloud](&amp;#123;&amp;#123; &#x27;reading-aloud/&#x27; | relative_url &amp;#125;&amp;#125;) it is 183 words per minute. •...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4835101/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4835101/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>and Cognitive Factors Imposing “Speed Limits” on...by S Primativo · 2016 · Cited by 37 — Overall, data indicate a speed limit of 300 wpm...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4835101/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4835101/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Cognitive Factors Imposing “Speed Limits” on...by S Primativo · 2016 · Cited by 37 — Overall, data indicate a speed limit of 300 wpm...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: journals.sagepub.com  
    Title: Sage Journals Speed Reading  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/1529100615623268" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1529100615623268</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Balota, 2016by DA Balota · 2016 · Cited by 14 — The review is an outstanding resource for anyone who is interested in reading and speed r...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/1529100615623268" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1529100615623268</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Balota, 2016by DA Balota · 2016 · Cited by 14 — The review is an outstanding resource for anyone who is interested in reading and speed r...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: psychologicalscience.org  
    Title: speed reading  
-   Link: <a href="https://www.psychologicalscience.org/publications/speed_reading.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/publications/speed_reading.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceSo Much to Read, So Little Time: How Do We...13 Jan 2016 — The report shows there is no quick and e...</p></details>
+   Link:<a href="https://www.psychologicalscience.org/publications/speed_reading.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/publications/speed_reading.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceSo Much to Read, So Little Time: How Do We...13 Jan 2016 — The report shows there is no quick and e...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: bps.org.uk  
    Title: most comprehensive review date finds average persons reading speed slower  
-   Link: <a href="https://www.bps.org.uk/research-digest/most-comprehensive-review-date-finds-average-persons-reading-speed-slower" target="_blank" rel="noopener noreferrer nofollow">https://www.bps.org.uk/research-digest/most-comprehensive-review-date-finds-average-persons-reading-speed-slower</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
+   Link:<a href="https://www.bps.org.uk/research-digest/most-comprehensive-review-date-finds-average-persons-reading-speed-slower" target="_blank" rel="noopener noreferrer nofollow">https://www.bps.org.uk/research-digest/most-comprehensive-review-date-finds-average-persons-reading-speed-slower</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Psychology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Psychology</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PsychologyPsychology is the scientific study of the mind and behavior. Its subject matter includes the behavior of humans and nonhuman...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Psychology" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Psychology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PsychologyPsychology is the scientific study of the mind and behavior. Its subject matter includes the behavior of humans and nonhuman...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: mempowered.com  
-   Link: <a href="https://www.mempowered.com/study/speed-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.mempowered.com/study/speed-reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Speed ReadingOne researcher concluded from the pattern of eye movements, that speed-readers are in fact skimming.... While the speed-rea...</p></details>
+   Link:<a href="https://www.mempowered.com/study/speed-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.mempowered.com/study/speed-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Speed ReadingOne researcher concluded from the pattern of eye movements, that speed-readers are in fact skimming.... While the speed-rea...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) Does speed-reading training work, and if so, why?  
-   Link: <a href="https://www.researchgate.net/publication/367560632_Does_speed-reading_training_work_and_if_so_why_Effects_of_speed-reading_training_and_metacognitive_training_on_reading_speed_comprehension_and_eye_movements" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/367560632_Does_speed-reading_training_work_and_if_so_why_Effects_of_speed-reading_training_and_metacognitive_training_on_reading_speed_comprehension_and_eye_movements</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Feb 2023 — From the perspective of reading psychology, it seems quite unlikely that speed‐reading training can indeed have such effects...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/367560632_Does_speed-reading_training_work_and_if_so_why_Effects_of_speed-reading_training_and_metacognitive_training_on_reading_speed_comprehension_and_eye_movements" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/367560632_Does_speed-reading_training_work_and_if_so_why_Effects_of_speed-reading_training_and_metacognitive_training_on_reading_speed_comprehension_and_eye_movements</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1 Feb 2023 — From the perspective of reading psychology, it seems quite unlikely that speed‐reading training can indeed have such effects...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: theeconomyofmeaning.com  
    Title: new report debunks speed reading promises as too good to be true  
-   Link: <a href="https://theeconomyofmeaning.com/2016/01/17/new-report-debunks-speed-reading-promises-as-too-good-to-be-true/" target="_blank" rel="noopener noreferrer nofollow">https://theeconomyofmeaning.com/2016/01/17/new-report-debunks-speed-reading-promises-as-too-good-to-be-true/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New report debunks speed reading promises as too good...17 Jan 2016 — Examining decades&#x27; worth of research on the science of reading, a...</p></details>
+   Link:<a href="https://theeconomyofmeaning.com/2016/01/17/new-report-debunks-speed-reading-promises-as-too-good-to-be-true/" target="_blank" rel="noopener noreferrer nofollow">https://theeconomyofmeaning.com/2016/01/17/new-report-debunks-speed-reading-promises-as-too-good-to-be-true/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New report debunks speed reading promises as too good...17 Jan 2016 — Examining decades&#x27; worth of research on the science of reading, a...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: publishingperspectives.com  
    Title: speed reading may not really be the thing its promised to be  
-   Link: <a href="https://publishingperspectives.com/2016/02/speed-reading-may-not-really-be-the-thing-its-promised-to-be/" target="_blank" rel="noopener noreferrer nofollow">https://publishingperspectives.com/2016/02/speed-reading-may-not-really-be-the-thing-its-promised-to-be/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Not So Fast: Speed-Reading May Not Be The Answer1 Feb 2016 — A recent review of the actual science on the subject says that speed-reading...</p></details>
+   Link:<a href="https://publishingperspectives.com/2016/02/speed-reading-may-not-really-be-the-thing-its-promised-to-be/" target="_blank" rel="noopener noreferrer nofollow">https://publishingperspectives.com/2016/02/speed-reading-may-not-really-be-the-thing-its-promised-to-be/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Not So Fast: Speed-Reading May Not Be The Answer1 Feb 2016 — A recent review of the actual science on the subject says that speed-reading...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: scholarwithin.com  
-   Link: <a href="https://scholarwithin.com/average-reading-speed?srsltid=AfmBOopP2r8F6dTtacXA7iMJYJxahS0ZrNE_L9AbrMcFU2Ml0kCGKLPF" target="_blank" rel="noopener noreferrer nofollow">https://scholarwithin.com/average-reading-speed?srsltid=AfmBOopP2r8F6dTtacXA7iMJYJxahS0ZrNE_L9AbrMcFU2Ml0kCGKLPF</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When reading aloud, the average reader can read 183 words per minute (WPM).Read more...</p></details>
+   Link:<a href="https://scholarwithin.com/average-reading-speed?srsltid=AfmBOopP2r8F6dTtacXA7iMJYJxahS0ZrNE_L9AbrMcFU2Ml0kCGKLPF" target="_blank" rel="noopener noreferrer nofollow">https://scholarwithin.com/average-reading-speed?srsltid=AfmBOopP2r8F6dTtacXA7iMJYJxahS0ZrNE_L9AbrMcFU2Ml0kCGKLPF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When reading aloud, the average reader can read 183 words per minute (WPM).Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: semanticscholar.org  
    Title: Semantic Scholar How many words do we read per minute?  
-   Link: <a href="https://www.semanticscholar.org/paper/How-many-words-do-we-read-per-minute-A-review-and-Brysbaert/35bf5854514ee63095a6a3dc4a7bdaa2eb18929f" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/How-many-words-do-we-read-per-minute-A-review-and-Brysbaert/35bf5854514ee63095a6a3dc4a7bdaa2eb18929f</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A review and...Based on the analysis of 190 studies (18573 participants), we estimate that the average silent reading rate for adults in...</p></details>
+   Link:<a href="https://www.semanticscholar.org/paper/How-many-words-do-we-read-per-minute-A-review-and-Brysbaert/35bf5854514ee63095a6a3dc4a7bdaa2eb18929f" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/How-many-words-do-we-read-per-minute-A-review-and-Brysbaert/35bf5854514ee63095a6a3dc4a7bdaa2eb18929f</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A review and...Based on the analysis of 190 studies (18573 participants), we estimate that the average silent reading rate for adults in...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/290492746_So_Much_to_Read_So_Little_Time_How_Do_We_Read_and_Can_Speed_Reading_Help" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/290492746_So_Much_to_Read_So_Little_Time_How_Do_We_Read_and_Can_Speed_Reading_Help</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It is unlikely that readers will be able to double or triple their reading speeds.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/290492746_So_Much_to_Read_So_Little_Time_How_Do_We_Read_and_Can_Speed_Reading_Help" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/290492746_So_Much_to_Read_So_Little_Time_How_Do_We_Read_and_Can_Speed_Reading_Help</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It is unlikely that readers will be able to double or triple their reading speeds.Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: theguardian.com  
    Title: speed reading claims discredited by new report  
-   Link: <a href="https://www.theguardian.com/books/2016/jan/29/speed-reading-claims-discredited-by-new-report" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/books/2016/jan/29/speed-reading-claims-discredited-by-new-report</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Books29 Jan 2016 — Companies and apps that promise to rapidly increase reading speeds are on a hiding to nothing, according to new resear...</p></details>
+   Link:<a href="https://www.theguardian.com/books/2016/jan/29/speed-reading-claims-discredited-by-new-report" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/books/2016/jan/29/speed-reading-claims-discredited-by-new-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Books29 Jan 2016 — Companies and apps that promise to rapidly increase reading speeds are on a hiding to nothing, according to new resear...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: inc.com  
    Title: sorry science says speed reading doesn t work  
-   Link: <a href="https://www.inc.com/jessica-stillman/sorry-science-says-speed-reading-doesn-t-work.html" target="_blank" rel="noopener noreferrer nofollow">https://www.inc.com/jessica-stillman/sorry-science-says-speed-reading-doesn-t-work.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Science: Speed Reading Really Is Too Good to Be True22 Jan 2016 — That&#x27;s the verdict of a comprehensive review of the science on the...</p></details>
+   Link:<a href="https://www.inc.com/jessica-stillman/sorry-science-says-speed-reading-doesn-t-work.html" target="_blank" rel="noopener noreferrer nofollow">https://www.inc.com/jessica-stillman/sorry-science-says-speed-reading-doesn-t-work.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Science: Speed Reading Really Is Too Good to Be True22 Jan 2016 — That&#x27;s the verdict of a comprehensive review of the science on the...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: researchgate.net  
    Title: (PDF) How many words do we read per minute?  
-   Link: <a href="https://www.researchgate.net/publication/332380784_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/332380784_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A review...by M Brysbaert · Cited by 879 — We estimate that the average silent reading rate for adults in English is 238 word per minute...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/332380784_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/332380784_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A review...by M Brysbaert · Cited by 879 — We estimate that the average silent reading rate for adults in English is 238 word per minute...</p></details>

@@ -298,7 +298,7 @@ image: /assets/images/increasing_re_852ca6_vocabulary_ba_236244_familiarity_o_f1
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_vocabulary_ba_236244_familiarity_o_f1d5d7-Illustration-1-dark.svg" | relative_url }}" alt="Easy Trap illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_vocabulary_ba_236244_familiarity_o_f1d5d7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_vocabulary_ba_236244_familiarity_o_f1d5d7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-When a topic feels familiar, readers often assume they understand more than they actually do. They predict what the author is about to say, skim supporting details, and overlook [exceptions]({{ 'exceptions/' | relative_url }}) that do not fit their expectations. In cognitive psychology, this tendency is closely related to overconfidence, metacognitive miscalibration and the illusion of explanatory depth—the tendency to believe we understand a subject in greater detail than we really do. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3062901/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by L Rozenblit · 2002 · Cited by 1495 — We argue that the illusion of depth seen with explanatory knowledge is a separate phenomenon f...</span></span></span>
+When a topic feels familiar, readers often assume they understand more than they actually do. They predict what the author is about to say, skim supporting details, and overlook [exceptions]({{ 'exceptions/' | relative_url }}) that do not fit their expectations. In cognitive psychology, this tendency is closely related to overconfidence, metacognitive miscalibration and the illusion of explanatory depth—the tendency to believe we understand a subject in greater detail than we really do.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3062901/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by L Rozenblit · 2002 · Cited by 1495 — We argue that the illusion of depth seen with explanatory knowledge is a separate phenomenon f...</span></span></span>
 
 For people trying to increase reading speed, this creates a useful but important warning. Familiarity is a genuine advantage, but it is not a licence to read everything at maximum speed. Sometimes the text that feels easiest is the text most likely to hide a mistake in understanding.
 
@@ -306,7 +306,7 @@ For people trying to increase reading speed, this creates a useful but important
 
 Reading becomes faster when the brain can recognise patterns instead of building meaning from scratch. Readers with background knowledge already know much of the vocabulary, understand common assumptions, and can predict how arguments are usually constructed.
 
-Research consistently shows that relevant prior knowledge supports comprehension and reduces processing demands during reading. Readers can often compensate for gaps in other areas because they already possess a mental framework for organising new information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://discovery.ucl.ac.uk/10167622/1/Umek_UCL_30_March_2023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.ucl.ac.uk">[UCL Discovery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.ucl.ac.uk</span><span class="citation-popover-title">UCL Discovery The role of background knowledge in reading comprehension</span><span class="citation-popover-snippet">UCL DiscoveryThe role of background knowledge in reading comprehension...March 31, 2023 — by A Umek · 2023 · Cited by 1 — This thesis in...</span><span class="citation-popover-meta">Published: March 31, 2023</span></span></span>
+Research consistently shows that relevant prior knowledge supports comprehension and reduces processing demands during reading. Readers can often compensate for gaps in other areas because they already possess a mental framework for organising new information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://discovery.ucl.ac.uk/10167622/1/Umek_UCL_30_March_2023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.ucl.ac.uk">[UCL Discovery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.ucl.ac.uk</span><span class="citation-popover-title">UCL Discovery The role of background knowledge in reading comprehension</span><span class="citation-popover-snippet">UCL DiscoveryThe role of background knowledge in reading comprehension...March 31, 2023 — by A Umek · 2023 · Cited by 1 — This thesis in...</span><span class="citation-popover-meta">Published: March 31, 2023</span></span></span>
 
 These shortcuts are usually beneficial. A historian reading a history journal does not need every concept explained. A software engineer can often anticipate the structure of a [technical]({{ 'technical-texts/' | relative_url }}) article before finishing the introduction. Familiarity allows attention to focus on what is new rather than on decoding basic information.
 
@@ -319,7 +319,7 @@ The danger appears when efficient prediction becomes unquestioned prediction.
 
 Good readers constantly make forecasts about what comes next. Familiarity improves those forecasts. However, when confidence rises faster than understanding, readers may stop checking whether their predictions are correct.
 
-Studies of text comprehension show that many learners overestimate how well they understand what they have read. Researchers examining comprehension judgments found that overestimation is a common problem and can interfere with successful learning because readers believe they understand material more completely than they actually do. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s10648-022-09687-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">What Makes Learners Overestimate Their Text...by S Golke · 2022 · Cited by 33 — It is frequently assumed that learner characteri...</span></span></span>
+Studies of text comprehension show that many learners overestimate how well they understand what they have read. Researchers examining comprehension judgments found that overestimation is a common problem and can interfere with successful learning because readers believe they understand material more completely than they actually do.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s10648-022-09687-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">What Makes Learners Overestimate Their Text...by S Golke · 2022 · Cited by 33 — It is frequently assumed that learner characteri...</span></span></span>
 
 A familiar topic encourages several specific errors:
 
@@ -340,9 +340,9 @@ This is one reason experienced readers sometimes misunderstand texts in subjects
 
 ## The Illusion of Understanding
 
-One of the most relevant findings from cognitive psychology is the illusion of explanatory depth. People often believe they understand a familiar topic in considerable detail until they are asked to explain it step by step. At that point, gaps in knowledge become obvious. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3062901/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by L Rozenblit · 2002 · Cited by 1495 — We argue that the illusion of depth seen with explanatory knowledge is a separate phenomenon f...</span></span></span>
+One of the most relevant findings from cognitive psychology is the illusion of explanatory depth. People often believe they understand a familiar topic in considerable detail until they are asked to explain it step by step. At that point, gaps in knowledge become obvious.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3062901/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by L Rozenblit · 2002 · Cited by 1495 — We argue that the illusion of depth seen with explanatory knowledge is a separate phenomenon f...</span></span></span>
 
-The classic demonstrations involve everyday objects and systems. People frequently report high confidence that they understand how common items work, but their confidence drops sharply when they attempt a detailed explanation. Researchers found that this illusion is especially strong for explanatory knowledge—knowledge about how things work—rather than simple factual recall. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1207/s15516709cog2605_1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">s15516709cog2605 1</span><span class="citation-popover-snippet">Wiley Online LibraryThe misunderstood limits of folk science: an illusion...by L Rozenblit · 2002 · Cited by 1495 — The illusion is far...</span></span></span>
+The classic demonstrations involve everyday objects and systems. People frequently report high confidence that they understand how common items work, but their confidence drops sharply when they attempt a detailed explanation. Researchers found that this illusion is especially strong for explanatory knowledge—knowledge about how things work—rather than simple factual recall.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/abs/10.1207/s15516709cog2605_1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">s15516709cog2605 1</span><span class="citation-popover-snippet">Wiley Online LibraryThe misunderstood limits of folk science: an illusion...by L Rozenblit · 2002 · Cited by 1495 — The illusion is far...</span></span></span>
 
 The same pattern appears in reading.
 
@@ -365,13 +365,13 @@ The same pattern occurs in science, politics, history and business writing. A te
 * An exception to a widely accepted rule.
 * Evidence that challenges a common belief.
 * A distinction between similar concepts.
-* A shift in causal explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/372669028_Broad_effects_of_shallow_understanding_Explaining_an_unrelated_phenomenon_exposes_the_illusion_of_explanatory_depth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Fortunately, a person can expose the illusion by attempting to generate a causal explanation for how the...Read more...</span></span></span>
+* A shift in causal explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/372669028_Broad_effects_of_shallow_understanding_Explaining_an_unrelated_phenomenon_exposes_the_illusion_of_explanatory_depth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Fortunately, a person can expose the illusion by attempting to generate a causal explanation for how the...Read more...</span></span></span>
 
 </div>
 
 These are often the most important parts of the text. Unfortunately, they are also the parts most likely to be skipped when readers feel they already know the subject.
 
-Research from the field of metacognition suggests that accurate monitoring of comprehension is critical. Readers who are poor judges of their own understanding can remain highly confident despite significant misunderstandings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncsall.net/fileadmin/resources/ann_rev/rall_v5_ch7_supp.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncsall.net">[NCSALL+2Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncsall.net</span><span class="citation-popover-title">Metacognition, Cognitive Strategy Instruction, and Reading</span><span class="citation-popover-snippet">Metacognition, Cognitive Strategy Instruction, and Reading...August 25, 2005 — by JG Cromley · Cited by 117 — A second way to meas...</span><span class="citation-popover-meta">Published: August 25, 2005</span></span></span>
+Research from the field of metacognition suggests that accurate monitoring of comprehension is critical. Readers who are poor judges of their own understanding can remain highly confident despite significant misunderstandings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncsall.net/fileadmin/resources/ann_rev/rall_v5_ch7_supp.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncsall.net">[NCSALL+2Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncsall.net</span><span class="citation-popover-title">Metacognition, Cognitive Strategy Instruction, and Reading</span><span class="citation-popover-snippet">Metacognition, Cognitive Strategy Instruction, and Reading...August 25, 2005 — by JG Cromley · Cited by 117 — A second way to meas...</span><span class="citation-popover-meta">Published: August 25, 2005</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_vocabulary_ba_236244_familiarity_o_f1d5d7-Illustration-2-dark.svg" | relative_url }}" alt="Easy Trap illustration 2" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_vocabulary_ba_236244_familiarity_o_f1d5d7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_vocabulary_ba_236244_familiarity_o_f1d5d7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -400,13 +400,13 @@ If you regularly find yourself mentally completing the author's sentences, it is
 
 Paradoxically, a text that feels completely obvious may deserve more scrutiny than one that feels moderately difficult.
 
-Research suggests that self-reported familiarity does not always correspond closely to actual knowledge. Feeling familiar with a topic and possessing detailed, usable knowledge are not necessarily the same thing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://discovery.ucl.ac.uk/10167622/1/Umek_UCL_30_March_2023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.ucl.ac.uk">[UCL Discovery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.ucl.ac.uk</span><span class="citation-popover-title">UCL Discovery The role of background knowledge in reading comprehension</span><span class="citation-popover-snippet">UCL DiscoveryThe role of background knowledge in reading comprehension...March 31, 2023 — by A Umek · 2023 · Cited by 1 — This thesis in...</span><span class="citation-popover-meta">Published: March 31, 2023</span></span></span>
+Research suggests that self-reported familiarity does not always correspond closely to actual knowledge. Feeling familiar with a topic and possessing detailed, usable knowledge are not necessarily the same thing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://discovery.ucl.ac.uk/10167622/1/Umek_UCL_30_March_2023.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.ucl.ac.uk">[UCL Discovery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.ucl.ac.uk</span><span class="citation-popover-title">UCL Discovery The role of background knowledge in reading comprehension</span><span class="citation-popover-snippet">UCL DiscoveryThe role of background knowledge in reading comprehension...March 31, 2023 — by A Umek · 2023 · Cited by 1 — This thesis in...</span><span class="citation-popover-meta">Published: March 31, 2023</span></span></span>
 
 ### When You Cannot Explain the Argument Afterwards
 
 A simple test is to stop and summarise the author's central claim in one or two sentences.
 
-If the explanation becomes vague, circular or dependent on repeating the author's terminology, understanding may be shallower than it seemed. Attempts to explain often expose hidden gaps in knowledge, which is exactly what illusion-of-understanding research predicts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/372669028_Broad_effects_of_shallow_understanding_Explaining_an_unrelated_phenomenon_exposes_the_illusion_of_explanatory_depth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Fortunately, a person can expose the illusion by attempting to generate a causal explanation for how the...Read more...</span></span></span>
+If the explanation becomes vague, circular or dependent on repeating the author's terminology, understanding may be shallower than it seemed. Attempts to explain often expose hidden gaps in knowledge, which is exactly what illusion-of-understanding research predicts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/372669028_Broad_effects_of_shallow_understanding_Explaining_an_unrelated_phenomenon_exposes_the_illusion_of_explanatory_depth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Fortunately, a person can expose the illusion by attempting to generate a causal explanation for how the...Read more...</span></span></span>
 
 ## Fast Reading Without Falling Into the Easy Trap
 
@@ -414,7 +414,7 @@ The goal is not to distrust familiarity. Background knowledge remains one of the
 
 The better approach is calibrated confidence.
 
-Trust familiarity when it helps recognise patterns, vocabulary and structure. Question familiarity when a text contains new evidence, controversial claims, unusual definitions or surprising conclusions. Readers who monitor their own understanding tend to make better judgments about when to continue quickly and when to slow down and verify comprehension. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/10888438.2023.2261572" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online+2ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineFull article: Metacognitive Comprehension Monitoringby C Tibken · 2024 · Cited by 11 — Metacognitive monitoring is...</span></span></span>
+Trust familiarity when it helps recognise patterns, vocabulary and structure. Question familiarity when a text contains new evidence, controversial claims, unusual definitions or surprising conclusions. Readers who monitor their own understanding tend to make better judgments about when to continue quickly and when to slow down and verify comprehension.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/10888438.2023.2261572" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online+2ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineFull article: Metacognitive Comprehension Monitoringby C Tibken · 2024 · Cited by 11 — Metacognitive monitoring is...</span></span></span>
 
 In [practice]({{ 'practice/' | relative_url }}), the fastest readers are not those who race through every familiar page. They are the readers who know when familiarity is helping them understand—and when it is merely making them feel as though they already do.
 
@@ -422,178 +422,178 @@ In [practice]({{ 'practice/' | relative_url }}), the fastest readers are not tho
 <img src="{{ "/assets/images/increasing_re_852ca6_vocabulary_ba_236244_familiarity_o_f1d5d7-Illustration-3-dark.svg" | relative_url }}" alt="Easy Trap illustration 3" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_vocabulary_ba_236244_familiarity_o_f1d5d7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_vocabulary_ba_236244_familiarity_o_f1d5d7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Familiar Topics Make You Too Fast. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Familiar Topics Make You Too Fast. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Think Again on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-5SezQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Think Again" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Think Again">Think Again</a>
-        </h4>
-        <p class="fr-book-author">By Adam Grant</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Think Again on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-5SezQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Think Again" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Think Again">Think Again</a>
+</h4>
+<p class="fr-book-author">By Adam Grant</p>
         
-        <p class="fr-book-desc">Directly addresses overconfidence and rethinking assumptions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses overconfidence and rethinking assumptions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Think+Again+by+Adam+Grant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains cognitive shortcuts and prediction errors.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains cognitive shortcuts and prediction errors.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Improves reading effectiveness across domains.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Improves reading effectiveness across domains.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+art+of+thinking+clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The art of thinking clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8270423-M.jpg" alt="Cover for The art of thinking clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+art+of+thinking+clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The art of thinking clearly">The art of thinking clearly</a>
-        </h4>
-        <p class="fr-book-author">By Rolf Dobelli, Rolf Dobelli</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+art+of+thinking+clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The art of thinking clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8270423-M.jpg" alt="Cover for The art of thinking clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+art+of+thinking+clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The art of thinking clearly">The art of thinking clearly</a>
+</h4>
+<p class="fr-book-author">By Rolf Dobelli, Rolf Dobelli</p>
         
-        <p class="fr-book-desc">First published 2013. Subjects: nonfiction, psychology, Errors, Développement d&#x27;aptitudes, Prise de décision (Relations humaines).</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+art+of+thinking+clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2013. Subjects: nonfiction, psychology, Errors, Développement d&#x27;aptitudes, Prise de décision (Relations humaines).</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+art+of+thinking+clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Think+Again&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Think Again</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Think+Again&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Think Again</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=easy-trap-when-familiar-topics-make-you-too-fast-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="easy-trap-when-familiar-topics-make-you-too-fast-increasing-study-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Book Thumb Page Holder One Hand Reading Book Study Accessory Gift Idea"><img src="{{ '/assets/images/marketplace-covers/7c86cfbd4cc68dc53fae.jpg' | relative_url }}" alt="Listing image for Book Thumb Page Holder One Hand Reading Book Study Accessory Gift Idea" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=easy-trap-when-familiar-topics-make-you-too-fast-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="easy-trap-when-familiar-topics-make-you-too-fast-increasing-study-accessory" target="_blank" rel="sponsored noopener noreferrer">Book Thumb Page Holder One Hand Reading Book Study Accessory Gift Idea</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=easy-trap-when-familiar-topics-make-you-too-fast-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="easy-trap-when-familiar-topics-make-you-too-fast-increasing-study-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study accessory">Search <span data-ebay-domain-label>eBay.co.uk</span>: study accessory</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=easy-trap-when-familiar-topics-make-you-too-fast-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="easy-trap-when-familiar-topics-make-you-too-fast-increasing-study-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=easy-trap-when-familiar-topics-make-you-too-fast-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="easy-trap-when-familiar-topics-make-you-too-fast-increasing-study-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Book Thumb Page Holder One Hand Reading Book Study Accessory Gift Idea"><img src="{{ '/assets/images/marketplace-covers/7c86cfbd4cc68dc53fae.jpg' | relative_url }}" alt="Listing image for Book Thumb Page Holder One Hand Reading Book Study Accessory Gift Idea" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=easy-trap-when-familiar-topics-make-you-too-fast-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="easy-trap-when-familiar-topics-make-you-too-fast-increasing-study-accessory" target="_blank" rel="sponsored noopener noreferrer">Book Thumb Page Holder One Hand Reading Book Study Accessory Gift Idea</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=easy-trap-when-familiar-topics-make-you-too-fast-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="easy-trap-when-familiar-topics-make-you-too-fast-increasing-study-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study accessory">Search<span data-ebay-domain-label>eBay.co.uk</span>: study accessory</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=easy-trap-when-familiar-topics-make-you-too-fast-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="easy-trap-when-familiar-topics-make-you-too-fast-increasing-study-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=easy-trap-when-familiar-topics-make-you-too-fast-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="easy-trap-when-familiar-topics-make-you-too-fast-increasing-study-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Clamp on Desk Organizer Accessory Under Desk Mouse Tray for Study Office"><img src="{{ '/assets/images/marketplace-covers/425eb0a27beb127b25e2.jpg' | relative_url }}" alt="Listing image for Clamp on Desk Organizer Accessory Under Desk Mouse Tray for Study Office" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=easy-trap-when-familiar-topics-make-you-too-fast-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="easy-trap-when-familiar-topics-make-you-too-fast-increasing-study-accessory" target="_blank" rel="sponsored noopener noreferrer">Clamp on Desk Organizer Accessory Under Desk Mouse Tray for Study Office</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=easy-trap-when-familiar-topics-make-you-too-fast-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="easy-trap-when-familiar-topics-make-you-too-fast-increasing-study-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study accessory">Search <span data-ebay-domain-label>eBay.co.uk</span>: study accessory</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=easy-trap-when-familiar-topics-make-you-too-fast-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="easy-trap-when-familiar-topics-make-you-too-fast-increasing-study-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=easy-trap-when-familiar-topics-make-you-too-fast-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="easy-trap-when-familiar-topics-make-you-too-fast-increasing-study-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Clamp on Desk Organizer Accessory Under Desk Mouse Tray for Study Office"><img src="{{ '/assets/images/marketplace-covers/425eb0a27beb127b25e2.jpg' | relative_url }}" alt="Listing image for Clamp on Desk Organizer Accessory Under Desk Mouse Tray for Study Office" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=easy-trap-when-familiar-topics-make-you-too-fast-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="easy-trap-when-familiar-topics-make-you-too-fast-increasing-study-accessory" target="_blank" rel="sponsored noopener noreferrer">Clamp on Desk Organizer Accessory Under Desk Mouse Tray for Study Office</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=easy-trap-when-familiar-topics-make-you-too-fast-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="easy-trap-when-familiar-topics-make-you-too-fast-increasing-study-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study accessory">Search<span data-ebay-domain-label>eBay.co.uk</span>: study accessory</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=easy-trap-when-familiar-topics-make-you-too-fast-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="easy-trap-when-familiar-topics-make-you-too-fast-increasing-study-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=easy-trap-when-familiar-topics-make-you-too-fast-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="easy-trap-when-familiar-topics-make-you-too-fast-increasing-study-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Dalvey Calculator Case Original Vintage 1995 Business Study Accessory Gift"><img src="{{ '/assets/images/marketplace-covers/768ee68fc20219a883ad.jpg' | relative_url }}" alt="Listing image for The Dalvey Calculator Case Original Vintage 1995 Business Study Accessory Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=easy-trap-when-familiar-topics-make-you-too-fast-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="easy-trap-when-familiar-topics-make-you-too-fast-increasing-study-accessory" target="_blank" rel="sponsored noopener noreferrer">The Dalvey Calculator Case Original Vintage 1995 Business Study Accessory Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=easy-trap-when-familiar-topics-make-you-too-fast-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="easy-trap-when-familiar-topics-make-you-too-fast-increasing-study-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study accessory">Search <span data-ebay-domain-label>eBay.co.uk</span>: study accessory</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=easy-trap-when-familiar-topics-make-you-too-fast-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="easy-trap-when-familiar-topics-make-you-too-fast-increasing-study-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=easy-trap-when-familiar-topics-make-you-too-fast-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="easy-trap-when-familiar-topics-make-you-too-fast-increasing-study-accessory" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=easy-trap-when-familiar-topics-make-you-too-fast-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="easy-trap-when-familiar-topics-make-you-too-fast-increasing-study-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Dalvey Calculator Case Original Vintage 1995 Business Study Accessory Gift"><img src="{{ '/assets/images/marketplace-covers/768ee68fc20219a883ad.jpg' | relative_url }}" alt="Listing image for The Dalvey Calculator Case Original Vintage 1995 Business Study Accessory Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=easy-trap-when-familiar-topics-make-you-too-fast-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="easy-trap-when-familiar-topics-make-you-too-fast-increasing-study-accessory" target="_blank" rel="sponsored noopener noreferrer">The Dalvey Calculator Case Original Vintage 1995 Business Study Accessory Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=easy-trap-when-familiar-topics-make-you-too-fast-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="easy-trap-when-familiar-topics-make-you-too-fast-increasing-study-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study accessory">Search<span data-ebay-domain-label>eBay.co.uk</span>: study accessory</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=easy-trap-when-familiar-topics-make-you-too-fast-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="easy-trap-when-familiar-topics-make-you-too-fast-increasing-study-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=easy-trap-when-familiar-topics-make-you-too-fast-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="easy-trap-when-familiar-topics-make-you-too-fast-increasing-study-accessory" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -609,7 +609,7 @@ In [practice]({{ 'practice/' | relative_url }}), the fastest readers are not tho
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -629,7 +629,7 @@ In [practice]({{ 'practice/' | relative_url }}), the fastest readers are not tho
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -661,7 +661,7 @@ In [practice]({{ 'practice/' | relative_url }}), the fastest readers are not tho
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -713,7 +713,7 @@ In [practice]({{ 'practice/' | relative_url }}), the fastest readers are not tho
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -758,7 +758,7 @@ In [practice]({{ 'practice/' | relative_url }}), the fastest readers are not tho
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -799,134 +799,134 @@ In [practice]({{ 'practice/' | relative_url }}), the fastest readers are not tho
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3062901/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3062901/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by L Rozenblit · 2002 · Cited by 1495 — We argue that the illusion of depth seen with explanatory knowledge is a separate phenomenon f...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3062901/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3062901/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by L Rozenblit · 2002 · Cited by 1495 — We argue that the illusion of depth seen with explanatory knowledge is a separate phenomenon f...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: onlinelibrary.wiley.com  
    Title: s15516709cog2605 1  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1207/s15516709cog2605_1" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1207/s15516709cog2605_1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryThe misunderstood limits of folk science: an illusion...by L Rozenblit · 2002 · Cited by 1495 — The illusion is far...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/abs/10.1207/s15516709cog2605_1" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1207/s15516709cog2605_1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryThe misunderstood limits of folk science: an illusion...by L Rozenblit · 2002 · Cited by 1495 — The illusion is far...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3142886/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3142886/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by SJ Priebe · 2011 · Cited by 157 — While prior knowledge of a passage topic is known to facilitate comprehension, little is known ab...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3142886/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3142886/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by SJ Priebe · 2011 · Cited by 157 — While prior knowledge of a passage topic is known to facilitate comprehension, little is known ab...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s10648-022-09687-0" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10648-022-09687-0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What Makes Learners Overestimate Their Text...by S Golke · 2022 · Cited by 33 — It is frequently assumed that learner characteri...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s10648-022-09687-0" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10648-022-09687-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Makes Learners Overestimate Their Text...by S Golke · 2022 · Cited by 33 — It is frequently assumed that learner characteri...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/361707699_What_Makes_Learners_Overestimate_Their_Text_Comprehension_The_Impact_of_Learner_Characteristics_on_Judgment_Bias" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/361707699_What_Makes_Learners_Overestimate_Their_Text_Comprehension_The_Impact_of_Learner_Characteristics_on_Judgment_Bias</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) What Makes Learners Overestimate Their Text...2 Jul 2022 — It is frequently assumed that learner characteristics (e.g., reading sk...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/361707699_What_Makes_Learners_Overestimate_Their_Text_Comprehension_The_Impact_of_Learner_Characteristics_on_Judgment_Bias" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/361707699_What_Makes_Learners_Overestimate_Their_Text_Comprehension_The_Impact_of_Learner_Characteristics_on_Judgment_Bias</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) What Makes Learners Overestimate Their Text...2 Jul 2022 — It is frequently assumed that learner characteristics (e.g., reading sk...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ncsall.net  
    Title: Metacognition, Cognitive Strategy Instruction, and Reading  
-   Link: <a href="https://www.ncsall.net/fileadmin/resources/ann_rev/rall_v5_ch7_supp.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsall.net/fileadmin/resources/ann_rev/rall_v5_ch7_supp.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Metacognition, Cognitive Strategy Instruction, and Reading...August 25, 2005 — by JG Cromley · Cited by 117 — A second way to meas...</p></details>
+   Link:<a href="https://www.ncsall.net/fileadmin/resources/ann_rev/rall_v5_ch7_supp.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsall.net/fileadmin/resources/ann_rev/rall_v5_ch7_supp.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Metacognition, Cognitive Strategy Instruction, and Reading...August 25, 2005 — by JG Cromley · Cited by 117 — A second way to meas...</p></details>
    Published: August 25, 2005  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: files.eric.ed.gov  
-   Link: <a href="https://files.eric.ed.gov/fulltext/ED371291.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/ED371291.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ERICThe Role of Metacognition in Reading Comprehensionby B Abromitis · 1994 · Cited by 3 — Metacognitive experience, however, refers to a...</p></details>
+   Link:<a href="https://files.eric.ed.gov/fulltext/ED371291.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/ED371291.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ERICThe Role of Metacognition in Reading Comprehensionby B Abromitis · 1994 · Cited by 3 — Metacognitive experience, however, refers to a...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/372669028_Broad_effects_of_shallow_understanding_Explaining_an_unrelated_phenomenon_exposes_the_illusion_of_explanatory_depth" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/372669028_Broad_effects_of_shallow_understanding_Explaining_an_unrelated_phenomenon_exposes_the_illusion_of_explanatory_depth</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fortunately, a person can expose the illusion by attempting to generate a causal explanation for how the...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/372669028_Broad_effects_of_shallow_understanding_Explaining_an_unrelated_phenomenon_exposes_the_illusion_of_explanatory_depth" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/372669028_Broad_effects_of_shallow_understanding_Explaining_an_unrelated_phenomenon_exposes_the_illusion_of_explanatory_depth</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fortunately, a person can expose the illusion by attempting to generate a causal explanation for how the...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
    Title: 376799863 METACOGNITION IN READING COMPREHENSION  
-   Link: <a href="https://www.researchgate.net/publication/376799863_METACOGNITION_IN_READING_COMPREHENSION" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376799863_METACOGNITION_IN_READING_COMPREHENSION</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Simply defined, metacognition can be known as being aware...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/376799863_METACOGNITION_IN_READING_COMPREHENSION" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376799863_METACOGNITION_IN_READING_COMPREHENSION</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Simply defined, metacognition can be known as being aware...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: discovery.ucl.ac.uk  
    Title: UCL Discovery The role of background knowledge in reading comprehension  
-   Link: <a href="https://discovery.ucl.ac.uk/10167622/1/Umek_UCL_30_March_2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/10167622/1/Umek_UCL_30_March_2023.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UCL DiscoveryThe role of background knowledge in reading comprehension...March 31, 2023 — by A Umek · 2023 · Cited by 1 — This thesis in...</p></details>
+   Link:<a href="https://discovery.ucl.ac.uk/10167622/1/Umek_UCL_30_March_2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/10167622/1/Umek_UCL_30_March_2023.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UCL DiscoveryThe role of background knowledge in reading comprehension...March 31, 2023 — by A Umek · 2023 · Cited by 1 — This thesis in...</p></details>
    Published: March 31, 2023  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/10888438.2023.2261572" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10888438.2023.2261572</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineFull article: Metacognitive Comprehension Monitoringby C Tibken · 2024 · Cited by 11 — Metacognitive monitoring is...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/10888438.2023.2261572" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10888438.2023.2261572</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineFull article: Metacognitive Comprehension Monitoringby C Tibken · 2024 · Cited by 11 — Metacognitive monitoring is...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13027792/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC13027792/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Monitoring in Reading Comprehension - PMCby V Markovich · 2026 — This study examined associations between vocabulary knowledge, reading f...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13027792/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC13027792/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Monitoring in Reading Comprehension - PMCby V Markovich · 2026 — This study examined associations between vocabulary knowledge, reading f...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2021.766589/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2021.766589/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of Prior Knowledge on Comprehending Text About...by E Kikas · 2021 · Cited by 21 — This study aimed to analyze the possibility o...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2021.766589/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2021.766589/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of Prior Knowledge on Comprehending Text About...by E Kikas · 2021 · Cited by 21 — This study aimed to analyze the possibility o...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Illusion of explanatory depth  
-   Link: <a href="https://en.wikipedia.org/wiki/Illusion_of_explanatory_depth" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Illusion_of_explanatory_depth</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusion of explanatory depthThe illusion of explanatory depth (IOED) is cognitive bias or an illusion where people tend to believe th...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Illusion_of_explanatory_depth" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Illusion_of_explanatory_depth</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Illusion of explanatory depthThe illusion of explanatory depth (IOED) is cognitive bias or an illusion where people tend to believe th...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: thedecisionlab.com  
-   Link: <a href="https://thedecisionlab.com/biases/the-illusion-of-explanatory-depth" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/the-illusion-of-explanatory-depth</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Illusion of Explanatory DepthThe illusion of explanatory depth (IOED) describes our belief that we understand more about the world th...</p></details>
+   Link:<a href="https://thedecisionlab.com/biases/the-illusion-of-explanatory-depth" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/the-illusion-of-explanatory-depth</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Illusion of Explanatory DepthThe illusion of explanatory depth (IOED) describes our belief that we understand more about the world th...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: gallerix.org  
-   Link: <a href="https://gallerix.org/tribune/psy--illyuziya-ponimaniya/" target="_blank" rel="noopener noreferrer nofollow">https://gallerix.org/tribune/psy--illyuziya-ponimaniya/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It manifests itself even in people with high intelligence and a good education. A person...Read more...</p></details>
+   Link:<a href="https://gallerix.org/tribune/psy--illyuziya-ponimaniya/" target="_blank" rel="noopener noreferrer nofollow">https://gallerix.org/tribune/psy--illyuziya-ponimaniya/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It manifests itself even in people with high intelligence and a good education. A person...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cogdevlab.yale.edu  
-   Link: <a href="https://cogdevlab.yale.edu/sites/default/files/files/Fisher2015.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cogdevlab.yale.edu/sites/default/files/files/Fisher2015.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Curse of Expertise: When More Knowledge Leads to...by M Fisher · 2015 · Cited by 150 — However, we often overestimate our explanatory pr...</p></details>
+   Link:<a href="https://cogdevlab.yale.edu/sites/default/files/files/Fisher2015.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cogdevlab.yale.edu/sites/default/files/files/Fisher2015.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Curse of Expertise: When More Knowledge Leads to...by M Fisher · 2015 · Cited by 150 — However, we often overestimate our explanatory pr...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchopenworld.com  
-   Link: <a href="https://researchopenworld.com/effects-of-cognitive-and-metacognitive-strategy-for-developing-reading-comprehension-capacity/" target="_blank" rel="noopener noreferrer nofollow">https://researchopenworld.com/effects-of-cognitive-and-metacognitive-strategy-for-developing-reading-comprehension-capacity/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>, and to distinguish main idea of reading texts and also more details...Read more...</p></details>
+   Link:<a href="https://researchopenworld.com/effects-of-cognitive-and-metacognitive-strategy-for-developing-reading-comprehension-capacity/" target="_blank" rel="noopener noreferrer nofollow">https://researchopenworld.com/effects-of-cognitive-and-metacognitive-strategy-for-developing-reading-comprehension-capacity/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>, and to distinguish main idea of reading texts and also...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: structural-learning.com  
-   Link: <a href="https://www.structural-learning.com/post/metacognitive-strategies-in-reading-comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/metacognitive-strategies-in-reading-comprehension</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ir own comprehension: Learners who believe they understand a text...Read more...</p></details>
+   Link:<a href="https://www.structural-learning.com/post/metacognitive-strategies-in-reading-comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/metacognitive-strategies-in-reading-comprehension</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ir own comprehension: Learners who believe they understand a text...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: structural-learning.com  
    Title: fluency illusions students think they know  
-   Link: <a href="https://www.structural-learning.com/post/fluency-illusions-students-think-they-know" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/fluency-illusions-students-think-they-know</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fluency Illusions: Why Students Think They Know More4 Jun 2026 — Fluency illusions cause learners to confuse familiarity with genuine mas...</p></details>
+   Link:<a href="https://www.structural-learning.com/post/fluency-illusions-students-think-they-know" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/fluency-illusions-students-think-they-know</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fluency Illusions: Why Students Think They Know More4 Jun 2026 — Fluency illusions cause learners to confuse familiarity with genuine mas...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ies.ed.gov  
-   Link: <a href="https://ies.ed.gov/learn/blog/better-reading-comprehension-when-you-know-you-dont-know" target="_blank" rel="noopener noreferrer nofollow">https://ies.ed.gov/learn/blog/better-reading-comprehension-when-you-know-you-dont-know</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Institute of Education SciencesBetter Reading Comprehension When You Know That You...10 Feb 2021 — In their exploratory study, researche...</p></details>
+   Link:<a href="https://ies.ed.gov/learn/blog/better-reading-comprehension-when-you-know-you-dont-know" target="_blank" rel="noopener noreferrer nofollow">https://ies.ed.gov/learn/blog/better-reading-comprehension-when-you-know-you-dont-know</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Institute of Education SciencesBetter Reading Comprehension When You Know That You...10 Feb 2021 — In their exploratory study, researche...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: scholarworks.waldenu.edu  
-   Link: <a href="https://scholarworks.waldenu.edu/cgi/viewcontent.cgi?article=12210&amp;context=dissertations" target="_blank" rel="noopener noreferrer nofollow">https://scholarworks.waldenu.edu/cgi/viewcontent.cgi?article=12210&amp;context=dissertations</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Strategies Used for Reading Comprehension...by M Lukes · 2021 · Cited by 6 — The efficacy of metacognitive strategy knowledge, awareness...</p></details>
+   Link:<a href="https://scholarworks.waldenu.edu/cgi/viewcontent.cgi?article=12210&amp;context=dissertations" target="_blank" rel="noopener noreferrer nofollow">https://scholarworks.waldenu.edu/cgi/viewcontent.cgi?article=12210&amp;context=dissertations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Strategies Used for Reading Comprehension...by M Lukes · 2021 · Cited by 6 — The efficacy of metacognitive strategy knowledge, awareness...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: Why Watching Tutorials Keeps You Stuck (The Fluency Trap)  
-   Link: <a href="https://www.youtube.com/watch?v=toC1UzrrklU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=toC1UzrrklU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stop Wasting Time Reading: The Neuroscience of Real Learning...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=toC1UzrrklU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=toC1UzrrklU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stop Wasting Time Reading: The Neuroscience of Real Learning...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: Stop Wasting Time Reading: The Neuroscience of Real Learning  
-   Link: <a href="https://www.youtube.com/watch?v=PUIj0Ax2jYQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PUIj0Ax2jYQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Re-Reading Is Useless (The Research Is Clear)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=PUIj0Ax2jYQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PUIj0Ax2jYQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Re-Reading Is Useless (The Research Is Clear)...</p></details>

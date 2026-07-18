@@ -269,17 +269,17 @@ image: /assets/images/increasing_re_852ca6_dense_materia_3cc00e_background_kn_3a
 
 ## Introduction
 
-One of the main reasons experienced readers move through difficult material quickly is that they rarely process every sentence as a completely new piece of information. Instead, they rely on schemas: organised mental frameworks built from previous [knowledge]({{ 'knowledge/' | relative_url }}) and experience. A schema allows a reader to recognise familiar patterns, anticipate relationships and interpret details with less conscious effort. As a result, dense texts often feel simpler and faster to read, even when the words themselves are complex. Research in cognitive psychology and reading comprehension consistently links prior knowledge, schema activation and reduced cognitive load, helping explain why [expertise]({{ 'expertise/' | relative_url }}) often looks like reading speed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ebsco.com/research-starters/psychology/schema-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO+2Great Minds]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">Schema Theory &#124; Psychology &#124; Research StartersSchema Theory is a cognitive framework that explains how individuals organize and inte...</span></span></span>
+One of the main reasons experienced readers move through difficult material quickly is that they rarely process every sentence as a completely new piece of information. Instead, they rely on schemas: organised mental frameworks built from previous [knowledge]({{ 'knowledge/' | relative_url }}) and experience. A schema allows a reader to recognise familiar patterns, anticipate relationships and interpret details with less conscious effort. As a result, dense texts often feel simpler and faster to read, even when the words themselves are complex. Research in cognitive psychology and reading comprehension consistently links prior knowledge, schema activation and reduced cognitive load, helping explain why [expertise]({{ 'expertise/' | relative_url }}) often looks like reading speed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ebsco.com/research-starters/psychology/schema-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO+2Great Minds]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">Schema Theory &#124; Psychology &#124; Research StartersSchema Theory is a cognitive framework that explains how individuals organize and inte...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_dense_materia_3cc00e_background_kn_3a104a_schemas_reduc_e0315f-Illustration-1-dark.svg" | relative_url }}" alt="Schemas illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_dense_materia_3cc00e_background_kn_3a104a_schemas_reduc_e0315f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_dense_materia_3cc00e_background_kn_3a104a_schemas_reduc_e0315f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What a Schema Does During Reading
 
-A schema is not simply a collection of facts. It is a structured pattern of knowledge that helps readers organise and interpret incoming information. Schema theory proposes that comprehension occurs when new information is connected to relevant knowledge already stored in long-term memory. Rather than analysing each idea independently, the reader fits new details into an existing framework. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ebsco.com/research-starters/psychology/schema-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">Schema Theory &#124; Psychology &#124; Research StartersSchema Theory is a cognitive framework that explains how individuals organize and inte...</span></span></span>
+A schema is not simply a collection of facts. It is a structured pattern of knowledge that helps readers organise and interpret incoming information. Schema theory proposes that comprehension occurs when new information is connected to relevant knowledge already stored in long-term memory. Rather than analysing each idea independently, the reader fits new details into an existing framework.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ebsco.com/research-starters/psychology/schema-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">Schema Theory &#124; Psychology &#124; Research StartersSchema Theory is a cognitive framework that explains how individuals organize and inte...</span></span></span>
 
-When reading a specialised text, schemas act as shortcuts for interpretation. An experienced reader often recognises the overall structure of the material before examining every detail. A researcher reading a journal article may immediately identify the study design, the [purpose]({{ 'purpose/' | relative_url }}) of the methods section and the likely significance of the results. A lawyer can recognise standard contract patterns. A clinician can identify familiar diagnostic narratives. In each case, meaning emerges from pattern recognition rather than sentence-by-sentence reconstruction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s10648-024-09848-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">A Cognitive Load Theory Approach to Understanding Expert...by CCA van Nooijen · 2024 · Cited by 144 — In CTML, chunking behaviou...</span></span></span>
+When reading a specialised text, schemas act as shortcuts for interpretation. An experienced reader often recognises the overall structure of the material before examining every detail. A researcher reading a journal article may immediately identify the study design, the [purpose]({{ 'purpose/' | relative_url }}) of the methods section and the likely significance of the results. A lawyer can recognise standard contract patterns. A clinician can identify familiar diagnostic narratives. In each case, meaning emerges from pattern recognition rather than sentence-by-sentence reconstruction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s10648-024-09848-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">A Cognitive Load Theory Approach to Understanding Expert...by CCA van Nooijen · 2024 · Cited by 144 — In CTML, chunking behaviou...</span></span></span>
 
-This pattern recognition changes the reading experience. Instead of processing dozens of isolated facts, the reader perceives larger meaningful units. Cognitive scientists often describe this as chunking: combining many separate elements into a single recognised pattern. The more developed the schema, the larger and more useful those chunks become. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kirschnered.nl/2025/04/11/schemas-chunking-and-working-memory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirschnered.nl">[kirschner-ED+2Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirschnered.nl</span><span class="citation-popover-title">schemas chunking and working memory</span><span class="citation-popover-snippet">kirschner-EDSchemas, Chunking and Working Memory11 Apr 2025 — Chunking reduces the number of items we need to maintain by grouping them i...</span></span></span>
+This pattern recognition changes the reading experience. Instead of processing dozens of isolated facts, the reader perceives larger meaningful units. Cognitive scientists often describe this as chunking: combining many separate elements into a single recognised pattern. The more developed the schema, the larger and more useful those chunks become.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kirschnered.nl/2025/04/11/schemas-chunking-and-working-memory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirschnered.nl">[kirschner-ED+2Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirschnered.nl</span><span class="citation-popover-title">schemas chunking and working memory</span><span class="citation-popover-snippet">kirschner-EDSchemas, Chunking and Working Memory11 Apr 2025 — Chunking reduces the number of items we need to maintain by grouping them i...</span></span></span>
 
 Consider two readers encountering the sentence:
 
@@ -292,15 +292,15 @@ A novice may need to process "randomised", "controlled trial", "statistically si
 
 ## Why Working Memory Feels Less Crowded
 
-The practical advantage of schemas comes from their relationship with working memory. Working memory is the limited mental workspace used for comprehension, reasoning and problem-solving. Because it can handle only a small amount of information at once, reading becomes difficult when too many unfamiliar elements compete for attention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4207727/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Educational Technology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Working memory is the retention of a small amount of information in a readily accessible form. It facilitates planning, comprehension, re...</span></span></span>
+The practical advantage of schemas comes from their relationship with working memory. Working memory is the limited mental workspace used for comprehension, reasoning and problem-solving. Because it can handle only a small amount of information at once, reading becomes difficult when too many unfamiliar elements compete for attention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4207727/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Educational Technology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Working memory is the retention of a small amount of information in a readily accessible form. It facilitates planning, comprehension, re...</span></span></span>
 
 Schemas reduce this burden in several ways.
 
-**They combine many elements into one unit.** A familiar pattern occupies less working-memory capacity than a collection of disconnected details. Instead of holding ten separate ideas in mind, the reader may only need to hold one recognised structure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kirschnered.nl/2025/04/11/schemas-chunking-and-working-memory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirschnered.nl">[kirschner-ED+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirschnered.nl</span><span class="citation-popover-title">schemas chunking and working memory</span><span class="citation-popover-snippet">kirschner-EDSchemas, Chunking and Working Memory11 Apr 2025 — Chunking reduces the number of items we need to maintain by grouping them i...</span></span></span>
+**They combine many elements into one unit.** A familiar pattern occupies less working-memory capacity than a collection of disconnected details. Instead of holding ten separate ideas in mind, the reader may only need to hold one recognised structure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kirschnered.nl/2025/04/11/schemas-chunking-and-working-memory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirschnered.nl">[kirschner-ED+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirschnered.nl</span><span class="citation-popover-title">schemas chunking and working memory</span><span class="citation-popover-snippet">kirschner-EDSchemas, Chunking and Working Memory11 Apr 2025 — Chunking reduces the number of items we need to maintain by grouping them i...</span></span></span>
 
-**They provide expectations.** Readers with relevant schemas often predict what is likely to come next. When a scientific paper reaches its discussion section, experienced researchers already know the kinds of arguments they are likely to encounter. Anticipation reduces the effort needed to interpret each new sentence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/279561825_The_role_of_long-term_working_memory_in_text_comprehension" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">The role of long-term working memory in text comprehensionThe role of long-term working memory in text comprehension is analy...</span></span></span>
+**They provide expectations.** Readers with relevant schemas often predict what is likely to come next. When a scientific paper reaches its discussion section, experienced researchers already know the kinds of arguments they are likely to encounter. Anticipation reduces the effort needed to interpret each new sentence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/279561825_The_role_of_long-term_working_memory_in_text_comprehension" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">The role of long-term working memory in text comprehensionThe role of long-term working memory in text comprehension is analy...</span></span></span>
 
-**They reduce the need for constant problem-solving.** Novices frequently stop to determine how ideas fit together. Readers with strong schemas already possess a framework that organises the information automatically. Cognitive load theory suggests that prior knowledge helps manage the limited resources of working memory by shifting more processing onto established structures in long-term memory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11852728/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Challenging Cognitive Load Theory: The Role of Educational...by E Gkintoni · 2025 · Cited by 381 — CLT defines learning as the proces...</span></span></span>
+**They reduce the need for constant problem-solving.** Novices frequently stop to determine how ideas fit together. Readers with strong schemas already possess a framework that organises the information automatically. Cognitive load theory suggests that prior knowledge helps manage the limited resources of working memory by shifting more processing onto established structures in long-term memory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11852728/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Challenging Cognitive Load Theory: The Role of Educational...by E Gkintoni · 2025 · Cited by 381 — CLT defines learning as the proces...</span></span></span>
 
 This is why [difficult texts]({{ 'difficult-text/' | relative_url }}) often feel disproportionately hard for beginners. The challenge is not merely the number of words on the page. It is the number of unfamiliar relationships that must be actively constructed while reading.
 
@@ -310,9 +310,9 @@ This is why [difficult texts]({{ 'difficult-text/' | relative_url }}) often feel
 
 Observers sometimes assume that expert readers have unusually rapid [eye movements]({{ 'eye-tradeoff/' | relative_url }}) or exceptional concentration. In many cases, their apparent speed is largely a consequence of schema-driven processing.
 
-Research on expertise consistently shows that experts organise information differently from novices. Repeated [exposure]({{ 'exposure/' | relative_url }}) allows them to recognise meaningful patterns that beginners cannot yet see. What appears to be rapid reading is often rapid interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s10648-024-09848-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">A Cognitive Load Theory Approach to Understanding Expert...by CCA van Nooijen · 2024 · Cited by 144 — In CTML, chunking behaviou...</span></span></span>
+Research on expertise consistently shows that experts organise information differently from novices. Repeated [exposure]({{ 'exposure/' | relative_url }}) allows them to recognise meaningful patterns that beginners cannot yet see. What appears to be rapid reading is often rapid interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s10648-024-09848-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">A Cognitive Load Theory Approach to Understanding Expert...by CCA van Nooijen · 2024 · Cited by 144 — In CTML, chunking behaviou...</span></span></span>
 
-A useful comparison comes from chess expertise. Experienced players do not memorise every piece individually when viewing a realistic chess position. They recognise familiar arrangements and strategic patterns. Similar mechanisms operate during reading. Experts in a field perceive structures, arguments and relationships that novices must build manually. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s10648-024-09848-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">A Cognitive Load Theory Approach to Understanding Expert...by CCA van Nooijen · 2024 · Cited by 144 — In CTML, chunking behaviou...</span></span></span>
+A useful comparison comes from chess expertise. Experienced players do not memorise every piece individually when viewing a realistic chess position. They recognise familiar arrangements and strategic patterns. Similar mechanisms operate during reading. Experts in a field perceive structures, arguments and relationships that novices must build manually.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s10648-024-09848-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">A Cognitive Load Theory Approach to Understanding Expert...by CCA van Nooijen · 2024 · Cited by 144 — In CTML, chunking behaviou...</span></span></span>
 
 This explains an important paradox. An expert may read a dense [technical]({{ 'technical-texts/' | relative_url }}) article quickly while a novice struggles. Yet if both readers encounter a topic outside their experience, much of the speed advantage disappears because the relevant schemas no longer exist.
 
@@ -324,7 +324,7 @@ This explains an important paradox. An expert may read a dense [technical]({{ 't
 
 ## How Repeated Exposure Builds Useful Patterns
 
-Schemas develop gradually through repeated encounters with similar material. Every time readers work through texts in a domain, they strengthen connections between concepts, structures and recurring ideas. Over time, patterns that once required conscious effort become automatic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://theeffortfuleducator.com/2017/12/07/cognitive-load-theory-and-applications-in-the-classroom-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theeffortfuleducator.com">[The Effortful Educator]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theeffortfuleducator.com</span><span class="citation-popover-title">cognitive load theory and applications in the classroom 2</span><span class="citation-popover-snippet">The Effortful EducatorCognitive Load Theory and Applications in the Classroom7 Dec 2017 — CLT posits that we store information in long-te...</span></span></span>
+Schemas develop gradually through repeated encounters with similar material. Every time readers work through texts in a domain, they strengthen connections between concepts, structures and recurring ideas. Over time, patterns that once required conscious effort become automatic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://theeffortfuleducator.com/2017/12/07/cognitive-load-theory-and-applications-in-the-classroom-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theeffortfuleducator.com">[The Effortful Educator]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theeffortfuleducator.com</span><span class="citation-popover-title">cognitive load theory and applications in the classroom 2</span><span class="citation-popover-snippet">The Effortful EducatorCognitive Load Theory and Applications in the Classroom7 Dec 2017 — CLT posits that we store information in long-te...</span></span></span>
 
 The process usually follows a progression:
 
@@ -352,194 +352,194 @@ Dense reading feels easier when a reader can connect new information to existing
 From the perspective of increasing reading speed, this means that knowledge itself is often the hidden accelerator. As useful schemas accumulate, difficult texts stop feeling like collections of unfamiliar facts and begin to look like variations on patterns the reader already understands. [EBSCO+2Springer](https://www.ebsco.com/research-starters/psychology/schema-theory)
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Knowledge Shrinks a Hard Text. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Knowledge Shrinks a Hard Text. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Don&#x27;t Students Like School? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kuEmEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Don&#x27;t Students Like School?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
-        </h4>
-        <p class="fr-book-author">By Daniel T. Willingham</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Don&#x27;t Students Like School? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kuEmEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Don&#x27;t Students Like School?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
+</h4>
+<p class="fr-book-author">By Daniel T. Willingham</p>
         
-        <p class="fr-book-desc">Directly explains background knowledge, memory, comprehension, and why expertise makes complex reading easier.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explains background knowledge, memory, comprehension, and why expertise makes complex reading easier.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oneWAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-        </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oneWAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+</h4>
+<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Explains how durable knowledge and retrieval practice build the mental structures that reduce cognitive effort.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how durable knowledge and retrieval practice build the mental structures that reduce cognitive effort.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Learning Happens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PdnzEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Learning Happens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Learning Happens">How Learning Happens</a>
-        </h4>
-        <p class="fr-book-author">By Paul A. Kirschner, Carl Hendrick</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Learning Happens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PdnzEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Learning Happens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Learning Happens">How Learning Happens</a>
+</h4>
+<p class="fr-book-author">By Paul A. Kirschner, Carl Hendrick</p>
         
-        <p class="fr-book-desc">Covers schema theory, cognitive load, memory, and expertise in an accessible way.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers schema theory, cognitive load, memory, and expertise in an accessible way.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Reading+Mind+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading Mind on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Reading+Mind+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading Mind">Reading Mind</a>
-        </h4>
-        <p class="fr-book-author">By Daniel T. Willingham</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Reading+Mind+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading Mind on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Reading+Mind+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading Mind">Reading Mind</a>
+</h4>
+<p class="fr-book-author">By Daniel T. Willingham</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Reading, Reading comprehension, Cognitive psychology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Reading+Mind+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Reading, Reading comprehension, Cognitive psychology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Reading+Mind+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Don&#x27;t Students Like School?</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Learning+Happens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Learning Happens</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Don&#x27;t Students Like School?</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Learning+Happens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Learning Happens</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neuroscience I Think Neuron To Some Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fb2a2c7e512831f3921d.jpg' | relative_url }}" alt="Listing image for Neuroscience I Think Neuron To Some Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer">Neuroscience I Think Neuron To Some Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neuroscience wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: neuroscience wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neuroscience I Think Neuron To Some Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fb2a2c7e512831f3921d.jpg' | relative_url }}" alt="Listing image for Neuroscience I Think Neuron To Some Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer">Neuroscience I Think Neuron To Some Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neuroscience wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: neuroscience wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SODIUM SMART, NEUROSCIENCE PUN GRAP Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f67920c37351c768ae45.jpg' | relative_url }}" alt="Listing image for SODIUM SMART, NEUROSCIENCE PUN GRAP Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer">SODIUM SMART, NEUROSCIENCE PUN GRAP Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neuroscience wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: neuroscience wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SODIUM SMART, NEUROSCIENCE PUN GRAP Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f67920c37351c768ae45.jpg' | relative_url }}" alt="Listing image for SODIUM SMART, NEUROSCIENCE PUN GRAP Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer">SODIUM SMART, NEUROSCIENCE PUN GRAP Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neuroscience wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: neuroscience wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro INTUITION Brain Anatomy Poster, Science Biology Neuroscience Wall Art"><img src="{{ '/assets/images/marketplace-covers/5e5a3d1e071b94bc9d63.jpg' | relative_url }}" alt="Listing image for Retro INTUITION Brain Anatomy Poster, Science Biology Neuroscience Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer">Retro INTUITION Brain Anatomy Poster, Science Biology Neuroscience Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neuroscience wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: neuroscience wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro INTUITION Brain Anatomy Poster, Science Biology Neuroscience Wall Art"><img src="{{ '/assets/images/marketplace-covers/5e5a3d1e071b94bc9d63.jpg' | relative_url }}" alt="Listing image for Retro INTUITION Brain Anatomy Poster, Science Biology Neuroscience Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer">Retro INTUITION Brain Anatomy Poster, Science Biology Neuroscience Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neuroscience wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: neuroscience wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neuroscience &amp; Coffee is happiness Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4c352c23cc05d8544b10.jpg' | relative_url }}" alt="Listing image for Neuroscience &amp; Coffee is happiness Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer">Neuroscience &amp; Coffee is happiness Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neuroscience wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: neuroscience wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neuroscience &amp; Coffee is happiness Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4c352c23cc05d8544b10.jpg' | relative_url }}" alt="Listing image for Neuroscience &amp; Coffee is happiness Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer">Neuroscience &amp; Coffee is happiness Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for neuroscience wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: neuroscience wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=neuroscience+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="neuroscience wall art" data-ebay-reference="schemas-ee374c-how-knowledge-shrinks-a-hard-text-increasing-neuroscience-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -555,7 +555,7 @@ From the perspective of increasing reading speed, this means that knowledge itse
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -575,7 +575,7 @@ From the perspective of increasing reading speed, this means that knowledge itse
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -607,7 +607,7 @@ From the perspective of increasing reading speed, this means that knowledge itse
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -659,7 +659,7 @@ From the perspective of increasing reading speed, this means that knowledge itse
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -704,7 +704,7 @@ From the perspective of increasing reading speed, this means that knowledge itse
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -745,138 +745,138 @@ From the perspective of increasing reading speed, this means that knowledge itse
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/psychology/schema-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/psychology/schema-theory</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Schema Theory | Psychology | Research StartersSchema Theory is a cognitive framework that explains how individuals organize and inte...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/psychology/schema-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/psychology/schema-theory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Schema Theory | Psychology | Research StartersSchema Theory is a cognitive framework that explains how individuals organize and inte...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11852728/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11852728/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Challenging Cognitive Load Theory: The Role of Educational...by E Gkintoni · 2025 · Cited by 381 — CLT defines learning as the proces...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11852728/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11852728/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Challenging Cognitive Load Theory: The Role of Educational...by E Gkintoni · 2025 · Cited by 381 — CLT defines learning as the proces...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Schema (psychology)  
-   Link: <a href="https://en.wikipedia.org/wiki/Schema_%28psychology%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Schema_%28psychology%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Schema (psychology)a schema (pl.: schemata or schemas) [1] describes a pattern of thought or behavior that organizes categories of i...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Schema_%28psychology%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Schema_%28psychology%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Schema (psychology)a schema (pl.: schemata or schemas) [1] describes a pattern of thought or behavior that organizes categories of i...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s10648-024-09848-3" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10648-024-09848-3</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Cognitive Load Theory Approach to Understanding Expert...by CCA van Nooijen · 2024 · Cited by 144 — In CTML, chunking behaviou...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s10648-024-09848-3" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10648-024-09848-3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Cognitive Load Theory Approach to Understanding Expert...by CCA van Nooijen · 2024 · Cited by 144 — In CTML, chunking behaviou...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/279561825_The_role_of_long-term_working_memory_in_text_comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/279561825_The_role_of_long-term_working_memory_in_text_comprehension</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The role of long-term working memory in text comprehensionThe role of long-term working memory in text comprehension is analy...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/279561825_The_role_of_long-term_working_memory_in_text_comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/279561825_The_role_of_long-term_working_memory_in_text_comprehension</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The role of long-term working memory in text comprehensionThe role of long-term working memory in text comprehension is analy...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Chunking_%28psychology%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chunking_%28psychology%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chunking (psychology)Chunking is a process by which small individual pieces of a set of information are bound together to create a mea...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Chunking_%28psychology%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chunking_%28psychology%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chunking (psychology)Chunking is a process by which small individual pieces of a set of information are bound together to create a mea...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4207727/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4207727/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Working memory is the retention of a small amount of information in a readily accessible form. It facilitates planning, comprehension, re...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4207727/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4207727/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Working memory is the retention of a small amount of information in a readily accessible form. It facilitates planning, comprehension, re...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12367772/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12367772/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by A Gorbunova · 2025 · Cited by 10 — This study examines how prior knowledge and pre-training relate to cognitive load during problem...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12367772/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12367772/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by A Gorbunova · 2025 · Cited by 10 — This study examines how prior knowledge and pre-training relate to cognitive load during problem...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: journals.copmadrid.org  
-   Link: <a href="https://journals.copmadrid.org/psed/art/psed2025a6" target="_blank" rel="noopener noreferrer nofollow">https://journals.copmadrid.org/psed/art/psed2025a6</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Role of Monitoring, Prior Knowledge, and Working...by JP Barreyro · 2025 · Cited by 3 — Given the importance of prior knowledge and...</p></details>
+   Link:<a href="https://journals.copmadrid.org/psed/art/psed2025a6" target="_blank" rel="noopener noreferrer nofollow">https://journals.copmadrid.org/psed/art/psed2025a6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Role of Monitoring, Prior Knowledge, and Working...by JP Barreyro · 2025 · Cited by 3 — Given the importance of prior knowledge and...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/377726986_A_Cognitive_Load_Theory_Approach_to_Understanding_Expert_Scaffolding_of_Visual_Problem-Solving_Tasks_A_Scoping_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/377726986_A_Cognitive_Load_Theory_Approach_to_Understanding_Expert_Scaffolding_of_Visual_Problem-Solving_Tasks_A_Scoping_Review</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Cognitive Load Theory Approach to Understanding...Jan 9, 2024 — Scaffolding regulates the flow of information within the learner&#x27;s wor...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/377726986_A_Cognitive_Load_Theory_Approach_to_Understanding_Expert_Scaffolding_of_Visual_Problem-Solving_Tasks_A_Scoping_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/377726986_A_Cognitive_Load_Theory_Approach_to_Understanding_Expert_Scaffolding_of_Visual_Problem-Solving_Tasks_A_Scoping_Review</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Cognitive Load Theory Approach to Understanding...Jan 9, 2024 — Scaffolding regulates the flow of information within the learner&#x27;s wor...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/342798415_Cognitive-Load_Theory_Methods_to_Manage_Working_Memory_Load_in_the_Learning_of_Complex_Tasks" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342798415_Cognitive-Load_Theory_Methods_to_Manage_Working_Memory_Load_in_the_Learning_of_Complex_Tasks</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by focusing on the cognitive architecture used by cognitive-load theory.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/342798415_Cognitive-Load_Theory_Methods_to_Manage_Working_Memory_Load_in_the_Learning_of_Complex_Tasks" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342798415_Cognitive-Load_Theory_Methods_to_Manage_Working_Memory_Load_in_the_Learning_of_Complex_Tasks</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by focusing on the cognitive architecture used by cognitive-load theory.Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: greatminds.org  
    Title: the science of reading what is prior knowledge and why is it important  
-   Link: <a href="https://greatminds.org/english/blog/witwisdom/the-science-of-reading-what-is-prior-knowledge-and-why-is-it-important" target="_blank" rel="noopener noreferrer nofollow">https://greatminds.org/english/blog/witwisdom/the-science-of-reading-what-is-prior-knowledge-and-why-is-it-important</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Great MindsThe Science of Reading: What is prior knowledge and why...24 Feb 2022 — Numerous studies show that background knowledge affec...</p></details>
+   Link:<a href="https://greatminds.org/english/blog/witwisdom/the-science-of-reading-what-is-prior-knowledge-and-why-is-it-important" target="_blank" rel="noopener noreferrer nofollow">https://greatminds.org/english/blog/witwisdom/the-science-of-reading-what-is-prior-knowledge-and-why-is-it-important</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Great MindsThe Science of Reading: What is prior knowledge and why...24 Feb 2022 — Numerous studies show that background knowledge affec...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: educationaltechnology.net  
-   Link: <a href="https://educationaltechnology.net/cognitive-load-theory-principles-learning-processes-and-implications-for-instructional-design/" target="_blank" rel="noopener noreferrer nofollow">https://educationaltechnology.net/cognitive-load-theory-principles-learning-processes-and-implications-for-instructional-design/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Load Theory: Principles, Learning Processes, and...The limited capacity assumption recognizes that working memory can process...</p></details>
+   Link:<a href="https://educationaltechnology.net/cognitive-load-theory-principles-learning-processes-and-implications-for-instructional-design/" target="_blank" rel="noopener noreferrer nofollow">https://educationaltechnology.net/cognitive-load-theory-principles-learning-processes-and-implications-for-instructional-design/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Load Theory: Principles, Learning Processes, and...The limited capacity assumption recognizes that working memory can process...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: theeffortfuleducator.com  
    Title: cognitive load theory and applications in the classroom 2  
-   Link: <a href="https://theeffortfuleducator.com/2017/12/07/cognitive-load-theory-and-applications-in-the-classroom-2/" target="_blank" rel="noopener noreferrer nofollow">https://theeffortfuleducator.com/2017/12/07/cognitive-load-theory-and-applications-in-the-classroom-2/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Effortful EducatorCognitive Load Theory and Applications in the Classroom7 Dec 2017 — CLT posits that we store information in long-te...</p></details>
+   Link:<a href="https://theeffortfuleducator.com/2017/12/07/cognitive-load-theory-and-applications-in-the-classroom-2/" target="_blank" rel="noopener noreferrer nofollow">https://theeffortfuleducator.com/2017/12/07/cognitive-load-theory-and-applications-in-the-classroom-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Effortful EducatorCognitive Load Theory and Applications in the Classroom7 Dec 2017 — CLT posits that we store information in long-te...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: education.nsw.gov.au  
    Title: 2017 cognitive load theory  
-   Link: <a href="https://education.nsw.gov.au/content/dam/main-education/about-us/educational-data/cese/2017-cognitive-load-theory.pdf" target="_blank" rel="noopener noreferrer nofollow">https://education.nsw.gov.au/content/dam/main-education/about-us/educational-data/cese/2017-cognitive-load-theory.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>load theory: Research that teachers really need...Research suggests that an average person can only hold about four chunks of informatio...</p></details>
+   Link:<a href="https://education.nsw.gov.au/content/dam/main-education/about-us/educational-data/cese/2017-cognitive-load-theory.pdf" target="_blank" rel="noopener noreferrer nofollow">https://education.nsw.gov.au/content/dam/main-education/about-us/educational-data/cese/2017-cognitive-load-theory.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>load theory: Research that teachers really need...Research suggests that an average person can only hold about four chunks of informatio...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: structural-learning.com  
-   Link: <a href="https://www.structural-learning.com/post/working-memory-a-teachers-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/working-memory-a-teachers-guide</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Load Theory | Working Memory: A Teacher&#x27;s Guide24 Apr 2026 — Working memory is the system that supports learning by holding and...</p></details>
+   Link:<a href="https://www.structural-learning.com/post/working-memory-a-teachers-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/working-memory-a-teachers-guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Load Theory | Working Memory: A Teacher&#x27;s Guide24 Apr 2026 — Working memory is the system that supports learning by holding and...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/cognitive" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/cognitive</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>COGNITIVE Definition &amp; Meaning1. of, relating to, being, or involving conscious intellectual activity (such as thinking, reasoning, or re...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/cognitive" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/cognitive</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>COGNITIVE Definition &amp; Meaning1. of, relating to, being, or involving conscious intellectual activity (such as thinking, reasoning, or re...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: thedecisionlab.com  
-   Link: <a href="https://thedecisionlab.com/reference-guide/psychology/cognitive-load-theory" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/cognitive-load-theory</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Load TheoryWorking Memory: A limited-capacity system responsible for temporarily holding and processing information before it i...</p></details>
+   Link:<a href="https://thedecisionlab.com/reference-guide/psychology/cognitive-load-theory" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/cognitive-load-theory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Load TheoryWorking Memory: A limited-capacity system responsible for temporarily holding and processing information before it i...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: dictionary.com  
-   Link: <a href="https://www.dictionary.com/browse/novice" target="_blank" rel="noopener noreferrer nofollow">https://www.dictionary.com/browse/novice</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NOVICE Definition &amp; Meaninga person who is new to the circumstances, work, etc., in which they are placed; beginner; tyro: The new senato...</p></details>
+   Link:<a href="https://www.dictionary.com/browse/novice" target="_blank" rel="noopener noreferrer nofollow">https://www.dictionary.com/browse/novice</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NOVICE Definition &amp; Meaninga person who is new to the circumstances, work, etc., in which they are placed; beginner; tyro: The new senato...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: phonicshero.com  
-   Link: <a href="https://phonicshero.com/cognitive-load-theory-phonics/" target="_blank" rel="noopener noreferrer nofollow">https://phonicshero.com/cognitive-load-theory-phonics/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Phonics HeroCognitive Load Theory and Reading Instruction&#x27;Cognitive load theory&#x27; (CLT) is a theory about instruction that may help you to...</p></details>
+   Link:<a href="https://phonicshero.com/cognitive-load-theory-phonics/" target="_blank" rel="noopener noreferrer nofollow">https://phonicshero.com/cognitive-load-theory-phonics/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Phonics HeroCognitive Load Theory and Reading Instruction&#x27;Cognitive load theory&#x27; (CLT) is a theory about instruction that may help you to...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/psychologystudents/comments/w21iur/what_is_a_schema/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/psychologystudents/comments/w21iur/what_is_a_schema/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is a schema?: r/psychologystudentsThis concept keeps coming up in my online psychology class. Can anyone explain what a schema is i...</p></details>
+   Link:<a href="https://www.reddit.com/r/psychologystudents/comments/w21iur/what_is_a_schema/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/psychologystudents/comments/w21iur/what_is_a_schema/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is a schema?: r/psychologystudentsThis concept keeps coming up in my online psychology class. Can anyone explain what a schema is i...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: mindbrained.org  
-   Link: <a href="https://www.mindbrained.org/2021/08/cognitive-load-theory-and-the-differences-between-experts-and-novices-what-chess-tells-us-about-teaching-foreign-languages/" target="_blank" rel="noopener noreferrer nofollow">https://www.mindbrained.org/2021/08/cognitive-load-theory-and-the-differences-between-experts-and-novices-what-chess-tells-us-about-teaching-foreign-languages/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Chess Tells us about Teaching Foreign Languages2 Aug 2021 — They concluded that teaching reading strategies without considering stud...</p></details>
+   Link:<a href="https://www.mindbrained.org/2021/08/cognitive-load-theory-and-the-differences-between-experts-and-novices-what-chess-tells-us-about-teaching-foreign-languages/" target="_blank" rel="noopener noreferrer nofollow">https://www.mindbrained.org/2021/08/cognitive-load-theory-and-the-differences-between-experts-and-novices-what-chess-tells-us-about-teaching-foreign-languages/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Chess Tells us about Teaching Foreign Languages2 Aug 2021 — They concluded that teaching reading strategies without considering stud...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: mcw.edu  
-   Link: <a href="https://www.mcw.edu/-/media/MCW/Education/Academic-Affairs/OEI/Faculty-Quick-Guides/Cognitive-Load-Theory.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mcw.edu/-/media/MCW/Education/Academic-Affairs/OEI/Faculty-Quick-Guides/Cognitive-Load-Theory.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Medical College of WisconsinCognitive Load TheoryWorking memory can typically process 5-9 pieces, or chunks, of information at any given...</p></details>
+   Link:<a href="https://www.mcw.edu/-/media/MCW/Education/Academic-Affairs/OEI/Faculty-Quick-Guides/Cognitive-Load-Theory.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mcw.edu/-/media/MCW/Education/Academic-Affairs/OEI/Faculty-Quick-Guides/Cognitive-Load-Theory.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Medical College of WisconsinCognitive Load TheoryWorking memory can typically process 5-9 pieces, or chunks, of information at any given...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: schematherapysociety.org  
-   Link: <a href="https://schematherapysociety.org/Schema-Therapy" target="_blank" rel="noopener noreferrer nofollow">https://schematherapysociety.org/Schema-Therapy</a>  
+   Link:<a href="https://schematherapysociety.org/Schema-Therapy" target="_blank" rel="noopener noreferrer nofollow">https://schematherapysociety.org/Schema-Therapy</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: my.chartered.college  
-   Link: <a href="https://my.chartered.college/impact_article/cognitive-load-theory-and-teacher-expertise-specific-challenges-for-primary-teachers/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/cognitive-load-theory-and-teacher-expertise-specific-challenges-for-primary-teachers/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>load theory and teacher expertise: specific...12 Sept 2018 — CLT offers a framework through which teachers can consider the design of le...</p></details>
+   Link:<a href="https://my.chartered.college/impact_article/cognitive-load-theory-and-teacher-expertise-specific-challenges-for-primary-teachers/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/impact_article/cognitive-load-theory-and-teacher-expertise-specific-challenges-for-primary-teachers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>load theory and teacher expertise: specific...12 Sept 2018 — CLT offers a framework through which teachers can consider the design of le...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: educationendowmentfoundation.org.uk  
    Title: eef blog cognitive clutter and better understanding barriers to learning  
-   Link: <a href="https://educationendowmentfoundation.org.uk/news/eef-blog-cognitive-clutter-and-better-understanding-barriers-to-learning" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/eef-blog-cognitive-clutter-and-better-understanding-barriers-to-learning</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EEF blog: Cognitive clutter and better understanding...1 Nov 2023 — In this blog, she explores the importance of considering cognitive l...</p></details>
+   Link:<a href="https://educationendowmentfoundation.org.uk/news/eef-blog-cognitive-clutter-and-better-understanding-barriers-to-learning" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/eef-blog-cognitive-clutter-and-better-understanding-barriers-to-learning</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EEF blog: Cognitive clutter and better understanding...1 Nov 2023 — In this blog, she explores the importance of considering cognitive l...</p></details>

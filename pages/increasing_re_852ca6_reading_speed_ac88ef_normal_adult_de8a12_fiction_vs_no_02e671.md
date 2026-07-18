@@ -269,7 +269,7 @@ image: /assets/images/increasing_re_852ca6_reading_speed_ac88ef_normal_adult_de8
 
 ## Introduction
 
-Adults typically read fiction faster than non-fiction, even when their reading skill remains exactly the same. The difference is not merely a matter of preference. Research on reading speed shows that narrative texts such as novels are generally processed more quickly because they use shorter words, rely on familiar language patterns, and present information in a continuous story structure. By contrast, non-fiction often contains specialised [vocabulary]({{ 'knowledge/' | relative_url }}), denser concepts, and a higher concentration of new information that requires slower, more deliberate processing. A large review of 190 studies found average silent reading rates of about 260 words per minute (wpm) for fiction and 238 wpm for non-fiction, a consistent gap across adult readers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://biblio.ugent.be/publication/8647789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: biblio.ugent.be">[Ghent University Bibliography]</a><span class="citation-popover" role="note"><span class="citation-popover-source">biblio.ugent.be</span><span class="citation-popover-title">Ghent University Bibliography How many words do we read per minute?</span><span class="citation-popover-snippet">A review and meta...by M Brysbaert · 2019 · Cited by 873 — we estimate that the average silent reading rate for adults in English is 238...</span></span></span>
+Adults typically read fiction faster than non-fiction, even when their reading skill remains exactly the same. The difference is not merely a matter of preference. Research on reading speed shows that narrative texts such as novels are generally processed more quickly because they use shorter words, rely on familiar language patterns, and present information in a continuous story structure. By contrast, non-fiction often contains specialised [vocabulary]({{ 'knowledge/' | relative_url }}), denser concepts, and a higher concentration of new information that requires slower, more deliberate processing. A large review of 190 studies found average silent reading rates of about 260 words per minute (wpm) for fiction and 238 wpm for non-fiction, a consistent gap across adult readers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://biblio.ugent.be/publication/8647789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: biblio.ugent.be">[Ghent University Bibliography]</a><span class="citation-popover" role="note"><span class="citation-popover-source">biblio.ugent.be</span><span class="citation-popover-title">Ghent University Bibliography How many words do we read per minute?</span><span class="citation-popover-snippet">A review and meta...by M Brysbaert · 2019 · Cited by 873 — we estimate that the average silent reading rate for adults in English is 238...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef_normal_adult_de8a12_fiction_vs_no_02e671-Illustration-1-dark.svg" | relative_url }}" alt="Fiction vs Nonfiction illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef_normal_adult_de8a12_fiction_vs_no_02e671-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef_normal_adult_de8a12_fiction_vs_no_02e671-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -279,7 +279,7 @@ Understanding why this gap exists is useful for anyone trying to increase readin
 
 One of the clearest explanations for the fiction advantage is surprisingly simple: fiction tends to contain shorter words.
 
-The major meta-analysis of adult reading rates found that much of the difference between fiction and non-fiction can be predicted by average word length. Non-fiction texts use longer words more frequently, and longer words generally require more visual and linguistic processing. As a result, readers spend slightly more time recognising and integrating each word into the surrounding context. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://biblio.ugent.be/publication/8647789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: biblio.ugent.be">[Ghent University Bibliography+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">biblio.ugent.be</span><span class="citation-popover-title">Ghent University Bibliography How many words do we read per minute?</span><span class="citation-popover-snippet">A review and meta...by M Brysbaert · 2019 · Cited by 873 — we estimate that the average silent reading rate for adults in English is 238...</span></span></span>
+The major meta-analysis of adult reading rates found that much of the difference between fiction and non-fiction can be predicted by average word length. Non-fiction texts use longer words more frequently, and longer words generally require more visual and linguistic processing. As a result, readers spend slightly more time recognising and integrating each word into the surrounding context.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://biblio.ugent.be/publication/8647789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: biblio.ugent.be">[Ghent University Bibliography+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">biblio.ugent.be</span><span class="citation-popover-title">Ghent University Bibliography How many words do we read per minute?</span><span class="citation-popover-snippet">A review and meta...by M Brysbaert · 2019 · Cited by 873 — we estimate that the average silent reading rate for adults in English is 238...</span></span></span>
 
 This effect becomes obvious when comparing typical examples:
 
@@ -287,7 +287,7 @@ This effect becomes obvious when comparing typical examples:
 * A scientific article may contain [technical]({{ 'technical-texts/' | relative_url }}) terms, abstract concepts, and specialised vocabulary.
 * A business report may repeatedly introduce unfamiliar terminology, acronyms, or numerical information.
 
-Even when readers understand all the words, longer and less common vocabulary tends to slow [eye movements]({{ 'eye-tradeoff/' | relative_url }}) and increase the cognitive effort needed to process sentences. Research on reading and language processing consistently finds that word frequency and local language patterns influence reading times, with familiar words generally being processed more quickly than rare ones. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2103.04469" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Local word statistics affect reading times independently of surprisal</span><span class="citation-popover-snippet">Local word statistics affect reading times independently of surprisalMarch 7, 2021...</span><span class="citation-popover-meta">Published: March 7, 2021</span></span></span>
+Even when readers understand all the words, longer and less common vocabulary tends to slow [eye movements]({{ 'eye-tradeoff/' | relative_url }}) and increase the cognitive effort needed to process sentences. Research on reading and language processing consistently finds that word frequency and local language patterns influence reading times, with familiar words generally being processed more quickly than rare ones.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2103.04469" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Local word statistics affect reading times independently of surprisal</span><span class="citation-popover-snippet">Local word statistics affect reading times independently of surprisalMarch 7, 2021...</span><span class="citation-popover-meta">Published: March 7, 2021</span></span></span>
 
 The result is not a dramatic slowdown on any single sentence. Instead, small delays accumulate across hundreds or thousands of words, producing a measurable difference in overall reading speed.
 
@@ -316,7 +316,7 @@ Many forms of non-fiction work differently. Informational texts frequently intro
 
 These additional comprehension demands often encourage slower reading because understanding, rather than page-turning momentum, becomes the priority.
 
-Research comparing narrative and expository texts has long recognised that narrative material is processed differently from informational prose. Scholars studying fiction and non-fiction frequently distinguish between the relatively continuous flow of narrative texts and the more conceptually demanding structure of expository writing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kar.kent.ac.uk/id/document/3274299" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kar.kent.ac.uk">[Kent Academic Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kar.kent.ac.uk</span><span class="citation-popover-snippet">Kent Academic RepositoryThe Effects of Reading Narrative Fiction on Social and Moral...August 15, 2022 — by LF Wimmer · Cited by 23 — So...</span><span class="citation-popover-meta">Published: August 15, 2022</span></span></span>
+Research comparing narrative and expository texts has long recognised that narrative material is processed differently from informational prose. Scholars studying fiction and non-fiction frequently distinguish between the relatively continuous flow of narrative texts and the more conceptually demanding structure of expository writing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kar.kent.ac.uk/id/document/3274299" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kar.kent.ac.uk">[Kent Academic Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kar.kent.ac.uk</span><span class="citation-popover-snippet">Kent Academic RepositoryThe Effects of Reading Narrative Fiction on Social and Moral...August 15, 2022 — by LF Wimmer · Cited by 23 — So...</span><span class="citation-popover-meta">Published: August 15, 2022</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef_normal_adult_de8a12_fiction_vs_no_02e671-Illustration-2-dark.svg" | relative_url }}" alt="Fiction vs Nonfiction illustration 2" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef_normal_adult_de8a12_fiction_vs_no_02e671-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef_normal_adult_de8a12_fiction_vs_no_02e671-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -346,7 +346,7 @@ Most adults fall within broader ranges rather than exactly matching the averages
 * Fiction: roughly 200–320 wpm
 * Non-fiction: roughly 175–300 wpm
 
-These ranges overlap substantially, but the fiction advantage remains visible across large groups of readers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://biblio.ugent.be/publication/8647789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: biblio.ugent.be">[Ghent University Bibliography]</a><span class="citation-popover" role="note"><span class="citation-popover-source">biblio.ugent.be</span><span class="citation-popover-title">Ghent University Bibliography How many words do we read per minute?</span><span class="citation-popover-snippet">A review and meta...by M Brysbaert · 2019 · Cited by 873 — we estimate that the average silent reading rate for adults in English is 238...</span></span></span>
+These ranges overlap substantially, but the fiction advantage remains visible across large groups of readers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://biblio.ugent.be/publication/8647789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: biblio.ugent.be">[Ghent University Bibliography]</a><span class="citation-popover" role="note"><span class="citation-popover-source">biblio.ugent.be</span><span class="citation-popover-title">Ghent University Bibliography How many words do we read per minute?</span><span class="citation-popover-snippet">A review and meta...by M Brysbaert · 2019 · Cited by 873 — we estimate that the average silent reading rate for adults in English is 238...</span></span></span>
 
 In practical terms, a 90,000-word novel read at 260 wpm takes noticeably less time than an equally long informational text read at 238 wpm. Over the course of an entire book, a relatively small difference in pace accumulates into hours of reading time.
 
@@ -360,201 +360,201 @@ A higher speed while reading novels does not necessarily indicate a superior rea
 
 The most useful benchmark is therefore not a single universal words-per-minute target, but a speed that matches the [purpose]({{ 'purpose/' | relative_url }}) of the reading. Fiction often allows faster movement because language is simpler and narrative structure supports continuous comprehension. Non-fiction frequently requires slower, more deliberate processing because the reader is learning, evaluating, or retaining information.
 
-In other words, novels often feel faster not because readers suddenly become more skilled, but because stories are usually easier for the brain to process efficiently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://biblio.ugent.be/publication/8647789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: biblio.ugent.be">[Ghent University Bibliography+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">biblio.ugent.be</span><span class="citation-popover-title">Ghent University Bibliography How many words do we read per minute?</span><span class="citation-popover-snippet">A review and meta...by M Brysbaert · 2019 · Cited by 873 — we estimate that the average silent reading rate for adults in English is 238...</span></span></span>
+In other words, novels often feel faster not because readers suddenly become more skilled, but because stories are usually easier for the brain to process efficiently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://biblio.ugent.be/publication/8647789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: biblio.ugent.be">[Ghent University Bibliography+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">biblio.ugent.be</span><span class="citation-popover-title">Ghent University Bibliography How many words do we read per minute?</span><span class="citation-popover-snippet">A review and meta...by M Brysbaert · 2019 · Cited by 873 — we estimate that the average silent reading rate for adults in English is 238...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/E5yUjogIe4w" title="Not a Book Lover? This Booklist Will Change That Forever... #bankingexam #books #englishlanguage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=E5yUjogIe4w" target="_blank" rel="noopener noreferrer">Not a Book Lover? This Booklist Will Change That Forever... #bankingexam #books #englishlanguage</a></p><p class="youtube-embed-meta">Channel: SmartKeeda - Govt Exam Prep App</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=E5yUjogIe4w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=E5yUjogIe4w">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Do Novels Feel Faster Than Reports?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Do Novels Feel Faster Than Reports?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Explains why reading approaches differ across genres.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Explains why reading approaches differ across genres.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Proust and the Squid on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4940484-M.jpg" alt="Cover for Proust and the Squid" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Proust and the Squid">Proust and the Squid</a>
-        </h4>
-        <p class="fr-book-author">By Maryanne Wolf</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Proust and the Squid on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4940484-M.jpg" alt="Cover for Proust and the Squid" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Proust and the Squid">Proust and the Squid</a>
+</h4>
+<p class="fr-book-author">By Maryanne Wolf</p>
         
-        <p class="fr-book-desc">First published 2007. Subjects: Brain, Evolution, Reading history, Neurophysiology, Reading comprehension.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2007. Subjects: Brain, Evolution, Reading history, Neurophysiology, Reading comprehension.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Breakthrough rapid reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/84360-M.jpg" alt="Cover for Breakthrough rapid reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breakthrough rapid reading">Breakthrough rapid reading</a>
-        </h4>
-        <p class="fr-book-author">By Peter Kump</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Breakthrough rapid reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/84360-M.jpg" alt="Cover for Breakthrough rapid reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breakthrough rapid reading">Breakthrough rapid reading</a>
+</h4>
+<p class="fr-book-author">By Peter Kump</p>
         
-        <p class="fr-book-desc">First published 1979. Subjects: Speed reading, Rapid reading, Du shu fang fa.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1979. Subjects: Speed reading, Rapid reading, Du shu fang fa.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Reading+Mind+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading Mind on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Reading+Mind+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading Mind">Reading Mind</a>
-        </h4>
-        <p class="fr-book-author">By Daniel T. Willingham</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Reading+Mind+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading Mind on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Reading+Mind+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading Mind">Reading Mind</a>
+</h4>
+<p class="fr-book-author">By Daniel T. Willingham</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Reading, Reading comprehension, Cognitive psychology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Reading+Mind+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Reading, Reading comprehension, Cognitive psychology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Reading+Mind+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Proust+and+the+Squid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Proust and the Squid</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Breakthrough rapid reading</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Proust+and+the+Squid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Proust and the Squid</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Breakthrough rapid reading</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover t shirt" data-ebay-reference="fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Book Lover Womens T-Shirt Western Bookworm Reading Gift For Her"><img src="{{ '/assets/images/marketplace-covers/99af2b6fdd2677ea3e98.jpg' | relative_url }}" alt="Listing image for Book Lover Womens T-Shirt Western Bookworm Reading Gift For Her" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover t shirt" data-ebay-reference="fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Book Lover Womens T-Shirt Western Bookworm Reading Gift For Her</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover t shirt" data-ebay-reference="fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for book lover t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: book lover t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover t shirt" data-ebay-reference="fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover t shirt" data-ebay-reference="fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Book Lover Womens T-Shirt Western Bookworm Reading Gift For Her"><img src="{{ '/assets/images/marketplace-covers/99af2b6fdd2677ea3e98.jpg' | relative_url }}" alt="Listing image for Book Lover Womens T-Shirt Western Bookworm Reading Gift For Her" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover t shirt" data-ebay-reference="fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Book Lover Womens T-Shirt Western Bookworm Reading Gift For Her</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover t shirt" data-ebay-reference="fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for book lover t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: book lover t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover t shirt" data-ebay-reference="fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover t shirt" data-ebay-reference="fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Books Are My Love Language Book Lover T-Shirt, Reading Hobby Tee"><img src="{{ '/assets/images/marketplace-covers/a1e9a7ff61b50fb11a1a.jpg' | relative_url }}" alt="Listing image for Books Are My Love Language Book Lover T-Shirt, Reading Hobby Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover t shirt" data-ebay-reference="fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Books Are My Love Language Book Lover T-Shirt, Reading Hobby Tee</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover t shirt" data-ebay-reference="fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for book lover t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: book lover t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover t shirt" data-ebay-reference="fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover t shirt" data-ebay-reference="fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Books Are My Love Language Book Lover T-Shirt, Reading Hobby Tee"><img src="{{ '/assets/images/marketplace-covers/a1e9a7ff61b50fb11a1a.jpg' | relative_url }}" alt="Listing image for Books Are My Love Language Book Lover T-Shirt, Reading Hobby Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover t shirt" data-ebay-reference="fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Books Are My Love Language Book Lover T-Shirt, Reading Hobby Tee</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover t shirt" data-ebay-reference="fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for book lover t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: book lover t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover t shirt" data-ebay-reference="fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover t shirt" data-ebay-reference="fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Life Is Better With Cats and Books Unisex Graphic T-Shirt Book Lover Tee"><img src="{{ '/assets/images/marketplace-covers/34bd3e40cdff5467c199.jpg' | relative_url }}" alt="Listing image for Life Is Better With Cats and Books Unisex Graphic T-Shirt Book Lover Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover t shirt" data-ebay-reference="fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Life Is Better With Cats and Books Unisex Graphic T-Shirt Book Lover Tee</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover t shirt" data-ebay-reference="fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for book lover t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: book lover t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover t shirt" data-ebay-reference="fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover t shirt" data-ebay-reference="fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Life Is Better With Cats and Books Unisex Graphic T-Shirt Book Lover Tee"><img src="{{ '/assets/images/marketplace-covers/34bd3e40cdff5467c199.jpg' | relative_url }}" alt="Listing image for Life Is Better With Cats and Books Unisex Graphic T-Shirt Book Lover Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover t shirt" data-ebay-reference="fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Life Is Better With Cats and Books Unisex Graphic T-Shirt Book Lover Tee</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover t shirt" data-ebay-reference="fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for book lover t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: book lover t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover t shirt" data-ebay-reference="fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover t shirt" data-ebay-reference="fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Camp Half-Blood Mens Kids T Shirt World Book Day Boys Girls Book Lover Gift Tee"><img src="{{ '/assets/images/marketplace-covers/371536127c15e66f20e1.jpg' | relative_url }}" alt="Listing image for Camp Half-Blood Mens Kids T Shirt World Book Day Boys Girls Book Lover Gift Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover t shirt" data-ebay-reference="fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Camp Half-Blood Mens Kids T Shirt World Book Day Boys Girls Book Lover Gift Tee</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover t shirt" data-ebay-reference="fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for book lover t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: book lover t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover t shirt" data-ebay-reference="fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover t shirt" data-ebay-reference="fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover t shirt" data-ebay-reference="fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Camp Half-Blood Mens Kids T Shirt World Book Day Boys Girls Book Lover Gift Tee"><img src="{{ '/assets/images/marketplace-covers/371536127c15e66f20e1.jpg' | relative_url }}" alt="Listing image for Camp Half-Blood Mens Kids T Shirt World Book Day Boys Girls Book Lover Gift Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover t shirt" data-ebay-reference="fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Camp Half-Blood Mens Kids T Shirt World Book Day Boys Girls Book Lover Gift Tee</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover t shirt" data-ebay-reference="fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for book lover t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: book lover t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover t shirt" data-ebay-reference="fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+lover+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book lover t shirt" data-ebay-reference="fiction-vs-nonfiction-why-do-novels-feel-faster-than-reports-increasing-book-lover-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -570,7 +570,7 @@ In other words, novels often feel faster not because readers suddenly become mor
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -590,7 +590,7 @@ In other words, novels often feel faster not because readers suddenly become mor
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -622,7 +622,7 @@ In other words, novels often feel faster not because readers suddenly become mor
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -674,7 +674,7 @@ In other words, novels often feel faster not because readers suddenly become mor
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -719,7 +719,7 @@ In other words, novels often feel faster not because readers suddenly become mor
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -760,107 +760,107 @@ In other words, novels often feel faster not because readers suddenly become mor
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) How many words do we read per minute?  
-   Link: <a href="https://www.researchgate.net/publication/335174808_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/335174808_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A review...15 Aug 2019 — We estimate that the average silent reading rate for adults in English is 238 words per minute (wpm) for non-fi...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/335174808_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/335174808_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A review...15 Aug 2019 — We estimate that the average silent reading rate for adults in English is 238 words per minute (wpm) for non-fi...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
    Title: arXiv Local word statistics affect reading times independently of surprisal  
-   Link: <a href="https://arxiv.org/abs/2103.04469" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2103.04469</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Local word statistics affect reading times independently of surprisalMarch 7, 2021...</p></details>
+   Link:<a href="https://arxiv.org/abs/2103.04469" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2103.04469</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Local word statistics affect reading times independently of surprisalMarch 7, 2021...</p></details>
    Published: March 7, 2021  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/357041274_The_Effect_of_Fiction_vs_Nonfiction_in_the_Digital_Era_Text_Comprehension_not_Influenced_by_Genre_Expectations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/357041274_The_Effect_of_Fiction_vs_Nonfiction_in_the_Digital_Era_Text_Comprehension_not_Influenced_by_Genre_Expectations</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Effect of Fiction vs Nonfiction in the Digital Era: Text...Nevertheless, overall, the genres of fiction and nonfiction do not appear...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/357041274_The_Effect_of_Fiction_vs_Nonfiction_in_the_Digital_Era_Text_Comprehension_not_Influenced_by_Genre_Expectations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/357041274_The_Effect_of_Fiction_vs_Nonfiction_in_the_Digital_Era_Text_Comprehension_not_Influenced_by_Genre_Expectations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Effect of Fiction vs Nonfiction in the Digital Era: Text...Nevertheless, overall, the genres of fiction and nonfiction do not appear...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
    Title: (PDF) How many words do we read per minute?  
-   Link: <a href="https://www.researchgate.net/publication/332380784_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/332380784_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A review...by M Brysbaert · Cited by 873 — We estimate that the average silent reading rate for adults in English is 238 word per minute...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/332380784_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/332380784_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A review...by M Brysbaert · Cited by 873 — We estimate that the average silent reading rate for adults in English is 238 word per minute...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/figure/Distribution-of-reading-rates-for-fiction-books_fig4_335174808" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Distribution-of-reading-rates-for-fiction-books_fig4_335174808</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Figure 5: Distribution of reading rates for fiction booksWe estimate that the average silent reading rate for adults in English is 238 wo...</p></details>
+   Link:<a href="https://www.researchgate.net/figure/Distribution-of-reading-rates-for-fiction-books_fig4_335174808" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Distribution-of-reading-rates-for-fiction-books_fig4_335174808</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Figure 5: Distribution of reading rates for fiction booksWe estimate that the average silent reading rate for adults in English is 238 wo...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: biblio.ugent.be  
    Title: Ghent University Bibliography How many words do we read per minute?  
-   Link: <a href="https://biblio.ugent.be/publication/8647789" target="_blank" rel="noopener noreferrer nofollow">https://biblio.ugent.be/publication/8647789</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A review and meta...by M Brysbaert · 2019 · Cited by 873 — we estimate that the average silent reading rate for adults in English is 238...</p></details>
+   Link:<a href="https://biblio.ugent.be/publication/8647789" target="_blank" rel="noopener noreferrer nofollow">https://biblio.ugent.be/publication/8647789</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A review and meta...by M Brysbaert · 2019 · Cited by 873 — we estimate that the average silent reading rate for adults in English is 238...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: kar.kent.ac.uk  
-   Link: <a href="https://kar.kent.ac.uk/id/document/3274299" target="_blank" rel="noopener noreferrer nofollow">https://kar.kent.ac.uk/id/document/3274299</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kent Academic RepositoryThe Effects of Reading Narrative Fiction on Social and Moral...August 15, 2022 — by LF Wimmer · Cited by 23 — So...</p></details>
+   Link:<a href="https://kar.kent.ac.uk/id/document/3274299" target="_blank" rel="noopener noreferrer nofollow">https://kar.kent.ac.uk/id/document/3274299</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kent Academic RepositoryThe Effects of Reading Narrative Fiction on Social and Moral...August 15, 2022 — by LF Wimmer · Cited by 23 — So...</p></details>
    Published: August 15, 2022  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: speechymusings.com  
    Title: Fiction Vs  
-   Link: <a href="https://speechymusings.com/whats-best-fiction-vs-non-fiction-for-reading-comprehension/" target="_blank" rel="noopener noreferrer nofollow">https://speechymusings.com/whats-best-fiction-vs-non-fiction-for-reading-comprehension/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Non-Fiction - Reading Comprehension24 Oct 2022 — According to Topping (2014), kids prefer to read fiction and understand fictional texts...</p></details>
+   Link:<a href="https://speechymusings.com/whats-best-fiction-vs-non-fiction-for-reading-comprehension/" target="_blank" rel="noopener noreferrer nofollow">https://speechymusings.com/whats-best-fiction-vs-non-fiction-for-reading-comprehension/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Non-Fiction - Reading Comprehension24 Oct 2022 — According to Topping (2014), kids prefer to read fiction and understand fictional texts...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/books/comments/oet3ym/the_false_promise_of_speed_reading_why_you_should/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/books/comments/oet3ym/the_false_promise_of_speed_reading_why_you_should/</a>  
+   Link:<a href="https://www.reddit.com/r/books/comments/oet3ym/the_false_promise_of_speed_reading_why_you_should/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/books/comments/oet3ym/the_false_promise_of_speed_reading_why_you_should/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: yorku.ca  
    Title: Why this difference exists is not known. Here we  
-   Link: <a href="https://www.yorku.ca/mar/McCreath%20et%20al%20in%20press_DP_Corpus%20Analysis%20word%20frequency%20and%20genre%20differences%20in%20vocab.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.yorku.ca/mar/McCreath%20et%20al%20in%20press_DP_Corpus%20Analysis%20word%20frequency%20and%20genre%20differences%20in%20vocab.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Can Differences in Word Frequency Explain Why Narrative...by GA McCreath · 2017 · Cited by 9 — Past studies have found that reading narr...</p></details>
+   Link:<a href="https://www.yorku.ca/mar/McCreath%20et%20al%20in%20press_DP_Corpus%20Analysis%20word%20frequency%20and%20genre%20differences%20in%20vocab.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.yorku.ca/mar/McCreath%20et%20al%20in%20press_DP_Corpus%20Analysis%20word%20frequency%20and%20genre%20differences%20in%20vocab.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Can Differences in Word Frequency Explain Why Narrative...by GA McCreath · 2017 · Cited by 9 — Past studies have found that reading narr...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: How To Understand Anything You Read (2 Skills Nobody Taught You)  
-   Link: <a href="https://www.youtube.com/watch?v=Iqi-PW9RXq4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Iqi-PW9RXq4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The first video, What Speed Readers Won&#x27;t Tell You, provides empirical evidence on cognitive processing speeds and comprehension dynamics...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Iqi-PW9RXq4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Iqi-PW9RXq4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The first video, What Speed Readers Won&#x27;t Tell You, provides empirical evidence on cognitive processing speeds and comprehension dynamics...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: blog.edshed.com  
    Title: reading non fiction bridging the knowledge gap  
-   Link: <a href="https://blog.edshed.com/reading-non-fiction-bridging-the-knowledge-gap/" target="_blank" rel="noopener noreferrer nofollow">https://blog.edshed.com/reading-non-fiction-bridging-the-knowledge-gap/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Non-Fiction – Bridging the Knowledge GapReading non-fiction texts linked directly to themes and topics within the fiction texts will allo...</p></details>
+   Link:<a href="https://blog.edshed.com/reading-non-fiction-bridging-the-knowledge-gap/" target="_blank" rel="noopener noreferrer nofollow">https://blog.edshed.com/reading-non-fiction-bridging-the-knowledge-gap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Non-Fiction – Bridging the Knowledge GapReading non-fiction texts linked directly to themes and topics within the fiction texts will allo...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/cogni-tiva/4-tips-to-read-faster-than-90-of-people-using-science-add3d880be56" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/cogni-tiva/4-tips-to-read-faster-than-90-of-people-using-science-add3d880be56</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>differences are very significant, with ranges from 175...Read more...</p></details>
+   Link:<a href="https://medium.com/cogni-tiva/4-tips-to-read-faster-than-90-of-people-using-science-add3d880be56" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/cogni-tiva/4-tips-to-read-faster-than-90-of-people-using-science-add3d880be56</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>differences are very significant, with ranges from 175...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40stevenmonahan777/how-fast-can-you-read-discover-the-average-reading-speed-of-adults-62d75a765674" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40stevenmonahan777/how-fast-can-you-read-discover-the-average-reading-speed-of-adults-62d75a765674</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>38–260 wpm for silent reading, depending on the material.Read more...</p></details>
+   Link:<a href="https://medium.com/%40stevenmonahan777/how-fast-can-you-read-discover-the-average-reading-speed-of-adults-62d75a765674" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40stevenmonahan777/how-fast-can-you-read-discover-the-average-reading-speed-of-adults-62d75a765674</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>38–260 wpm for silent reading, depending on the material.Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reader.ku.edu  
    Title: How many words do we read per minute (1)  
-   Link: <a href="https://reader.ku.edu/sites/reader/files/2024-01/How%20many%20words%20do%20we%20read%20per%20minute%20%281%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://reader.ku.edu/sites/reader/files/2024-01/How%20many%20words%20do%20we%20read%20per%20minute%20%281%29.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>many words do we read per minuteby M Brysbaert · Cited by 873 — we estimate that the average silent reading rate for adults in English is...</p></details>
+   Link:<a href="https://reader.ku.edu/sites/reader/files/2024-01/How%20many%20words%20do%20we%20read%20per%20minute%20%281%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://reader.ku.edu/sites/reader/files/2024-01/How%20many%20words%20do%20we%20read%20per%20minute%20%281%29.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>many words do we read per minuteby M Brysbaert · Cited by 873 — we estimate that the average silent reading rate for adults in English is...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40axel.em.casas/read-faster-using-science-use-these-3-tips-bd94605f3faf" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40axel.em.casas/read-faster-using-science-use-these-3-tips-bd94605f3faf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ction. Moreover, individual differences are very...Read more...</p></details>
+   Link:<a href="https://medium.com/%40axel.em.casas/read-faster-using-science-use-these-3-tips-bd94605f3faf" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40axel.em.casas/read-faster-using-science-use-these-3-tips-bd94605f3faf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ction. Moreover, individual differences are very...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: accruva.app  
    Title: What's the Average Reading Speed?  
-   Link: <a href="https://accruva.app/blog/[speed-reading" target="_blank" rel="noopener noreferrer nofollow">https://accruva.app/blog/[speed-reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WPM Benchmarks6 May 2026 — The average adult silent reading speed for general non-fiction is approximately 238 words per minute. This fig...</p></details>
+   Link:<a href="https://accruva.app/blog/[speed-reading" target="_blank" rel="noopener noreferrer nofollow">https://accruva.app/blog/[speed-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WPM Benchmarks6 May 2026 — The average adult silent reading speed for general non-fiction is approximately 238 words per minute. This fig...</p></details>
    Published: May 2026  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: swiftread.com  
    Title: average reading speed analysis  
-   Link: <a href="https://swiftread.com/blog/average-reading-speed-analysis" target="_blank" rel="noopener noreferrer nofollow">https://swiftread.com/blog/average-reading-speed-analysis</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Everything You Need to Know About Average Reading...15 Sept 2023 — The average adult reading speed is 238 WPM (words per minute) for non...</p></details>
+   Link:<a href="https://swiftread.com/blog/average-reading-speed-analysis" target="_blank" rel="noopener noreferrer nofollow">https://swiftread.com/blog/average-reading-speed-analysis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Everything You Need to Know About Average Reading...15 Sept 2023 — The average adult reading speed is 238 WPM (words per minute) for non...</p></details>

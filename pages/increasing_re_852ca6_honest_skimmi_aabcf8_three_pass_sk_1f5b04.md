@@ -288,11 +288,11 @@ image: /assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_three_pass_sk_1f
 
 ## Introduction
 
-A three-pass skim is one of the safest ways to increase reading speed when dealing with difficult nonfiction. Instead of racing through a report, essay, policy paper, or academic article in a single sweep, the reader makes three deliberate passes. The first identifies structure, the second traces the argument, and the third checks the evidence and limitations. The result is a faster reading process that still produces a testable understanding rather than a vague impression. This approach draws on established academic reading practices and the widely cited three-pass method used for research papers, adapting them to nonfiction more broadly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ccr.sigcomm.org/online/files/p83-keshavA.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ccr.sigcomm.org">[CCR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ccr.sigcomm.org</span><span class="citation-popover-snippet">papers. I also de- scribe how to use this method to do a literature...Read more...</span></span></span>
+A three-pass skim is one of the safest ways to increase reading speed when dealing with difficult nonfiction. Instead of racing through a report, essay, policy paper, or academic article in a single sweep, the reader makes three deliberate passes. The first identifies structure, the second traces the argument, and the third checks the evidence and limitations. The result is a faster reading process that still produces a testable understanding rather than a vague impression. This approach draws on established academic reading practices and the widely cited three-pass method used for research papers, adapting them to nonfiction more broadly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ccr.sigcomm.org/online/files/p83-keshavA.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ccr.sigcomm.org">[CCR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ccr.sigcomm.org</span><span class="citation-popover-snippet">papers. I also de- scribe how to use this method to do a literature...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_three_pass_sk_1f5b04-Illustration-1-dark.svg" | relative_url }}" alt="Three passes illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_three_pass_sk_1f5b04-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_three_pass_sk_1f5b04-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The key advantage is that each pass has a different job. Structure answers “What is this document trying to do?” Argument answers “How does the author move from problem to conclusion?” Evidence answers “Why should I believe it, and where are the limits?” By separating those tasks, readers avoid the common mistake of confusing familiarity with comprehension. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://learningcenter.unc.edu/tips-and-tools/skimming/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learningcenter.unc.edu">[The Learning Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learningcenter.unc.edu</span><span class="citation-popover-title">The Learning Center Skimming</span><span class="citation-popover-snippet">The Learning CenterSkimming - The Learning CenterSkimming is a strategic, selective reading method in which you focus on the main ideas o...</span></span></span>
+The key advantage is that each pass has a different job. Structure answers “What is this document trying to do?” Argument answers “How does the author move from problem to conclusion?” Evidence answers “Why should I believe it, and where are the limits?” By separating those tasks, readers avoid the common mistake of confusing familiarity with comprehension.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://learningcenter.unc.edu/tips-and-tools/skimming/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learningcenter.unc.edu">[The Learning Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learningcenter.unc.edu</span><span class="citation-popover-title">The Learning Center Skimming</span><span class="citation-popover-snippet">The Learning CenterSkimming - The Learning CenterSkimming is a strategic, selective reading method in which you focus on the main ideas o...</span></span></span>
 
 ## First pass for structure
 
@@ -307,7 +307,7 @@ For most nonfiction texts, focus on:
 * Tables, figures, and captions
 * Any highlighted [definitions]({{ 'definitions/' | relative_url }}) or key terms
 
-Many university reading guides recommend concentrating on these structural elements because they reveal the organisation of ideas without requiring line-by-line reading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://learningcenter.unc.edu/tips-and-tools/skimming/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learningcenter.unc.edu">[The Learning Center+2Concordia University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learningcenter.unc.edu</span><span class="citation-popover-title">The Learning Center Skimming</span><span class="citation-popover-snippet">The Learning CenterSkimming - The Learning CenterSkimming is a strategic, selective reading method in which you focus on the main ideas o...</span></span></span>
+Many university reading guides recommend concentrating on these structural elements because they reveal the organisation of ideas without requiring line-by-line reading.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://learningcenter.unc.edu/tips-and-tools/skimming/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learningcenter.unc.edu">[The Learning Center+2Concordia University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learningcenter.unc.edu</span><span class="citation-popover-title">The Learning Center Skimming</span><span class="citation-popover-snippet">The Learning CenterSkimming - The Learning CenterSkimming is a strategic, selective reading method in which you focus on the main ideas o...</span></span></span>
 
 At the end of the first pass, you should be able to answer a few basic questions:
 
@@ -363,7 +363,7 @@ Look particularly for:
 
 </div>
 
-[Argument markers]({{ 'argument-markers/' | relative_url }}) such as “however”, “therefore”, “despite”, “suggests”, and “in contrast” often reveal where the author is making important moves. Academic reading guides frequently recommend paying special attention to topic sentences and concluding sentences because they carry much of the argumentative burden. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.concordia.ca/cunews/offices/vprgs/gradproskills/blogs/2022/10/13/reading-strategies-skimming-vs-close-reading.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: concordia.ca">[Concordia University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">concordia.ca</span><span class="citation-popover-title">reading strategies skimming vs close reading</span><span class="citation-popover-snippet">Concordia UniversityReading Strategies: Skimming vs Close Reading &#124; News12 Oct 2022 — Look at the abstract – “Always read the abstracts f...</span></span></span>
+[Argument markers]({{ 'argument-markers/' | relative_url }}) such as “however”, “therefore”, “despite”, “suggests”, and “in contrast” often reveal where the author is making important moves. Academic reading guides frequently recommend paying special attention to topic sentences and concluding sentences because they carry much of the argumentative burden.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.concordia.ca/cunews/offices/vprgs/gradproskills/blogs/2022/10/13/reading-strategies-skimming-vs-close-reading.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: concordia.ca">[Concordia University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">concordia.ca</span><span class="citation-popover-title">reading strategies skimming vs close reading</span><span class="citation-popover-snippet">Concordia UniversityReading Strategies: Skimming vs Close Reading &#124; News12 Oct 2022 — Look at the abstract – “Always read the abstracts f...</span></span></span>
 
 During this pass, ignore many details. Detailed examples, long anecdotes, and extensive quotations can usually wait. The objective is to understand how the conclusion emerges from the premises.
 
@@ -387,7 +387,7 @@ Consider an academic article:
 
 </div>
 
-The second pass identifies how these parts connect rather than trying to absorb every statistic or citation. The three-pass method originally developed for research papers emphasises understanding the content and overall reasoning before attempting detailed mastery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ccr.sigcomm.org/online/files/p83-keshavA.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ccr.sigcomm.org">[CCR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ccr.sigcomm.org</span><span class="citation-popover-snippet">papers. I also de- scribe how to use this method to do a literature...Read more...</span></span></span>
+The second pass identifies how these parts connect rather than trying to absorb every statistic or citation. The three-pass method originally developed for research papers emphasises understanding the content and overall reasoning before attempting detailed mastery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ccr.sigcomm.org/online/files/p83-keshavA.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ccr.sigcomm.org">[CCR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ccr.sigcomm.org</span><span class="citation-popover-snippet">papers. I also de- scribe how to use this method to do a literature...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_three_pass_sk_1f5b04-Illustration-2-dark.svg" | relative_url }}" alt="Three passes illustration 2" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_three_pass_sk_1f5b04-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_three_pass_sk_1f5b04-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -426,7 +426,7 @@ For example, a report may recommend a policy change based on a small pilot study
 
 ### Why this pass matters
 
-Research on reading and skimming consistently finds a trade-off between speed and comprehension. Readers who skim gain time but often lose detail and accuracy. A dedicated evidence pass helps recover some of that lost understanding by concentrating attention on the parts most likely to determine whether a claim is trustworthy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12801452/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Butte-Glenn Community College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Reading and skimming clinical information: insights from...by MA Soltan · 2025 · Cited by 1 — Reading times are shorter and comprehen...</span></span></span>
+Research on reading and skimming consistently finds a trade-off between speed and comprehension. Readers who skim gain time but often lose detail and accuracy. A dedicated evidence pass helps recover some of that lost understanding by concentrating attention on the parts most likely to determine whether a claim is trustworthy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12801452/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Butte-Glenn Community College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Reading and skimming clinical information: insights from...by MA Soltan · 2025 · Cited by 1 — Reading times are shorter and comprehen...</span></span></span>
 
 This pass also prevents a common failure mode: remembering conclusions while forgetting how those conclusions were justified.
 
@@ -447,7 +447,7 @@ The method is especially useful for:
 
 </div>
 
-These documents often have a clear structure and explicit argumentation, making staged reading highly efficient. University reading resources frequently recommend surveying a text before deeper engagement for exactly this reason. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://human.libretexts.org/Courses/City_College_of_San_Francisco/Writing_Reading_and_College_Success%3A_A_First-Year_Composition_Course_for_All_Learners_%28Kashyap_and_Dyquisto%29/03%3A_The_Reading-Writing_Connection/3.03%3A_Reading_Strategies_-_Previewing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: human.libretexts.org">[Humanities LibreTexts+2University of Toronto Mississauga]</a><span class="citation-popover" role="note"><span class="citation-popover-source">human.libretexts.org</span><span class="citation-popover-title">It calls for readers to skim a text before reading</span><span class="citation-popover-snippet">ities LibreTexts3.3: Reading Strategies - PreviewingNovember 12, 2019 — 19 Mar 2025 — Previewing is a strategy that readers use to r...</span><span class="citation-popover-meta">Published: November 12, 2019</span></span></span>
+These documents often have a clear structure and explicit argumentation, making staged reading highly efficient. University reading resources frequently recommend surveying a text before deeper engagement for exactly this reason.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://human.libretexts.org/Courses/City_College_of_San_Francisco/Writing_Reading_and_College_Success%3A_A_First-Year_Composition_Course_for_All_Learners_%28Kashyap_and_Dyquisto%29/03%3A_The_Reading-Writing_Connection/3.03%3A_Reading_Strategies_-_Previewing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: human.libretexts.org">[Humanities LibreTexts+2University of Toronto Mississauga]</a><span class="citation-popover" role="note"><span class="citation-popover-source">human.libretexts.org</span><span class="citation-popover-title">It calls for readers to skim a text before reading</span><span class="citation-popover-snippet">ities LibreTexts3.3: Reading Strategies - PreviewingNovember 12, 2019 — 19 Mar 2025 — Previewing is a strategy that readers use to r...</span><span class="citation-popover-meta">Published: November 12, 2019</span></span></span>
 
 The method is less valuable for highly narrative nonfiction where the argument emerges gradually through storytelling. In those cases, excessive skimming can distort the author's intent.
 
@@ -481,194 +481,194 @@ By the end, the reader should know not only what the author concluded, but also 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to A safer way to skim difficult nonfiction. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to A safer way to skim difficult nonfiction. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Its inspectional and analytical reading framework closely matches a multi-pass skim.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Its inspectional and analytical reading framework closely matches a multi-pass skim.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Paper+by+Trisha+M.+Greenhalgh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Paper on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=L_YvEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Paper" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Paper+by+Trisha+M.+Greenhalgh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Paper">How to Read a Paper</a>
-        </h4>
-        <p class="fr-book-author">By Trisha M. Greenhalgh, Paul Dijkstra</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Paper+by+Trisha+M.+Greenhalgh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Paper on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=L_YvEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Paper" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Paper+by+Trisha+M.+Greenhalgh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Paper">How to Read a Paper</a>
+</h4>
+<p class="fr-book-author">By Trisha M. Greenhalgh, Paul Dijkstra</p>
         
-        <p class="fr-book-desc">Encourages layered evaluation of evidence and claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Paper+by+Trisha+M.+Greenhalgh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages layered evaluation of evidence and claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Paper+by+Trisha+M.+Greenhalgh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-        </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+</h4>
+<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Shows how repeated purposeful passes improve understanding.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how repeated purposeful passes improve understanding.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Take+Smart+Notes+S%C3%B6nke+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Take Smart Notes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8362230-M.jpg" alt="Cover for How to Take Smart Notes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Take+Smart+Notes+S%C3%B6nke+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Take Smart Notes">How to Take Smart Notes</a>
-        </h4>
-        <p class="fr-book-author">By Sönke Ahrens</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Take+Smart+Notes+S%C3%B6nke+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Take Smart Notes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8362230-M.jpg" alt="Cover for How to Take Smart Notes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Take+Smart+Notes+S%C3%B6nke+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Take Smart Notes">How to Take Smart Notes</a>
+</h4>
+<p class="fr-book-author">By Sönke Ahrens</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: notes, study, academia, Science, Research.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Take+Smart+Notes+S%C3%B6nke+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: notes, study, academia, Science, Research.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Take+Smart+Notes+S%C3%B6nke+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Paper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Paper</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Paper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Paper</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="annotation kit" data-ebay-reference="three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1200 Pcs Sticky Tabs, Book Annotation Kit Tabs Pastel Sticky Tabs Page Markers"><img src="{{ '/assets/images/marketplace-covers/174dbd4c0e147e2df047.jpg' | relative_url }}" alt="Listing image for 1200 Pcs Sticky Tabs, Book Annotation Kit Tabs Pastel Sticky Tabs Page Markers" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="annotation kit" data-ebay-reference="three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit" target="_blank" rel="sponsored noopener noreferrer">1200 Pcs Sticky Tabs, Book Annotation Kit Tabs Pastel Sticky Tabs Page Markers</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="annotation kit" data-ebay-reference="three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for annotation kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: annotation kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="annotation kit" data-ebay-reference="three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="annotation kit" data-ebay-reference="three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1200 Pcs Sticky Tabs, Book Annotation Kit Tabs Pastel Sticky Tabs Page Markers"><img src="{{ '/assets/images/marketplace-covers/174dbd4c0e147e2df047.jpg' | relative_url }}" alt="Listing image for 1200 Pcs Sticky Tabs, Book Annotation Kit Tabs Pastel Sticky Tabs Page Markers" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="annotation kit" data-ebay-reference="three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit" target="_blank" rel="sponsored noopener noreferrer">1200 Pcs Sticky Tabs, Book Annotation Kit Tabs Pastel Sticky Tabs Page Markers</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="annotation kit" data-ebay-reference="three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for annotation kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: annotation kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="annotation kit" data-ebay-reference="three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="annotation kit" data-ebay-reference="three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Book Annotation Kit Gift Box for Her – Reading Stationery Book Lover Gift"><img src="{{ '/assets/images/marketplace-covers/c9f2afef04f776aa2135.jpg' | relative_url }}" alt="Listing image for Book Annotation Kit Gift Box for Her – Reading Stationery Book Lover Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="annotation kit" data-ebay-reference="three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit" target="_blank" rel="sponsored noopener noreferrer">Book Annotation Kit Gift Box for Her – Reading Stationery Book Lover Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="annotation kit" data-ebay-reference="three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for annotation kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: annotation kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="annotation kit" data-ebay-reference="three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="annotation kit" data-ebay-reference="three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Book Annotation Kit Gift Box for Her – Reading Stationery Book Lover Gift"><img src="{{ '/assets/images/marketplace-covers/c9f2afef04f776aa2135.jpg' | relative_url }}" alt="Listing image for Book Annotation Kit Gift Box for Her – Reading Stationery Book Lover Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="annotation kit" data-ebay-reference="three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit" target="_blank" rel="sponsored noopener noreferrer">Book Annotation Kit Gift Box for Her – Reading Stationery Book Lover Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="annotation kit" data-ebay-reference="three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for annotation kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: annotation kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="annotation kit" data-ebay-reference="three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="annotation kit" data-ebay-reference="three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pastel Highlighter Tape Kit - 10 Removable Rolls for Effortless Book Annotation"><img src="{{ '/assets/images/marketplace-covers/fa43c0e2c742bcef434c.jpg' | relative_url }}" alt="Listing image for Pastel Highlighter Tape Kit - 10 Removable Rolls for Effortless Book Annotation" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="annotation kit" data-ebay-reference="three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit" target="_blank" rel="sponsored noopener noreferrer">Pastel Highlighter Tape Kit - 10 Removable Rolls for Effortless Book Annotation</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="annotation kit" data-ebay-reference="three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for annotation kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: annotation kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="annotation kit" data-ebay-reference="three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="annotation kit" data-ebay-reference="three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pastel Highlighter Tape Kit - 10 Removable Rolls for Effortless Book Annotation"><img src="{{ '/assets/images/marketplace-covers/fa43c0e2c742bcef434c.jpg' | relative_url }}" alt="Listing image for Pastel Highlighter Tape Kit - 10 Removable Rolls for Effortless Book Annotation" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="annotation kit" data-ebay-reference="three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit" target="_blank" rel="sponsored noopener noreferrer">Pastel Highlighter Tape Kit - 10 Removable Rolls for Effortless Book Annotation</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="annotation kit" data-ebay-reference="three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for annotation kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: annotation kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="annotation kit" data-ebay-reference="three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="annotation kit" data-ebay-reference="three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Book Annotation Kit A Selection of Semipermanent Marking Tools"><img src="{{ '/assets/images/marketplace-covers/69762bec20bd95818b71.jpg' | relative_url }}" alt="Listing image for Book Annotation Kit A Selection of Semipermanent Marking Tools" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="annotation kit" data-ebay-reference="three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit" target="_blank" rel="sponsored noopener noreferrer">Book Annotation Kit A Selection of Semipermanent Marking Tools</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="annotation kit" data-ebay-reference="three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for annotation kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: annotation kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="annotation kit" data-ebay-reference="three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="annotation kit" data-ebay-reference="three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="annotation kit" data-ebay-reference="three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Book Annotation Kit A Selection of Semipermanent Marking Tools"><img src="{{ '/assets/images/marketplace-covers/69762bec20bd95818b71.jpg' | relative_url }}" alt="Listing image for Book Annotation Kit A Selection of Semipermanent Marking Tools" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="annotation kit" data-ebay-reference="three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit" target="_blank" rel="sponsored noopener noreferrer">Book Annotation Kit A Selection of Semipermanent Marking Tools</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="annotation kit" data-ebay-reference="three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for annotation kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: annotation kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="annotation kit" data-ebay-reference="three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="annotation kit" data-ebay-reference="three-passes-a-safer-way-to-skim-difficult-nonfiction-increasing-annotation-kit" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -684,7 +684,7 @@ By the end, the reader should know not only what the author concluded, but also 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -704,7 +704,7 @@ By the end, the reader should know not only what the author concluded, but also 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -736,7 +736,7 @@ By the end, the reader should know not only what the author concluded, but also 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -788,7 +788,7 @@ By the end, the reader should know not only what the author concluded, but also 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -833,7 +833,7 @@ By the end, the reader should know not only what the author concluded, but also 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -874,107 +874,107 @@ By the end, the reader should know not only what the author concluded, but also 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ccr.sigcomm.org  
-   Link: <a href="https://ccr.sigcomm.org/online/files/p83-keshavA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ccr.sigcomm.org/online/files/p83-keshavA.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>papers. I also de- scribe how to use this method to do a literature...Read more...</p></details>
+   Link:<a href="https://ccr.sigcomm.org/online/files/p83-keshavA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ccr.sigcomm.org/online/files/p83-keshavA.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>papers. I also de- scribe how to use this method to do a literature...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: concordia.ca  
    Title: reading strategies skimming vs close reading  
-   Link: <a href="https://www.concordia.ca/cunews/offices/vprgs/gradproskills/blogs/2022/10/13/reading-strategies-skimming-vs-close-reading.html" target="_blank" rel="noopener noreferrer nofollow">https://www.concordia.ca/cunews/offices/vprgs/gradproskills/blogs/2022/10/13/reading-strategies-skimming-vs-close-reading.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Concordia UniversityReading Strategies: Skimming vs Close Reading | News12 Oct 2022 — Look at the abstract – “Always read the [abstracts](&amp;#123;&amp;#123; &#x27;abstracts/&#x27; | relative_url &amp;#125;&amp;#125;) f...</p></details>
+   Link:<a href="https://www.concordia.ca/cunews/offices/vprgs/gradproskills/blogs/2022/10/13/reading-strategies-skimming-vs-close-reading.html" target="_blank" rel="noopener noreferrer nofollow">https://www.concordia.ca/cunews/offices/vprgs/gradproskills/blogs/2022/10/13/reading-strategies-skimming-vs-close-reading.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Concordia UniversityReading Strategies: Skimming vs Close Reading | News12 Oct 2022 — Look at the abstract – “Always read the [abstracts](&amp;#123;&amp;#123; &#x27;abstracts/&#x27; | relative_url &amp;#125;&amp;#125;) f...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12801452/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12801452/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading and skimming clinical information: insights from...by MA Soltan · 2025 · Cited by 1 — Reading times are shorter and comprehen...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12801452/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12801452/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading and skimming clinical information: insights from...by MA Soltan · 2025 · Cited by 1 — Reading times are shorter and comprehen...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: butte.edu  
    Title: Glenn Community College Skimming and Scanning  
-   Link: <a href="https://www.butte.edu/departments/cas/tipsheets/readingstrategies/skimming_scanning.html" target="_blank" rel="noopener noreferrer nofollow">https://www.butte.edu/departments/cas/tipsheets/readingstrategies/skimming_scanning.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Glenn Community CollegeSkimming and Scanning - TIP SheetSkimming and scanning are reading techniques that use rapid eye movement an...</p></details>
+   Link:<a href="https://www.butte.edu/departments/cas/tipsheets/readingstrategies/skimming_scanning.html" target="_blank" rel="noopener noreferrer nofollow">https://www.butte.edu/departments/cas/tipsheets/readingstrategies/skimming_scanning.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Glenn Community CollegeSkimming and Scanning - TIP SheetSkimming and scanning are reading techniques that use rapid eye movement an...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: human.libretexts.org  
    Title: It calls for readers to skim a text before reading  
-   Link: <a href="https://human.libretexts.org/Courses/City_College_of_San_Francisco/Writing_Reading_and_College_Success%3A_A_First-Year_Composition_Course_for_All_Learners_%28Kashyap_and_Dyquisto%29/03%3A_The_Reading-Writing_Connection/3.03%3A_Reading_Strategies_-_Previewing" target="_blank" rel="noopener noreferrer nofollow">https://human.libretexts.org/Courses/City_College_of_San_Francisco/Writing_Reading_and_College_Success%3A_A_First-Year_Composition_Course_for_All_Learners_%28Kashyap_and_Dyquisto%29/03%3A_The_Reading-Writing_Connection/3.03%3A_Reading_Strategies_-_Previewing</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ities LibreTexts3.3: Reading Strategies - PreviewingNovember 12, 2019 — 19 Mar 2025 — Previewing is a strategy that readers use to r...</p></details>
+   Link:<a href="https://human.libretexts.org/Courses/City_College_of_San_Francisco/Writing_Reading_and_College_Success%3A_A_First-Year_Composition_Course_for_All_Learners_%28Kashyap_and_Dyquisto%29/03%3A_The_Reading-Writing_Connection/3.03%3A_Reading_Strategies_-_Previewing" target="_blank" rel="noopener noreferrer nofollow">https://human.libretexts.org/Courses/City_College_of_San_Francisco/Writing_Reading_and_College_Success%3A_A_First-Year_Composition_Course_for_All_Learners_%28Kashyap_and_Dyquisto%29/03%3A_The_Reading-Writing_Connection/3.03%3A_Reading_Strategies_-_Previewing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ities LibreTexts3.3: Reading Strategies - PreviewingNovember 12, 2019 — 19 Mar 2025 — Previewing is a strategy that readers use to r...</p></details>
    Published: November 12, 2019  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: concordia.ca  
    Title: reading strategies skimming vs close reading  
-   Link: <a href="https://www.concordia.ca/cunews/offices/vprgs/gradproskills/blogs/2017/09/21/reading-strategies-skimming-vs-close-reading.html" target="_blank" rel="noopener noreferrer nofollow">https://www.concordia.ca/cunews/offices/vprgs/gradproskills/blogs/2017/09/21/reading-strategies-skimming-vs-close-reading.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Strategies: Skimming vs Close Reading | News21 Sept 2017 — This week&#x27;s blog post will address two reading methods discussed in th...</p></details>
+   Link:<a href="https://www.concordia.ca/cunews/offices/vprgs/gradproskills/blogs/2017/09/21/reading-strategies-skimming-vs-close-reading.html" target="_blank" rel="noopener noreferrer nofollow">https://www.concordia.ca/cunews/offices/vprgs/gradproskills/blogs/2017/09/21/reading-strategies-skimming-vs-close-reading.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Strategies: Skimming vs Close Reading | News21 Sept 2017 — This week&#x27;s blog post will address two reading methods discussed in th...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: learningcenter.unc.edu  
    Title: The Learning Center Skimming  
-   Link: <a href="https://learningcenter.unc.edu/tips-and-tools/skimming/" target="_blank" rel="noopener noreferrer nofollow">https://learningcenter.unc.edu/tips-and-tools/skimming/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Learning CenterSkimming - The Learning CenterSkimming is a strategic, selective reading method in which you focus on the main ideas o...</p></details>
+   Link:<a href="https://learningcenter.unc.edu/tips-and-tools/skimming/" target="_blank" rel="noopener noreferrer nofollow">https://learningcenter.unc.edu/tips-and-tools/skimming/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Learning CenterSkimming - The Learning CenterSkimming is a strategic, selective reading method in which you focus on the main ideas o...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: utm.utoronto.ca  
-   Link: <a href="https://www.utm.utoronto.ca/rgasc/student-resource-hub/study-skills-resources/read-effectively-sq3r" target="_blank" rel="noopener noreferrer nofollow">https://www.utm.utoronto.ca/rgasc/student-resource-hub/study-skills-resources/read-effectively-sq3r</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>University of Toronto MississaugaRead Effectively with SQ3R | Robert Gillespie Academic...The SQ3R method (Survey, Question, Read, Recit...</p></details>
+   Link:<a href="https://www.utm.utoronto.ca/rgasc/student-resource-hub/study-skills-resources/read-effectively-sq3r" target="_blank" rel="noopener noreferrer nofollow">https://www.utm.utoronto.ca/rgasc/student-resource-hub/study-skills-resources/read-effectively-sq3r</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of Toronto MississaugaRead Effectively with SQ3R | Robert Gillespie Academic...The SQ3R method (Survey, Question, Read, Recit...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pdf.ai  
    Title: improving reading comprehension  
-   Link: <a href="https://pdf.ai/resources/improving-reading-comprehension" target="_blank" rel="noopener noreferrer nofollow">https://pdf.ai/resources/improving-reading-comprehension</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Improve Your Reading Skills: Top Tips for Better...15 May 2025 — This listicle presents eight proven techniques to enhance your understa...</p></details>
+   Link:<a href="https://pdf.ai/resources/improving-reading-comprehension" target="_blank" rel="noopener noreferrer nofollow">https://pdf.ai/resources/improving-reading-comprehension</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Improve Your Reading Skills: Top Tips for Better...15 May 2025 — This listicle presents eight proven techniques to enhance your understa...</p></details>
    Published: May 2025  
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/337256453_THE_ANALYSIS_OF_SKIMMING_AND_SCANNING_TECHNIQUE_TO_IMPROVE_STUDENTS_IN_TEACHING_READING_COMPREHENSION" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/337256453_THE_ANALYSIS_OF_SKIMMING_AND_SCANNING_TECHNIQUE_TO_IMPROVE_STUDENTS_IN_TEACHING_READING_COMPREHENSION</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the analysis of skimming and scanning technique to...by IR Aritonang · 2018 · Cited by 105 — The objective of this research is to find o...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/337256453_THE_ANALYSIS_OF_SKIMMING_AND_SCANNING_TECHNIQUE_TO_IMPROVE_STUDENTS_IN_TEACHING_READING_COMPREHENSION" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/337256453_THE_ANALYSIS_OF_SKIMMING_AND_SCANNING_TECHNIQUE_TO_IMPROVE_STUDENTS_IN_TEACHING_READING_COMPREHENSION</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the analysis of skimming and scanning technique to...by IR Aritonang · 2018 · Cited by 105 — The objective of this research is to find o...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/394297308_Survey_Question_Read_Recite_Review_SQ3R_Method_Improves_Reading_Comprehension_of_Descriptive_Texts_for_Tenth_Grade_Students" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394297308_Survey_Question_Read_Recite_Review_SQ3R_Method_Improves_Reading_Comprehension_of_Descriptive_Texts_for_Tenth_Grade_Students</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Survey, Question, Read, Recite, Review (SQ3R...28 Jun 2025 — This study aims to determine the effectiveness of the SQ3R method (Su...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/394297308_Survey_Question_Read_Recite_Review_SQ3R_Method_Improves_Reading_Comprehension_of_Descriptive_Texts_for_Tenth_Grade_Students" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394297308_Survey_Question_Read_Recite_Review_SQ3R_Method_Improves_Reading_Comprehension_of_Descriptive_Texts_for_Tenth_Grade_Students</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Survey, Question, Read, Recite, Review (SQ3R...28 Jun 2025 — This study aims to determine the effectiveness of the SQ3R method (Su...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/400600826_The_Effectiveness_of_Survey_Question_Read_Recite_and_Review_SQ3R_Technique_to_Increase_Students%27_Reading_Comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400600826_The_Effectiveness_of_Survey_Question_Read_Recite_and_Review_SQ3R_Technique_to_Increase_Students%27_Reading_Comprehension</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Effectiveness of Survey, Question, Read, Recite...30 Apr 2026 — The results revealed that the SQ3R technique significantly imp...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/400600826_The_Effectiveness_of_Survey_Question_Read_Recite_and_Review_SQ3R_Technique_to_Increase_Students%27_Reading_Comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400600826_The_Effectiveness_of_Survey_Question_Read_Recite_and_Review_SQ3R_Technique_to_Increase_Students%27_Reading_Comprehension</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Effectiveness of Survey, Question, Read, Recite...30 Apr 2026 — The results revealed that the SQ3R technique significantly imp...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: help.open.ac.uk  
-   Link: <a href="https://help.open.ac.uk/critical-reading-techniques/use-an-efficient-approach" target="_blank" rel="noopener noreferrer nofollow">https://help.open.ac.uk/critical-reading-techniques/use-an-efficient-approach</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Open University HelpUse an efficient approach: Critical reading techniquesScanning and skimming · get an indication of the scope and cont...</p></details>
+   Link:<a href="https://help.open.ac.uk/critical-reading-techniques/use-an-efficient-approach" target="_blank" rel="noopener noreferrer nofollow">https://help.open.ac.uk/critical-reading-techniques/use-an-efficient-approach</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Open University HelpUse an efficient approach: Critical reading techniquesScanning and skimming · get an indication of the scope and cont...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40riazleghari/sqrrr-and-memory-techniques-effective-reading-and-remembering-strategies-5d038864ab44" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40riazleghari/sqrrr-and-memory-techniques-effective-reading-and-remembering-strategies-5d038864ab44</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SQRRR and Memory Techniques: Effective Reading and...... SQ3R approach is particularly useful for enhancing reading comprehension and in...</p></details>
+   Link:<a href="https://medium.com/%40riazleghari/sqrrr-and-memory-techniques-effective-reading-and-remembering-strategies-5d038864ab44" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40riazleghari/sqrrr-and-memory-techniques-effective-reading-and-remembering-strategies-5d038864ab44</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SQRRR and Memory Techniques: Effective Reading and...... SQ3R approach is particularly useful for enhancing reading comprehension and in...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/380172463_Evaluating_the_Effectiveness_of_the_SQ3R_Method_in_Enhancing_Students%27_Reading_Proficiency" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/380172463_Evaluating_the_Effectiveness_of_the_SQ3R_Method_in_Enhancing_Students%27_Reading_Proficiency</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Evaluating the Effectiveness of the SQ3R Method in...20 Apr 2024 — This study underscores the effectiveness of the SQ3R method in...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/380172463_Evaluating_the_Effectiveness_of_the_SQ3R_Method_in_Enhancing_Students%27_Reading_Proficiency" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/380172463_Evaluating_the_Effectiveness_of_the_SQ3R_Method_in_Enhancing_Students%27_Reading_Proficiency</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Evaluating the Effectiveness of the SQ3R Method in...20 Apr 2024 — This study underscores the effectiveness of the SQ3R method in...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: adlit.org  
-   Link: <a href="https://www.adlit.org/in-the-classroom/strategies/sq3r-survey-question-read-recite-review" target="_blank" rel="noopener noreferrer nofollow">https://www.adlit.org/in-the-classroom/strategies/sq3r-survey-question-read-recite-review</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SQ3R: Survey-Question-Read-Recite-ReviewSQ3R is a comprehension strategy that helps students think about the text they are reading while...</p></details>
+   Link:<a href="https://www.adlit.org/in-the-classroom/strategies/sq3r-survey-question-read-recite-review" target="_blank" rel="noopener noreferrer nofollow">https://www.adlit.org/in-the-classroom/strategies/sq3r-survey-question-read-recite-review</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SQ3R: Survey-Question-Read-Recite-ReviewSQ3R is a comprehension strategy that helps students think about the text they are reading while...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cdn.vanderbilt.edu  
    Title: CDNStrategies for Reading and Comprehending Scholarly Texts Reading resource  
-   Link: <a href="https://cdn.vanderbilt.edu/vu-wpfsx/wp-content/uploads/sites/50/2024/11/VUELC-Scholarly-Reading-Guide-Strategies-for-Reading-and-Comprehending-Scholarly-Texts.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.vanderbilt.edu/vu-wpfsx/wp-content/uploads/sites/50/2024/11/VUELC-Scholarly-Reading-Guide-Strategies-for-Reading-and-Comprehending-Scholarly-Texts.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Three-Pass Method3. Another strategy is called the three-pass method. The three-pass method suggests reading articles in three passes. A...</p></details>
+   Link:<a href="https://cdn.vanderbilt.edu/vu-wpfsx/wp-content/uploads/sites/50/2024/11/VUELC-Scholarly-Reading-Guide-Strategies-for-Reading-and-Comprehending-Scholarly-Texts.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.vanderbilt.edu/vu-wpfsx/wp-content/uploads/sites/50/2024/11/VUELC-Scholarly-Reading-Guide-Strategies-for-Reading-and-Comprehending-Scholarly-Texts.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Three-Pass Method3. Another strategy is called the three-pass method. The three-pass method suggests reading articles in three passes. A...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=3g2UYgOjbh0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3g2UYgOjbh0</a>  
+   Link:<a href="https://www.youtube.com/watch?v=3g2UYgOjbh0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3g2UYgOjbh0</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: kaggle.com  
-   Link: <a href="https://www.kaggle.com/general/527494" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/general/527494</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Read title, abstract, and introduction · Second Pass (up to 1 hour): Grasp the content, but not...Read more...</p></details>
+   Link:<a href="https://www.kaggle.com/general/527494" target="_blank" rel="noopener noreferrer nofollow">https://www.kaggle.com/general/527494</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Read title, abstract, and introduction · Second Pass (up to 1 hour): Grasp the content, but not...Read more...</p></details>

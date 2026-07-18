@@ -269,15 +269,15 @@ image: /assets/images/increasing_re_852ca6_speed_reading_71e807_rsvp_apps_rea_78
 
 ## Introduction
 
-Speed claims are one of the most persuasive features of RSVP (Rapid Serial Visual Presentation) [reading apps]({{ 'reading-apps/' | relative_url }}). Seeing text stream past at 500, 700, or even 1,000 words per minute creates a strong impression that reading itself has become dramatically faster. The problem is that reading speed and reading comprehension are not the same thing. A person can be exposed to words at a high rate while understanding, remembering, and integrating far less of what those words mean. Research on RSVP repeatedly finds that the apparent gain in speed often comes with losses in comprehension, especially as presentation rates rise and texts become more demanding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/29461715/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2TSW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Modern Speed-Reading Apps Do Not Foster...by D Acklin · 2017 · Cited by 25 — The current study explored variables that may affect...</span></span></span>
+Speed claims are one of the most persuasive features of RSVP (Rapid Serial Visual Presentation) [reading apps]({{ 'reading-apps/' | relative_url }}). Seeing text stream past at 500, 700, or even 1,000 words per minute creates a strong impression that reading itself has become dramatically faster. The problem is that reading speed and reading comprehension are not the same thing. A person can be exposed to words at a high rate while understanding, remembering, and integrating far less of what those words mean. Research on RSVP repeatedly finds that the apparent gain in speed often comes with losses in comprehension, especially as presentation rates rise and texts become more demanding.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/29461715/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2TSW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Modern Speed-Reading Apps Do Not Foster...by D Acklin · 2017 · Cited by 25 — The current study explored variables that may affect...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_speed_reading_71e807_rsvp_apps_rea_789d44_rsvp_speed_cl_db28fd-Illustration-1-dark.svg" | relative_url }}" alt="Speed Claims illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_speed_reading_71e807_rsvp_apps_rea_789d44_rsvp_speed_cl_db28fd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_speed_reading_71e807_rsvp_apps_rea_789d44_rsvp_speed_cl_db28fd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction matters because the real goal of reading is not the number of words displayed per minute. It is the successful construction of meaning. When [RSVP apps]({{ 'rsvp-apps/' | relative_url }}) advertise impressive word rates, they are usually reporting a delivery metric. The harder question is whether readers retain the same level of understanding once normal reading behaviours such as pausing, previewing, and rereading are constrained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4835101/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Perceptual and Cognitive Factors Imposing “Speed Limits” on...by S Primativo · 2016 · Cited by 37 — Adults read at high speed, but es...</span></span></span>
+This distinction matters because the real goal of reading is not the number of words displayed per minute. It is the successful construction of meaning. When [RSVP apps]({{ 'rsvp-apps/' | relative_url }}) advertise impressive word rates, they are usually reporting a delivery metric. The harder question is whether readers retain the same level of understanding once normal reading behaviours such as pausing, previewing, and rereading are constrained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4835101/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Perceptual and Cognitive Factors Imposing “Speed Limits” on...by S Primativo · 2016 · Cited by 37 — Adults read at high speed, but es...</span></span></span>
 
 ## Does RSVP Speed Feel Faster Than It Is?
 
-One reason RSVP speed claims can be misleading is that the technology genuinely removes a bottleneck. Instead of moving the eyes across a page, readers keep their gaze fixed while words appear in a single location. The stream feels smooth and rapid, and the absence of visible page navigation can create a sense of extraordinary efficiency. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tsw.it/wp-content/uploads/Rapid-serial-visual-presentation-in-reading-The-case-of-Spritz-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tsw.it">[TSW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tsw.it</span><span class="citation-popover-snippet">Rapid serial visual presentation in reading: The case of Spritzby S Benedetto · 2015 · Cited by 99 — In this study, we had people read...</span></span></span>
+One reason RSVP speed claims can be misleading is that the technology genuinely removes a bottleneck. Instead of moving the eyes across a page, readers keep their gaze fixed while words appear in a single location. The stream feels smooth and rapid, and the absence of visible page navigation can create a sense of extraordinary efficiency.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tsw.it/wp-content/uploads/Rapid-serial-visual-presentation-in-reading-The-case-of-Spritz-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tsw.it">[TSW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tsw.it</span><span class="citation-popover-snippet">Rapid serial visual presentation in reading: The case of Spritzby S Benedetto · 2015 · Cited by 99 — In this study, we had people read...</span></span></span>
 
 However, reading is not measured solely by how quickly words arrive. It also involves:
 
@@ -287,9 +287,9 @@ However, reading is not measured solely by how quickly words arrive. It also inv
 * Integrating new information with prior [knowledge]({{ 'knowledge/' | relative_url }}).
 * Retaining key points for later recall.
 
-A reader may successfully recognise every word in an RSVP stream while still struggling to build a coherent understanding of the passage. This creates a gap between perceived speed and actual comprehension. The user experiences rapid progress through the text, yet understanding may not have kept pace with word delivery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/29461715/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2TSW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Modern Speed-Reading Apps Do Not Foster...by D Acklin · 2017 · Cited by 25 — The current study explored variables that may affect...</span></span></span>
+A reader may successfully recognise every word in an RSVP stream while still struggling to build a coherent understanding of the passage. This creates a gap between perceived speed and actual comprehension. The user experiences rapid progress through the text, yet understanding may not have kept pace with word delivery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/29461715/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2TSW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Modern Speed-Reading Apps Do Not Foster...by D Acklin · 2017 · Cited by 25 — The current study explored variables that may affect...</span></span></span>
 
-Research examining RSVP-based systems has repeatedly found that increases in presentation speed are associated with reduced comprehension performance. Studies of [Spritz-style]({{ 'app-tradeoffs/' | relative_url }}) reading, for example, reported comprehension difficulties and poorer understanding compared with traditional reading conditions, despite the higher displayed reading rates. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tsw.it/wp-content/uploads/Rapid-serial-visual-presentation-in-reading-The-case-of-Spritz-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tsw.it">[TSW+2Observer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tsw.it</span><span class="citation-popover-snippet">Rapid serial visual presentation in reading: The case of Spritzby S Benedetto · 2015 · Cited by 99 — In this study, we had people read...</span></span></span>
+Research examining RSVP-based systems has repeatedly found that increases in presentation speed are associated with reduced comprehension performance. Studies of [Spritz-style]({{ 'app-tradeoffs/' | relative_url }}) reading, for example, reported comprehension difficulties and poorer understanding compared with traditional reading conditions, despite the higher displayed reading rates.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tsw.it/wp-content/uploads/Rapid-serial-visual-presentation-in-reading-The-case-of-Spritz-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tsw.it">[TSW+2Observer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tsw.it</span><span class="citation-popover-snippet">Rapid serial visual presentation in reading: The case of Spritzby S Benedetto · 2015 · Cited by 99 — In this study, we had people read...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JzDUijOW-IU" title="Does RSVP Reading Work For Everyone? - Ultimate Study Hacks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JzDUijOW-IU" target="_blank" rel="noopener noreferrer">Does RSVP Reading Work For Everyone? - Ultimate Study Hacks</a></p><p class="youtube-embed-meta">Channel: Ultimate Study Hacks &middot; Views: 244 &middot; Uploaded: June 2025 &middot; Length: 3 minutes 23 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JzDUijOW-IU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JzDUijOW-IU">Open on YouTube</a></p></div></div></div>
@@ -298,17 +298,17 @@ Research examining RSVP-based systems has repeatedly found that increases in pre
 
 The central marketing number in many [speed-reading]({{ 'myths/' | relative_url }}) apps is words per minute (WPM). Yet WPM measures exposure to text, not understanding of text.
 
-This distinction becomes important because reading comprehension is not a simple by-product of seeing words. Reading research has long shown that comprehension depends on multiple cognitive processes operating together. Faster word presentation can outpace these processes even when individual words remain recognisable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4835101/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Perceptual and Cognitive Factors Imposing “Speed Limits” on...by S Primativo · 2016 · Cited by 37 — Adults read at high speed, but es...</span></span></span>
+This distinction becomes important because reading comprehension is not a simple by-product of seeing words. Reading research has long shown that comprehension depends on multiple cognitive processes operating together. Faster word presentation can outpace these processes even when individual words remain recognisable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4835101/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Perceptual and Cognitive Factors Imposing “Speed Limits” on...by S Primativo · 2016 · Cited by 37 — Adults read at high speed, but es...</span></span></span>
 
 Several findings illustrate the difference:
 
 * Skilled adult readers commonly achieve strong comprehension within a few hundred words per minute.
 * Claims of dramatically higher rates often become increasingly difficult to reconcile with known limits of language processing.
-* Experimental studies frequently find a speed–accuracy trade-off: as reading speed rises, comprehension tends to decline. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4835101/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Perceptual and Cognitive Factors Imposing “Speed Limits” on...by S Primativo · 2016 · Cited by 37 — Adults read at high speed, but es...</span></span></span>
+* Experimental studies frequently find a speed–accuracy trade-off: as reading speed rises, comprehension tends to decline.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4835101/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Perceptual and Cognitive Factors Imposing “Speed Limits” on...by S Primativo · 2016 · Cited by 37 — Adults read at high speed, but es...</span></span></span>
 
 The result is a measurement problem. An app can truthfully state that it displayed 800 words in one minute. That does not demonstrate that the reader understood those 800 words to the same degree they would have understood them at a slower, self-controlled pace.
 
-In practical terms, reading a legal document, technical report, academic paper, or complex argument involves more than decoding words. It requires constructing relationships among ideas. High WPM figures can therefore exaggerate the practical value of the speed increase if comprehension is not measured alongside it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/29461715/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Modern Speed-Reading Apps Do Not Foster...by D Acklin · 2017 · Cited by 25 — The current study explored variables that may affect...</span></span></span>
+In practical terms, reading a legal document, technical report, academic paper, or complex argument involves more than decoding words. It requires constructing relationships among ideas. High WPM figures can therefore exaggerate the practical value of the speed increase if comprehension is not measured alongside it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/29461715/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Modern Speed-Reading Apps Do Not Foster...by D Acklin · 2017 · Cited by 25 — The current study explored variables that may affect...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_speed_reading_71e807_rsvp_apps_rea_789d44_rsvp_speed_cl_db28fd-Illustration-2-dark.svg" | relative_url }}" alt="Speed Claims illustration 2" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_speed_reading_71e807_rsvp_apps_rea_789d44_rsvp_speed_cl_db28fd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_speed_reading_71e807_rsvp_apps_rea_789d44_rsvp_speed_cl_db28fd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -316,7 +316,7 @@ In practical terms, reading a legal document, technical report, academic paper, 
 
 RSVP is often presented as reducing effort because it removes eye movements. Yet removing one task does not necessarily reduce total cognitive demand.
 
-Traditional readers constantly regulate their own pace. They speed through familiar material and slow down when encountering complexity. RSVP systems replace that flexible process with a fixed stream. As a result, readers must devote attention to keeping up with the presentation itself while simultaneously trying to understand the content. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psychologicalscience.org/news/were-only-human/read-this-blog-post-in-less-than-a-minute.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-snippet">Psychological ScienceRead This Blog Post In Less Than A Minute!Mar 25, 2014 — Spritz makes use of a technology first developed in 1970, c...</span></span></span>
+Traditional readers constantly regulate their own pace. They speed through familiar material and slow down when encountering complexity. RSVP systems replace that flexible process with a fixed stream. As a result, readers must devote attention to keeping up with the presentation itself while simultaneously trying to understand the content.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psychologicalscience.org/news/were-only-human/read-this-blog-post-in-less-than-a-minute.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-snippet">Psychological ScienceRead This Blog Post In Less Than A Minute!Mar 25, 2014 — Spritz makes use of a technology first developed in 1970, c...</span></span></span>
 
 This can create several sources of mental load:
 
@@ -324,11 +324,11 @@ This can create several sources of mental load:
 
 **Reduced opportunity for integration.** Complex arguments often require brief pauses to connect ideas across sentences. Uniform [timing]({{ 'timing/' | relative_url }}) may not provide enough processing time where it is most needed.
 
-**Loss of strategic rereading.** Eye-tracking research shows that regressions—moving back to earlier text—are a normal and useful part of skilled reading. RSVP restricts or complicates this behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/29461715/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Modern Speed-Reading Apps Do Not Foster...by D Acklin · 2017 · Cited by 25 — The current study explored variables that may affect...</span></span></span>
+**Loss of strategic rereading.** Eye-tracking research shows that regressions—moving back to earlier text—are a normal and useful part of skilled reading. RSVP restricts or complicates this behaviour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/29461715/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Modern Speed-Reading Apps Do Not Foster...by D Acklin · 2017 · Cited by 25 — The current study explored variables that may affect...</span></span></span>
 
 **One pace for all content.** Difficult concepts and simple words often receive similar display timing, even though they impose very different comprehension demands.
 
-Researchers studying RSVP reading have found that these constraints become more problematic as text difficulty increases and as presentation speeds rise. Comprehension costs are often modest for simple material at moderate rates but become more pronounced when readers face dense or demanding content. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/29461715/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Modern Speed-Reading Apps Do Not Foster...by D Acklin · 2017 · Cited by 25 — The current study explored variables that may affect...</span></span></span>
+Researchers studying RSVP reading have found that these constraints become more problematic as text difficulty increases and as presentation speeds rise. Comprehension costs are often modest for simple material at moderate rates but become more pronounced when readers face dense or demanding content.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/29461715/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Modern Speed-Reading Apps Do Not Foster...by D Acklin · 2017 · Cited by 25 — The current study explored variables that may affect...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5yddeRrd0hA" title="Can you keep up? Speed Reading and RSVP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5yddeRrd0hA" target="_blank" rel="noopener noreferrer">Can you keep up? Speed Reading and RSVP</a></p><p class="youtube-embed-meta">Channel: MindfulThinks</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5yddeRrd0hA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5yddeRrd0hA">Open on YouTube</a></p></div></div></div>
@@ -337,9 +337,9 @@ Researchers studying RSVP reading have found that these constraints become more 
 
 Another reason RSVP speed can overstate reading performance is that normal reading provides context beyond the currently fixated word.
 
-When reading a page, people gather information from nearby words and upcoming text. This broader visual field helps readers anticipate structure, identify important information, and adjust pace before difficulty arrives. RSVP narrows attention to a tightly controlled sequence of individual words. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tsw.it/wp-content/uploads/Rapid-serial-visual-presentation-in-reading-The-case-of-Spritz-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tsw.it">[TSW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tsw.it</span><span class="citation-popover-snippet">Rapid serial visual presentation in reading: The case of Spritzby S Benedetto · 2015 · Cited by 99 — In this study, we had people read...</span></span></span>
+When reading a page, people gather information from nearby words and upcoming text. This broader visual field helps readers anticipate structure, identify important information, and adjust pace before difficulty arrives. RSVP narrows attention to a tightly controlled sequence of individual words.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tsw.it/wp-content/uploads/Rapid-serial-visual-presentation-in-reading-The-case-of-Spritz-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tsw.it">[TSW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tsw.it</span><span class="citation-popover-snippet">Rapid serial visual presentation in reading: The case of Spritzby S Benedetto · 2015 · Cited by 99 — In this study, we had people read...</span></span></span>
 
-This matters because comprehension is often built across larger units than single words. Readers need to recognise paragraph structure, track references, and maintain connections between earlier and later ideas. Word-by-word presentation can make these relationships harder to perceive, particularly in explanatory or argumentative texts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://eprints.nottingham.ac.uk/45183/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eprints.nottingham.ac.uk">[Nottingham ePrints]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eprints.nottingham.ac.uk</span><span class="citation-popover-snippet">Nottingham ePrintsThe impact of Rapid Serial Visual Presentation (RSVP) on...by Z Boo · Cited by 10 — To address this, the current study...</span></span></span>
+This matters because comprehension is often built across larger units than single words. Readers need to recognise paragraph structure, track references, and maintain connections between earlier and later ideas. Word-by-word presentation can make these relationships harder to perceive, particularly in explanatory or argumentative texts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://eprints.nottingham.ac.uk/45183/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eprints.nottingham.ac.uk">[Nottingham ePrints]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eprints.nottingham.ac.uk</span><span class="citation-popover-snippet">Nottingham ePrintsThe impact of Rapid Serial Visual Presentation (RSVP) on...by Z Boo · Cited by 10 — To address this, the current study...</span></span></span>
 
 The effect is similar to hearing every note in a piece of music but losing some sense of the larger melody. Individual elements may remain accessible while the broader structure becomes harder to follow.
 
@@ -365,7 +365,7 @@ A useful test is to ask questions that go beyond simple word recognition:
 
 These tasks [measure]({{ 'measure/' | relative_url }}) understanding rather than exposure.
 
-Readers should also compare performance across formats. If an RSVP app allows reading at 700 WPM but recall, summarisation, and inference quality fall substantially compared with reading at 300–400 WPM in a conventional format, the higher speed may not represent a genuine productivity gain. The apparent efficiency comes from moving through text faster, not necessarily from learning or understanding more. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/29461715/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2InderScience Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Modern Speed-Reading Apps Do Not Foster...by D Acklin · 2017 · Cited by 25 — The current study explored variables that may affect...</span></span></span>
+Readers should also compare performance across formats. If an RSVP app allows reading at 700 WPM but recall, summarisation, and inference quality fall substantially compared with reading at 300–400 WPM in a conventional format, the higher speed may not represent a genuine productivity gain. The apparent efficiency comes from moving through text faster, not necessarily from learning or understanding more.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/29461715/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2InderScience Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Modern Speed-Reading Apps Do Not Foster...by D Acklin · 2017 · Cited by 25 — The current study explored variables that may affect...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_speed_reading_71e807_rsvp_apps_rea_789d44_rsvp_speed_cl_db28fd-Illustration-3-dark.svg" | relative_url }}" alt="Speed Claims illustration 3" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_speed_reading_71e807_rsvp_apps_rea_789d44_rsvp_speed_cl_db28fd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_speed_reading_71e807_rsvp_apps_rea_789d44_rsvp_speed_cl_db28fd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -373,197 +373,197 @@ Readers should also compare performance across formats. If an RSVP app allows re
 
 RSVP technology can increase the rate at which words are presented, and for some simple or familiar material that may provide practical benefits. The risk arises when display speed is treated as a proxy for reading success.
 
-The strongest evidence from reading research suggests that comprehension, memory, and integration remain the limiting factors. High word-per-minute figures can therefore create an illusion of improvement by emphasising delivery speed while overlooking whether understanding has been preserved. For readers seeking genuine gains, the key question is not "How fast were the words shown?" but "How much meaning was retained?" <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4835101/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[Skeptical Inquirer+3PMC+3PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Perceptual and Cognitive Factors Imposing “Speed Limits” on...by S Primativo · 2016 · Cited by 37 — Adults read at high speed, but es...</span></span></span>
+The strongest evidence from reading research suggests that comprehension, memory, and integration remain the limiting factors. High word-per-minute figures can therefore create an illusion of improvement by emphasising delivery speed while overlooking whether understanding has been preserved. For readers seeking genuine gains, the key question is not "How fast were the words shown?" but "How much meaning was retained?"<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4835101/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[Skeptical Inquirer+3PMC+3PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Perceptual and Cognitive Factors Imposing “Speed Limits” on...by S Primativo · 2016 · Cited by 37 — Adults read at high speed, but es...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Does RSVP Speed Feel Faster Than It Is?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Does RSVP Speed Feel Faster Than It Is?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Language+at+the+Speed+of+Sight+Mark+Seidenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Language at the Speed of Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10546551-M.jpg" alt="Cover for Language at the Speed of Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Language+at+the+Speed+of+Sight+Mark+Seidenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Language at the Speed of Sight">Language at the Speed of Sight</a>
-        </h4>
-        <p class="fr-book-author">By Mark Seidenberg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Language+at+the+Speed+of+Sight+Mark+Seidenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Language at the Speed of Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10546551-M.jpg" alt="Cover for Language at the Speed of Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Language+at+the+Speed+of+Sight+Mark+Seidenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Language at the Speed of Sight">Language at the Speed of Sight</a>
+</h4>
+<p class="fr-book-author">By Mark Seidenberg</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Reading (higher education), Language experience approach in education, Cognition disorders, Psycholinguis...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Language+at+the+Speed+of+Sight+Mark+Seidenberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Reading (higher education), Language experience approach in education, Cognition disorders, Psycholinguis...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Language+at+the+Speed+of+Sight+Mark+Seidenberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading in the Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6649793-M.jpg" alt="Cover for Reading in the Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading in the Brain">Reading in the Brain</a>
-        </h4>
-        <p class="fr-book-author">By Stanislas Dehaene</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading in the Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6649793-M.jpg" alt="Cover for Reading in the Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading in the Brain">Reading in the Brain</a>
+</h4>
+<p class="fr-book-author">By Stanislas Dehaene</p>
         
-        <p class="fr-book-desc">First published 2009. Subjects: Science, Nonfiction, Psychology, Psychology of Reading, Reading.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2009. Subjects: Science, Nonfiction, Psychology, Psychology of Reading, Reading.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Breakthrough rapid reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/84360-M.jpg" alt="Cover for Breakthrough rapid reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breakthrough rapid reading">Breakthrough rapid reading</a>
-        </h4>
-        <p class="fr-book-author">By Peter Kump</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Breakthrough rapid reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/84360-M.jpg" alt="Cover for Breakthrough rapid reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breakthrough rapid reading">Breakthrough rapid reading</a>
+</h4>
+<p class="fr-book-author">By Peter Kump</p>
         
-        <p class="fr-book-desc">First published 1979. Subjects: Speed reading, Rapid reading, Du shu fang fa.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1979. Subjects: Speed reading, Rapid reading, Du shu fang fa.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Speed Reading Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/375099-M.jpg" alt="Cover for The Speed Reading Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Speed Reading Book">The Speed Reading Book</a>
-        </h4>
-        <p class="fr-book-author">By Tony Buzan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Speed Reading Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/375099-M.jpg" alt="Cover for The Speed Reading Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Speed Reading Book">The Speed Reading Book</a>
+</h4>
+<p class="fr-book-author">By Tony Buzan</p>
         
-        <p class="fr-book-desc">First published 1997. Subjects: Speed reading, Développement d&#x27;aptitudes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1997. Subjects: Speed reading, Développement d&#x27;aptitudes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Language+at+the+Speed+of+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Language at the Speed of Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Reading+in+the+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Reading in the Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Breakthrough rapid reading</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Language+at+the+Speed+of+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Language at the Speed of Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Reading+in+the+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Reading in the Brain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Breakthrough rapid reading</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rsvp+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rsvp poster -book -books -dvd" data-ebay-reference="speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rare Original VTG 1965 Patrick Poster Hullabaloo RSVP Style Music Ad Art Print"><img src="{{ '/assets/images/marketplace-covers/d133766184817abb40e7.jpg' | relative_url }}" alt="Listing image for Rare Original VTG 1965 Patrick Poster Hullabaloo RSVP Style Music Ad Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rsvp+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rsvp poster -book -books -dvd" data-ebay-reference="speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Rare Original VTG 1965 Patrick Poster Hullabaloo RSVP Style Music Ad Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rsvp+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rsvp poster -book -books -dvd" data-ebay-reference="speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rsvp poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: rsvp poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rsvp+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rsvp poster -book -books -dvd" data-ebay-reference="speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rsvp+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rsvp poster -book -books -dvd" data-ebay-reference="speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rare Original VTG 1965 Patrick Poster Hullabaloo RSVP Style Music Ad Art Print"><img src="{{ '/assets/images/marketplace-covers/d133766184817abb40e7.jpg' | relative_url }}" alt="Listing image for Rare Original VTG 1965 Patrick Poster Hullabaloo RSVP Style Music Ad Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=rsvp+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rsvp poster -book -books -dvd" data-ebay-reference="speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Rare Original VTG 1965 Patrick Poster Hullabaloo RSVP Style Music Ad Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rsvp+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rsvp poster -book -books -dvd" data-ebay-reference="speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rsvp poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: rsvp poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=rsvp+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rsvp poster -book -books -dvd" data-ebay-reference="speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rsvp+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rsvp poster -book -books -dvd" data-ebay-reference="speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ASAP ROCKY 2012 Official Poster RSVP Gallery HOB Chicago Lep Bogus Boys Trill"><img src="{{ '/assets/images/marketplace-covers/472968fa5ec8906ea069.jpg' | relative_url }}" alt="Listing image for ASAP ROCKY 2012 Official Poster RSVP Gallery HOB Chicago Lep Bogus Boys Trill" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rsvp+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rsvp poster -book -books -dvd" data-ebay-reference="speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">ASAP ROCKY 2012 Official Poster RSVP Gallery HOB Chicago Lep Bogus Boys Trill</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rsvp+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rsvp poster -book -books -dvd" data-ebay-reference="speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rsvp poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: rsvp poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rsvp+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rsvp poster -book -books -dvd" data-ebay-reference="speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rsvp+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rsvp poster -book -books -dvd" data-ebay-reference="speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ASAP ROCKY 2012 Official Poster RSVP Gallery HOB Chicago Lep Bogus Boys Trill"><img src="{{ '/assets/images/marketplace-covers/472968fa5ec8906ea069.jpg' | relative_url }}" alt="Listing image for ASAP ROCKY 2012 Official Poster RSVP Gallery HOB Chicago Lep Bogus Boys Trill" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=rsvp+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rsvp poster -book -books -dvd" data-ebay-reference="speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">ASAP ROCKY 2012 Official Poster RSVP Gallery HOB Chicago Lep Bogus Boys Trill</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rsvp+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rsvp poster -book -books -dvd" data-ebay-reference="speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rsvp poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: rsvp poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=rsvp+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rsvp poster -book -books -dvd" data-ebay-reference="speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rsvp+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rsvp poster -book -books -dvd" data-ebay-reference="speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 Photo Phillips Clarence Coles Girls 1911 RSVP Print Poster"><img src="{{ '/assets/images/marketplace-covers/b100e1a1e7f2e8257e1b.jpg' | relative_url }}" alt="Listing image for A4 Photo Phillips Clarence Coles Girls 1911 RSVP Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rsvp+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rsvp poster -book -books -dvd" data-ebay-reference="speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">A4 Photo Phillips Clarence Coles Girls 1911 RSVP Print Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rsvp+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rsvp poster -book -books -dvd" data-ebay-reference="speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rsvp poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: rsvp poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rsvp+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rsvp poster -book -books -dvd" data-ebay-reference="speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rsvp+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rsvp poster -book -books -dvd" data-ebay-reference="speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 Photo Phillips Clarence Coles Girls 1911 RSVP Print Poster"><img src="{{ '/assets/images/marketplace-covers/b100e1a1e7f2e8257e1b.jpg' | relative_url }}" alt="Listing image for A4 Photo Phillips Clarence Coles Girls 1911 RSVP Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=rsvp+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rsvp poster -book -books -dvd" data-ebay-reference="speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">A4 Photo Phillips Clarence Coles Girls 1911 RSVP Print Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rsvp+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rsvp poster -book -books -dvd" data-ebay-reference="speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rsvp poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: rsvp poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=rsvp+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rsvp poster -book -books -dvd" data-ebay-reference="speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rsvp+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rsvp poster -book -books -dvd" data-ebay-reference="speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 10x8 Framed poster photo madonna sean penn secret wedding invite 1985 rsvp split"><img src="{{ '/assets/images/marketplace-covers/71dd8834f58075c1bd74.jpg' | relative_url }}" alt="Listing image for 10x8 Framed poster photo madonna sean penn secret wedding invite 1985 rsvp split" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rsvp+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rsvp poster -book -books -dvd" data-ebay-reference="speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">10x8 Framed poster photo madonna sean penn secret wedding invite 1985 rsvp split</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rsvp+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rsvp poster -book -books -dvd" data-ebay-reference="speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rsvp poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: rsvp poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rsvp+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rsvp poster -book -books -dvd" data-ebay-reference="speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=rsvp+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rsvp poster -book -books -dvd" data-ebay-reference="speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rsvp+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rsvp poster -book -books -dvd" data-ebay-reference="speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 10x8 Framed poster photo madonna sean penn secret wedding invite 1985 rsvp split"><img src="{{ '/assets/images/marketplace-covers/71dd8834f58075c1bd74.jpg' | relative_url }}" alt="Listing image for 10x8 Framed poster photo madonna sean penn secret wedding invite 1985 rsvp split" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=rsvp+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rsvp poster -book -books -dvd" data-ebay-reference="speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">10x8 Framed poster photo madonna sean penn secret wedding invite 1985 rsvp split</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rsvp+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rsvp poster -book -books -dvd" data-ebay-reference="speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rsvp poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: rsvp poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=rsvp+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rsvp poster -book -books -dvd" data-ebay-reference="speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=rsvp+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rsvp poster -book -books -dvd" data-ebay-reference="speed-claims-does-rsvp-speed-feel-faster-than-it-is-increasing-rsvp-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -579,7 +579,7 @@ The strongest evidence from reading research suggests that comprehension, memory
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -599,7 +599,7 @@ The strongest evidence from reading research suggests that comprehension, memory
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -631,7 +631,7 @@ The strongest evidence from reading research suggests that comprehension, memory
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -683,7 +683,7 @@ The strongest evidence from reading research suggests that comprehension, memory
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -728,7 +728,7 @@ The strongest evidence from reading research suggests that comprehension, memory
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -769,149 +769,149 @@ The strongest evidence from reading research suggests that comprehension, memory
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: tsw.it  
-   Link: <a href="https://www.tsw.it/wp-content/uploads/Rapid-serial-visual-presentation-in-reading-The-case-of-Spritz-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.tsw.it/wp-content/uploads/Rapid-serial-visual-presentation-in-reading-The-case-of-Spritz-1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rapid serial visual presentation in reading: The case of Spritzby S Benedetto · 2015 · Cited by 99 — In this study, we had people read...</p></details>
+   Link:<a href="https://www.tsw.it/wp-content/uploads/Rapid-serial-visual-presentation-in-reading-The-case-of-Spritz-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.tsw.it/wp-content/uploads/Rapid-serial-visual-presentation-in-reading-The-case-of-Spritz-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rapid serial visual presentation in reading: The case of Spritzby S Benedetto · 2015 · Cited by 99 — In this study, we had people read...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4835101/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4835101/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Perceptual and Cognitive Factors Imposing “Speed Limits” on...by S Primativo · 2016 · Cited by 37 — Adults read at high speed, but es...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4835101/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4835101/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Perceptual and Cognitive Factors Imposing “Speed Limits” on...by S Primativo · 2016 · Cited by 37 — Adults read at high speed, but es...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: observer.com  
    Title: study speed reading technology spritz might not be all its cracked up to be  
-   Link: <a href="https://observer.com/2015/01/study-speed-reading-technology-spritz-might-not-be-all-its-cracked-up-to-be/" target="_blank" rel="noopener noreferrer nofollow">https://observer.com/2015/01/study-speed-reading-technology-spritz-might-not-be-all-its-cracked-up-to-be/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Speed-Reading Technology &#x27;Spritz&#x27; Isn&#x27;t All It&#x27;s Cracked Up to Be15 Jan 2015 — A new study suggests speed-reading technology Spritz might...</p></details>
+   Link:<a href="https://observer.com/2015/01/study-speed-reading-technology-spritz-might-not-be-all-its-cracked-up-to-be/" target="_blank" rel="noopener noreferrer nofollow">https://observer.com/2015/01/study-speed-reading-technology-spritz-might-not-be-all-its-cracked-up-to-be/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Speed-Reading Technology &#x27;Spritz&#x27; Isn&#x27;t All It&#x27;s Cracked Up to Be15 Jan 2015 — A new study suggests speed-reading technology Spritz might...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Speed reading  
-   Link: <a href="https://en.wikipedia.org/wiki/Speed_reading" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Speed_reading</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Speed readingSpeed reading is any of many techniques claiming to improve one&#x27;s ability to read quickly. Speed-reading methods include...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Speed_reading" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Speed_reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Speed readingSpeed reading is any of many techniques claiming to improve one&#x27;s ability to read quickly. Speed-reading methods include...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/328925418_Rapid_serial_visual_presentation_Degradation_of_inferential_reading_comprehension_as_a_function_of_speed" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/328925418_Rapid_serial_visual_presentation_Degradation_of_inferential_reading_comprehension_as_a_function_of_speed</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Rapid serial visual presentation: Degradation of...Mar 4, 2020 — The current study explored variables that may affect reading comp...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/328925418_Rapid_serial_visual_presentation_Degradation_of_inferential_reading_comprehension_as_a_function_of_speed" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/328925418_Rapid_serial_visual_presentation_Degradation_of_inferential_reading_comprehension_as_a_function_of_speed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Rapid serial visual presentation: Degradation of...Mar 4, 2020 — The current study explored variables that may affect reading comp...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Spritz (cocktail)  
-   Link: <a href="https://en.wikipedia.org/wiki/Spritz_%28cocktail%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Spritz_%28cocktail%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spritz (cocktail)A spritz is a Venetian wine-based cocktail, commonly served as an apéritif across Italy. It consists of Prosecco, a m...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Spritz_%28cocktail%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Spritz_%28cocktail%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spritz (cocktail)A spritz is a Venetian wine-based cocktail, commonly served as an apéritif across Italy. It consists of Prosecco, a m...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
-   Link: <a href="https://pt.wikipedia.org/wiki/RSVP" target="_blank" rel="noopener noreferrer nofollow">https://pt.wikipedia.org/wiki/RSVP</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RSVP – Wikipédia, a enciclopédia livreO RSVP é utilizado pela pessoa que deseja confirmar quem irá ao evento que ela vai realizar, des...</p></details>
+   Link:<a href="https://pt.wikipedia.org/wiki/RSVP" target="_blank" rel="noopener noreferrer nofollow">https://pt.wikipedia.org/wiki/RSVP</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RSVP – Wikipédia, a enciclopédia livreO RSVP é utilizado pela pessoa que deseja confirmar quem irá ao evento que ela vai realizar, des...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Rapid serial visual presentation  
-   Link: <a href="https://en.wikipedia.org/wiki/Rapid_serial_visual_presentation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rapid_serial_visual_presentation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rapid serial visual presentationRapid serial visual presentation (RSVP) is a scientific method for studying the timing of vision. In R...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Rapid_serial_visual_presentation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rapid_serial_visual_presentation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rapid serial visual presentationRapid serial visual presentation (RSVP) is a scientific method for studying the timing of vision. In R...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
    Title: Rapid serial visual presentation in reading: The case of Spritz  
-   Link: <a href="https://www.researchgate.net/publication/270650767_Rapid_serial_visual_presentation_in_reading_The_case_of_Spritz" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/270650767_Rapid_serial_visual_presentation_in_reading_The_case_of_Spritz</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RSVP is not better than traditional reading for [increasing](&amp;#123;&amp;#123; &#x27;increasing/&#x27; | relative_url &amp;#125;&amp;#125;) reading speed or comprehension.... a rate of 200 words per minute (see Figure...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/270650767_Rapid_serial_visual_presentation_in_reading_The_case_of_Spritz" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/270650767_Rapid_serial_visual_presentation_in_reading_The_case_of_Spritz</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RSVP is not better than traditional reading for [increasing](&amp;#123;&amp;#123; &#x27;increasing/&#x27; | relative_url &amp;#125;&amp;#125;) reading speed or comprehension.... a rate of 200 words per minute (see Figure...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/340778773_Speed_reading_using_Spritz_has_a_cost_Limits_when_reading_a_short_text" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/340778773_Speed_reading_using_Spritz_has_a_cost_Limits_when_reading_a_short_text</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Speed reading using Spritz has a cost: Limits when...No significant differences were found in comprehension for normal reading and RSVP...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/340778773_Speed_reading_using_Spritz_has_a_cost_Limits_when_reading_a_short_text" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/340778773_Speed_reading_using_Spritz_has_a_cost_Limits_when_reading_a_short_text</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Speed reading using Spritz has a cost: Limits when...No significant differences were found in comprehension for normal reading and RSVP...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
    Title: 307946947 Exploring the Effects of Text Length and Difficulty on RSVP Reading  
-   Link: <a href="https://www.researchgate.net/publication/307946947_Exploring_the_Effects_of_Text_Length_and_Difficulty_on_RSVP_Reading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/307946947_Exploring_the_Effects_of_Text_Length_and_Difficulty_on_RSVP_Reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the Effects of Text Length and Difficulty on RSVP...9 Feb 2026 — Reading with Rapid Serial Visual Presentation (RSVP) has show...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/307946947_Exploring_the_Effects_of_Text_Length_and_Difficulty_on_RSVP_Reading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/307946947_Exploring_the_Effects_of_Text_Length_and_Difficulty_on_RSVP_Reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the Effects of Text Length and Difficulty on RSVP...9 Feb 2026 — Reading with Rapid Serial Visual Presentation (RSVP) has show...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/29461715/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29461715/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Modern Speed-Reading Apps Do Not Foster...by D Acklin · 2017 · Cited by 25 — The current study explored variables that may affect...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/29461715/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29461715/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Modern Speed-Reading Apps Do Not Foster...by D Acklin · 2017 · Cited by 25 — The current study explored variables that may affect...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2018/07/speed-reading-fact-or-fiction/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2018/07/speed-reading-fact-or-fiction/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerSpeed Reading: Fact or Fiction?by W Vanderlinde · Cited by 2 — Studies have shown that RSVP does increase speed but it...</p></details>
+   Link:<a href="https://skepticalinquirer.org/2018/07/speed-reading-fact-or-fiction/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2018/07/speed-reading-fact-or-fiction/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerSpeed Reading: Fact or Fiction?by W Vanderlinde · Cited by 2 — Studies have shown that RSVP does increase speed but it...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: psychologicalscience.org  
-   Link: <a href="https://www.psychologicalscience.org/news/were-only-human/read-this-blog-post-in-less-than-a-minute.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/news/were-only-human/read-this-blog-post-in-less-than-a-minute.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychological ScienceRead This Blog Post In Less Than A Minute!Mar 25, 2014 — Spritz makes use of a technology first developed in 1970, c...</p></details>
+   Link:<a href="https://www.psychologicalscience.org/news/were-only-human/read-this-blog-post-in-less-than-a-minute.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/news/were-only-human/read-this-blog-post-in-less-than-a-minute.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Psychological ScienceRead This Blog Post In Less Than A Minute!Mar 25, 2014 — Spritz makes use of a technology first developed in 1970, c...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: inderscienceonline.com  
    Title: Inder Science Online Speed reading using Spritz has a cost  
-   Link: <a href="https://www.inderscienceonline.com/doi/abs/10.1504/IJHFE.2020.109594" target="_blank" rel="noopener noreferrer nofollow">https://www.inderscienceonline.com/doi/abs/10.1504/IJHFE.2020.109594</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This result should be...Read more...</p></details>
+   Link:<a href="https://www.inderscienceonline.com/doi/abs/10.1504/IJHFE.2020.109594" target="_blank" rel="noopener noreferrer nofollow">https://www.inderscienceonline.com/doi/abs/10.1504/IJHFE.2020.109594</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This result should be...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: eprints.nottingham.ac.uk  
-   Link: <a href="https://eprints.nottingham.ac.uk/45183/" target="_blank" rel="noopener noreferrer nofollow">https://eprints.nottingham.ac.uk/45183/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nottingham ePrintsThe impact of Rapid Serial Visual Presentation (RSVP) on...by Z Boo · Cited by 10 — To address this, the current study...</p></details>
+   Link:<a href="https://eprints.nottingham.ac.uk/45183/" target="_blank" rel="noopener noreferrer nofollow">https://eprints.nottingham.ac.uk/45183/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nottingham ePrintsThe impact of Rapid Serial Visual Presentation (RSVP) on...by Z Boo · Cited by 10 — To address this, the current study...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pure.mpg.de  
-   Link: <a href="https://pure.mpg.de/rest/items/item_2567078_1/component/file_2567077/content" target="_blank" rel="noopener noreferrer nofollow">https://pure.mpg.de/rest/items/item_2567078_1/component/file_2567077/content</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading on a Smart Watchby E Gannon · 2016 · Cited by 14 — Given the wide use of small-screen devices, the present study compared RSVP an...</p></details>
+   Link:<a href="https://pure.mpg.de/rest/items/item_2567078_1/component/file_2567077/content" target="_blank" rel="noopener noreferrer nofollow">https://pure.mpg.de/rest/items/item_2567078_1/component/file_2567077/content</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading on a Smart Watchby E Gannon · 2016 · Cited by 14 — Given the wide use of small-screen devices, the present study compared RSVP an...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: accruva.app  
-   Link: <a href="https://accruva.app/science/" target="_blank" rel="noopener noreferrer nofollow">https://accruva.app/science/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Speed reading science, for every kind of brainThe research is clear: RSVP at high speeds consistently reduces comprehension scores for ty...</p></details>
+   Link:<a href="https://accruva.app/science/" target="_blank" rel="noopener noreferrer nofollow">https://accruva.app/science/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Speed reading science, for every kind of brainThe research is clear: RSVP at high speeds consistently reduces comprehension scores for ty...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: tomstafford.substack.com  
-   Link: <a href="https://tomstafford.substack.com/p/quick-facts-on-speed-reading" target="_blank" rel="noopener noreferrer nofollow">https://tomstafford.substack.com/p/quick-facts-on-speed-reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tom StaffordQuick facts on speed readingOne study which directly compared RSVP with reading static text showed that people had the best c...</p></details>
+   Link:<a href="https://tomstafford.substack.com/p/quick-facts-on-speed-reading" target="_blank" rel="noopener noreferrer nofollow">https://tomstafford.substack.com/p/quick-facts-on-speed-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tom StaffordQuick facts on speed readingOne study which directly compared RSVP with reading static text showed that people had the best c...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nottingham-repository.worktribe.com  
-   Link: <a href="https://nottingham-repository.worktribe.com/output/765223/the-impact-of-rapid-serial-visual-presentation-rsvp-on-reading-by-nonnative-speakers" target="_blank" rel="noopener noreferrer nofollow">https://nottingham-repository.worktribe.com/output/765223/the-impact-of-rapid-serial-visual-presentation-rsvp-on-reading-by-nonnative-speakers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>impact of Rapid Serial Visual Presentation (RSVP) on...by Z Boo · Cited by 11 — To address this, the current study explores the impact o...</p></details>
+   Link:<a href="https://nottingham-repository.worktribe.com/output/765223/the-impact-of-rapid-serial-visual-presentation-rsvp-on-reading-by-nonnative-speakers" target="_blank" rel="noopener noreferrer nofollow">https://nottingham-repository.worktribe.com/output/765223/the-impact-of-rapid-serial-visual-presentation-rsvp-on-reading-by-nonnative-speakers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>impact of Rapid Serial Visual Presentation (RSVP) on...by Z Boo · Cited by 11 — To address this, the current study explores the impact o...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: today.ucsd.edu  
    Title: dont believe what you read only once speed reading apps may impair reading  
-   Link: <a href="https://today.ucsd.edu/story/dont_believe_what_you_read_only_once_speed_reading_apps_may_impair_reading" target="_blank" rel="noopener noreferrer nofollow">https://today.ucsd.edu/story/dont_believe_what_you_read_only_once_speed_reading_apps_may_impair_reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ucsd.eduSpeed-Reading Apps May Impair Reading ComprehensionApr 22, 2014 — The results showed that, during normal reading, comprehension l...</p></details>
+   Link:<a href="https://today.ucsd.edu/story/dont_believe_what_you_read_only_once_speed_reading_apps_may_impair_reading" target="_blank" rel="noopener noreferrer nofollow">https://today.ucsd.edu/story/dont_believe_what_you_read_only_once_speed_reading_apps_may_impair_reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ucsd.eduSpeed-Reading Apps May Impair Reading ComprehensionApr 22, 2014 — The results showed that, during normal reading, comprehension l...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/books/comments/1yvvam/software_that_speeds_up_your_reading_to_500_words/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/books/comments/1yvvam/software_that_speeds_up_your_reading_to_500_words/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(The average reading speed is 120-180 words per minute). Not sure what to think of...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/books/comments/1yvvam/software_that_speeds_up_your_reading_to_500_words/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/books/comments/1yvvam/software_that_speeds_up_your_reading_to_500_words/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(The average reading speed is 120-180 words per minute). Not sure what to think of...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: news.ycombinator.com  
-   Link: <a href="https://news.ycombinator.com/item?id=7295094" target="_blank" rel="noopener noreferrer nofollow">https://news.ycombinator.com/item?id=7295094</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hacker NewsSpritz – read 500 words per minute without any trainingFeb 25, 2014 — A tool for practicing reading, not for actually reading...</p></details>
+   Link:<a href="https://news.ycombinator.com/item?id=7295094" target="_blank" rel="noopener noreferrer nofollow">https://news.ycombinator.com/item?id=7295094</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hacker NewsSpritz – read 500 words per minute without any trainingFeb 25, 2014 — A tool for practicing reading, not for actually reading...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/education/speed-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/education/speed-reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Some speed readers have claimed that their techniques allow them...Read more...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/education/speed-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/education/speed-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Some speed readers have claimed that their techniques allow them...Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: eugenewei.com  
    Title: How to become a speed reader, updated  
-   Link: <a href="https://www.eugenewei.com/blog/2014/3/7/how-to-become-a-speed-reader-updated" target="_blank" rel="noopener noreferrer nofollow">https://www.eugenewei.com/blog/2014/3/7/how-to-become-a-speed-reader-updated</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eugene WeiMar 7, 2014 — The key to speed reading was to consume blocks of words at a time and to stop yourself from subvocalizing (that i...</p></details>
+   Link:<a href="https://www.eugenewei.com/blog/2014/3/7/how-to-become-a-speed-reader-updated" target="_blank" rel="noopener noreferrer nofollow">https://www.eugenewei.com/blog/2014/3/7/how-to-become-a-speed-reader-updated</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eugene WeiMar 7, 2014 — The key to speed reading was to consume blocks of words at a time and to stop yourself from subvocalizing (that i...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: erickimphotography.com  
-   Link: <a href="https://erickimphotography.com/the-landscape-of-fast-reading-science-technology-education-and-field-applications/" target="_blank" rel="noopener noreferrer nofollow">https://erickimphotography.com/the-landscape-of-fast-reading-science-technology-education-and-field-applications/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ERIC KIMThe Landscape of Fast Reading: Science, Technology...Jan 9, 2026 — Skilled readers typically average 200–400 words per minute (w...</p></details>
+   Link:<a href="https://erickimphotography.com/the-landscape-of-fast-reading-science-technology-education-and-field-applications/" target="_blank" rel="noopener noreferrer nofollow">https://erickimphotography.com/the-landscape-of-fast-reading-science-technology-education-and-field-applications/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ERIC KIMThe Landscape of Fast Reading: Science, Technology...Jan 9, 2026 — Skilled readers typically average 200–400 words per minute (w...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: sciencespot.co.uk  
    Title: The limits on speed reading by RSVP  
-   Link: <a href="https://sciencespot.co.uk/the-limits-on-speed-reading-by-rsvp.html" target="_blank" rel="noopener noreferrer nofollow">https://sciencespot.co.uk/the-limits-on-speed-reading-by-rsvp.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Science Spot16 Sept 2020 — They tested readers&#x27; comprehension of a short piece of text when they used Spritz to read at rates of 250, 350...</p></details>
+   Link:<a href="https://sciencespot.co.uk/the-limits-on-speed-reading-by-rsvp.html" target="_blank" rel="noopener noreferrer nofollow">https://sciencespot.co.uk/the-limits-on-speed-reading-by-rsvp.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science Spot16 Sept 2020 — They tested readers&#x27; comprehension of a short piece of text when they used Spritz to read at rates of 250, 350...</p></details>

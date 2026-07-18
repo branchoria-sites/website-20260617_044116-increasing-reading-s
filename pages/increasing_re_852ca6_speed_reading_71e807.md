@@ -333,7 +333,7 @@ image: /assets/images/increasing_re_852ca6_speed_reading_71e807-overview-social.
 
 ## Introduction
 
-Speed-reading promises usually fall apart because they treat reading as an [eye-movement]({{ 'eye-tradeoff/' | relative_url }}) problem when it is mainly a meaning-making problem. You can move your eyes faster, skim headings, or flash words rapidly on a screen, but full comprehension still depends on recognising words, linking ideas, making inferences, noticing uncertainty, and remembering what the text says. The evidence is consistent on the central tradeoff: large jumps in reading speed tend to reduce understanding, especially when the material is unfamiliar, dense, technical, literary, or high-stakes. A major review in *Psychological Science in the Public Interest* concluded that readers are unlikely to double or triple normal reading speed while preserving the same comprehension; faster skimming can be useful, but it is not the same as [careful reading]({{ 'careful-reading/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 534 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</span></span></span>
+Speed-reading promises usually fall apart because they treat reading as an [eye-movement]({{ 'eye-tradeoff/' | relative_url }}) problem when it is mainly a meaning-making problem. You can move your eyes faster, skim headings, or flash words rapidly on a screen, but full comprehension still depends on recognising words, linking ideas, making inferences, noticing uncertainty, and remembering what the text says. The evidence is consistent on the central tradeoff: large jumps in reading speed tend to reduce understanding, especially when the material is unfamiliar, dense, technical, literary, or high-stakes. A major review in *Psychological Science in the Public Interest* concluded that readers are unlikely to double or triple normal reading speed while preserving the same comprehension; faster skimming can be useful, but it is not the same as [careful reading]({{ 'careful-reading/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 534 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_speed_reading_71e807-overview.webp" | relative_url }}" alt="Overview image for Myths" loading="eager" decoding="sync" fetchpriority="high">
@@ -343,7 +343,7 @@ That does not mean every attempt to read faster is a scam. It means the honest g
 
 The central problem with extreme speed-reading claims is simple: as speed rises, comprehension usually falls. Reading is not just visual intake. It is a chain of mental operations: identifying words, parsing grammar, connecting sentences, building a situation model, checking ambiguities, and integrating new information with what you already know. Some of these operations can become more fluent with [practice]({{ 'practice/' | relative_url }}), but they cannot all be compressed indefinitely.
 
-This is why “words per minute” is a weak measure unless it is paired with a comprehension test. A person can report 700 or 1,000 words per minute after glancing through pages, but that number says little unless they can answer questions that test main ideas, details, inference, structure, and retention. Marc Brysbaert’s review and meta-analysis of reading rate estimated average adult silent reading at about 238 words per minute for English non-fiction and 260 for fiction, based on a large body of studies. Those figures do not prove that everyone must read at that pace, but they make many commercial claims look implausible when those claims promise several times normal speed with unchanged comprehension. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gwern.net/doc/psychology/linguistics/2019-brysbaert.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gwern.net">[Gwern]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gwern.net</span><span class="citation-popover-snippet">How many words do we read per minute? A review and...Based on the analysis of 190 studies (18,573 participants), we estimate that t...</span></span></span>
+This is why “words per minute” is a weak measure unless it is paired with a comprehension test. A person can report 700 or 1,000 words per minute after glancing through pages, but that number says little unless they can answer questions that test main ideas, details, inference, structure, and retention. Marc Brysbaert’s review and meta-analysis of reading rate estimated average adult silent reading at about 238 words per minute for English non-fiction and 260 for fiction, based on a large body of studies. Those figures do not prove that everyone must read at that pace, but they make many commercial claims look implausible when those claims promise several times normal speed with unchanged comprehension.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gwern.net/doc/psychology/linguistics/2019-brysbaert.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gwern.net">[Gwern]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gwern.net</span><span class="citation-popover-snippet">How many words do we read per minute? A review and...Based on the analysis of 190 studies (18,573 participants), we estimate that t...</span></span></span>
 
 The tradeoff becomes sharper as the reading task becomes more demanding. A familiar news article, a simple email, or a chapter you only need to preview can be processed quickly because the reader can rely on expectation and background knowledge. A legal clause, a scientific paper, a poem, a medical instruction sheet, or a philosophical argument cannot be handled the same way without losing what makes it important. In difficult texts, “slow” behaviours such as pausing, rereading, and checking context are not signs of poor reading. They are part of comprehension.
 
@@ -355,11 +355,11 @@ A more useful distinction is between **reading rate** and **comprehension rate**
 
 Many speed-reading systems repeat a familiar set of claims: stop subvocalising, reduce regressions, widen your visual span, use a pointer, or take in whole lines at once. Each idea has a grain of plausibility, but the leap from “this affects reading” to “this can safely be removed” is where the trouble begins.
 
-**Subvocalisation is not just a bad habit.** Many readers experience an inner voice while reading, and speed-reading advice often presents that voice as a bottleneck. The misleading part is the assumption that phonological processing is the same as speaking every word aloud in the head. Research on phonological coding shows that sound-related information is deeply involved in skilled reading: it helps readers distinguish words, hold phrases in working memory, and connect spelling to meaning. Trying to suppress it completely may make fast visual exposure possible, but it risks weakening comprehension, especially for complex sentences or unfamiliar vocabulary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Phonological coding during reading - PMC - NIHby M Leinenger · 2014 · Cited by 170 — Finally, there is some evidence that less skilled...</span></span></span>
+**Subvocalisation is not just a bad habit.** Many readers experience an inner voice while reading, and speed-reading advice often presents that voice as a bottleneck. The misleading part is the assumption that phonological processing is the same as speaking every word aloud in the head. Research on phonological coding shows that sound-related information is deeply involved in skilled reading: it helps readers distinguish words, hold phrases in working memory, and connect spelling to meaning. Trying to suppress it completely may make fast visual exposure possible, but it risks weakening comprehension, especially for complex sentences or unfamiliar vocabulary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Phonological coding during reading - PMC - NIHby M Leinenger · 2014 · Cited by 170 — Finally, there is some evidence that less skilled...</span></span></span>
 
-**Regressions are not simply wasted motion.** Regressions are backward eye movements, and speed-reading courses often treat them as inefficient habits. In real reading, they frequently serve a repair function. Readers look back when a sentence turns out to be ambiguous, when a pronoun needs resolving, when a detail matters, or when the first pass did not build a coherent meaning. Eliminating regressions may make the eye trace look cleaner, but it can remove a mechanism the reader uses to fix misunderstanding. Rayner and colleagues’ review emphasises that normal eye movements are closely tied to comprehension rather than being removable mechanical inefficiencies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://faculty.cas.usf.edu/eschotter/papers/Rayner_Schotter_Masson_Potter_Treiman_2016_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faculty.cas.usf.edu">[USF Faculty]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faculty.cas.usf.edu</span><span class="citation-popover-title">Rayner Schotter Masson Potter Treiman 2016 PSPI</span><span class="citation-popover-snippet">Rayner Schotter Masson Potter Treiman 2016 PSPI</span></span></span>
+**Regressions are not simply wasted motion.** Regressions are backward eye movements, and speed-reading courses often treat them as inefficient habits. In real reading, they frequently serve a repair function. Readers look back when a sentence turns out to be ambiguous, when a pronoun needs resolving, when a detail matters, or when the first pass did not build a coherent meaning. Eliminating regressions may make the eye trace look cleaner, but it can remove a mechanism the reader uses to fix misunderstanding. Rayner and colleagues’ review emphasises that normal eye movements are closely tied to comprehension rather than being removable mechanical inefficiencies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://faculty.cas.usf.edu/eschotter/papers/Rayner_Schotter_Masson_Potter_Treiman_2016_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faculty.cas.usf.edu">[USF Faculty]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faculty.cas.usf.edu</span><span class="citation-popover-title">Rayner Schotter Masson Potter Treiman 2016 PSPI</span><span class="citation-popover-snippet">Rayner Schotter Masson Potter Treiman 2016 PSPI</span></span></span>
 
-**The visual span cannot be expanded without limit.** Skilled readers do use information around the point of fixation, but the useful perceptual span is constrained. Research on eye movements and perceptual span found that faster readers had a larger span than slower readers, yet this does not support the popular claim that readers can take in whole paragraphs or pages at a glance. The sharpest visual information comes from the fovea, the small central region of vision; peripheral text contributes, but it does not give full word recognition across a whole line. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEye movements, the perceptual span, and reading speed</span><span class="citation-popover-snippet">PMCEye movements, the perceptual span, and reading speed</span></span></span>
+**The visual span cannot be expanded without limit.** Skilled readers do use information around the point of fixation, but the useful perceptual span is constrained. Research on eye movements and perceptual span found that faster readers had a larger span than slower readers, yet this does not support the popular claim that readers can take in whole paragraphs or pages at a glance. The sharpest visual information comes from the fovea, the small central region of vision; peripheral text contributes, but it does not give full word recognition across a whole line.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEye movements, the perceptual span, and reading speed</span><span class="citation-popover-snippet">PMCEye movements, the perceptual span, and reading speed</span></span></span>
 
 The deeper mistake is treating the eye as the limiting machine and comprehension as an automatic by-product. In ordinary reading, the eyes do not merely photograph text. They sample information in a way guided by language processing. Fixations, skips, and regressions change with word length, predictability, difficulty, and the reader’s [purpose]({{ 'purpose/' | relative_url }}). That flexibility is a feature, not a flaw.
 
@@ -368,7 +368,7 @@ The deeper mistake is treating the eye as the limiting machine and comprehension
 
 ## What Skimming Can and Cannot Do
 
-Skimming is real, useful, and often confused with speed reading. It is a selective strategy for extracting the gist of a text without processing every word. Used well, it helps a reader decide whether a document is relevant, identify the main argument, preview structure, or prepare for closer reading. The University of North Carolina’s Learning Center describes skimming as deliberately focusing on main ideas while skipping details, examples, data, and elaboration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://learningcenter.unc.edu/tips-and-tools/skimming/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learningcenter.unc.edu">[The Learning Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learningcenter.unc.edu</span><span class="citation-popover-title">The Learning Center Skimming</span><span class="citation-popover-snippet">The Learning Center Skimming</span></span></span>
+Skimming is real, useful, and often confused with speed reading. It is a selective strategy for extracting the gist of a text without processing every word. Used well, it helps a reader decide whether a document is relevant, identify the main argument, preview structure, or prepare for closer reading. The University of North Carolina’s Learning Center describes skimming as deliberately focusing on main ideas while skipping details, examples, data, and elaboration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://learningcenter.unc.edu/tips-and-tools/skimming/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learningcenter.unc.edu">[The Learning Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learningcenter.unc.edu</span><span class="citation-popover-title">The Learning Center Skimming</span><span class="citation-popover-snippet">The Learning Center Skimming</span></span></span>
 
 That is valuable when the task matches the method. Skimming can help when you need to:
 
@@ -393,7 +393,7 @@ This is where many speed-reading claims blur categories. If a course teaches peo
 
 Speed-reading apps can feel persuasive because they make speed visible. Rapid serial visual presentation, often shortened to RSVP, shows words one at a time in the same place on a screen. This removes line sweeps and many eye movements, so the text appears to flow faster. Apps using this approach can make a passage look impressively quick, especially with short, simple material.
 
-The weakness is that RSVP removes some of the reader’s normal control. In ordinary reading, you can pause on a difficult word, glance back to repair a sentence, use upcoming words as preview, and vary your pace without thinking much about it. RSVP sets the pace externally. That can work for brief or simple text, but it becomes fragile when comprehension requires rereading, integration, or reflection. Research on modern speed-reading apps using RSVP found that they did not foster reading comprehension in the way their promises suggested. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/29461715/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
+The weakness is that RSVP removes some of the reader’s normal control. In ordinary reading, you can pause on a difficult word, glance back to repair a sentence, use upcoming words as preview, and vary your pace without thinking much about it. RSVP sets the pace externally. That can work for brief or simple text, but it becomes fragile when comprehension requires rereading, integration, or reflection. Research on modern speed-reading apps using RSVP found that they did not foster reading comprehension in the way their promises suggested.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/29461715/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
 This helps explain the gap between demonstration and real use. A short familiar passage flashed at high speed may feel manageable. A long article with names, qualifications, nested arguments, and unfamiliar concepts is different. The problem is not that RSVP is useless in every context. It may help with constrained display situations or quick [exposure]({{ 'exposure/' | relative_url }}) to simple text. The problem is treating it as a general replacement for reading when normal eye movements and self-paced rereading are part of how readers preserve meaning.
 
@@ -405,13 +405,13 @@ Speed-reading courses vary, and not all advice under the label is worthless. Som
 
 A course deserves scepticism when it shows several of these warning signs:
 
-**It promises extreme speeds with full comprehension.** Claims of doubling or tripling reading speed while preserving normal understanding conflict with the major research review on speed reading. The more impressive the words-per-minute claim, the more important it is to ask how comprehension was measured. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 534 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</span></span></span>
+**It promises extreme speeds with full comprehension.** Claims of doubling or tripling reading speed while preserving normal understanding conflict with the major research review on speed reading. The more impressive the words-per-minute claim, the more important it is to ask how comprehension was measured.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 534 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</span></span></span>
 
 **It measures success with weak tests.** A few easy recall questions immediately after a passage do not prove deep comprehension. Stronger testing asks about inference, argument structure, contradictions, delayed recall, and application. If the test only checks whether the reader caught the gist, the course may be teaching skimming rather than reading.
 
-**It treats normal reading behaviours as defects.** Advice to eliminate subvocalisation, regressions, or fixations often oversimplifies the reading process. These behaviours can be inefficient in excess, but they also support comprehension. A blanket instruction to suppress them is a warning sign. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Phonological coding during reading - PMC - NIHby M Leinenger · 2014 · Cited by 170 — Finally, there is some evidence that less skilled...</span></span></span>
+**It treats normal reading behaviours as defects.** Advice to eliminate subvocalisation, regressions, or fixations often oversimplifies the reading process. These behaviours can be inefficient in excess, but they also support comprehension. A blanket instruction to suppress them is a warning sign.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Phonological coding during reading - PMC - NIHby M Leinenger · 2014 · Cited by 170 — Finally, there is some evidence that less skilled...</span></span></span>
 
-**It uses familiar or easy texts as proof.** People read faster when the topic, vocabulary, and structure are familiar. That does not mean the technique will transfer to dense or unfamiliar material. Reading Rockets notes that even skilled readers slow down when texts contain unfamiliar words or topics, and that fluency depends on accuracy and ease, not speed alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Open source on readingrockets.org.</span></span></span>
+**It uses familiar or easy texts as proof.** People read faster when the topic, vocabulary, and structure are familiar. That does not mean the technique will transfer to dense or unfamiliar material. Reading Rockets notes that even skilled readers slow down when texts contain unfamiliar words or topics, and that fluency depends on accuracy and ease, not speed alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Open source on readingrockets.org.</span></span></span>
 
 **It confuses confidence with comprehension.** Many readers feel productive after moving quickly through a text. But speed can create a false sense of mastery because the reader recognises keywords and broad themes without being able to reconstruct the reasoning. A good course should make that risk visible rather than hide it.
 
@@ -424,7 +424,7 @@ The practical test is straightforward: after using the method, can the reader ex
 
 The strongest alternative to speed-reading mythology is not [slow reading]({{ 'slow-reading/' | relative_url }}) for everything. It is flexible reading. Good readers adjust pace to purpose. They skim a table of contents, scan for a date, read a news story briskly, slow down for a difficult paragraph, and reread a sentence when the meaning breaks. That flexibility is more useful than trying to force all texts through one high-speed technique.
 
-Reading fluency research also supports a broader view of speed. The National Reading Panel described fluent reading as involving speed, accuracy, and proper expression, with fluency serving comprehension rather than replacing it. Reading Rockets makes the same practical point: rate is less important than accurate, easy reading, and pushing speed can be counterproductive when the text is difficult or comprehension is shaky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nichd.nih.gov">[NICHD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nichd.nih.gov</span><span class="citation-popover-title">NICHDNational Reading Panel</span><span class="citation-popover-snippet">NICHDNational Reading Panel</span></span></span>
+Reading fluency research also supports a broader view of speed. The National Reading Panel described fluent reading as involving speed, accuracy, and proper expression, with fluency serving comprehension rather than replacing it. Reading Rockets makes the same practical point: rate is less important than accurate, easy reading, and pushing speed can be counterproductive when the text is difficult or comprehension is shaky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nichd.nih.gov">[NICHD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nichd.nih.gov</span><span class="citation-popover-title">NICHDNational Reading Panel</span><span class="citation-popover-snippet">NICHDNational Reading Panel</span></span></span>
 
 For someone trying to increase reading speed responsibly, the safer question is not “How do I stop reading normally?” but “Which part of this task deserves close attention?” A useful approach looks like this:
 
@@ -456,252 +456,252 @@ The honest version of speed improvement is therefore less glamorous and more use
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Speed Reading Promises Fall Apart. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Speed Reading Promises Fall Apart. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Focuses on reading for understanding rather than raw speed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Focuses on reading for understanding rather than raw speed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Only+Skill+that+Matters+Jonathan+A.+Levi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Only Skill that Matters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/15160962-M.jpg" alt="Cover for The Only Skill that Matters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Only+Skill+that+Matters+Jonathan+A.+Levi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Only Skill that Matters">The Only Skill that Matters</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan A. Levi</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Only+Skill+that+Matters+Jonathan+A.+Levi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Only Skill that Matters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/15160962-M.jpg" alt="Cover for The Only Skill that Matters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Only+Skill+that+Matters+Jonathan+A.+Levi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Only Skill that Matters">The Only Skill that Matters</a>
+</h4>
+<p class="fr-book-author">By Jonathan A. Levi</p>
         
-        <p class="fr-book-desc">First published 2019.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Only+Skill+that+Matters+Jonathan+A.+Levi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2019.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Only+Skill+that+Matters+Jonathan+A.+Levi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Breakthrough rapid reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/84360-M.jpg" alt="Cover for Breakthrough rapid reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breakthrough rapid reading">Breakthrough rapid reading</a>
-        </h4>
-        <p class="fr-book-author">By Peter Kump</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Breakthrough rapid reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/84360-M.jpg" alt="Cover for Breakthrough rapid reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breakthrough rapid reading">Breakthrough rapid reading</a>
+</h4>
+<p class="fr-book-author">By Peter Kump</p>
         
-        <p class="fr-book-desc">First published 1979. Subjects: Speed reading, Rapid reading, Du shu fang fa.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1979. Subjects: Speed reading, Rapid reading, Du shu fang fa.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Reading+Mind+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading Mind on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Reading+Mind+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading Mind">Reading Mind</a>
-        </h4>
-        <p class="fr-book-author">By Daniel T. Willingham</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Reading+Mind+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading Mind on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Reading+Mind+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading Mind">Reading Mind</a>
+</h4>
+<p class="fr-book-author">By Daniel T. Willingham</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Reading, Reading comprehension, Cognitive psychology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Reading+Mind+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Reading, Reading comprehension, Cognitive psychology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Reading+Mind+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Only+Skill+that+Matters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Only Skill that Matters</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Breakthrough rapid reading</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Only+Skill+that+Matters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Only Skill that Matters</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Breakthrough rapid reading</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: gwern.net  
-   Link: <a href="https://gwern.net/doc/psychology/linguistics/2019-brysbaert.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gwern.net/doc/psychology/linguistics/2019-brysbaert.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How many words do we read per minute? A review and...Based on the analysis of 190 studies (18,573 participants), we estimate that t...</p></details>
+   Link:<a href="https://gwern.net/doc/psychology/linguistics/2019-brysbaert.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gwern.net/doc/psychology/linguistics/2019-brysbaert.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How many words do we read per minute? A review and...Based on the analysis of 190 studies (18,573 participants), we estimate that t...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Phonological coding during reading - PMC - NIHby M Leinenger · 2014 · Cited by 170 — Finally, there is some evidence that less skilled...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Phonological coding during reading - PMC - NIHby M Leinenger · 2014 · Cited by 170 — Finally, there is some evidence that less skilled...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: faculty.cas.usf.edu  
    Title: Rayner Schotter Masson Potter Treiman 2016 PSPI  
-   Link: <a href="https://faculty.cas.usf.edu/eschotter/papers/Rayner_Schotter_Masson_Potter_Treiman_2016_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://faculty.cas.usf.edu/eschotter/papers/Rayner_Schotter_Masson_Potter_Treiman_2016_PSPI.pdf</a>  
+   Link:<a href="https://faculty.cas.usf.edu/eschotter/papers/Rayner_Schotter_Masson_Potter_Treiman_2016_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://faculty.cas.usf.edu/eschotter/papers/Rayner_Schotter_Masson_Potter_Treiman_2016_PSPI.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCEye movements, the perceptual span, and reading speed  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nichd.nih.gov  
    Title: NICHDNational Reading Panel  
-   Link: <a href="https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf</a>  
+   Link:<a href="https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: fast.com  
-   Link: <a href="https://fast.com/" target="_blank" rel="noopener noreferrer nofollow">https://fast.com/</a>  
+   Link:<a href="https://fast.com/" target="_blank" rel="noopener noreferrer nofollow">https://fast.com/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med How Do We Read, and Can Speed Reading Help?  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26769745/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by K Rayner · 2016 · Cited by 534 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26769745/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by K Rayner · 2016 · Cited by 534 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: learningcenter.unc.edu  
    Title: The Learning Center Skimming  
-   Link: <a href="https://learningcenter.unc.edu/tips-and-tools/skimming/" target="_blank" rel="noopener noreferrer nofollow">https://learningcenter.unc.edu/tips-and-tools/skimming/</a>  
+   Link:<a href="https://learningcenter.unc.edu/tips-and-tools/skimming/" target="_blank" rel="noopener noreferrer nofollow">https://learningcenter.unc.edu/tips-and-tools/skimming/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/29461715/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29461715/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/29461715/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29461715/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth</a>  
+   Link:<a href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/topics/fluency/articles/fluency-introduction" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/fluency/articles/fluency-introduction</a>  
+   Link:<a href="https://www.readingrockets.org/topics/fluency/articles/fluency-introduction" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/fluency/articles/fluency-introduction</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: quizlet.com  
-   Link: <a href="https://quizlet.com/958395093/fluency-reading-rockets-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/958395093/fluency-reading-rockets-flash-cards/</a>  
+   Link:<a href="https://quizlet.com/958395093/fluency-reading-rockets-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/958395093/fluency-reading-rockets-flash-cards/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: mjstjournal.com  
-   Link: <a href="https://mjstjournal.com/index.php/mjst/article/view/6617" target="_blank" rel="noopener noreferrer nofollow">https://mjstjournal.com/index.php/mjst/article/view/6617</a>  
+   Link:<a href="https://mjstjournal.com/index.php/mjst/article/view/6617" target="_blank" rel="noopener noreferrer nofollow">https://mjstjournal.com/index.php/mjst/article/view/6617</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8590178/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8590178/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8590178/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8590178/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7141082/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7141082/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7141082/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7141082/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12801452/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12801452/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12801452/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12801452/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8559868/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8559868/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8559868/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8559868/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/RSVP" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RSVP</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/RSVP" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RSVP</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Speed" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Speed</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Speed" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Speed</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Rapid serial visual presentation  
-   Link: <a href="https://en.wikipedia.org/wiki/Rapid_serial_visual_presentation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rapid_serial_visual_presentation</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Rapid_serial_visual_presentation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rapid_serial_visual_presentation</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: users.castle.unc.edu  
    Title: 0912 visual info  
-   Link: <a href="https://users.castle.unc.edu/~jlsmith/ling060/outlines/0912_visual-info.pdf" target="_blank" rel="noopener noreferrer nofollow">https://users.castle.unc.edu/~jlsmith/ling060/outlines/0912_visual-info.pdf</a>  
+   Link:<a href="https://users.castle.unc.edu/~jlsmith/ling060/outlines/0912_visual-info.pdf" target="_blank" rel="noopener noreferrer nofollow">https://users.castle.unc.edu/~jlsmith/ling060/outlines/0912_visual-info.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1077882/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1077882/full</a>  
+   Link:<a href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1077882/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1077882/full</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: contemporaryjournal.com  
-   Link: <a href="https://contemporaryjournal.com/index.php/14/article/view/1228" target="_blank" rel="noopener noreferrer nofollow">https://contemporaryjournal.com/index.php/14/article/view/1228</a>  
+   Link:<a href="https://contemporaryjournal.com/index.php/14/article/view/1228" target="_blank" rel="noopener noreferrer nofollow">https://contemporaryjournal.com/index.php/14/article/view/1228</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: journal.iainlangsa.ac.id  
-   Link: <a href="https://journal.iainlangsa.ac.id/index.php/jl3t/article/view/11053" target="_blank" rel="noopener noreferrer nofollow">https://journal.iainlangsa.ac.id/index.php/jl3t/article/view/11053</a>  
+   Link:<a href="https://journal.iainlangsa.ac.id/index.php/jl3t/article/view/11053" target="_blank" rel="noopener noreferrer nofollow">https://journal.iainlangsa.ac.id/index.php/jl3t/article/view/11053</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: play.google.com  
-   Link: <a href="https://play.google.com/store/apps/details?hl=en&amp;id=org.zwanoo.android.speedtest" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en&amp;id=org.zwanoo.android.speedtest</a>  
+   Link:<a href="https://play.google.com/store/apps/details?hl=en&amp;id=org.zwanoo.android.speedtest" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en&amp;id=org.zwanoo.android.speedtest</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: cejsh.icm.edu.pl  
    Title: icm.edu.pl TH E CASE OF EYE MOVEMENT TRAINING BY  
-   Link: <a href="https://cejsh.icm.edu.pl/cejsh/element/bwmeta1.element.desklight-afb177c9-f5b1-4a9e-8bf4-647c2fc22c82" target="_blank" rel="noopener noreferrer nofollow">https://cejsh.icm.edu.pl/cejsh/element/bwmeta1.element.desklight-afb177c9-f5b1-4a9e-8bf4-647c2fc22c82</a>  
+   Link:<a href="https://cejsh.icm.edu.pl/cejsh/element/bwmeta1.element.desklight-afb177c9-f5b1-4a9e-8bf4-647c2fc22c82" target="_blank" rel="noopener noreferrer nofollow">https://cejsh.icm.edu.pl/cejsh/element/bwmeta1.element.desklight-afb177c9-f5b1-4a9e-8bf4-647c2fc22c82</a>  
 
 ### Additional References
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/2017/01/make-resolution-read-speed-reading-wont-help" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2017/01/make-resolution-read-speed-reading-wont-help</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Basic calculations based on the properties of eyes and texts indicate that an average reading speed is around 280 words per minute, a val...</p></details>
+   Link:<a href="https://www.wired.com/2017/01/make-resolution-read-speed-reading-wont-help" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2017/01/make-resolution-read-speed-reading-wont-help</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Basic calculations based on the properties of eyes and texts indicate that an average reading speed is around 280 words per minute, a val...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) How many words do we read per minute?  
-   Link: <a href="https://www.researchgate.net/publication/332380784_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/332380784_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A review...Apr 12, 2019 — We estimate that the average silent reading rate for adults in English is 238 word per minute (wpm) for non-fi...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/332380784_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/332380784_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A review...Apr 12, 2019 — We estimate that the average silent reading rate for adults in English is 238 word per minute (wpm) for non-fi...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: journals.sagepub.com  
    Title: Sage Journals So Much to Read, So Little Time  
-   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/1529100615623267" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/1529100615623267</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It is unlikely that readers will be able to double or triple their reading speeds (e.g....Read more...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/abs/10.1177/1529100615623267" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/1529100615623267</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It is unlikely that readers will be able to double or triple their reading speeds (e.g....Read more...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: psychologicalscience.org  
    Title: speed reading promises are too good to be true scientists find 2  
-   Link: <a href="https://www.psychologicalscience.org/observer/speed-reading-promises-are-too-good-to-be-true-scientists-find-2" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/observer/speed-reading-promises-are-too-good-to-be-true-scientists-find-2</a>  
+   Link:<a href="https://www.psychologicalscience.org/observer/speed-reading-promises-are-too-good-to-be-true-scientists-find-2" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/observer/speed-reading-promises-are-too-good-to-be-true-scientists-find-2</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/232954947_Reading_Fluency_More_Than_Automaticity_More_Than_a_Concern_for_the_Primary_Grades" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232954947_Reading_Fluency_More_Than_Automaticity_More_Than_a_Concern_for_the_Primary_Grades</a>  
+   Link:<a href="https://www.researchgate.net/publication/232954947_Reading_Fluency_More_Than_Automaticity_More_Than_a_Concern_for_the_Primary_Grades" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232954947_Reading_Fluency_More_Than_Automaticity_More_Than_a_Concern_for_the_Primary_Grades</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/337256453_THE_ANALYSIS_OF_SKIMMING_AND_[SCANNING" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/337256453_THE_ANALYSIS_OF_SKIMMING_AND_[SCANNING</a>  
+   Link:<a href="https://www.researchgate.net/publication/337256453_THE_ANALYSIS_OF_SKIMMING_AND_[SCANNING" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/337256453_THE_ANALYSIS_OF_SKIMMING_AND_[SCANNING</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/399897944_Testing_the_Speed-Accuracy_Trade-Off_in_Reading_Effects_of_Reading_Speed_on_Comprehension_and_Eye_Movements" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399897944_Testing_the_Speed-Accuracy_Trade-Off_in_Reading_Effects_of_Reading_Speed_on_Comprehension_and_Eye_Movements</a>  
+   Link:<a href="https://www.researchgate.net/publication/399897944_Testing_the_Speed-Accuracy_Trade-Off_in_Reading_Effects_of_Reading_Speed_on_Comprehension_and_Eye_Movements" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399897944_Testing_the_Speed-Accuracy_Trade-Off_in_Reading_Effects_of_Reading_Speed_on_Comprehension_and_Eye_Movements</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/249134643_A_Review_of_the_National_Reading_Panel%27s_Studies_on_Fluency_The_Role_of_Text" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/249134643_A_Review_of_the_National_Reading_Panel%27s_Studies_on_Fluency_The_Role_of_Text</a>  
+   Link:<a href="https://www.researchgate.net/publication/249134643_A_Review_of_the_National_Reading_Panel%27s_Studies_on_Fluency_The_Role_of_Text" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/249134643_A_Review_of_the_National_Reading_Panel%27s_Studies_on_Fluency_The_Role_of_Text</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: flowfluency.com  
-   Link: <a href="https://flowfluency.com/blog/automaticity-and-repeated-reading-unlocking-the-key-to-fluency/" target="_blank" rel="noopener noreferrer nofollow">https://flowfluency.com/blog/automaticity-and-repeated-reading-unlocking-the-key-to-fluency/</a>  
+   Link:<a href="https://flowfluency.com/blog/automaticity-and-repeated-reading-unlocking-the-key-to-fluency/" target="_blank" rel="noopener noreferrer nofollow">https://flowfluency.com/blog/automaticity-and-repeated-reading-unlocking-the-key-to-fluency/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: phonicshero.com  
-   Link: <a href="https://phonicshero.com/automaticity-in-reading/" target="_blank" rel="noopener noreferrer nofollow">https://phonicshero.com/automaticity-in-reading/</a>  
+   Link:<a href="https://phonicshero.com/automaticity-in-reading/" target="_blank" rel="noopener noreferrer nofollow">https://phonicshero.com/automaticity-in-reading/</a>  

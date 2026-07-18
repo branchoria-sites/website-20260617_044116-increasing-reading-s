@@ -281,7 +281,7 @@ A backward glance is often worth the time when a pronoun stops making sense.
 <img src="{{ "/assets/images/increasing_re_852ca6_rereading_reg_828352_regression_wo_424703_pronoun_confu_bcadad-Illustration-1-dark.svg" | relative_url }}" alt="Pronoun Confusion illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_rereading_reg_828352_regression_wo_424703_pronoun_confu_bcadad-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_rereading_reg_828352_regression_wo_424703_pronoun_confu_bcadad-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Words such as *he*, *she*, *they*, *it*, *this*, and *that* seem simple because they are short and familiar. Yet they perform an important job: they connect the current sentence to information that appeared earlier. If that connection is lost, comprehension can drift off course. A reader may continue moving through the text while attaching the pronoun to the wrong person, object, or idea.
 
-For someone trying to increase reading speed, pronoun confusion is one of the clearest signals that a targeted regression can be useful. Instead of rereading an entire paragraph, a quick look back to identify the correct referent often repairs understanding immediately. Research on language comprehension shows that resolving reference is a fundamental part of understanding text, and that ambiguity or distance between a pronoun and its referent increases processing difficulty. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/abs/10.1080/01690965.2013.804941" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Understanding reference is therefore essential...</span></span></span>
+For someone trying to increase reading speed, pronoun confusion is one of the clearest signals that a targeted regression can be useful. Instead of rereading an entire paragraph, a quick look back to identify the correct referent often repairs understanding immediately. Research on language comprehension shows that resolving reference is a fundamental part of understanding text, and that ambiguity or distance between a pronoun and its referent increases processing difficulty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/abs/10.1080/01690965.2013.804941" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Understanding reference is therefore essential...</span></span></span>
 
 ## Why Pronouns Break the Flow of Meaning
 
@@ -293,7 +293,7 @@ Pronouns create one of the most common forms of this connection. When a sentence
 
 The reader must determine who *she* refers to. Was it Sarah or Emma?
 
-This process is known as pronoun resolution or anaphora resolution. Successful reading depends on finding the correct antecedent—the earlier word or phrase that gives the pronoun its meaning. Studies of language processing consistently show that readers actively search memory for the correct referent as they encounter a pronoun. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4477054/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Structural constraints on pronoun binding and coreferenceby I Cunnings · 2015 · Cited by 45 — Anaphora resolution thus provides a key...</span></span></span>
+This process is known as pronoun resolution or anaphora resolution. Successful reading depends on finding the correct antecedent—the earlier word or phrase that gives the pronoun its meaning. Studies of language processing consistently show that readers actively search memory for the correct referent as they encounter a pronoun.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4477054/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Structural constraints on pronoun binding and coreferenceby I Cunnings · 2015 · Cited by 45 — Anaphora resolution thus provides a key...</span></span></span>
 
 Most of the time this happens automatically. Problems arise when:
 
@@ -301,7 +301,7 @@ Most of the time this happens automatically. Problems arise when:
 * The referent appeared several sentences earlier.
 * The text introduces several people or objects at once.
 * The reader skimmed past a key detail.
-* Working memory is already heavily loaded by difficult material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oars.uos.ac.uk/1044/1/Stella___Engelhardt__2019__OARS_version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oars.uos.ac.uk">[OARS+2University of East Anglia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oars.uos.ac.uk</span><span class="citation-popover-title">OARSSyntactic ambiguity resolution in dyslexia</span><span class="citation-popover-snippet">November 22, 2019 — by M Stella · Cited by 21 — The role of working memory in reading comprehension is especially important in individual...</span><span class="citation-popover-meta">Published: November 22, 2019</span></span></span>
+* Working memory is already heavily loaded by difficult material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://oars.uos.ac.uk/1044/1/Stella___Engelhardt__2019__OARS_version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oars.uos.ac.uk">[OARS+2University of East Anglia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oars.uos.ac.uk</span><span class="citation-popover-title">OARSSyntactic ambiguity resolution in dyslexia</span><span class="citation-popover-snippet">November 22, 2019 — by M Stella · Cited by 21 — The role of working memory in reading comprehension is especially important in individual...</span><span class="citation-popover-meta">Published: November 22, 2019</span></span></span>
 
 When any of these conditions occur, a pronoun can become a bottleneck. The current sentence cannot be fully understood until the missing link is recovered.
 
@@ -322,7 +322,7 @@ If the reader assumes the wrong person approved the changes, every later stateme
 
 This is why pronoun confusion often feels different from ordinary uncertainty. The reader may notice that later sentences seem inconsistent, yet the actual problem began several lines earlier.
 
-[Eye-tracking]({{ 'eye-tracking/' | relative_url }}) research shows that readers spend more time processing text when pronoun interpretation becomes difficult and that reference resolution is sensitive to factors such as distance from the antecedent and competing candidates. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4073625/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Immediate sensitivity to structural constraints in pronoun...by WY Chow · 2014 · Cited by 99 — A previous eye-tracking study by Ehrli...</span></span></span>
+[Eye-tracking]({{ 'eye-tracking/' | relative_url }}) research shows that readers spend more time processing text when pronoun interpretation becomes difficult and that reference resolution is sensitive to factors such as distance from the antecedent and competing candidates.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4073625/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Immediate sensitivity to structural constraints in pronoun...by WY Chow · 2014 · Cited by 99 — A previous eye-tracking study by Ehrli...</span></span></span>
 
 In practical reading, this means that confusion about a pronoun often reveals itself indirectly through symptoms such as:
 
@@ -359,7 +359,7 @@ A useful regression might involve:
 
 </div>
 
-This targeted approach aligns with findings that [regressions]({{ 'lookbacks/' | relative_url }}) frequently support reanalysis and comprehension repair rather than representing random reading behaviour. Readers often move backwards when incoming information no longer fits their current interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2411-5150/3/3/35" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Several findings indicate that the...Read more...</span></span></span>
+This targeted approach aligns with findings that [regressions]({{ 'lookbacks/' | relative_url }}) frequently support reanalysis and comprehension repair rather than representing random reading behaviour. Readers often move backwards when incoming information no longer fits their current interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2411-5150/3/3/35" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Several findings indicate that the...Read more...</span></span></span>
 
 The key advantage is efficiency. Instead of restarting an entire section, the reader solves a specific problem.
 
@@ -423,194 +423,194 @@ The goal is not to eliminate regressions. The goal is to use them selectively. W
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When a Pronoun Is Worth Looking Back For. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When a Pronoun Is Worth Looking Back For. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Directly supports decisions about when to reread and when to continue.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Directly supports decisions about when to reread and when to continue.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Because+Internet+by+Gretchen+McCulloch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Because Internet on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xn2pDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Because Internet" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Because+Internet+by+Gretchen+McCulloch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Because Internet">Because Internet</a>
-        </h4>
-        <p class="fr-book-author">By Gretchen McCulloch</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Because+Internet+by+Gretchen+McCulloch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Because Internet on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xn2pDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Because Internet" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Because+Internet+by+Gretchen+McCulloch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Because Internet">Because Internet</a>
+</h4>
+<p class="fr-book-author">By Gretchen McCulloch</p>
         
-        <p class="fr-book-desc">Explores how meaning and reference are interpreted in real language use.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Because+Internet+by+Gretchen+McCulloch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how meaning and reference are interpreted in real language use.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Because+Internet+by+Gretchen+McCulloch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Language+Instinct+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Language Instinct on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1406725-M.jpg" alt="Cover for The Language Instinct" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Language+Instinct+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Language Instinct">The Language Instinct</a>
-        </h4>
-        <p class="fr-book-author">By Steven Pinker, Garikoitz Knörr de Santiago</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Language+Instinct+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Language Instinct on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1406725-M.jpg" alt="Cover for The Language Instinct" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Language+Instinct+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Language Instinct">The Language Instinct</a>
+</h4>
+<p class="fr-book-author">By Steven Pinker, Garikoitz Knörr de Santiago</p>
         
-        <p class="fr-book-desc">First published 1994. Subjects: Long Now Manual for Civilization, Biolinguistics, Language and languages, Psycholinguistcs, Philosophy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Language+Instinct+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1994. Subjects: Long Now Manual for Civilization, Biolinguistics, Language and languages, Psycholinguistcs, Philosophy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Language+Instinct+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Sense+of+Style+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Sense of Style on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7366712-M.jpg" alt="Cover for The Sense of Style" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Sense+of+Style+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sense of Style">The Sense of Style</a>
-        </h4>
-        <p class="fr-book-author">By Steven Pinker, José C. Vales</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Sense+of+Style+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Sense of Style on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7366712-M.jpg" alt="Cover for The Sense of Style" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Sense+of+Style+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sense of Style">The Sense of Style</a>
+</h4>
+<p class="fr-book-author">By Steven Pinker, José C. Vales</p>
         
-        <p class="fr-book-desc">First published 2014. Subjects: English language, writing style, grammar, Style, LANGUAGE ARTS &amp; DISCIPLINES / Style Manuals.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Sense+of+Style+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2014. Subjects: English language, writing style, grammar, Style, LANGUAGE ARTS &amp; DISCIPLINES / Style Manuals.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Sense+of+Style+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Because+Internet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Because Internet</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Language+Instinct&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Language Instinct</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Because+Internet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Because Internet</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Language+Instinct&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Language Instinct</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Back Memorabilia Medallion"><img src="{{ '/assets/images/marketplace-covers/5c96912b8cbddf427710.jpg' | relative_url }}" alt="Listing image for Back Memorabilia Medallion" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Back Memorabilia Medallion</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for back memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: back memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Back Memorabilia Medallion"><img src="{{ '/assets/images/marketplace-covers/5c96912b8cbddf427710.jpg' | relative_url }}" alt="Listing image for Back Memorabilia Medallion" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Back Memorabilia Medallion</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for back memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: back memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Back To The Future Signed Large A2 Framed Printed Autograph Memorabilia Gift"><img src="{{ '/assets/images/marketplace-covers/f84e8b64961ee9ce3ac2.jpg' | relative_url }}" alt="Listing image for Back To The Future Signed Large A2 Framed Printed Autograph Memorabilia Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Back To The Future Signed Large A2 Framed Printed Autograph Memorabilia Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for back memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: back memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Back To The Future Signed Large A2 Framed Printed Autograph Memorabilia Gift"><img src="{{ '/assets/images/marketplace-covers/f84e8b64961ee9ce3ac2.jpg' | relative_url }}" alt="Listing image for Back To The Future Signed Large A2 Framed Printed Autograph Memorabilia Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Back To The Future Signed Large A2 Framed Printed Autograph Memorabilia Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for back memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: back memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Back in Action Movie Poster Cast Signed Printed Autograph A3 Framed Memorabilia"><img src="{{ '/assets/images/marketplace-covers/a4aac07d181bf7403b78.jpg' | relative_url }}" alt="Listing image for Back in Action Movie Poster Cast Signed Printed Autograph A3 Framed Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Back in Action Movie Poster Cast Signed Printed Autograph A3 Framed Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for back memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: back memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Back in Action Movie Poster Cast Signed Printed Autograph A3 Framed Memorabilia"><img src="{{ '/assets/images/marketplace-covers/a4aac07d181bf7403b78.jpg' | relative_url }}" alt="Listing image for Back in Action Movie Poster Cast Signed Printed Autograph A3 Framed Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Back in Action Movie Poster Cast Signed Printed Autograph A3 Framed Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for back memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: back memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Back to the Future Movie Poster Signed Printed Autograph A3 Framed Memorabilia"><img src="{{ '/assets/images/marketplace-covers/20ab2faac554bd4e2515.jpg' | relative_url }}" alt="Listing image for Back to the Future Movie Poster Signed Printed Autograph A3 Framed Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Back to the Future Movie Poster Signed Printed Autograph A3 Framed Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for back memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: back memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Back to the Future Movie Poster Signed Printed Autograph A3 Framed Memorabilia"><img src="{{ '/assets/images/marketplace-covers/20ab2faac554bd4e2515.jpg' | relative_url }}" alt="Listing image for Back to the Future Movie Poster Signed Printed Autograph A3 Framed Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Back to the Future Movie Poster Signed Printed Autograph A3 Framed Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for back memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: back memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="pronoun-confusion-when-a-pronoun-is-worth-looking-back-for-increasing-back-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -626,7 +626,7 @@ The goal is not to eliminate regressions. The goal is to use them selectively. W
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -646,7 +646,7 @@ The goal is not to eliminate regressions. The goal is to use them selectively. W
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -678,7 +678,7 @@ The goal is not to eliminate regressions. The goal is to use them selectively. W
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -730,7 +730,7 @@ The goal is not to eliminate regressions. The goal is to use them selectively. W
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -775,7 +775,7 @@ The goal is not to eliminate regressions. The goal is to use them selectively. W
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -816,116 +816,116 @@ The goal is not to eliminate regressions. The goal is to use them selectively. W
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4073625/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4073625/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Immediate sensitivity to structural constraints in pronoun...by WY Chow · 2014 · Cited by 99 — A previous eye-tracking study by Ehrli...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4073625/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4073625/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Immediate sensitivity to structural constraints in pronoun...by WY Chow · 2014 · Cited by 99 — A previous eye-tracking study by Ehrli...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4477054/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4477054/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Structural constraints on pronoun binding and coreferenceby I Cunnings · 2015 · Cited by 45 — Anaphora resolution thus provides a key...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4477054/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4477054/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Structural constraints on pronoun binding and coreferenceby I Cunnings · 2015 · Cited by 45 — Anaphora resolution thus provides a key...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: oars.uos.ac.uk  
    Title: OARSSyntactic ambiguity resolution in dyslexia  
-   Link: <a href="https://oars.uos.ac.uk/1044/1/Stella___Engelhardt__2019__OARS_version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oars.uos.ac.uk/1044/1/Stella___Engelhardt__2019__OARS_version.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>November 22, 2019 — by M Stella · Cited by 21 — The role of working memory in reading comprehension is especially important in individual...</p></details>
+   Link:<a href="https://oars.uos.ac.uk/1044/1/Stella___Engelhardt__2019__OARS_version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oars.uos.ac.uk/1044/1/Stella___Engelhardt__2019__OARS_version.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>November 22, 2019 — by M Stella · Cited by 21 — The role of working memory in reading comprehension is especially important in individual...</p></details>
    Published: November 22, 2019  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2411-5150/3/3/35" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2411-5150/3/3/35</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Several findings indicate that the...Read more...</p></details>
+   Link:<a href="https://www.mdpi.com/2411-5150/3/3/35" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2411-5150/3/3/35</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Several findings indicate that the...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/01690965.2013.804941" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/01690965.2013.804941</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding reference is therefore essential...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/abs/10.1080/01690965.2013.804941" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/01690965.2013.804941</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding reference is therefore essential...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: research-portal.uea.ac.uk  
    Title: cepted Manuscript  
-   Link: <a href="https://research-portal.uea.ac.uk/files/153710193/Accepted_Manuscript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research-portal.uea.ac.uk/files/153710193/Accepted_Manuscript.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>University of East AngliaSENTENCE PROCESSING IN DYSLEXIA Syntactic...by M Stella · 2019 · Cited by 21 — The role of working memory in re...</p></details>
+   Link:<a href="https://research-portal.uea.ac.uk/files/153710193/Accepted_Manuscript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research-portal.uea.ac.uk/files/153710193/Accepted_Manuscript.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of East AngliaSENTENCE PROCESSING IN DYSLEXIA Syntactic...by M Stella · 2019 · Cited by 21 — The role of working memory in re...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/23273798.2016.1155718" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/23273798.2016.1155718</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This raises the question whether the processing of an object...Read mor...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/23273798.2016.1155718" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/23273798.2016.1155718</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This raises the question whether the processing of an object...Read mor...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5290069/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5290069/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by A Koornneef · 2016 · Cited by 30 — Abstract. In an eye-tracking experiment we examined the risky reading hypothesis, in which long...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5290069/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5290069/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by A Koornneef · 2016 · Cited by 30 — Abstract. In an eye-tracking experiment we examined the risky reading hypothesis, in which long...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4384810/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4384810/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Memory and the Revision of Syntactic and Discourse...by WS Evans · 2014 · Cited by 20 — The results provide evidence that working memory...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4384810/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4384810/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Memory and the Revision of Syntactic and Discourse...by WS Evans · 2014 · Cited by 20 — The results provide evidence that working memory...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: mysitasi.mohe.gov.my  
-   Link: <a href="https://mysitasi.mohe.gov.my/journal-website/get-meta-article?artId=8d97d481-6134-11ef-a699-005056a6a970&amp;env=web&amp;jnlId=dfa203b6-5f76-11ef-a699-005056a6a970&amp;template=_ARTICLE" target="_blank" rel="noopener noreferrer nofollow">https://mysitasi.mohe.gov.my/journal-website/get-meta-article?artId=8d97d481-6134-11ef-a699-005056a6a970&amp;env=web&amp;jnlId=dfa203b6-5f76-11ef-a699-005056a6a970&amp;template=_ARTICLE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>resolution in reading among Malaysian L2...In this study, eye tracking was utilized to investigate online reading behaviour and comprehe...</p></details>
+   Link:<a href="https://mysitasi.mohe.gov.my/journal-website/get-meta-article?artId=8d97d481-6134-11ef-a699-005056a6a970&amp;env=web&amp;jnlId=dfa203b6-5f76-11ef-a699-005056a6a970&amp;template=_ARTICLE" target="_blank" rel="noopener noreferrer nofollow">https://mysitasi.mohe.gov.my/journal-website/get-meta-article?artId=8d97d481-6134-11ef-a699-005056a6a970&amp;env=web&amp;jnlId=dfa203b6-5f76-11ef-a699-005056a6a970&amp;template=_ARTICLE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>resolution in reading among Malaysian L2...In this study, eye tracking was utilized to investigate online reading behaviour and comprehe...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: iris.unive.it  
    Title: Encapsulación Journal of Pragmatics  
-   Link: <a href="https://iris.unive.it/bitstream/10278/3763788/1/Encapsulaci%C3%B3n_Journal%20of%20Pragmatics.pdf" target="_blank" rel="noopener noreferrer nofollow">https://iris.unive.it/bitstream/10278/3763788/1/Encapsulaci%C3%B3n_Journal%20of%20Pragmatics.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>movements as a reflection of anaphoric encapsulation...by G Parodi · 2018 · Cited by 24 — [Eye movements](&amp;#123;&amp;#123; &#x27;eye-tradeoff/&#x27; | relative_url &amp;#125;&amp;#125;) constitute an important cue to u...</p></details>
+   Link:<a href="https://iris.unive.it/bitstream/10278/3763788/1/Encapsulaci%C3%B3n_Journal%20of%20Pragmatics.pdf" target="_blank" rel="noopener noreferrer nofollow">https://iris.unive.it/bitstream/10278/3763788/1/Encapsulaci%C3%B3n_Journal%20of%20Pragmatics.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>movements as a reflection of anaphoric encapsulation...by G Parodi · 2018 · Cited by 24 — [Eye movements](&amp;#123;&amp;#123; &#x27;eye-tradeoff/&#x27; | relative_url &amp;#125;&amp;#125;) constitute an important cue to u...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5405257" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5405257</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eye Movements in Reading Go from Easy to...by AT Lopes Rego — One prevailing hypothesis is that regressions reflect comprehension proces...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5405257" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5405257</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eye Movements in Reading Go from Easy to...by AT Lopes Rego — One prevailing hypothesis is that regressions reflect comprehension proces...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=RSuwy-rioYc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RSuwy-rioYc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Avoiding ambiguous pronouns in your writingHello. In this video I consider how to avoid ambiguous pronouns when writing your novels, scre...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=RSuwy-rioYc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RSuwy-rioYc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Avoiding ambiguous pronouns in your writingHello. In this video I consider how to avoid ambiguous pronouns when writing your novels, scre...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/10342955/Eye_Tracking_as_a_Tool_to_Investigate_the_Comprehension_of_Referential_Expressions" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/10342955/Eye_Tracking_as_a_Tool_to_Investigate_the_Comprehension_of_Referential_Expressions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s are immediately followed by increased fixations on the corresponding referent in...Read more...</p></details>
+   Link:<a href="https://www.academia.edu/10342955/Eye_Tracking_as_a_Tool_to_Investigate_the_Comprehension_of_Referential_Expressions" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/10342955/Eye_Tracking_as_a_Tool_to_Investigate_the_Comprehension_of_Referential_Expressions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s are immediately followed by increased fixations on the corresponding referent in...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ora.ox.ac.uk  
-   Link: <a href="https://ora.ox.ac.uk/objects/uuid%3Aa16f42e2-529d-47ae-ba51-50b75dd43899/files/rkh04dp70d" target="_blank" rel="noopener noreferrer nofollow">https://ora.ox.ac.uk/objects/uuid%3Aa16f42e2-529d-47ae-ba51-50b75dd43899/files/rkh04dp70d</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>monitoring during reading: an eye-tracking...by AK Hessel · 2020 · Cited by 51 — This experiment investigated comprehension monitoring i...</p></details>
+   Link:<a href="https://ora.ox.ac.uk/objects/uuid%3Aa16f42e2-529d-47ae-ba51-50b75dd43899/files/rkh04dp70d" target="_blank" rel="noopener noreferrer nofollow">https://ora.ox.ac.uk/objects/uuid%3Aa16f42e2-529d-47ae-ba51-50b75dd43899/files/rkh04dp70d</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>monitoring during reading: an eye-tracking...by AK Hessel · 2020 · Cited by 51 — This experiment investigated comprehension monitoring i...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/279547940_Linking_eye_movements_to_sentence_comprehension_in_reading_and_listening" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/279547940_Linking_eye_movements_to_sentence_comprehension_in_reading_and_listening</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ing readers to investigate how they process narrative and expository texts...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/279547940_Linking_eye_movements_to_sentence_comprehension_in_reading_and_listening" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/279547940_Linking_eye_movements_to_sentence_comprehension_in_reading_and_listening</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ing readers to investigate how they process narrative and expository texts...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/12496101_The_rapid_use_of_gender_information_Evidence_of_the_time_course_of_pronoun_resolution_from_eyetracking" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/12496101_The_rapid_use_of_gender_information_Evidence_of_the_time_course_of_pronoun_resolution_from_eyetracking</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and accessibility influence the initial processes of pronoun interpretation.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/12496101_The_rapid_use_of_gender_information_Evidence_of_the_time_course_of_pronoun_resolution_from_eyetracking" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/12496101_The_rapid_use_of_gender_information_Evidence_of_the_time_course_of_pronoun_resolution_from_eyetracking</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and accessibility influence the initial processes of pronoun interpretation.Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: research-portal.uu.nl  
    Title: nl Can We 'Read' the Eye-Movement Patterns of Readers?  
-   Link: <a href="https://research-portal.uu.nl/ws/files/20501567/Patterns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research-portal.uu.nl/ws/files/20501567/Patterns.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We &#x27;Read&#x27; the Eye-Movement Patterns of Readers?Abstract In an eye-tracking experiment we examined the risky reading hypothesis, in which...</p></details>
+   Link:<a href="https://research-portal.uu.nl/ws/files/20501567/Patterns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research-portal.uu.nl/ws/files/20501567/Patterns.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We &#x27;Read&#x27; the Eye-Movement Patterns of Readers?Abstract In an eye-tracking experiment we examined the risky reading hypothesis, in which...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: centaur.reading.ac.uk  
    Title: Cunnings Bilingual Sentence Processing  
-   Link: <a href="https://centaur.reading.ac.uk/65915/1/Cunnings%20-%20Bilingual%20Sentence%20Processing.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centaur.reading.ac.uk/65915/1/Cunnings%20-%20Bilingual%20Sentence%20Processing.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and working memory in bilingual sentence processingby I Cunnings · 2016 · Cited by 305 — Below I first provide an outline of different ac...</p></details>
+   Link:<a href="https://centaur.reading.ac.uk/65915/1/Cunnings%20-%20Bilingual%20Sentence%20Processing.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centaur.reading.ac.uk/65915/1/Cunnings%20-%20Bilingual%20Sentence%20Processing.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and working memory in bilingual sentence processingby I Cunnings · 2016 · Cited by 305 — Below I first provide an outline of different ac...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: publishup.uni-potsdam.de  
    Title: dean eye tracking study  
-   Link: <a href="https://publishup.uni-potsdam.de/files/52714/eilers_diss.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publishup.uni-potsdam.de/files/52714/eilers_diss.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>eye tracking study - publish.UP1 Nov 2021 — Personal pronouns (he/she) in particular need to be resolved towards an appropriate anteceden...</p></details>
+   Link:<a href="https://publishup.uni-potsdam.de/files/52714/eilers_diss.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publishup.uni-potsdam.de/files/52714/eilers_diss.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>eye tracking study - publish.UP1 Nov 2021 — Personal pronouns (he/she) in particular need to be resolved towards an appropriate anteceden...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: escholarship.org  
-   Link: <a href="https://escholarship.org/content/qt5f1349m6/qt5f1349m6_noSplash_bc95788cf9a7c76b007c58cf7a222901.pdf?t=sgpxj3" target="_blank" rel="noopener noreferrer nofollow">https://escholarship.org/content/qt5f1349m6/qt5f1349m6_noSplash_bc95788cf9a7c76b007c58cf7a222901.pdf?t=sgpxj3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the time course of pronoun comprehensionIndeed, it has been shown that linguistically ambiguous pronouns do take longer to comprehend tha...</p></details>
+   Link:<a href="https://escholarship.org/content/qt5f1349m6/qt5f1349m6_noSplash_bc95788cf9a7c76b007c58cf7a222901.pdf?t=sgpxj3" target="_blank" rel="noopener noreferrer nofollow">https://escholarship.org/content/qt5f1349m6/qt5f1349m6_noSplash_bc95788cf9a7c76b007c58cf7a222901.pdf?t=sgpxj3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the time course of pronoun comprehensionIndeed, it has been shown that linguistically ambiguous pronouns do take longer to comprehend tha...</p></details>

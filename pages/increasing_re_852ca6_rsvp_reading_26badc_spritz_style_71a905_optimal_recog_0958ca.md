@@ -269,7 +269,7 @@ image: /assets/images/increasing_re_852ca6_rsvp_reading_26badc_spritz_style_71a9
 
 ## Introduction
 
-[Spritz-style]({{ 'app-tradeoffs/' | relative_url }}) [reading apps]({{ 'reading-apps/' | relative_url }}) often highlight a single letter within each word, calling it the “Optimal Recognition Point” (ORP). The idea is appealing: if every word is aligned so that the eye lands on the most informative position, recognition should become faster and smoother. There is some scientific basis behind the claim. Reading researchers have long known that certain fixation locations inside words are better than others for rapid recognition. However, the leap from that finding to the broader promise of dramatically improved reading is much less certain. The highlighted letter may reduce a small amount of visual positioning effort, but it does not solve the larger limitations of Rapid Serial Visual Presentation (RSVP), such as the loss of preview, rereading and self-paced control. Research on reading suggests that these broader factors matter far more for real-world comprehension than the precise location of a fixation within a single word. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tsw.it/wp-content/uploads/Rapid-serial-visual-presentation-in-reading-The-case-of-Spritz-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tsw.it">[TSW+2faculty.cas.usf.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tsw.it</span><span class="citation-popover-title">Rapid serial visual presentation in reading The case of Spritz 1</span><span class="citation-popover-snippet">Spritz lies in the combination of a single-word stationary RSVP with the Optimal Recognition Point (ORP) also known as Optimal. Viewing...</span></span></span>
+[Spritz-style]({{ 'app-tradeoffs/' | relative_url }}) [reading apps]({{ 'reading-apps/' | relative_url }}) often highlight a single letter within each word, calling it the “Optimal Recognition Point” (ORP). The idea is appealing: if every word is aligned so that the eye lands on the most informative position, recognition should become faster and smoother. There is some scientific basis behind the claim. Reading researchers have long known that certain fixation locations inside words are better than others for rapid recognition. However, the leap from that finding to the broader promise of dramatically improved reading is much less certain. The highlighted letter may reduce a small amount of visual positioning effort, but it does not solve the larger limitations of Rapid Serial Visual Presentation (RSVP), such as the loss of preview, rereading and self-paced control. Research on reading suggests that these broader factors matter far more for real-world comprehension than the precise location of a fixation within a single word.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tsw.it/wp-content/uploads/Rapid-serial-visual-presentation-in-reading-The-case-of-Spritz-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tsw.it">[TSW+2faculty.cas.usf.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tsw.it</span><span class="citation-popover-title">Rapid serial visual presentation in reading The case of Spritz 1</span><span class="citation-popover-snippet">Spritz lies in the combination of a single-word stationary RSVP with the Optimal Recognition Point (ORP) also known as Optimal. Viewing...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_rsvp_reading_26badc_spritz_style_71a905_optimal_recog_0958ca-Illustration-1-dark.svg" | relative_url }}" alt="Word Highlight illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_rsvp_reading_26badc_spritz_style_71a905_optimal_recog_0958ca-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_rsvp_reading_26badc_spritz_style_71a905_optimal_recog_0958ca-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -277,9 +277,9 @@ image: /assets/images/increasing_re_852ca6_rsvp_reading_26badc_spritz_style_71a9
 
 ### What optimal recognition point highlighting claims
 
-Spritz popularised the argument that readers spend substantial effort locating the best viewing position within each word. To address this, the system displays one word at a time and highlights a specific letter, usually slightly left of centre, while aligning that position across successive words. Company descriptions and early media coverage presented this as a key innovation that would allow readers to process words more efficiently and maintain higher reading speeds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/Lifestyle/speed-reading-technology-read-90-minutes/story?id=22819573" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News+2jhenderson.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC NewsSpritz Speed Reading App Promises You Can...Mar 7, 2014 — The program streams one word at a time, highlighting the “Optimal Reco...</span></span></span>
+Spritz popularised the argument that readers spend substantial effort locating the best viewing position within each word. To address this, the system displays one word at a time and highlights a specific letter, usually slightly left of centre, while aligning that position across successive words. Company descriptions and early media coverage presented this as a key innovation that would allow readers to process words more efficiently and maintain higher reading speeds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/Lifestyle/speed-reading-technology-read-90-minutes/story?id=22819573" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News+2jhenderson.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">ABC NewsSpritz Speed Reading App Promises You Can...Mar 7, 2014 — The program streams one word at a time, highlighting the “Optimal Reco...</span></span></span>
 
-The claim did not emerge from nowhere. [Eye-movement]({{ 'eye-tradeoff/' | relative_url }}) research has identified what is often called an optimal viewing location or preferred viewing location within words. Readers generally recognise words most efficiently when fixation falls somewhat left of the word's centre rather than at its extreme beginning or end. Spritz's ORP concept is closely related to this established finding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tsw.it/wp-content/uploads/Rapid-serial-visual-presentation-in-reading-The-case-of-Spritz-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tsw.it">[TSW+2jhenderson.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tsw.it</span><span class="citation-popover-title">Rapid serial visual presentation in reading The case of Spritz 1</span><span class="citation-popover-snippet">Spritz lies in the combination of a single-word stationary RSVP with the Optimal Recognition Point (ORP) also known as Optimal. Viewing...</span></span></span>
+The claim did not emerge from nowhere. [Eye-movement]({{ 'eye-tradeoff/' | relative_url }}) research has identified what is often called an optimal viewing location or preferred viewing location within words. Readers generally recognise words most efficiently when fixation falls somewhat left of the word's centre rather than at its extreme beginning or end. Spritz's ORP concept is closely related to this established finding.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tsw.it/wp-content/uploads/Rapid-serial-visual-presentation-in-reading-The-case-of-Spritz-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tsw.it">[TSW+2jhenderson.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tsw.it</span><span class="citation-popover-title">Rapid serial visual presentation in reading The case of Spritz 1</span><span class="citation-popover-snippet">Spritz lies in the combination of a single-word stationary RSVP with the Optimal Recognition Point (ORP) also known as Optimal. Viewing...</span></span></span>
 
 In other words, the highlighted letter is not pseudoscience. It is based on a real observation about how visual word recognition works. The more important question is how much practical benefit this observation provides once reading is reduced to a stream of isolated words.
 
@@ -288,9 +288,9 @@ In other words, the highlighted letter is not pseudoscience. It is based on a re
 
 ### A genuine effect, but probably a modest one
 
-The strongest evidence supports a narrow conclusion: aligning words around an optimal fixation location can reduce some visual effort involved in finding where to look. If the eyes do not need to reposition for each word, recognition may become slightly more efficient. Researchers studying Spritz have described the ORP as the technique's main novelty compared with older RSVP systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tsw.it/wp-content/uploads/Rapid-serial-visual-presentation-in-reading-The-case-of-Spritz-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tsw.it">[TSW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tsw.it</span><span class="citation-popover-title">Rapid serial visual presentation in reading The case of Spritz 1</span><span class="citation-popover-snippet">Spritz lies in the combination of a single-word stationary RSVP with the Optimal Recognition Point (ORP) also known as Optimal. Viewing...</span></span></span>
+The strongest evidence supports a narrow conclusion: aligning words around an optimal fixation location can reduce some visual effort involved in finding where to look. If the eyes do not need to reposition for each word, recognition may become slightly more efficient. Researchers studying Spritz have described the ORP as the technique's main novelty compared with older RSVP systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tsw.it/wp-content/uploads/Rapid-serial-visual-presentation-in-reading-The-case-of-Spritz-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tsw.it">[TSW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tsw.it</span><span class="citation-popover-title">Rapid serial visual presentation in reading The case of Spritz 1</span><span class="citation-popover-snippet">Spritz lies in the combination of a single-word stationary RSVP with the Optimal Recognition Point (ORP) also known as Optimal. Viewing...</span></span></span>
 
-What is less clear is whether that advantage is large enough to transform reading performance. Even supporters of ORP-style designs generally describe the benefit as reducing the work of locating the fixation point, not as removing the fundamental cognitive demands of language comprehension. Reading is not limited solely by recognising individual words. Readers must integrate meanings across [phrases]({{ 'phrases/' | relative_url }}), sentences and larger ideas. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://faculty.cas.usf.edu/eschotter/papers/Rayner_Schotter_Masson_Potter_Treiman_2016_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faculty.cas.usf.edu">[faculty.cas.usf.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faculty.cas.usf.edu</span><span class="citation-popover-snippet">How Do We Read, and Can Speed Reading Help?by K Rayner · 2016 · Cited by 537 — We will then consider the research on RSVP, the procedure...</span></span></span>
+What is less clear is whether that advantage is large enough to transform reading performance. Even supporters of ORP-style designs generally describe the benefit as reducing the work of locating the fixation point, not as removing the fundamental cognitive demands of language comprehension. Reading is not limited solely by recognising individual words. Readers must integrate meanings across [phrases]({{ 'phrases/' | relative_url }}), sentences and larger ideas.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://faculty.cas.usf.edu/eschotter/papers/Rayner_Schotter_Masson_Potter_Treiman_2016_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faculty.cas.usf.edu">[faculty.cas.usf.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faculty.cas.usf.edu</span><span class="citation-popover-snippet">How Do We Read, and Can Speed Reading Help?by K Rayner · 2016 · Cited by 537 — We will then consider the research on RSVP, the procedure...</span></span></span>
 
 This distinction matters because a technique can improve word recognition while having little effect on deeper understanding. A reader may feel that text flows more smoothly while still encountering the same bottlenecks in comprehension and memory.
 
@@ -306,14 +306,14 @@ The highlighted letter addresses one very specific problem: where the eye should
 * Providing a stable visual anchor from word to word.
 * Reducing the need to locate a fixation position repeatedly.
 * Making rapid word streams feel smoother and less visually jittery.
-* Improving usability on very small screens where conventional layouts are difficult. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tsw.it/wp-content/uploads/Rapid-serial-visual-presentation-in-reading-The-case-of-Spritz-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tsw.it">[TSW+2MPG.PuRe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tsw.it</span><span class="citation-popover-title">Rapid serial visual presentation in reading The case of Spritz 1</span><span class="citation-popover-snippet">Spritz lies in the combination of a single-word stationary RSVP with the Optimal Recognition Point (ORP) also known as Optimal. Viewing...</span></span></span>
+* Improving usability on very small screens where conventional layouts are difficult.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tsw.it/wp-content/uploads/Rapid-serial-visual-presentation-in-reading-The-case-of-Spritz-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tsw.it">[TSW+2MPG.PuRe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tsw.it</span><span class="citation-popover-title">Rapid serial visual presentation in reading The case of Spritz 1</span><span class="citation-popover-snippet">Spritz lies in the combination of a single-word stationary RSVP with the Optimal Recognition Point (ORP) also known as Optimal. Viewing...</span></span></span>
 
 **What ORP highlighting cannot solve:**
 
 * The absence of parafoveal preview, where readers gather information from upcoming words before directly looking at them.
 * The inability to glance backwards quickly when meaning becomes unclear.
 * The loss of flexible pacing for difficult or unfamiliar passages.
-* The cognitive load involved in combining words into larger ideas and retaining them in memory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://faculty.cas.usf.edu/eschotter/papers/Rayner_Schotter_Masson_Potter_Treiman_2016_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faculty.cas.usf.edu">[CORE+3faculty.cas.usf.edu+3PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faculty.cas.usf.edu</span><span class="citation-popover-snippet">How Do We Read, and Can Speed Reading Help?by K Rayner · 2016 · Cited by 537 — We will then consider the research on RSVP, the procedure...</span></span></span>
+* The cognitive load involved in combining words into larger ideas and retaining them in memory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://faculty.cas.usf.edu/eschotter/papers/Rayner_Schotter_Masson_Potter_Treiman_2016_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faculty.cas.usf.edu">[CORE+3faculty.cas.usf.edu+3PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faculty.cas.usf.edu</span><span class="citation-popover-snippet">How Do We Read, and Can Speed Reading Help?by K Rayner · 2016 · Cited by 537 — We will then consider the research on RSVP, the procedure...</span></span></span>
 
 This [limitation]({{ 'reading-limits/' | relative_url }}) is central to the debate around Spritz-style systems. Even if every word is presented at its ideal recognition point, the reader still receives only a narrow stream of information. The highlighted letter cannot recreate the rich visual context available on a normal page.
 
@@ -325,7 +325,7 @@ A useful analogy is navigation. Better road signs can make driving smoother, but
 
 One reason ORP attracts attention is that its effect is highly visible. Users can immediately see the highlighted character and the alignment of successive words. By contrast, many of the benefits of ordinary reading—previewing upcoming text, adjusting pace automatically and making quick [regressions]({{ 'lookbacks/' | relative_url }})—operate largely outside conscious awareness.
 
-This difference can create a mismatch between subjective experience and objective performance. A reader may feel unusually fast because words are arriving rapidly and smoothly. Yet comprehension tests often reveal the familiar trade-off between reading faster and understanding less. Reviews of [speed-reading]({{ 'myths/' | relative_url }}) research consistently conclude that reading speed cannot be increased dramatically without consequences for comprehension, particularly for demanding material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://faculty.cas.usf.edu/eschotter/papers/Rayner_Schotter_Masson_Potter_Treiman_2016_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faculty.cas.usf.edu">[faculty.cas.usf.edu+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faculty.cas.usf.edu</span><span class="citation-popover-snippet">How Do We Read, and Can Speed Reading Help?by K Rayner · 2016 · Cited by 537 — We will then consider the research on RSVP, the procedure...</span></span></span>
+This difference can create a mismatch between subjective experience and objective performance. A reader may feel unusually fast because words are arriving rapidly and smoothly. Yet comprehension tests often reveal the familiar trade-off between reading faster and understanding less. Reviews of [speed-reading]({{ 'myths/' | relative_url }}) research consistently conclude that reading speed cannot be increased dramatically without consequences for comprehension, particularly for demanding material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://faculty.cas.usf.edu/eschotter/papers/Rayner_Schotter_Masson_Potter_Treiman_2016_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faculty.cas.usf.edu">[faculty.cas.usf.edu+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faculty.cas.usf.edu</span><span class="citation-popover-snippet">How Do We Read, and Can Speed Reading Help?by K Rayner · 2016 · Cited by 537 — We will then consider the research on RSVP, the procedure...</span></span></span>
 
 The highlighted letter may therefore contribute to a stronger feeling of efficiency than to a large increase in overall reading effectiveness. That does not make the feature useless, but it suggests caution when evaluating marketing claims.
 
@@ -335,7 +335,7 @@ The highlighted letter may therefore contribute to a stronger feeling of efficie
 
 The best way to evaluate ORP highlighting is to separate comfort from comprehension.
 
-If a highlighted recognition point helps you stay focused, reduces visual fatigue or makes short-form reading on a phone easier, it may provide genuine value. For brief articles, notifications or situations where screen space is limited, the feature can improve the RSVP experience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pure.mpg.de/rest/items/item_2567078_1/component/file_2567077/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.mpg.de">[MPG.PuRe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.mpg.de</span><span class="citation-popover-snippet">Reading on a Smart Watchby E Gannon · 2016 · Cited by 14 — Reading with Rapid Serial Visual Presentation (RSVP) has shown promise for opt...</span></span></span>
+If a highlighted recognition point helps you stay focused, reduces visual fatigue or makes short-form reading on a phone easier, it may provide genuine value. For brief articles, notifications or situations where screen space is limited, the feature can improve the RSVP experience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pure.mpg.de/rest/items/item_2567078_1/component/file_2567077/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.mpg.de">[MPG.PuRe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.mpg.de</span><span class="citation-popover-snippet">Reading on a Smart Watchby E Gannon · 2016 · Cited by 14 — Reading with Rapid Serial Visual Presentation (RSVP) has shown promise for opt...</span></span></span>
 
 For longer or more complex texts, however, ask different questions:
 
@@ -351,201 +351,201 @@ For longer or more complex texts, however, ask different questions:
 
 These outcomes matter more than whether the words appeared smooth on screen. A highlighted recognition point can assist word presentation, but it cannot restore the contextual information and flexibility that normal reading provides.
 
-The evidence therefore points to a balanced conclusion. ORP highlighting is grounded in a real principle of visual word recognition and may offer a modest ergonomic benefit. What it does not do is remove the deeper cognitive limits that govern how quickly people can understand, integrate and remember written language. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tsw.it/wp-content/uploads/Rapid-serial-visual-presentation-in-reading-The-case-of-Spritz-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tsw.it">[PubMed+3TSW+3jhenderson.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tsw.it</span><span class="citation-popover-title">Rapid serial visual presentation in reading The case of Spritz 1</span><span class="citation-popover-snippet">Spritz lies in the combination of a single-word stationary RSVP with the Optimal Recognition Point (ORP) also known as Optimal. Viewing...</span></span></span>
+The evidence therefore points to a balanced conclusion. ORP highlighting is grounded in a real principle of visual word recognition and may offer a modest ergonomic benefit. What it does not do is remove the deeper cognitive limits that govern how quickly people can understand, integrate and remember written language.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tsw.it/wp-content/uploads/Rapid-serial-visual-presentation-in-reading-The-case-of-Spritz-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tsw.it">[PubMed+3TSW+3jhenderson.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tsw.it</span><span class="citation-popover-title">Rapid serial visual presentation in reading The case of Spritz 1</span><span class="citation-popover-snippet">Spritz lies in the combination of a single-word stationary RSVP with the Optimal Recognition Point (ORP) also known as Optimal. Viewing...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sYIDxH9KBaE" title="Spritz: Teaching the world to speed read" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sYIDxH9KBaE" target="_blank" rel="noopener noreferrer">Spritz: Teaching the world to speed read</a></p><p class="youtube-embed-meta">Channel: CBS News &middot; Views: 1.4K &middot; Uploaded: March 2014 &middot; Length: 1 minute 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sYIDxH9KBaE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sYIDxH9KBaE">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Does the highlighted letter really help?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Does the highlighted letter really help?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Focuses on effective reading and comprehension, offering a practical counterpoint to speed-focused reading technologies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Focuses on effective reading and comprehension, offering a practical counterpoint to speed-focused reading technologies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Proust+and+the+squid+%3A+the+story+and+science+of+the+reading+brain+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Proust and the squid : the story and science of the reading brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6370342-M.jpg" alt="Cover for Proust and the squid : the story and science of the reading brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Proust+and+the+squid+%3A+the+story+and+science+of+the+reading+brain+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Proust and the squid : the story and science of the reading brain">Proust and the squid : the story and science of the reading b...</a>
-        </h4>
-        <p class="fr-book-author">By Maryanne Wolf</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Proust+and+the+squid+%3A+the+story+and+science+of+the+reading+brain+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Proust and the squid : the story and science of the reading brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6370342-M.jpg" alt="Cover for Proust and the squid : the story and science of the reading brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Proust+and+the+squid+%3A+the+story+and+science+of+the+reading+brain+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Proust and the squid : the story and science of the reading brain">Proust and the squid : the story and science of the reading b...</a>
+</h4>
+<p class="fr-book-author">By Maryanne Wolf</p>
         
-        <p class="fr-book-desc">First published 2008. Subjects: Brain, Evolution, Neurophysiology, Reading comprehension, Reading.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Proust+and+the+squid+%3A+the+story+and+science+of+the+reading+brain+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2008. Subjects: Brain, Evolution, Neurophysiology, Reading comprehension, Reading.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Proust+and+the+squid+%3A+the+story+and+science+of+the+reading+brain+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading in the Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6649793-M.jpg" alt="Cover for Reading in the Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading in the Brain">Reading in the Brain</a>
-        </h4>
-        <p class="fr-book-author">By Stanislas Dehaene</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading in the Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6649793-M.jpg" alt="Cover for Reading in the Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading in the Brain">Reading in the Brain</a>
+</h4>
+<p class="fr-book-author">By Stanislas Dehaene</p>
         
-        <p class="fr-book-desc">First published 2009. Subjects: Science, Nonfiction, Psychology, Psychology of Reading, Reading.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2009. Subjects: Science, Nonfiction, Psychology, Psychology of Reading, Reading.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Remember+Lisa+Genova&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Remember on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10529135-M.jpg" alt="Cover for Remember" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Remember+Lisa+Genova&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Remember">Remember</a>
-        </h4>
-        <p class="fr-book-author">By Lisa Genova</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Remember+Lisa+Genova&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Remember on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10529135-M.jpg" alt="Cover for Remember" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Remember+Lisa+Genova&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Remember">Remember</a>
+</h4>
+<p class="fr-book-author">By Lisa Genova</p>
         
-        <p class="fr-book-desc">First published 2021. Subjects: nyt:combined-print-and-e-book-nonfiction=2021-04-11, New York Times bestseller, Memory, Cognition, Human...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Remember+Lisa+Genova&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2021. Subjects: nyt:combined-print-and-e-book-nonfiction=2021-04-11, New York Times bestseller, Memory, Cognition, Human...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Remember+Lisa+Genova&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Proust+and+the+squid+%3A+the+story+and+science+of+the+reading+brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Proust and the squid : the story and science of the reading brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Reading+in+the+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Reading in the Brain</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Proust+and+the+squid+%3A+the+story+and+science+of+the+reading+brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Proust and the squid : the story and science of the reading brain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Reading+in+the+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Reading in the Brain</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=apps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="apps poster -book -books -dvd" data-ebay-reference="word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Adobe Apps Team Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/8681c8526d7b3bc65625.jpg' | relative_url }}" alt="Listing image for Adobe Apps Team Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=apps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="apps poster -book -books -dvd" data-ebay-reference="word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Adobe Apps Team Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=apps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="apps poster -book -books -dvd" data-ebay-reference="word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for apps poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: apps poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=apps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="apps poster -book -books -dvd" data-ebay-reference="word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=apps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="apps poster -book -books -dvd" data-ebay-reference="word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Adobe Apps Team Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/8681c8526d7b3bc65625.jpg' | relative_url }}" alt="Listing image for Adobe Apps Team Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=apps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="apps poster -book -books -dvd" data-ebay-reference="word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Adobe Apps Team Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=apps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="apps poster -book -books -dvd" data-ebay-reference="word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for apps poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: apps poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=apps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="apps poster -book -books -dvd" data-ebay-reference="word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=apps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="apps poster -book -books -dvd" data-ebay-reference="word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Peace Corps Apps Showcase Poster - Innovation Event 📱 - 16x24” - Premium Matte"><img src="{{ '/assets/images/marketplace-covers/e6bbb7dd0fa22faa687f.jpg' | relative_url }}" alt="Listing image for Peace Corps Apps Showcase Poster - Innovation Event 📱 - 16x24” - Premium Matte" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=apps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="apps poster -book -books -dvd" data-ebay-reference="word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Peace Corps Apps Showcase Poster - Innovation Event 📱 - 16x24” - Premium Matte</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=apps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="apps poster -book -books -dvd" data-ebay-reference="word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for apps poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: apps poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=apps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="apps poster -book -books -dvd" data-ebay-reference="word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=apps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="apps poster -book -books -dvd" data-ebay-reference="word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Peace Corps Apps Showcase Poster - Innovation Event 📱 - 16x24” - Premium Matte"><img src="{{ '/assets/images/marketplace-covers/e6bbb7dd0fa22faa687f.jpg' | relative_url }}" alt="Listing image for Peace Corps Apps Showcase Poster - Innovation Event 📱 - 16x24” - Premium Matte" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=apps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="apps poster -book -books -dvd" data-ebay-reference="word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Peace Corps Apps Showcase Poster - Innovation Event 📱 - 16x24” - Premium Matte</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=apps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="apps poster -book -books -dvd" data-ebay-reference="word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for apps poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: apps poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=apps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="apps poster -book -books -dvd" data-ebay-reference="word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=apps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="apps poster -book -books -dvd" data-ebay-reference="word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 📱 Peace Corps Apps Showcase Poster - 2020s Retro Tech Event Decor - 24x36”"><img src="{{ '/assets/images/marketplace-covers/22578fa88a0739593687.jpg' | relative_url }}" alt="Listing image for 📱 Peace Corps Apps Showcase Poster - 2020s Retro Tech Event Decor - 24x36”" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=apps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="apps poster -book -books -dvd" data-ebay-reference="word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">📱 Peace Corps Apps Showcase Poster - 2020s Retro Tech Event Decor - 24x36”</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=apps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="apps poster -book -books -dvd" data-ebay-reference="word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for apps poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: apps poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=apps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="apps poster -book -books -dvd" data-ebay-reference="word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=apps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="apps poster -book -books -dvd" data-ebay-reference="word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 📱 Peace Corps Apps Showcase Poster - 2020s Retro Tech Event Decor - 24x36”"><img src="{{ '/assets/images/marketplace-covers/22578fa88a0739593687.jpg' | relative_url }}" alt="Listing image for 📱 Peace Corps Apps Showcase Poster - 2020s Retro Tech Event Decor - 24x36”" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=apps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="apps poster -book -books -dvd" data-ebay-reference="word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">📱 Peace Corps Apps Showcase Poster - 2020s Retro Tech Event Decor - 24x36”</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=apps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="apps poster -book -books -dvd" data-ebay-reference="word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for apps poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: apps poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=apps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="apps poster -book -books -dvd" data-ebay-reference="word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=apps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="apps poster -book -books -dvd" data-ebay-reference="word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Birth Details Baby Print Apps Nursery Art Poster Christening Gift"><img src="{{ '/assets/images/marketplace-covers/ebae05ee268a7d5a3765.jpg' | relative_url }}" alt="Listing image for Personalised Birth Details Baby Print Apps Nursery Art Poster Christening Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=apps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="apps poster -book -books -dvd" data-ebay-reference="word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Personalised Birth Details Baby Print Apps Nursery Art Poster Christening Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=apps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="apps poster -book -books -dvd" data-ebay-reference="word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for apps poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: apps poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=apps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="apps poster -book -books -dvd" data-ebay-reference="word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=apps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="apps poster -book -books -dvd" data-ebay-reference="word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=apps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="apps poster -book -books -dvd" data-ebay-reference="word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Birth Details Baby Print Apps Nursery Art Poster Christening Gift"><img src="{{ '/assets/images/marketplace-covers/ebae05ee268a7d5a3765.jpg' | relative_url }}" alt="Listing image for Personalised Birth Details Baby Print Apps Nursery Art Poster Christening Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=apps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="apps poster -book -books -dvd" data-ebay-reference="word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Personalised Birth Details Baby Print Apps Nursery Art Poster Christening Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=apps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="apps poster -book -books -dvd" data-ebay-reference="word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for apps poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: apps poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=apps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="apps poster -book -books -dvd" data-ebay-reference="word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=apps+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="apps poster -book -books -dvd" data-ebay-reference="word-highlight-does-the-highlighted-letter-really-help-increasing-apps-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -561,7 +561,7 @@ The evidence therefore points to a balanced conclusion. ORP highlighting is grou
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -581,7 +581,7 @@ The evidence therefore points to a balanced conclusion. ORP highlighting is grou
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -613,7 +613,7 @@ The evidence therefore points to a balanced conclusion. ORP highlighting is grou
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -665,7 +665,7 @@ The evidence therefore points to a balanced conclusion. ORP highlighting is grou
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -710,7 +710,7 @@ The evidence therefore points to a balanced conclusion. ORP highlighting is grou
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -751,106 +751,106 @@ The evidence therefore points to a balanced conclusion. ORP highlighting is grou
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: tsw.it  
    Title: Rapid serial visual presentation in reading The case of Spritz 1  
-   Link: <a href="https://www.tsw.it/wp-content/uploads/Rapid-serial-visual-presentation-in-reading-The-case-of-Spritz-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.tsw.it/wp-content/uploads/Rapid-serial-visual-presentation-in-reading-The-case-of-Spritz-1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spritz lies in the combination of a single-word stationary RSVP with the Optimal Recognition Point (ORP) also known as Optimal. Viewing...</p></details>
+   Link:<a href="https://www.tsw.it/wp-content/uploads/Rapid-serial-visual-presentation-in-reading-The-case-of-Spritz-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.tsw.it/wp-content/uploads/Rapid-serial-visual-presentation-in-reading-The-case-of-Spritz-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spritz lies in the combination of a single-word stationary RSVP with the Optimal Recognition Point (ORP) also known as Optimal. Viewing...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: faculty.cas.usf.edu  
-   Link: <a href="https://faculty.cas.usf.edu/eschotter/papers/Rayner_Schotter_Masson_Potter_Treiman_2016_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://faculty.cas.usf.edu/eschotter/papers/Rayner_Schotter_Masson_Potter_Treiman_2016_PSPI.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Do We Read, and Can Speed Reading Help?by K Rayner · 2016 · Cited by 537 — We will then consider the research on RSVP, the procedure...</p></details>
+   Link:<a href="https://faculty.cas.usf.edu/eschotter/papers/Rayner_Schotter_Masson_Potter_Treiman_2016_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://faculty.cas.usf.edu/eschotter/papers/Rayner_Schotter_Masson_Potter_Treiman_2016_PSPI.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Do We Read, and Can Speed Reading Help?by K Rayner · 2016 · Cited by 537 — We will then consider the research on RSVP, the procedure...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: jhenderson.org  
    Title: 7 Am I Reading This Right  
-   Link: <a href="https://jhenderson.org/vclab/Blog/Entries/2014/3/7_Am_I_Reading_This_Right.html" target="_blank" rel="noopener noreferrer nofollow">https://jhenderson.org/vclab/Blog/Entries/2014/3/7_Am_I_Reading_This_Right.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Am I Reading This Right?Mar 7, 2014 — According to Spritz, the key to their breakthrough is that each word is presented using what they c...</p></details>
+   Link:<a href="https://jhenderson.org/vclab/Blog/Entries/2014/3/7_Am_I_Reading_This_Right.html" target="_blank" rel="noopener noreferrer nofollow">https://jhenderson.org/vclab/Blog/Entries/2014/3/7_Am_I_Reading_This_Right.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Am I Reading This Right?Mar 7, 2014 — According to Spritz, the key to their breakthrough is that each word is presented using what they c...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pure.mpg.de  
-   Link: <a href="https://pure.mpg.de/rest/items/item_2567078_1/component/file_2567077/content" target="_blank" rel="noopener noreferrer nofollow">https://pure.mpg.de/rest/items/item_2567078_1/component/file_2567077/content</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading on a Smart Watchby E Gannon · 2016 · Cited by 14 — Reading with Rapid Serial Visual Presentation (RSVP) has shown promise for opt...</p></details>
+   Link:<a href="https://pure.mpg.de/rest/items/item_2567078_1/component/file_2567077/content" target="_blank" rel="noopener noreferrer nofollow">https://pure.mpg.de/rest/items/item_2567078_1/component/file_2567077/content</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading on a Smart Watchby E Gannon · 2016 · Cited by 14 — Reading with Rapid Serial Visual Presentation (RSVP) has shown promise for opt...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: core.ac.uk  
-   Link: <a href="https://core.ac.uk/download/pdf/79514136.pdf" target="_blank" rel="noopener noreferrer nofollow">https://core.ac.uk/download/pdf/79514136.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In six experiments we investigated the role...Read more...</p></details>
+   Link:<a href="https://core.ac.uk/download/pdf/79514136.pdf" target="_blank" rel="noopener noreferrer nofollow">https://core.ac.uk/download/pdf/79514136.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In six experiments we investigated the role...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med How Do We Read, and Can Speed Reading Help?  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26769745/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by K Rayner · 2016 · Cited by 536 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26769745/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by K Rayner · 2016 · Cited by 536 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/Lifestyle/speed-reading-technology-read-90-minutes/story?id=22819573" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Lifestyle/speed-reading-technology-read-90-minutes/story?id=22819573</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsSpritz Speed Reading App Promises You Can...Mar 7, 2014 — The program streams one word at a time, highlighting the “Optimal Reco...</p></details>
+   Link:<a href="https://abcnews.com/Lifestyle/speed-reading-technology-read-90-minutes/story?id=22819573" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Lifestyle/speed-reading-technology-read-90-minutes/story?id=22819573</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsSpritz Speed Reading App Promises You Can...Mar 7, 2014 — The program streams one word at a time, highlighting the “Optimal Reco...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: raley.english.ucsb.edu  
-   Link: <a href="https://raley.english.ucsb.edu/wp-content/uploads/Student-work/Spritz.pdf" target="_blank" rel="noopener noreferrer nofollow">https://raley.english.ucsb.edu/wp-content/uploads/Student-work/Spritz.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ucsb.eduSpritz: The Fast-Reading App.However, each word has an “Optimal Recognition Point” or ORP, where the eye must locate in order to...</p></details>
+   Link:<a href="https://raley.english.ucsb.edu/wp-content/uploads/Student-work/Spritz.pdf" target="_blank" rel="noopener noreferrer nofollow">https://raley.english.ucsb.edu/wp-content/uploads/Student-work/Spritz.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ucsb.eduSpritz: The Fast-Reading App.However, each word has an “Optimal Recognition Point” or ORP, where the eye must locate in order to...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: indiereader.com  
-   Link: <a href="https://indiereader.com/2014/05/spritz/" target="_blank" rel="noopener noreferrer nofollow">https://indiereader.com/2014/05/spritz/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>27 May 2014 — Basically, our eyes begin to recognize and make sense of a word when they see the letters slightly left of the center of th...</p></details>
+   Link:<a href="https://indiereader.com/2014/05/spritz/" target="_blank" rel="noopener noreferrer nofollow">https://indiereader.com/2014/05/spritz/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>27 May 2014 — Basically, our eyes begin to recognize and make sense of a word when they see the letters slightly left of the center of th...</p></details>
    Published: May 2014  
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: psychologicalscience.org  
    Title: speed reading promises are too good to be true scientists find 2  
-   Link: <a href="https://www.psychologicalscience.org/observer/speed-reading-promises-are-too-good-to-be-true-scientists-find-2" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/observer/speed-reading-promises-are-too-good-to-be-true-scientists-find-2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceSpeed Reading Promises Are Too Good to Be True...29 Feb 2016 — A team of psychological scientists f...</p></details>
+   Link:<a href="https://www.psychologicalscience.org/observer/speed-reading-promises-are-too-good-to-be-true-scientists-find-2" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/observer/speed-reading-promises-are-too-good-to-be-true-scientists-find-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceSpeed Reading Promises Are Too Good to Be True...29 Feb 2016 — A team of psychological scientists f...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aperol.com  
-   Link: <a href="https://www.aperol.com/aperol-spritz-cocktail/" target="_blank" rel="noopener noreferrer nofollow">https://www.aperol.com/aperol-spritz-cocktail/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aperol Spritz recipe: ingredients, ratios and how to make itThis timeless Aperol Spritz ratio means 3 parts of Prosecco, 2 parts of Apero...</p></details>
+   Link:<a href="https://www.aperol.com/aperol-spritz-cocktail/" target="_blank" rel="noopener noreferrer nofollow">https://www.aperol.com/aperol-spritz-cocktail/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aperol Spritz recipe: ingredients, ratios and how to make itThis timeless Aperol Spritz ratio means 3 parts of Prosecco, 2 parts of Apero...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: bbcgoodfood.com  
-   Link: <a href="https://www.bbcgoodfood.com/recipes/collection/spritz-recipes" target="_blank" rel="noopener noreferrer nofollow">https://www.bbcgoodfood.com/recipes/collection/spritz-recipes</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spritz recipesMake perfect party drinks in minutes with our easy spritz recipes. Add a splash of prosecco to summery Aperol, zesty grapef...</p></details>
+   Link:<a href="https://www.bbcgoodfood.com/recipes/collection/spritz-recipes" target="_blank" rel="noopener noreferrer nofollow">https://www.bbcgoodfood.com/recipes/collection/spritz-recipes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spritz recipesMake perfect party drinks in minutes with our easy spritz recipes. Add a splash of prosecco to summery Aperol, zesty grapef...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: diffordsguide.com  
-   Link: <a href="https://www.diffordsguide.com/g/1255/spritz/recipes" target="_blank" rel="noopener noreferrer nofollow">https://www.diffordsguide.com/g/1255/spritz/recipes</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spritz recipesSpritz as 3:2:1, with 3-parts prosecco, 2-parts liqueur, and 1-part &#x27;spritz&#x27; of soda water-served over ice in a goblet. her...</p></details>
+   Link:<a href="https://www.diffordsguide.com/g/1255/spritz/recipes" target="_blank" rel="noopener noreferrer nofollow">https://www.diffordsguide.com/g/1255/spritz/recipes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spritz recipesSpritz as 3:2:1, with 3-parts prosecco, 2-parts liqueur, and 1-part &#x27;spritz&#x27; of soda water-served over ice in a goblet. her...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: stgermainliqueur.com  
-   Link: <a href="https://www.stgermainliqueur.com/cocktails/st-germain-spritz/" target="_blank" rel="noopener noreferrer nofollow">https://www.stgermainliqueur.com/cocktails/st-germain-spritz/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>St-Germain Spritz Cocktail | Spritz RecipeThis irresistible spritz recipe calls for equal parts sparkling water and Prosecco to ensure yo...</p></details>
+   Link:<a href="https://www.stgermainliqueur.com/cocktails/st-germain-spritz/" target="_blank" rel="noopener noreferrer nofollow">https://www.stgermainliqueur.com/cocktails/st-germain-spritz/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>St-Germain Spritz Cocktail | Spritz RecipeThis irresistible spritz recipe calls for equal parts sparkling water and Prosecco to ensure yo...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: github.com  
-   Link: <a href="https://github.com/ronilaukkarinen/speed-reader" target="_blank" rel="noopener noreferrer nofollow">https://github.com/ronilaukkarinen/speed-reader</a>  
+   Link:<a href="https://github.com/ronilaukkarinen/speed-reader" target="_blank" rel="noopener noreferrer nofollow">https://github.com/ronilaukkarinen/speed-reader</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: accruva.app  
-   Link: <a href="https://accruva.app/science/" target="_blank" rel="noopener noreferrer nofollow">https://accruva.app/science/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Every word has a point — usually slightly left of centre — where your eye naturally fixates for fastest processing. Accruva...Read more...</p></details>
+   Link:<a href="https://accruva.app/science/" target="_blank" rel="noopener noreferrer nofollow">https://accruva.app/science/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Every word has a point — usually slightly left of centre — where your eye naturally fixates for fastest processing. Accruva...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
    Title: 307946947 Exploring the Effects of Text Length and Difficulty on RSVP Reading  
-   Link: <a href="https://www.researchgate.net/publication/307946947_Exploring_the_Effects_of_Text_Length_and_Difficulty_on_RSVP_Reading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/307946947_Exploring_the_Effects_of_Text_Length_and_Difficulty_on_RSVP_Reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the Effects of Text Length and Difficulty on RSVP...9 Feb 2026 — To the best [knowledge](&amp;#123;&amp;#123; &#x27;knowledge/&#x27; | relative_url &amp;#125;&amp;#125;) of the researchers, very few studies ha...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/307946947_Exploring_the_Effects_of_Text_Length_and_Difficulty_on_RSVP_Reading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/307946947_Exploring_the_Effects_of_Text_Length_and_Difficulty_on_RSVP_Reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the Effects of Text Length and Difficulty on RSVP...9 Feb 2026 — To the best [knowledge](&amp;#123;&amp;#123; &#x27;knowledge/&#x27; | relative_url &amp;#125;&amp;#125;) of the researchers, very few studies ha...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: memletics.com  
    Title: Speed Reading | Memletics Accelerated Learning Manual Rayner, K., Schotter, E  
-   Link: <a href="https://www.memletics.com/speed-reading-course" target="_blank" rel="noopener noreferrer nofollow">https://www.memletics.com/speed-reading-course</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>R., Masson, M. E. J., Potter, M. C., &amp; Treiman, R. (2016). So Much to Read, So Little Time: How Do We Read, and Can Speed Reading Help?Re...</p></details>
+   Link:<a href="https://www.memletics.com/speed-reading-course" target="_blank" rel="noopener noreferrer nofollow">https://www.memletics.com/speed-reading-course</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>R., Masson, M. E. J., Potter, M. C., &amp; Treiman, R. (2016). So Much to Read, So Little Time: How Do We Read, and Can Speed Reading Help?Re...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: researchgate.net  
    Title: 338127266 Speed Reading Evaluation von Spritz mit Hilfe der Pupillometrie  
-   Link: <a href="https://www.researchgate.net/publication/338127266_Speed_Reading_Evaluation_von_Spritz_mit_Hilfe_der_Pupillometrie" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/338127266_Speed_Reading_Evaluation_von_Spritz_mit_Hilfe_der_Pupillometrie</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluation von Spritz mit Hilfe der Pupillometrie29 Oct 2019 — In dieser Arbeit wurde untersucht, ob schnelleres Lesen im Vergleich zu la...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/338127266_Speed_Reading_Evaluation_von_Spritz_mit_Hilfe_der_Pupillometrie" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/338127266_Speed_Reading_Evaluation_von_Spritz_mit_Hilfe_der_Pupillometrie</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluation von Spritz mit Hilfe der Pupillometrie29 Oct 2019 — In dieser Arbeit wurde untersucht, ob schnelleres Lesen im Vergleich zu la...</p></details>

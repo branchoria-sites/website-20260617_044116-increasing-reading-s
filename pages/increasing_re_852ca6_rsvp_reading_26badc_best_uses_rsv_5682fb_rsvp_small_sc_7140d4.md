@@ -269,7 +269,7 @@ image: /assets/images/increasing_re_852ca6_rsvp_reading_26badc_best_uses_rsv_568
 
 ## Introduction
 
-For all the attention given to RSVP (Rapid Serial Visual Presentation) as a [speed-reading]({{ 'myths/' | relative_url }}) technique, its most convincing advantage may be far more practical: it works surprisingly well on screens that are too small for comfortable page reading. A smartwatch, fitness watch, or compact smartphone display leaves little room for paragraphs, scrolling, or line tracking. RSVP sidesteps that problem by showing one word at a time in a fixed position, allowing text to be consumed without navigating a page. Research on smartwatch reading has found that this approach can increase reading speed while maintaining similar comprehension on suitable material, although users still tend to prefer traditional layouts when screen space allows. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mpi.nl/publications/item2567078/rsvp-reading-smart-watch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mpi.nl">[Max Planck Psycholinguistics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mpi.nl</span><span class="citation-popover-snippet">Max Planck PsycholinguisticsRSVP Reading on a Smart WatchGiven the wide use of small-screen devices, the present study compared RSVP and...</span></span></span>
+For all the attention given to RSVP (Rapid Serial Visual Presentation) as a [speed-reading]({{ 'myths/' | relative_url }}) technique, its most convincing advantage may be far more practical: it works surprisingly well on screens that are too small for comfortable page reading. A smartwatch, fitness watch, or compact smartphone display leaves little room for paragraphs, scrolling, or line tracking. RSVP sidesteps that problem by showing one word at a time in a fixed position, allowing text to be consumed without navigating a page. Research on smartwatch reading has found that this approach can increase reading speed while maintaining similar comprehension on suitable material, although users still tend to prefer traditional layouts when screen space allows.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mpi.nl/publications/item2567078/rsvp-reading-smart-watch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mpi.nl">[Max Planck Psycholinguistics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mpi.nl</span><span class="citation-popover-snippet">Max Planck PsycholinguisticsRSVP Reading on a Smart WatchGiven the wide use of small-screen devices, the present study compared RSVP and...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_rsvp_reading_26badc_best_uses_rsv_5682fb_rsvp_small_sc_7140d4-Illustration-1-dark.svg" | relative_url }}" alt="Small Screens illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_rsvp_reading_26badc_best_uses_rsv_5682fb_rsvp_small_sc_7140d4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_rsvp_reading_26badc_best_uses_rsv_5682fb_rsvp_small_sc_7140d4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -279,9 +279,9 @@ This makes RSVP less interesting as a replacement for ordinary reading and more 
 
 Reading on paper or a large monitor benefits from space. Readers can see multiple lines at once, preview upcoming words, glance backwards, and use page structure to maintain orientation. Small screens remove many of those advantages.
 
-On a smartwatch, only a handful of words may fit comfortably on screen. Even on a smartphone, reading long passages often involves continuous scrolling, zooming, or repeated [eye movements]({{ 'eye-tradeoff/' | relative_url }}) across narrow columns. Designers of mobile interfaces have long recognised that limited screen real estate creates usability challenges for text-heavy content. Research on small-screen reading has repeatedly explored alternatives because conventional page layouts become increasingly inefficient as displays shrink. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ijdesign.org/index.php/IJDesign/article/view/36/8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ijdesign.org">[International Journal of Design]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ijdesign.org</span><span class="citation-popover-snippet">International Journal of DesignEffects of RSVP Display Design on Visual Performance in...by CH Chen · 2007 · Cited by 34 — This study ex...</span></span></span>
+On a smartwatch, only a handful of words may fit comfortably on screen. Even on a smartphone, reading long passages often involves continuous scrolling, zooming, or repeated [eye movements]({{ 'eye-tradeoff/' | relative_url }}) across narrow columns. Designers of mobile interfaces have long recognised that limited screen real estate creates usability challenges for text-heavy content. Research on small-screen reading has repeatedly explored alternatives because conventional page layouts become increasingly inefficient as displays shrink.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ijdesign.org/index.php/IJDesign/article/view/36/8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ijdesign.org">[International Journal of Design]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ijdesign.org</span><span class="citation-popover-snippet">International Journal of DesignEffects of RSVP Display Design on Visual Performance in...by CH Chen · 2007 · Cited by 34 — This study ex...</span></span></span>
 
-The issue is not merely screen size. Mobile reading often happens while standing in a queue, travelling on public transport, walking between locations, or checking notifications during another activity. Attention is fragmented and reading sessions are brief. Studies of mobile-device use show that visual attention frequently shifts between the screen and the surrounding environment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://collaborative-ai.org/publications/steil18_mobilehci.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: collaborative-ai.org">[Collaborative AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">collaborative-ai.org</span><span class="citation-popover-title">Collaborative AIForecasting User Attention During Everyday Mobile Interactions</span><span class="citation-popover-snippet">July 14, 2018 — Visual attention is highly fragmented during mobile interac- tions, but the erratic nature of attention shifts currently...</span><span class="citation-popover-meta">Published: July 14, 2018</span></span></span>
+The issue is not merely screen size. Mobile reading often happens while standing in a queue, travelling on public transport, walking between locations, or checking notifications during another activity. Attention is fragmented and reading sessions are brief. Studies of mobile-device use show that visual attention frequently shifts between the screen and the surrounding environment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://collaborative-ai.org/publications/steil18_mobilehci.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: collaborative-ai.org">[Collaborative AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">collaborative-ai.org</span><span class="citation-popover-title">Collaborative AIForecasting User Attention During Everyday Mobile Interactions</span><span class="citation-popover-snippet">July 14, 2018 — Visual attention is highly fragmented during mobile interac- tions, but the erratic nature of attention shifts currently...</span><span class="citation-popover-meta">Published: July 14, 2018</span></span></span>
 
 In these conditions, traditional page reading can feel cumbersome. A technique that reduces scrolling and visual navigation gains practical value even if it does not improve deep comprehension.
 
@@ -294,7 +294,7 @@ RSVP removes one of the biggest burdens of small-screen reading: finding the nex
 
 In ordinary reading, the eyes constantly perform rapid jumps called saccades. Readers move across a line, shift to the next line, occasionally glance backwards, and continuously manage their position within the text. On a smartwatch display, those movements become harder because the visible reading area is so small.
 
-RSVP changes the interaction model entirely. Instead of moving through the text, the reader waits while the text moves through a fixed viewing point. Every word appears in the same location on the display. This dramatically reduces the need for horizontal [scanning]({{ 'scanning-vs-reading/' | relative_url }}) and line changes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rapid_serial_visual_presentation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rapid serial visual presentation</span><span class="citation-popover-snippet">Rapid serial visual presentation</span></span></span>
+RSVP changes the interaction model entirely. Instead of moving through the text, the reader waits while the text moves through a fixed viewing point. Every word appears in the same location on the display. This dramatically reduces the need for horizontal [scanning]({{ 'scanning-vs-reading/' | relative_url }}) and line changes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rapid_serial_visual_presentation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rapid serial visual presentation</span><span class="citation-popover-snippet">Rapid serial visual presentation</span></span></span>
 
 For a watch-sized screen, that design has several practical consequences:
 
@@ -309,17 +309,17 @@ For a watch-sized screen, that design has several practical consequences:
 
 </div>
 
-These advantages explain why RSVP has frequently been proposed for smartwatches, wearable displays, mobile phones, and other devices where screen space is scarce. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pure.mpg.de/rest/items/item_2567078_1/component/file_2567077/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.mpg.de">[MPG.PuRe+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.mpg.de</span><span class="citation-popover-snippet">Reading on a Smart Watchby E Gannon · 2016 · Cited by 14 — Reading with Rapid Serial Visual Presentation (RSVP) has shown promise for opt...</span></span></span>
+These advantages explain why RSVP has frequently been proposed for smartwatches, wearable displays, mobile phones, and other devices where screen space is scarce.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pure.mpg.de/rest/items/item_2567078_1/component/file_2567077/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.mpg.de">[MPG.PuRe+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.mpg.de</span><span class="citation-popover-snippet">Reading on a Smart Watchby E Gannon · 2016 · Cited by 14 — Reading with Rapid Serial Visual Presentation (RSVP) has shown promise for opt...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_rsvp_reading_26badc_best_uses_rsv_5682fb_rsvp_small_sc_7140d4-Illustration-2-dark.svg" | relative_url }}" alt="Small Screens illustration 2" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_rsvp_reading_26badc_best_uses_rsv_5682fb_rsvp_small_sc_7140d4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_rsvp_reading_26badc_best_uses_rsv_5682fb_rsvp_small_sc_7140d4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Smartwatch Research Actually Found
 
-One of the most directly relevant studies compared [RSVP reading]({{ 'reading-apps/' | relative_url }}) and traditional reading on a smartwatch. Researchers evaluated reading speed, several forms of comprehension, and subjective user reactions. They found that RSVP produced faster reading speeds without significantly reducing comprehension for the tested material. However, participants still strongly preferred traditional reading when given a choice. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mpi.nl/publications/item2567078/rsvp-reading-smart-watch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mpi.nl">[Max Planck Psycholinguistics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mpi.nl</span><span class="citation-popover-snippet">Max Planck PsycholinguisticsRSVP Reading on a Smart WatchGiven the wide use of small-screen devices, the present study compared RSVP and...</span></span></span>
+One of the most directly relevant studies compared [RSVP reading]({{ 'reading-apps/' | relative_url }}) and traditional reading on a smartwatch. Researchers evaluated reading speed, several forms of comprehension, and subjective user reactions. They found that RSVP produced faster reading speeds without significantly reducing comprehension for the tested material. However, participants still strongly preferred traditional reading when given a choice.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mpi.nl/publications/item2567078/rsvp-reading-smart-watch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mpi.nl">[Max Planck Psycholinguistics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mpi.nl</span><span class="citation-popover-snippet">Max Planck PsycholinguisticsRSVP Reading on a Smart WatchGiven the wide use of small-screen devices, the present study compared RSVP and...</span></span></span>
 
 That combination of findings is revealing.
 
-The performance results suggest that RSVP can compensate for the limitations of extremely small screens. Readers can extract information efficiently despite the restricted display area. Yet the preference results indicate that efficiency is not the same as comfort. People generally like seeing text arranged in a familiar page structure because it provides context, navigation cues, and greater control over pacing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mpi.nl/publications/item2567078/rsvp-reading-smart-watch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mpi.nl">[Max Planck Psycholinguistics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mpi.nl</span><span class="citation-popover-snippet">Max Planck PsycholinguisticsRSVP Reading on a Smart WatchGiven the wide use of small-screen devices, the present study compared RSVP and...</span></span></span>
+The performance results suggest that RSVP can compensate for the limitations of extremely small screens. Readers can extract information efficiently despite the restricted display area. Yet the preference results indicate that efficiency is not the same as comfort. People generally like seeing text arranged in a familiar page structure because it provides context, navigation cues, and greater control over pacing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mpi.nl/publications/item2567078/rsvp-reading-smart-watch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mpi.nl">[Max Planck Psycholinguistics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mpi.nl</span><span class="citation-popover-snippet">Max Planck PsycholinguisticsRSVP Reading on a Smart WatchGiven the wide use of small-screen devices, the present study compared RSVP and...</span></span></span>
 
 In other words, RSVP appears capable of making tiny screens more usable, but it does not necessarily make them more enjoyable for extended reading.
 
@@ -345,9 +345,9 @@ Examples include:
 
 </div>
 
-In these situations, the goal is often to answer a simple question: "What is this about?" rather than "Can I remember every detail?" The convenience of fitting a larger amount of text onto a tiny display can outweigh the disadvantages associated with losing page structure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mpi.nl/publications/item2567078/rsvp-reading-smart-watch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mpi.nl">[Max Planck Psycholinguistics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mpi.nl</span><span class="citation-popover-snippet">Max Planck PsycholinguisticsRSVP Reading on a Smart WatchGiven the wide use of small-screen devices, the present study compared RSVP and...</span></span></span>
+In these situations, the goal is often to answer a simple question: "What is this about?" rather than "Can I remember every detail?" The convenience of fitting a larger amount of text onto a tiny display can outweigh the disadvantages associated with losing page structure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mpi.nl/publications/item2567078/rsvp-reading-smart-watch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mpi.nl">[Max Planck Psycholinguistics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mpi.nl</span><span class="citation-popover-snippet">Max Planck PsycholinguisticsRSVP Reading on a Smart WatchGiven the wide use of small-screen devices, the present study compared RSVP and...</span></span></span>
 
-The trade-off becomes less attractive as texts become longer or more complex. When readers need to compare passages, revisit earlier information, analyse arguments, or study unfamiliar material, traditional layouts regain their advantage. Research and critical evaluations of speed-reading systems consistently report that [increasing]({{ 'increasing/' | relative_url }}) presentation speed can eventually harm comprehension and retention, particularly for demanding content. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/technology/2017/apr/08/speed-reading-apps-can-you-really-read-novel-in-your-lunch-hour" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2Nottingham Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Speed-reading apps: can you really read a novel in your lunch hour?</span><span class="citation-popover-snippet">The Guardian Speed-reading apps: can you really read a novel in your lunch hour?</span></span></span>
+The trade-off becomes less attractive as texts become longer or more complex. When readers need to compare passages, revisit earlier information, analyse arguments, or study unfamiliar material, traditional layouts regain their advantage. Research and critical evaluations of speed-reading systems consistently report that [increasing]({{ 'increasing/' | relative_url }}) presentation speed can eventually harm comprehension and retention, particularly for demanding content.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/technology/2017/apr/08/speed-reading-apps-can-you-really-read-novel-in-your-lunch-hour" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2Nottingham Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Speed-reading apps: can you really read a novel in your lunch hour?</span><span class="citation-popover-snippet">The Guardian Speed-reading apps: can you really read a novel in your lunch hour?</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_rsvp_reading_26badc_best_uses_rsv_5682fb_rsvp_small_sc_7140d4-Illustration-3-dark.svg" | relative_url }}" alt="Small Screens illustration 3" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_rsvp_reading_26badc_best_uses_rsv_5682fb_rsvp_small_sc_7140d4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_rsvp_reading_26badc_best_uses_rsv_5682fb_rsvp_small_sc_7140d4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -357,15 +357,15 @@ A useful way to think about RSVP is that its value grows as screen size shrinks.
 
 On a tablet or laptop, readers already have enough room to display paragraphs comfortably. The gains from eliminating eye movements are relatively small compared with the costs of losing navigation and rereading.
 
-On a smartwatch, the calculation changes. The display is so constrained that conventional reading becomes awkward by default. A one-word-at-a-time system sacrifices less because there was little page context available in the first place. The relative benefit therefore increases as available screen space decreases. Max Planck Psycholinguistics+2International Journal of Design <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mpi.nl/publications/item2567078/rsvp-reading-smart-watch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mpi.nl">[mpi.nl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mpi.nl</span><span class="citation-popover-snippet">Max Planck PsycholinguisticsRSVP Reading on a Smart WatchGiven the wide use of small-screen devices, the present study compared RSVP and...</span></span></span>
+On a smartwatch, the calculation changes. The display is so constrained that conventional reading becomes awkward by default. A one-word-at-a-time system sacrifices less because there was little page context available in the first place. The relative benefit therefore increases as available screen space decreases. Max Planck Psycholinguistics+2International Journal of Design<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mpi.nl/publications/item2567078/rsvp-reading-smart-watch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mpi.nl">[mpi.nl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mpi.nl</span><span class="citation-popover-snippet">Max Planck PsycholinguisticsRSVP Reading on a Smart WatchGiven the wide use of small-screen devices, the present study compared RSVP and...</span></span></span>
 
 This is why RSVP often appears most convincing not as a universal reading method but as a specialised solution for wearable and ultra-compact devices.
 
 ## The Real Advantage Is Usability, Not Magic
 
-The history of RSVP is often linked to ambitious claims about dramatically increasing reading speed. The evidence for those broader claims remains mixed, particularly when comprehension and long-term retention matter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/technology/2017/apr/08/speed-reading-apps-can-you-really-read-novel-in-your-lunch-hour" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Speed-reading apps: can you really read a novel in your lunch hour?</span><span class="citation-popover-snippet">The Guardian Speed-reading apps: can you really read a novel in your lunch hour?</span></span></span>
+The history of RSVP is often linked to ambitious claims about dramatically increasing reading speed. The evidence for those broader claims remains mixed, particularly when comprehension and long-term retention matter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/technology/2017/apr/08/speed-reading-apps-can-you-really-read-novel-in-your-lunch-hour" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Speed-reading apps: can you really read a novel in your lunch hour?</span><span class="citation-popover-snippet">The Guardian Speed-reading apps: can you really read a novel in your lunch hour?</span></span></span>
 
-Its value on small screens is easier to defend because it solves a concrete interface problem. Smartwatches and compact mobile displays provide very limited room for text. RSVP allows substantially more content to be presented without requiring scrolling, zooming, or continuous eye navigation. Studies on smartwatch reading suggest that readers can maintain comparable comprehension for suitable material while benefiting from faster presentation. At the same time, user preference data remind us that most people still favour traditional layouts whenever space permits. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mpi.nl/publications/item2567078/rsvp-reading-smart-watch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mpi.nl">[Max Planck Psycholinguistics+2MPG.PuRe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mpi.nl</span><span class="citation-popover-snippet">Max Planck PsycholinguisticsRSVP Reading on a Smart WatchGiven the wide use of small-screen devices, the present study compared RSVP and...</span></span></span>
+Its value on small screens is easier to defend because it solves a concrete interface problem. Smartwatches and compact mobile displays provide very limited room for text. RSVP allows substantially more content to be presented without requiring scrolling, zooming, or continuous eye navigation. Studies on smartwatch reading suggest that readers can maintain comparable comprehension for suitable material while benefiting from faster presentation. At the same time, user preference data remind us that most people still favour traditional layouts whenever space permits.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mpi.nl/publications/item2567078/rsvp-reading-smart-watch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mpi.nl">[Max Planck Psycholinguistics+2MPG.PuRe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mpi.nl</span><span class="citation-popover-snippet">Max Planck PsycholinguisticsRSVP Reading on a Smart WatchGiven the wide use of small-screen devices, the present study compared RSVP and...</span></span></span>
 
 Viewed through that lens, RSVP is best understood as a screen-space optimisation technique. Its strongest argument is not that it makes everyone a dramatically faster reader, but that it makes reading possible and practical on devices where ordinary pages fit poorly.
 
@@ -374,194 +374,194 @@ Viewed through that lens, RSVP is best understood as a screen-space optimisation
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why RSVP Fits Tiny Screens Better Than Pages. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why RSVP Fits Tiny Screens Better Than Pages. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Fits the article&#x27;s theme of choosing the right reading method for the task rather than blindly maximizing speed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Fits the article&#x27;s theme of choosing the right reading method for the task rather than blindly maximizing speed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading in the Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6649793-M.jpg" alt="Cover for Reading in the Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading in the Brain">Reading in the Brain</a>
-        </h4>
-        <p class="fr-book-author">By Stanislas Dehaene</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading in the Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6649793-M.jpg" alt="Cover for Reading in the Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading in the Brain">Reading in the Brain</a>
+</h4>
+<p class="fr-book-author">By Stanislas Dehaene</p>
         
-        <p class="fr-book-desc">Explains the cognitive mechanisms behind reading, useful for understanding RSVP and small-screen reading constraints.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the cognitive mechanisms behind reading, useful for understanding RSVP and small-screen reading constraints.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Shallows+by+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Shallows on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1KayoVl3OTMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Shallows" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Shallows+by+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Shallows">The Shallows</a>
-        </h4>
-        <p class="fr-book-author">By Nicholas Carr</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Shallows+by+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Shallows on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1KayoVl3OTMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Shallows" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Shallows+by+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Shallows">The Shallows</a>
+</h4>
+<p class="fr-book-author">By Nicholas Carr</p>
         
-        <p class="fr-book-desc">Provides broader context on digital reading, screen-based attention, and comprehension.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Shallows+by+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context on digital reading, screen-based attention, and comprehension.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Shallows+by+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Speed+reading+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Speed reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/296299-M.jpg" alt="Cover for Speed reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Speed+reading+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Speed reading">Speed reading</a>
-        </h4>
-        <p class="fr-book-author">By Tony Buzan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Speed+reading+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Speed reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/296299-M.jpg" alt="Cover for Speed reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Speed+reading+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Speed reading">Speed reading</a>
+</h4>
+<p class="fr-book-author">By Tony Buzan</p>
         
-        <p class="fr-book-desc">First published 1971. Subjects: Speed reading, Rapid reading, English language, Lecture rapide.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Speed+reading+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1971. Subjects: Speed reading, Rapid reading, English language, Lecture rapide.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Speed+reading+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Reading+in+the+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Reading in the Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Shallows&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Shallows</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Reading+in+the+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Reading in the Brain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Shallows&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Shallows</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+watch+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness watch accessory" data-ebay-reference="small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for For Fitbit Charge 5 Strap Replacement Silicone Wristband Band Watch Wrist Straps"><img src="{{ '/assets/images/marketplace-covers/eab4ab6a2012c5dd9710.jpg' | relative_url }}" alt="Listing image for For Fitbit Charge 5 Strap Replacement Silicone Wristband Band Watch Wrist Straps" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+watch+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness watch accessory" data-ebay-reference="small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory" target="_blank" rel="sponsored noopener noreferrer">For Fitbit Charge 5 Strap Replacement Silicone Wristband Band Watch Wrist Straps</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+watch+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness watch accessory" data-ebay-reference="small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fitness watch accessory">Search <span data-ebay-domain-label>eBay.co.uk</span>: fitness watch accessory</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+watch+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness watch accessory" data-ebay-reference="small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+watch+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness watch accessory" data-ebay-reference="small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for For Fitbit Charge 5 Strap Replacement Silicone Wristband Band Watch Wrist Straps"><img src="{{ '/assets/images/marketplace-covers/eab4ab6a2012c5dd9710.jpg' | relative_url }}" alt="Listing image for For Fitbit Charge 5 Strap Replacement Silicone Wristband Band Watch Wrist Straps" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+watch+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness watch accessory" data-ebay-reference="small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory" target="_blank" rel="sponsored noopener noreferrer">For Fitbit Charge 5 Strap Replacement Silicone Wristband Band Watch Wrist Straps</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+watch+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness watch accessory" data-ebay-reference="small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fitness watch accessory">Search<span data-ebay-domain-label>eBay.co.uk</span>: fitness watch accessory</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+watch+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness watch accessory" data-ebay-reference="small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+watch+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness watch accessory" data-ebay-reference="small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Smart watch fitness tracker- waterproof, 26cm length- Black- Brand new"><span>eBay</span></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+watch+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness watch accessory" data-ebay-reference="small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory" target="_blank" rel="sponsored noopener noreferrer">Smart watch fitness tracker- waterproof, 26cm length- Black- Brand new</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+watch+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness watch accessory" data-ebay-reference="small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fitness watch accessory">Search <span data-ebay-domain-label>eBay.co.uk</span>: fitness watch accessory</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+watch+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness watch accessory" data-ebay-reference="small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+watch+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness watch accessory" data-ebay-reference="small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Smart watch fitness tracker- waterproof, 26cm length- Black- Brand new"><span>eBay</span></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+watch+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness watch accessory" data-ebay-reference="small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory" target="_blank" rel="sponsored noopener noreferrer">Smart watch fitness tracker- waterproof, 26cm length- Black- Brand new</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+watch+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness watch accessory" data-ebay-reference="small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fitness watch accessory">Search<span data-ebay-domain-label>eBay.co.uk</span>: fitness watch accessory</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+watch+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness watch accessory" data-ebay-reference="small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+watch+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness watch accessory" data-ebay-reference="small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Smartwatch Bands Watchband Replacement Glory Fit Strap Accessories"><img src="{{ '/assets/images/marketplace-covers/d87c17ac0faf3157f55e.jpg' | relative_url }}" alt="Listing image for Smartwatch Bands Watchband Replacement Glory Fit Strap Accessories" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+watch+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness watch accessory" data-ebay-reference="small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory" target="_blank" rel="sponsored noopener noreferrer">Smartwatch Bands Watchband Replacement Glory Fit Strap Accessories</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+watch+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness watch accessory" data-ebay-reference="small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fitness watch accessory">Search <span data-ebay-domain-label>eBay.co.uk</span>: fitness watch accessory</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+watch+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness watch accessory" data-ebay-reference="small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+watch+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness watch accessory" data-ebay-reference="small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Smartwatch Bands Watchband Replacement Glory Fit Strap Accessories"><img src="{{ '/assets/images/marketplace-covers/d87c17ac0faf3157f55e.jpg' | relative_url }}" alt="Listing image for Smartwatch Bands Watchband Replacement Glory Fit Strap Accessories" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+watch+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness watch accessory" data-ebay-reference="small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory" target="_blank" rel="sponsored noopener noreferrer">Smartwatch Bands Watchband Replacement Glory Fit Strap Accessories</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+watch+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness watch accessory" data-ebay-reference="small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fitness watch accessory">Search<span data-ebay-domain-label>eBay.co.uk</span>: fitness watch accessory</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+watch+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness watch accessory" data-ebay-reference="small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+watch+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness watch accessory" data-ebay-reference="small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Navitech Turquoise Watch &amp; Accessory Case For HUAWEI Band 8 Fitness Watch"><img src="{{ '/assets/images/marketplace-covers/1f41924a96166c1dcf87.jpg' | relative_url }}" alt="Listing image for Navitech Turquoise Watch &amp; Accessory Case For HUAWEI Band 8 Fitness Watch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+watch+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness watch accessory" data-ebay-reference="small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory" target="_blank" rel="sponsored noopener noreferrer">Navitech Turquoise Watch &amp; Accessory Case For HUAWEI Band 8 Fitness Watch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+watch+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness watch accessory" data-ebay-reference="small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fitness watch accessory">Search <span data-ebay-domain-label>eBay.co.uk</span>: fitness watch accessory</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+watch+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness watch accessory" data-ebay-reference="small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+watch+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness watch accessory" data-ebay-reference="small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+watch+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness watch accessory" data-ebay-reference="small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Navitech Turquoise Watch &amp; Accessory Case For HUAWEI Band 8 Fitness Watch"><img src="{{ '/assets/images/marketplace-covers/1f41924a96166c1dcf87.jpg' | relative_url }}" alt="Listing image for Navitech Turquoise Watch &amp; Accessory Case For HUAWEI Band 8 Fitness Watch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+watch+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness watch accessory" data-ebay-reference="small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory" target="_blank" rel="sponsored noopener noreferrer">Navitech Turquoise Watch &amp; Accessory Case For HUAWEI Band 8 Fitness Watch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+watch+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness watch accessory" data-ebay-reference="small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fitness watch accessory">Search<span data-ebay-domain-label>eBay.co.uk</span>: fitness watch accessory</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+watch+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness watch accessory" data-ebay-reference="small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+watch+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness watch accessory" data-ebay-reference="small-screens-49d0a6-why-rsvp-fits-tiny-screens-better-than-pages-increasing-fitness-watch-accessory" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -577,7 +577,7 @@ Viewed through that lens, RSVP is best understood as a screen-space optimisation
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -597,7 +597,7 @@ Viewed through that lens, RSVP is best understood as a screen-space optimisation
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -629,7 +629,7 @@ Viewed through that lens, RSVP is best understood as a screen-space optimisation
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -681,7 +681,7 @@ Viewed through that lens, RSVP is best understood as a screen-space optimisation
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -726,7 +726,7 @@ Viewed through that lens, RSVP is best understood as a screen-space optimisation
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -767,105 +767,105 @@ Viewed through that lens, RSVP is best understood as a screen-space optimisation
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pure.mpg.de  
-   Link: <a href="https://pure.mpg.de/rest/items/item_2567078_1/component/file_2567077/content" target="_blank" rel="noopener noreferrer nofollow">https://pure.mpg.de/rest/items/item_2567078_1/component/file_2567077/content</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading on a Smart Watchby E Gannon · 2016 · Cited by 14 — Reading with Rapid Serial Visual Presentation (RSVP) has shown promise for opt...</p></details>
+   Link:<a href="https://pure.mpg.de/rest/items/item_2567078_1/component/file_2567077/content" target="_blank" rel="noopener noreferrer nofollow">https://pure.mpg.de/rest/items/item_2567078_1/component/file_2567077/content</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading on a Smart Watchby E Gannon · 2016 · Cited by 14 — Reading with Rapid Serial Visual Presentation (RSVP) has shown promise for opt...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: collaborative-ai.org  
    Title: Collaborative AIForecasting User Attention During Everyday Mobile [Interactions](&#123;&#123; 'interactions/' | relative_url &#125;&#125;)  
-   Link: <a href="https://collaborative-ai.org/publications/steil18_mobilehci.pdf" target="_blank" rel="noopener noreferrer nofollow">https://collaborative-ai.org/publications/steil18_mobilehci.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>July 14, 2018 — Visual attention is highly fragmented during mobile interac- tions, but the erratic nature of attention shifts currently...</p></details>
+   Link:<a href="https://collaborative-ai.org/publications/steil18_mobilehci.pdf" target="_blank" rel="noopener noreferrer nofollow">https://collaborative-ai.org/publications/steil18_mobilehci.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 14, 2018 — Visual attention is highly fragmented during mobile interac- tions, but the erratic nature of attention shifts currently...</p></details>
    Published: July 14, 2018  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Rapid serial visual presentation  
-   Link: <a href="https://en.wikipedia.org/wiki/Rapid_serial_visual_presentation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rapid_serial_visual_presentation</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Rapid_serial_visual_presentation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rapid_serial_visual_presentation</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
    Title: 308184054 RSVP Reading on a Smart Watch  
-   Link: <a href="https://www.researchgate.net/publication/308184054_RSVP_Reading_on_a_Smart_Watch" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/308184054_RSVP_Reading_on_a_Smart_Watch</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RSVP Reading on a Smart Watch | Request PDF9 Feb 2026 — Abstract. Reading with Rapid Serial Visual Presentation (RSVP) has sh...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/308184054_RSVP_Reading_on_a_Smart_Watch" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/308184054_RSVP_Reading_on_a_Smart_Watch</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RSVP Reading on a Smart Watch | Request PDF9 Feb 2026 — Abstract. Reading with Rapid Serial Visual Presentation (RSVP) has sh...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: mpi.nl  
-   Link: <a href="https://www.mpi.nl/publications/item2567078/rsvp-reading-smart-watch" target="_blank" rel="noopener noreferrer nofollow">https://www.mpi.nl/publications/item2567078/rsvp-reading-smart-watch</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Max Planck PsycholinguisticsRSVP Reading on a Smart WatchGiven the wide use of small-screen devices, the present study compared RSVP and...</p></details>
+   Link:<a href="https://www.mpi.nl/publications/item2567078/rsvp-reading-smart-watch" target="_blank" rel="noopener noreferrer nofollow">https://www.mpi.nl/publications/item2567078/rsvp-reading-smart-watch</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Max Planck PsycholinguisticsRSVP Reading on a Smart WatchGiven the wide use of small-screen devices, the present study compared RSVP and...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ijdesign.org  
-   Link: <a href="https://www.ijdesign.org/index.php/IJDesign/article/view/36/8" target="_blank" rel="noopener noreferrer nofollow">https://www.ijdesign.org/index.php/IJDesign/article/view/36/8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>International Journal of DesignEffects of RSVP Display Design on Visual Performance in...by CH Chen · 2007 · Cited by 34 — This study ex...</p></details>
+   Link:<a href="https://www.ijdesign.org/index.php/IJDesign/article/view/36/8" target="_blank" rel="noopener noreferrer nofollow">https://www.ijdesign.org/index.php/IJDesign/article/view/36/8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>International Journal of DesignEffects of RSVP Display Design on Visual Performance in...by CH Chen · 2007 · Cited by 34 — This study ex...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: theguardian.com  
    Title: The Guardian Speed-reading apps: can you really read a novel in your lunch hour?  
-   Link: <a href="https://www.theguardian.com/technology/2017/apr/08/speed-reading-apps-can-you-really-read-novel-in-your-lunch-hour" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2017/apr/08/speed-reading-apps-can-you-really-read-novel-in-your-lunch-hour</a>  
+   Link:<a href="https://www.theguardian.com/technology/2017/apr/08/speed-reading-apps-can-you-really-read-novel-in-your-lunch-hour" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2017/apr/08/speed-reading-apps-can-you-really-read-novel-in-your-lunch-hour</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nottingham-repository.worktribe.com  
-   Link: <a href="https://nottingham-repository.worktribe.com/output/765223/the-impact-of-rapid-serial-visual-presentation-rsvp-on-reading-by-nonnative-speakers" target="_blank" rel="noopener noreferrer nofollow">https://nottingham-repository.worktribe.com/output/765223/the-impact-of-rapid-serial-visual-presentation-rsvp-on-reading-by-nonnative-speakers</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nottingham RepositoryThe impact of Rapid Serial Visual Presentation (RSVP) on...by Z Boo · Cited by 11 — For native speakers, reading co...</p></details>
+   Link:<a href="https://nottingham-repository.worktribe.com/output/765223/the-impact-of-rapid-serial-visual-presentation-rsvp-on-reading-by-nonnative-speakers" target="_blank" rel="noopener noreferrer nofollow">https://nottingham-repository.worktribe.com/output/765223/the-impact-of-rapid-serial-visual-presentation-rsvp-on-reading-by-nonnative-speakers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nottingham RepositoryThe impact of Rapid Serial Visual Presentation (RSVP) on...by Z Boo · Cited by 11 — For native speakers, reading co...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: elifesciences.org  
-   Link: <a href="https://elifesciences.org/reviewed-preprints/91327v2/pdf" target="_blank" rel="noopener noreferrer nofollow">https://elifesciences.org/reviewed-preprints/91327v2/pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Early parafoveal semantic integration in natural readingby Y Pan · 2024 · Cited by 22 — We investigated parafoveal processing during natu...</p></details>
+   Link:<a href="https://elifesciences.org/reviewed-preprints/91327v2/pdf" target="_blank" rel="noopener noreferrer nofollow">https://elifesciences.org/reviewed-preprints/91327v2/pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Early parafoveal semantic integration in natural readingby Y Pan · 2024 · Cited by 22 — We investigated parafoveal processing during natu...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/1541931213601265" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1541931213601265</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsRSVP Reading on a Smart WatchGiven the wide use of small-screen devices, the present study compared RSVP and traditional rea...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/1541931213601265" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1541931213601265</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsRSVP Reading on a Smart WatchGiven the wide use of small-screen devices, the present study compared RSVP and traditional rea...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/stephanhacker2_great-tuesday-talk-at-leiden-science-universiteit-activity-7368660020189683714-v0fS" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/stephanhacker2_great-tuesday-talk-at-leiden-science-universiteit-activity-7368660020189683714-v0fS</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stephan M. Hacker&#x27;s PostThe seminar will bring together researchers from Poland and Austria to discuss the role of open data in art resea...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/stephanhacker2_great-tuesday-talk-at-leiden-science-universiteit-activity-7368660020189683714-v0fS" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/stephanhacker2_great-tuesday-talk-at-leiden-science-universiteit-activity-7368660020189683714-v0fS</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stephan M. Hacker&#x27;s PostThe seminar will bring together researchers from Poland and Austria to discuss the role of open data in art resea...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DW8PUqLjeO6/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DW8PUqLjeO6/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Catch a glimpse of what we&#x27;ve been building at MAIA&#x27;s AI...RSVP for SMA&#x27;s Marketing Advisor Panel! This Friday (10/24) from 5:15 - 8:00...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DW8PUqLjeO6/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DW8PUqLjeO6/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Catch a glimpse of what we&#x27;ve been building at MAIA&#x27;s AI...RSVP for SMA&#x27;s Marketing Advisor Panel! This Friday (10/24) from 5:15 - 8:00...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: instagram.com  
    Title: This MIT alum walked into an MIT Age Lab research study  
-   Link: <a href="https://www.instagram.com/p/DZK3FeaCZqA/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZK3FeaCZqA/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>At the link in the bio, read about how 84-year-old serial entrepreneur Don Yansen &#x27;63 launched the Kiwi, a voice-controlled watch providi...</p></details>
+   Link:<a href="https://www.instagram.com/p/DZK3FeaCZqA/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZK3FeaCZqA/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>At the link in the bio, read about how 84-year-old serial entrepreneur Don Yansen &#x27;63 launched the Kiwi, a voice-controlled watch providi...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: readmultiplex.com  
-   Link: <a href="https://readmultiplex.com/2026/01/17/read-500-words-per-minute-with-this-1970s-lost-superpower-and-conquer-the-information-tsunami/" target="_blank" rel="noopener noreferrer nofollow">https://readmultiplex.com/2026/01/17/read-500-words-per-minute-with-this-1970s-lost-superpower-and-conquer-the-information-tsunami/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>With [practice](&amp;#123;&amp;#123; &#x27;practice/&#x27; | relative_url &amp;#125;&amp;#125;), 171-350 characters per minute...Read more...</p></details>
+   Link:<a href="https://readmultiplex.com/2026/01/17/read-500-words-per-minute-with-this-1970s-lost-superpower-and-conquer-the-information-tsunami/" target="_blank" rel="noopener noreferrer nofollow">https://readmultiplex.com/2026/01/17/read-500-words-per-minute-with-this-1970s-lost-superpower-and-conquer-the-information-tsunami/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>With [practice](&amp;#123;&amp;#123; &#x27;practice/&#x27; | relative_url &amp;#125;&amp;#125;), 171-350 characters per minute...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: portfolio.erau.edu  
    Title: rsvp reading on a smart watch  
-   Link: <a href="https://portfolio.erau.edu/en/publications/rsvp-reading-on-a-smart-watch/" target="_blank" rel="noopener noreferrer nofollow">https://portfolio.erau.edu/en/publications/rsvp-reading-on-a-smart-watch/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading on a Smart WatchReading with Rapid Serial Visual Presentation (RSVP) has shown promise for optimizing screen space and increasing...</p></details>
+   Link:<a href="https://portfolio.erau.edu/en/publications/rsvp-reading-on-a-smart-watch/" target="_blank" rel="noopener noreferrer nofollow">https://portfolio.erau.edu/en/publications/rsvp-reading-on-a-smart-watch/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading on a Smart WatchReading with Rapid Serial Visual Presentation (RSVP) has shown promise for optimizing screen space and increasing...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: per character  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/21853785/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/21853785/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>serial visual presentation display on a small screenby CC Yen · 2011 · Cited by 3 — This study examined the effects of presentation unit...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/21853785/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/21853785/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>serial visual presentation display on a small screenby CC Yen · 2011 · Cited by 3 — This study examined the effects of presentation unit...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: dl.acm.org  
-   Link: <a href="https://dl.acm.org/doi/10.1145/3242969.3243009" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/10.1145/3242969.3243009</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Attentive Speed Reading on Small Screen...Through a series of three studies involving 40 participants, we found that 1) SmartRSVP can ac...</p></details>
+   Link:<a href="https://dl.acm.org/doi/10.1145/3242969.3243009" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/10.1145/3242969.3243009</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Attentive Speed Reading on Small Screen...Through a series of three studies involving 40 participants, we found that 1) SmartRSVP can ac...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: arxiv.org  
    Title: arXiv Visualizing Information on Smartwatch Faces: A Review and Design Space  
-   Link: <a href="https://arxiv.org/abs/2310.16185" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2310.16185</a>  
+   Link:<a href="https://arxiv.org/abs/2310.16185" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2310.16185</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: diva-portal.org  
-   Link: <a href="https://www.diva-portal.org/smash/get/diva2%3A1480682/FULLTEXT01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.diva-portal.org/smash/get/diva2%3A1480682/FULLTEXT01.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rapid Serial Visual Presentationby E Lewis-Åkerman · 2018 — Rapid Serial Visual Presentation (RSVP) is a concept that changes every day r...</p></details>
+   Link:<a href="https://www.diva-portal.org/smash/get/diva2%3A1480682/FULLTEXT01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.diva-portal.org/smash/get/diva2%3A1480682/FULLTEXT01.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rapid Serial Visual Presentationby E Lewis-Åkerman · 2018 — Rapid Serial Visual Presentation (RSVP) is a concept that changes every day r...</p></details>

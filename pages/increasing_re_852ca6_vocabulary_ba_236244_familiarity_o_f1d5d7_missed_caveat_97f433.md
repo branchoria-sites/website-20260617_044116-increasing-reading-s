@@ -279,7 +279,7 @@ One of the fastest ways to misread a familiar text is to skip the smallest words
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_vocabulary_ba_236244_familiarity_o_f1d5d7_missed_caveat_97f433-Illustration-1-dark.svg" | relative_url }}" alt="Missed Caveats illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_vocabulary_ba_236244_familiarity_o_f1d5d7_missed_caveat_97f433-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_vocabulary_ba_236244_familiarity_o_f1d5d7_missed_caveat_97f433-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-In the context of [increasing]({{ 'increasing/' | relative_url }}) reading speed, this matters because efficient reading depends on distinguishing low-value text from high-value text. Qualification words are high-value text. They often mark the exact place where an author narrows a claim, introduces an exception or signals that a familiar idea does not apply as broadly as readers expect. Research on metacognitive monitoring and overconfidence consistently shows that readers can overestimate how well they understand a text, particularly when familiarity encourages prediction instead of careful verification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s10648-022-09687-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer+2Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">What Makes Learners Overestimate Their Text...by S Golke · 2022 · Cited by 33 — It is frequently assumed that learner characteri...</span></span></span>
+In the context of [increasing]({{ 'increasing/' | relative_url }}) reading speed, this matters because efficient reading depends on distinguishing low-value text from high-value text. Qualification words are high-value text. They often mark the exact place where an author narrows a claim, introduces an exception or signals that a familiar idea does not apply as broadly as readers expect. Research on metacognitive monitoring and overconfidence consistently shows that readers can overestimate how well they understand a text, particularly when familiarity encourages prediction instead of careful verification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s10648-022-09687-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer+2Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">What Makes Learners Overestimate Their Text...by S Golke · 2022 · Cited by 33 — It is frequently assumed that learner characteri...</span></span></span>
 
 ## Why Caveats Disappear During Confident Skimming
 
@@ -301,7 +301,7 @@ Consider the difference between these statements:
 
 The topic remains familiar, but the claim changes each time. The misunderstanding comes not from missing the main idea but from overlooking the qualification.
 
-Research on metacognition in reading shows that readers are not always accurate judges of their own comprehension. People commonly believe they understand a text more completely than they actually do, especially when they can easily recognise its subject matter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/2331186X.2019.1565067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online+2Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineFull article: Reading comprehension and metacognitionby C Soto · 2019 · Cited by 211 — We explored relations betwe...</span></span></span>
+Research on metacognition in reading shows that readers are not always accurate judges of their own comprehension. People commonly believe they understand a text more completely than they actually do, especially when they can easily recognise its subject matter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/2331186X.2019.1565067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online+2Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineFull article: Reading comprehension and metacognitionby C Soto · 2019 · Cited by 211 — We explored relations betwe...</span></span></span>
 
 This creates a specific danger for speed readers: the more familiar the subject, the less likely they may be to notice the sentence that limits the conclusion.
 
@@ -354,7 +354,7 @@ Yet they separate evidence-based claims from overgeneralisation.
 
 Compare:
 
-* "This method improves comprehension." <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13027792/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Monitoring in Reading Comprehension - PMCby V Markovich · 2026 — This study examined associations between vocabulary knowledge, reading f...</span></span></span>
+* "This method improves comprehension."<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13027792/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Monitoring in Reading Comprehension - PMCby V Markovich · 2026 — This study examined associations between vocabulary knowledge, reading f...</span></span></span>
 * "This method **often** improves comprehension."
 
 The second statement is substantially more cautious and usually more accurate.
@@ -370,9 +370,9 @@ Scientific and technical writing frequently places its most important caution in
 
 ## What Reading Research Suggests About Small Words
 
-Eye-tracking research shows that reading is not a smooth left-to-right sweep. Readers continually adjust attention, pause on difficult material and revisit sections when processing becomes demanding. Eye movements reveal that comprehension depends not simply on seeing words but on allocating attention to the words that carry critical meaning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10715244/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PsychArchives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">In recent years, it has been employed increasingly for reading studies.Read more</span><span class="citation-popover-snippet">Editorial: Eye-tracking while reading for psycholinguistic and...by M Palmović · 2023 · Cited by 4 — Eye-tracking is a powerful techn...</span></span></span>
+Eye-tracking research shows that reading is not a smooth left-to-right sweep. Readers continually adjust attention, pause on difficult material and revisit sections when processing becomes demanding. Eye movements reveal that comprehension depends not simply on seeing words but on allocating attention to the words that carry critical meaning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10715244/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PsychArchives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">In recent years, it has been employed increasingly for reading studies.Read more</span><span class="citation-popover-snippet">Editorial: Eye-tracking while reading for psycholinguistic and...by M Palmović · 2023 · Cited by 4 — Eye-tracking is a powerful techn...</span></span></span>
 
-Studies of reading comprehension and metacomprehension also show that readers frequently exhibit monitoring errors. They may feel confident about their understanding while missing key constraints embedded in the text. This gap between perceived and actual understanding is one of the central findings in metacognitive research. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.02253/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers+2Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">The ability to assess and monitor one&#x27;s own understanding of a written text is fundamental for learning and academic achievement.Read more...</span></span></span>
+Studies of reading comprehension and metacomprehension also show that readers frequently exhibit monitoring errors. They may feel confident about their understanding while missing key constraints embedded in the text. This gap between perceived and actual understanding is one of the central findings in metacognitive research.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.02253/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers+2Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">The ability to assess and monitor one&#x27;s own understanding of a written text is fundamental for learning and academic achievement.Read more...</span></span></span>
 
 Qualification words are particularly vulnerable because they are:
 
@@ -428,181 +428,181 @@ Many readers assume speed and caution are opposites. In practice, strong readers
 
 Most sentences in a familiar text can be processed quickly because they confirm known information. Qualification words identify the minority of sentences that deserve closer inspection. These small markers frequently contain the author's disagreement, limitation, exception or warning.
 
-For readers seeking greater speed, the goal is not to slow down for everything. It is to recognise that words such as *however*, *except*, *unless* and *under certain conditions* are often carrying more meaning than the paragraph's most impressive technical terms. Missing them can turn a correct understanding into an incorrect one, even when the rest of the text feels completely familiar. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s10648-022-09687-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer+2Utrecht University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">What Makes Learners Overestimate Their Text...by S Golke · 2022 · Cited by 33 — It is frequently assumed that learner characteri...</span></span></span>
+For readers seeking greater speed, the goal is not to slow down for everything. It is to recognise that words such as *however*, *except*, *unless* and *under certain conditions* are often carrying more meaning than the paragraph's most impressive technical terms. Missing them can turn a correct understanding into an incorrect one, even when the rest of the text feels completely familiar.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s10648-022-09687-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer+2Utrecht University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">What Makes Learners Overestimate Their Text...by S Golke · 2022 · Cited by 33 — It is frequently assumed that learner characteri...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Small Words Fast Readers Miss. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Small Words Fast Readers Miss. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains why readers miss caveats when relying on prediction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why readers miss caveats when relying on prediction.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Promotes active reading rather than assumption-driven skimming.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Promotes active reading rather than assumption-driven skimming.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+art+of+thinking+clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The art of thinking clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8270423-M.jpg" alt="Cover for The art of thinking clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+art+of+thinking+clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The art of thinking clearly">The art of thinking clearly</a>
-        </h4>
-        <p class="fr-book-author">By Rolf Dobelli, Rolf Dobelli</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+art+of+thinking+clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The art of thinking clearly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8270423-M.jpg" alt="Cover for The art of thinking clearly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+art+of+thinking+clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The art of thinking clearly">The art of thinking clearly</a>
+</h4>
+<p class="fr-book-author">By Rolf Dobelli, Rolf Dobelli</p>
         
-        <p class="fr-book-desc">First published 2013. Subjects: nonfiction, psychology, Errors, Développement d&#x27;aptitudes, Prise de décision (Relations humaines).</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+art+of+thinking+clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2013. Subjects: nonfiction, psychology, Errors, Développement d&#x27;aptitudes, Prise de décision (Relations humaines).</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+art+of+thinking+clearly+Rolf+Dobelli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+pyramid+principle+Barbara+Minto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The pyramid principle on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2346771-M.jpg" alt="Cover for The pyramid principle" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+pyramid+principle+Barbara+Minto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The pyramid principle">The pyramid principle</a>
-        </h4>
-        <p class="fr-book-author">By Barbara Minto</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+pyramid+principle+Barbara+Minto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The pyramid principle on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2346771-M.jpg" alt="Cover for The pyramid principle" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+pyramid+principle+Barbara+Minto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The pyramid principle">The pyramid principle</a>
+</h4>
+<p class="fr-book-author">By Barbara Minto</p>
         
-        <p class="fr-book-desc">First published 1978. Subjects: English language, Business English, Business writing, Rhetoric, Thought and thinking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+pyramid+principle+Barbara+Minto&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1978. Subjects: English language, Business English, Business writing, Rhetoric, Thought and thinking.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+pyramid+principle+Barbara+Minto&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+art+of+thinking+clearly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The art of thinking clearly</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+art+of+thinking+clearly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The art of thinking clearly</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-caveats-the-small-words-fast-readers-miss-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="missed-caveats-the-small-words-fast-readers-miss-increasing-study-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Book Thumb Page Holder One Hand Reading Book Study Accessory Gift Idea"><img src="{{ '/assets/images/marketplace-covers/7c86cfbd4cc68dc53fae.jpg' | relative_url }}" alt="Listing image for Book Thumb Page Holder One Hand Reading Book Study Accessory Gift Idea" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-caveats-the-small-words-fast-readers-miss-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="missed-caveats-the-small-words-fast-readers-miss-increasing-study-accessory" target="_blank" rel="sponsored noopener noreferrer">Book Thumb Page Holder One Hand Reading Book Study Accessory Gift Idea</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-caveats-the-small-words-fast-readers-miss-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="missed-caveats-the-small-words-fast-readers-miss-increasing-study-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study accessory">Search <span data-ebay-domain-label>eBay.co.uk</span>: study accessory</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-caveats-the-small-words-fast-readers-miss-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="missed-caveats-the-small-words-fast-readers-miss-increasing-study-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-caveats-the-small-words-fast-readers-miss-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="missed-caveats-the-small-words-fast-readers-miss-increasing-study-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Book Thumb Page Holder One Hand Reading Book Study Accessory Gift Idea"><img src="{{ '/assets/images/marketplace-covers/7c86cfbd4cc68dc53fae.jpg' | relative_url }}" alt="Listing image for Book Thumb Page Holder One Hand Reading Book Study Accessory Gift Idea" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-caveats-the-small-words-fast-readers-miss-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="missed-caveats-the-small-words-fast-readers-miss-increasing-study-accessory" target="_blank" rel="sponsored noopener noreferrer">Book Thumb Page Holder One Hand Reading Book Study Accessory Gift Idea</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-caveats-the-small-words-fast-readers-miss-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="missed-caveats-the-small-words-fast-readers-miss-increasing-study-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study accessory">Search<span data-ebay-domain-label>eBay.co.uk</span>: study accessory</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-caveats-the-small-words-fast-readers-miss-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="missed-caveats-the-small-words-fast-readers-miss-increasing-study-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-caveats-the-small-words-fast-readers-miss-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="missed-caveats-the-small-words-fast-readers-miss-increasing-study-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Dalvey Calculator Case Original Vintage 1995 Business Study Accessory Gift"><img src="{{ '/assets/images/marketplace-covers/768ee68fc20219a883ad.jpg' | relative_url }}" alt="Listing image for The Dalvey Calculator Case Original Vintage 1995 Business Study Accessory Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-caveats-the-small-words-fast-readers-miss-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="missed-caveats-the-small-words-fast-readers-miss-increasing-study-accessory" target="_blank" rel="sponsored noopener noreferrer">The Dalvey Calculator Case Original Vintage 1995 Business Study Accessory Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-caveats-the-small-words-fast-readers-miss-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="missed-caveats-the-small-words-fast-readers-miss-increasing-study-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study accessory">Search <span data-ebay-domain-label>eBay.co.uk</span>: study accessory</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-caveats-the-small-words-fast-readers-miss-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="missed-caveats-the-small-words-fast-readers-miss-increasing-study-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-caveats-the-small-words-fast-readers-miss-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="missed-caveats-the-small-words-fast-readers-miss-increasing-study-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Dalvey Calculator Case Original Vintage 1995 Business Study Accessory Gift"><img src="{{ '/assets/images/marketplace-covers/768ee68fc20219a883ad.jpg' | relative_url }}" alt="Listing image for The Dalvey Calculator Case Original Vintage 1995 Business Study Accessory Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-caveats-the-small-words-fast-readers-miss-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="missed-caveats-the-small-words-fast-readers-miss-increasing-study-accessory" target="_blank" rel="sponsored noopener noreferrer">The Dalvey Calculator Case Original Vintage 1995 Business Study Accessory Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-caveats-the-small-words-fast-readers-miss-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="missed-caveats-the-small-words-fast-readers-miss-increasing-study-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study accessory">Search<span data-ebay-domain-label>eBay.co.uk</span>: study accessory</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-caveats-the-small-words-fast-readers-miss-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="missed-caveats-the-small-words-fast-readers-miss-increasing-study-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-caveats-the-small-words-fast-readers-miss-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="missed-caveats-the-small-words-fast-readers-miss-increasing-study-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Clamp on Desk Organizer Accessory Under Desk Mouse Tray for Study Office"><img src="{{ '/assets/images/marketplace-covers/425eb0a27beb127b25e2.jpg' | relative_url }}" alt="Listing image for Clamp on Desk Organizer Accessory Under Desk Mouse Tray for Study Office" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-caveats-the-small-words-fast-readers-miss-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="missed-caveats-the-small-words-fast-readers-miss-increasing-study-accessory" target="_blank" rel="sponsored noopener noreferrer">Clamp on Desk Organizer Accessory Under Desk Mouse Tray for Study Office</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-caveats-the-small-words-fast-readers-miss-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="missed-caveats-the-small-words-fast-readers-miss-increasing-study-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study accessory">Search <span data-ebay-domain-label>eBay.co.uk</span>: study accessory</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-caveats-the-small-words-fast-readers-miss-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="missed-caveats-the-small-words-fast-readers-miss-increasing-study-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-caveats-the-small-words-fast-readers-miss-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="missed-caveats-the-small-words-fast-readers-miss-increasing-study-accessory" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-caveats-the-small-words-fast-readers-miss-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="missed-caveats-the-small-words-fast-readers-miss-increasing-study-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Clamp on Desk Organizer Accessory Under Desk Mouse Tray for Study Office"><img src="{{ '/assets/images/marketplace-covers/425eb0a27beb127b25e2.jpg' | relative_url }}" alt="Listing image for Clamp on Desk Organizer Accessory Under Desk Mouse Tray for Study Office" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-caveats-the-small-words-fast-readers-miss-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="missed-caveats-the-small-words-fast-readers-miss-increasing-study-accessory" target="_blank" rel="sponsored noopener noreferrer">Clamp on Desk Organizer Accessory Under Desk Mouse Tray for Study Office</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-caveats-the-small-words-fast-readers-miss-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="missed-caveats-the-small-words-fast-readers-miss-increasing-study-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study accessory">Search<span data-ebay-domain-label>eBay.co.uk</span>: study accessory</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-caveats-the-small-words-fast-readers-miss-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="missed-caveats-the-small-words-fast-readers-miss-increasing-study-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-caveats-the-small-words-fast-readers-miss-increasing-study-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study accessory" data-ebay-reference="missed-caveats-the-small-words-fast-readers-miss-increasing-study-accessory" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -618,7 +618,7 @@ For readers seeking greater speed, the goal is not to slow down for everything. 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -638,7 +638,7 @@ For readers seeking greater speed, the goal is not to slow down for everything. 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -670,7 +670,7 @@ For readers seeking greater speed, the goal is not to slow down for everything. 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -722,7 +722,7 @@ For readers seeking greater speed, the goal is not to slow down for everything. 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -767,7 +767,7 @@ For readers seeking greater speed, the goal is not to slow down for everything. 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -808,104 +808,104 @@ For readers seeking greater speed, the goal is not to slow down for everything. 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s10648-022-09687-0" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10648-022-09687-0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What Makes Learners Overestimate Their Text...by S Golke · 2022 · Cited by 33 — It is frequently assumed that learner characteri...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s10648-022-09687-0" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10648-022-09687-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Makes Learners Overestimate Their Text...by S Golke · 2022 · Cited by 33 — It is frequently assumed that learner characteri...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: In recent years, it has been employed increasingly for reading studies.Read more  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10715244/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10715244/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Editorial: Eye-tracking while reading for psycholinguistic and...by M Palmović · 2023 · Cited by 4 — Eye-tracking is a powerful techn...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10715244/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10715244/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Editorial: Eye-tracking while reading for psycholinguistic and...by M Palmović · 2023 · Cited by 4 — Eye-tracking is a powerful techn...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: psycharchives.org  
-   Link: <a href="https://www.psycharchives.org/en/item/f5070adb-055e-4f79-8454-a399b5def1a5" target="_blank" rel="noopener noreferrer nofollow">https://www.psycharchives.org/en/item/f5070adb-055e-4f79-8454-a399b5def1a5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>While there are machine learning...Read more...</p></details>
+   Link:<a href="https://www.psycharchives.org/en/item/f5070adb-055e-4f79-8454-a399b5def1a5" target="_blank" rel="noopener noreferrer nofollow">https://www.psycharchives.org/en/item/f5070adb-055e-4f79-8454-a399b5def1a5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>While there are machine learning...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.02253/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.02253/full</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The ability to assess and monitor one&#x27;s own understanding of a written text is fundamental for learning and academic achievement.Read more...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.02253/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.02253/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The ability to assess and monitor one&#x27;s own understanding of a written text is fundamental for learning and academic achievement.Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: research-portal.uu.nl  
    Title: fcomm 06 661801  
-   Link: <a href="https://research-portal.uu.nl/ws/files/228265016/fcomm-06-661801.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research-portal.uu.nl/ws/files/228265016/fcomm-06-661801.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Utrecht UniversityUtrecht University Repositoryby S Gaillard · 2021 · Cited by 60 — They concluded that there are cognitive and metacogni...</p></details>
+   Link:<a href="https://research-portal.uu.nl/ws/files/228265016/fcomm-06-661801.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research-portal.uu.nl/ws/files/228265016/fcomm-06-661801.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Utrecht UniversityUtrecht University Repositoryby S Gaillard · 2021 · Cited by 60 — They concluded that there are cognitive and metacogni...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/2331186X.2019.1565067" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/2331186X.2019.1565067</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineFull article: Reading comprehension and metacognitionby C Soto · 2019 · Cited by 211 — We explored relations betwe...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/2331186X.2019.1565067" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/2331186X.2019.1565067</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineFull article: Reading comprehension and metacognitionby C Soto · 2019 · Cited by 211 — We explored relations betwe...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13027792/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC13027792/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Monitoring in Reading Comprehension - PMCby V Markovich · 2026 — This study examined associations between vocabulary knowledge, reading f...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13027792/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC13027792/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Monitoring in Reading Comprehension - PMCby V Markovich · 2026 — This study examined associations between vocabulary knowledge, reading f...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11507242/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11507242/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the Word Level Skill and Reading Comprehension...by CL Richmond · 2023 · Cited by 7 — This study examined the heterogeneity of literacy...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11507242/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11507242/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Word Level Skill and Reading Comprehension...by CL Richmond · 2023 · Cited by 7 — This study examined the heterogeneity of literacy...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: studocu.id  
    Title: reading comprehension  
-   Link: <a href="https://www.studocu.id/id/document/universitas-sebelas-maret/english-language-education/reading-comprehension-skimming-[scanning" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.id/id/document/universitas-sebelas-maret/english-language-education/reading-comprehension-skimming-[scanning</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Harmer (2001: 202). - Scanning is the strategy for quickly finding...Read more...</p></details>
+   Link:<a href="https://www.studocu.id/id/document/universitas-sebelas-maret/english-language-education/reading-comprehension-skimming-[scanning" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.id/id/document/universitas-sebelas-maret/english-language-education/reading-comprehension-skimming-[scanning</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Harmer (2001: 202). - Scanning is the strategy for quickly finding...Read more...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/398282916_An_Analysis_of_Skimming_and_Scanning_Strategies_in_Teaching_Reading_Skill_Used_by_the_English_Teacher_at_the_Eighth_Grade_of_UPTD_SMP_Negeri_1_Mandrehe_Barat" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/398282916_An_Analysis_of_Skimming_and_Scanning_Strategies_in_Teaching_Reading_Skill_Used_by_the_English_Teacher_at_the_Eighth_Grade_of_UPTD_SMP_Negeri_1_Mandrehe_Barat</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) An Analysis of Skimming and Scanning Strategies in...6 Sept 2025 — This study aims to examine the use of skimming and scanning tec...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/398282916_An_Analysis_of_Skimming_and_Scanning_Strategies_in_Teaching_Reading_Skill_Used_by_the_English_Teacher_at_the_Eighth_Grade_of_UPTD_SMP_Negeri_1_Mandrehe_Barat" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/398282916_An_Analysis_of_Skimming_and_Scanning_Strategies_in_Teaching_Reading_Skill_Used_by_the_English_Teacher_at_the_Eighth_Grade_of_UPTD_SMP_Negeri_1_Mandrehe_Barat</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) An Analysis of Skimming and Scanning Strategies in...6 Sept 2025 — This study aims to examine the use of skimming and scanning tec...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sr-research.com  
-   Link: <a href="https://www.sr-research.com/reading-language-publications/" target="_blank" rel="noopener noreferrer nofollow">https://www.sr-research.com/reading-language-publications/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading and Language Eye-Tracking PublicationsComprehensive list of reading and language research peer-reviewed journal article publicati...</p></details>
+   Link:<a href="https://www.sr-research.com/reading-language-publications/" target="_blank" rel="noopener noreferrer nofollow">https://www.sr-research.com/reading-language-publications/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading and Language Eye-Tracking PublicationsComprehensive list of reading and language research peer-reviewed journal article publicati...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: scispace.com  
-   Link: <a href="https://scispace.com/pdf/the-analysis-of-skimming-and-scanning-technique-to-improve-3nxbe3x05j.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/the-analysis-of-skimming-and-scanning-technique-to-improve-3nxbe3x05j.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skimming and Scanning in reading comprehension and to find out the advantages and disadvantages of skimming and...Read more...</p></details>
+   Link:<a href="https://scispace.com/pdf/the-analysis-of-skimming-and-scanning-technique-to-improve-3nxbe3x05j.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/the-analysis-of-skimming-and-scanning-technique-to-improve-3nxbe3x05j.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skimming and Scanning in reading comprehension and to find out the advantages and disadvantages of skimming and...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reunir.unir.net  
    Title: Eye tracking contribution on processing OF reading comprehension  
-   Link: <a href="https://reunir.unir.net/bitstream/handle/123456789/18055/Eye-tracking%20contribution%20on%20processing%20OF%20reading%20comprehension.pdf?isAllowed=y&amp;sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://reunir.unir.net/bitstream/handle/123456789/18055/Eye-tracking%20contribution%20on%20processing%20OF%20reading%20comprehension.pdf?isAllowed=y&amp;sequence=1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>unir.netEye-tracking contribution on processing of (implicit)...by C de-la-Peña · 2024 · Cited by 15 — The aim is to understand the role...</p></details>
+   Link:<a href="https://reunir.unir.net/bitstream/handle/123456789/18055/Eye-tracking%20contribution%20on%20processing%20OF%20reading%20comprehension.pdf?isAllowed=y&amp;sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://reunir.unir.net/bitstream/handle/123456789/18055/Eye-tracking%20contribution%20on%20processing%20OF%20reading%20comprehension.pdf?isAllowed=y&amp;sequence=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>unir.netEye-tracking contribution on processing of (implicit)...by C de-la-Peña · 2024 · Cited by 15 — The aim is to understand the role...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: revistaocnos.com  
-   Link: <a href="https://www.revistaocnos.com/index.php/ocnos/article/download/488/897/8687" target="_blank" rel="noopener noreferrer nofollow">https://www.revistaocnos.com/index.php/ocnos/article/download/488/897/8687</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>n Spanish, in dyslexic children and typical readers based on their eye movements...Read more...</p></details>
+   Link:<a href="https://www.revistaocnos.com/index.php/ocnos/article/download/488/897/8687" target="_blank" rel="noopener noreferrer nofollow">https://www.revistaocnos.com/index.php/ocnos/article/download/488/897/8687</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n Spanish, in dyslexic children and typical readers based on their eye movements...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: research.reading.ac.uk  
    Title: 2025 03 Tromso Eye Tracking Workshop Session 2 Handout  
-   Link: <a href="https://research.reading.ac.uk/psylinglab/wp-content/uploads/sites/25/2025/03/2025-03-Tromso-Eye-Tracking-Workshop-Session-2-Handout.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.reading.ac.uk/psylinglab/wp-content/uploads/sites/25/2025/03/2025-03-Tromso-Eye-Tracking-Workshop-Session-2-Handout.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>reading.ac.ukEYE-TRACKING DURING READING IN PSYCHOLINGUISTICS28 Mar 2025 — Corpus-based eye-tracking has been used widely in L1 research...</p></details>
+   Link:<a href="https://research.reading.ac.uk/psylinglab/wp-content/uploads/sites/25/2025/03/2025-03-Tromso-Eye-Tracking-Workshop-Session-2-Handout.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.reading.ac.uk/psylinglab/wp-content/uploads/sites/25/2025/03/2025-03-Tromso-Eye-Tracking-Workshop-Session-2-Handout.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>reading.ac.ukEYE-TRACKING DURING READING IN PSYCHOLINGUISTICS28 Mar 2025 — Corpus-based eye-tracking has been used widely in L1 research...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: tefl-tesol-certification.com  
-   Link: <a href="https://tefl-tesol-certification.com/blog/types-of-reading" target="_blank" rel="noopener noreferrer nofollow">https://tefl-tesol-certification.com/blog/types-of-reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Types of Reading (ESL): Skimming, Scanning &amp; More4 Sept 2024 — Discover the four essential types of reading: scanning, skimming, extensiv...</p></details>
+   Link:<a href="https://tefl-tesol-certification.com/blog/types-of-reading" target="_blank" rel="noopener noreferrer nofollow">https://tefl-tesol-certification.com/blog/types-of-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Types of Reading (ESL): Skimming, Scanning &amp; More4 Sept 2024 — Discover the four essential types of reading: scanning, skimming, extensiv...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pdfs.semanticscholar.org  
-   Link: <a href="https://pdfs.semanticscholar.org/8a97/4a025e15830f62dc3dc72f1066e160540711.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pdfs.semanticscholar.org/8a97/4a025e15830f62dc3dc72f1066e160540711.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Students&#x27; Reading Comprehension Through...by PVV Mokalu · Cited by 6 — According to the results, the researchers try to draw a conclusio...</p></details>
+   Link:<a href="https://pdfs.semanticscholar.org/8a97/4a025e15830f62dc3dc72f1066e160540711.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pdfs.semanticscholar.org/8a97/4a025e15830f62dc3dc72f1066e160540711.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Students&#x27; Reading Comprehension Through...by PVV Mokalu · Cited by 6 — According to the results, the researchers try to draw a conclusio...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: tmalsburg.github.io  
-   Link: <a href="https://tmalsburg.github.io/MeziereEtAl2021MS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tmalsburg.github.io/MeziereEtAl2021MS.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>eye-tracking reading comprehensionby DC Mézière · Cited by 143 — To date, eye-movement markers of successful reading comprehension have n...</p></details>
+   Link:<a href="https://tmalsburg.github.io/MeziereEtAl2021MS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tmalsburg.github.io/MeziereEtAl2021MS.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>eye-tracking reading comprehensionby DC Mézière · Cited by 143 — To date, eye-movement markers of successful reading comprehension have n...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: rsisinternational.org  
-   Link: <a href="https://rsisinternational.org/journals/ijriss/uploads/vol9-iss10-pg4423-4431-202511_pdf.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rsisinternational.org/journals/ijriss/uploads/vol9-iss10-pg4423-4431-202511_pdf.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Relationship Between Cognitive Biases and Reading...12 Nov 2025 — This study explored the relationship between cognitive biases and read...</p></details>
+   Link:<a href="https://rsisinternational.org/journals/ijriss/uploads/vol9-iss10-pg4423-4431-202511_pdf.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rsisinternational.org/journals/ijriss/uploads/vol9-iss10-pg4423-4431-202511_pdf.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Relationship Between Cognitive Biases and Reading...12 Nov 2025 — This study explored the relationship between cognitive biases and read...</p></details>

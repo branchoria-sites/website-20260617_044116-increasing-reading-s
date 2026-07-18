@@ -298,7 +298,7 @@ Reducing the strength of your inner voice can increase reading speed, but speed 
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_inner_voice_r_589d88_paragraph_sel_dc0a72-Illustration-1-dark.svg" | relative_url }}" alt="Self checks illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_inner_voice_r_589d88_paragraph_sel_dc0a72-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_inner_voice_r_589d88_paragraph_sel_dc0a72-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Research on comprehension monitoring consistently shows that skilled readers evaluate their understanding as they read and after they read. They notice gaps, [contradictions]({{ 'contradictions/' | relative_url }}), and uncertainty, then adjust accordingly. Poorer comprehension often occurs not because information was unavailable, but because readers failed to detect that understanding had broken down. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ideals.illinois.edu/items/17988/bitstreams/64436/data.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideals.illinois.edu">[IDEALS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideals.illinois.edu</span><span class="citation-popover-snippet">Comprehension monitoring - IDEALSMarch 28, 2008 — by L Baker · 1979 · Cited by 508 — Comprehension monitoring was investigated by a...</span><span class="citation-popover-meta">Published: March 28, 2008</span></span></span>
+Research on comprehension monitoring consistently shows that skilled readers evaluate their understanding as they read and after they read. They notice gaps, [contradictions]({{ 'contradictions/' | relative_url }}), and uncertainty, then adjust accordingly. Poorer comprehension often occurs not because information was unavailable, but because readers failed to detect that understanding had broken down.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ideals.illinois.edu/items/17988/bitstreams/64436/data.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideals.illinois.edu">[IDEALS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideals.illinois.edu</span><span class="citation-popover-snippet">Comprehension monitoring - IDEALSMarch 28, 2008 — by L Baker · 1979 · Cited by 508 — Comprehension monitoring was investigated by a...</span><span class="citation-popover-meta">Published: March 28, 2008</span></span></span>
 
 For readers experimenting with lighter inner speech, a quick paragraph-level self-check is therefore one of the simplest and most effective safeguards. It verifies whether faster reading preserved meaning rather than merely creating the feeling of speed.
 
@@ -306,7 +306,7 @@ For readers experimenting with lighter inner speech, a quick paragraph-level sel
 
 One of the traps in reading-speed training is confusing recognition with understanding. Seeing familiar words and following a paragraph smoothly can create an impression of comprehension even when important relationships between ideas were never encoded.
 
-Research on metacognitive monitoring—the ability to judge one's own understanding—shows that readers are not always accurate judges of comprehension. People frequently believe they understand more than they actually do, especially when text feels fluent and easy to process. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.02253/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Frontiers Metacognitive Monitoring of Text Comprehension</span><span class="citation-popover-snippet">FrontiersMetacognitive Monitoring of Text ComprehensionNovember 20, 2018 — by C Mirandola · 2018 · Cited by 30 — The current study was ai...</span><span class="citation-popover-meta">Published: November 20, 2018</span></span></span>
+Research on metacognitive monitoring—the ability to judge one's own understanding—shows that readers are not always accurate judges of comprehension. People frequently believe they understand more than they actually do, especially when text feels fluent and easy to process.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.02253/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Frontiers Metacognitive Monitoring of Text Comprehension</span><span class="citation-popover-snippet">FrontiersMetacognitive Monitoring of Text ComprehensionNovember 20, 2018 — by C Mirandola · 2018 · Cited by 30 — The current study was ai...</span><span class="citation-popover-meta">Published: November 20, 2018</span></span></span>
 
 A paragraph recall check works because it tests the outcome rather than the experience.
 
@@ -323,7 +323,7 @@ Consider a short argumentative paragraph. If asked immediately afterwards:
 
 a reader who truly understood the passage can usually answer in a sentence or two.
 
-By contrast, a reader relying on surface familiarity may remember individual words, examples, or topics without being able to explain how they fit together. This distinction mirrors findings in comprehension-monitoring research showing that effective readers actively evaluate meaning rather than merely processing text fluently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ideals.illinois.edu/items/17988/bitstreams/64436/data.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideals.illinois.edu">[IDEALS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideals.illinois.edu</span><span class="citation-popover-snippet">Comprehension monitoring - IDEALSMarch 28, 2008 — by L Baker · 1979 · Cited by 508 — Comprehension monitoring was investigated by a...</span><span class="citation-popover-meta">Published: March 28, 2008</span></span></span>
+By contrast, a reader relying on surface familiarity may remember individual words, examples, or topics without being able to explain how they fit together. This distinction mirrors findings in comprehension-monitoring research showing that effective readers actively evaluate meaning rather than merely processing text fluently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ideals.illinois.edu/items/17988/bitstreams/64436/data.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideals.illinois.edu">[IDEALS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideals.illinois.edu</span><span class="citation-popover-snippet">Comprehension monitoring - IDEALSMarch 28, 2008 — by L Baker · 1979 · Cited by 508 — Comprehension monitoring was investigated by a...</span><span class="citation-popover-meta">Published: March 28, 2008</span></span></span>
 
 The key insight is that reading speed should be measured against retained meaning, not against [eye movement]({{ 'eye-tradeoff/' | relative_url }}) or page count.
 
@@ -362,7 +362,7 @@ Ask:
 
 </div>
 
-This question forces attention beyond isolated keywords and towards reasoning. Research on self-explanation and comprehension monitoring suggests that generating explanations improves understanding because readers must connect ideas rather than merely recognise them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.eric.ed.gov/fulltext/ED577143.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.eric.ed.gov">[ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.eric.ed.gov</span><span class="citation-popover-title">ERICSelf-Explanation and Reading Strategy Training (SERT</span><span class="citation-popover-snippet">ERICSeptember 13, 2017 — by DS McNamara · 2017 · Cited by 158 — Participants in the SERT condition were given a short list of six reading...</span><span class="citation-popover-meta">Published: September 13, 2017</span></span></span>
+This question forces attention beyond isolated keywords and towards reasoning. Research on self-explanation and comprehension monitoring suggests that generating explanations improves understanding because readers must connect ideas rather than merely recognise them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.eric.ed.gov/fulltext/ED577143.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.eric.ed.gov">[ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.eric.ed.gov</span><span class="citation-popover-title">ERICSelf-Explanation and Reading Strategy Training (SERT</span><span class="citation-popover-snippet">ERICSeptember 13, 2017 — by DS McNamara · 2017 · Cited by 158 — Participants in the SERT condition were given a short list of six reading...</span><span class="citation-popover-meta">Published: September 13, 2017</span></span></span>
 
 ### How was the paragraph organised?
 
@@ -443,11 +443,11 @@ Recognition can create a false sense of understanding.
 
 When returning to the paragraph, everything feels familiar. Yet without the text visible, the reader cannot explain it accurately.
 
-Research comparing self-reported strategy use with actual comprehension performance has found that subjective impressions can diverge substantially from demonstrated understanding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/2691240/Self_report_of_reading_comprehension_strategies_What_are_we_measuring" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Academia(PDF) Self-report of reading comprehension strategiesDecember 1, 2006 — Findings indicate low correlation between self-reported s...</span><span class="citation-popover-meta">Published: December 1, 2006</span></span></span>
+Research comparing self-reported strategy use with actual comprehension performance has found that subjective impressions can diverge substantially from demonstrated understanding.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/2691240/Self_report_of_reading_comprehension_strategies_What_are_we_measuring" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Academia(PDF) Self-report of reading comprehension strategiesDecember 1, 2006 — Findings indicate low correlation between self-reported s...</span><span class="citation-popover-meta">Published: December 1, 2006</span></span></span>
 
 ### You miss contradictions or qualifications
 
-Skilled readers tend to notice when information conflicts with earlier statements or when a paragraph introduces an important exception. Comprehension-monitoring studies frequently use inconsistencies and anomalies because good readers are more likely to detect them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ideals.illinois.edu/items/17988/bitstreams/64436/data.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideals.illinois.edu">[IDEALS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideals.illinois.edu</span><span class="citation-popover-snippet">Comprehension monitoring - IDEALSMarch 28, 2008 — by L Baker · 1979 · Cited by 508 — Comprehension monitoring was investigated by a...</span><span class="citation-popover-meta">Published: March 28, 2008</span></span></span>
+Skilled readers tend to notice when information conflicts with earlier statements or when a paragraph introduces an important exception. Comprehension-monitoring studies frequently use inconsistencies and anomalies because good readers are more likely to detect them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ideals.illinois.edu/items/17988/bitstreams/64436/data.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideals.illinois.edu">[IDEALS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideals.illinois.edu</span><span class="citation-popover-snippet">Comprehension monitoring - IDEALSMarch 28, 2008 — by L Baker · 1979 · Cited by 508 — Comprehension monitoring was investigated by a...</span><span class="citation-popover-meta">Published: March 28, 2008</span></span></span>
 
 If faster reading regularly causes missed [exceptions]({{ 'exceptions/' | relative_url }}), negations, or reversals, the pace is probably too aggressive for that material.
 
@@ -483,7 +483,7 @@ When checks repeatedly succeed, readers gain evidence that lighter inner speech 
 
 </div>
 
-This aligns with the broader evidence on metacognitive monitoring: effective readers regulate their approach based on feedback from comprehension itself. They do not maintain a fixed reading speed regardless of results. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/252102959_Metacognitive_Monitoring_During_and_After_Reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Metacognitive Monitoring During and After Reading</span><span class="citation-popover-snippet">Metacognitive Monitoring During and After ReadingJanuary 1, 2009 — Metacognition enables readers to plan, monitor, and evalua...</span><span class="citation-popover-meta">Published: January 1, 2009</span></span></span>
+This aligns with the broader evidence on metacognitive monitoring: effective readers regulate their approach based on feedback from comprehension itself. They do not maintain a fixed reading speed regardless of results.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/252102959_Metacognitive_Monitoring_During_and_After_Reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Metacognitive Monitoring During and After Reading</span><span class="citation-popover-snippet">Metacognitive Monitoring During and After ReadingJanuary 1, 2009 — Metacognition enables readers to plan, monitor, and evalua...</span><span class="citation-popover-meta">Published: January 1, 2009</span></span></span>
 
 ## The real goal of the self-check
 
@@ -496,178 +496,178 @@ If you can state the claim, identify the supporting evidence, and describe the s
 That makes the self-check valuable. It converts reading speed from a feeling into something measurable: the ability to move faster while still carrying the paragraph's meaning forward into the next one.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did faster reading actually leave meaning behind?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did faster reading actually leave meaning behind?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Teaches methods for testing understanding rather than relying on reading fluency.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Teaches methods for testing understanding rather than relying on reading fluency.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-        </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+</h4>
+<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Strong emphasis on retrieval, recall checks, and verifying comprehension.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong emphasis on retrieval, recall checks, and verifying comprehension.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Highlights the danger of intuitive confidence when actual understanding is weak.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights the danger of intuitive confidence when actual understanding is weak.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Don&#x27;t Students Like School? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kuEmEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Don&#x27;t Students Like School?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
-        </h4>
-        <p class="fr-book-author">By Daniel T. Willingham</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Don&#x27;t Students Like School? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kuEmEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Don&#x27;t Students Like School?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
+</h4>
+<p class="fr-book-author">By Daniel T. Willingham</p>
         
-        <p class="fr-book-desc">Explains how understanding, memory, and comprehension monitoring work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how understanding, memory, and comprehension monitoring work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-checks-did-faster-reading-actually-leave-meaning-behind-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="self-checks-did-faster-reading-actually-leave-meaning-behind-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage Office Home"><img src="{{ '/assets/images/marketplace-covers/c4ba66d9ac362939999e.jpg' | relative_url }}" alt="Listing image for Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage Office Home" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-checks-did-faster-reading-actually-leave-meaning-behind-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="self-checks-did-faster-reading-actually-leave-meaning-behind-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage Office Home</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-checks-did-faster-reading-actually-leave-meaning-behind-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="self-checks-did-faster-reading-actually-leave-meaning-behind-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-checks-did-faster-reading-actually-leave-meaning-behind-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="self-checks-did-faster-reading-actually-leave-meaning-behind-increasing-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-checks-did-faster-reading-actually-leave-meaning-behind-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="self-checks-did-faster-reading-actually-leave-meaning-behind-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage Office Home"><img src="{{ '/assets/images/marketplace-covers/c4ba66d9ac362939999e.jpg' | relative_url }}" alt="Listing image for Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage Office Home" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-checks-did-faster-reading-actually-leave-meaning-behind-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="self-checks-did-faster-reading-actually-leave-meaning-behind-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage Office Home</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-checks-did-faster-reading-actually-leave-meaning-behind-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="self-checks-did-faster-reading-actually-leave-meaning-behind-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-checks-did-faster-reading-actually-leave-meaning-behind-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="self-checks-did-faster-reading-actually-leave-meaning-behind-increasing-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-checks-did-faster-reading-actually-leave-meaning-behind-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="self-checks-did-faster-reading-actually-leave-meaning-behind-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for OSCO Bamboo Desk Organiser | 6 Compartments | 1 Drawer | Office Tidy | Stationer"><img src="{{ '/assets/images/marketplace-covers/acce59ee37094e6800bd.jpg' | relative_url }}" alt="Listing image for OSCO Bamboo Desk Organiser | 6 Compartments | 1 Drawer | Office Tidy | Stationer" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-checks-did-faster-reading-actually-leave-meaning-behind-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="self-checks-did-faster-reading-actually-leave-meaning-behind-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">OSCO Bamboo Desk Organiser | 6 Compartments | 1 Drawer | Office Tidy | Stationer</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-checks-did-faster-reading-actually-leave-meaning-behind-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="self-checks-did-faster-reading-actually-leave-meaning-behind-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-checks-did-faster-reading-actually-leave-meaning-behind-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="self-checks-did-faster-reading-actually-leave-meaning-behind-increasing-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-checks-did-faster-reading-actually-leave-meaning-behind-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="self-checks-did-faster-reading-actually-leave-meaning-behind-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for OSCO Bamboo Desk Organiser | 6 Compartments | 1 Drawer | Office Tidy | Stationer"><img src="{{ '/assets/images/marketplace-covers/acce59ee37094e6800bd.jpg' | relative_url }}" alt="Listing image for OSCO Bamboo Desk Organiser | 6 Compartments | 1 Drawer | Office Tidy | Stationer" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-checks-did-faster-reading-actually-leave-meaning-behind-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="self-checks-did-faster-reading-actually-leave-meaning-behind-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">OSCO Bamboo Desk Organiser | 6 Compartments | 1 Drawer | Office Tidy | Stationer</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-checks-did-faster-reading-actually-leave-meaning-behind-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="self-checks-did-faster-reading-actually-leave-meaning-behind-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-checks-did-faster-reading-actually-leave-meaning-behind-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="self-checks-did-faster-reading-actually-leave-meaning-behind-increasing-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-checks-did-faster-reading-actually-leave-meaning-behind-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="self-checks-did-faster-reading-actually-leave-meaning-behind-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Office Study Desk Organizer Table Box Tidy Case Wooden Pen Pencil Storage Holder"><img src="{{ '/assets/images/marketplace-covers/ed40463974a57f4e909b.jpg' | relative_url }}" alt="Listing image for Office Study Desk Organizer Table Box Tidy Case Wooden Pen Pencil Storage Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-checks-did-faster-reading-actually-leave-meaning-behind-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="self-checks-did-faster-reading-actually-leave-meaning-behind-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Office Study Desk Organizer Table Box Tidy Case Wooden Pen Pencil Storage Holder</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-checks-did-faster-reading-actually-leave-meaning-behind-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="self-checks-did-faster-reading-actually-leave-meaning-behind-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-checks-did-faster-reading-actually-leave-meaning-behind-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="self-checks-did-faster-reading-actually-leave-meaning-behind-increasing-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-checks-did-faster-reading-actually-leave-meaning-behind-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="self-checks-did-faster-reading-actually-leave-meaning-behind-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-checks-did-faster-reading-actually-leave-meaning-behind-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="self-checks-did-faster-reading-actually-leave-meaning-behind-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Office Study Desk Organizer Table Box Tidy Case Wooden Pen Pencil Storage Holder"><img src="{{ '/assets/images/marketplace-covers/ed40463974a57f4e909b.jpg' | relative_url }}" alt="Listing image for Office Study Desk Organizer Table Box Tidy Case Wooden Pen Pencil Storage Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-checks-did-faster-reading-actually-leave-meaning-behind-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="self-checks-did-faster-reading-actually-leave-meaning-behind-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Office Study Desk Organizer Table Box Tidy Case Wooden Pen Pencil Storage Holder</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-checks-did-faster-reading-actually-leave-meaning-behind-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="self-checks-did-faster-reading-actually-leave-meaning-behind-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-checks-did-faster-reading-actually-leave-meaning-behind-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="self-checks-did-faster-reading-actually-leave-meaning-behind-increasing-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=self-checks-did-faster-reading-actually-leave-meaning-behind-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="self-checks-did-faster-reading-actually-leave-meaning-behind-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -683,7 +683,7 @@ That makes the self-check valuable. It converts reading speed from a feeling int
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -703,7 +703,7 @@ That makes the self-check valuable. It converts reading speed from a feeling int
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -735,7 +735,7 @@ That makes the self-check valuable. It converts reading speed from a feeling int
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -787,7 +787,7 @@ That makes the self-check valuable. It converts reading speed from a feeling int
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -832,7 +832,7 @@ That makes the self-check valuable. It converts reading speed from a feeling int
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -873,106 +873,106 @@ That makes the self-check valuable. It converts reading speed from a feeling int
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ideals.illinois.edu  
-   Link: <a href="https://www.ideals.illinois.edu/items/17988/bitstreams/64436/data.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ideals.illinois.edu/items/17988/bitstreams/64436/data.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Comprehension monitoring - IDEALSMarch 28, 2008 — by L Baker · 1979 · Cited by 508 — Comprehension monitoring was investigated by a...</p></details>
+   Link:<a href="https://www.ideals.illinois.edu/items/17988/bitstreams/64436/data.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ideals.illinois.edu/items/17988/bitstreams/64436/data.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Comprehension monitoring - IDEALSMarch 28, 2008 — by L Baker · 1979 · Cited by 508 — Comprehension monitoring was investigated by a...</p></details>
    Published: March 28, 2008  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: files.eric.ed.gov  
    Title: ERICSelf-Explanation and Reading Strategy Training (SERT  
-   Link: <a href="https://files.eric.ed.gov/fulltext/ED577143.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/ED577143.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ERICSeptember 13, 2017 — by DS McNamara · 2017 · Cited by 158 — Participants in the SERT condition were given a short list of six reading...</p></details>
+   Link:<a href="https://files.eric.ed.gov/fulltext/ED577143.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/ED577143.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ERICSeptember 13, 2017 — by DS McNamara · 2017 · Cited by 158 — Participants in the SERT condition were given a short list of six reading...</p></details>
    Published: September 13, 2017  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/2691240/Self_report_of_reading_comprehension_strategies_What_are_we_measuring" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/2691240/Self_report_of_reading_comprehension_strategies_What_are_we_measuring</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Academia(PDF) Self-report of reading comprehension strategiesDecember 1, 2006 — Findings indicate low correlation between self-reported s...</p></details>
+   Link:<a href="https://www.academia.edu/2691240/Self_report_of_reading_comprehension_strategies_What_are_we_measuring" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/2691240/Self_report_of_reading_comprehension_strategies_What_are_we_measuring</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Academia(PDF) Self-report of reading comprehension strategiesDecember 1, 2006 — Findings indicate low correlation between self-reported s...</p></details>
    Published: December 1, 2006  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
    Title: Research Gate Metacognitive Monitoring During and After Reading  
-   Link: <a href="https://www.researchgate.net/publication/252102959_Metacognitive_Monitoring_During_and_After_Reading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/252102959_Metacognitive_Monitoring_During_and_After_Reading</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Metacognitive Monitoring During and After ReadingJanuary 1, 2009 — Metacognition enables readers to plan, monitor, and evalua...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/252102959_Metacognitive_Monitoring_During_and_After_Reading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/252102959_Metacognitive_Monitoring_During_and_After_Reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Metacognitive Monitoring During and After ReadingJanuary 1, 2009 — Metacognition enables readers to plan, monitor, and evalua...</p></details>
    Published: January 1, 2009  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/324256122_Does_Online_Comprehension_Monitoring_Make_a_Unique_Contribution_to_Reading_Comprehension_in_Beginning_Readers_Evidence_from_Eye_Movements" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/324256122_Does_Online_Comprehension_Monitoring_Make_a_Unique_Contribution_to_Reading_Comprehension_in_Beginning_Readers_Evidence_from_Eye_Movements</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Does Online Comprehension Monitoring Make a Unique...13 Apr 2018 — However, comprehension monitoring did not uniquely predict reading co...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/324256122_Does_Online_Comprehension_Monitoring_Make_a_Unique_Contribution_to_Reading_Comprehension_in_Beginning_Readers_Evidence_from_Eye_Movements" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/324256122_Does_Online_Comprehension_Monitoring_Make_a_Unique_Contribution_to_Reading_Comprehension_in_Beginning_Readers_Evidence_from_Eye_Movements</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Does Online Comprehension Monitoring Make a Unique...13 Apr 2018 — However, comprehension monitoring did not uniquely predict reading co...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: frontiersin.org  
    Title: Frontiers Metacognitive Monitoring of Text Comprehension  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.02253/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.02253/full</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersMetacognitive Monitoring of Text ComprehensionNovember 20, 2018 — by C Mirandola · 2018 · Cited by 30 — The current study was ai...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.02253/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.02253/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersMetacognitive Monitoring of Text ComprehensionNovember 20, 2018 — by C Mirandola · 2018 · Cited by 30 — The current study was ai...</p></details>
    Published: November 20, 2018  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/10888438.2023.2261572" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10888438.2023.2261572</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineFull article: Metacognitive Comprehension Monitoringby C Tibken · 2024 · Cited by 11 — Metacognitive monitoring is...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/10888438.2023.2261572" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10888438.2023.2261572</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineFull article: Metacognitive Comprehension Monitoringby C Tibken · 2024 · Cited by 11 — Metacognitive monitoring is...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: elis.moe.edu.sg  
-   Link: <a href="https://elis.moe.edu.sg/elis/resources/read/research-summaries/reading-viewing/metacognitive-scaffold-reading-comprehension/" target="_blank" rel="noopener noreferrer nofollow">https://elis.moe.edu.sg/elis/resources/read/research-summaries/reading-viewing/metacognitive-scaffold-reading-comprehension/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>sion ability, via teacher scaffolding and monitoring...</p></details>
+   Link:<a href="https://elis.moe.edu.sg/elis/resources/read/research-summaries/reading-viewing/metacognitive-scaffold-reading-comprehension/" target="_blank" rel="noopener noreferrer nofollow">https://elis.moe.edu.sg/elis/resources/read/research-summaries/reading-viewing/metacognitive-scaffold-reading-comprehension/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sion ability, via teacher scaffolding and monitoring...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCMetacognitive Monitoring in Reading Comprehension  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13027792/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC13027792/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Monitoring in Reading Comprehension - PMCby V Markovich · 2026 — This study examined associations between [vocabulary](&amp;#123;&amp;#123; &#x27;knowledge/&#x27; | relative_url &amp;#125;&amp;#125;) knowledge, reading f...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13027792/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC13027792/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Monitoring in Reading Comprehension - PMCby V Markovich · 2026 — This study examined associations between [vocabulary](&amp;#123;&amp;#123; &#x27;knowledge/&#x27; | relative_url &amp;#125;&amp;#125;) knowledge, reading f...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/topics/comprehension/articles/instruction-metacognitive-strategies-enhances-reading-comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/comprehension/articles/instruction-metacognitive-strategies-enhances-reading-comprehension</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsInstruction of Metacognitive Strategies Enhances...The use of metacognitive strategies helps students to “think about the...</p></details>
+   Link:<a href="https://www.readingrockets.org/topics/comprehension/articles/instruction-metacognitive-strategies-enhances-reading-comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/comprehension/articles/instruction-metacognitive-strategies-enhances-reading-comprehension</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsInstruction of Metacognitive Strategies Enhances...The use of metacognitive strategies helps students to “think about the...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: files.sdiarticle5.com  
    Title: Revised ms JESBS 129646 v1  
-   Link: <a href="https://files.sdiarticle5.com/wp-content/uploads/2025/02/Revised-ms_JESBS_129646_v1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.sdiarticle5.com/wp-content/uploads/2025/02/Revised-ms_JESBS_129646_v1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Silent and Oral Reading: Their Impact on...5 Feb 2025 — This study investigates the effects of silent and oral reading styles on compreh...</p></details>
+   Link:<a href="https://files.sdiarticle5.com/wp-content/uploads/2025/02/Revised-ms_JESBS_129646_v1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.sdiarticle5.com/wp-content/uploads/2025/02/Revised-ms_JESBS_129646_v1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Silent and Oral Reading: Their Impact on...5 Feb 2025 — This study investigates the effects of silent and oral reading styles on compreh...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6071415/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6071415/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Online Comprehension Monitoring Make a Unique...by YSG Kim · 2018 · Cited by 51 — The goal was to investigate the nature of online compr...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6071415/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6071415/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Online Comprehension Monitoring Make a Unique...by YSG Kim · 2018 · Cited by 51 — The goal was to investigate the nature of online compr...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7079677/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7079677/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Relations Between Children&#x27;s Comprehension Monitoring...by E Zargar · 2019 · Cited by 90 — Comprehension monitoring is generally strongl...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7079677/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7079677/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Relations Between Children&#x27;s Comprehension Monitoring...by E Zargar · 2019 · Cited by 90 — Comprehension monitoring is generally strongl...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: lincs.ed.gov  
-   Link: <a href="https://lincs.ed.gov/publications/html/mcshane/chapter7.html" target="_blank" rel="noopener noreferrer nofollow">https://lincs.ed.gov/publications/html/mcshane/chapter7.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>7: Comprehension-Strategy InstructionWe define reading comprehension as the process of simultaneously extracting and constructing meaning...</p></details>
+   Link:<a href="https://lincs.ed.gov/publications/html/mcshane/chapter7.html" target="_blank" rel="noopener noreferrer nofollow">https://lincs.ed.gov/publications/html/mcshane/chapter7.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>7: Comprehension-Strategy InstructionWe define reading comprehension as the process of simultaneously extracting and constructing meaning...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s11409-025-09440-2" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11409-025-09440-2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>behavior as an indicator of comprehension...by C Tibken · 2025 · Cited by 2 — Research on comprehension monitoring and regulation sugges...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s11409-025-09440-2" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11409-025-09440-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>behavior as an indicator of comprehension...by C Tibken · 2025 · Cited by 2 — Research on comprehension monitoring and regulation sugges...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: sk.sagepub.com  
    Title: memory monitoring  
-   Link: <a href="https://sk.sagepub.com/book/mono/understanding-reading-comprehension/chpt/memory-monitoring" target="_blank" rel="noopener noreferrer nofollow">https://sk.sagepub.com/book/mono/understanding-reading-comprehension/chpt/memory-monitoring</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Monitoring - Academic BooksThe second component investigated in this chapter is that of comprehension monitoring. Comprehension monit...</p></details>
+   Link:<a href="https://sk.sagepub.com/book/mono/understanding-reading-comprehension/chpt/memory-monitoring" target="_blank" rel="noopener noreferrer nofollow">https://sk.sagepub.com/book/mono/understanding-reading-comprehension/chpt/memory-monitoring</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Monitoring - Academic BooksThe second component investigated in this chapter is that of comprehension monitoring. Comprehension monit...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: rdw.rowan.edu  
-   Link: <a href="https://rdw.rowan.edu/cgi/viewcontent.cgi?article=1515&amp;context=etd" target="_blank" rel="noopener noreferrer nofollow">https://rdw.rowan.edu/cgi/viewcontent.cgi?article=1515&amp;context=etd</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>self-monitoring strategy instruction to improve reading...by M Brokenshire · 2014 · Cited by 2 — The purpose of this study is to examine...</p></details>
+   Link:<a href="https://rdw.rowan.edu/cgi/viewcontent.cgi?article=1515&amp;context=etd" target="_blank" rel="noopener noreferrer nofollow">https://rdw.rowan.edu/cgi/viewcontent.cgi?article=1515&amp;context=etd</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>self-monitoring strategy instruction to improve reading...by M Brokenshire · 2014 · Cited by 2 — The purpose of this study is to examine...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: repository.ubn.ru.nl  
    Title: Pinzas Garcia  
-   Link: <a href="https://repository.ubn.ru.nl/bitstream/handle/2066/145979/mmubn000001_160798027.pdf?sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://repository.ubn.ru.nl/bitstream/handle/2066/145979/mmubn000001_160798027.pdf?sequence=1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>monitoring in reading comprehensionby JR Pinzas Garcia · 1993 — Cognitive monitoring in reading comprehension: a study of differences amo...</p></details>
+   Link:<a href="https://repository.ubn.ru.nl/bitstream/handle/2066/145979/mmubn000001_160798027.pdf?sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://repository.ubn.ru.nl/bitstream/handle/2066/145979/mmubn000001_160798027.pdf?sequence=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>monitoring in reading comprehensionby JR Pinzas Garcia · 1993 — Cognitive monitoring in reading comprehension: a study of differences amo...</p></details>

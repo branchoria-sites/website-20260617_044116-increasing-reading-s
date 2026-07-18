@@ -279,7 +279,7 @@ When reading quickly, words such as *study*, *research*, *survey*, *trial*, *dat
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_argument_sign_3561fb_evidence_word_9c2e01-Illustration-1-dark.svg" | relative_url }}" alt="Evidence limits illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_argument_sign_3561fb_evidence_word_9c2e01-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_argument_sign_3561fb_evidence_word_9c2e01-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For readers trying to increase reading speed without sacrificing comprehension, one of the most valuable habits is to read evidence words together with nearby [limitation]({{ 'reading-limits/' | relative_url }}) words. A claim supported by a study may still rest on a small sample, an observational design, wide uncertainty, missing measurements, or findings that cannot be generalised broadly. Research methods experts consistently note that limitations affect how confidently conclusions can be drawn and how widely results can be applied. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6684501/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCLimited by our limitations</span><span class="citation-popover-snippet">by PT Ross · 2019 · Cited by 2339 — Study limitations represent weaknesses within a research design that may influence outcomes and co...</span></span></span>
+For readers trying to increase reading speed without sacrificing comprehension, one of the most valuable habits is to read evidence words together with nearby [limitation]({{ 'reading-limits/' | relative_url }}) words. A claim supported by a study may still rest on a small sample, an observational design, wide uncertainty, missing measurements, or findings that cannot be generalised broadly. Research methods experts consistently note that limitations affect how confidently conclusions can be drawn and how widely results can be applied.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6684501/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCLimited by our limitations</span><span class="citation-popover-snippet">by PT Ross · 2019 · Cited by 2339 — Study limitations represent weaknesses within a research design that may influence outcomes and co...</span></span></span>
 
 The goal is not to become sceptical of every study. It is to avoid treating the word *evidence* as a shortcut for *proof*.
 
@@ -308,7 +308,7 @@ Consider two summaries:
 
 The second statement contains information that changes how much confidence a reader should place in the finding. The evidence is still real, but its scope is narrower.
 
-Researchers who discuss study limitations emphasise that weaknesses in design, sampling, measurement, or analysis can influence conclusions. A study may contribute useful information while still providing only limited support for a broader claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6684501/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2AJE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCLimited by our limitations</span><span class="citation-popover-snippet">by PT Ross · 2019 · Cited by 2339 — Study limitations represent weaknesses within a research design that may influence outcomes and co...</span></span></span>
+Researchers who discuss study limitations emphasise that weaknesses in design, sampling, measurement, or analysis can influence conclusions. A study may contribute useful information while still providing only limited support for a broader claim.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6684501/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2AJE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCLimited by our limitations</span><span class="citation-popover-snippet">by PT Ross · 2019 · Cited by 2339 — Study limitations represent weaknesses within a research design that may influence outcomes and co...</span></span></span>
 
 For fast readers, the danger is not ignoring evidence. It is noticing only the existence of evidence and missing its boundaries.
 
@@ -339,7 +339,7 @@ Words and phrases such as:
 
 suggest that the findings may not represent a wider population.
 
-Sample size directly affects uncertainty and the reliability of estimates. Very small samples can weaken both internal and external validity, making it harder to know whether results would hold elsewhere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4296634/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHow sample size influences research outcomes</span><span class="citation-popover-snippet">Very small samples undermine the internal and external validity of a study.Read more...</span></span></span>
+Sample size directly affects uncertainty and the reliability of estimates. Very small samples can weaken both internal and external validity, making it harder to know whether results would hold elsewhere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4296634/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHow sample size influences research outcomes</span><span class="citation-popover-snippet">Very small samples undermine the internal and external validity of a study.Read more...</span></span></span>
 
 A skimmer who remembers only “a study found” may miss that the study examined a highly specific group.
 
@@ -362,9 +362,9 @@ Words and phrases such as:
 
 do not automatically mean that one factor caused another.
 
-Methodologists repeatedly warn that correlation alone cannot establish causation because other explanations may account for the relationship. Observational studies can reveal important patterns, but determining causal relationships requires additional evidence and careful analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3818421/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCObservational Research Opportunities and Limitations</span><span class="citation-popover-snippet">Causal associations will always involve correlation, but the presence of a correlation does not imply causation. The...Read more...</span></span></span>
+Methodologists repeatedly warn that correlation alone cannot establish causation because other explanations may account for the relationship. Observational studies can reveal important patterns, but determining causal relationships requires additional evidence and careful analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3818421/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCObservational Research Opportunities and Limitations</span><span class="citation-popover-snippet">Causal associations will always involve correlation, but the presence of a correlation does not imply causation. The...Read more...</span></span></span>
 
-This distinction matters because readers often convert an association into a cause while skimming. Research on language interpretation shows that people frequently infer causation even from carefully worded correlational statements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10194916/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Causal implicatures from correlational statements - PMC - NIHby SJ Gershman · 2023 · Cited by 59 — Correlation does not imply causatio...</span></span></span>
+This distinction matters because readers often convert an association into a cause while skimming. Research on language interpretation shows that people frequently infer causation even from carefully worded correlational statements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10194916/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Causal implicatures from correlational statements - PMC - NIHby SJ Gershman · 2023 · Cited by 59 — Correlation does not imply causatio...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_argument_sign_3561fb_evidence_word_9c2e01-Illustration-2-dark.svg" | relative_url }}" alt="Evidence limits illustration 2" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_argument_sign_3561fb_evidence_word_9c2e01-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_argument_sign_3561fb_evidence_word_9c2e01-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -380,7 +380,7 @@ Look for terms such as:
 * may
 * might
 * possibly
-* confidence interval <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ndi.org/sites/default/files/samplesizecalculation.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ndi.org">[ndi.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ndi.org</span><span class="citation-popover-snippet">A confidence interval gives you a maximum and minimum...Read mor...</span></span></span>
+* confidence interval<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ndi.org/sites/default/files/samplesizecalculation.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ndi.org">[ndi.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ndi.org</span><span class="citation-popover-snippet">A confidence interval gives you a maximum and minimum...Read mor...</span></span></span>
 * margin of error
 * uncertain
 * inconclusive
@@ -388,9 +388,9 @@ Look for terms such as:
 
 </div>
 
-Scientific communication often includes [caveats]({{ 'caveats/' | relative_url }}) because the available evidence does not justify stronger claims. Experts on uncertainty communication note that these caveats express limitations in [knowledge]({{ 'knowledge/' | relative_url }}) or confidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6549952/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Communicating uncertainty about facts, numbers and scienceby AM van der Bles · 2019 · Cited by 562 — Limitations in scientific underst...</span></span></span>
+Scientific communication often includes [caveats]({{ 'caveats/' | relative_url }}) because the available evidence does not justify stronger claims. Experts on uncertainty communication note that these caveats express limitations in [knowledge]({{ 'knowledge/' | relative_url }}) or confidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6549952/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Communicating uncertainty about facts, numbers and scienceby AM van der Bles · 2019 · Cited by 562 — Limitations in scientific underst...</span></span></span>
 
-Similarly, confidence intervals help show how precise an estimate is. Wide intervals indicate greater uncertainty about the true effect than narrow ones. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-15" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cochrane.org">[Cochrane]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cochrane.org</span><span class="citation-popover-snippet">Chapter 15: Interpreting results and drawing conclusionsThe confidence interval describes the uncertainty inherent in any estimat...</span></span></span>
+Similarly, confidence intervals help show how precise an estimate is. Wide intervals indicate greater uncertainty about the true effect than narrow ones.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-15" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cochrane.org">[Cochrane]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cochrane.org</span><span class="citation-popover-snippet">Chapter 15: Interpreting results and drawing conclusionsThe confidence interval describes the uncertainty inherent in any estimat...</span></span></span>
 
 When reading quickly, uncertainty words are easy to skip because they are short and visually unremarkable. Yet they often carry more meaning than the headline finding.
 
@@ -416,7 +416,7 @@ Authors may note that:
 
 Such statements indicate that the evidence may answer only part of the question.
 
-A study can be well conducted and still leave major uncertainties because some outcomes, populations, or time periods were not examined. Recognising these gaps helps prevent overconfident interpretations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://libguides.usc.edu/writingguide/limitations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: libguides.usc.edu">[USC Library Guides+2Wordvice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">libguides.usc.edu</span><span class="citation-popover-snippet">USC Library GuidesOrganizing Your Social Sciences Research Paper: Limitations...3 days ago — Limitations of the study describe the const...</span></span></span>
+A study can be well conducted and still leave major uncertainties because some outcomes, populations, or time periods were not examined. Recognising these gaps helps prevent overconfident interpretations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://libguides.usc.edu/writingguide/limitations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: libguides.usc.edu">[USC Library Guides+2Wordvice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">libguides.usc.edu</span><span class="citation-popover-snippet">USC Library GuidesOrganizing Your Social Sciences Research Paper: Limitations...3 days ago — Limitations of the study describe the const...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_argument_sign_3561fb_evidence_word_9c2e01-Illustration-3-dark.svg" | relative_url }}" alt="Evidence limits illustration 3" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_argument_sign_3561fb_evidence_word_9c2e01-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_argument_sign_3561fb_evidence_word_9c2e01-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -465,183 +465,183 @@ This approach allows readers to move quickly through text while still preserving
 
 [Increasing]({{ 'increasing/' | relative_url }}) reading speed often requires deciding where to slow down. Evidence claims are one of those places.
 
-The highest-value information is frequently not the finding itself but the sentence that narrows it. A study may sound impressive until the reader notices that it was observational, based on a small sample, limited to a narrow population, or accompanied by substantial uncertainty. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3818421/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCObservational Research Opportunities and Limitations</span><span class="citation-popover-snippet">Causal associations will always involve correlation, but the presence of a correlation does not imply causation. The...Read more...</span></span></span>
+The highest-value information is frequently not the finding itself but the sentence that narrows it. A study may sound impressive until the reader notices that it was observational, based on a small sample, limited to a narrow population, or accompanied by substantial uncertainty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3818421/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCObservational Research Opportunities and Limitations</span><span class="citation-popover-snippet">Causal associations will always involve correlation, but the presence of a correlation does not imply causation. The...Read more...</span></span></span>
 
 Readers who train themselves to spot limitation words alongside evidence words avoid a common skimming trap: mistaking the existence of evidence for the strength of evidence. That single adjustment preserves nuance, improves comprehension, and reduces the risk of carrying away a stronger conclusion than the text actually supports.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When a study is not strong proof. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When a study is not strong proof. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Directly teaches readers not to mistake evidence language for proof.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly teaches readers not to mistake evidence language for proof.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
-        </h4>
-        <p class="fr-book-author">By Darrell Huff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Lie with Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2oZGEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Lie with Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Lie with Statistics">How to Lie with Statistics</a>
+</h4>
+<p class="fr-book-author">By Darrell Huff</p>
         
-        <p class="fr-book-desc">Shows how studies and data can be misunderstood or overstated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how studies and data can be misunderstood or overstated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics+by+Darrell+Huff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Covers biases that lead people to overtrust weak evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers biases that lead people to overtrust weak evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Teaches readers to evaluate claims rather than merely absorb them.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Teaches readers to evaluate claims rather than merely absorb them.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Lie with Statistics</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Lie+with+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Lie with Statistics</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+study+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-limits-when-a-study-is-not-strong-proof-increasing-desk-study-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk study organizer" data-ebay-reference="evidence-limits-when-a-study-is-not-strong-proof-increasing-desk-study-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wooden Office Study Desk Pen Pencil Holder Storage Organizer Box Tidy Case Stand"><img src="{{ '/assets/images/marketplace-covers/cb1551eb30bec8d2ffbe.jpg' | relative_url }}" alt="Listing image for Wooden Office Study Desk Pen Pencil Holder Storage Organizer Box Tidy Case Stand" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+study+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-limits-when-a-study-is-not-strong-proof-increasing-desk-study-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk study organizer" data-ebay-reference="evidence-limits-when-a-study-is-not-strong-proof-increasing-desk-study-organizer" target="_blank" rel="sponsored noopener noreferrer">Wooden Office Study Desk Pen Pencil Holder Storage Organizer Box Tidy Case Stand</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+study+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-limits-when-a-study-is-not-strong-proof-increasing-desk-study-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk study organizer" data-ebay-reference="evidence-limits-when-a-study-is-not-strong-proof-increasing-desk-study-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk study organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk study organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+study+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-limits-when-a-study-is-not-strong-proof-increasing-desk-study-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk study organizer" data-ebay-reference="evidence-limits-when-a-study-is-not-strong-proof-increasing-desk-study-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+study+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-limits-when-a-study-is-not-strong-proof-increasing-desk-study-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk study organizer" data-ebay-reference="evidence-limits-when-a-study-is-not-strong-proof-increasing-desk-study-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wooden Office Study Desk Pen Pencil Holder Storage Organizer Box Tidy Case Stand"><img src="{{ '/assets/images/marketplace-covers/cb1551eb30bec8d2ffbe.jpg' | relative_url }}" alt="Listing image for Wooden Office Study Desk Pen Pencil Holder Storage Organizer Box Tidy Case Stand" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+study+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-limits-when-a-study-is-not-strong-proof-increasing-desk-study-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk study organizer" data-ebay-reference="evidence-limits-when-a-study-is-not-strong-proof-increasing-desk-study-organizer" target="_blank" rel="sponsored noopener noreferrer">Wooden Office Study Desk Pen Pencil Holder Storage Organizer Box Tidy Case Stand</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+study+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-limits-when-a-study-is-not-strong-proof-increasing-desk-study-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk study organizer" data-ebay-reference="evidence-limits-when-a-study-is-not-strong-proof-increasing-desk-study-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk study organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: desk study organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+study+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-limits-when-a-study-is-not-strong-proof-increasing-desk-study-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk study organizer" data-ebay-reference="evidence-limits-when-a-study-is-not-strong-proof-increasing-desk-study-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+study+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-limits-when-a-study-is-not-strong-proof-increasing-desk-study-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk study organizer" data-ebay-reference="evidence-limits-when-a-study-is-not-strong-proof-increasing-desk-study-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Under Desk Drawers Study Table Drawer Tray Pencil Storage Organizer Box Holder"><img src="{{ '/assets/images/marketplace-covers/33486c199d5fa156bbf4.jpg' | relative_url }}" alt="Listing image for Under Desk Drawers Study Table Drawer Tray Pencil Storage Organizer Box Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+study+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-limits-when-a-study-is-not-strong-proof-increasing-desk-study-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk study organizer" data-ebay-reference="evidence-limits-when-a-study-is-not-strong-proof-increasing-desk-study-organizer" target="_blank" rel="sponsored noopener noreferrer">Under Desk Drawers Study Table Drawer Tray Pencil Storage Organizer Box Holder</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+study+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-limits-when-a-study-is-not-strong-proof-increasing-desk-study-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk study organizer" data-ebay-reference="evidence-limits-when-a-study-is-not-strong-proof-increasing-desk-study-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk study organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk study organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+study+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-limits-when-a-study-is-not-strong-proof-increasing-desk-study-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk study organizer" data-ebay-reference="evidence-limits-when-a-study-is-not-strong-proof-increasing-desk-study-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+study+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-limits-when-a-study-is-not-strong-proof-increasing-desk-study-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk study organizer" data-ebay-reference="evidence-limits-when-a-study-is-not-strong-proof-increasing-desk-study-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Under Desk Drawers Study Table Drawer Tray Pencil Storage Organizer Box Holder"><img src="{{ '/assets/images/marketplace-covers/33486c199d5fa156bbf4.jpg' | relative_url }}" alt="Listing image for Under Desk Drawers Study Table Drawer Tray Pencil Storage Organizer Box Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+study+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-limits-when-a-study-is-not-strong-proof-increasing-desk-study-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk study organizer" data-ebay-reference="evidence-limits-when-a-study-is-not-strong-proof-increasing-desk-study-organizer" target="_blank" rel="sponsored noopener noreferrer">Under Desk Drawers Study Table Drawer Tray Pencil Storage Organizer Box Holder</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+study+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-limits-when-a-study-is-not-strong-proof-increasing-desk-study-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk study organizer" data-ebay-reference="evidence-limits-when-a-study-is-not-strong-proof-increasing-desk-study-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk study organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: desk study organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+study+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-limits-when-a-study-is-not-strong-proof-increasing-desk-study-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk study organizer" data-ebay-reference="evidence-limits-when-a-study-is-not-strong-proof-increasing-desk-study-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+study+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-limits-when-a-study-is-not-strong-proof-increasing-desk-study-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk study organizer" data-ebay-reference="evidence-limits-when-a-study-is-not-strong-proof-increasing-desk-study-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Office Study Desk Organizer Table Box Tidy Case Display Stationaries Pen Holder"><img src="{{ '/assets/images/marketplace-covers/5c9ca9153eac647ccfb2.jpg' | relative_url }}" alt="Listing image for Office Study Desk Organizer Table Box Tidy Case Display Stationaries Pen Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+study+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-limits-when-a-study-is-not-strong-proof-increasing-desk-study-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk study organizer" data-ebay-reference="evidence-limits-when-a-study-is-not-strong-proof-increasing-desk-study-organizer" target="_blank" rel="sponsored noopener noreferrer">Office Study Desk Organizer Table Box Tidy Case Display Stationaries Pen Holder</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+study+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-limits-when-a-study-is-not-strong-proof-increasing-desk-study-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk study organizer" data-ebay-reference="evidence-limits-when-a-study-is-not-strong-proof-increasing-desk-study-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk study organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk study organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+study+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-limits-when-a-study-is-not-strong-proof-increasing-desk-study-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk study organizer" data-ebay-reference="evidence-limits-when-a-study-is-not-strong-proof-increasing-desk-study-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+study+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-limits-when-a-study-is-not-strong-proof-increasing-desk-study-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk study organizer" data-ebay-reference="evidence-limits-when-a-study-is-not-strong-proof-increasing-desk-study-organizer" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+study+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-limits-when-a-study-is-not-strong-proof-increasing-desk-study-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk study organizer" data-ebay-reference="evidence-limits-when-a-study-is-not-strong-proof-increasing-desk-study-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Office Study Desk Organizer Table Box Tidy Case Display Stationaries Pen Holder"><img src="{{ '/assets/images/marketplace-covers/5c9ca9153eac647ccfb2.jpg' | relative_url }}" alt="Listing image for Office Study Desk Organizer Table Box Tidy Case Display Stationaries Pen Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+study+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-limits-when-a-study-is-not-strong-proof-increasing-desk-study-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk study organizer" data-ebay-reference="evidence-limits-when-a-study-is-not-strong-proof-increasing-desk-study-organizer" target="_blank" rel="sponsored noopener noreferrer">Office Study Desk Organizer Table Box Tidy Case Display Stationaries Pen Holder</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+study+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-limits-when-a-study-is-not-strong-proof-increasing-desk-study-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk study organizer" data-ebay-reference="evidence-limits-when-a-study-is-not-strong-proof-increasing-desk-study-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk study organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: desk study organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+study+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-limits-when-a-study-is-not-strong-proof-increasing-desk-study-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk study organizer" data-ebay-reference="evidence-limits-when-a-study-is-not-strong-proof-increasing-desk-study-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+study+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-limits-when-a-study-is-not-strong-proof-increasing-desk-study-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk study organizer" data-ebay-reference="evidence-limits-when-a-study-is-not-strong-proof-increasing-desk-study-organizer" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -657,7 +657,7 @@ Readers who train themselves to spot limitation words alongside evidence words a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -677,7 +677,7 @@ Readers who train themselves to spot limitation words alongside evidence words a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -709,7 +709,7 @@ Readers who train themselves to spot limitation words alongside evidence words a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -761,7 +761,7 @@ Readers who train themselves to spot limitation words alongside evidence words a
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -806,7 +806,7 @@ Readers who train themselves to spot limitation words alongside evidence words a
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -847,131 +847,131 @@ Readers who train themselves to spot limitation words alongside evidence words a
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCLimited by our limitations  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6684501/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6684501/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by PT Ross · 2019 · Cited by 2339 — Study limitations represent weaknesses within a research design that may influence outcomes and co...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6684501/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6684501/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by PT Ross · 2019 · Cited by 2339 — Study limitations represent weaknesses within a research design that may influence outcomes and co...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: libguides.usc.edu  
-   Link: <a href="https://libguides.usc.edu/writingguide/limitations" target="_blank" rel="noopener noreferrer nofollow">https://libguides.usc.edu/writingguide/limitations</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>USC Library GuidesOrganizing Your Social Sciences Research Paper: Limitations...3 days ago — Limitations of the study describe the const...</p></details>
+   Link:<a href="https://libguides.usc.edu/writingguide/limitations" target="_blank" rel="noopener noreferrer nofollow">https://libguides.usc.edu/writingguide/limitations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USC Library GuidesOrganizing Your Social Sciences Research Paper: Limitations...3 days ago — Limitations of the study describe the const...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: aje.com  
    Title: how to write limitations of the study  
-   Link: <a href="https://www.aje.com/arc/how-to-write-limitations-of-the-study" target="_blank" rel="noopener noreferrer nofollow">https://www.aje.com/arc/how-to-write-limitations-of-the-study</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(with examples)24 Aug 2023 — It discusses the types of limitations, their significance, and provides guidelines for writing about them, h...</p></details>
+   Link:<a href="https://www.aje.com/arc/how-to-write-limitations-of-the-study" target="_blank" rel="noopener noreferrer nofollow">https://www.aje.com/arc/how-to-write-limitations-of-the-study</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(with examples)24 Aug 2023 — It discusses the types of limitations, their significance, and provides guidelines for writing about them, h...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCHow sample size influences research outcomes  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4296634/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4296634/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Very small samples undermine the internal and external validity of a study.Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4296634/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4296634/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Very small samples undermine the internal and external validity of a study.Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCObservational Research Opportunities and Limitations  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3818421/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3818421/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Causal associations will always involve correlation, but the presence of a correlation does not imply causation. The...Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3818421/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3818421/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Causal associations will always involve correlation, but the presence of a correlation does not imply causation. The...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10010939/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10010939/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Distinguish Correlation from Causation in Orthopaedic...by I Zaniletti · 2022 · Cited by 23 — Correlation does not imply causa...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10010939/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10010939/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Distinguish Correlation from Causation in Orthopaedic...by I Zaniletti · 2022 · Cited by 23 — Correlation does not imply causa...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10194916/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10194916/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Causal implicatures from correlational statements - PMC - NIHby SJ Gershman · 2023 · Cited by 59 — Correlation does not imply causatio...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10194916/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10194916/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Causal implicatures from correlational statements - PMC - NIHby SJ Gershman · 2023 · Cited by 59 — Correlation does not imply causatio...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6549952/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6549952/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Communicating uncertainty about facts, numbers and scienceby AM van der Bles · 2019 · Cited by 562 — Limitations in scientific underst...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6549952/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6549952/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Communicating uncertainty about facts, numbers and scienceby AM van der Bles · 2019 · Cited by 562 — Limitations in scientific underst...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cochrane.org  
-   Link: <a href="https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-15" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-15</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 15: Interpreting results and drawing conclusionsThe confidence interval describes the uncertainty inherent in any estimat...</p></details>
+   Link:<a href="https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-15" target="_blank" rel="noopener noreferrer nofollow">https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-15</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 15: Interpreting results and drawing conclusionsThe confidence interval describes the uncertainty inherent in any estimat...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: wordvice.com  
    Title: Limitations of the Study  
-   Link: <a href="https://wordvice.com/blog/how-to-present-study-limitations-and-alternatives/" target="_blank" rel="noopener noreferrer nofollow">https://wordvice.com/blog/how-to-present-study-limitations-and-alternatives/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Write &amp; Examples13 Jul 2024 — The two main categories of limitations are those that result from the methodology and those that res...</p></details>
+   Link:<a href="https://wordvice.com/blog/how-to-present-study-limitations-and-alternatives/" target="_blank" rel="noopener noreferrer nofollow">https://wordvice.com/blog/how-to-present-study-limitations-and-alternatives/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Write &amp; Examples13 Jul 2024 — The two main categories of limitations are those that result from the methodology and those that res...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7081045/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7081045/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>for Evaluating Causality in Observational Studiesby E ALGianicolo · 2020 · Cited by 1 — The fact that correlation does not imply causalit...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7081045/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7081045/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>for Evaluating Causality in Observational Studiesby E ALGianicolo · 2020 · Cited by 1 — The fact that correlation does not imply causalit...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/35231933/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/35231933/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cross-Sectional Studies Contribute to Causal...by DA Savitz · 2023 · Cited by 385 — A cross-sectional study may provide insights into th...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/35231933/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/35231933/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cross-Sectional Studies Contribute to Causal...by DA Savitz · 2023 · Cited by 385 — A cross-sectional study may provide insights into th...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8572982/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8572982/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>correlation analysis: important limitations and pitfallsby RJ Janse · 2021 · Cited by 462 — &#x27;Correlation is not causation&#x27;: a saying not...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8572982/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8572982/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>correlation analysis: important limitations and pitfallsby RJ Janse · 2021 · Cited by 462 — &#x27;Correlation is not causation&#x27;: a saying not...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: abs.gov.au  
    Title: correlation and causation  
-   Link: <a href="https://www.abs.gov.au/statistics/understanding-statistics/statistical-terms-and-concepts/correlation-and-causation" target="_blank" rel="noopener noreferrer nofollow">https://www.abs.gov.au/statistics/understanding-statistics/statistical-terms-and-concepts/correlation-and-causation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Feb 2023 — A correlation between variables, however, does not automatically mean that the change in one variable is the cause of the ch...</p></details>
+   Link:<a href="https://www.abs.gov.au/statistics/understanding-statistics/statistical-terms-and-concepts/correlation-and-causation" target="_blank" rel="noopener noreferrer nofollow">https://www.abs.gov.au/statistics/understanding-statistics/statistical-terms-and-concepts/correlation-and-causation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 Feb 2023 — A correlation between variables, however, does not automatically mean that the change in one variable is the cause of the ch...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/322778777_Thinking_Clearly_About_Correlations_and_Causation_Graphical_Causal_[Models" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/322778777_Thinking_Clearly_About_Correlations_and_Causation_Graphical_Causal_[Models</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Thinking Clearly About Correlations and CausationCorrelation does not imply causation; but often, observational data are the only o...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/322778777_Thinking_Clearly_About_Correlations_and_Causation_Graphical_Causal_[Models" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/322778777_Thinking_Clearly_About_Correlations_and_Causation_Graphical_Causal_[Models</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Thinking Clearly About Correlations and CausationCorrelation does not imply causation; but often, observational data are the only o...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: scilit.com  
-   Link: <a href="https://www.scilit.com/publications/ead33c45eea2c0c76ec1d798f13a1d3e" target="_blank" rel="noopener noreferrer nofollow">https://www.scilit.com/publications/ead33c45eea2c0c76ec1d798f13a1d3e</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Communicating the uncertainty in research findingsCommunicating the uncertainty in research findings: confidence intervals. Using confide...</p></details>
+   Link:<a href="https://www.scilit.com/publications/ead33c45eea2c0c76ec1d798f13a1d3e" target="_blank" rel="noopener noreferrer nofollow">https://www.scilit.com/publications/ead33c45eea2c0c76ec1d798f13a1d3e</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Communicating the uncertainty in research findingsCommunicating the uncertainty in research findings: confidence intervals. Using confide...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/236658638_Reporting_Confidence_Intervals_and_Effect_Sizes_Collecting_the_Evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/236658638_Reporting_Confidence_Intervals_and_Effect_Sizes_Collecting_the_Evidence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Reporting Confidence Intervals and Effect SizesConfidence intervals (CIs) and effect sizes are essential to encourage meta-analytic...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/236658638_Reporting_Confidence_Intervals_and_Effect_Sizes_Collecting_the_Evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/236658638_Reporting_Confidence_Intervals_and_Effect_Sizes_Collecting_the_Evidence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Reporting Confidence Intervals and Effect SizesConfidence intervals (CIs) and effect sizes are essential to encourage meta-analytic...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: thenewatlantis.com  
-   Link: <a href="https://www.thenewatlantis.com/publications/correlation-causation-and-confusion" target="_blank" rel="noopener noreferrer nofollow">https://www.thenewatlantis.com/publications/correlation-causation-and-confusion</a>  
+   Link:<a href="https://www.thenewatlantis.com/publications/correlation-causation-and-confusion" target="_blank" rel="noopener noreferrer nofollow">https://www.thenewatlantis.com/publications/correlation-causation-and-confusion</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: stat.uiowa.edu  
    Title: Some Practical Guidelines Effective Sample Size Determination  
-   Link: <a href="https://stat.uiowa.edu/sites/stat.uiowa.edu/files/2024-04/Some-Practical-Guidelines-Effective-Sample-Size-Determination.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stat.uiowa.edu/sites/stat.uiowa.edu/files/2024-04/Some-Practical-Guidelines-Effective-Sample-Size-Determination.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Practical Guidelines for Effective Sample-Size...There are several approaches to sample size. For example, one can specify the desired w...</p></details>
+   Link:<a href="https://stat.uiowa.edu/sites/stat.uiowa.edu/files/2024-04/Some-Practical-Guidelines-Effective-Sample-Size-Determination.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stat.uiowa.edu/sites/stat.uiowa.edu/files/2024-04/Some-Practical-Guidelines-Effective-Sample-Size-Determination.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Practical Guidelines for Effective Sample-Size...There are several approaches to sample size. For example, one can specify the desired w...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: lrdc.pitt.edu  
    Title: 2022 Willett CorrelationCausationDissertation  
-   Link: <a href="https://www.lrdc.pitt.edu/rottman/pubs/2022a/2022%20Willett%20CorrelationCausationDissertation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lrdc.pitt.edu/rottman/pubs/2022a/2022%20Willett%20CorrelationCausationDissertation.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Correlation Doesn&#x27;t Imply Causation: Improving...by CL Willett · 2022 · Cited by 10 — “Researchers at the Sleep Research Society have fo...</p></details>
+   Link:<a href="https://www.lrdc.pitt.edu/rottman/pubs/2022a/2022%20Willett%20CorrelationCausationDissertation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lrdc.pitt.edu/rottman/pubs/2022a/2022%20Willett%20CorrelationCausationDissertation.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Correlation Doesn&#x27;t Imply Causation: Improving...by CL Willett · 2022 · Cited by 10 — “Researchers at the Sleep Research Society have fo...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/PhilosophyofScience/comments/1fhimhe/how_does_science_cope_with_correlation_does_not/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/PhilosophyofScience/comments/1fhimhe/how_does_science_cope_with_correlation_does_not/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>l Nino and Australian rainfall, or of Milankovic wobbles and ice ages...</p></details>
+   Link:<a href="https://www.reddit.com/r/PhilosophyofScience/comments/1fhimhe/how_does_science_cope_with_correlation_does_not/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/PhilosophyofScience/comments/1fhimhe/how_does_science_cope_with_correlation_does_not/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>l Nino and Australian rainfall, or of Milankovic wobbles and ice ages...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/statistics/comments/6ylvo8/if_correlation_doesnt_imply_causation_how_can_you/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/statistics/comments/6ylvo8/if_correlation_doesnt_imply_causation_how_can_you/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e must be some direct or indirect causal chain linking them.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/statistics/comments/6ylvo8/if_correlation_doesnt_imply_causation_how_can_you/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/statistics/comments/6ylvo8/if_correlation_doesnt_imply_causation_how_can_you/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e must be some direct or indirect causal chain linking them.Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: ndi.org  
-   Link: <a href="https://www.ndi.org/sites/default/files/samplesizecalculation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ndi.org/sites/default/files/samplesizecalculation.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A confidence interval gives you a maximum and minimum...Read mor...</p></details>
+   Link:<a href="https://www.ndi.org/sites/default/files/samplesizecalculation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ndi.org/sites/default/files/samplesizecalculation.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A confidence interval gives you a maximum and minimum...Read mor...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: pubrica.com  
-   Link: <a href="https://pubrica.com/academy/case-reporting/what-are-the-study-limitations-and-how-should-they-be-stated/" target="_blank" rel="noopener noreferrer nofollow">https://pubrica.com/academy/case-reporting/what-are-the-study-limitations-and-how-should-they-be-stated/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>sources, a limited sample size, or faulty methodology.Read more...</p></details>
+   Link:<a href="https://pubrica.com/academy/case-reporting/what-are-the-study-limitations-and-how-should-they-be-stated/" target="_blank" rel="noopener noreferrer nofollow">https://pubrica.com/academy/case-reporting/what-are-the-study-limitations-and-how-should-they-be-stated/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sources, a limited sample size, or faulty methodology.Read more...</p></details>

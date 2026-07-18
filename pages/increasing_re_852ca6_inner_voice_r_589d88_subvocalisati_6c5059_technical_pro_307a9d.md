@@ -273,13 +273,13 @@ Readers trying to increase reading speed often apply the same technique to every
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_inner_voice_r_589d88_subvocalisati_6c5059_technical_pro_307a9d-Illustration-1-dark.svg" | relative_url }}" alt="Technical Prose illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_inner_voice_r_589d88_subvocalisati_6c5059_technical_pro_307a9d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_inner_voice_r_589d88_subvocalisati_6c5059_technical_pro_307a9d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Research on working memory, sentence processing, and subvocalisation suggests that sound-based representations help readers maintain verbal information while they assemble complex meanings. When [technical]({{ 'technical-texts/' | relative_url }}) prose places heavy demands on working memory, reducing inner speech too aggressively can undermine comprehension even if reading speed rises. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2995127/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A case for the involvement of phonological loop in sentence...by LJR Lauro · 2010 · Cited by 78 — We suggest that the neural correlat...</span></span></span>
+Research on working memory, sentence processing, and subvocalisation suggests that sound-based representations help readers maintain verbal information while they assemble complex meanings. When [technical]({{ 'technical-texts/' | relative_url }}) prose places heavy demands on working memory, reducing inner speech too aggressively can undermine comprehension even if reading speed rises.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2995127/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A case for the involvement of phonological loop in sentence...by LJR Lauro · 2010 · Cited by 78 — We suggest that the neural correlat...</span></span></span>
 
 ## Why Unfamiliar Terms Increase Memory Load
 
 Technical writing differs from ordinary prose because many words cannot be recognised and interpreted automatically. A reader encountering familiar [vocabulary]({{ 'knowledge/' | relative_url }}) can often process meaning rapidly from context. A reader encountering terms such as “anisotropic conductivity”, “fiduciary obligation”, or “Bayesian posterior predictive distribution” must devote additional mental resources simply to identifying and retaining the concepts.
 
-This creates a working-memory problem. The reader must keep the new term active while also processing the surrounding sentence. Models of verbal working memory consistently emphasise the importance of phonological representations—the temporary sound-based traces often associated with inner speech—for maintaining verbal information during comprehension. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7081770/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Psychological Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCVerbal Working Memory as Emergent from Language</span><span class="citation-popover-snippet">by SC Schwering · 2020 · Cited by 196 — This article reviews current models of verbal working memory and considers the role of languag...</span></span></span>
+This creates a working-memory problem. The reader must keep the new term active while also processing the surrounding sentence. Models of verbal working memory consistently emphasise the importance of phonological representations—the temporary sound-based traces often associated with inner speech—for maintaining verbal information during comprehension.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7081770/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Psychological Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCVerbal Working Memory as Emergent from Language</span><span class="citation-popover-snippet">by SC Schwering · 2020 · Cited by 196 — This article reviews current models of verbal working memory and considers the role of languag...</span></span></span>
 
 The challenge becomes especially obvious when several unfamiliar terms appear in close succession. Consider a technical paragraph introducing three new concepts and then explaining how they interact. A reader who races through the text while suppressing internal verbal rehearsal may recognise each term individually yet struggle to retain the relationships between them long enough to build an accurate mental model.
 
@@ -294,7 +294,7 @@ Technical documents rarely communicate meaning through isolated sentences. They 
 
 A legal clause may state that a requirement applies except under specified circumstances. A scientific paper may describe an effect that appears only when several experimental conditions are satisfied. An engineering document may specify that a component is acceptable provided that multiple tolerances remain within defined limits.
 
-Understanding such passages requires readers to preserve information over several seconds while integrating later qualifications with earlier claims. Research on sentence comprehension shows that syntactically [complex sentences]({{ 'complex-sentences/' | relative_url }}) place substantial demands on working memory because relationships often span many words or clauses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2995127/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A case for the involvement of phonological loop in sentence...by LJR Lauro · 2010 · Cited by 78 — We suggest that the neural correlat...</span></span></span>
+Understanding such passages requires readers to preserve information over several seconds while integrating later qualifications with earlier claims. Research on sentence comprehension shows that syntactically [complex sentences]({{ 'complex-sentences/' | relative_url }}) place substantial demands on working memory because relationships often span many words or clauses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2995127/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A case for the involvement of phonological loop in sentence...by LJR Lauro · 2010 · Cited by 78 — We suggest that the neural correlat...</span></span></span>
 
 For example, compare these two statements:
 
@@ -303,7 +303,7 @@ For example, compare these two statements:
 
 The second statement requires the reader to maintain multiple conditions simultaneously before reaching a final interpretation. The logical meaning emerges only after the sentence is complete.
 
-Inner speech appears particularly useful in such circumstances because it helps preserve the order and structure of verbal information. Studies examining subvocalisation suggest that articulatory coding supports the monitoring of sequence information and contributes to successful comprehension when relationships extend beyond individual words. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1080/14640748108400802" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsThe Role of Subvocalisation in ReadingIt is concluded that subvocalisation allows the creation of a supplementary articulato...</span></span></span>
+Inner speech appears particularly useful in such circumstances because it helps preserve the order and structure of verbal information. Studies examining subvocalisation suggest that articulatory coding supports the monitoring of sequence information and contributes to successful comprehension when relationships extend beyond individual words.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1080/14640748108400802" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsThe Role of Subvocalisation in ReadingIt is concluded that subvocalisation allows the creation of a supplementary articulato...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_inner_voice_r_589d88_subvocalisati_6c5059_technical_pro_307a9d-Illustration-2-dark.svg" | relative_url }}" alt="Technical Prose illustration 2" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_inner_voice_r_589d88_subvocalisati_6c5059_technical_pro_307a9d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_inner_voice_r_589d88_subvocalisati_6c5059_technical_pro_307a9d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -313,7 +313,7 @@ Many speed-reading methods assume that meaning can be extracted from visual chun
 
 A single modifier may reverse the interpretation of an entire sentence. Words such as “unless”, “except”, “subject to”, “notwithstanding”, “only if”, and “provided that” act as logical operators. Missing one can produce a fundamentally incorrect understanding.
 
-Research on legal-language comprehension illustrates how demanding this type of reading can be. Legal texts frequently require readers to track multiple dependencies and qualifications across long stretches of language, placing substantial burdens on comprehension systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6395580/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Objective. To characterize comprehension of written legal language in adults with and without traumatic brain injury (TBI).Read more...</span></span></span>
+Research on legal-language comprehension illustrates how demanding this type of reading can be. Legal texts frequently require readers to track multiple dependencies and qualifications across long stretches of language, placing substantial burdens on comprehension systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6395580/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Objective. To characterize comprehension of written legal language in adults with and without traumatic brain injury (TBI).Read more...</span></span></span>
 
 This is why experienced lawyers, scientists, and engineers commonly [slow down]({{ 'slow-down/' | relative_url }}) at critical passages even when they can skim introductory sections rapidly. The goal shifts from recognising words to accurately reconstructing relationships.
 
@@ -339,7 +339,7 @@ Warning signs include:
 
 When these signs appear, slowing down immediately can prevent a cascade of misunderstandings. The extra few seconds spent allowing inner speech to track the structure of a difficult sentence may save several minutes of rereading later.
 
-Research on working memory and comprehension supports this practical observation. Successful understanding depends not merely on recognising words but on maintaining and integrating information as the text unfolds. When memory demands exceed available capacity, comprehension deteriorates even if reading continues smoothly on the surface. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ssl2.cms.fu-berlin.de/geisteswissenschaften/v/brainlang/PM_Intranet/Neurobiology-of-Language/Caplan2016HBNBL_workingmemorysentencecomprehension.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ssl2.cms.fu-berlin.de">[ssl2.cms.fu-berlin.de+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ssl2.cms.fu-berlin.de</span><span class="citation-popover-snippet">Even adjacent words must be.Read more...</span></span></span>
+Research on working memory and comprehension supports this practical observation. Successful understanding depends not merely on recognising words but on maintaining and integrating information as the text unfolds. When memory demands exceed available capacity, comprehension deteriorates even if reading continues smoothly on the surface.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ssl2.cms.fu-berlin.de/geisteswissenschaften/v/brainlang/PM_Intranet/Neurobiology-of-Language/Caplan2016HBNBL_workingmemorysentencecomprehension.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ssl2.cms.fu-berlin.de">[ssl2.cms.fu-berlin.de+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ssl2.cms.fu-berlin.de</span><span class="citation-popover-snippet">Even adjacent words must be.Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_inner_voice_r_589d88_subvocalisati_6c5059_technical_pro_307a9d-Illustration-3-dark.svg" | relative_url }}" alt="Technical Prose illustration 3" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_inner_voice_r_589d88_subvocalisati_6c5059_technical_pro_307a9d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_inner_voice_r_589d88_subvocalisati_6c5059_technical_pro_307a9d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -347,222 +347,222 @@ Research on working memory and comprehension supports this practical observation
 
 The most effective readers typically adjust their use of inner speech according to the demands of the text rather than trying to eliminate it universally.
 
-For relatively simple material, reduced subvocalisation may help increase pace without significant comprehension costs. For dense technical prose, however, the inner voice often functions as a working-memory scaffold. It helps retain unfamiliar terminology, preserve clause structure, and connect qualifications across sentences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2995127/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A case for the involvement of phonological loop in sentence...by LJR Lauro · 2010 · Cited by 78 — We suggest that the neural correlat...</span></span></span>
+For relatively simple material, reduced subvocalisation may help increase pace without significant comprehension costs. For dense technical prose, however, the inner voice often functions as a working-memory scaffold. It helps retain unfamiliar terminology, preserve clause structure, and connect qualifications across sentences.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2995127/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A case for the involvement of phonological loop in sentence...by LJR Lauro · 2010 · Cited by 78 — We suggest that the neural correlat...</span></span></span>
 
-The practical lesson is not that technical material must always be read slowly. Rather, it is that reading speed should follow comprehension demands. When terminology is unfamiliar, clauses are heavily qualified, or meaning depends on precise wording, allowing some degree of inner speech can be the difference between merely seeing the words and understanding what they actually mean. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7081770/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2ssl2.cms.fu-berlin.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCVerbal Working Memory as Emergent from Language</span><span class="citation-popover-snippet">by SC Schwering · 2020 · Cited by 196 — This article reviews current models of verbal working memory and considers the role of languag...</span></span></span>
+The practical lesson is not that technical material must always be read slowly. Rather, it is that reading speed should follow comprehension demands. When terminology is unfamiliar, clauses are heavily qualified, or meaning depends on precise wording, allowing some degree of inner speech can be the difference between merely seeing the words and understanding what they actually mean.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7081770/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2ssl2.cms.fu-berlin.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCVerbal Working Memory as Emergent from Language</span><span class="citation-popover-snippet">by SC Schwering · 2020 · Cited by 196 — This article reviews current models of verbal working memory and considers the role of languag...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/q5yA9KW1sZw" title="How Can You Improve Your Phonological Loop? - Ultimate Study Hacks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=q5yA9KW1sZw" target="_blank" rel="noopener noreferrer">How Can You Improve Your Phonological Loop? - Ultimate Study Hacks</a></p><p class="youtube-embed-meta">Channel: Ultimate Study Hacks</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=q5yA9KW1sZw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=q5yA9KW1sZw">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Technical Text Needs the Inner Voice. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Technical Text Needs the Inner Voice. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Explains adapting reading methods to difficult technical material.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Explains adapting reading methods to difficult technical material.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-        </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+</h4>
+<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Useful for retaining unfamiliar technical concepts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for retaining unfamiliar technical concepts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Organized+Mind+by+Daniel+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Organized Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=F78cBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Organized Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Organized+Mind+by+Daniel+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Organized Mind">The Organized Mind</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Levitin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Organized+Mind+by+Daniel+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Organized Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=F78cBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Organized Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Organized+Mind+by+Daniel+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Organized Mind">The Organized Mind</a>
+</h4>
+<p class="fr-book-author">By Daniel Levitin</p>
         
-        <p class="fr-book-desc">Explains managing cognitive load during demanding reading.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Organized+Mind+by+Daniel+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains managing cognitive load during demanding reading.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Organized+Mind+by+Daniel+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Mind+for+Numbers+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Mind for Numbers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8352403-M.jpg" alt="Cover for A Mind for Numbers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Mind+for+Numbers+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Mind for Numbers">A Mind for Numbers</a>
-        </h4>
-        <p class="fr-book-author">By Barbara A. Oakley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Mind+for+Numbers+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Mind for Numbers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8352403-M.jpg" alt="Cover for A Mind for Numbers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Mind+for+Numbers+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Mind for Numbers">A Mind for Numbers</a>
+</h4>
+<p class="fr-book-author">By Barbara A. Oakley</p>
         
-        <p class="fr-book-desc">First published 2014. Subjects: Mathematics, Study and teaching, Math anxiety, Educational psychology, Psychological aspects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Mind+for+Numbers+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2014. Subjects: Mathematics, Study and teaching, Math anxiety, Educational psychology, Psychological aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Mind+for+Numbers+Barbara+A.+Oakley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Organized+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Organized Mind</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Organized+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Organized Mind</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ssl2.cms.fu-berlin.de  
-   Link: <a href="https://ssl2.cms.fu-berlin.de/geisteswissenschaften/v/brainlang/PM_Intranet/Neurobiology-of-Language/Caplan2016HBNBL_workingmemorysentencecomprehension.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ssl2.cms.fu-berlin.de/geisteswissenschaften/v/brainlang/PM_Intranet/Neurobiology-of-Language/Caplan2016HBNBL_workingmemorysentencecomprehension.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Even adjacent words must be.Read more...</p></details>
+   Link:<a href="https://ssl2.cms.fu-berlin.de/geisteswissenschaften/v/brainlang/PM_Intranet/Neurobiology-of-Language/Caplan2016HBNBL_workingmemorysentencecomprehension.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ssl2.cms.fu-berlin.de/geisteswissenschaften/v/brainlang/PM_Intranet/Neurobiology-of-Language/Caplan2016HBNBL_workingmemorysentencecomprehension.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Even adjacent words must be.Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCVerbal Working Memory as Emergent from Language  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7081770/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7081770/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by SC Schwering · 2020 · Cited by 196 — This article reviews current models of verbal working memory and considers the role of languag...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7081770/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7081770/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by SC Schwering · 2020 · Cited by 196 — This article reviews current models of verbal working memory and considers the role of languag...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6395580/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6395580/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Objective. To characterize comprehension of written legal language in adults with and without traumatic brain injury (TBI).Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6395580/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6395580/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Objective. To characterize comprehension of written legal language in adults with and without traumatic brain injury (TBI).Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
    Title: 385999682 Working Memory and High Level Text Comprehension Processes  
-   Link: <a href="https://www.researchgate.net/publication/385999682_Working_Memory_and_High-_Level_Text_Comprehension_Processes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/385999682_Working_Memory_and_High-_Level_Text_Comprehension_Processes</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Working Memory and High- Level Text...22 Apr 2026 — We review some of the literature showing how these cognitive processes are sup...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/385999682_Working_Memory_and_High-_Level_Text_Comprehension_Processes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/385999682_Working_Memory_and_High-_Level_Text_Comprehension_Processes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Working Memory and High- Level Text...22 Apr 2026 — We review some of the literature showing how these cognitive processes are sup...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
    Title: 319015822 A Meta Analysis on the Relation Between Reading and Working Memory  
-   Link: <a href="https://www.researchgate.net/publication/319015822_A_Meta-Analysis_on_the_Relation_Between_Reading_and_Working_Memory" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/319015822_A_Meta-Analysis_on_the_Relation_Between_Reading_and_Working_Memory</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Meta-Analysis on the Relation Between Reading and...30 Oct 2017 — The [purpose](&amp;#123;&amp;#123; &#x27;purpose/&#x27; | relative_url &amp;#125;&amp;#125;) of this study was to determine the relation between read...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/319015822_A_Meta-Analysis_on_the_Relation_Between_Reading_and_Working_Memory" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/319015822_A_Meta-Analysis_on_the_Relation_Between_Reading_and_Working_Memory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Meta-Analysis on the Relation Between Reading and...30 Oct 2017 — The [purpose](&amp;#123;&amp;#123; &#x27;purpose/&#x27; | relative_url &amp;#125;&amp;#125;) of this study was to determine the relation between read...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/247519101_The_phonological_loop_Some_answers_and_some_questions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/247519101_The_phonological_loop_Some_answers_and_some_questions</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ing verbal information in the phonological store to prevent decay...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/247519101_The_phonological_loop_Some_answers_and_some_questions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/247519101_The_phonological_loop_Some_answers_and_some_questions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ing verbal information in the phonological store to prevent decay...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2995127/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2995127/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A case for the involvement of phonological loop in sentence...by LJR Lauro · 2010 · Cited by 78 — We suggest that the neural correlat...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2995127/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2995127/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A case for the involvement of phonological loop in sentence...by LJR Lauro · 2010 · Cited by 78 — We suggest that the neural correlat...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1080/14640748108400802" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1080/14640748108400802</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsThe Role of Subvocalisation in ReadingIt is concluded that subvocalisation allows the creation of a supplementary articulato...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1080/14640748108400802" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1080/14640748108400802</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsThe Role of Subvocalisation in ReadingIt is concluded that subvocalisation allows the creation of a supplementary articulato...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: journal.psych.ac.cn  
-   Link: <a href="https://journal.psych.ac.cn/acps/EN/abstract/abstract1741.shtml" target="_blank" rel="noopener noreferrer nofollow">https://journal.psych.ac.cn/acps/EN/abstract/abstract1741.shtml</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ological JournalThe Effects of Phonological Loop of the Working Memory in...by Z Lu · 2007 · Cited by 12 — Phonological loop which...</p></details>
+   Link:<a href="https://journal.psych.ac.cn/acps/EN/abstract/abstract1741.shtml" target="_blank" rel="noopener noreferrer nofollow">https://journal.psych.ac.cn/acps/EN/abstract/abstract1741.shtml</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ological JournalThe Effects of Phonological Loop of the Working Memory in...by Z Lu · 2007 · Cited by 12 — Phonological loop which...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11783984/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11783984/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>phonological store of working memory: A critique and an...by RW Hughes · 2024 · Cited by 12 — This review discusses how the phonological...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11783984/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11783984/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>phonological store of working memory: A critique and an...by RW Hughes · 2024 · Cited by 12 — This review discusses how the phonological...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4511188/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4511188/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govExpertise, Working Memory and Articulatory Suppression Effectby I Injoque-Ricle · 2015 · Cited by 64 — The aim of this work was to...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4511188/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4511188/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govExpertise, Working Memory and Articulatory Suppression Effectby I Injoque-Ricle · 2015 · Cited by 64 — The aim of this work was to...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5495138/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5495138/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by K Emmorey · 2017 · Cited by 42 — This study investigated the relation between linguistic and spatial working memory (WM) resources...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5495138/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5495138/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by K Emmorey · 2017 · Cited by 42 — This study investigated the relation between linguistic and spatial working memory (WM) resources...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2849630/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2849630/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MODELS OF WORKING MEMORY THROUGH...by JM Chein · 2010 · Cited by 128 — Second, by taxing the speech apparatus that supports subvocal reh...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2849630/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2849630/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MODELS OF WORKING MEMORY THROUGH...by JM Chein · 2010 · Cited by 128 — Second, by taxing the speech apparatus that supports subvocal reh...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: englishglobalcom.wordpress.com  
-   Link: <a href="https://englishglobalcom.wordpress.com/wp-content/uploads/2016/10/walter-so-40-2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://englishglobalcom.wordpress.com/wp-content/uploads/2016/10/walter-so-40-2009.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Teaching [phonology](&amp;#123;&amp;#123; &#x27;sound-coding/&#x27; | relative_url &amp;#125;&amp;#125;) for reading comprehensionAs I explained above, it is in the phonological loop that readers of alphabet...</p></details>
+   Link:<a href="https://englishglobalcom.wordpress.com/wp-content/uploads/2016/10/walter-so-40-2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://englishglobalcom.wordpress.com/wp-content/uploads/2016/10/walter-so-40-2009.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Teaching [phonology](&amp;#123;&amp;#123; &#x27;sound-coding/&#x27; | relative_url &amp;#125;&amp;#125;) for reading comprehensionAs I explained above, it is in the phonological loop that readers of alphabet...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: thedecisionlab.com  
-   Link: <a href="https://thedecisionlab.com/reference-guide/psychology/phonological-loop" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/phonological-loop</a>  
+   Link:<a href="https://thedecisionlab.com/reference-guide/psychology/phonological-loop" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/phonological-loop</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: epistemocritique.org  
-   Link: <a href="https://epistemocritique.org/what-the-neurocognitive-study-of-inner-language-reveals-about-our-inner-space/" target="_blank" rel="noopener noreferrer nofollow">https://epistemocritique.org/what-the-neurocognitive-study-of-inner-language-reveals-about-our-inner-space/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>sciousness at the interplay of language and thought (Morin, 2005) and is beneficial to many cognitive operations.Read more...</p></details>
+   Link:<a href="https://epistemocritique.org/what-the-neurocognitive-study-of-inner-language-reveals-about-our-inner-space/" target="_blank" rel="noopener noreferrer nofollow">https://epistemocritique.org/what-the-neurocognitive-study-of-inner-language-reveals-about-our-inner-space/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sciousness at the interplay of language and thought (Morin, 2005) and is beneficial to many cognitive operations.Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: waseda.elsevierpure.com  
    Title: effects of reading aloud and subvocalization on text comprehensio  
-   Link: <a href="https://waseda.elsevierpure.com/en/publications/effects-of-reading-aloud-and-subvocalization-on-text-comprehensio/" target="_blank" rel="noopener noreferrer nofollow">https://waseda.elsevierpure.com/en/publications/effects-of-reading-aloud-and-subvocalization-on-text-comprehensio/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Waseda UniversityEffects of reading aloud and subvocalization on text...by A Morita · 2019 — The present study examined effects of readi...</p></details>
+   Link:<a href="https://waseda.elsevierpure.com/en/publications/effects-of-reading-aloud-and-subvocalization-on-text-comprehensio/" target="_blank" rel="noopener noreferrer nofollow">https://waseda.elsevierpure.com/en/publications/effects-of-reading-aloud-and-subvocalization-on-text-comprehensio/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Waseda UniversityEffects of reading aloud and subvocalization on text...by A Morita · 2019 — The present study examined effects of readi...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: banglajol.info  
    Title: It can facilitate immediate understanding slightly or not at all  
-   Link: <a href="https://www.banglajol.info/index.php/DUJBS/article/view/60881/43780" target="_blank" rel="noopener noreferrer nofollow">https://www.banglajol.info/index.php/DUJBS/article/view/60881/43780</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bangladesh Journals OnlineReading methods, Subvocalization and Recall Abstractby I Shahnaz · 2022 · Cited by 1 — Subvocalization can be m...</p></details>
+   Link:<a href="https://www.banglajol.info/index.php/DUJBS/article/view/60881/43780" target="_blank" rel="noopener noreferrer nofollow">https://www.banglajol.info/index.php/DUJBS/article/view/60881/43780</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bangladesh Journals OnlineReading methods, Subvocalization and Recall Abstractby I Shahnaz · 2022 · Cited by 1 — Subvocalization can be m...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
    Title: Researchers are still trying to understand those who don't need it.Read more  
-   Link: <a href="https://www.reddit.com/r/books/comments/plkx2r/the_never_ending_use_of_subvocalization_when/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/books/comments/plkx2r/the_never_ending_use_of_subvocalization_when/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The never ending use of subvocalization, when reading.Studies have shown that for 90+% of readers, subvocalization is essential for compr...</p></details>
+   Link:<a href="https://www.reddit.com/r/books/comments/plkx2r/the_never_ending_use_of_subvocalization_when/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/books/comments/plkx2r/the_never_ending_use_of_subvocalization_when/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The never ending use of subvocalization, when reading.Studies have shown that for 90+% of readers, subvocalization is essential for compr...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/the-comprehension-engineer/dual-coding-theory-for-technical-writers-words-and-pictures-in-your-brain-8453be55dcac" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-comprehension-engineer/dual-coding-theory-for-technical-writers-words-and-pictures-in-your-brain-8453be55dcac</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s information through two distinct mental systems: one for...Read more...</p></details>
+   Link:<a href="https://medium.com/the-comprehension-engineer/dual-coding-theory-for-technical-writers-words-and-pictures-in-your-brain-8453be55dcac" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-comprehension-engineer/dual-coding-theory-for-technical-writers-words-and-pictures-in-your-brain-8453be55dcac</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s information through two distinct mental systems: one for...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: dspace.mit.edu  
    Title: Previous work in the general psycholinguistics literature has.Read more  
-   Link: <a href="https://dspace.mit.edu/bitstream/handle/1721.1/148805/1-s2.0-S0010027722000580-main.pdf?isAllowed=y&amp;sequence=2" target="_blank" rel="noopener noreferrer nofollow">https://dspace.mit.edu/bitstream/handle/1721.1/148805/1-s2.0-S0010027722000580-main.pdf?isAllowed=y&amp;sequence=2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Poor writing, not specialized concepts, drives processing...by E Martínez · 2022 · Cited by 87 — Our findings better align with an...</p></details>
+   Link:<a href="https://dspace.mit.edu/bitstream/handle/1721.1/148805/1-s2.0-S0010027722000580-main.pdf?isAllowed=y&amp;sequence=2" target="_blank" rel="noopener noreferrer nofollow">https://dspace.mit.edu/bitstream/handle/1721.1/148805/1-s2.0-S0010027722000580-main.pdf?isAllowed=y&amp;sequence=2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Poor writing, not specialized concepts, drives processing...by E Martínez · 2022 · Cited by 87 — Our findings better align with an...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=MiFcAnnRwXU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MiFcAnnRwXU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The World of Words and Working Memory Part 3: Reading Comprehension As a cognitively complex task, reading employs circuits from differen...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=MiFcAnnRwXU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MiFcAnnRwXU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The World of Words and Working Memory Part 3: Reading Comprehension As a cognitively complex task, reading employs circuits from differen...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: irisreading.com  
    Title: What Is Subvocalization in Reading?  
-   Link: <a href="https://irisreading.com/what-is-subvocalization-in-reading/" target="_blank" rel="noopener noreferrer nofollow">https://irisreading.com/what-is-subvocalization-in-reading/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(Explained!)18 Dec 2022 — Subvocalization is a form of silent speech. It is a subconscious trait that occurs when someone makes an intern...</p></details>
+   Link:<a href="https://irisreading.com/what-is-subvocalization-in-reading/" target="_blank" rel="noopener noreferrer nofollow">https://irisreading.com/what-is-subvocalization-in-reading/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(Explained!)18 Dec 2022 — Subvocalization is a form of silent speech. It is a subconscious trait that occurs when someone makes an intern...</p></details>

@@ -279,7 +279,7 @@ When people try to increase reading speed, they often treat the inner voice as a
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_speed_reading_71e807_subvocalisati_b4ad98_inner_voice_s_c82840-Illustration-1-dark.svg" | relative_url }}" alt="Skim or Study illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_speed_reading_71e807_subvocalisati_b4ad98_inner_voice_s_c82840-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_speed_reading_71e807_subvocalisati_b4ad98_inner_voice_s_c82840-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For quick information gathering, many readers can reduce the vividness of their inner speech and move through text in larger chunks. For demanding material, however, deliberately hearing the wording can improve comprehension, memory, and reasoning. Research on phonological processing and working memory suggests that sound-based language representations help readers hold ideas together, especially when sentences, arguments, or explanations become complex. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12214213/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Phonological working memory and linguistic processing...by DB Candal · 2025 · Cited by 9 — We tested, using simple mediation models...</span></span></span>
+For quick information gathering, many readers can reduce the vividness of their inner speech and move through text in larger chunks. For demanding material, however, deliberately hearing the wording can improve comprehension, memory, and reasoning. Research on phonological processing and working memory suggests that sound-based language representations help readers hold ideas together, especially when sentences, arguments, or explanations become complex.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12214213/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Phonological working memory and linguistic processing...by DB Candal · 2025 · Cited by 9 — We tested, using simple mediation models...</span></span></span>
 
 The practical reading-speed skill is therefore not eliminating the inner voice. It is matching the amount of inner speech to the [purpose]({{ 'purpose/' | relative_url }}) of the reading task.
 
@@ -301,7 +301,7 @@ Because comprehension demands are lower, the inner voice can become less promine
 
 </div>
 
-This is not the same as eliminating phonological processing entirely. Skilled readers still activate language knowledge automatically, but they do not necessarily attend to every word with equal care. Research on reading consistently shows that reading speed varies naturally with purpose, text difficulty, and comprehension goals rather than remaining fixed across all materials. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2017/01/make-resolution-read-speed-reading-wont-help" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">Basic calculations based on the properties of eyes and texts indicate that an average reading speed is around 280 words per minute, a val...</span></span></span>
+This is not the same as eliminating phonological processing entirely. Skilled readers still activate language knowledge automatically, but they do not necessarily attend to every word with equal care. Research on reading consistently shows that reading speed varies naturally with purpose, text difficulty, and comprehension goals rather than remaining fixed across all materials.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2017/01/make-resolution-read-speed-reading-wont-help" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">Basic calculations based on the properties of eyes and texts indicate that an average reading speed is around 280 words per minute, a val...</span></span></span>
 
 A useful example is reading a familiar business report. If the purpose is to identify major conclusions, reading every sentence with full internal narration may be unnecessary. The reader can move faster because the required level of understanding is lower.
 
@@ -314,9 +314,9 @@ The situation changes when the material becomes conceptually demanding.
 
 Academic papers, legal documents, [technical]({{ 'technical-texts/' | relative_url }}) manuals, philosophy, mathematics explanations, and complex non-fiction often contain long dependencies between ideas. The reader must remember earlier information while interpreting later information. In these cases, the inner voice becomes less of a speed limit and more of a cognitive support system.
 
-Research linked to the phonological loop—the verbal component of working memory—suggests that speech-based representations help maintain information long enough to integrate meanings across sentences and paragraphs. Inner speech functions as a rehearsal mechanism that keeps language active while comprehension unfolds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4538954/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCInner Speech: Development, Cognitive Functions</span><span class="citation-popover-snippet">by B Alderson-Day · 2015 · Cited by 1160 — In this model, the phonological loop is made up of two subcomponents: a passive, phonologic...</span></span></span>
+Research linked to the phonological loop—the verbal component of working memory—suggests that speech-based representations help maintain information long enough to integrate meanings across sentences and paragraphs. Inner speech functions as a rehearsal mechanism that keeps language active while comprehension unfolds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4538954/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCInner Speech: Development, Cognitive Functions</span><span class="citation-popover-snippet">by B Alderson-Day · 2015 · Cited by 1160 — In this model, the phonological loop is made up of two subcomponents: a passive, phonologic...</span></span></span>
 
-Studies examining reading comprehension have also found meaningful relationships between phonological working memory and the ability to make inferences from text. When readers must connect ideas, resolve ambiguities, or follow complex reasoning, verbal working-memory resources become increasingly important. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12214213/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Phonological working memory and linguistic processing...by DB Candal · 2025 · Cited by 9 — We tested, using simple mediation models...</span></span></span>
+Studies examining reading comprehension have also found meaningful relationships between phonological working memory and the ability to make inferences from text. When readers must connect ideas, resolve ambiguities, or follow complex reasoning, verbal working-memory resources become increasingly important.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12214213/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Phonological working memory and linguistic processing...by DB Candal · 2025 · Cited by 9 — We tested, using simple mediation models...</span></span></span>
 
 This helps explain why many readers instinctively slow down when encountering:
 
@@ -339,9 +339,9 @@ The slowdown is often adaptive rather than inefficient. The brain is allocating 
 
 One misconception behind many [speed-reading]({{ 'myths/' | relative_url }}) programmes is that the inner voice merely duplicates spoken language. Reading research paints a different picture.
 
-Researchers have argued that skilled readers activate phonological information extremely rapidly and automatically. This activation is deeply connected to word recognition and comprehension rather than functioning as a removable habit. Attempts to suppress it completely can interfere with understanding, particularly when texts become difficult. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2017/01/make-resolution-read-speed-reading-wont-help" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2speedreading.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">Basic calculations based on the properties of eyes and texts indicate that an average reading speed is around 280 words per minute, a val...</span></span></span>
+Researchers have argued that skilled readers activate phonological information extremely rapidly and automatically. This activation is deeply connected to word recognition and comprehension rather than functioning as a removable habit. Attempts to suppress it completely can interfere with understanding, particularly when texts become difficult.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2017/01/make-resolution-read-speed-reading-wont-help" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2speedreading.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">Basic calculations based on the properties of eyes and texts indicate that an average reading speed is around 280 words per minute, a val...</span></span></span>
 
-Evidence discussed in reading and memory research suggests that subvocalisation becomes increasingly valuable as comprehension demands rise from isolated words to sentences and then to extended passages. The need to integrate information over longer stretches of text appears to increase the usefulness of speech-based coding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Subvocalization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+Evidence discussed in reading and memory research suggests that subvocalisation becomes increasingly valuable as comprehension demands rise from isolated words to sentences and then to extended passages. The need to integrate information over longer stretches of text appears to increase the usefulness of speech-based coding.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Subvocalization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 This creates an important distinction:
 
@@ -406,193 +406,193 @@ This flexible approach often produces greater overall efficiency than attempting
 
 The debate over subvocalisation often assumes a choice between reading slowly with an inner voice or reading quickly without one. In [practice]({{ 'practice/' | relative_url }}), skilled readers usually do neither.
 
-They adapt. They skim when the objective is orientation, filtering, or information gathering. They allow stronger inner speech when comprehension, learning, and memory become the priority. Research on reading and working memory supports this distinction: phonological processing is most valuable when language complexity increases and ideas must be held together across time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12214213/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[WIRED+3PMC+3PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Phonological working memory and linguistic processing...by DB Candal · 2025 · Cited by 9 — We tested, using simple mediation models...</span></span></span>
+They adapt. They skim when the objective is orientation, filtering, or information gathering. They allow stronger inner speech when comprehension, learning, and memory become the priority. Research on reading and working memory supports this distinction: phonological processing is most valuable when language complexity increases and ideas must be held together across time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12214213/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[WIRED+3PMC+3PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Phonological working memory and linguistic processing...by DB Candal · 2025 · Cited by 9 — We tested, using simple mediation models...</span></span></span>
 
 For increasing reading speed, the most useful habit is therefore not suppressing the inner voice. It is learning when to let it fade into the background and when to let it guide careful understanding.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When to Skim and When to Hear Words. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When to Skim and When to Hear Words. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Teaches matching reading style to reading purpose.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Teaches matching reading style to reading purpose.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Work on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lZpFCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Work" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Work">Deep Work</a>
-        </h4>
-        <p class="fr-book-author">By Cal Newport</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Work on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lZpFCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Work" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Work">Deep Work</a>
+</h4>
+<p class="fr-book-author">By Cal Newport</p>
         
-        <p class="fr-book-desc">Supports deliberate attention for difficult texts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports deliberate attention for difficult texts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Language+at+the+Speed+of+Sight+Mark+Seidenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Language at the Speed of Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10546551-M.jpg" alt="Cover for Language at the Speed of Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Language+at+the+Speed+of+Sight+Mark+Seidenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Language at the Speed of Sight">Language at the Speed of Sight</a>
-        </h4>
-        <p class="fr-book-author">By Mark Seidenberg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Language+at+the+Speed+of+Sight+Mark+Seidenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Language at the Speed of Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10546551-M.jpg" alt="Cover for Language at the Speed of Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Language+at+the+Speed+of+Sight+Mark+Seidenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Language at the Speed of Sight">Language at the Speed of Sight</a>
+</h4>
+<p class="fr-book-author">By Mark Seidenberg</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Reading (higher education), Language experience approach in education, Cognition disorders, Psycholinguis...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Language+at+the+Speed+of+Sight+Mark+Seidenberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Reading (higher education), Language experience approach in education, Cognition disorders, Psycholinguis...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Language+at+the+Speed+of+Sight+Mark+Seidenberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading in the Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6649793-M.jpg" alt="Cover for Reading in the Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading in the Brain">Reading in the Brain</a>
-        </h4>
-        <p class="fr-book-author">By Stanislas Dehaene</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading in the Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6649793-M.jpg" alt="Cover for Reading in the Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading in the Brain">Reading in the Brain</a>
+</h4>
+<p class="fr-book-author">By Stanislas Dehaene</p>
         
-        <p class="fr-book-desc">First published 2009. Subjects: Science, Nonfiction, Psychology, Psychology of Reading, Reading.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2009. Subjects: Science, Nonfiction, Psychology, Psychology of Reading, Reading.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Work&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Work</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Language+at+the+Speed+of+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Language at the Speed of Sight</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Work&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Work</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Language+at+the+Speed+of+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Language at the Speed of Sight</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12214213/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12214213/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Phonological working memory and linguistic processing...by DB Candal · 2025 · Cited by 9 — We tested, using simple mediation models...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12214213/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12214213/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Phonological working memory and linguistic processing...by DB Candal · 2025 · Cited by 9 — We tested, using simple mediation models...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCInner Speech: Development, Cognitive Functions  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4538954/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4538954/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by B Alderson-Day · 2015 · Cited by 1160 — In this model, the phonological loop is made up of two subcomponents: a passive, phonologic...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4538954/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4538954/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by B Alderson-Day · 2015 · Cited by 1160 — In this model, the phonological loop is made up of two subcomponents: a passive, phonologic...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/2017/01/make-resolution-read-speed-reading-wont-help" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2017/01/make-resolution-read-speed-reading-wont-help</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Basic calculations based on the properties of eyes and texts indicate that an average reading speed is around 280 words per minute, a val...</p></details>
+   Link:<a href="https://www.wired.com/2017/01/make-resolution-read-speed-reading-wont-help" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2017/01/make-resolution-read-speed-reading-wont-help</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Basic calculations based on the properties of eyes and texts indicate that an average reading speed is around 280 words per minute, a val...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11783984/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11783984/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>phonological store of working memory: A critique and an...by RW Hughes · 2024 · Cited by 13 — The core structure within the phonological...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11783984/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11783984/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>phonological store of working memory: A critique and an...by RW Hughes · 2024 · Cited by 13 — The core structure within the phonological...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe role of consciousness in the phonological loop  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3737516/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3737516/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>role of consciousness in the phonological loop - PMC - NIHby BR Buchsbaum · 2013 · Cited by 90 — Here we explore how the intuitive appeal...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3737516/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3737516/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>role of consciousness in the phonological loop - PMC - NIHby BR Buchsbaum · 2013 · Cited by 90 — Here we explore how the intuitive appeal...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: speedreading.com  
-   Link: <a href="https://speedreading.com/research/controversies-and-claims.php" target="_blank" rel="noopener noreferrer nofollow">https://speedreading.com/research/controversies-and-claims.php</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Should I eliminate subvocalization? No. Inner speech often supports...Read more...</p></details>
+   Link:<a href="https://speedreading.com/research/controversies-and-claims.php" target="_blank" rel="noopener noreferrer nofollow">https://speedreading.com/research/controversies-and-claims.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Should I eliminate subvocalization? No. Inner speech often supports...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Subvocalization" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Subvocalization</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Subvocalization" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Subvocalization</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Subvocalization | Things About Speed Reading Nobody Tells You  
-   Link: <a href="https://www.youtube.com/watch?v=DGDkTyOt7gQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DGDkTyOt7gQ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Read Faster by Reducing Subvocalization - Speed Reading Tips...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=DGDkTyOt7gQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DGDkTyOt7gQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Read Faster by Reducing Subvocalization - Speed Reading Tips...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: encyclopedia.pub  
-   Link: <a href="https://encyclopedia.pub/entry/33862" target="_blank" rel="noopener noreferrer nofollow">https://encyclopedia.pub/entry/33862</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Subvocalization | Encyclopedia MDPI10 Nov 2022 — Subvocalization, or silent speech, is the internal speech typically made when reading; i...</p></details>
+   Link:<a href="https://encyclopedia.pub/entry/33862" target="_blank" rel="noopener noreferrer nofollow">https://encyclopedia.pub/entry/33862</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Subvocalization | Encyclopedia MDPI10 Nov 2022 — Subvocalization, or silent speech, is the internal speech typically made when reading; i...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: magneticmemorymethod.com  
-   Link: <a href="https://www.magneticmemorymethod.com/how-to-stop-subvocalizing/" target="_blank" rel="noopener noreferrer nofollow">https://www.magneticmemorymethod.com/how-to-stop-subvocalizing/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Stop Subvocalizing: My Surprising SolutionSpeed reading books often teach how to stop subvocalizing. Learn all about the technique...</p></details>
+   Link:<a href="https://www.magneticmemorymethod.com/how-to-stop-subvocalizing/" target="_blank" rel="noopener noreferrer nofollow">https://www.magneticmemorymethod.com/how-to-stop-subvocalizing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Stop Subvocalizing: My Surprising SolutionSpeed reading books often teach how to stop subvocalizing. Learn all about the technique...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/curious/speed-reading-is-a-myth-676be05df30c" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/curious/speed-reading-is-a-myth-676be05df30c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Speed Reading Is a MythSpeed Reading Is a Myth Research shows speed reading is impossible without sacrificing comprehension I first learn...</p></details>
+   Link:<a href="https://medium.com/curious/speed-reading-is-a-myth-676be05df30c" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/curious/speed-reading-is-a-myth-676be05df30c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Speed Reading Is a MythSpeed Reading Is a Myth Research shows speed reading is impossible without sacrificing comprehension I first learn...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/books/comments/kztft/subvocalization_vs_speedreadingskimming_your/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/books/comments/kztft/subvocalization_vs_speedreadingskimming_your/</a>  
+   Link:<a href="https://www.reddit.com/r/books/comments/kztft/subvocalization_vs_speedreadingskimming_your/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/books/comments/kztft/subvocalization_vs_speedreadingskimming_your/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ruj.uj.edu.pl  
-   Link: <a href="https://ruj.uj.edu.pl/server/api/core/bitstreams/15f66099-2a70-44d8-be73-9daaa6f36327/content" target="_blank" rel="noopener noreferrer nofollow">https://ruj.uj.edu.pl/server/api/core/bitstreams/15f66099-2a70-44d8-be73-9daaa6f36327/content</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>role of phonological mediation in word recognition in readingThis chapter is the outcome of my work as a foreign language teacher. Teachi...</p></details>
+   Link:<a href="https://ruj.uj.edu.pl/server/api/core/bitstreams/15f66099-2a70-44d8-be73-9daaa6f36327/content" target="_blank" rel="noopener noreferrer nofollow">https://ruj.uj.edu.pl/server/api/core/bitstreams/15f66099-2a70-44d8-be73-9daaa6f36327/content</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>role of phonological mediation in word recognition in readingThis chapter is the outcome of my work as a foreign language teacher. Teachi...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/books/comments/oet3ym/the_false_promise_of_speed_reading_why_you_should/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/books/comments/oet3ym/the_false_promise_of_speed_reading_why_you_should/</a>  
+   Link:<a href="https://www.reddit.com/r/books/comments/oet3ym/the_false_promise_of_speed_reading_why_you_should/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/books/comments/oet3ym/the_false_promise_of_speed_reading_why_you_should/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: washingtonbeerblog.com  
-   Link: <a href="https://washingtonbeerblog.com/speed-reading-myths-what-science-says-about-reading-faster-even-after-a-couple-of-beers/" target="_blank" rel="noopener noreferrer nofollow">https://washingtonbeerblog.com/speed-reading-myths-what-science-says-about-reading-faster-even-after-a-couple-of-beers/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Speed reading programs tell you to eliminate subvocalization (the internal voice reading along). It has been found...Read more...</p></details>
+   Link:<a href="https://washingtonbeerblog.com/speed-reading-myths-what-science-says-about-reading-faster-even-after-a-couple-of-beers/" target="_blank" rel="noopener noreferrer nofollow">https://washingtonbeerblog.com/speed-reading-myths-what-science-says-about-reading-faster-even-after-a-couple-of-beers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Speed reading programs tell you to eliminate subvocalization (the internal voice reading along). It has been found...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/264642555_Phonological_working_memory_and_reading_in_students_with_dyslexia" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/264642555_Phonological_working_memory_and_reading_in_students_with_dyslexia</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to fluency, reading comprehension and phonological processing (operational and short-term memory) and identify...Read mor...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/264642555_Phonological_working_memory_and_reading_in_students_with_dyslexia" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/264642555_Phonological_working_memory_and_reading_in_students_with_dyslexia</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to fluency, reading comprehension and phonological processing (operational and short-term memory) and identify...Read mor...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=JC7fDlo7fJA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JC7fDlo7fJA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is Speed Reading A Hoax? Let&#x27;s Look At The EvidenceThere are a TON of misconceptions about speed reading. And later this week, you have a...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=JC7fDlo7fJA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JC7fDlo7fJA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is Speed Reading A Hoax? Let&#x27;s Look At The EvidenceThere are a TON of misconceptions about speed reading. And later this week, you have a...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: iflscience.com  
    Title: subvocalization why do we have a voice in our heads when we read 74659  
-   Link: <a href="https://www.iflscience.com/subvocalization-why-do-we-have-a-voice-in-our-heads-when-we-read-74659" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/subvocalization-why-do-we-have-a-voice-in-our-heads-when-we-read-74659</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Subvocalization: Why Do We Have A Voice In Our Heads...14 Jun 2024 — For instance, research by Alan Baddeley suggests that our working m...</p></details>
+   Link:<a href="https://www.iflscience.com/subvocalization-why-do-we-have-a-voice-in-our-heads-when-we-read-74659" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/subvocalization-why-do-we-have-a-voice-in-our-heads-when-we-read-74659</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Subvocalization: Why Do We Have A Voice In Our Heads...14 Jun 2024 — For instance, research by Alan Baddeley suggests that our working m...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: waseda.elsevierpure.com  
    Title: effects of [reading aloud](&#123;&#123; 'reading-aloud/' | relative_url &#125;&#125;) and subvocalization on text comprehensio  
-   Link: <a href="https://waseda.elsevierpure.com/en/publications/effects-of-reading-aloud-and-subvocalization-on-text-comprehensio/" target="_blank" rel="noopener noreferrer nofollow">https://waseda.elsevierpure.com/en/publications/effects-of-reading-aloud-and-subvocalization-on-text-comprehensio/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of reading aloud and subvocalization on text...by A Morita · 2019 — The present study examined effects of reading aloud and subvocalizat...</p></details>
+   Link:<a href="https://waseda.elsevierpure.com/en/publications/effects-of-reading-aloud-and-subvocalization-on-text-comprehensio/" target="_blank" rel="noopener noreferrer nofollow">https://waseda.elsevierpure.com/en/publications/effects-of-reading-aloud-and-subvocalization-on-text-comprehensio/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of reading aloud and subvocalization on text...by A Morita · 2019 — The present study examined effects of reading aloud and subvocalizat...</p></details>

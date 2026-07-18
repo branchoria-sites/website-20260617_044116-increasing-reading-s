@@ -273,7 +273,7 @@ Fast email reading is not primarily about moving your eyes across text more quic
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_purpose_based_25e5d2_email_triage_c9e704_hidden_email_66beb2-Illustration-1-dark.svg" | relative_url }}" alt="Hidden Actions illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_purpose_based_25e5d2_email_triage_c9e704_hidden_email_66beb2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_purpose_based_25e5d2_email_triage_c9e704_hidden_email_66beb2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters because email overload is strongly associated with stress, workflow disruption, and reduced productivity. When inbox volume is high, readers benefit from a method that identifies commitments before investing time in every detail. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11484023/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCinvestigating email classes and work stressors as</span><span class="citation-popover-snippet">by M Kern · 2024 · Cited by 9 — High email load has been associated with impaired well-being because emails impose specific demands, d...</span></span></span>
+This matters because email overload is strongly associated with stress, workflow disruption, and reduced productivity. When inbox volume is high, readers benefit from a method that identifies commitments before investing time in every detail.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11484023/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCinvestigating email classes and work stressors as</span><span class="citation-popover-snippet">by M Kern · 2024 · Cited by 9 — High email load has been associated with impaired well-being because emails impose specific demands, d...</span></span></span>
 
 The most effective [email triage]({{ 'email-triage/' | relative_url }}) systems therefore treat emails as commitment-hunting exercises. Instead of asking “What is this email about?”, they ask “What am I expected to do, and by when?”
 
@@ -302,7 +302,7 @@ Consider two versions of the same message:
 
 The first three sentences provide background. The final sentence creates the obligation.
 
-This pattern appears so frequently that many professional communication guides recommend placing the requested action near the beginning of a message because readers naturally search for it. When writers fail to do that, recipients must actively hunt for the verb that identifies responsibility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.calendar.com/blog/email-to-action-game-plan-for-workflows/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calendar.com">[Calendar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calendar.com</span><span class="citation-popover-title">Better Email to Action Game Plan For Your Workflows</span><span class="citation-popover-snippet">Better Email to Action Game Plan For Your Workflows - CalendarMarch 4, 2026 — 4 Mar 2026 — Stop endless email threads with 7 acti...</span><span class="citation-popover-meta">Published: March 4, 2026</span></span></span>
+This pattern appears so frequently that many professional communication guides recommend placing the requested action near the beginning of a message because readers naturally search for it. When writers fail to do that, recipients must actively hunt for the verb that identifies responsibility.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.calendar.com/blog/email-to-action-game-plan-for-workflows/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calendar.com">[Calendar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calendar.com</span><span class="citation-popover-title">Better Email to Action Game Plan For Your Workflows</span><span class="citation-popover-snippet">Better Email to Action Game Plan For Your Workflows - CalendarMarch 4, 2026 — 4 Mar 2026 — Stop endless email threads with 7 acti...</span><span class="citation-popover-meta">Published: March 4, 2026</span></span></span>
 
 A practical scanning technique is to ignore explanatory paragraphs on the first pass and look for [phrases]({{ 'phrases/' | relative_url }}) such as:
 
@@ -342,7 +342,7 @@ During rapid triage, treating action requests as a separate category from inform
 
 A date transforms information into a commitment.
 
-Research and professional communication guidance consistently emphasise that deadlines are among the most important pieces of information in an email because they determine priority and sequencing. Yet deadlines are often buried in the middle of messages rather than highlighted clearly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://booherresearch.com/9-ways-to-get-people-to-take-action-and-meet-deadlines-in-your-emails/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: booherresearch.com">[Booher Research Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">booherresearch.com</span><span class="citation-popover-snippet">es in Emails · State Specific Due Dates · Put Action and Due Dates in the Subject Lines · Put the Request in...Read more...</span></span></span>
+Research and professional communication guidance consistently emphasise that deadlines are among the most important pieces of information in an email because they determine priority and sequencing. Yet deadlines are often buried in the middle of messages rather than highlighted clearly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://booherresearch.com/9-ways-to-get-people-to-take-action-and-meet-deadlines-in-your-emails/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: booherresearch.com">[Booher Research Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">booherresearch.com</span><span class="citation-popover-snippet">es in Emails · State Specific Due Dates · Put Action and Due Dates in the Subject Lines · Put the Request in...Read more...</span></span></span>
 
 Common locations where deadlines hide include:
 
@@ -442,7 +442,7 @@ Examples include:
 
 </div>
 
-Government and professional communication guidance specifically advises attention to attachments because key information is frequently separated from the message body. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.communications.gov.uk/guidance/digital-communication/writing-effective-emails/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communications.gov.uk">[Communications GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communications.gov.uk</span><span class="citation-popover-title">Communications GOV.UK Writing effective emails</span><span class="citation-popover-snippet">Communications GOV.UKWriting effective emails - Government Communication Service29 Oct 2020 — How to communicate with colleagues and exte...</span></span></span>
+Government and professional communication guidance specifically advises attention to attachments because key information is frequently separated from the message body.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.communications.gov.uk/guidance/digital-communication/writing-effective-emails/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: communications.gov.uk">[Communications GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">communications.gov.uk</span><span class="citation-popover-title">Communications GOV.UK Writing effective emails</span><span class="citation-popover-snippet">Communications GOV.UKWriting effective emails - Government Communication Service29 Oct 2020 — How to communicate with colleagues and exte...</span></span></span>
 
 A short email saying:
 
@@ -464,7 +464,7 @@ The approval request appears only in the final sentence.
 
 Readers who skim the opening paragraphs and move on may leave believing they have absorbed the message while missing the only line that required action.
 
-Communication experts often recommend placing requests early because recipients tend to prioritise based on visible actions and deadlines. The fact that many emails still place requests at the end makes final-line scanning an especially valuable triage habit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.calendar.com/blog/email-to-action-game-plan-for-workflows/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calendar.com">[Calendar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calendar.com</span><span class="citation-popover-title">Better Email to Action Game Plan For Your Workflows</span><span class="citation-popover-snippet">Better Email to Action Game Plan For Your Workflows - CalendarMarch 4, 2026 — 4 Mar 2026 — Stop endless email threads with 7 acti...</span><span class="citation-popover-meta">Published: March 4, 2026</span></span></span>
+Communication experts often recommend placing requests early because recipients tend to prioritise based on visible actions and deadlines. The fact that many emails still place requests at the end makes final-line scanning an especially valuable triage habit.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.calendar.com/blog/email-to-action-game-plan-for-workflows/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calendar.com">[Calendar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calendar.com</span><span class="citation-popover-title">Better Email to Action Game Plan For Your Workflows</span><span class="citation-popover-snippet">Better Email to Action Game Plan For Your Workflows - CalendarMarch 4, 2026 — 4 Mar 2026 — Stop endless email threads with 7 acti...</span><span class="citation-popover-meta">Published: March 4, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ff_f5E-Bk8E" title="6 Incredible Task Management Features In Microsoft 365!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ff_f5E-Bk8E" target="_blank" rel="noopener noreferrer">6 Incredible Task Management Features In Microsoft 365!</a></p><p class="youtube-embed-meta">Channel: Scott Brant</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ff_f5E-Bk8E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ff_f5E-Bk8E">Open on YouTube</a></p></div></div></div>
@@ -482,7 +482,7 @@ A practical order is:
 5. Read the final sentence or paragraph.
 6. Determine the next action, owner, and due date.
 
-This approach reflects a broader productivity principle: inboxes function best as communication channels rather than storage locations for unresolved obligations. Converting requests into tasks, calendar entries, or reminders reduces the need to repeatedly reread the same messages. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.calendar.com/blog/email-to-action-game-plan-for-workflows/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calendar.com">[Calendar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calendar.com</span><span class="citation-popover-title">Better Email to Action Game Plan For Your Workflows</span><span class="citation-popover-snippet">Better Email to Action Game Plan For Your Workflows - CalendarMarch 4, 2026 — 4 Mar 2026 — Stop endless email threads with 7 acti...</span><span class="citation-popover-meta">Published: March 4, 2026</span></span></span>
+This approach reflects a broader productivity principle: inboxes function best as communication channels rather than storage locations for unresolved obligations. Converting requests into tasks, calendar entries, or reminders reduces the need to repeatedly reread the same messages.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.calendar.com/blog/email-to-action-game-plan-for-workflows/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calendar.com">[Calendar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calendar.com</span><span class="citation-popover-title">Better Email to Action Game Plan For Your Workflows</span><span class="citation-popover-snippet">Better Email to Action Game Plan For Your Workflows - CalendarMarch 4, 2026 — 4 Mar 2026 — Stop endless email threads with 7 acti...</span><span class="citation-popover-meta">Published: March 4, 2026</span></span></span>
 
 ## The question that prevents missed commitments
 
@@ -495,194 +495,194 @@ If the answer is no, the email contains a hidden commitment that has not yet bee
 For readers trying to increase email-reading speed, this question provides a useful stopping point. Once the action, owner, and deadline are clear, further reading often becomes optional context rather than essential information. The result is faster triage without the common cost of missed approvals, forgotten deadlines, or overlooked requests.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Where email commitments hide in plain sight. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Where email commitments hide in plain sight. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Getting+Things+Done+David+Allen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Getting Things Done on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7892515-M.jpg" alt="Cover for Getting Things Done" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Getting+Things+Done+David+Allen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Getting Things Done">Getting Things Done</a>
-        </h4>
-        <p class="fr-book-author">By David Allen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Getting+Things+Done+David+Allen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Getting Things Done on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7892515-M.jpg" alt="Cover for Getting Things Done" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Getting+Things+Done+David+Allen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Getting Things Done">Getting Things Done</a>
+</h4>
+<p class="fr-book-author">By David Allen</p>
         
-        <p class="fr-book-desc">Teaches capturing commitments, actions, and obligations hidden in communications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Getting+Things+Done+David+Allen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches capturing commitments, actions, and obligations hidden in communications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Getting+Things+Done+David+Allen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Checklist+Manifesto+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Checklist Manifesto on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7GJi0fsSmUoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Checklist Manifesto" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Checklist+Manifesto+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Checklist Manifesto">The Checklist Manifesto</a>
-        </h4>
-        <p class="fr-book-author">By Atul Gawande</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Checklist+Manifesto+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Checklist Manifesto on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7GJi0fsSmUoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Checklist Manifesto" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Checklist+Manifesto+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Checklist Manifesto">The Checklist Manifesto</a>
+</h4>
+<p class="fr-book-author">By Atul Gawande</p>
         
-        <p class="fr-book-desc">Focuses on preventing important tasks from being overlooked.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Checklist+Manifesto+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on preventing important tasks from being overlooked.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Checklist+Manifesto+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Work on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lZpFCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Work" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Work">Deep Work</a>
-        </h4>
-        <p class="fr-book-author">By Cal Newport</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Work on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lZpFCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Work" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Work">Deep Work</a>
+</h4>
+<p class="fr-book-author">By Cal Newport</p>
         
-        <p class="fr-book-desc">Helps readers manage attention amid inbox overload.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers manage attention amid inbox overload.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Essentialism+Greg+McKeown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Essentialism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7285986-M.jpg" alt="Cover for Essentialism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Essentialism+Greg+McKeown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Essentialism">Essentialism</a>
-        </h4>
-        <p class="fr-book-author">By Greg McKeown</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Essentialism+Greg+McKeown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Essentialism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7285986-M.jpg" alt="Cover for Essentialism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Essentialism+Greg+McKeown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Essentialism">Essentialism</a>
+</h4>
+<p class="fr-book-author">By Greg McKeown</p>
         
-        <p class="fr-book-desc">First published 2014. Subjects: Choice (Psychology), Essentialism (Philosophy), Decision making, Choice Behavior, nyt:advice-how-to-and-m...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Essentialism+Greg+McKeown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2014. Subjects: Choice (Psychology), Essentialism (Philosophy), Decision making, Choice Behavior, nyt:advice-how-to-and-m...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Essentialism+Greg+McKeown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Getting+Things+Done&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Getting Things Done</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Checklist+Manifesto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Checklist Manifesto</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Work&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Work</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Getting+Things+Done&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Getting Things Done</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Checklist+Manifesto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Checklist Manifesto</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Work&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Work</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+organization+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office organization accessories" data-ebay-reference="hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desktop 3 Drawer Organiser Bamboo Storage Draw Tidy Stationary Office Art - Slim"><img src="{{ '/assets/images/marketplace-covers/e82382bd0b15df34d353.jpg' | relative_url }}" alt="Listing image for Desktop 3 Drawer Organiser Bamboo Storage Draw Tidy Stationary Office Art - Slim" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+organization+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office organization accessories" data-ebay-reference="hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories" target="_blank" rel="sponsored noopener noreferrer">Desktop 3 Drawer Organiser Bamboo Storage Draw Tidy Stationary Office Art - Slim</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+organization+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office organization accessories" data-ebay-reference="hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for office organization accessories">Search <span data-ebay-domain-label>eBay.co.uk</span>: office organization accessories</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+organization+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office organization accessories" data-ebay-reference="hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+organization+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office organization accessories" data-ebay-reference="hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desktop 3 Drawer Organiser Bamboo Storage Draw Tidy Stationary Office Art - Slim"><img src="{{ '/assets/images/marketplace-covers/e82382bd0b15df34d353.jpg' | relative_url }}" alt="Listing image for Desktop 3 Drawer Organiser Bamboo Storage Draw Tidy Stationary Office Art - Slim" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+organization+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office organization accessories" data-ebay-reference="hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories" target="_blank" rel="sponsored noopener noreferrer">Desktop 3 Drawer Organiser Bamboo Storage Draw Tidy Stationary Office Art - Slim</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+organization+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office organization accessories" data-ebay-reference="hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for office organization accessories">Search<span data-ebay-domain-label>eBay.co.uk</span>: office organization accessories</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+organization+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office organization accessories" data-ebay-reference="hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+organization+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office organization accessories" data-ebay-reference="hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pen Holder Office Organization Accessories, Pen Stand, Anti-loss Organization"><img src="{{ '/assets/images/marketplace-covers/442af9513ab397920741.jpg' | relative_url }}" alt="Listing image for Pen Holder Office Organization Accessories, Pen Stand, Anti-loss Organization" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+organization+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office organization accessories" data-ebay-reference="hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories" target="_blank" rel="sponsored noopener noreferrer">Pen Holder Office Organization Accessories, Pen Stand, Anti-loss Organization</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+organization+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office organization accessories" data-ebay-reference="hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for office organization accessories">Search <span data-ebay-domain-label>eBay.co.uk</span>: office organization accessories</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+organization+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office organization accessories" data-ebay-reference="hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+organization+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office organization accessories" data-ebay-reference="hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pen Holder Office Organization Accessories, Pen Stand, Anti-loss Organization"><img src="{{ '/assets/images/marketplace-covers/442af9513ab397920741.jpg' | relative_url }}" alt="Listing image for Pen Holder Office Organization Accessories, Pen Stand, Anti-loss Organization" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+organization+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office organization accessories" data-ebay-reference="hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories" target="_blank" rel="sponsored noopener noreferrer">Pen Holder Office Organization Accessories, Pen Stand, Anti-loss Organization</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+organization+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office organization accessories" data-ebay-reference="hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for office organization accessories">Search<span data-ebay-domain-label>eBay.co.uk</span>: office organization accessories</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+organization+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office organization accessories" data-ebay-reference="hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+organization+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office organization accessories" data-ebay-reference="hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desktop 3 Drawer Organiser Bamboo Storage Draw Tidy Stationary Office Art - Wide"><img src="{{ '/assets/images/marketplace-covers/07f1794639b0fa5ec078.jpg' | relative_url }}" alt="Listing image for Desktop 3 Drawer Organiser Bamboo Storage Draw Tidy Stationary Office Art - Wide" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+organization+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office organization accessories" data-ebay-reference="hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories" target="_blank" rel="sponsored noopener noreferrer">Desktop 3 Drawer Organiser Bamboo Storage Draw Tidy Stationary Office Art - Wide</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+organization+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office organization accessories" data-ebay-reference="hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for office organization accessories">Search <span data-ebay-domain-label>eBay.co.uk</span>: office organization accessories</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+organization+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office organization accessories" data-ebay-reference="hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+organization+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office organization accessories" data-ebay-reference="hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desktop 3 Drawer Organiser Bamboo Storage Draw Tidy Stationary Office Art - Wide"><img src="{{ '/assets/images/marketplace-covers/07f1794639b0fa5ec078.jpg' | relative_url }}" alt="Listing image for Desktop 3 Drawer Organiser Bamboo Storage Draw Tidy Stationary Office Art - Wide" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+organization+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office organization accessories" data-ebay-reference="hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories" target="_blank" rel="sponsored noopener noreferrer">Desktop 3 Drawer Organiser Bamboo Storage Draw Tidy Stationary Office Art - Wide</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+organization+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office organization accessories" data-ebay-reference="hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for office organization accessories">Search<span data-ebay-domain-label>eBay.co.uk</span>: office organization accessories</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+organization+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office organization accessories" data-ebay-reference="hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+organization+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office organization accessories" data-ebay-reference="hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Furinno CLASSIC Desk Organizers and Accessories, Office Organization, Espresso"><img src="{{ '/assets/images/marketplace-covers/28da3b35a203ba3b7922.jpg' | relative_url }}" alt="Listing image for Furinno CLASSIC Desk Organizers and Accessories, Office Organization, Espresso" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+organization+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office organization accessories" data-ebay-reference="hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories" target="_blank" rel="sponsored noopener noreferrer">Furinno CLASSIC Desk Organizers and Accessories, Office Organization, Espresso</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+organization+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office organization accessories" data-ebay-reference="hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for office organization accessories">Search <span data-ebay-domain-label>eBay.co.uk</span>: office organization accessories</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+organization+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office organization accessories" data-ebay-reference="hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+organization+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office organization accessories" data-ebay-reference="hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+organization+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office organization accessories" data-ebay-reference="hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Furinno CLASSIC Desk Organizers and Accessories, Office Organization, Espresso"><img src="{{ '/assets/images/marketplace-covers/28da3b35a203ba3b7922.jpg' | relative_url }}" alt="Listing image for Furinno CLASSIC Desk Organizers and Accessories, Office Organization, Espresso" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+organization+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office organization accessories" data-ebay-reference="hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories" target="_blank" rel="sponsored noopener noreferrer">Furinno CLASSIC Desk Organizers and Accessories, Office Organization, Espresso</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+organization+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office organization accessories" data-ebay-reference="hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for office organization accessories">Search<span data-ebay-domain-label>eBay.co.uk</span>: office organization accessories</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+organization+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office organization accessories" data-ebay-reference="hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+organization+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office organization accessories" data-ebay-reference="hidden-actions-where-email-commitments-hide-in-plain-sight-increasing-office-organization-accessories" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -698,7 +698,7 @@ For readers trying to increase email-reading speed, this question provides a use
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -718,7 +718,7 @@ For readers trying to increase email-reading speed, this question provides a use
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -750,7 +750,7 @@ For readers trying to increase email-reading speed, this question provides a use
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -802,7 +802,7 @@ For readers trying to increase email-reading speed, this question provides a use
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -847,7 +847,7 @@ For readers trying to increase email-reading speed, this question provides a use
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -888,90 +888,90 @@ For readers trying to increase email-reading speed, this question provides a use
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: calendar.com  
    Title: Better Email to Action Game Plan For Your Workflows  
-   Link: <a href="https://www.calendar.com/blog/email-to-action-game-plan-for-workflows/" target="_blank" rel="noopener noreferrer nofollow">https://www.calendar.com/blog/email-to-action-game-plan-for-workflows/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Better Email to Action Game Plan For Your Workflows - CalendarMarch 4, 2026 — 4 Mar 2026 — Stop endless email threads with 7 acti...</p></details>
+   Link:<a href="https://www.calendar.com/blog/email-to-action-game-plan-for-workflows/" target="_blank" rel="noopener noreferrer nofollow">https://www.calendar.com/blog/email-to-action-game-plan-for-workflows/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Better Email to Action Game Plan For Your Workflows - CalendarMarch 4, 2026 — 4 Mar 2026 — Stop endless email threads with 7 acti...</p></details>
    Published: March 4, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: communications.gov.uk  
    Title: Communications GOV.UK Writing effective emails  
-   Link: <a href="https://www.communications.gov.uk/guidance/digital-communication/writing-effective-emails/" target="_blank" rel="noopener noreferrer nofollow">https://www.communications.gov.uk/guidance/digital-communication/writing-effective-emails/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Communications GOV.UKWriting effective emails - Government Communication Service29 Oct 2020 — How to communicate with colleagues and exte...</p></details>
+   Link:<a href="https://www.communications.gov.uk/guidance/digital-communication/writing-effective-emails/" target="_blank" rel="noopener noreferrer nofollow">https://www.communications.gov.uk/guidance/digital-communication/writing-effective-emails/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Communications GOV.UKWriting effective emails - Government Communication Service29 Oct 2020 — How to communicate with colleagues and exte...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCinvestigating email classes and work stressors as  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11484023/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11484023/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by M Kern · 2024 · Cited by 9 — High email load has been associated with impaired well-being because emails impose specific demands, d...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11484023/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11484023/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by M Kern · 2024 · Cited by 9 — High email load has been associated with impaired well-being because emails impose specific demands, d...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: booherresearch.com  
-   Link: <a href="https://booherresearch.com/9-ways-to-get-people-to-take-action-and-meet-deadlines-in-your-emails/" target="_blank" rel="noopener noreferrer nofollow">https://booherresearch.com/9-ways-to-get-people-to-take-action-and-meet-deadlines-in-your-emails/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>es in Emails · State Specific Due Dates · Put Action and Due Dates in the Subject Lines · Put the Request in...Read more...</p></details>
+   Link:<a href="https://booherresearch.com/9-ways-to-get-people-to-take-action-and-meet-deadlines-in-your-emails/" target="_blank" rel="noopener noreferrer nofollow">https://booherresearch.com/9-ways-to-get-people-to-take-action-and-meet-deadlines-in-your-emails/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>es in Emails · State Specific Due Dates · Put Action and Due Dates in the Subject Lines · Put the Request in...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ayari.io  
    Title: email overload  
-   Link: <a href="https://ayari.io/article/email-overload" target="_blank" rel="noopener noreferrer nofollow">https://ayari.io/article/email-overload</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s about emails arriving faster than your system can process them. The fix isn&#x27;t checking...</p></details>
+   Link:<a href="https://ayari.io/article/email-overload" target="_blank" rel="noopener noreferrer nofollow">https://ayari.io/article/email-overload</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s about emails arriving faster than your system can process them. The fix isn&#x27;t checking...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/top-content/workplace-trends/digital-work-etiquette/email-communication-standards/" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/top-content/workplace-trends/digital-work-etiquette/email-communication-standards/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Email Communication StandardsEmail communication standards are guidelines for writing clear, respectful, and structured emails in profess...</p></details>
+   Link:<a href="https://www.linkedin.com/top-content/workplace-trends/digital-work-etiquette/email-communication-standards/" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/top-content/workplace-trends/digital-work-etiquette/email-communication-standards/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Email Communication StandardsEmail communication standards are guidelines for writing clear, respectful, and structured emails in profess...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: engleish.com  
-   Link: <a href="https://engleish.com/verbs-used-in-emails-and-professional-communication/" target="_blank" rel="noopener noreferrer nofollow">https://engleish.com/verbs-used-in-emails-and-professional-communication/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Verbs Used in Emails and Professional CommunicationIn this comprehensive guide, you will learn about the most effective verbs used in pro...</p></details>
+   Link:<a href="https://engleish.com/verbs-used-in-emails-and-professional-communication/" target="_blank" rel="noopener noreferrer nofollow">https://engleish.com/verbs-used-in-emails-and-professional-communication/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Verbs Used in Emails and Professional CommunicationIn this comprehensive guide, you will learn about the most effective verbs used in pro...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/writing-action-oriented-emails-kristina-harman" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/writing-action-oriented-emails-kristina-harman</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Writing Action-Oriented EmailsFocus your subject line on a strategic, action-oriented request to capture immediate attention. Before anyo...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/writing-action-oriented-emails-kristina-harman" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/writing-action-oriented-emails-kristina-harman</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Writing Action-Oriented EmailsFocus your subject line on a strategic, action-oriented request to capture immediate attention. Before anyo...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=moIucWGgvMc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=moIucWGgvMc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Write Professional Emails in English | Step-by-StepI&#x27;m going to share with you seven tips plus sentence starters you can immediately begi...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=moIucWGgvMc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=moIucWGgvMc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Write Professional Emails in English | Step-by-StepI&#x27;m going to share with you seven tips plus sentence starters you can immediately begi...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: hal.science  
    Title: stich et al 2018 email load workload stress desired email load  
-   Link: <a href="https://hal.science/hal-01881947/file/stich-et-al-2018-email-load-workload-stress-desired-email-load.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hal.science/hal-01881947/file/stich-et-al-2018-email-load-workload-stress-desired-email-load.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>JF Stich · 2019 · Cited by 99 — Email overload has been defined as the percept...</p></details>
+   Link:<a href="https://hal.science/hal-01881947/file/stich-et-al-2018-email-load-workload-stress-desired-email-load.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hal.science/hal-01881947/file/stich-et-al-2018-email-load-workload-stress-desired-email-load.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>JF Stich · 2019 · Cited by 99 — Email overload has been defined as the percept...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: mailover.ai  
    Title: Mail Over The True Cost of Email Overload: A Data Analysis  
-   Link: <a href="https://mailover.ai/blog/true-cost-of-email-overload.html" target="_blank" rel="noopener noreferrer nofollow">https://mailover.ai/blog/true-cost-of-email-overload.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Missed deadlines and duplicate work. When action items are buried in long email threads, they get missed. The Interact/Harris Poll found...</p></details>
+   Link:<a href="https://mailover.ai/blog/true-cost-of-email-overload.html" target="_blank" rel="noopener noreferrer nofollow">https://mailover.ai/blog/true-cost-of-email-overload.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Missed deadlines and duplicate work. When action items are buried in long email threads, they get missed. The Interact/Harris Poll found...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ecampusontario.pressbooks.pub  
    Title: pub8.1: Information Shares, Action Requests, and Replies1  
-   Link: <a href="https://ecampusontario.pressbooks.pub/comm1062/chapter/8-1-information-shares-action-requests-and-replies/" target="_blank" rel="noopener noreferrer nofollow">https://ecampusontario.pressbooks.pub/comm1062/chapter/8-1-information-shares-action-requests-and-replies/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Write routine message types such as information shares, requests, and replies 2. Plan, write, revise, and edit short documents and messag...</p></details>
+   Link:<a href="https://ecampusontario.pressbooks.pub/comm1062/chapter/8-1-information-shares-action-requests-and-replies/" target="_blank" rel="noopener noreferrer nofollow">https://ecampusontario.pressbooks.pub/comm1062/chapter/8-1-information-shares-action-requests-and-replies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Write routine message types such as information shares, requests, and replies 2. Plan, write, revise, and edit short documents and messag...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: lawsociety.com.au  
    Title: 10 rules for email etiquette | The Law Society of NSW1  
-   Link: <a href="https://www.lawsociety.com.au/resources/resources/career-hub/10-rules-email-etiquette" target="_blank" rel="noopener noreferrer nofollow">https://www.lawsociety.com.au/resources/resources/career-hub/10-rules-email-etiquette</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Use a clear, professional subject line. Show your recipient clearly what the email will cover. Many people will decide whether they will...</p></details>
+   Link:<a href="https://www.lawsociety.com.au/resources/resources/career-hub/10-rules-email-etiquette" target="_blank" rel="noopener noreferrer nofollow">https://www.lawsociety.com.au/resources/resources/career-hub/10-rules-email-etiquette</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Use a clear, professional subject line. Show your recipient clearly what the email will cover. Many people will decide whether they will...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: getinboxzero.com  
    Title: how to reduce email overload in organizations  
-   Link: <a href="https://www.getinboxzero.com/blog/post/how-to-reduce-email-overload-in-organizations" target="_blank" rel="noopener noreferrer nofollow">https://www.getinboxzero.com/blog/post/how-to-reduce-email-overload-in-organizations</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(2026)Reduce email overload with proven strategies: cut volume, automate triage, and implement Reply Zero. Reclaim 30-60 minutes daily in...</p></details>
+   Link:<a href="https://www.getinboxzero.com/blog/post/how-to-reduce-email-overload-in-organizations" target="_blank" rel="noopener noreferrer nofollow">https://www.getinboxzero.com/blog/post/how-to-reduce-email-overload-in-organizations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(2026)Reduce email overload with proven strategies: cut volume, automate triage, and implement Reply Zero. Reclaim 30-60 minutes daily in...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: karyogonaya.com  
    Title: This can be a specific date or a timeframe for action.Read more  
-   Link: <a href="https://karyogonaya.com/urgent-business-email-sample/" target="_blank" rel="noopener noreferrer nofollow">https://karyogonaya.com/urgent-business-email-sample/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effective Communication: Crafting An Urgent Business Email...23 Feb 2026 — Following this, incorporate a deadline to provide clarity on...</p></details>
+   Link:<a href="https://karyogonaya.com/urgent-business-email-sample/" target="_blank" rel="noopener noreferrer nofollow">https://karyogonaya.com/urgent-business-email-sample/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effective Communication: Crafting An Urgent Business Email...23 Feb 2026 — Following this, incorporate a deadline to provide clarity on...</p></details>

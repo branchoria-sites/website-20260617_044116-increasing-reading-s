@@ -275,7 +275,7 @@ image: /assets/images/increasing_re_852ca6_measure_readi_fdb760_text_type_wpm_8e
 
 ## Introduction
 
-A single reading-speed number is rarely useful for someone trying to increase reading speed. The reason is simple: different kinds of text demand different kinds of thinking. A novel encourages continuous narrative processing, while a [technical]({{ 'technical-texts/' | relative_url }}) paper may require frequent checking of [definitions]({{ 'definitions/' | relative_url }}), diagrams, or logical relationships. Research reviews consistently find that reading rates vary by text type, with fiction generally read faster than non-fiction and more complex material reducing fluency and recall when readers try to maintain the same pace. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/335174808_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2Biblio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) How many words do we read per minute?</span><span class="citation-popover-snippet">A review...15 Aug 2019 — We estimate that the average silent reading rate for adults in English is 238 words per minute (wpm) for non-fi...</span></span></span>
+A single reading-speed number is rarely useful for someone trying to increase reading speed. The reason is simple: different kinds of text demand different kinds of thinking. A novel encourages continuous narrative processing, while a [technical]({{ 'technical-texts/' | relative_url }}) paper may require frequent checking of [definitions]({{ 'definitions/' | relative_url }}), diagrams, or logical relationships. Research reviews consistently find that reading rates vary by text type, with fiction generally read faster than non-fiction and more complex material reducing fluency and recall when readers try to maintain the same pace.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/335174808_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2Biblio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) How many words do we read per minute?</span><span class="citation-popover-snippet">A review...15 Aug 2019 — We estimate that the average silent reading rate for adults in English is 238 words per minute (wpm) for non-fi...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_measure_readi_fdb760_text_type_wpm_8e2f73_four_reading_911028-Illustration-1-dark.svg" | relative_url }}" alt="Four profiles illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_measure_readi_fdb760_text_type_wpm_8e2f73_four_reading_911028-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_measure_readi_fdb760_text_type_wpm_8e2f73_four_reading_911028-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -291,7 +291,7 @@ ProfileTypical materialPrimary goalFictionNovels, short stories, narrative non-f
 
 These categories work because they reflect distinct cognitive demands.
 
-Fiction often allows faster reading because story structure, character continuity, and contextual clues help readers predict meaning. Non-fiction tends to contain longer words and denser information, contributing to slower average rates. A large review of 190 studies estimated average silent reading rates of approximately 260 words per minute for fiction and 238 words per minute for non-fiction, while also noting substantial variation between individuals. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/335174808_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) How many words do we read per minute?</span><span class="citation-popover-snippet">A review...15 Aug 2019 — We estimate that the average silent reading rate for adults in English is 238 words per minute (wpm) for non-fi...</span></span></span>
+Fiction often allows faster reading because story structure, character continuity, and contextual clues help readers predict meaning. Non-fiction tends to contain longer words and denser information, contributing to slower average rates. A large review of 190 studies estimated average silent reading rates of approximately 260 words per minute for fiction and 238 words per minute for non-fiction, while also noting substantial variation between individuals.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/335174808_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) How many words do we read per minute?</span><span class="citation-popover-snippet">A review...15 Aug 2019 — We estimate that the average silent reading rate for adults in English is 238 words per minute (wpm) for non-fi...</span></span></span>
 
 Dense non-fiction deserves its own profile because argument-heavy writing creates a different challenge from ordinary informational reading. Technical texts deserve a separate profile because comprehension often depends on specialised [vocabulary]({{ 'knowledge/' | relative_url }}), formulas, diagrams, or procedural accuracy rather than continuous prose alone.
 
@@ -304,11 +304,11 @@ The goal is not to create perfect academic categories. The goal is to create cat
 
 Words per minute should be only one part of each profile.
 
-Readers often see apparent speed improvements that disappear once comprehension is measured. Research on comprehension monitoring and self-regulated reading shows that effective readers continually evaluate whether understanding is keeping pace with reading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://readinguniverse.org/skill-explainer/critical-thinking-strategies-2/comprehension-monitoring-skill-explainer/overview-of-comprehension-monitoring" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readinguniverse.org">[Reading Universe+2EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readinguniverse.org</span><span class="citation-popover-snippet">Reading UniverseComprehension Monitoring Skill ExplainerComprehension monitoring is a process readers use before, during, and after readi...</span></span></span>
+Readers often see apparent speed improvements that disappear once comprehension is measured. Research on comprehension monitoring and self-regulated reading shows that effective readers continually evaluate whether understanding is keeping pace with reading.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://readinguniverse.org/skill-explainer/critical-thinking-strategies-2/comprehension-monitoring-skill-explainer/overview-of-comprehension-monitoring" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readinguniverse.org">[Reading Universe+2EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readinguniverse.org</span><span class="citation-popover-snippet">Reading UniverseComprehension Monitoring Skill ExplainerComprehension monitoring is a process readers use before, during, and after readi...</span></span></span>
 
 For each reading session, record:
 
-* Words per minute. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.semanticscholar.org/paper/How-many-words-do-we-read-per-minute-A-review-and-Brysbaert/35bf5854514ee63095a6a3dc4a7bdaa2eb18929f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semanticscholar.org">[semanticscholar.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semanticscholar.org</span><span class="citation-popover-title">Semantic Scholar How many words do we read per minute?</span><span class="citation-popover-snippet">A review and...Based on the analysis of 190 studies (18573 participants), we estimate that the average silent reading rate for adults in...</span></span></span>
+* Words per minute.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.semanticscholar.org/paper/How-many-words-do-we-read-per-minute-A-review-and-Brysbaert/35bf5854514ee63095a6a3dc4a7bdaa2eb18929f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semanticscholar.org">[semanticscholar.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semanticscholar.org</span><span class="citation-popover-title">Semantic Scholar How many words do we read per minute?</span><span class="citation-popover-snippet">A review and...Based on the analysis of 190 studies (18573 participants), we estimate that the average silent reading rate for adults in...</span></span></span>
 * A simple comprehension score.
 * The source or title of the text.
 * Familiarity with the subject.
@@ -333,7 +333,7 @@ For each sample:
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_measure_readi_fdb760_text_type_wpm_8e2f73_four_reading_911028-Illustration-2-dark.svg" | relative_url }}" alt="Four profiles illustration 2" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_measure_readi_fdb760_text_type_wpm_8e2f73_four_reading_911028-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_measure_readi_fdb760_text_type_wpm_8e2f73_four_reading_911028-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-1. Measure reading time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://britetodo.com/tools/en/reading-time-calculator" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britetodo.com">[britetodo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britetodo.com</span><span class="citation-popover-title">reading time calculator</span><span class="citation-popover-snippet">How Long to Read Any TextThe average adult reads approximately 238 words per minute (wpm) according to a 2019 meta-analysis by Brysbaert...</span></span></span>
+1. Measure reading time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://britetodo.com/tools/en/reading-time-calculator" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britetodo.com">[britetodo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britetodo.com</span><span class="citation-popover-title">reading time calculator</span><span class="citation-popover-snippet">How Long to Read Any TextThe average adult reads approximately 238 words per minute (wpm) according to a 2019 meta-analysis by Brysbaert...</span></span></span>
 2. Calculate words per minute.
 3. Complete a brief comprehension check.
 4. Record the results.
@@ -357,7 +357,7 @@ A single combined score would suggest modest overall improvement. The profile vi
 
 The reader has become substantially faster with narrative and informational reading while remaining relatively unchanged with technical material. That insight points directly to the next area for improvement.
 
-It also prevents misinterpretation. Technical reading often requires deliberate slowing, careful rereading, and active comprehension monitoring. Research on text complexity shows that [increasing]({{ 'increasing/' | relative_url }}) complexity can reduce fluency and recall, making slower reading entirely appropriate in some contexts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s11145-018-9883-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkUnderstanding the influence of text complexity and question...9 Jul 2018 — Text complexity negatively impacted reading outc...</span></span></span>
+It also prevents misinterpretation. Technical reading often requires deliberate slowing, careful rereading, and active comprehension monitoring. Research on text complexity shows that [increasing]({{ 'increasing/' | relative_url }}) complexity can reduce fluency and recall, making slower reading entirely appropriate in some contexts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s11145" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkUnderstanding the influence of text complexity and question...9 Jul 2018 — Text complexity negatively impacted reading outc...</span></span></span>
 
 When reviewing trends:
 
@@ -380,7 +380,7 @@ Other frequent mistakes include:
 * Using familiar texts for testing.
 * Ignoring comprehension.
 * Changing category definitions repeatedly.
-* Comparing technical reading speeds with fiction speeds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sasc.org.uk/media/4d4lsrfv/assessing-reading-and-writing-speeds-presentation-june-2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sasc.org.uk">[sasc.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sasc.org.uk</span><span class="citation-popover-snippet">ate 183 wpm. • Based on 77 studies with 5965 participants.Read more...</span></span></span>
+* Comparing technical reading speeds with fiction speeds.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sasc.org.uk/media/4d4lsrfv/assessing-reading-and-writing-speeds-presentation-june-2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sasc.org.uk">[sasc.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sasc.org.uk</span><span class="citation-popover-snippet">ate 183 wpm. • Based on 77 studies with 5965 participants.Read more...</span></span></span>
 * Drawing conclusions from one unusually easy or difficult session.
 
 Another mistake is assuming every profile should improve at the same rate. Different reading goals justify different speeds. A legal contract, scientific paper, or software manual often rewards careful analysis rather than rapid movement through the text.
@@ -400,178 +400,178 @@ Together, these four records provide a much clearer picture of reading developme
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The four records every reader should keep. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The four records every reader should keep. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Explains different approaches for different text types and reading purposes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Explains different approaches for different text types and reading purposes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+read+literature+like+a+professor+Thomas+C.+Foster&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to read literature like a professor on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/20658-M.jpg" alt="Cover for How to read literature like a professor" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+read+literature+like+a+professor+Thomas+C.+Foster&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to read literature like a professor">How to read literature like a professor</a>
-        </h4>
-        <p class="fr-book-author">By Thomas C. Foster</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+read+literature+like+a+professor+Thomas+C.+Foster&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to read literature like a professor on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/20658-M.jpg" alt="Cover for How to read literature like a professor" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+read+literature+like+a+professor+Thomas+C.+Foster&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to read literature like a professor">How to read literature like a professor</a>
+</h4>
+<p class="fr-book-author">By Thomas C. Foster</p>
         
-        <p class="fr-book-desc">First published 2002. Subjects: Criticism, Literature, History and criticism, Books and reading, Literary Criticism.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+read+literature+like+a+professor+Thomas+C.+Foster&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2002. Subjects: Criticism, Literature, History and criticism, Books and reading, Literary Criticism.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+read+literature+like+a+professor+Thomas+C.+Foster&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Evelyn+Wood+Seven-Day+Speed+Reading+and+Learning+Program+Stanley+D.+Frank&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Evelyn Wood Seven-Day Speed Reading and Learning Program on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/806088-M.jpg" alt="Cover for The Evelyn Wood Seven-Day Speed Reading and Learning Program" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Evelyn+Wood+Seven-Day+Speed+Reading+and+Learning+Program+Stanley+D.+Frank&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Evelyn Wood Seven-Day Speed Reading and Learning Program">The Evelyn Wood Seven-Day Speed Reading and Learning Program</a>
-        </h4>
-        <p class="fr-book-author">By Stanley D. Frank</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Evelyn+Wood+Seven-Day+Speed+Reading+and+Learning+Program+Stanley+D.+Frank&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Evelyn Wood Seven-Day Speed Reading and Learning Program on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/806088-M.jpg" alt="Cover for The Evelyn Wood Seven-Day Speed Reading and Learning Program" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Evelyn+Wood+Seven-Day+Speed+Reading+and+Learning+Program+Stanley+D.+Frank&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Evelyn Wood Seven-Day Speed Reading and Learning Program">The Evelyn Wood Seven-Day Speed Reading and Learning Program</a>
+</h4>
+<p class="fr-book-author">By Stanley D. Frank</p>
         
-        <p class="fr-book-desc">First published 1994. Subjects: Speed reading, Study skills, Reading.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Evelyn+Wood+Seven-Day+Speed+Reading+and+Learning+Program+Stanley+D.+Frank&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1994. Subjects: Speed reading, Study skills, Reading.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Evelyn+Wood+Seven-Day+Speed+Reading+and+Learning+Program+Stanley+D.+Frank&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Breakthrough rapid reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/84360-M.jpg" alt="Cover for Breakthrough rapid reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breakthrough rapid reading">Breakthrough rapid reading</a>
-        </h4>
-        <p class="fr-book-author">By Peter Kump</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Breakthrough rapid reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/84360-M.jpg" alt="Cover for Breakthrough rapid reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breakthrough rapid reading">Breakthrough rapid reading</a>
+</h4>
+<p class="fr-book-author">By Peter Kump</p>
         
-        <p class="fr-book-desc">First published 1979. Subjects: Speed reading, Rapid reading, Du shu fang fa.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1979. Subjects: Speed reading, Rapid reading, Du shu fang fa.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+read+literature+like+a+professor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to read literature like a professor</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Evelyn+Wood+Seven+Day+Speed+Reading+and+Learning+Program&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Evelyn Wood Seven Day Speed Reading and Learning Program</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+read+literature+like+a+professor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to read literature like a professor</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Evelyn+Wood+Seven+Day+Speed+Reading+and+Learning+Program&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Evelyn Wood Seven Day Speed Reading and Learning Program</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=four-profiles-the-four-records-every-reader-should-keep-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="four-profiles-the-four-records-every-reader-should-keep-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Engage Literacy Benchmark Assessment Kit Level A-P Capstone Classroom 60 texts"><img src="{{ '/assets/images/marketplace-covers/a98b5b437a435a3d0766.jpg' | relative_url }}" alt="Listing image for Engage Literacy Benchmark Assessment Kit Level A-P Capstone Classroom 60 texts" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=four-profiles-the-four-records-every-reader-should-keep-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="four-profiles-the-four-records-every-reader-should-keep-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer">Engage Literacy Benchmark Assessment Kit Level A-P Capstone Classroom 60 texts</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=four-profiles-the-four-records-every-reader-should-keep-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="four-profiles-the-four-records-every-reader-should-keep-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for literacy assessment kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: literacy assessment kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=four-profiles-the-four-records-every-reader-should-keep-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="four-profiles-the-four-records-every-reader-should-keep-increasing-literacy-assessment-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=four-profiles-the-four-records-every-reader-should-keep-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="four-profiles-the-four-records-every-reader-should-keep-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Engage Literacy Benchmark Assessment Kit Level A-P Capstone Classroom 60 texts"><img src="{{ '/assets/images/marketplace-covers/a98b5b437a435a3d0766.jpg' | relative_url }}" alt="Listing image for Engage Literacy Benchmark Assessment Kit Level A-P Capstone Classroom 60 texts" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=four-profiles-the-four-records-every-reader-should-keep-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="four-profiles-the-four-records-every-reader-should-keep-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer">Engage Literacy Benchmark Assessment Kit Level A-P Capstone Classroom 60 texts</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=four-profiles-the-four-records-every-reader-should-keep-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="four-profiles-the-four-records-every-reader-should-keep-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for literacy assessment kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: literacy assessment kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=four-profiles-the-four-records-every-reader-should-keep-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="four-profiles-the-four-records-every-reader-should-keep-increasing-literacy-assessment-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=four-profiles-the-four-records-every-reader-should-keep-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="four-profiles-the-four-records-every-reader-should-keep-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TOWL 4 Test of Written Language assessment kit / SEN, ALN, Literacy, school"><img src="{{ '/assets/images/marketplace-covers/8bff2c480feb01ce2715.jpg' | relative_url }}" alt="Listing image for TOWL 4 Test of Written Language assessment kit / SEN, ALN, Literacy, school" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=four-profiles-the-four-records-every-reader-should-keep-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="four-profiles-the-four-records-every-reader-should-keep-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer">TOWL 4 Test of Written Language assessment kit / SEN, ALN, Literacy, school</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=four-profiles-the-four-records-every-reader-should-keep-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="four-profiles-the-four-records-every-reader-should-keep-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for literacy assessment kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: literacy assessment kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=four-profiles-the-four-records-every-reader-should-keep-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="four-profiles-the-four-records-every-reader-should-keep-increasing-literacy-assessment-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=four-profiles-the-four-records-every-reader-should-keep-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="four-profiles-the-four-records-every-reader-should-keep-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TOWL 4 Test of Written Language assessment kit / SEN, ALN, Literacy, school"><img src="{{ '/assets/images/marketplace-covers/8bff2c480feb01ce2715.jpg' | relative_url }}" alt="Listing image for TOWL 4 Test of Written Language assessment kit / SEN, ALN, Literacy, school" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=four-profiles-the-four-records-every-reader-should-keep-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="four-profiles-the-four-records-every-reader-should-keep-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer">TOWL 4 Test of Written Language assessment kit / SEN, ALN, Literacy, school</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=four-profiles-the-four-records-every-reader-should-keep-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="four-profiles-the-four-records-every-reader-should-keep-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for literacy assessment kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: literacy assessment kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=four-profiles-the-four-records-every-reader-should-keep-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="four-profiles-the-four-records-every-reader-should-keep-increasing-literacy-assessment-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=four-profiles-the-four-records-every-reader-should-keep-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="four-profiles-the-four-records-every-reader-should-keep-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DEVELOPMENTAL READING ASSESSMENT DRA MANUAL FOR K3 LITERACY JOETTA BEAVER"><img src="{{ '/assets/images/marketplace-covers/588788312481d0d50bdc.jpg' | relative_url }}" alt="Listing image for DEVELOPMENTAL READING ASSESSMENT DRA MANUAL FOR K3 LITERACY JOETTA BEAVER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=four-profiles-the-four-records-every-reader-should-keep-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="four-profiles-the-four-records-every-reader-should-keep-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer">DEVELOPMENTAL READING ASSESSMENT DRA MANUAL FOR K3 LITERACY JOETTA BEAVER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=four-profiles-the-four-records-every-reader-should-keep-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="four-profiles-the-four-records-every-reader-should-keep-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for literacy assessment kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: literacy assessment kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=four-profiles-the-four-records-every-reader-should-keep-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="four-profiles-the-four-records-every-reader-should-keep-increasing-literacy-assessment-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=four-profiles-the-four-records-every-reader-should-keep-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="four-profiles-the-four-records-every-reader-should-keep-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=four-profiles-the-four-records-every-reader-should-keep-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="four-profiles-the-four-records-every-reader-should-keep-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DEVELOPMENTAL READING ASSESSMENT DRA MANUAL FOR K3 LITERACY JOETTA BEAVER"><img src="{{ '/assets/images/marketplace-covers/588788312481d0d50bdc.jpg' | relative_url }}" alt="Listing image for DEVELOPMENTAL READING ASSESSMENT DRA MANUAL FOR K3 LITERACY JOETTA BEAVER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=four-profiles-the-four-records-every-reader-should-keep-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="four-profiles-the-four-records-every-reader-should-keep-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer">DEVELOPMENTAL READING ASSESSMENT DRA MANUAL FOR K3 LITERACY JOETTA BEAVER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=four-profiles-the-four-records-every-reader-should-keep-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="four-profiles-the-four-records-every-reader-should-keep-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for literacy assessment kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: literacy assessment kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=four-profiles-the-four-records-every-reader-should-keep-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="four-profiles-the-four-records-every-reader-should-keep-increasing-literacy-assessment-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=four-profiles-the-four-records-every-reader-should-keep-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="four-profiles-the-four-records-every-reader-should-keep-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -587,7 +587,7 @@ Together, these four records provide a much clearer picture of reading developme
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -607,7 +607,7 @@ Together, these four records provide a much clearer picture of reading developme
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -639,7 +639,7 @@ Together, these four records provide a much clearer picture of reading developme
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -691,7 +691,7 @@ Together, these four records provide a much clearer picture of reading developme
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -736,7 +736,7 @@ Together, these four records provide a much clearer picture of reading developme
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -777,121 +777,121 @@ Together, these four records provide a much clearer picture of reading developme
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) How many words do we read per minute?  
-   Link: <a href="https://www.researchgate.net/publication/335174808_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/335174808_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A review...15 Aug 2019 — We estimate that the average silent reading rate for adults in English is 238 words per minute (wpm) for non-fi...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/335174808_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/335174808_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A review...15 Aug 2019 — We estimate that the average silent reading rate for adults in English is 238 words per minute (wpm) for non-fi...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s11145-018-9883-0" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11145-018-9883-0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkUnderstanding the influence of text complexity and question...9 Jul 2018 — Text complexity negatively impacted reading outc...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s11145" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11145</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkUnderstanding the influence of text complexity and question...9 Jul 2018 — Text complexity negatively impacted reading outc...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: <a href="https://educationendowmentfoundation.org.uk/reading-house/comprehension-monitoring" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/reading-house/comprehension-monitoring</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Comprehension monitoringThe process in which readers determine whether they understand and can articulate what they are reading.Read more...</p></details>
+   Link:<a href="https://educationendowmentfoundation.org.uk/reading-house/comprehension-monitoring" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/reading-house/comprehension-monitoring</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Comprehension monitoringThe process in which readers determine whether they understand and can articulate what they are reading.Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s11409-025-09440-2" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11409-025-09440-2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkReading behavior as an indicator of comprehension...by C Tibken · 2025 · Cited by 2 — Processes of metacomprehension, inclu...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s11409-025-09440-2" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11409-025-09440-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkReading behavior as an indicator of comprehension...by C Tibken · 2025 · Cited by 2 — Processes of metacomprehension, inclu...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/326270424_Understanding_the_Influence_of_Text_Complexity_and_Question_Type_on_Reading_Outcomes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/326270424_Understanding_the_Influence_of_Text_Complexity_and_Question_Type_on_Reading_Outcomes</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the Influence of Text Complexity and...9 Jul 2018 — Text complexity negatively affects reading outcomes, particularly oral...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/326270424_Understanding_the_Influence_of_Text_Complexity_and_Question_Type_on_Reading_Outcomes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/326270424_Understanding_the_Influence_of_Text_Complexity_and_Question_Type_on_Reading_Outcomes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the Influence of Text Complexity and...9 Jul 2018 — Text complexity negatively affects reading outcomes, particularly oral...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
    Title: 398920292 Evaluating Reading Speed and Comprehension in the Digital Era  
-   Link: <a href="https://www.researchgate.net/publication/398920292_Evaluating_Reading_Speed_and_Comprehension_in_the_Digital_Era" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/398920292_Evaluating_Reading_Speed_and_Comprehension_in_the_Digital_Era</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Evaluating Reading Speed and Comprehension in...1 Jan 2026 — This systematic literature review (SLR) thoroughly investigates the u...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/398920292_Evaluating_Reading_Speed_and_Comprehension_in_the_Digital_Era" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/398920292_Evaluating_Reading_Speed_and_Comprehension_in_the_Digital_Era</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Evaluating Reading Speed and Comprehension in...1 Jan 2026 — This systematic literature review (SLR) thoroughly investigates the u...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
    Title: (PDF) How many words do we read per minute?  
-   Link: <a href="https://www.researchgate.net/publication/332380784_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/332380784_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A review...by M Brysbaert · Cited by 864 — We estimate that the average silent reading rate for adults in English is 238 word per minute...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/332380784_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/332380784_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A review...by M Brysbaert · Cited by 864 — We estimate that the average silent reading rate for adults in English is 238 word per minute...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: biblio.ugent.be  
    Title: Biblio How many words do we read per minute?  
-   Link: <a href="https://biblio.ugent.be/publication/8647789" target="_blank" rel="noopener noreferrer nofollow">https://biblio.ugent.be/publication/8647789</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A review and meta...by M Brysbaert · 2019 · Cited by 830 — For silent reading of English non-fiction most adults fall in the range of 17...</p></details>
+   Link:<a href="https://biblio.ugent.be/publication/8647789" target="_blank" rel="noopener noreferrer nofollow">https://biblio.ugent.be/publication/8647789</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A review and meta...by M Brysbaert · 2019 · Cited by 830 — For silent reading of English non-fiction most adults fall in the range of 17...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: readinguniverse.org  
-   Link: <a href="https://readinguniverse.org/skill-explainer/critical-thinking-strategies-2/comprehension-monitoring-skill-explainer/overview-of-comprehension-monitoring" target="_blank" rel="noopener noreferrer nofollow">https://readinguniverse.org/skill-explainer/critical-thinking-strategies-2/comprehension-monitoring-skill-explainer/overview-of-comprehension-monitoring</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading UniverseComprehension Monitoring Skill ExplainerComprehension monitoring is a process readers use before, during, and after readi...</p></details>
+   Link:<a href="https://readinguniverse.org/skill-explainer/critical-thinking-strategies-2/comprehension-monitoring-skill-explainer/overview-of-comprehension-monitoring" target="_blank" rel="noopener noreferrer nofollow">https://readinguniverse.org/skill-explainer/critical-thinking-strategies-2/comprehension-monitoring-skill-explainer/overview-of-comprehension-monitoring</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading UniverseComprehension Monitoring Skill ExplainerComprehension monitoring is a process readers use before, during, and after readi...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/30983698/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/30983698/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Influence of Text Complexity and Question...by M Spencer · 2019 · Cited by 100 — Text complexity negatively impacted reading outcome...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/30983698/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/30983698/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Influence of Text Complexity and Question...by M Spencer · 2019 · Cited by 100 — Text complexity negatively impacted reading outcome...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: britetodo.com  
    Title: reading time calculator  
-   Link: <a href="https://britetodo.com/tools/en/reading-time-calculator" target="_blank" rel="noopener noreferrer nofollow">https://britetodo.com/tools/en/reading-time-calculator</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Long to Read Any TextThe average adult reads approximately 238 words per minute (wpm) according to a 2019 meta-analysis by Brysbaert...</p></details>
+   Link:<a href="https://britetodo.com/tools/en/reading-time-calculator" target="_blank" rel="noopener noreferrer nofollow">https://britetodo.com/tools/en/reading-time-calculator</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Long to Read Any TextThe average adult reads approximately 238 words per minute (wpm) according to a 2019 meta-analysis by Brysbaert...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nwea.org  
    Title: how to address text complexity and help students understand what they read  
-   Link: <a href="https://www.nwea.org/blog/2025/how-to-address-text-complexity-and-help-students-understand-what-they-read/" target="_blank" rel="noopener noreferrer nofollow">https://www.nwea.org/blog/2025/how-to-address-text-complexity-and-help-students-understand-what-they-read/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to address text complexity and help students...4 Dec 2025 — Understanding what constitutes text complexity is the first step in help...</p></details>
+   Link:<a href="https://www.nwea.org/blog/2025/how-to-address-text-complexity-and-help-students-understand-what-they-read/" target="_blank" rel="noopener noreferrer nofollow">https://www.nwea.org/blog/2025/how-to-address-text-complexity-and-help-students-understand-what-they-read/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to address text complexity and help students...4 Dec 2025 — Understanding what constitutes text complexity is the first step in help...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aimcoaching.org  
-   Link: <a href="https://aimcoaching.org/wp-content/uploads/2021/12/Teacher_Flyer_SRR.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aimcoaching.org/wp-content/uploads/2021/12/Teacher_Flyer_SRR.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>• Have students track or graph their comprehension of texts and discuss what caused...Read more...</p></details>
+   Link:<a href="https://aimcoaching.org/wp-content/uploads/2021/12/Teacher_Flyer_SRR.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aimcoaching.org/wp-content/uploads/2021/12/Teacher_Flyer_SRR.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>• Have students track or graph their comprehension of texts and discuss what caused...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: scispace.com  
-   Link: <a href="https://scispace.com/papers/understanding-the-influence-of-text-complexity-and-question-1grrl51jn9" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/papers/understanding-the-influence-of-text-complexity-and-question-1grrl51jn9</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>lexity negatively impacted reading outcomes, particularly [oral reading](&amp;#123;&amp;#123; &#x27;reading-aloud/&#x27; | relative_url &amp;#125;&amp;#125;) fluency and...Read more...</p></details>
+   Link:<a href="https://scispace.com/papers/understanding-the-influence-of-text-complexity-and-question-1grrl51jn9" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/papers/understanding-the-influence-of-text-complexity-and-question-1grrl51jn9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lexity negatively impacted reading outcomes, particularly [oral reading](&amp;#123;&amp;#123; &#x27;reading-aloud/&#x27; | relative_url &amp;#125;&amp;#125;) fluency and...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
    Title: text complexity affects elementary students' reading fluency  
-   Link: <a href="https://www.facebook.com/groups/1120922196519412/posts/1197849355493362/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1120922196519412/posts/1197849355493362/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>reading outcomes (oral reading fluency, reading comprehension, free recall). They found that increased text complexity negatively impacte...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1120922196519412/posts/1197849355493362/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1120922196519412/posts/1197849355493362/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>reading outcomes (oral reading fluency, reading comprehension, free recall). They found that increased text complexity negatively impacte...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: medium.com  
    Title: read faster using science use these 3 tips bd94605f3faf  
-   Link: <a href="https://medium.com/%40axel.em.casas/read-faster-using-science-use-these-3-tips-bd94605f3faf" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40axel.em.casas/read-faster-using-science-use-these-3-tips-bd94605f3faf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Read Faster Using Science (Use These 3 Tips)Well, 300 words per minute (wpm). Brysbaert (2019) found that this figure is cited across stu...</p></details>
+   Link:<a href="https://medium.com/%40axel.em.casas/read-faster-using-science-use-these-3-tips-bd94605f3faf" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40axel.em.casas/read-faster-using-science-use-these-3-tips-bd94605f3faf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Read Faster Using Science (Use These 3 Tips)Well, 300 words per minute (wpm). Brysbaert (2019) found that this figure is cited across stu...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: semanticscholar.org  
    Title: Semantic Scholar How many words do we read per minute?  
-   Link: <a href="https://www.semanticscholar.org/paper/How-many-words-do-we-read-per-minute-A-review-and-Brysbaert/35bf5854514ee63095a6a3dc4a7bdaa2eb18929f" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/How-many-words-do-we-read-per-minute-A-review-and-Brysbaert/35bf5854514ee63095a6a3dc4a7bdaa2eb18929f</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A review and...Based on the analysis of 190 studies (18573 participants), we estimate that the average silent reading rate for adults in...</p></details>
+   Link:<a href="https://www.semanticscholar.org/paper/How-many-words-do-we-read-per-minute-A-review-and-Brysbaert/35bf5854514ee63095a6a3dc4a7bdaa2eb18929f" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/How-many-words-do-we-read-per-minute-A-review-and-Brysbaert/35bf5854514ee63095a6a3dc4a7bdaa2eb18929f</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A review and...Based on the analysis of 190 studies (18573 participants), we estimate that the average silent reading rate for adults in...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: textproject.org  
    Title: Does Text Complexity Matter in the Elementary Grades?  
-   Link: <a href="https://textproject.org/wp-content/uploads/2022/07/Amendum-et-al.pdf" target="_blank" rel="noopener noreferrer nofollow">https://textproject.org/wp-content/uploads/2022/07/Amendum-et-al.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SJ Amendum · 2017 · Cited by 209 — An investigation of the effects of passage difficulty level on outcomes of oral reading fluenc...</p></details>
+   Link:<a href="https://textproject.org/wp-content/uploads/2022/07/Amendum-et-al.pdf" target="_blank" rel="noopener noreferrer nofollow">https://textproject.org/wp-content/uploads/2022/07/Amendum-et-al.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SJ Amendum · 2017 · Cited by 209 — An investigation of the effects of passage difficulty level on outcomes of oral reading fluenc...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: wsra.org  
    Title: This article describes their unique needs and proposes three critical.Read more  
-   Link: <a href="https://www.wsra.org/assets/Conference/Conference_2026/Handouts/Th-B02%20Anderson.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.wsra.org/assets/Conference/Conference_2026/Handouts/Th-B02%20Anderson.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Finding versus fixing: self-monitoring for readers who...2017 · Cited by 21 — Readers who struggle with literacy learning must learn to...</p></details>
+   Link:<a href="https://www.wsra.org/assets/Conference/Conference_2026/Handouts/Th-B02%20Anderson.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.wsra.org/assets/Conference/Conference_2026/Handouts/Th-B02%20Anderson.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Finding versus fixing: self-monitoring for readers who...2017 · Cited by 21 — Readers who struggle with literacy learning must learn to...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: sasc.org.uk  
-   Link: <a href="https://www.sasc.org.uk/media/4d4lsrfv/assessing-reading-and-writing-speeds-presentation-june-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sasc.org.uk/media/4d4lsrfv/assessing-reading-and-writing-speeds-presentation-june-2020.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ate 183 wpm. • Based on 77 studies with 5965 participants.Read more...</p></details>
+   Link:<a href="https://www.sasc.org.uk/media/4d4lsrfv/assessing-reading-and-writing-speeds-presentation-june-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sasc.org.uk/media/4d4lsrfv/assessing-reading-and-writing-speeds-presentation-june-2020.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ate 183 wpm. • Based on 77 studies with 5965 participants.Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: igi-global.com  
    Title: mark promoting self monitoring reading  
-   Link: <a href="https://www.igi-global.com/chapter/mark-promoting-self-monitoring-reading/47161" target="_blank" rel="noopener noreferrer nofollow">https://www.igi-global.com/chapter/mark-promoting-self-monitoring-reading/47161</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mark-UP: Promoting Self-Monitoring of Reading...by M McMahon · 2011 — This chapter describes the development of and research into an env...</p></details>
+   Link:<a href="https://www.igi-global.com/chapter/mark-promoting-self-monitoring-reading/47161" target="_blank" rel="noopener noreferrer nofollow">https://www.igi-global.com/chapter/mark-promoting-self-monitoring-reading/47161</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mark-UP: Promoting Self-Monitoring of Reading...by M McMahon · 2011 — This chapter describes the development of and research into an env...</p></details>

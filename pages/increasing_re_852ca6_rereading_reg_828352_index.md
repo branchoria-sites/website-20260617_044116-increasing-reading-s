@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /increasing-re-852ca6-rereading-reg/
 description: Focused pages that expand on Rereading.
-date: '2026-06-16'
+date: '2026'
 layout: default
 parent_basename: increasing_re_852ca6_rereading_reg_828352
 parent_title: Rereading
@@ -16,7 +16,7 @@ parent_permalink: /rereading/
 
 # Explore Topics in Rereading
 
-The following pages expand on the main **[Rereading]({{ '/rereading/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Rereading]({{ '/rereading/' | relative_url }})** page and cover its key branches in.
 
 - [Checking Loop]({{ '/checking-loop/' | relative_url }})
 - [Lost Focus]({{ '/lost-focus/' | relative_url }})

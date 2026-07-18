@@ -294,7 +294,7 @@ image: /assets/images/increasing_re_852ca6_reading_speed_ac88ef_reading_speed_fa
 
 ## Introduction
 
-A reading-speed test is only useful if it measures understanding as well as pace. For adults trying to increase reading speed, the goal is not to produce the highest possible words-per-minute (wpm) score but to find the fastest rate at which comprehension remains strong. Research on reading consistently shows a trade-off between speed and understanding: readers can often move faster by [skimming]({{ 'skimming/' | relative_url }}), but comprehension usually declines when speed rises too far above normal reading rates. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 523 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</span></span></span>
+A reading-speed test is only useful if it measures understanding as well as pace. For adults trying to increase reading speed, the goal is not to produce the highest possible words-per-minute (wpm) score but to find the fastest rate at which comprehension remains strong. Research on reading consistently shows a trade-off between speed and understanding: readers can often move faster by [skimming]({{ 'skimming/' | relative_url }}), but comprehension usually declines when speed rises too far above normal reading rates.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 523 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef_reading_speed_fae94e-Illustration-1-dark.svg" | relative_url }}" alt="Self Test illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef_reading_speed_fae94e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef_reading_speed_fae94e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -318,7 +318,7 @@ The passage should be:
 
 </div>
 
-This matters because reading speed varies dramatically across text types. Research reviewing 190 studies found average adult silent reading rates around 238 wpm for non-fiction and 260 wpm for fiction, showing that genre alone affects performance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://reader.ku.edu/sites/reader/files/2024-01/How%20many%20words%20do%20we%20read%20per%20minute%20%281%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reader.ku.edu">[Audio-Reader]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reader.ku.edu</span><span class="citation-popover-snippet">Audio-ReaderHow many words do we read per minuteby M Brysbaert · Cited by 875 — Based on the analysis of 190 studies (18,573 participants...</span></span></span>
+This matters because reading speed varies dramatically across text types. Research reviewing 190 studies found average adult silent reading rates around 238 wpm for non-fiction and 260 wpm for fiction, showing that genre alone affects performance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://reader.ku.edu/sites/reader/files/2024-01/How%20many%20words%20do%20we%20read%20per%20minute%20%281%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reader.ku.edu">[Audio-Reader]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reader.ku.edu</span><span class="citation-popover-snippet">Audio-ReaderHow many words do we read per minuteby M Brysbaert · Cited by 875 — Based on the analysis of 190 studies (18,573 participants...</span></span></span>
 
 A legal contract, [technical]({{ 'technical-texts/' | relative_url }}) report, newspaper feature, and thriller novel are all legitimate reading tasks, but they produce different speeds. Testing with the wrong type of text can lead to misleading conclusions about your progress.
 
@@ -344,7 +344,7 @@ For example:
 
 * Passage length: 1,200 words
 * Reading time: 5 minutes
-* Reading speed: 240 wpm <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ccbi.cmu.edu/reprints/Just_Carpenter_Psych-Read-1987_speedreading.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ccbi.cmu.edu">[ccbi.cmu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ccbi.cmu.edu</span><span class="citation-popover-snippet">One type of skilled reading that has...by M Just · Cited by 28 — from a text; faster speed usually implies lessened comprehension, a tra...</span></span></span>
+* Reading speed: 240 wpm<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ccbi.cmu.edu/reprints/Just_Carpenter_Psych-Read-1987_speedreading.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ccbi.cmu.edu">[ccbi.cmu.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ccbi.cmu.edu</span><span class="citation-popover-snippet">One type of skilled reading that has...by M Just · Cited by 28 — from a text; faster speed usually implies lessened comprehension, a tra...</span></span></span>
 
 </div>
 
@@ -371,7 +371,7 @@ When tracking improvement, compare averages across several tests rather than rel
 
 The most important part of the test comes after the reading.
 
-A words-per-minute score without comprehension data is incomplete. Reading researchers have repeatedly noted that evaluating reading speed requires assessing what the reader actually understood from the text. Faster reading frequently comes at the cost of weaker retention and understanding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ccbi.cmu.edu/reprints/Just_Carpenter_Psych-Read-1987_speedreading.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ccbi.cmu.edu">[ccbi.cmu.edu+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ccbi.cmu.edu</span><span class="citation-popover-snippet">One type of skilled reading that has...by M Just · Cited by 28 — from a text; faster speed usually implies lessened comprehension, a tra...</span></span></span>
+A words-per-minute score without comprehension data is incomplete. Reading researchers have repeatedly noted that evaluating reading speed requires assessing what the reader actually understood from the text. Faster reading frequently comes at the cost of weaker retention and understanding.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ccbi.cmu.edu/reprints/Just_Carpenter_Psych-Read-1987_speedreading.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ccbi.cmu.edu">[ccbi.cmu.edu+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ccbi.cmu.edu</span><span class="citation-popover-snippet">One type of skilled reading that has...by M Just · Cited by 28 — from a text; faster speed usually implies lessened comprehension, a tra...</span></span></span>
 
 After finishing the passage, check comprehension in one of three ways.
 
@@ -379,7 +379,7 @@ After finishing the passage, check comprehension in one of three ways.
 
 Prepare five to ten questions [before reading]({{ 'before-reading/' | relative_url }}) or obtain questions from the source material.
 
-Good questions test: <span class="citation-chip-wrap"><a class="citation-chip" href="https://cognitivetrain.com/reading-speed-test/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cognitivetrain.com">[cognitivetrain.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cognitivetrain.com</span><span class="citation-popover-title">Reading Speed Test</span><span class="citation-popover-snippet">WPMFree full-passage reading speed test. Measure your WPM and comprehension with quick questions on Cognitive Train...</span></span></span>
+Good questions test:<span class="citation-chip-wrap"><a class="citation-chip" href="https://cognitivetrain.com/reading-speed-test/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cognitivetrain.com">[cognitivetrain.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cognitivetrain.com</span><span class="citation-popover-title">Reading Speed Test</span><span class="citation-popover-snippet">WPMFree full-passage reading speed test. Measure your WPM and comprehension with quick questions on Cognitive Train...</span></span></span>
 
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
@@ -433,7 +433,7 @@ Consider two readers:
 * Reader A: 350 wpm with 50% comprehension.
 * Reader B: 240 wpm with 90% comprehension.
 
-For most real-world purposes, Reader B is reading more effectively. Research reviewing [speed-reading]({{ 'myths/' | relative_url }}) claims has repeatedly concluded that dramatic increases in reading speed usually come with reduced comprehension, especially when readers attempt to double or triple normal reading rates. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psychologicalscience.org/news/releases/speed-reading-promises-are-too-good-to-be-true-scientists-find.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Association for Psychological Science+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-title">speed reading promises are too good to be true scientists find</span><span class="citation-popover-snippet">Association for Psychological ScienceSpeed Reading Promises Are Too Good to Be True...Jan 14, 2016 — A team of psychological scientists...</span></span></span>
+For most real-world purposes, Reader B is reading more effectively. Research reviewing [speed-reading]({{ 'myths/' | relative_url }}) claims has repeatedly concluded that dramatic increases in reading speed usually come with reduced comprehension, especially when readers attempt to double or triple normal reading rates.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psychologicalscience.org/news/releases/speed-reading-promises-are-too-good-to-be-true-scientists-find.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Association for Psychological Science+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-title">speed reading promises are too good to be true scientists find</span><span class="citation-popover-snippet">Association for Psychological ScienceSpeed Reading Promises Are Too Good to Be True...Jan 14, 2016 — A team of psychological scientists...</span></span></span>
 
 A practical benchmark is to record both measures together:
 
@@ -473,218 +473,218 @@ For most adults, an effective self-test looks like this:
 6. Record both speed and comprehension.
 7. Repeat periodically using comparable texts.
 
-This method produces a benchmark that aligns with real reading demands and avoids the biggest weakness of many speed-reading claims: measuring speed while ignoring whether the reader still understands the material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 523 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</span></span></span>
+This method produces a benchmark that aligns with real reading demands and avoids the biggest weakness of many speed-reading claims: measuring speed while ignoring whether the reader still understands the material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 523 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to A Better Way to Test Your Reading Speed. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to A Better Way to Test Your Reading Speed. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Teaches efficient reading strategies for different materials.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Teaches efficient reading strategies for different materials.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Evelyn+Wood+Seven-Day+Speed+Reading+and+Learning+Program+Stanley+D.+Frank&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Evelyn Wood Seven-Day Speed Reading and Learning Program on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/806088-M.jpg" alt="Cover for The Evelyn Wood Seven-Day Speed Reading and Learning Program" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Evelyn+Wood+Seven-Day+Speed+Reading+and+Learning+Program+Stanley+D.+Frank&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Evelyn Wood Seven-Day Speed Reading and Learning Program">The Evelyn Wood Seven-Day Speed Reading and Learning Program</a>
-        </h4>
-        <p class="fr-book-author">By Stanley D. Frank</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Evelyn+Wood+Seven-Day+Speed+Reading+and+Learning+Program+Stanley+D.+Frank&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Evelyn Wood Seven-Day Speed Reading and Learning Program on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/806088-M.jpg" alt="Cover for The Evelyn Wood Seven-Day Speed Reading and Learning Program" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Evelyn+Wood+Seven-Day+Speed+Reading+and+Learning+Program+Stanley+D.+Frank&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Evelyn Wood Seven-Day Speed Reading and Learning Program">The Evelyn Wood Seven-Day Speed Reading and Learning Program</a>
+</h4>
+<p class="fr-book-author">By Stanley D. Frank</p>
         
-        <p class="fr-book-desc">First published 1994. Subjects: Speed reading, Study skills, Reading.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Evelyn+Wood+Seven-Day+Speed+Reading+and+Learning+Program+Stanley+D.+Frank&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1994. Subjects: Speed reading, Study skills, Reading.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Evelyn+Wood+Seven-Day+Speed+Reading+and+Learning+Program+Stanley+D.+Frank&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Breakthrough rapid reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/84360-M.jpg" alt="Cover for Breakthrough rapid reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breakthrough rapid reading">Breakthrough rapid reading</a>
-        </h4>
-        <p class="fr-book-author">By Peter Kump</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Breakthrough rapid reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/84360-M.jpg" alt="Cover for Breakthrough rapid reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breakthrough rapid reading">Breakthrough rapid reading</a>
+</h4>
+<p class="fr-book-author">By Peter Kump</p>
         
-        <p class="fr-book-desc">First published 1979. Subjects: Speed reading, Rapid reading, Du shu fang fa.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1979. Subjects: Speed reading, Rapid reading, Du shu fang fa.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Speed Reading Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/375099-M.jpg" alt="Cover for The Speed Reading Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Speed Reading Book">The Speed Reading Book</a>
-        </h4>
-        <p class="fr-book-author">By Tony Buzan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Speed Reading Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/375099-M.jpg" alt="Cover for The Speed Reading Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Speed Reading Book">The Speed Reading Book</a>
+</h4>
+<p class="fr-book-author">By Tony Buzan</p>
         
-        <p class="fr-book-desc">First published 1997. Subjects: Speed reading, Développement d&#x27;aptitudes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1997. Subjects: Speed reading, Développement d&#x27;aptitudes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Evelyn+Wood+Seven+Day+Speed+Reading+and+Learning+Program&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Evelyn Wood Seven Day Speed Reading and Learning Program</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Breakthrough rapid reading</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Evelyn+Wood+Seven+Day+Speed+Reading+and+Learning+Program&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Evelyn Wood Seven Day Speed Reading and Learning Program</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Breakthrough rapid reading</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ccbi.cmu.edu  
-   Link: <a href="https://www.ccbi.cmu.edu/reprints/Just_Carpenter_Psych-Read-1987_speedreading.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ccbi.cmu.edu/reprints/Just_Carpenter_Psych-Read-1987_speedreading.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>One type of skilled reading that has...by M Just · Cited by 28 — from a text; faster speed usually implies lessened comprehension, a tra...</p></details>
+   Link:<a href="https://www.ccbi.cmu.edu/reprints/Just_Carpenter_Psych-Read-1987_speedreading.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ccbi.cmu.edu/reprints/Just_Carpenter_Psych-Read-1987_speedreading.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>One type of skilled reading that has...by M Just · Cited by 28 — from a text; faster speed usually implies lessened comprehension, a tra...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reading.com  
-   Link: <a href="https://www.reading.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.reading.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Teach Your Child To Read Early, Step by StepReading.com helps your child learn to read with a proven, step-by-step program. Start today a...</p></details>
+   Link:<a href="https://www.reading.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.reading.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Teach Your Child To Read Early, Step by StepReading.com helps your child learn to read with a proven, step-by-step program. Start today a...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med How Do We Read, and Can Speed Reading Help?  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26769745/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by K Rayner · 2016 · Cited by 523 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26769745/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by K Rayner · 2016 · Cited by 523 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: psychologicalscience.org  
    Title: speed reading promises are too good to be true scientists find  
-   Link: <a href="https://www.psychologicalscience.org/news/releases/speed-reading-promises-are-too-good-to-be-true-scientists-find.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/news/releases/speed-reading-promises-are-too-good-to-be-true-scientists-find.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceSpeed Reading Promises Are Too Good to Be True...Jan 14, 2016 — A team of psychological scientists...</p></details>
+   Link:<a href="https://www.psychologicalscience.org/news/releases/speed-reading-promises-are-too-good-to-be-true-scientists-find.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/news/releases/speed-reading-promises-are-too-good-to-be-true-scientists-find.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceSpeed Reading Promises Are Too Good to Be True...Jan 14, 2016 — A team of psychological scientists...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reader.ku.edu  
-   Link: <a href="https://reader.ku.edu/sites/reader/files/2024-01/How%20many%20words%20do%20we%20read%20per%20minute%20%281%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://reader.ku.edu/sites/reader/files/2024-01/How%20many%20words%20do%20we%20read%20per%20minute%20%281%29.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Audio-ReaderHow many words do we read per minuteby M Brysbaert · Cited by 875 — Based on the analysis of 190 studies (18,573 participants...</p></details>
+   Link:<a href="https://reader.ku.edu/sites/reader/files/2024-01/How%20many%20words%20do%20we%20read%20per%20minute%20%281%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://reader.ku.edu/sites/reader/files/2024-01/How%20many%20words%20do%20we%20read%20per%20minute%20%281%29.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Audio-ReaderHow many words do we read per minuteby M Brysbaert · Cited by 875 — Based on the analysis of 190 studies (18,573 participants...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Speed" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Speed</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpeedSpeed can be thought of as the rate at which an object covers distance. A fast-moving object has a high speed and covers a relati...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Speed" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Speed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpeedSpeed can be thought of as the rate at which an object covers distance. A fast-moving object has a high speed and covers a relati...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cognitivetrain.com  
    Title: Reading Speed Test  
-   Link: <a href="https://cognitivetrain.com/reading-speed-test/" target="_blank" rel="noopener noreferrer nofollow">https://cognitivetrain.com/reading-speed-test/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WPMFree full-passage reading speed test. Measure your WPM and comprehension with quick questions on Cognitive Train...</p></details>
+   Link:<a href="https://cognitivetrain.com/reading-speed-test/" target="_blank" rel="noopener noreferrer nofollow">https://cognitivetrain.com/reading-speed-test/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WPMFree full-passage reading speed test. Measure your WPM and comprehension with quick questions on Cognitive Train...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: readingspeedtest.net  
    Title: Reading Speed Test  
-   Link: <a href="https://readingspeedtest.net/" target="_blank" rel="noopener noreferrer nofollow">https://readingspeedtest.net/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Calculate Your WPM &amp; Improve...The Reading Speed Test is a powerful tool to measure your words-per-minute (WPM) rate and assess your com...</p></details>
+   Link:<a href="https://readingspeedtest.net/" target="_blank" rel="noopener noreferrer nofollow">https://readingspeedtest.net/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Calculate Your WPM &amp; Improve...The Reading Speed Test is a powerful tool to measure your words-per-minute (WPM) rate and assess your com...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: psychologicalscience.org  
    Title: speed reading  
-   Link: <a href="https://www.psychologicalscience.org/publications/speed_reading.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/publications/speed_reading.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>So Much to Read, So Little Time: How Do We...13 Jan 2016 — The report shows there is no quick and easy way to improve reading speed whil...</p></details>
+   Link:<a href="https://www.psychologicalscience.org/publications/speed_reading.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/publications/speed_reading.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>So Much to Read, So Little Time: How Do We...13 Jan 2016 — The report shows there is no quick and easy way to improve reading speed whil...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4835101/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4835101/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Cognitive Factors Imposing “Speed Limits” on...by S Primativo · 2016 · Cited by 37 — Adults read at high speed, but estimates of the...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4835101/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4835101/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Cognitive Factors Imposing “Speed Limits” on...by S Primativo · 2016 · Cited by 37 — Adults read at high speed, but estimates of the...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/34516216/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/34516216/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rate and most efficient listening rate are highly...by V Kuperman · 2021 · Cited by 34 — We ran a new study specifically comparing spont...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/34516216/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/34516216/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rate and most efficient listening rate are highly...by V Kuperman · 2021 · Cited by 34 — We ran a new study specifically comparing spont...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5397470/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5397470/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by AG Seabra · 2017 · Cited by 31 — Studies have suggested that reading speed (RS) or fluency should be a component of reading compreh...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5397470/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5397470/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by AG Seabra · 2017 · Cited by 31 — Studies have suggested that reading speed (RS) or fluency should be a component of reading compreh...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: anytospeech.com  
-   Link: <a href="https://anytospeech.com/reading-speed-test" target="_blank" rel="noopener noreferrer nofollow">https://anytospeech.com/reading-speed-test</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PM. Speed readers can reach 400+ WPM, though comprehension may...</p></details>
+   Link:<a href="https://anytospeech.com/reading-speed-test" target="_blank" rel="noopener noreferrer nofollow">https://anytospeech.com/reading-speed-test</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PM. Speed readers can reach 400+ WPM, though comprehension may...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/399897944_Testing_the_Speed-Accuracy_Trade-Off_in_Reading_Effects_of_Reading_Speed_on_Comprehension_and_Eye_Movements" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399897944_Testing_the_Speed-Accuracy_Trade-Off_in_Reading_Effects_of_Reading_Speed_on_Comprehension_and_Eye_Movements</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Testing the Speed-Accuracy Trade-Off in Reading: Effects...Jan 19, 2026 — Purpose This study investigates whether the natural reading ra...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/399897944_Testing_the_Speed-Accuracy_Trade-Off_in_Reading_Effects_of_Reading_Speed_on_Comprehension_and_Eye_Movements" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399897944_Testing_the_Speed-Accuracy_Trade-Off_in_Reading_Effects_of_Reading_Speed_on_Comprehension_and_Eye_Movements</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Testing the Speed-Accuracy Trade-Off in Reading: Effects...Jan 19, 2026 — Purpose This study investigates whether the natural reading ra...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: fivefromfive.com.au  
-   Link: <a href="https://fivefromfive.com.au/fluency/assessing-fluency/" target="_blank" rel="noopener noreferrer nofollow">https://fivefromfive.com.au/fluency/assessing-fluency/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Assessing fluencyORF assessments measure reading rate and accuracy and are expressed in terms of the number of words read correctly per m...</p></details>
+   Link:<a href="https://fivefromfive.com.au/fluency/assessing-fluency/" target="_blank" rel="noopener noreferrer nofollow">https://fivefromfive.com.au/fluency/assessing-fluency/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Assessing fluencyORF assessments measure reading rate and accuracy and are expressed in terms of the number of words read correctly per m...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: freereadingtest.com  
-   Link: <a href="https://www.freereadingtest.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.freereadingtest.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Free Speed Reading Test by AceReaderYour Comprehension was: The average adult reading speed is between 200 and 300 words per minute (same...</p></details>
+   Link:<a href="https://www.freereadingtest.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.freereadingtest.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Free Speed Reading Test by AceReaderYour Comprehension was: The average adult reading speed is between 200 and 300 words per minute (same...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: informedliteracy.com  
-   Link: <a href="https://informedliteracy.com/calculating-fluency-rate/" target="_blank" rel="noopener noreferrer nofollow">https://informedliteracy.com/calculating-fluency-rate/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Calculate Fluency RateFormula for fluency rate only: Total # words read _____x (multiply by) 60; ÷ (divide by) # of seconds to rea...</p></details>
+   Link:<a href="https://informedliteracy.com/calculating-fluency-rate/" target="_blank" rel="noopener noreferrer nofollow">https://informedliteracy.com/calculating-fluency-rate/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Calculate Fluency RateFormula for fluency rate only: Total # words read _____x (multiply by) 60; ÷ (divide by) # of seconds to rea...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/books/comments/oet3ym/the_false_promise_of_speed_reading_why_you_should/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/books/comments/oet3ym/the_false_promise_of_speed_reading_why_you_should/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>why you should read slowly if you want to understandThere exists a fundamental trade-off between speed and accuracy in reading. If you se...</p></details>
+   Link:<a href="https://www.reddit.com/r/books/comments/oet3ym/the_false_promise_of_speed_reading_why_you_should/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/books/comments/oet3ym/the_false_promise_of_speed_reading_why_you_should/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>why you should read slowly if you want to understandThere exists a fundamental trade-off between speed and accuracy in reading. If you se...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: sasc.org.uk  
-   Link: <a href="https://www.sasc.org.uk/media/4d4lsrfv/assessing-reading-and-writing-speeds-presentation-june-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sasc.org.uk/media/4d4lsrfv/assessing-reading-and-writing-speeds-presentation-june-2020.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>• average silent reading speed for healthy adults was 238 wpm for non-fiction and 260 for fiction.Read more...</p></details>
+   Link:<a href="https://www.sasc.org.uk/media/4d4lsrfv/assessing-reading-and-writing-speeds-presentation-june-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sasc.org.uk/media/4d4lsrfv/assessing-reading-and-writing-speeds-presentation-june-2020.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>• average silent reading speed for healthy adults was 238 wpm for non-fiction and 260 for fiction.Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) Does speed-reading training work, and if so, why?  
-   Link: <a href="https://www.researchgate.net/publication/367560632_Does_speed-reading_training_work_and_if_so_why_Effects_of_speed-reading_training_and_metacognitive_training_on_reading_speed_comprehension_and_eye_movements" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/367560632_Does_speed-reading_training_work_and_if_so_why_Effects_of_speed-reading_training_and_metacognitive_training_on_reading_speed_comprehension_and_eye_movements</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>01 Feb 2023 — From the perspective of reading psychology, it seems quite unlikely that speed‐reading training can indeed have such effect...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/367560632_Does_speed-reading_training_work_and_if_so_why_Effects_of_speed-reading_training_and_metacognitive_training_on_reading_speed_comprehension_and_eye_movements" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/367560632_Does_speed-reading_training_work_and_if_so_why_Effects_of_speed-reading_training_and_metacognitive_training_on_reading_speed_comprehension_and_eye_movements</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>01 Feb 2023 — From the perspective of reading psychology, it seems quite unlikely that speed‐reading training can indeed have such effect...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: rbpomodoro.com  
    Title: Reading Speed Test – Words Per Minute (WPM)Average: 200-250 WPM  
-   Link: <a href="https://rbpomodoro.com/free-tools/reading-speed-test" target="_blank" rel="noopener noreferrer nofollow">https://rbpomodoro.com/free-tools/reading-speed-test</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>College students: 300 WPM. Speed readers: 600-1000 WPM. Above 450 WPM with good comprehension is considered fast. How can I read faster?R...</p></details>
+   Link:<a href="https://rbpomodoro.com/free-tools/reading-speed-test" target="_blank" rel="noopener noreferrer nofollow">https://rbpomodoro.com/free-tools/reading-speed-test</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>College students: 300 WPM. Speed readers: 600-1000 WPM. Above 450 WPM with good comprehension is considered fast. How can I read faster?R...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: baos.pub  
    Title: the myth of speed reading why faster isnt better cd8bb57b7420  
-   Link: <a href="https://baos.pub/the-myth-of-speed-reading-why-faster-isnt-better-cd8bb57b7420" target="_blank" rel="noopener noreferrer nofollow">https://baos.pub/the-myth-of-speed-reading-why-faster-isnt-better-cd8bb57b7420</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Myth of Speed Reading: Why Faster Isn&#x27;t BetterOct 17, 2025 — The Comprehension Trade-Off... Psychological Science in the Public Inte...</p></details>
+   Link:<a href="https://baos.pub/the-myth-of-speed-reading-why-faster-isnt-better-cd8bb57b7420" target="_blank" rel="noopener noreferrer nofollow">https://baos.pub/the-myth-of-speed-reading-why-faster-isnt-better-cd8bb57b7420</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Myth of Speed Reading: Why Faster Isn&#x27;t BetterOct 17, 2025 — The Comprehension Trade-Off... Psychological Science in the Public Inte...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: publishingperspectives.com  
    Title: speed reading may not really be the thing its promised to be  
-   Link: <a href="https://publishingperspectives.com/2016/02/speed-reading-may-not-really-be-the-thing-its-promised-to-be/" target="_blank" rel="noopener noreferrer nofollow">https://publishingperspectives.com/2016/02/speed-reading-may-not-really-be-the-thing-its-promised-to-be/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Not So Fast: Speed-Reading May Not Be The Answer1 Feb 2016 — A recent review of the actual science on the subject says that speed-reading...</p></details>
+   Link:<a href="https://publishingperspectives.com/2016/02/speed-reading-may-not-really-be-the-thing-its-promised-to-be/" target="_blank" rel="noopener noreferrer nofollow">https://publishingperspectives.com/2016/02/speed-reading-may-not-really-be-the-thing-its-promised-to-be/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Not So Fast: Speed-Reading May Not Be The Answer1 Feb 2016 — A recent review of the actual science on the subject says that speed-reading...</p></details>

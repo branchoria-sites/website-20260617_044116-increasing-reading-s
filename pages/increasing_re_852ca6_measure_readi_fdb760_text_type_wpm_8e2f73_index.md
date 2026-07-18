@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /increasing-re-852ca6-measure-readi/
 description: Focused pages that expand on Text Profiles.
-date: '2026-06-16'
+date: '2026'
 layout: default
 parent_basename: increasing_re_852ca6_measure_readi_fdb760_text_type_wpm_8e2f73
 parent_title: Text Profiles
@@ -16,7 +16,7 @@ parent_permalink: /text-profiles/
 
 # Explore Topics in Text Profiles
 
-The following pages expand on the main **[Text Profiles]({{ '/text-profiles/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Text Profiles]({{ '/text-profiles/' | relative_url }})** page and cover its key branches in.
 
 - [Familiarity bias]({{ '/familiarity-bias/' | relative_url }})
 - [Four profiles]({{ '/four-profiles/' | relative_url }})

@@ -279,7 +279,7 @@ Timed rereading can genuinely improve reading speed, but it can also create an i
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_repeated_read_e09228_timed_rereadi_106f60_guessing_fals_3b7413-Illustration-1-dark.svg" | relative_url }}" alt="Guessing illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_repeated_read_e09228_timed_rereadi_106f60_guessing_fals_3b7413-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_repeated_read_e09228_timed_rereadi_106f60_guessing_fals_3b7413-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction matters because reading fluency is not simply speed. Research and assessment guidance consistently define fluency as a combination of accuracy, rate, and understanding. Faster performance that depends on guessing rather than recognising words accurately does not represent the same kind of improvement as genuine automatic reading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nichd.nih.gov">[NICHD+2Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nichd.nih.gov</span><span class="citation-popover-title">NICHDNational Reading Panel</span><span class="citation-popover-snippet">Fluency depends upon well developed word recognition skills, but such skills do...Read more...</span></span></span>
+This distinction matters because reading fluency is not simply speed. Research and assessment guidance consistently define fluency as a combination of accuracy, rate, and understanding. Faster performance that depends on guessing rather than recognising words accurately does not represent the same kind of improvement as genuine automatic reading.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nichd.nih.gov">[NICHD+2Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nichd.nih.gov</span><span class="citation-popover-title">NICHDNational Reading Panel</span><span class="citation-popover-snippet">Fluency depends upon well developed word recognition skills, but such skills do...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/r5z_uO5dEZU" title="How to Speed Up Orthographic Mapping to Improve Students’ Reading Skills" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=r5z_uO5dEZU" target="_blank" rel="noopener noreferrer">How to Speed Up Orthographic Mapping to Improve Students’ Reading Skills</a></p><p class="youtube-embed-meta">Channel: Learning At The Primary Pond</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=r5z_uO5dEZU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=r5z_uO5dEZU">Open on YouTube</a></p></div></div></div>
@@ -300,9 +300,9 @@ Common shortcuts include:
 
 </div>
 
-These behaviours can reduce reading time dramatically. Yet the speed gain comes from reducing attention to the text rather than becoming more efficient at decoding and recognising words. Literacy researchers emphasise that fluent reading depends on accurate and rapid word recognition, not on guessing strategies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nifdi.org/resources/hempenstall-blog/402-the-three-cueing-system-in-reading-will-it-ever-go-away.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nifdi.org">[NIFDI+2NICHD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nifdi.org</span><span class="citation-popover-title">402 the three cueing system in reading will it ever go away</span><span class="citation-popover-snippet">They immediately recognize them. Word reading is fluent and allows them to focus on...Read more...</span></span></span>
+These behaviours can reduce reading time dramatically. Yet the speed gain comes from reducing attention to the text rather than becoming more efficient at decoding and recognising words. Literacy researchers emphasise that fluent reading depends on accurate and rapid word recognition, not on guessing strategies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nifdi.org/resources/hempenstall-blog/402-the-three-cueing-system-in-reading-will-it-ever-go-away.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nifdi.org">[NIFDI+2NICHD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nifdi.org</span><span class="citation-popover-title">402 the three cueing system in reading will it ever go away</span><span class="citation-popover-snippet">They immediately recognize them. Word reading is fluent and allows them to focus on...Read more...</span></span></span>
 
-A useful warning sign is when speed increases much faster than accuracy. If a reader suddenly becomes much quicker but begins substituting, dropping, or altering words, the apparent fluency gain may be driven by shortcuts rather than improved reading skill. Assessment systems that use words correct per minute were developed partly to prevent these errors from being counted as success. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/classroom/classroom-strategies/timed-repeated-readings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets+2Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsTimed Repeated ReadingsThe teacher or partner counts the number of words read correctly in one minute (WCPM). This score i...</span></span></span>
+A useful warning sign is when speed increases much faster than accuracy. If a reader suddenly becomes much quicker but begins substituting, dropping, or altering words, the apparent fluency gain may be driven by shortcuts rather than improved reading skill. Assessment systems that use words correct per minute were developed partly to prevent these errors from being counted as success.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/classroom/classroom-strategies/timed-repeated-readings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets+2Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsTimed Repeated ReadingsThe teacher or partner counts the number of words read correctly in one minute (WCPM). This score i...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TnTmGOFOXb4" title="Fluency &amp; Words Read Correct Per Minute" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TnTmGOFOXb4" target="_blank" rel="noopener noreferrer">Fluency &amp; Words Read Correct Per Minute</a></p><p class="youtube-embed-meta">Channel: PLD</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TnTmGOFOXb4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TnTmGOFOXb4">Open on YouTube</a></p></div></div></div>
@@ -313,9 +313,9 @@ The more often a passage is reread, the easier it becomes to remember. That memo
 
 Consider a reader who struggles to recognise the word *frightened* automatically. On the first reading, the word causes hesitation. After several rereadings, the reader may no longer need to identify the letters carefully because they remember that *frightened* appears at that point in the sentence. The hesitation disappears, but the underlying recognition problem may remain.
 
-This is one reason repeated reading studies often distinguish between improvement on a practised passage and transfer to new passages. Improvement limited to the familiar text can reflect growing familiarity with that specific material. Stronger evidence of reading development appears when gains carry over to previously unseen passages. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://spark.bethel.edu/cgi/viewcontent.cgi?article=2039&amp;context=etd" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spark.bethel.edu">[SPARK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spark.bethel.edu</span><span class="citation-popover-snippet">Repeated Readings and Their Impact on Reading Fluencyby SN Olson · 2023 — The transfer studies also indicated that repeated reading...</span></span></span>
+This is one reason repeated reading studies often distinguish between improvement on a practised passage and transfer to new passages. Improvement limited to the familiar text can reflect growing familiarity with that specific material. Stronger evidence of reading development appears when gains carry over to previously unseen passages.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://spark.bethel.edu/cgi/viewcontent.cgi?article=2039&amp;context=etd" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spark.bethel.edu">[SPARK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spark.bethel.edu</span><span class="citation-popover-snippet">Repeated Readings and Their Impact on Reading Fluencyby SN Olson · 2023 — The transfer studies also indicated that repeated reading...</span></span></span>
 
-Research on repeated reading generally finds positive effects on fluency and comprehension, but those benefits are thought to arise from better word reading and greater automaticity, not from memorising a particular text. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shanahanonliteracy.com">[Shanahan on Literacy+2Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shanahanonliteracy.com</span><span class="citation-popover-snippet">Shanahan on LiteracyEverything You Wanted to Know about Repeated ReadingRepeated reading usually leads to better oral reading performance...</span></span></span>
+Research on repeated reading generally finds positive effects on fluency and comprehension, but those benefits are thought to arise from better word reading and greater automaticity, not from memorising a particular text.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shanahanonliteracy.com">[Shanahan on Literacy+2Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shanahanonliteracy.com</span><span class="citation-popover-snippet">Shanahan on LiteracyEverything You Wanted to Know about Repeated ReadingRepeated reading usually leads to better oral reading performance...</span></span></span>
 
 This creates an important practical distinction:
 
@@ -331,7 +331,7 @@ New passages act as a reality check because memory can no longer do the work.
 
 When readers encounter unfamiliar text, they cannot rely on remembering sentence patterns or anticipating specific words. They must recognise words from the print itself. Any improvement that survives this transition is much more likely to represent genuine growth in fluency.
 
-This is why many fluency assessments use previously unseen passages and count errors carefully. The goal is to [measure]({{ 'measure/' | relative_url }}) how efficiently readers process new text, not how well they recall an old one. Words-correct-per-minute measures subtract mistakes from total words read so that guessing cannot easily masquerade as progress. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/topics/assessment-and-evaluation/articles/understanding-and-assessing-fluency" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets+2Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">While it may...Read more...</span></span></span>
+This is why many fluency assessments use previously unseen passages and count errors carefully. The goal is to [measure]({{ 'measure/' | relative_url }}) how efficiently readers process new text, not how well they recall an old one. Words-correct-per-minute measures subtract mistakes from total words read so that guessing cannot easily masquerade as progress.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/topics/assessment-and-evaluation/articles/understanding-and-assessing-fluency" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets+2Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">While it may...Read more...</span></span></span>
 
 [Fresh passages]({{ 'passage-banks/' | relative_url }}) often reveal three outcomes:
 
@@ -353,170 +353,170 @@ The third outcome can be discouraging, but it is valuable feedback. It identifie
 
 The most reliable sign of improvement is not the fastest rereading time. It is the ability to read accurately, smoothly, and with understanding across different texts.
 
-Reading experts consistently describe fluency as accurate reading at an appropriate pace with comprehension and expression. Speed is part of the picture, but it is not the whole picture. A reader who recognises words correctly, maintains meaning, and carries those skills into unfamiliar passages has developed a stronger reading system than a reader who merely learns to predict a familiar text. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/blogs/shanahan-on-literacy/oral-reading-fluency-more-speed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets+2Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-title">oral reading fluency more speed</span><span class="citation-popover-snippet">Reading RocketsOral Reading Fluency Is More than SpeedOct 28, 2016 — Fluency is the ability to read a text accurately, at a good pace, an...</span></span></span>
+Reading experts consistently describe fluency as accurate reading at an appropriate pace with comprehension and expression. Speed is part of the picture, but it is not the whole picture. A reader who recognises words correctly, maintains meaning, and carries those skills into unfamiliar passages has developed a stronger reading system than a reader who merely learns to predict a familiar text.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/blogs/shanahan-on-literacy/oral-reading-fluency-more-speed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets+2Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-title">oral reading fluency more speed</span><span class="citation-popover-snippet">Reading RocketsOral Reading Fluency Is More than SpeedOct 28, 2016 — Fluency is the ability to read a text accurately, at a good pace, an...</span></span></span>
 
-For timed rereading practice, the safest interpretation of a faster score is therefore conditional: it counts as progress only when accuracy remains high and the improvement eventually appears in fresh reading material. Otherwise, the timer may be measuring increasingly efficient guessing rather than increasingly efficient reading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/blogs/shanahan-on-literacy/should-we-be-using-words-correct-minute" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets+2Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-title">Reading Rockets Should We Be Using Words Correct Per Minute?</span><span class="citation-popover-snippet">One way is to accomplish high degrees of proficiency in decoding, and second is to hurry.Read more...</span></span></span>
+For timed rereading practice, the safest interpretation of a faster score is therefore conditional: it counts as progress only when accuracy remains high and the improvement eventually appears in fresh reading material. Otherwise, the timer may be measuring increasingly efficient guessing rather than increasingly efficient reading.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/blogs/shanahan-on-literacy/should-we-be-using-words-correct-minute" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets+2Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-title">Reading Rockets Should We Be Using Words Correct Per Minute?</span><span class="citation-popover-snippet">One way is to accomplish high degrees of proficiency in decoding, and second is to hurry.Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_repeated_read_e09228_timed_rereadi_106f60_guessing_fals_3b7413-Illustration-3-dark.svg" | relative_url }}" alt="Guessing illustration 3" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_repeated_read_e09228_timed_rereadi_106f60_guessing_fals_3b7413-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_repeated_read_e09228_timed_rereadi_106f60_guessing_fals_3b7413-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When faster rereading is really guessing. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When faster rereading is really guessing. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The fluent reader on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/277217-M.jpg" alt="Cover for The fluent reader" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fluent reader">The fluent reader</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The fluent reader on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/277217-M.jpg" alt="Cover for The fluent reader" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fluent reader">The fluent reader</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Addresses accurate reading rather than speed alone.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses accurate reading rather than speed alone.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Essentials+of+Assessing%2C+Preventing%2C+and+Overcoming+Reading+Difficulties+David+A.+Kilpatrick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Essentials of Assessing, Preventing, and Overcoming Reading Difficulties on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9273818-M.jpg" alt="Cover for Essentials of Assessing, Preventing, and Overcoming Reading Difficulties" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Essentials+of+Assessing%2C+Preventing%2C+and+Overcoming+Reading+Difficulties+David+A.+Kilpatrick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Essentials of Assessing, Preventing, and Overcoming Reading Difficulties">Essentials of Assessing, Preventing, and Overcoming Reading D...</a>
-        </h4>
-        <p class="fr-book-author">By David A. Kilpatrick, Kaufman, Alan S. et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Essentials+of+Assessing%2C+Preventing%2C+and+Overcoming+Reading+Difficulties+David+A.+Kilpatrick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Essentials of Assessing, Preventing, and Overcoming Reading Difficulties on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9273818-M.jpg" alt="Cover for Essentials of Assessing, Preventing, and Overcoming Reading Difficulties" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Essentials+of+Assessing%2C+Preventing%2C+and+Overcoming+Reading+Difficulties+David+A.+Kilpatrick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Essentials of Assessing, Preventing, and Overcoming Reading Difficulties">Essentials of Assessing, Preventing, and Overcoming Reading D...</a>
+</h4>
+<p class="fr-book-author">By David A. Kilpatrick, Kaufman, Alan S. et al.</p>
         
-        <p class="fr-book-desc">First published 2015. Subjects: Reading, Language and languages, PSYCHOLOGY / Assessment, Testing &amp; Measurement, Lb1050 .k493 2015, 372.41.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Essentials+of+Assessing%2C+Preventing%2C+and+Overcoming+Reading+Difficulties+David+A.+Kilpatrick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2015. Subjects: Reading, Language and languages, PSYCHOLOGY / Assessment, Testing &amp; Measurement, Lb1050 .k493 2015, 372.41.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Essentials+of+Assessing%2C+Preventing%2C+and+Overcoming+Reading+Difficulties+David+A.+Kilpatrick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Overcoming+Dyslexia+Sally+E.+Shaywitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Overcoming Dyslexia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1468261-M.jpg" alt="Cover for Overcoming Dyslexia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Overcoming+Dyslexia+Sally+E.+Shaywitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Overcoming Dyslexia">Overcoming Dyslexia</a>
-        </h4>
-        <p class="fr-book-author">By Sally E. Shaywitz</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Overcoming+Dyslexia+Sally+E.+Shaywitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Overcoming Dyslexia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1468261-M.jpg" alt="Cover for Overcoming Dyslexia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Overcoming+Dyslexia+Sally+E.+Shaywitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Overcoming Dyslexia">Overcoming Dyslexia</a>
+</h4>
+<p class="fr-book-author">By Sally E. Shaywitz</p>
         
-        <p class="fr-book-desc">First published 2003. Subjects: Reading disability, Remedial teaching, Education, Dyslexia, Dyslexic children.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Overcoming+Dyslexia+Sally+E.+Shaywitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2003. Subjects: Reading disability, Remedial teaching, Education, Dyslexia, Dyslexic children.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Overcoming+Dyslexia+Sally+E.+Shaywitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Megabook+of+Fluency+Timothy+V.+Rasinski%3BMelissa+Cheesman+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Megabook of Fluency on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8825334-M.jpg" alt="Cover for The Megabook of Fluency" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Megabook+of+Fluency+Timothy+V.+Rasinski%3BMelissa+Cheesman+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Megabook of Fluency">The Megabook of Fluency</a>
-        </h4>
-        <p class="fr-book-author">By Timothy V. Rasinski;Melissa Cheesman Smith</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Megabook+of+Fluency+Timothy+V.+Rasinski%3BMelissa+Cheesman+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Megabook of Fluency on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8825334-M.jpg" alt="Cover for The Megabook of Fluency" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Megabook+of+Fluency+Timothy+V.+Rasinski%3BMelissa+Cheesman+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Megabook of Fluency">The Megabook of Fluency</a>
+</h4>
+<p class="fr-book-author">By Timothy V. Rasinski;Melissa Cheesman Smith</p>
         
-        <p class="fr-book-desc">First published 2018. Subjects: Language arts (elementary), Teaching, aids and devices.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Megabook+of+Fluency+Timothy+V.+Rasinski%3BMelissa+Cheesman+Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2018. Subjects: Language arts (elementary), Teaching, aids and devices.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Megabook+of+Fluency+Timothy+V.+Rasinski%3BMelissa+Cheesman+Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The fluent reader</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Essentials+of+Assessing%2C+Preventing%2C+and+Overcoming+Reading+Difficulties&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Essentials of Assessing, Preventing, and Overcoming Reading Difficulties</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Overcoming+Dyslexia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Overcoming Dyslexia</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The fluent reader</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Essentials+of+Assessing%2C+Preventing%2C+and+Overcoming+Reading+Difficulties&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Essentials of Assessing, Preventing, and Overcoming Reading Difficulties</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Overcoming+Dyslexia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Overcoming Dyslexia</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guessing-when-faster-rereading-is-really-guessing-increasing-literacy-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy classroom poster -book -books" data-ebay-reference="guessing-when-faster-rereading-is-really-guessing-increasing-literacy-classroom-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 X More Key Words School Classroom Poster Prompts For Literacy English Teaching"><img src="{{ '/assets/images/marketplace-covers/f822c7fb8ab43ac5498c.jpg' | relative_url }}" alt="Listing image for 2 X More Key Words School Classroom Poster Prompts For Literacy English Teaching" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guessing-when-faster-rereading-is-really-guessing-increasing-literacy-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy classroom poster -book -books" data-ebay-reference="guessing-when-faster-rereading-is-really-guessing-increasing-literacy-classroom-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">2 X More Key Words School Classroom Poster Prompts For Literacy English Teaching</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guessing-when-faster-rereading-is-really-guessing-increasing-literacy-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy classroom poster -book -books" data-ebay-reference="guessing-when-faster-rereading-is-really-guessing-increasing-literacy-classroom-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for literacy classroom poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: literacy classroom poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guessing-when-faster-rereading-is-really-guessing-increasing-literacy-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy classroom poster -book -books" data-ebay-reference="guessing-when-faster-rereading-is-really-guessing-increasing-literacy-classroom-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guessing-when-faster-rereading-is-really-guessing-increasing-literacy-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy classroom poster -book -books" data-ebay-reference="guessing-when-faster-rereading-is-really-guessing-increasing-literacy-classroom-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 X More Key Words School Classroom Poster Prompts For Literacy English Teaching"><img src="{{ '/assets/images/marketplace-covers/f822c7fb8ab43ac5498c.jpg' | relative_url }}" alt="Listing image for 2 X More Key Words School Classroom Poster Prompts For Literacy English Teaching" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guessing-when-faster-rereading-is-really-guessing-increasing-literacy-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy classroom poster -book -books" data-ebay-reference="guessing-when-faster-rereading-is-really-guessing-increasing-literacy-classroom-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">2 X More Key Words School Classroom Poster Prompts For Literacy English Teaching</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guessing-when-faster-rereading-is-really-guessing-increasing-literacy-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy classroom poster -book -books" data-ebay-reference="guessing-when-faster-rereading-is-really-guessing-increasing-literacy-classroom-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for literacy classroom poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: literacy classroom poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guessing-when-faster-rereading-is-really-guessing-increasing-literacy-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy classroom poster -book -books" data-ebay-reference="guessing-when-faster-rereading-is-really-guessing-increasing-literacy-classroom-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guessing-when-faster-rereading-is-really-guessing-increasing-literacy-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy classroom poster -book -books" data-ebay-reference="guessing-when-faster-rereading-is-really-guessing-increasing-literacy-classroom-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rare 1904-1909 Japanese Woodblock Classroom Poster - Meiji Era Literacy Chart"><img src="{{ '/assets/images/marketplace-covers/d811268f23783443ea90.jpg' | relative_url }}" alt="Listing image for Rare 1904-1909 Japanese Woodblock Classroom Poster - Meiji Era Literacy Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guessing-when-faster-rereading-is-really-guessing-increasing-literacy-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy classroom poster -book -books" data-ebay-reference="guessing-when-faster-rereading-is-really-guessing-increasing-literacy-classroom-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Rare 1904-1909 Japanese Woodblock Classroom Poster - Meiji Era Literacy Chart</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guessing-when-faster-rereading-is-really-guessing-increasing-literacy-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy classroom poster -book -books" data-ebay-reference="guessing-when-faster-rereading-is-really-guessing-increasing-literacy-classroom-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for literacy classroom poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: literacy classroom poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guessing-when-faster-rereading-is-really-guessing-increasing-literacy-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy classroom poster -book -books" data-ebay-reference="guessing-when-faster-rereading-is-really-guessing-increasing-literacy-classroom-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guessing-when-faster-rereading-is-really-guessing-increasing-literacy-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy classroom poster -book -books" data-ebay-reference="guessing-when-faster-rereading-is-really-guessing-increasing-literacy-classroom-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guessing-when-faster-rereading-is-really-guessing-increasing-literacy-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy classroom poster -book -books" data-ebay-reference="guessing-when-faster-rereading-is-really-guessing-increasing-literacy-classroom-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rare 1904-1909 Japanese Woodblock Classroom Poster - Meiji Era Literacy Chart"><img src="{{ '/assets/images/marketplace-covers/d811268f23783443ea90.jpg' | relative_url }}" alt="Listing image for Rare 1904-1909 Japanese Woodblock Classroom Poster - Meiji Era Literacy Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guessing-when-faster-rereading-is-really-guessing-increasing-literacy-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy classroom poster -book -books" data-ebay-reference="guessing-when-faster-rereading-is-really-guessing-increasing-literacy-classroom-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Rare 1904-1909 Japanese Woodblock Classroom Poster - Meiji Era Literacy Chart</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guessing-when-faster-rereading-is-really-guessing-increasing-literacy-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy classroom poster -book -books" data-ebay-reference="guessing-when-faster-rereading-is-really-guessing-increasing-literacy-classroom-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for literacy classroom poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: literacy classroom poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guessing-when-faster-rereading-is-really-guessing-increasing-literacy-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy classroom poster -book -books" data-ebay-reference="guessing-when-faster-rereading-is-really-guessing-increasing-literacy-classroom-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guessing-when-faster-rereading-is-really-guessing-increasing-literacy-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy classroom poster -book -books" data-ebay-reference="guessing-when-faster-rereading-is-really-guessing-increasing-literacy-classroom-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -532,7 +532,7 @@ For timed rereading practice, the safest interpretation of a faster score is the
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -552,7 +552,7 @@ For timed rereading practice, the safest interpretation of a faster score is the
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -584,7 +584,7 @@ For timed rereading practice, the safest interpretation of a faster score is the
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -636,7 +636,7 @@ For timed rereading practice, the safest interpretation of a faster score is the
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -681,7 +681,7 @@ For timed rereading practice, the safest interpretation of a faster score is the
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -722,179 +722,179 @@ For timed rereading practice, the safest interpretation of a faster score is the
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nichd.nih.gov  
    Title: NICHDNational Reading Panel  
-   Link: <a href="https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fluency depends upon well developed word recognition skills, but such skills do...Read more...</p></details>
+   Link:<a href="https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fluency depends upon well developed word recognition skills, but such skills do...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nifdi.org  
    Title: 402 the three cueing system in reading will it ever go away  
-   Link: <a href="https://www.nifdi.org/resources/hempenstall-blog/402-the-three-cueing-system-in-reading-will-it-ever-go-away.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nifdi.org/resources/hempenstall-blog/402-the-three-cueing-system-in-reading-will-it-ever-go-away.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>They immediately recognize them. Word reading is fluent and allows them to focus on...Read more...</p></details>
+   Link:<a href="https://www.nifdi.org/resources/hempenstall-blog/402-the-three-cueing-system-in-reading-will-it-ever-go-away.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nifdi.org/resources/hempenstall-blog/402-the-three-cueing-system-in-reading-will-it-ever-go-away.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>They immediately recognize them. Word reading is fluent and allows them to focus on...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: spark.bethel.edu  
-   Link: <a href="https://spark.bethel.edu/cgi/viewcontent.cgi?article=2039&amp;context=etd" target="_blank" rel="noopener noreferrer nofollow">https://spark.bethel.edu/cgi/viewcontent.cgi?article=2039&amp;context=etd</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Repeated Readings and Their Impact on Reading Fluencyby SN Olson · 2023 — The transfer studies also indicated that repeated reading...</p></details>
+   Link:<a href="https://spark.bethel.edu/cgi/viewcontent.cgi?article=2039&amp;context=etd" target="_blank" rel="noopener noreferrer nofollow">https://spark.bethel.edu/cgi/viewcontent.cgi?article=2039&amp;context=etd</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Repeated Readings and Their Impact on Reading Fluencyby SN Olson · 2023 — The transfer studies also indicated that repeated reading...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nifdi.org  
-   Link: <a href="https://www.nifdi.org/news-latest-2/blog-hempenstall/398-fluency-its-significance-and-promotion" target="_blank" rel="noopener noreferrer nofollow">https://www.nifdi.org/news-latest-2/blog-hempenstall/398-fluency-its-significance-and-promotion</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading fluency: Its significance and promotionThis article examines the effects of a reading fluency intervention on the fluency and com...</p></details>
+   Link:<a href="https://www.nifdi.org/news-latest-2/blog-hempenstall/398-fluency-its-significance-and-promotion" target="_blank" rel="noopener noreferrer nofollow">https://www.nifdi.org/news-latest-2/blog-hempenstall/398-fluency-its-significance-and-promotion</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading fluency: Its significance and promotionThis article examines the effects of a reading fluency intervention on the fluency and com...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: readingrockets.org  
    Title: [oral reading](&#123;&#123; 'reading-aloud/' | relative_url &#125;&#125;) fluency more speed  
-   Link: <a href="https://www.readingrockets.org/blogs/shanahan-on-literacy/oral-reading-fluency-more-speed" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/blogs/shanahan-on-literacy/oral-reading-fluency-more-speed</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsOral Reading Fluency Is More than SpeedOct 28, 2016 — Fluency is the ability to read a text accurately, at a good pace, an...</p></details>
+   Link:<a href="https://www.readingrockets.org/blogs/shanahan-on-literacy/oral-reading-fluency-more-speed" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/blogs/shanahan-on-literacy/oral-reading-fluency-more-speed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsOral Reading Fluency Is More than SpeedOct 28, 2016 — Fluency is the ability to read a text accurately, at a good pace, an...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/reading-101/reading-and-writing-basics/fluency" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/reading-101/reading-and-writing-basics/fluency</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Basics: FluencyFluency is the ability to read a text accurately, quickly, and with expression. Fluent reading builds stamina for reading...</p></details>
+   Link:<a href="https://www.readingrockets.org/reading-101/reading-and-writing-basics/fluency" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/reading-101/reading-and-writing-basics/fluency</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Basics: FluencyFluency is the ability to read a text accurately, quickly, and with expression. Fluent reading builds stamina for reading...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/classroom/classroom-strategies/timed-repeated-readings" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/classroom/classroom-strategies/timed-repeated-readings</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsTimed Repeated ReadingsThe teacher or partner counts the number of words read correctly in one minute ([WCPM](&amp;#123;&amp;#123; &#x27;wcpm/&#x27; | relative_url &amp;#125;&amp;#125;)). This score i...</p></details>
+   Link:<a href="https://www.readingrockets.org/classroom/classroom-strategies/timed-repeated-readings" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/classroom/classroom-strategies/timed-repeated-readings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsTimed Repeated ReadingsThe teacher or partner counts the number of words read correctly in one minute ([WCPM](&amp;#123;&amp;#123; &#x27;wcpm/&#x27; | relative_url &amp;#125;&amp;#125;)). This score i...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/topics/assessment-and-evaluation/articles/understanding-and-assessing-fluency" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/assessment-and-evaluation/articles/understanding-and-assessing-fluency</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>While it may...Read more...</p></details>
+   Link:<a href="https://www.readingrockets.org/topics/assessment-and-evaluation/articles/understanding-and-assessing-fluency" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/assessment-and-evaluation/articles/understanding-and-assessing-fluency</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>While it may...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/practice" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/practice</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fluency: In PracticeSubtract the number of errors read per minute from the total number of words read per minute. The result is the avera...</p></details>
+   Link:<a href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/practice" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/practice</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fluency: In PracticeSubtract the number of errors read per minute from the total number of words read per minute. The result is the avera...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: shanahanonliteracy.com  
-   Link: <a href="https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shanahan on LiteracyEverything You Wanted to Know about Repeated ReadingRepeated reading usually leads to better oral reading performance...</p></details>
+   Link:<a href="https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shanahan on LiteracyEverything You Wanted to Know about Repeated ReadingRepeated reading usually leads to better oral reading performance...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/blogs/shanahan-on-literacy/everything-you-wanted-know-about-repeated-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/blogs/shanahan-on-literacy/everything-you-wanted-know-about-repeated-reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsEverything You Wanted to Know about Repeated ReadingAug 4, 2017 — Repeated reading usually leads to better reading perform...</p></details>
+   Link:<a href="https://www.readingrockets.org/blogs/shanahan-on-literacy/everything-you-wanted-know-about-repeated-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/blogs/shanahan-on-literacy/everything-you-wanted-know-about-repeated-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsEverything You Wanted to Know about Repeated ReadingAug 4, 2017 — Repeated reading usually leads to better reading perform...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fluency: In DepthFluency is the ability to read a text accurately, at a good pace, and with proper expression and comprehension. develops...</p></details>
+   Link:<a href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fluency: In DepthFluency is the ability to read a text accurately, at a good pace, and with proper expression and comprehension. develops...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: readingrockets.org  
    Title: Reading Rockets Should We Be Using Words Correct Per Minute?  
-   Link: <a href="https://www.readingrockets.org/blogs/shanahan-on-literacy/should-we-be-using-words-correct-minute" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/blogs/shanahan-on-literacy/should-we-be-using-words-correct-minute</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>One way is to accomplish high degrees of proficiency in decoding, and second is to hurry.Read more...</p></details>
+   Link:<a href="https://www.readingrockets.org/blogs/shanahan-on-literacy/should-we-be-using-words-correct-minute" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/blogs/shanahan-on-literacy/should-we-be-using-words-correct-minute</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>One way is to accomplish high degrees of proficiency in decoding, and second is to hurry.Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: readingrockets.org  
    Title: how important reading rate  
-   Link: <a href="https://www.readingrockets.org/blogs/shanahan-on-literacy/how-important-reading-rate" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/blogs/shanahan-on-literacy/how-important-reading-rate</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Important Is Reading Rate?Jan 7, 2019 — “The corresponding rate for poor readers at this level is 50 to 70 words per minute. Accordin...</p></details>
+   Link:<a href="https://www.readingrockets.org/blogs/shanahan-on-literacy/how-important-reading-rate" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/blogs/shanahan-on-literacy/how-important-reading-rate</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Important Is Reading Rate?Jan 7, 2019 — “The corresponding rate for poor readers at this level is 50 to 70 words per minute. Accordin...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/topics/fluency/articles/fluency-instructional-guidelines-and-student-activities" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/fluency/articles/fluency-instructional-guidelines-and-student-activities</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fluency: Instructional Guidelines and Student ActivitiesThe best strategy for developing reading fluency is to provide your students with...</p></details>
+   Link:<a href="https://www.readingrockets.org/topics/fluency/articles/fluency-instructional-guidelines-and-student-activities" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/fluency/articles/fluency-instructional-guidelines-and-student-activities</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fluency: Instructional Guidelines and Student ActivitiesThe best strategy for developing reading fluency is to provide your students with...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/literacy-home/reading-101-guide-parents/your-first-grader/fluency-activities" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/literacy-home/reading-101-guide-parents/your-first-grader/fluency-activities</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fluency: Activities for Your First GraderBy December, most first graders can read 50 words correct per minute. And by the end of the scho...</p></details>
+   Link:<a href="https://www.readingrockets.org/literacy-home/reading-101-guide-parents/your-first-grader/fluency-activities" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/literacy-home/reading-101-guide-parents/your-first-grader/fluency-activities</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fluency: Activities for Your First GraderBy December, most first graders can read 50 words correct per minute. And by the end of the scho...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/topics/fluency/articles/screening-diagnosing-and-progress-monitoring-fluency-details" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/fluency/articles/screening-diagnosing-and-progress-monitoring-fluency-details</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Screening, Diagnosing, and Progress Monitoring for FluencyScreening, diagnosing, and progress monitoring are essential to making sure tha...</p></details>
+   Link:<a href="https://www.readingrockets.org/topics/fluency/articles/screening-diagnosing-and-progress-monitoring-fluency-details" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/fluency/articles/screening-diagnosing-and-progress-monitoring-fluency-details</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Screening, Diagnosing, and Progress Monitoring for FluencyScreening, diagnosing, and progress monitoring are essential to making sure tha...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: readingrockets.org  
    Title: fluency norms chart 2017 update  
-   Link: <a href="https://www.readingrockets.org/topics/fluency/articles/fluency-norms-chart-2017-update" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/fluency/articles/fluency-norms-chart-2017-update</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fluency Norms Chart (2017 Update)View the results of the updated 2017 study on oral reading fluency (ORF) by Jan Hasbrouck and Gerald Tin...</p></details>
+   Link:<a href="https://www.readingrockets.org/topics/fluency/articles/fluency-norms-chart-2017-update" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/fluency/articles/fluency-norms-chart-2017-update</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fluency Norms Chart (2017 Update)View the results of the updated 2017 study on oral reading fluency (ORF) by Jan Hasbrouck and Gerald Tin...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/topics/assessment-and-evaluation/articles/reading-accuracy" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/assessment-and-evaluation/articles/reading-accuracy</a>  
+   Link:<a href="https://www.readingrockets.org/topics/assessment-and-evaluation/articles/reading-accuracy" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/assessment-and-evaluation/articles/reading-accuracy</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3320221/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3320221/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>synthesis of fluency interventions for secondary struggling...by J Wexler · 2008 · Cited by 242 — In studies that show the positive effe...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3320221/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3320221/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>synthesis of fluency interventions for secondary struggling...by J Wexler · 2008 · Cited by 242 — In studies that show the positive effe...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: quizlet.com  
-   Link: <a href="https://quizlet.com/958395093/fluency-reading-rockets-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/958395093/fluency-reading-rockets-flash-cards/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Rockets FlashcardsAutomaticity: - refers to accurate and speedy word recognition - refers to reading with expression and clarity...</p></details>
+   Link:<a href="https://quizlet.com/958395093/fluency-reading-rockets-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/958395093/fluency-reading-rockets-flash-cards/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Rockets FlashcardsAutomaticity: - refers to accurate and speedy word recognition - refers to reading with expression and clarity...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: shanahanonliteracy.com  
    Title: three cueing and the law  
-   Link: <a href="https://www.shanahanonliteracy.com/blog/three-cueing-and-the-law" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/three-cueing-and-the-law</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Three-Cueing and the Law16 Nov 2024 — Three-cueing refers to how people recognize and read words. A cue is a signal that provides a hint...</p></details>
+   Link:<a href="https://www.shanahanonliteracy.com/blog/three-cueing-and-the-law" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/three-cueing-and-the-law</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Three-Cueing and the Law16 Nov 2024 — Three-cueing refers to how people recognize and read words. A cue is a signal that provides a hint...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: shanahanonliteracy.com  
    Title: Should We Be Using Words Correct Per Minute?  
-   Link: <a href="https://www.shanahanonliteracy.com/blog/should-we-be-using-words-correct-per-minute" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/should-we-be-using-words-correct-per-minute</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 2, 2020 — Teacher question: When providing fluency instruction, should time, such as the number of words per minute, be an element?Re...</p></details>
+   Link:<a href="https://www.shanahanonliteracy.com/blog/should-we-be-using-words-correct-per-minute" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/should-we-be-using-words-correct-per-minute</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 2, 2020 — Teacher question: When providing fluency instruction, should time, such as the number of words per minute, be an element?Re...</p></details>
    Published: May 2, 2020  
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/398253041_Effect_of_Repeated_Reading_for_Developing_Reading_Fluency_and_Reading_Comprehension_in_EFL_Students_Pre_Experimental_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/398253041_Effect_of_Repeated_Reading_for_Developing_Reading_Fluency_and_Reading_Comprehension_in_EFL_Students_Pre_Experimental_Study</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Effect of Repeated Reading for Developing...29 May 2026 — Based on the results of the study, it was found that repeated reading wa...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/398253041_Effect_of_Repeated_Reading_for_Developing_Reading_Fluency_and_Reading_Comprehension_in_EFL_Students_Pre_Experimental_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/398253041_Effect_of_Repeated_Reading_for_Developing_Reading_Fluency_and_Reading_Comprehension_in_EFL_Students_Pre_Experimental_Study</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Effect of Repeated Reading for Developing...29 May 2026 — Based on the results of the study, it was found that repeated reading wa...</p></details>
    Published: May 2026  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: readnaturally.com  
-   Link: <a href="https://www.readnaturally.com/article/hasbrouck-tindal-oral-reading-fluency-chart" target="_blank" rel="noopener noreferrer nofollow">https://www.readnaturally.com/article/hasbrouck-tindal-oral-reading-fluency-chart</a>  
+   Link:<a href="https://www.readnaturally.com/article/hasbrouck-tindal-oral-reading-fluency-chart" target="_blank" rel="noopener noreferrer nofollow">https://www.readnaturally.com/article/hasbrouck-tindal-oral-reading-fluency-chart</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: quizlet.com  
-   Link: <a href="https://quizlet.com/738508685/letrs-unit-1-assessment-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/738508685/letrs-unit-1-assessment-flash-cards/</a>  
+   Link:<a href="https://quizlet.com/738508685/letrs-unit-1-assessment-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/738508685/letrs-unit-1-assessment-flash-cards/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: pendium.ai  
-   Link: <a href="https://pendium.ai/playreadle/the-reading-ceiling-why-guessing-words-fails-and-o-afd62d" target="_blank" rel="noopener noreferrer nofollow">https://pendium.ai/playreadle/the-reading-ceiling-why-guessing-words-fails-and-o-afd62d</a>  
+   Link:<a href="https://pendium.ai/playreadle/the-reading-ceiling-why-guessing-words-fails-and-o-afd62d" target="_blank" rel="noopener noreferrer nofollow">https://pendium.ai/playreadle/the-reading-ceiling-why-guessing-words-fails-and-o-afd62d</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: scholarsarchive.byu.edu  
-   Link: <a href="https://scholarsarchive.byu.edu/context/facpub/article/8947/viewcontent/5._Immediate_repeated_reading_has_positive_effects_on_reading_rate_for_English_language.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scholarsarchive.byu.edu/context/facpub/article/8947/viewcontent/5._Immediate_repeated_reading_has_positive_effects_on_reading_rate_for_English_language.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Repeated Reading Has Positive Effects on...by JH Hansen · 2024 · Cited by 4 — The objective of this [eye- tracking](&amp;#123;&amp;#123; &#x27;eye-tracking/&#x27; | relative_url &amp;#125;&amp;#125;) study was to accuratel...</p></details>
+   Link:<a href="https://scholarsarchive.byu.edu/context/facpub/article/8947/viewcontent/5._Immediate_repeated_reading_has_positive_effects_on_reading_rate_for_English_language.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scholarsarchive.byu.edu/context/facpub/article/8947/viewcontent/5._Immediate_repeated_reading_has_positive_effects_on_reading_rate_for_English_language.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Repeated Reading Has Positive Effects on...by JH Hansen · 2024 · Cited by 4 — The objective of this [eye- tracking](&amp;#123;&amp;#123; &#x27;eye-tracking/&#x27; | relative_url &amp;#125;&amp;#125;) study was to accuratel...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=TnTmGOFOXb4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TnTmGOFOXb4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fluency &amp; Words Read Correct Per MinuteTo read fluently is to read in a manner that one can access the meaning of a text. Fluency is impo...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TnTmGOFOXb4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TnTmGOFOXb4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fluency &amp; Words Read Correct Per MinuteTo read fluently is to read in a manner that one can access the meaning of a text. Fluency is impo...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: readingfluency.app  
    Title: busy teachers guide to oral reading fluency assessment  
-   Link: <a href="https://readingfluency.app/content/busy-teachers-guide-to-oral-reading-fluency-assessment" target="_blank" rel="noopener noreferrer nofollow">https://readingfluency.app/content/busy-teachers-guide-to-oral-reading-fluency-assessment</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Busy Teacher&#x27;s Guide to Oral Reading Fluency AssessmentMar 3, 2026 — At its best, ORF gives you a quick view of three things working to...</p></details>
+   Link:<a href="https://readingfluency.app/content/busy-teachers-guide-to-oral-reading-fluency-assessment" target="_blank" rel="noopener noreferrer nofollow">https://readingfluency.app/content/busy-teachers-guide-to-oral-reading-fluency-assessment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Busy Teacher&#x27;s Guide to Oral Reading Fluency AssessmentMar 3, 2026 — At its best, ORF gives you a quick view of three things working to...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: landmarkoutreach.org  
    Title: fluency interventions text and passage level  
-   Link: <a href="https://www.landmarkoutreach.org/strategies/fluency-interventions-text-and-passage-level/" target="_blank" rel="noopener noreferrer nofollow">https://www.landmarkoutreach.org/strategies/fluency-interventions-text-and-passage-level/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Repeated reading–having students read a passage of text out loud multiple times with “immediate corrective feedback” from a...Read more...</p></details>
+   Link:<a href="https://www.landmarkoutreach.org/strategies/fluency-interventions-text-and-passage-level/" target="_blank" rel="noopener noreferrer nofollow">https://www.landmarkoutreach.org/strategies/fluency-interventions-text-and-passage-level/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Repeated reading–having students read a passage of text out loud multiple times with “immediate corrective feedback” from a...Read more...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: pridereadingprogram.com  
    Title: reading fluency passages repeated reading  
-   Link: <a href="https://pridereadingprogram.com/reading-fluency-passages-repeated-reading/?srsltid=AfmBOopuUoQjlAKrLPP3loDvZdMnbMHUyw_UknPNZP96qRiC04WS9o0l" target="_blank" rel="noopener noreferrer nofollow">https://pridereadingprogram.com/reading-fluency-passages-repeated-reading/?srsltid=AfmBOopuUoQjlAKrLPP3loDvZdMnbMHUyw_UknPNZP96qRiC04WS9o0l</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Fluency Passages: Repeated Reading Guide6 May 2026 — Learn how to use reading fluency passages and repeated reading to build accu...</p></details>
+   Link:<a href="https://pridereadingprogram.com/reading-fluency-passages-repeated-reading/?srsltid=AfmBOopuUoQjlAKrLPP3loDvZdMnbMHUyw_UknPNZP96qRiC04WS9o0l" target="_blank" rel="noopener noreferrer nofollow">https://pridereadingprogram.com/reading-fluency-passages-repeated-reading/?srsltid=AfmBOopuUoQjlAKrLPP3loDvZdMnbMHUyw_UknPNZP96qRiC04WS9o0l</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Fluency Passages: Repeated Reading Guide6 May 2026 — Learn how to use reading fluency passages and repeated reading to build accu...</p></details>
    Published: May 2026  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DY46QsCOGju/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DY46QsCOGju/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e: 📖 Sentence Pyramids 🎭 Repeated Reading with Reader&#x27;s Theatre...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DY46QsCOGju/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DY46QsCOGju/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e: 📖 Sentence Pyramids 🎭 Repeated Reading with Reader&#x27;s Theatre...</p></details>

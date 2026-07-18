@@ -269,7 +269,7 @@ image: /assets/images/increasing_re_852ca6_vocabulary_ba_236244_known_word_re_b0
 
 ## Introduction
 
-One of the fastest ways to increase reading speed is not to move the eyes differently but to make more words instantly familiar. When readers encounter useful [vocabulary]({{ 'knowledge/' | relative_url }}) repeatedly, the brain gradually stops treating those words as new problems to solve. Instead of analysing letters one by one and reconstructing meaning from scratch, the reader recognises the word as a single, familiar unit. This shift from effortful decoding to automatic recognition is a major reason experienced readers move through text more quickly than beginners. Research on word recognition, orthographic mapping, and vocabulary learning consistently shows that repeated exposure strengthens the links between a word’s spelling, pronunciation, and meaning, making retrieval faster and more reliable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/abs/10.1080/10888438.2013.819356" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online+2Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineOrthographic Mapping in the Acquisition of Sight Word...by LC Ehri · 2014 · Cited by 1391 — Orthographic mapping...</span></span></span>
+One of the fastest ways to increase reading speed is not to move the eyes differently but to make more words instantly familiar. When readers encounter useful [vocabulary]({{ 'knowledge/' | relative_url }}) repeatedly, the brain gradually stops treating those words as new problems to solve. Instead of analysing letters one by one and reconstructing meaning from scratch, the reader recognises the word as a single, familiar unit. This shift from effortful decoding to automatic recognition is a major reason experienced readers move through text more quickly than beginners. Research on word recognition, orthographic mapping, and vocabulary learning consistently shows that repeated exposure strengthens the links between a word’s spelling, pronunciation, and meaning, making retrieval faster and more reliable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/abs/10.1080/10888438.2013.819356" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online+2Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineOrthographic Mapping in the Acquisition of Sight Word...by LC Ehri · 2014 · Cited by 1391 — Orthographic mapping...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_vocabulary_ba_236244_known_word_re_b04085_repeated_expo_10b431-Illustration-1-dark.svg" | relative_url }}" alt="Exposure illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_vocabulary_ba_236244_known_word_re_b04085_repeated_expo_10b431-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_vocabulary_ba_236244_known_word_re_b04085_repeated_expo_10b431-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -277,11 +277,11 @@ One of the fastest ways to increase reading speed is not to move the eyes differ
 
 Every encounter with a word leaves a trace in memory. A single encounter may be enough to recognise a word later, but repeated encounters strengthen that memory and make access faster.
 
-Researchers describe this process as orthographic mapping: the formation of durable connections between a word’s spelling, sounds, and meaning. As these connections become stronger, the word can be retrieved directly from memory rather than decoded each time it appears. Words stored in this way become what reading researchers call “sight words” — not words memorised visually, but words recognised instantly because their representations have become firmly established. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/abs/10.1080/10888438.2013.819356" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online+2Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineOrthographic Mapping in the Acquisition of Sight Word...by LC Ehri · 2014 · Cited by 1391 — Orthographic mapping...</span></span></span>
+Researchers describe this process as orthographic mapping: the formation of durable connections between a word’s spelling, sounds, and meaning. As these connections become stronger, the word can be retrieved directly from memory rather than decoded each time it appears. Words stored in this way become what reading researchers call “sight words” — not words memorised visually, but words recognised instantly because their representations have become firmly established.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/abs/10.1080/10888438.2013.819356" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online+2Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineOrthographic Mapping in the Acquisition of Sight Word...by LC Ehri · 2014 · Cited by 1391 — Orthographic mapping...</span></span></span>
 
 The effect is cumulative. A reader who encounters the word “consequence” hundreds of times does not process it in the same way as someone seeing it for the third or fourth time. The experienced reader recognises the entire pattern immediately. The less experienced reader may still devote attention to confirming the spelling, retrieving the meaning, or checking whether it fits the sentence.
 
-Experimental studies of novel-word learning show that additional exposures improve memory for word forms and reduce processing effort during reading. [Eye-tracking]({{ 'eye-tracking/' | relative_url }}) research has found that repeated encounters lead to fewer fixations and shorter processing times, suggesting that the word is becoming more efficiently represented in memory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/20445911.2020.1823987" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Eye movement monitoring was used to explore the time course of orthographic learning in adult skilled readers while they read novel words...</span></span></span>
+Experimental studies of novel-word learning show that additional exposures improve memory for word forms and reduce processing effort during reading. [Eye-tracking]({{ 'eye-tracking/' | relative_url }}) research has found that repeated encounters lead to fewer fixations and shorter processing times, suggesting that the word is becoming more efficiently represented in memory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/20445911.2020.1823987" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Eye movement monitoring was used to explore the time course of orthographic learning in adult skilled readers while they read novel words...</span></span></span>
 
 For reading speed, this matters because every fraction of a second saved on individual words accumulates across sentences, pages, and books.
 
@@ -292,7 +292,7 @@ For reading speed, this matters because every fraction of a second saved on indi
 
 The transition is gradual rather than sudden.
 
-During early encounters, readers often rely heavily on decoding. They identify letter patterns, connect them to sounds, and infer meaning from context. After enough successful encounters, the brain begins storing the word as a familiar pattern that can be recognised directly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://keystoliteracy.com/blog/the-role-of-orthographic-mapping-in-learning-to-read/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: keystoliteracy.com">[Keys to Literacy+2LD@School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">keystoliteracy.com</span><span class="citation-popover-title">the role of orthographic mapping in learning to read</span><span class="citation-popover-snippet">Keys to LiteracyThe Role of Orthographic Mapping in Learning to Read5 May 2020 — Through orthographic mapping, students use the oral lang...</span><span class="citation-popover-meta">Published: May 2020</span></span></span>
+During early encounters, readers often rely heavily on decoding. They identify letter patterns, connect them to sounds, and infer meaning from context. After enough successful encounters, the brain begins storing the word as a familiar pattern that can be recognised directly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://keystoliteracy.com/blog/the-role-of-orthographic-mapping-in-learning-to-read/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: keystoliteracy.com">[Keys to Literacy+2LD@School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">keystoliteracy.com</span><span class="citation-popover-title">the role of orthographic mapping in learning to read</span><span class="citation-popover-snippet">Keys to LiteracyThe Role of Orthographic Mapping in Learning to Read5 May 2020 — Through orthographic mapping, students use the oral lang...</span><span class="citation-popover-meta">Published: May 2020</span></span></span>
 
 Several things happen simultaneously:
 
@@ -307,9 +307,9 @@ Several things happen simultaneously:
 
 </div>
 
-Because all of these elements develop together, repeated exposure improves both speed and accuracy. Readers become less likely to hesitate, misidentify the word, or lose track of the sentence while interpreting it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://eric.ed.gov/?id=EJ1027413" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eric.ed.gov">[ERIC+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eric.ed.gov</span><span class="citation-popover-title">ERICOrthographic Mapping in the Acquisition of Sight Word</span><span class="citation-popover-snippet">by LC Ehri · 2014 · Cited by 1387 — Orthographic mapping (OM) involves the formation of letter-sound connections to bond the spelling...</span></span></span>
+Because all of these elements develop together, repeated exposure improves both speed and accuracy. Readers become less likely to hesitate, misidentify the word, or lose track of the sentence while interpreting it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://eric.ed.gov/?id=EJ1027413" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eric.ed.gov">[ERIC+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eric.ed.gov</span><span class="citation-popover-title">ERICOrthographic Mapping in the Acquisition of Sight Word</span><span class="citation-popover-snippet">by LC Ehri · 2014 · Cited by 1387 — Orthographic mapping (OM) involves the formation of letter-sound connections to bond the spelling...</span></span></span>
 
-An important detail is that meaningful exposure is usually more effective than isolated repetition. Encountering a word repeatedly in articles, books, conversations, and examples provides multiple opportunities to strengthen understanding and reinforce memory. The National Reading Panel highlighted repeated and varied exposure as an important contributor to vocabulary growth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/topics/curriculum-and-instruction/articles/findings-national-reading-panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets+2Scholastic UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsFindings of the National Reading PanelRepetition and multiple exposure to vocabulary words will also assist vocabulary dev...</span></span></span>
+An important detail is that meaningful exposure is usually more effective than isolated repetition. Encountering a word repeatedly in articles, books, conversations, and examples provides multiple opportunities to strengthen understanding and reinforce memory. The National Reading Panel highlighted repeated and varied exposure as an important contributor to vocabulary growth.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/topics/curriculum-and-instruction/articles/findings-national-reading-panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets+2Scholastic UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsFindings of the National Reading PanelRepetition and multiple exposure to vocabulary words will also assist vocabulary dev...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_vocabulary_ba_236244_known_word_re_b04085_repeated_expo_10b431-Illustration-2-dark.svg" | relative_url }}" alt="Exposure illustration 2" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_vocabulary_ba_236244_known_word_re_b04085_repeated_expo_10b431-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_vocabulary_ba_236244_known_word_re_b04085_repeated_expo_10b431-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -336,7 +336,7 @@ Consider the word “yield”. A reader may memorise a dictionary definition, bu
 
 This broader knowledge supports faster recognition because the brain gains multiple retrieval pathways. When the word appears again, the reader does not need to evaluate every possible interpretation. Context and experience narrow the possibilities quickly.
 
-Research on vocabulary instruction has similarly found benefits from encountering words repeatedly and in varied contexts rather than relying on a single exposure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/topics/curriculum-and-instruction/articles/findings-national-reading-panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsFindings of the National Reading PanelRepetition and multiple exposure to vocabulary words will also assist vocabulary dev...</span></span></span>
+Research on vocabulary instruction has similarly found benefits from encountering words repeatedly and in varied contexts rather than relying on a single exposure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/topics/curriculum-and-instruction/articles/findings-national-reading-panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsFindings of the National Reading PanelRepetition and multiple exposure to vocabulary words will also assist vocabulary dev...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6iPAfK9yUJA" title="Speak English Automatically: Why 30x Repetition Works | Rule 2/7" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6iPAfK9yUJA" target="_blank" rel="noopener noreferrer">Speak English Automatically: Why 30x Repetition Works | Rule 2/7</a></p><p class="youtube-embed-meta">Channel: Adept English</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6iPAfK9yUJA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6iPAfK9yUJA">Open on YouTube</a></p></div></div></div>
@@ -345,7 +345,7 @@ Research on vocabulary instruction has similarly found benefits from encounterin
 
 Repeated exposure is powerful, but frequency alone does not guarantee automatic recognition.
 
-If a reader repeatedly encounters a word without understanding it, progress may be slow. Meaning plays an important role in establishing durable word knowledge. A word that remains vague or confusing is less likely to become instantly recognisable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://harriettjanetos.substack.com/p/what-was-she-thinking-linnea-ehri" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: harriettjanetos.substack.com">[Harriett Janetos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">harriettjanetos.substack.com</span><span class="citation-popover-snippet">Harriett JanetosWhat Was She Thinking: Linnea Ehri Explains...Meaning is necessary for forming sight words in memory but it isn&#x27;t necess...</span></span></span>
+If a reader repeatedly encounters a word without understanding it, progress may be slow. Meaning plays an important role in establishing durable word knowledge. A word that remains vague or confusing is less likely to become instantly recognisable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://harriettjanetos.substack.com/p/what-was-she-thinking-linnea-ehri" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: harriettjanetos.substack.com">[Harriett Janetos]</a><span class="citation-popover" role="note"><span class="citation-popover-source">harriettjanetos.substack.com</span><span class="citation-popover-snippet">Harriett JanetosWhat Was She Thinking: Linnea Ehri Explains...Meaning is necessary for forming sight words in memory but it isn&#x27;t necess...</span></span></span>
 
 Exposure can also be less effective when:
 
@@ -360,7 +360,7 @@ Exposure can also be less effective when:
 
 </div>
 
-Studies of word learning indicate that both exposure frequency and ease of decoding influence how well word forms are learned. Repetition helps, but readers benefit most when they can accurately identify the word and connect it to meaning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9748498/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Learning new words through reading: do robust spelling...by RC Hulme · 2022 · Cited by 21 — Results showed that greater decoding ease...</span></span></span>
+Studies of word learning indicate that both exposure frequency and ease of decoding influence how well word forms are learned. Repetition helps, but readers benefit most when they can accurately identify the word and connect it to meaning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9748498/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Learning new words through reading: do robust spelling...by RC Hulme · 2022 · Cited by 21 — Results showed that greater decoding ease...</span></span></span>
 
 This is why simply seeing a difficult technical term a few times may not noticeably increase reading speed. The word must be encountered often enough, understood well enough, and processed accurately enough for automatic recognition to develop.
 
@@ -370,181 +370,181 @@ This is why simply seeing a difficult technical term a few times may not noticea
 
 Reading speed improves when fewer words require conscious effort. Repeated exposure gradually converts unfamiliar vocabulary into instantly recognised units, reducing pauses, uncertainty, and decoding demands.
 
-The practical implication is straightforward: readers who regularly engage with substantial texts accumulate thousands of encounters with important words. Over time, those words become automatic. As automatic recognition spreads across a larger share of the vocabulary in a text, reading becomes smoother, faster, and less mentally demanding. The gain is not the result of forcing speed. It emerges because the reader increasingly recognises words as familiar patterns rather than puzzles to solve. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/reading-101/reading-and-writing-basics/sight-words-and-orthographic-mapping" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets+2ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsBasics: Sight Words and Orthographic MappingOrthographic mapping is the process of storing a word permanently in memory fo...</span></span></span>
+The practical implication is straightforward: readers who regularly engage with substantial texts accumulate thousands of encounters with important words. Over time, those words become automatic. As automatic recognition spreads across a larger share of the vocabulary in a text, reading becomes smoother, faster, and less mentally demanding. The gain is not the result of forcing speed. It emerges because the reader increasingly recognises words as familiar patterns rather than puzzles to solve.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/reading-101/reading-and-writing-basics/sight-words-and-orthographic-mapping" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets+2ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsBasics: Sight Words and Orthographic MappingOrthographic mapping is the process of storing a word permanently in memory fo...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Words Become Fast to Read. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Words Become Fast to Read. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Supports fluent comprehension once words are recognized automatically.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Supports fluent comprehension once words are recognized automatically.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-        </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+</h4>
+<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Provides evidence-based insight into repetition, retrieval, and durable memory formation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides evidence-based insight into repetition, retrieval, and durable memory formation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Word+Power+Made+Easy+Norman+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Word Power Made Easy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9082714-M.jpg" alt="Cover for Word Power Made Easy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Word+Power+Made+Easy+Norman+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Word Power Made Easy">Word Power Made Easy</a>
-        </h4>
-        <p class="fr-book-author">By Norman Lewis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Word+Power+Made+Easy+Norman+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Word Power Made Easy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9082714-M.jpg" alt="Cover for Word Power Made Easy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Word+Power+Made+Easy+Norman+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Word Power Made Easy">Word Power Made Easy</a>
+</h4>
+<p class="fr-book-author">By Norman Lewis</p>
         
-        <p class="fr-book-desc">First published 1949. Subjects: Vocabulary, General, Education / Reference, Reference, Anglais (Langue).</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Word+Power+Made+Easy+Norman+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1949. Subjects: Vocabulary, General, Education / Reference, Reference, Anglais (Langue).</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Word+Power+Made+Easy+Norman+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Merriam-Webster%27s+vocabulary+builder+Mary+W.+Cornog&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Merriam-Webster&#x27;s vocabulary builder on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/671541-M.jpg" alt="Cover for Merriam-Webster&#x27;s vocabulary builder" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Merriam-Webster%27s+vocabulary+builder+Mary+W.+Cornog&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Merriam-Webster&#x27;s vocabulary builder">Merriam-Webster&#x27;s vocabulary builder</a>
-        </h4>
-        <p class="fr-book-author">By Mary W. Cornog</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Merriam-Webster%27s+vocabulary+builder+Mary+W.+Cornog&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Merriam-Webster&#x27;s vocabulary builder on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/671541-M.jpg" alt="Cover for Merriam-Webster&#x27;s vocabulary builder" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Merriam-Webster%27s+vocabulary+builder+Mary+W.+Cornog&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Merriam-Webster&#x27;s vocabulary builder">Merriam-Webster&#x27;s vocabulary builder</a>
+</h4>
+<p class="fr-book-author">By Mary W. Cornog</p>
         
-        <p class="fr-book-desc">First published 1994. Subjects: Problems, exercises, Vocabulary, English language, usage.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Merriam-Webster%27s+vocabulary+builder+Mary+W.+Cornog&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1994. Subjects: Problems, exercises, Vocabulary, English language, usage.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Merriam-Webster%27s+vocabulary+builder+Mary+W.+Cornog&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Word+Power+Made+Easy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Word Power Made Easy</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Word+Power+Made+Easy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Word Power Made Easy</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=language+learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exposure-how-words-become-fast-to-read-increasing-language-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language learning poster -book -books" data-ebay-reference="exposure-how-words-become-fast-to-read-increasing-language-learning-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for My Arabic Alphabet Poster A3 Learning Teaching Arabic Language Kids Folded"><img src="{{ '/assets/images/marketplace-covers/b52c9882d115aaf9ce1f.jpg' | relative_url }}" alt="Listing image for My Arabic Alphabet Poster A3 Learning Teaching Arabic Language Kids Folded" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=language+learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exposure-how-words-become-fast-to-read-increasing-language-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language learning poster -book -books" data-ebay-reference="exposure-how-words-become-fast-to-read-increasing-language-learning-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">My Arabic Alphabet Poster A3 Learning Teaching Arabic Language Kids Folded</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=language+learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exposure-how-words-become-fast-to-read-increasing-language-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language learning poster -book -books" data-ebay-reference="exposure-how-words-become-fast-to-read-increasing-language-learning-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for language learning poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: language learning poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=language+learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exposure-how-words-become-fast-to-read-increasing-language-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language learning poster -book -books" data-ebay-reference="exposure-how-words-become-fast-to-read-increasing-language-learning-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=language+learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exposure-how-words-become-fast-to-read-increasing-language-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language learning poster -book -books" data-ebay-reference="exposure-how-words-become-fast-to-read-increasing-language-learning-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for My Arabic Alphabet Poster A3 Learning Teaching Arabic Language Kids Folded"><img src="{{ '/assets/images/marketplace-covers/b52c9882d115aaf9ce1f.jpg' | relative_url }}" alt="Listing image for My Arabic Alphabet Poster A3 Learning Teaching Arabic Language Kids Folded" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=language+learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exposure-how-words-become-fast-to-read-increasing-language-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language learning poster -book -books" data-ebay-reference="exposure-how-words-become-fast-to-read-increasing-language-learning-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">My Arabic Alphabet Poster A3 Learning Teaching Arabic Language Kids Folded</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=language+learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exposure-how-words-become-fast-to-read-increasing-language-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language learning poster -book -books" data-ebay-reference="exposure-how-words-become-fast-to-read-increasing-language-learning-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for language learning poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: language learning poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=language+learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exposure-how-words-become-fast-to-read-increasing-language-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language learning poster -book -books" data-ebay-reference="exposure-how-words-become-fast-to-read-increasing-language-learning-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=language+learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exposure-how-words-become-fast-to-read-increasing-language-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language learning poster -book -books" data-ebay-reference="exposure-how-words-become-fast-to-read-increasing-language-learning-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Arabic Alphabet Poster Learning Arabic Poster Alif Baa Language Kids Prints"><img src="{{ '/assets/images/marketplace-covers/9a42a64c2aefb2cd642b.jpg' | relative_url }}" alt="Listing image for Arabic Alphabet Poster Learning Arabic Poster Alif Baa Language Kids Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=language+learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exposure-how-words-become-fast-to-read-increasing-language-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language learning poster -book -books" data-ebay-reference="exposure-how-words-become-fast-to-read-increasing-language-learning-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Arabic Alphabet Poster Learning Arabic Poster Alif Baa Language Kids Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=language+learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exposure-how-words-become-fast-to-read-increasing-language-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language learning poster -book -books" data-ebay-reference="exposure-how-words-become-fast-to-read-increasing-language-learning-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for language learning poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: language learning poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=language+learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exposure-how-words-become-fast-to-read-increasing-language-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language learning poster -book -books" data-ebay-reference="exposure-how-words-become-fast-to-read-increasing-language-learning-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=language+learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exposure-how-words-become-fast-to-read-increasing-language-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language learning poster -book -books" data-ebay-reference="exposure-how-words-become-fast-to-read-increasing-language-learning-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Arabic Alphabet Poster Learning Arabic Poster Alif Baa Language Kids Prints"><img src="{{ '/assets/images/marketplace-covers/9a42a64c2aefb2cd642b.jpg' | relative_url }}" alt="Listing image for Arabic Alphabet Poster Learning Arabic Poster Alif Baa Language Kids Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=language+learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exposure-how-words-become-fast-to-read-increasing-language-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language learning poster -book -books" data-ebay-reference="exposure-how-words-become-fast-to-read-increasing-language-learning-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Arabic Alphabet Poster Learning Arabic Poster Alif Baa Language Kids Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=language+learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exposure-how-words-become-fast-to-read-increasing-language-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language learning poster -book -books" data-ebay-reference="exposure-how-words-become-fast-to-read-increasing-language-learning-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for language learning poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: language learning poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=language+learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exposure-how-words-become-fast-to-read-increasing-language-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language learning poster -book -books" data-ebay-reference="exposure-how-words-become-fast-to-read-increasing-language-learning-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=language+learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exposure-how-words-become-fast-to-read-increasing-language-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language learning poster -book -books" data-ebay-reference="exposure-how-words-become-fast-to-read-increasing-language-learning-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Arabic Alphabet Print Language Learning Chart Poster Print"><img src="{{ '/assets/images/marketplace-covers/a359e7195268f732f4ed.jpg' | relative_url }}" alt="Listing image for Arabic Alphabet Print Language Learning Chart Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=language+learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exposure-how-words-become-fast-to-read-increasing-language-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language learning poster -book -books" data-ebay-reference="exposure-how-words-become-fast-to-read-increasing-language-learning-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Arabic Alphabet Print Language Learning Chart Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=language+learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exposure-how-words-become-fast-to-read-increasing-language-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language learning poster -book -books" data-ebay-reference="exposure-how-words-become-fast-to-read-increasing-language-learning-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for language learning poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: language learning poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=language+learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exposure-how-words-become-fast-to-read-increasing-language-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language learning poster -book -books" data-ebay-reference="exposure-how-words-become-fast-to-read-increasing-language-learning-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=language+learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exposure-how-words-become-fast-to-read-increasing-language-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language learning poster -book -books" data-ebay-reference="exposure-how-words-become-fast-to-read-increasing-language-learning-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=language+learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exposure-how-words-become-fast-to-read-increasing-language-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language learning poster -book -books" data-ebay-reference="exposure-how-words-become-fast-to-read-increasing-language-learning-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Arabic Alphabet Print Language Learning Chart Poster Print"><img src="{{ '/assets/images/marketplace-covers/a359e7195268f732f4ed.jpg' | relative_url }}" alt="Listing image for Arabic Alphabet Print Language Learning Chart Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=language+learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exposure-how-words-become-fast-to-read-increasing-language-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language learning poster -book -books" data-ebay-reference="exposure-how-words-become-fast-to-read-increasing-language-learning-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Arabic Alphabet Print Language Learning Chart Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=language+learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exposure-how-words-become-fast-to-read-increasing-language-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language learning poster -book -books" data-ebay-reference="exposure-how-words-become-fast-to-read-increasing-language-learning-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for language learning poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: language learning poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=language+learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exposure-how-words-become-fast-to-read-increasing-language-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language learning poster -book -books" data-ebay-reference="exposure-how-words-become-fast-to-read-increasing-language-learning-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=language+learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exposure-how-words-become-fast-to-read-increasing-language-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language learning poster -book -books" data-ebay-reference="exposure-how-words-become-fast-to-read-increasing-language-learning-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -560,7 +560,7 @@ The practical implication is straightforward: readers who regularly engage with 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -580,7 +580,7 @@ The practical implication is straightforward: readers who regularly engage with 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -612,7 +612,7 @@ The practical implication is straightforward: readers who regularly engage with 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -664,7 +664,7 @@ The practical implication is straightforward: readers who regularly engage with 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -709,7 +709,7 @@ The practical implication is straightforward: readers who regularly engage with 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -750,182 +750,182 @@ The practical implication is straightforward: readers who regularly engage with 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: eric.ed.gov  
    Title: ERICOrthographic Mapping in the Acquisition of Sight Word  
-   Link: <a href="https://eric.ed.gov/?id=EJ1027413" target="_blank" rel="noopener noreferrer nofollow">https://eric.ed.gov/?id=EJ1027413</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by LC Ehri · 2014 · Cited by 1387 — Orthographic mapping (OM) involves the formation of letter-sound connections to bond the spelling...</p></details>
+   Link:<a href="https://eric.ed.gov/?id=EJ1027413" target="_blank" rel="noopener noreferrer nofollow">https://eric.ed.gov/?id=EJ1027413</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by LC Ehri · 2014 · Cited by 1387 — Orthographic mapping (OM) involves the formation of letter-sound connections to bond the spelling...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/344495917_Orthographic_learning_of_novel_words_in_adults_Effects_of_exposure_and_visual_attention_on_eye_movements" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/344495917_Orthographic_learning_of_novel_words_in_adults_Effects_of_exposure_and_visual_attention_on_eye_movements</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>[Show full abstract] memorization of new words...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/344495917_Orthographic_learning_of_novel_words_in_adults_Effects_of_exposure_and_visual_attention_on_eye_movements" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/344495917_Orthographic_learning_of_novel_words_in_adults_Effects_of_exposure_and_visual_attention_on_eye_movements</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Show full abstract] memorization of new words...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/263499062_Orthographic_Mapping_in_the_Acquisition_of_Sight_Word_Reading_Spelling_Memory_and_Vocabulary_Learning" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/263499062_Orthographic_Mapping_in_the_Acquisition_of_Sight_Word_Reading_Spelling_Memory_and_Vocabulary_Learning</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Orthographic Mapping in the Acquisition of Sight Word...Orthographic mapping (OM) involves the formation of letter-sound connections to...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/263499062_Orthographic_Mapping_in_the_Acquisition_of_Sight_Word_Reading_Spelling_Memory_and_Vocabulary_Learning" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/263499062_Orthographic_Mapping_in_the_Acquisition_of_Sight_Word_Reading_Spelling_Memory_and_Vocabulary_Learning</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Orthographic Mapping in the Acquisition of Sight Word...Orthographic mapping (OM) involves the formation of letter-sound connections to...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
    Title: Read more  
-   Link: <a href="https://www.researchgate.net/publication/345073549_Reconceptualizing_the_Development_of_Sight_Word_Reading_and_Its_Relationship_to_Recoding" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/345073549_Reconceptualizing_the_Development_of_Sight_Word_Reading_and_Its_Relationship_to_Recoding</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reconceptualizing the Development of Sight Word...This process strengthens connections between the word&#x27;s sounds, printed fo...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/345073549_Reconceptualizing_the_Development_of_Sight_Word_Reading_and_Its_Relationship_to_Recoding" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/345073549_Reconceptualizing_the_Development_of_Sight_Word_Reading_and_Its_Relationship_to_Recoding</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reconceptualizing the Development of Sight Word...This process strengthens connections between the word&#x27;s sounds, printed fo...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: scholastic.com  
    Title: systematic instruction  
-   Link: <a href="https://www.scholastic.com/education/ookaisland/assets/pdf/systematic-instruction.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scholastic.com/education/ookaisland/assets/pdf/systematic-instruction.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Report of the National Reading Panel24 May 2018 — Learning words [before reading](&amp;#123;&amp;#123; &#x27;before-reading/&#x27; | relative_url &amp;#125;&amp;#125;) a text also is helpful. Techniques such as task restructu...</p></details>
+   Link:<a href="https://www.scholastic.com/education/ookaisland/assets/pdf/systematic-instruction.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scholastic.com/education/ookaisland/assets/pdf/systematic-instruction.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report of the National Reading Panel24 May 2018 — Learning words [before reading](&amp;#123;&amp;#123; &#x27;before-reading/&#x27; | relative_url &amp;#125;&amp;#125;) a text also is helpful. Techniques such as task restructu...</p></details>
    Published: May 2018  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9748498/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9748498/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Learning new words through reading: do robust spelling...by RC Hulme · 2022 · Cited by 21 — Results showed that greater decoding ease...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9748498/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9748498/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Learning new words through reading: do robust spelling...by RC Hulme · 2022 · Cited by 21 — Results showed that greater decoding ease...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/249134643_A_Review_of_the_National_Reading_Panel%27s_Studies_on_Fluency_The_Role_of_Text" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/249134643_A_Review_of_the_National_Reading_Panel%27s_Studies_on_Fluency_The_Role_of_Text</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Review of the National Reading Panel&#x27;s Studies on...11 Aug 2015 — The review in NRP (Hiebert &amp; Fisher, 2005) showing that texts with m...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/249134643_A_Review_of_the_National_Reading_Panel%27s_Studies_on_Fluency_The_Role_of_Text" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/249134643_A_Review_of_the_National_Reading_Panel%27s_Studies_on_Fluency_The_Role_of_Text</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Review of the National Reading Panel&#x27;s Studies on...11 Aug 2015 — The review in NRP (Hiebert &amp; Fisher, 2005) showing that texts with m...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/336068180_Orthographic_Mapping_Facilitates_Sight_Word_Memory_and_Vocabulary_Learning" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/336068180_Orthographic_Mapping_Facilitates_Sight_Word_Memory_and_Vocabulary_Learning</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ns to bond the spellings, pronunciations, and meanings of specific words in...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/336068180_Orthographic_Mapping_Facilitates_Sight_Word_Memory_and_Vocabulary_Learning" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/336068180_Orthographic_Mapping_Facilitates_Sight_Word_Memory_and_Vocabulary_Learning</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ns to bond the spellings, pronunciations, and meanings of specific words in...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: The Science of Reading in Action: Orthographic Mapping in English  
-   Link: <a href="https://www.youtube.com/watch?v=CQ_QMs2Adqg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CQ_QMs2Adqg</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Orthographic Mapping - Explained...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=CQ_QMs2Adqg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CQ_QMs2Adqg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Orthographic Mapping - Explained...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Orthographic Mapping  
-   Link: <a href="https://www.youtube.com/watch?v=vA05Oasiy4k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vA05Oasiy4k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>To explore how the brain converts effortful decoding into automatic processing through memory traces, you can watch Orthographic Mapping...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vA05Oasiy4k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vA05Oasiy4k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>To explore how the brain converts effortful decoding into automatic processing through memory traces, you can watch Orthographic Mapping...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/10888438.2013.819356" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/10888438.2013.819356</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineOrthographic Mapping in the Acquisition of Sight Word...by LC Ehri · 2014 · Cited by 1391 — Orthographic mapping...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/abs/10.1080/10888438.2013.819356" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/10888438.2013.819356</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineOrthographic Mapping in the Acquisition of Sight Word...by LC Ehri · 2014 · Cited by 1391 — Orthographic mapping...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/reading-101/reading-and-writing-basics/sight-words-and-orthographic-mapping" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/reading-101/reading-and-writing-basics/sight-words-and-orthographic-mapping</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsBasics: Sight Words and Orthographic MappingOrthographic mapping is the process of storing a word permanently in memory fo...</p></details>
+   Link:<a href="https://www.readingrockets.org/reading-101/reading-and-writing-basics/sight-words-and-orthographic-mapping" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/reading-101/reading-and-writing-basics/sight-words-and-orthographic-mapping</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsBasics: Sight Words and Orthographic MappingOrthographic mapping is the process of storing a word permanently in memory fo...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ldatschool.ca  
-   Link: <a href="https://www.ldatschool.ca/orthographic-mapping/" target="_blank" rel="noopener noreferrer nofollow">https://www.ldatschool.ca/orthographic-mapping/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An Introduction to Orthographic Mappingby K Hipfner-Boucher · 2023 · Cited by 1 — Orthographic mapping is the cognitive process by which...</p></details>
+   Link:<a href="https://www.ldatschool.ca/orthographic-mapping/" target="_blank" rel="noopener noreferrer nofollow">https://www.ldatschool.ca/orthographic-mapping/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An Introduction to Orthographic Mappingby K Hipfner-Boucher · 2023 · Cited by 1 — Orthographic mapping is the cognitive process by which...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/20445911.2020.1823987" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/20445911.2020.1823987</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Eye movement](&amp;#123;&amp;#123; &#x27;eye-tradeoff/&#x27; | relative_url &amp;#125;&amp;#125;) monitoring was used to explore the time course of orthographic learning in adult skilled readers while they read novel words...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/20445911.2020.1823987" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/20445911.2020.1823987</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Eye movement](&amp;#123;&amp;#123; &#x27;eye-tradeoff/&#x27; | relative_url &amp;#125;&amp;#125;) monitoring was used to explore the time course of orthographic learning in adult skilled readers while they read novel words...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: keystoliteracy.com  
    Title: the role of orthographic mapping in learning to read  
-   Link: <a href="https://keystoliteracy.com/blog/the-role-of-orthographic-mapping-in-learning-to-read/" target="_blank" rel="noopener noreferrer nofollow">https://keystoliteracy.com/blog/the-role-of-orthographic-mapping-in-learning-to-read/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Keys to LiteracyThe Role of Orthographic Mapping in Learning to Read5 May 2020 — Through orthographic mapping, students use the oral lang...</p></details>
+   Link:<a href="https://keystoliteracy.com/blog/the-role-of-orthographic-mapping-in-learning-to-read/" target="_blank" rel="noopener noreferrer nofollow">https://keystoliteracy.com/blog/the-role-of-orthographic-mapping-in-learning-to-read/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Keys to LiteracyThe Role of Orthographic Mapping in Learning to Read5 May 2020 — Through orthographic mapping, students use the oral lang...</p></details>
    Published: May 2020  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/topics/curriculum-and-instruction/articles/findings-national-reading-panel" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/curriculum-and-instruction/articles/findings-national-reading-panel</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsFindings of the National Reading PanelRepetition and multiple exposure to vocabulary words will also assist vocabulary dev...</p></details>
+   Link:<a href="https://www.readingrockets.org/topics/curriculum-and-instruction/articles/findings-national-reading-panel" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/curriculum-and-instruction/articles/findings-national-reading-panel</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsFindings of the National Reading PanelRepetition and multiple exposure to vocabulary words will also assist vocabulary dev...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: harriettjanetos.substack.com  
-   Link: <a href="https://harriettjanetos.substack.com/p/what-was-she-thinking-linnea-ehri" target="_blank" rel="noopener noreferrer nofollow">https://harriettjanetos.substack.com/p/what-was-she-thinking-linnea-ehri</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Harriett JanetosWhat Was She Thinking: Linnea Ehri Explains...Meaning is necessary for forming sight words in memory but it isn&#x27;t necess...</p></details>
+   Link:<a href="https://harriettjanetos.substack.com/p/what-was-she-thinking-linnea-ehri" target="_blank" rel="noopener noreferrer nofollow">https://harriettjanetos.substack.com/p/what-was-she-thinking-linnea-ehri</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Harriett JanetosWhat Was She Thinking: Linnea Ehri Explains...Meaning is necessary for forming sight words in memory but it isn&#x27;t necess...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nichd.nih.gov  
-   Link: <a href="https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Panel - Reports of the Subgroups - FluencyThe effect of repeated readings on reading rate, speech pauses, and word recognition ac...</p></details>
+   Link:<a href="https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Panel - Reports of the Subgroups - FluencyThe effect of repeated readings on reading rate, speech pauses, and word recognition ac...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: www1.nichd.nih.gov  
-   Link: <a href="https://www1.nichd.nih.gov/publications/pubs/nrp/documents/report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www1.nichd.nih.gov/publications/pubs/nrp/documents/report.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Panel - Teaching Children to ReadThe National Reading Panel wishes to express its gratitude to the following individuals for thei...</p></details>
+   Link:<a href="https://www1.nichd.nih.gov/publications/pubs/nrp/documents/report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www1.nichd.nih.gov/publications/pubs/nrp/documents/report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Panel - Teaching Children to ReadThe National Reading Panel wishes to express its gratitude to the following individuals for thei...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8559868/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8559868/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>as an Independent Trait in Predicting Reading...by TC Roembke · 2021 · Cited by 28 — Automaticity should be considered an individually r...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8559868/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8559868/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>as an Independent Trait in Predicting Reading...by TC Roembke · 2021 · Cited by 28 — Automaticity should be considered an individually r...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: library.ecu.edu  
-   Link: <a href="https://library.ecu.edu/networkingsummit/wp-content/pv-uploads/sites/257/2019/07/ehri.pdf" target="_blank" rel="noopener noreferrer nofollow">https://library.ecu.edu/networkingsummit/wp-content/pv-uploads/sites/257/2019/07/ehri.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mapping in the Acquisition of Sight Word...by LC Ehri · 2014 · Cited by 1429 — An important consequence of orthographic mapping is that...</p></details>
+   Link:<a href="https://library.ecu.edu/networkingsummit/wp-content/pv-uploads/sites/257/2019/07/ehri.pdf" target="_blank" rel="noopener noreferrer nofollow">https://library.ecu.edu/networkingsummit/wp-content/pv-uploads/sites/257/2019/07/ehri.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mapping in the Acquisition of Sight Word...by LC Ehri · 2014 · Cited by 1429 — An important consequence of orthographic mapping is that...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: bornlearning.org  
    Title: Panel concluded that guided repeated [oral reading](&#123;&#123; 'reading-aloud/' | relative_url &#125;&#125;). Read more  
-   Link: <a href="https://bornlearning.org/sites/default/files/national-reading-panel-summary-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bornlearning.org/sites/default/files/national-reading-panel-summary-report.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Reading Panel - Findings and Determinations of...by E Bouchard — On the basis of a detailed analysis of the available research...</p></details>
+   Link:<a href="https://bornlearning.org/sites/default/files/national-reading-panel-summary-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bornlearning.org/sites/default/files/national-reading-panel-summary-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Reading Panel - Findings and Determinations of...by E Bouchard — On the basis of a detailed analysis of the available research...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The National Archives: HomeAccess best practice in records management and transfer, and information re-use. The National Archives. Kew, R...</p></details>
+   Link:<a href="https://www.nationalarchives.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The National Archives: HomeAccess best practice in records management and transfer, and information re-use. The National Archives. Kew, R...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: sites.pitt.edu  
-   Link: <a href="https://sites.pitt.edu/~perfetti/PDF/Ehri.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sites.pitt.edu/~perfetti/PDF/Ehri.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>pitt.edu8 Development of Sight Word Reading: Phases and FindingsThis is Ehri&#x27;s (1992) theory of sight word reading. Others too have propo...</p></details>
+   Link:<a href="https://sites.pitt.edu/~perfetti/PDF/Ehri.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sites.pitt.edu/~perfetti/PDF/Ehri.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>pitt.edu8 Development of Sight Word Reading: Phases and FindingsThis is Ehri&#x27;s (1992) theory of sight word reading. Others too have propo...</p></details>
 
 ### Additional References
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: talesfromoutsidetheclassroom.com  
-   Link: <a href="https://www.talesfromoutsidetheclassroom.com/5-pillars-of-reading/" target="_blank" rel="noopener noreferrer nofollow">https://www.talesfromoutsidetheclassroom.com/5-pillars-of-reading/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Pillars of Reading and the NRP: Getting Started with SoRThe NRP examined 38 studies on phonics instruction and concluded that systemati...</p></details>
+   Link:<a href="https://www.talesfromoutsidetheclassroom.com/5-pillars-of-reading/" target="_blank" rel="noopener noreferrer nofollow">https://www.talesfromoutsidetheclassroom.com/5-pillars-of-reading/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Pillars of Reading and the NRP: Getting Started with SoRThe NRP examined 38 studies on phonics instruction and concluded that systemati...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: shanahanonliteracy.com  
-   Link: <a href="https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Everything You Wanted to Know about Repeated ReadingRepeated reading is a particular method proposed by S. Jay Samuels to develop decodin...</p></details>
+   Link:<a href="https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Everything You Wanted to Know about Repeated ReadingRepeated reading is a particular method proposed by S. Jay Samuels to develop decodin...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: readnaturally.com  
-   Link: <a href="https://www.readnaturally.com/research/5-components-of-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.readnaturally.com/research/5-components-of-reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Five (5) Components of ReadingOur programs develop the National Reading Panel &#x27;s five (5) components of reading: phonemic awareness, phon...</p></details>
+   Link:<a href="https://www.readnaturally.com/research/5-components-of-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.readnaturally.com/research/5-components-of-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Five (5) Components of ReadingOur programs develop the National Reading Panel &#x27;s five (5) components of reading: phonemic awareness, phon...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: nationalexpress.com  
-   Link: <a href="https://www.nationalexpress.com/en" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalexpress.com/en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Express: Coach Travel &amp; Airport TransfersDirect coach travel to your terminal at Stansted Airport, no parking fees, no train cha...</p></details>
+   Link:<a href="https://www.nationalexpress.com/en" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalexpress.com/en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Express: Coach Travel &amp; Airport TransfersDirect coach travel to your terminal at Stansted Airport, no parking fees, no train cha...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: mempowered.com  
-   Link: <a href="https://www.mempowered.com/children/nrp" target="_blank" rel="noopener noreferrer nofollow">https://www.mempowered.com/children/nrp</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Research from the National Reading PanelA review of the research also found that guided repeated oral reading procedures had a significan...</p></details>
+   Link:<a href="https://www.mempowered.com/children/nrp" target="_blank" rel="noopener noreferrer nofollow">https://www.mempowered.com/children/nrp</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Research from the National Reading PanelA review of the research also found that guided repeated oral reading procedures had a significan...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: nomanis.com.au  
-   Link: <a href="https://www.nomanis.com.au/blog/single-post/sight-words-orthographic-mapping-phonemic-awareness" target="_blank" rel="noopener noreferrer nofollow">https://www.nomanis.com.au/blog/single-post/sight-words-orthographic-mapping-phonemic-awareness</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sight words, orthographic mapping, phonemic awarenessOrthographic mapping: A process which involves making explicit the connections betwe...</p></details>
+   Link:<a href="https://www.nomanis.com.au/blog/single-post/sight-words-orthographic-mapping-phonemic-awareness" target="_blank" rel="noopener noreferrer nofollow">https://www.nomanis.com.au/blog/single-post/sight-words-orthographic-mapping-phonemic-awareness</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sight words, orthographic mapping, phonemic awarenessOrthographic mapping: A process which involves making explicit the connections betwe...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: campbellcreatesreaders.com  
-   Link: <a href="https://www.campbellcreatesreaders.com/blog/nrpfluency" target="_blank" rel="noopener noreferrer nofollow">https://www.campbellcreatesreaders.com/blog/nrpfluency</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What the National Reading Panel Says About: FluencyFor the National Reading Panel, their focus was really two questions: does repeated re...</p></details>
+   Link:<a href="https://www.campbellcreatesreaders.com/blog/nrpfluency" target="_blank" rel="noopener noreferrer nofollow">https://www.campbellcreatesreaders.com/blog/nrpfluency</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What the National Reading Panel Says About: FluencyFor the National Reading Panel, their focus was really two questions: does repeated re...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: fivefromfive.com.au  
-   Link: <a href="https://fivefromfive.com.au/phonics-teaching/essential-principles-of-systematic-and-explicit-phonics-instruction/how-we-develop-orthographic-mapping/" target="_blank" rel="noopener noreferrer nofollow">https://fivefromfive.com.au/phonics-teaching/essential-principles-of-systematic-and-explicit-phonics-instruction/how-we-develop-orthographic-mapping/</a>  
+   Link:<a href="https://fivefromfive.com.au/phonics-teaching/essential-principles-of-systematic-and-explicit-phonics-instruction/how-we-develop-orthographic-mapping/" target="_blank" rel="noopener noreferrer nofollow">https://fivefromfive.com.au/phonics-teaching/essential-principles-of-systematic-and-explicit-phonics-instruction/how-we-develop-orthographic-mapping/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: literacyedventures.com  
-   Link: <a href="https://www.literacyedventures.com/blog/teaching-automatic-word-recognition" target="_blank" rel="noopener noreferrer nofollow">https://www.literacyedventures.com/blog/teaching-automatic-word-recognition</a>  
+   Link:<a href="https://www.literacyedventures.com/blog/teaching-automatic-word-recognition" target="_blank" rel="noopener noreferrer nofollow">https://www.literacyedventures.com/blog/teaching-automatic-word-recognition</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: bangor.ac.uk  
    Title: Contrary to the beliefs of some that only high- frequency or irregular words  
-   Link: <a href="https://www.bangor.ac.uk/sites/default/files/2025-12/Ehri%20%282022%29%20What%20Teachers%20Need%20to%20Know%20and%20Do%20to%20Teach%20Letter%20Sounds%20Phonemic%20Awareness%20Word.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bangor.ac.uk/sites/default/files/2025-12/Ehri%20%282022%29%20What%20Teachers%20Need%20to%20Know%20and%20Do%20to%20Teach%20Letter%20Sounds%20Phonemic%20Awareness%20Word.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sounds, Phonemic Awareness, Word Reading, and Phonicsby LC Ehri · 2022 · Cited by 197 — Orthographic mapping enables students to read wor...</p></details>
+   Link:<a href="https://www.bangor.ac.uk/sites/default/files/2025-12/Ehri%20%282022%29%20What%20Teachers%20Need%20to%20Know%20and%20Do%20to%20Teach%20Letter%20Sounds%20Phonemic%20Awareness%20Word.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bangor.ac.uk/sites/default/files/2025-12/Ehri%20%282022%29%20What%20Teachers%20Need%20to%20Know%20and%20Do%20to%20Teach%20Letter%20Sounds%20Phonemic%20Awareness%20Word.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sounds, Phonemic Awareness, Word Reading, and Phonicsby LC Ehri · 2022 · Cited by 197 — Orthographic mapping enables students to read wor...</p></details>

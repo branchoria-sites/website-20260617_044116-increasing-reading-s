@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /increasing-re-852ca6-speed-reading/
 description: Focused pages that expand on RSVP apps.
-date: '2026-06-16'
+date: '2026'
 layout: default
 parent_basename: increasing_re_852ca6_speed_reading_71e807_rsvp_apps_rea_789d44
 parent_title: RSVP apps
@@ -16,7 +16,7 @@ parent_permalink: /rsvp-apps/
 
 # Explore Topics in RSVP apps
 
-The following pages expand on the main **[RSVP apps]({{ '/rsvp-apps/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[RSVP apps]({{ '/rsvp-apps/' | relative_url }})** page and cover its key branches in.
 
 - [Rereading]({{ '/rereading-465232/' | relative_url }})
 - [Best Uses]({{ '/best-uses-546c0c/' | relative_url }})

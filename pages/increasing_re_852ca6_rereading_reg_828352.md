@@ -333,7 +333,7 @@ image: /assets/images/increasing_re_852ca6_rereading_reg_828352-overview-social.
 
 ## Introduction
 
-Looking back while reading is often treated as a bad habit. Many [speed-reading]({{ 'myths/' | relative_url }}) systems encourage readers to eliminate backward eye movements, known as regressions, on the assumption that every glance back wastes time. The research tells a more complicated story. Regressions are a normal part of skilled reading. Readers move their eyes backwards when they encounter ambiguity, detect a contradiction, realise they have missed a detail, or need to reconnect a sentence with earlier information. The real goal is not to eliminate rereading but to distinguish [useful rereading]({{ 'useful-rereading/' | relative_url }}) from unnecessary rereading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 134 — These results suggest that readers use...</span></span></span>
+Looking back while reading is often treated as a bad habit. Many [speed-reading]({{ 'myths/' | relative_url }}) systems encourage readers to eliminate backward eye movements, known as regressions, on the assumption that every glance back wastes time. The research tells a more complicated story. Regressions are a normal part of skilled reading. Readers move their eyes backwards when they encounter ambiguity, detect a contradiction, realise they have missed a detail, or need to reconnect a sentence with earlier information. The real goal is not to eliminate rereading but to distinguish [useful rereading]({{ 'useful-rereading/' | relative_url }}) from unnecessary rereading.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 134 — These results suggest that readers use...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_rereading_reg_828352-overview.webp" | relative_url }}" alt="Overview image for Rereading" loading="eager" decoding="sync" fetchpriority="high">
@@ -341,7 +341,7 @@ For anyone trying to increase reading speed, this distinction matters. Strategic
 
 ## Useful Versus Anxious Regressions
 
-Eye-tracking studies show that backward [eye movements]({{ 'eye-tradeoff/' | relative_url }}) are built into normal reading behaviour. Readers do not move through text in a perfectly straight line. Roughly 10–15% of eye movements during ordinary reading are regressions, and these become more common when material is difficult or when comprehension problems arise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.cambridge.org/97811084/15354/excerpt/9781108415354_excerpt.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.cambridge.org">[Cambridge Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.cambridge.org</span><span class="citation-popover-title">Assets Chapter 1</span><span class="citation-popover-snippet">Cambridge AssetsChapter 1 Introduction to Eye-TrackingIn reading, saccades do not always move the eye forward in a text. About 10–15 per...</span></span></span>
+Eye-tracking studies show that backward [eye movements]({{ 'eye-tradeoff/' | relative_url }}) are built into normal reading behaviour. Readers do not move through text in a perfectly straight line. Roughly 10–15% of eye movements during ordinary reading are regressions, and these become more common when material is difficult or when comprehension problems arise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.cambridge.org/97811084/15354/excerpt/9781108415354_excerpt.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.cambridge.org">[Cambridge Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.cambridge.org</span><span class="citation-popover-title">Assets Chapter 1</span><span class="citation-popover-snippet">Cambridge AssetsChapter 1 Introduction to Eye-TrackingIn reading, saccades do not always move the eye forward in a text. About 10–15 per...</span></span></span>
 
 The important question is why the regression happens.
 
@@ -358,7 +358,7 @@ A useful regression is a repair action. Examples include:
 
 </div>
 
-In these situations, looking back supports comprehension. Research suggests that regressions allow readers to reread and reprocess information rather than merely triggering memory of previously seen text. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 134 — These results suggest that readers use...</span></span></span>
+In these situations, looking back supports comprehension. Research suggests that regressions allow readers to reread and reprocess information rather than merely triggering memory of previously seen text.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 134 — These results suggest that readers use...</span></span></span>
 
 An anxious regression serves a different function. The reader understands the sentence reasonably well but rereads because of uncertainty or lack of confidence. Typical signs include:
 
@@ -378,7 +378,7 @@ This behaviour often feels productive because it creates a sense of checking. In
 <img src="{{ "/assets/images/increasing_re_852ca6_rereading_reg_828352-Illustration-1-dark.svg" | relative_url }}" alt="Rereading illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_rereading_reg_828352-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_rereading_reg_828352-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### A Practical Test
 
-Before moving your eyes back, ask: <span class="citation-chip-wrap"><a class="citation-chip" href="https://readlite.in/concepts/regressions-reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readlite.in">[readlite.in]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readlite.in</span><span class="citation-popover-snippet">These regressions aren&#x27;t mistakes — they&#x27;re essential comprehension repairs that skilled...Read more...</span></span></span>
+Before moving your eyes back, ask:<span class="citation-chip-wrap"><a class="citation-chip" href="https://readlite.in/concepts/regressions-reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readlite.in">[readlite.in]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readlite.in</span><span class="citation-popover-snippet">These regressions aren&#x27;t mistakes — they&#x27;re essential comprehension repairs that skilled...Read more...</span></span></span>
 
 **What specific information am I trying to recover?**
 
@@ -388,7 +388,7 @@ If the answer is simply "I want to feel certain", rereading may be becoming a ha
 
 ## Why Regressions Happen
 
-Reading is not just seeing words. It is continuous interpretation. Eye-movement research shows that readers slow down, make additional fixations, and increase regressions when texts become more difficult or contain inconsistencies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/abs/10.1207/s1532799xssr1003_3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineEye Movements as Reflections of Comprehension...by K Rayner · 2006 · Cited by 860 — In this article, we discuss t...</span></span></span>
+Reading is not just seeing words. It is continuous interpretation. Eye-movement research shows that readers slow down, make additional fixations, and increase regressions when texts become more difficult or contain inconsistencies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/abs/10.1207/s1532799xssr1003_3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineEye Movements as Reflections of Comprehension...by K Rayner · 2006 · Cited by 860 — In this article, we discuss t...</span></span></span>
 
 Several mechanisms commonly trigger regressions:
 
@@ -400,7 +400,7 @@ Several mechanisms commonly trigger regressions:
 
 **Attention lapses.** The eyes continue moving while attention briefly drifts elsewhere.
 
-**Task demands.** Readers behave differently when they expect to answer questions, study material, or verify details. Reading goals influence how often rereading occurs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1227301006/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[D-NB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Comprehension demands modulate re-reading, but not first...by AF Weiss · Cited by 58 — Abstract: Several studies have examined effec...</span></span></span>
+**Task demands.** Readers behave differently when they expect to answer questions, study material, or verify details. Reading goals influence how often rereading occurs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://d-nb.info/1227301006/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[D-NB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Comprehension demands modulate re-reading, but not first...by AF Weiss · Cited by 58 — Abstract: Several studies have examined effec...</span></span></span>
 
 These mechanisms explain why eliminating all regressions is unrealistic. A reader who never looks back may simply miss opportunities to repair understanding.
 
@@ -425,7 +425,7 @@ A more efficient approach is targeted recovery:
 
 </div>
 
-Research on reading interruptions shows that disruptions increase behaviours associated with rereading and recovery because readers must reconstruct context after their attention is broken. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://lead.ube.fr/wp-content/uploads/2023/09/Chevet_et_al._2022b.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lead.ube.fr">[lead.ube.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lead.ube.fr</span><span class="citation-popover-snippet">June 9, 2022 — by G Chevet · 2022 · Cited by 19 — The aim of the present study is to observe the consequences of an interruption on readi...</span><span class="citation-popover-meta">Published: June 9, 2022</span></span></span>
+Research on reading interruptions shows that disruptions increase behaviours associated with rereading and recovery because readers must reconstruct context after their attention is broken.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://lead.ube.fr/wp-content/uploads/2023/09/Chevet_et_al._2022b.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lead.ube.fr">[lead.ube.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lead.ube.fr</span><span class="citation-popover-snippet">June 9, 2022 — by G Chevet · 2022 · Cited by 19 — The aim of the present study is to observe the consequences of an interruption on readi...</span><span class="citation-popover-meta">Published: June 9, 2022</span></span></span>
 
 The key is precision. If you lost focus for [one sentence]({{ 'one-sentence/' | relative_url }}), reread one sentence. If you restart entire pages whenever concentration wavers, reading speed collapses.
 
@@ -433,7 +433,7 @@ The key is precision. If you lost focus for [one sentence]({{ 'one-sentence/' | 
 <img src="{{ "/assets/images/increasing_re_852ca6_rereading_reg_828352-Illustration-2-dark.svg" | relative_url }}" alt="Rereading illustration 2" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_rereading_reg_828352-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_rereading_reg_828352-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Reduce the Conditions That Trigger Recovery
 
-Many unnecessary regressions originate before reading begins. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/334364752_Regressions_during_Reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">PDF) Regressions during Reading</span><span class="citation-popover-snippet">May 20, 2026 — Three experiments examine the role of previously read text in sentence comprehension and the control of eye movements duri...</span><span class="citation-popover-meta">Published: May 20, 2026</span></span></span>
+Many unnecessary regressions originate before reading begins.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/334364752_Regressions_during_Reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">PDF) Regressions during Reading</span><span class="citation-popover-snippet">May 20, 2026 — Three experiments examine the role of previously read text in sentence comprehension and the control of eye movements duri...</span><span class="citation-popover-meta">Published: May 20, 2026</span></span></span>
 
 Common triggers include:
 
@@ -442,7 +442,7 @@ Common triggers include:
 
 * Frequent phone notifications.
 * Multitasking.
-* Reading while tired. <span class="citation-chip-wrap"><a class="citation-chip" href="https://readlite.in/concepts/regressions-reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readlite.in">[readlite.in]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readlite.in</span><span class="citation-popover-snippet">These regressions aren&#x27;t mistakes — they&#x27;re essential comprehension repairs that skilled...Read more...</span></span></span>
+* Reading while tired.<span class="citation-chip-wrap"><a class="citation-chip" href="https://readlite.in/concepts/regressions-reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readlite.in">[readlite.in]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readlite.in</span><span class="citation-popover-snippet">These regressions aren&#x27;t mistakes — they&#x27;re essential comprehension repairs that skilled...Read more...</span></span></span>
 * Dense material tackled without a clear purpose.
 * Trying to read faster than comprehension allows.
 
@@ -463,7 +463,7 @@ Sometimes the need to reread is evidence that the reading rate is too high for t
 
 Paradoxically, a reader who slows down at difficult passages often finishes sooner than a reader who repeatedly rushes, becomes confused, and backtracks.
 
-Eye-tracking research consistently finds that reading behaviour changes with text difficulty and comprehension demands. Skilled readers do not maintain one constant pace. They adapt. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/abs/10.1207/s1532799xssr1003_3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineEye Movements as Reflections of Comprehension...by K Rayner · 2006 · Cited by 860 — In this article, we discuss t...</span></span></span>
+Eye-tracking research consistently finds that reading behaviour changes with text difficulty and comprehension demands. Skilled readers do not maintain one constant pace. They adapt.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/abs/10.1207/s1532799xssr1003_3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineEye Movements as Reflections of Comprehension...by K Rayner · 2006 · Cited by 860 — In this article, we discuss t...</span></span></span>
 
 A useful mindset is:
 
@@ -494,7 +494,7 @@ This approach reduces the cycle of read–doubt–reread–doubt that can make r
 
 Regression is not the enemy of reading speed. Uncontrolled regression is.
 
-Research on eye movements suggests that backward glances are part of normal comprehension and often serve a genuine repair function. Readers use them when understanding requires reanalysis, clarification, or recovery after distraction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Oxford University Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 134 — These results suggest that readers use...</span></span></span>
+Research on eye movements suggests that backward glances are part of normal comprehension and often serve a genuine repair function. Readers use them when understanding requires reanalysis, clarification, or recovery after distraction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Oxford University Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 134 — These results suggest that readers use...</span></span></span>
 
 The fastest effective readers are not those who never look back. They are the readers who know why they are looking back.
 
@@ -505,162 +505,162 @@ When a regression answers a specific question, it supports comprehension. When i
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Looking Back Helps Reading. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Looking Back Helps Reading. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Directly addresses reading methods, comprehension, and when to reread for understanding.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Directly addresses reading methods, comprehension, and when to reread for understanding.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Proust and the Squid on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4940484-M.jpg" alt="Cover for Proust and the Squid" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Proust and the Squid">Proust and the Squid</a>
-        </h4>
-        <p class="fr-book-author">By Maryanne Wolf</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Proust and the Squid on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4940484-M.jpg" alt="Cover for Proust and the Squid" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Proust and the Squid">Proust and the Squid</a>
+</h4>
+<p class="fr-book-author">By Maryanne Wolf</p>
         
-        <p class="fr-book-desc">First published 2007. Subjects: Brain, Evolution, Reading history, Neurophysiology, Reading comprehension.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2007. Subjects: Brain, Evolution, Reading history, Neurophysiology, Reading comprehension.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Outsmart+Your+Brain+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Outsmart Your Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13305735-M.jpg" alt="Cover for Outsmart Your Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Outsmart+Your+Brain+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Outsmart Your Brain">Outsmart Your Brain</a>
-        </h4>
-        <p class="fr-book-author">By Daniel T. Willingham</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Outsmart+Your+Brain+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Outsmart Your Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13305735-M.jpg" alt="Cover for Outsmart Your Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Outsmart+Your+Brain+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Outsmart Your Brain">Outsmart Your Brain</a>
+</h4>
+<p class="fr-book-author">By Daniel T. Willingham</p>
         
-        <p class="fr-book-desc">First published 2022.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Outsmart+Your+Brain+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2022.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Outsmart+Your+Brain+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Reading+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading Mind on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Reading+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading Mind">Reading Mind</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Reading+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading Mind on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Reading+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading Mind">Reading Mind</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Explains the cognitive science of reading, comprehension, and attention.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Reading+Mind&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the cognitive science of reading, comprehension, and attention.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Reading+Mind&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Proust+and+the+Squid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Proust and the Squid</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Outsmart+Your+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Outsmart Your Brain</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Proust+and+the+Squid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Proust and the Squid</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Outsmart+Your+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Outsmart Your Brain</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rereading-when-looking-back-helps-reading-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="rereading-when-looking-back-helps-reading-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Under Desk Drawers Study Table Drawer Tray Pencil Storage Organizer Box Holder"><img src="{{ '/assets/images/marketplace-covers/33486c199d5fa156bbf4.jpg' | relative_url }}" alt="Listing image for Under Desk Drawers Study Table Drawer Tray Pencil Storage Organizer Box Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rereading-when-looking-back-helps-reading-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="rereading-when-looking-back-helps-reading-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Under Desk Drawers Study Table Drawer Tray Pencil Storage Organizer Box Holder</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rereading-when-looking-back-helps-reading-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="rereading-when-looking-back-helps-reading-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: study desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rereading-when-looking-back-helps-reading-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="rereading-when-looking-back-helps-reading-increasing-study-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rereading-when-looking-back-helps-reading-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="rereading-when-looking-back-helps-reading-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Under Desk Drawers Study Table Drawer Tray Pencil Storage Organizer Box Holder"><img src="{{ '/assets/images/marketplace-covers/33486c199d5fa156bbf4.jpg' | relative_url }}" alt="Listing image for Under Desk Drawers Study Table Drawer Tray Pencil Storage Organizer Box Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rereading-when-looking-back-helps-reading-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="rereading-when-looking-back-helps-reading-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Under Desk Drawers Study Table Drawer Tray Pencil Storage Organizer Box Holder</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rereading-when-looking-back-helps-reading-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="rereading-when-looking-back-helps-reading-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: study desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rereading-when-looking-back-helps-reading-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="rereading-when-looking-back-helps-reading-increasing-study-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rereading-when-looking-back-helps-reading-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="rereading-when-looking-back-helps-reading-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Office Study Desk Organizer Table Box Tidy Case Display Stationaries Pen Holder"><img src="{{ '/assets/images/marketplace-covers/5c9ca9153eac647ccfb2.jpg' | relative_url }}" alt="Listing image for Office Study Desk Organizer Table Box Tidy Case Display Stationaries Pen Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rereading-when-looking-back-helps-reading-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="rereading-when-looking-back-helps-reading-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Office Study Desk Organizer Table Box Tidy Case Display Stationaries Pen Holder</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rereading-when-looking-back-helps-reading-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="rereading-when-looking-back-helps-reading-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: study desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rereading-when-looking-back-helps-reading-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="rereading-when-looking-back-helps-reading-increasing-study-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rereading-when-looking-back-helps-reading-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="rereading-when-looking-back-helps-reading-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rereading-when-looking-back-helps-reading-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="rereading-when-looking-back-helps-reading-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Office Study Desk Organizer Table Box Tidy Case Display Stationaries Pen Holder"><img src="{{ '/assets/images/marketplace-covers/5c9ca9153eac647ccfb2.jpg' | relative_url }}" alt="Listing image for Office Study Desk Organizer Table Box Tidy Case Display Stationaries Pen Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rereading-when-looking-back-helps-reading-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="rereading-when-looking-back-helps-reading-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Office Study Desk Organizer Table Box Tidy Case Display Stationaries Pen Holder</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rereading-when-looking-back-helps-reading-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="rereading-when-looking-back-helps-reading-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: study desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rereading-when-looking-back-helps-reading-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="rereading-when-looking-back-helps-reading-increasing-study-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rereading-when-looking-back-helps-reading-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="rereading-when-looking-back-helps-reading-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -676,7 +676,7 @@ When a regression answers a specific question, it supports comprehension. When i
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -696,7 +696,7 @@ When a regression answers a specific question, it supports comprehension. When i
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -728,7 +728,7 @@ When a regression answers a specific question, it supports comprehension. When i
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -780,7 +780,7 @@ When a regression answers a specific question, it supports comprehension. When i
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -825,7 +825,7 @@ When a regression answers a specific question, it supports comprehension. When i
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -866,125 +866,125 @@ When a regression answers a specific question, it supports comprehension. When i
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: assets.cambridge.org  
    Title: Assets Chapter 1  
-   Link: <a href="https://assets.cambridge.org/97811084/15354/excerpt/9781108415354_excerpt.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.cambridge.org/97811084/15354/excerpt/9781108415354_excerpt.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge AssetsChapter 1 Introduction to Eye-TrackingIn reading, saccades do not always move the eye forward in a text. About 10–15 per...</p></details>
+   Link:<a href="https://assets.cambridge.org/97811084/15354/excerpt/9781108415354_excerpt.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.cambridge.org/97811084/15354/excerpt/9781108415354_excerpt.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge AssetsChapter 1 Introduction to Eye-TrackingIn reading, saccades do not always move the eye forward in a text. About 10–15 per...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: d-nb.info  
-   Link: <a href="https://d-nb.info/1227301006/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1227301006/34</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Comprehension demands modulate re-reading, but not first...by AF Weiss · Cited by 58 — Abstract: Several studies have examined effec...</p></details>
+   Link:<a href="https://d-nb.info/1227301006/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1227301006/34</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Comprehension demands modulate re-reading, but not first...by AF Weiss · Cited by 58 — Abstract: Several studies have examined effec...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6234076/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6234076/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>of reader- and text-level characteristics to eye...by V Kuperman · 2018 · Cited by 75 — Eye-movements during passage reading are suscept...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6234076/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6234076/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of reader- and text-level characteristics to eye...by V Kuperman · 2018 · Cited by 75 — Eye-movements during passage reading are suscept...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: lead.ube.fr  
-   Link: <a href="https://lead.ube.fr/wp-content/uploads/2023/09/Chevet_et_al._2022b.pdf" target="_blank" rel="noopener noreferrer nofollow">https://lead.ube.fr/wp-content/uploads/2023/09/Chevet_et_al._2022b.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>June 9, 2022 — by G Chevet · 2022 · Cited by 19 — The aim of the present study is to observe the consequences of an interruption on readi...</p></details>
+   Link:<a href="https://lead.ube.fr/wp-content/uploads/2023/09/Chevet_et_al._2022b.pdf" target="_blank" rel="noopener noreferrer nofollow">https://lead.ube.fr/wp-content/uploads/2023/09/Chevet_et_al._2022b.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 9, 2022 — by G Chevet · 2022 · Cited by 19 — The aim of the present study is to observe the consequences of an interruption on readi...</p></details>
    Published: June 9, 2022  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22886737/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 134 — These results suggest that readers use...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22886737/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 134 — These results suggest that readers use...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/abs/10.1207/s1532799xssr1003_3" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1207/s1532799xssr1003_3</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineEye Movements as Reflections of Comprehension...by K Rayner · 2006 · Cited by 860 — In this article, we discuss t...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/abs/10.1207/s1532799xssr1003_3" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1207/s1532799xssr1003_3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineEye Movements as Reflections of Comprehension...by K Rayner · 2006 · Cited by 860 — In this article, we discuss t...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ora.ox.ac.uk  
-   Link: <a href="https://ora.ox.ac.uk/objects/uuid%3Aa16f42e2-529d-47ae-ba51-50b75dd43899/files/rkh04dp70d" target="_blank" rel="noopener noreferrer nofollow">https://ora.ox.ac.uk/objects/uuid%3Aa16f42e2-529d-47ae-ba51-50b75dd43899/files/rkh04dp70d</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ford University Research ArchiveComprehension monitoring during reading: an eye-tracking...by AK Hessel · 2020 · Cited by 50 — We chos...</p></details>
+   Link:<a href="https://ora.ox.ac.uk/objects/uuid%3Aa16f42e2-529d-47ae-ba51-50b75dd43899/files/rkh04dp70d" target="_blank" rel="noopener noreferrer nofollow">https://ora.ox.ac.uk/objects/uuid%3Aa16f42e2-529d-47ae-ba51-50b75dd43899/files/rkh04dp70d</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ford University Research ArchiveComprehension monitoring during reading: an eye-tracking...by AK Hessel · 2020 · Cited by 50 — We chos...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6235565/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6235565/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by JR Folk · 2018 · Cited by 9 — The method described in this paper was designed to investigate the role of inhibition of return (IOR)...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6235565/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6235565/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by JR Folk · 2018 · Cited by 9 — The method described in this paper was designed to investigate the role of inhibition of return (IOR)...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2906818/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2906818/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Movements in Reading: [Models](&amp;#123;&amp;#123; &#x27;models/&#x27; | relative_url &amp;#125;&amp;#125;) and Data - PMCModels of eye movement control in reading and their impact on the field are discussed...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2906818/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2906818/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Movements in Reading: [Models](&amp;#123;&amp;#123; &#x27;models/&#x27; | relative_url &amp;#125;&amp;#125;) and Data - PMCModels of eye movement control in reading and their impact on the field are discussed...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12409514/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12409514/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the rereading effect of digital reading through eye...by Y Xu · 2025 — The goal of this study is to investigate the differences in eye m...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12409514/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12409514/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the rereading effect of digital reading through eye...by Y Xu · 2025 — The goal of this study is to investigate the differences in eye m...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
    Title: (PDF) Regressions during Reading  
-   Link: <a href="https://www.researchgate.net/publication/334364752_Regressions_during_Reading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/334364752_Regressions_during_Reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 20, 2026 — Three experiments examine the role of previously read text in sentence comprehension and the control of eye movements duri...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/334364752_Regressions_during_Reading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/334364752_Regressions_during_Reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 20, 2026 — Three experiments examine the role of previously read text in sentence comprehension and the control of eye movements duri...</p></details>
    Published: May 20, 2026  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1576247/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1576247/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Assessing the rereading effect of digital reading through...by Y Xu · 2025 — Objective: This study aimed to investigate the differences...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1576247/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1576247/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Assessing the rereading effect of digital reading through...by Y Xu · 2025 — Objective: This study aimed to investigate the differences...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/10888438.2025.2612649" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10888438.2025.2612649</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This study investigates whether the natural reading rate aligns with the rate optimal for reading comprehension.Read more...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/10888438.2025.2612649" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10888438.2025.2612649</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This study investigates whether the natural reading rate aligns with the rate optimal for reading comprehension.Read more...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5405257" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5405257</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Regressive Eye Movements in Reading Go from Easy to...by AT Lopes Rego — One prevailing hypothesis is that regressions reflect compr...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5405257" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5405257</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Regressive Eye Movements in Reading Go from Easy to...by AT Lopes Rego — One prevailing hypothesis is that regressions reflect compr...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: scirp.org  
-   Link: <a href="https://www.scirp.org/journal/paperinformation?paperid=89391" target="_blank" rel="noopener noreferrer nofollow">https://www.scirp.org/journal/paperinformation?paperid=89391</a>  
+   Link:<a href="https://www.scirp.org/journal/paperinformation?paperid=89391" target="_blank" rel="noopener noreferrer nofollow">https://www.scirp.org/journal/paperinformation?paperid=89391</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: scholarsarchive.byu.edu  
-   Link: <a href="https://scholarsarchive.byu.edu/context/facpub/article/8947/viewcontent/5._Immediate_repeated_reading_has_positive_effects_on_reading_rate_for_English_language.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scholarsarchive.byu.edu/context/facpub/article/8947/viewcontent/5._Immediate_repeated_reading_has_positive_effects_on_reading_rate_for_English_language.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Repeated Reading Has Positive Effects on...by JH Hansen · 2024 · Cited by 4 — The objective of this eye- tracking study was to accuratel...</p></details>
+   Link:<a href="https://scholarsarchive.byu.edu/context/facpub/article/8947/viewcontent/5._Immediate_repeated_reading_has_positive_effects_on_reading_rate_for_English_language.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scholarsarchive.byu.edu/context/facpub/article/8947/viewcontent/5._Immediate_repeated_reading_has_positive_effects_on_reading_rate_for_English_language.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Repeated Reading Has Positive Effects on...by JH Hansen · 2024 · Cited by 4 — The objective of this eye- tracking study was to accuratel...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: readlite.in  
-   Link: <a href="https://readlite.in/concepts/regressions-reading" target="_blank" rel="noopener noreferrer nofollow">https://readlite.in/concepts/regressions-reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These regressions aren&#x27;t mistakes — they&#x27;re essential comprehension repairs that skilled...Read more...</p></details>
+   Link:<a href="https://readlite.in/concepts/regressions-reading" target="_blank" rel="noopener noreferrer nofollow">https://readlite.in/concepts/regressions-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These regressions aren&#x27;t mistakes — they&#x27;re essential comprehension repairs that skilled...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/224967614_Reading_Speed_Comprehension_and_Eye_Movements_While_Reading_Japanese_Novels_Evidence_from_Untrained_Readers_and_Cases_of_Speed-Reading_Trainees" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/224967614_Reading_Speed_Comprehension_and_Eye_Movements_While_Reading_Japanese_Novels_Evidence_from_Untrained_Readers_and_Cases_of_Speed-Reading_Trainees</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Results revealed higher reading speed and lower comprehension scores in the trainees...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/224967614_Reading_Speed_Comprehension_and_Eye_Movements_While_Reading_Japanese_Novels_Evidence_from_Untrained_Readers_and_Cases_of_Speed-Reading_Trainees" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/224967614_Reading_Speed_Comprehension_and_Eye_Movements_While_Reading_Japanese_Novels_Evidence_from_Untrained_Readers_and_Cases_of_Speed-Reading_Trainees</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Results revealed higher reading speed and lower comprehension scores in the trainees...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: tmalsburg.github.io  
-   Link: <a href="https://tmalsburg.github.io/MeziereEtAl2021MS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tmalsburg.github.io/MeziereEtAl2021MS.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ndex online cognitive processing during reading (Rayner, Chace, Slattery, &amp;...Read more...</p></details>
+   Link:<a href="https://tmalsburg.github.io/MeziereEtAl2021MS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tmalsburg.github.io/MeziereEtAl2021MS.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ndex online cognitive processing during reading (Rayner, Chace, Slattery, &amp;...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: allgemeinepsychologie.uni-wuppertal.de  
    Title: Vorstius Radach Lonigan Silent Oral Readig VC 2014 01  
-   Link: <a href="https://allgemeinepsychologie.uni-wuppertal.de/fileadmin/psychologie/allgemeinepsychologie/Artikel/Artikel_Radach/Vorstius_Radach_Lonigan_Silent_Oral_Readig_VC_2014_01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://allgemeinepsychologie.uni-wuppertal.de/fileadmin/psychologie/allgemeinepsychologie/Artikel/Artikel_Radach/Vorstius_Radach_Lonigan_Silent_Oral_Readig_VC_2014_01.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>movements in developing readers: A comparison of silent...by C Vorstius · 2014 · Cited by 174 — We present sentence reading data from a...</p></details>
+   Link:<a href="https://allgemeinepsychologie.uni-wuppertal.de/fileadmin/psychologie/allgemeinepsychologie/Artikel/Artikel_Radach/Vorstius_Radach_Lonigan_Silent_Oral_Readig_VC_2014_01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://allgemeinepsychologie.uni-wuppertal.de/fileadmin/psychologie/allgemeinepsychologie/Artikel/Artikel_Radach/Vorstius_Radach_Lonigan_Silent_Oral_Readig_VC_2014_01.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>movements in developing readers: A comparison of silent...by C Vorstius · 2014 · Cited by 174 — We present sentence reading data from a...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: eprints.soton.ac.uk  
    Title: Rayner 2C Pollatsek 2C Drieghe 2C et al. 282007 29  
-   Link: <a href="https://eprints.soton.ac.uk/144841/1/Rayner_2C_Pollatsek_2C_Drieghe_2C_et_al._282007_29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.soton.ac.uk/144841/1/Rayner_2C_Pollatsek_2C_Drieghe_2C_et_al._282007_29.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>on Kliegl, Nuthmann, and Engbert (2006)by K Rayner · 2007 · Cited by 133 — Recently, considerable attention has been devoted to the devel...</p></details>
+   Link:<a href="https://eprints.soton.ac.uk/144841/1/Rayner_2C_Pollatsek_2C_Drieghe_2C_et_al._282007_29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.soton.ac.uk/144841/1/Rayner_2C_Pollatsek_2C_Drieghe_2C_et_al._282007_29.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on Kliegl, Nuthmann, and Engbert (2006)by K Rayner · 2007 · Cited by 133 — Recently, considerable attention has been devoted to the devel...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: researchgate.net  
    Title: The function of these "regressions" is still largely unknown.Read more  
-   Link: <a href="https://www.researchgate.net/publication/230658181_The_function_of_regressions_in_reading_Backward_eye_movements_allow_rereading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/230658181_The_function_of_regressions_in_reading_Backward_eye_movements_allow_rereading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The function of regressions in reading: Backward...Standard text reading involves frequent eye movements that go against normal re...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/230658181_The_function_of_regressions_in_reading_Backward_eye_movements_allow_rereading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/230658181_The_function_of_regressions_in_reading_Backward_eye_movements_allow_rereading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The function of regressions in reading: Backward...Standard text reading involves frequent eye movements that go against normal re...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/228625379_Eye_Movements_as_Reflections_of_Comprehension_Processes_in_Reading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228625379_Eye_Movements_as_Reflections_of_Comprehension_Processes_in_Reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Eye Movements as Reflections of Comprehension...In this article, we discuss the use of eye movement data to assess mom...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/228625379_Eye_Movements_as_Reflections_of_Comprehension_Processes_in_Reading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228625379_Eye_Movements_as_Reflections_of_Comprehension_Processes_in_Reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Eye Movements as Reflections of Comprehension...In this article, we discuss the use of eye movement data to assess mom...</p></details>

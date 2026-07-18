@@ -294,23 +294,23 @@ image: /assets/images/increasing_re_852ca6_phrase_readin_eba9de_silent_readin_c3
 
 ## Introduction
 
-Silent reading may look completely different from [reading aloud]({{ 'reading-aloud/' | relative_url }}), yet fluent readers rarely process text as a flat stream of words. Research suggests that many readers generate an internal rhythm—often called implicit prosody—that helps organise [phrases]({{ 'phrases/' | relative_url }}), signal emphasis, and guide meaning. This rhythm is not necessarily a fully audible “voice in the head”, but it often carries features associated with speech, including stress patterns, phrasing, and timing. For readers seeking greater speed, this matters because efficient reading depends not only on rapid word recognition but also on moving through sentences in meaningful chunks rather than reconstructing syntax word by word. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/259542722_Evidence_for_Prosody_in_Silent_Reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">259542722 Evidence for Prosody in Silent Reading</span><span class="citation-popover-snippet">ResearchGate(PDF) Evidence for Prosody in Silent ReadingThis Implicit Prosody (IP) Hypothesis, as originally promulgated by Fodor (1998)...</span></span></span>
+Silent reading may look completely different from [reading aloud]({{ 'reading-aloud/' | relative_url }}), yet fluent readers rarely process text as a flat stream of words. Research suggests that many readers generate an internal rhythm—often called implicit prosody—that helps organise [phrases]({{ 'phrases/' | relative_url }}), signal emphasis, and guide meaning. This rhythm is not necessarily a fully audible “voice in the head”, but it often carries features associated with speech, including stress patterns, phrasing, and timing. For readers seeking greater speed, this matters because efficient reading depends not only on rapid word recognition but also on moving through sentences in meaningful chunks rather than reconstructing syntax word by word.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/259542722_Evidence_for_Prosody_in_Silent_Reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">259542722 Evidence for Prosody in Silent Reading</span><span class="citation-popover-snippet">ResearchGate(PDF) Evidence for Prosody in Silent ReadingThis Implicit Prosody (IP) Hypothesis, as originally promulgated by Fodor (1998)...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_silent_readin_c35cd2-Illustration-1-dark.svg" | relative_url }}" alt="Inner Rhythm illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_silent_readin_c35cd2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_silent_readin_c35cd2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within phrase reading, inner rhythm acts as a coordinating mechanism. It helps readers anticipate how a sentence is structured, hold information in working memory, and maintain comprehension while moving quickly through text. When rhythm breaks down, speed can increase temporarily, but understanding often suffers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1995-8692/6/2/9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Motivation for the present study.Read more...</span></span></span>
+Within phrase reading, inner rhythm acts as a coordinating mechanism. It helps readers anticipate how a sentence is structured, hold information in working memory, and maintain comprehension while moving quickly through text. When rhythm breaks down, speed can increase temporarily, but understanding often suffers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1995-8692/6/2/9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Motivation for the present study.Read more...</span></span></span>
 
 ## Prosody beyond reading aloud
 
 Prosody is usually associated with spoken language: pauses, stress, emphasis, and intonation. For many years, researchers assumed that prosody mattered mainly when people read aloud. Evidence from silent reading has challenged that view.
 
-One influential framework, the Implicit Prosody Hypothesis, proposes that readers project a mental prosodic pattern onto written sentences. Even without producing sound, they assign phrasing and stress that help them interpret grammar and meaning. Studies using [eye-tracking]({{ 'eye-tracking/' | relative_url }}) and sentence-processing tasks have repeatedly found signs that readers behave as though they are constructing an internal speech-like structure while reading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/259542722_Evidence_for_Prosody_in_Silent_Reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">259542722 Evidence for Prosody in Silent Reading</span><span class="citation-popover-snippet">ResearchGate(PDF) Evidence for Prosody in Silent ReadingThis Implicit Prosody (IP) Hypothesis, as originally promulgated by Fodor (1998)...</span></span></span>
+One influential framework, the Implicit Prosody Hypothesis, proposes that readers project a mental prosodic pattern onto written sentences. Even without producing sound, they assign phrasing and stress that help them interpret grammar and meaning. Studies using [eye-tracking]({{ 'eye-tracking/' | relative_url }}) and sentence-processing tasks have repeatedly found signs that readers behave as though they are constructing an internal speech-like structure while reading.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/259542722_Evidence_for_Prosody_in_Silent_Reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">259542722 Evidence for Prosody in Silent Reading</span><span class="citation-popover-snippet">ResearchGate(PDF) Evidence for Prosody in Silent ReadingThis Implicit Prosody (IP) Hypothesis, as originally promulgated by Fodor (1998)...</span></span></span>
 
-The internal rhythm appears to be richer than a simple pronunciation guide. Research on skilled adult readers suggests that their inner voice can preserve expressive qualities such as emphasis and information focus. Readers often mentally stress new or important information in ways similar to natural speech. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ila.onlinelibrary.wiley.com/doi/10.1002/rrq.67" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ila.onlinelibrary.wiley.com">[ila.onlinelibrary.wiley.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ila.onlinelibrary.wiley.com</span><span class="citation-popover-title">Evidence for Prosody in Silent Reading</span><span class="citation-popover-snippet">Gross - 201418 Dec 2013 — In two studies, we sought to understand whether the inner voice of skilled, adult readers preserves the prosodi...</span></span></span>
+The internal rhythm appears to be richer than a simple pronunciation guide. Research on skilled adult readers suggests that their inner voice can preserve expressive qualities such as emphasis and information focus. Readers often mentally stress new or important information in ways similar to natural speech.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ila.onlinelibrary.wiley.com/doi/10.1002/rrq.67" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ila.onlinelibrary.wiley.com">[ila.onlinelibrary.wiley.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ila.onlinelibrary.wiley.com</span><span class="citation-popover-title">Evidence for Prosody in Silent Reading</span><span class="citation-popover-snippet">Gross - 201418 Dec 2013 — In two studies, we sought to understand whether the inner voice of skilled, adult readers preserves the prosodi...</span></span></span>
 
-Neuroscience studies provide additional support. Brain-imaging work has shown that silent reading can activate auditory and speech-related systems, particularly when text encourages vivid mental speech. Direct quotations, for example, tend to evoke stronger inner speech than indirect reporting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofcognition.org/articles/10.5334/joc.141" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofcognition.org">[Journal of Cognition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofcognition.org</span><span class="citation-popover-snippet">Journal of CognitionMental Simulations of Phonological Representations Are...by B Yao · 2021 · Cited by 18 — The findings suggest that a...</span></span></span>
+Neuroscience studies provide additional support. Brain-imaging work has shown that silent reading can activate auditory and speech-related systems, particularly when text encourages vivid mental speech. Direct quotations, for example, tend to evoke stronger inner speech than indirect reporting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofcognition.org/articles/10.5334/joc.141" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofcognition.org">[Journal of Cognition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofcognition.org</span><span class="citation-popover-snippet">Journal of CognitionMental Simulations of Phonological Representations Are...by B Yao · 2021 · Cited by 18 — The findings suggest that a...</span></span></span>
 
-Importantly, not every reader experiences inner speech in exactly the same way. Research suggests that aspects of a reader's own speaking patterns, including accent-related features, can appear in silent reading. The rhythm is therefore not a fixed recording but a personal cognitive tool shaped by language experience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3198452/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Inner Speech during Silent Reading Reflects the Reader&#x27;s...by R Filik · 2011 · Cited by 115 — The current study suggests that inner s...</span></span></span>
+Importantly, not every reader experiences inner speech in exactly the same way. Research suggests that aspects of a reader's own speaking patterns, including accent-related features, can appear in silent reading. The rhythm is therefore not a fixed recording but a personal cognitive tool shaped by language experience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3198452/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Inner Speech during Silent Reading Reflects the Reader&#x27;s...by R Filik · 2011 · Cited by 115 — The current study suggests that inner s...</span></span></span>
 
 ## How rhythm supports syntax and memory
 
@@ -327,21 +327,21 @@ A fluent reader rarely treats this as a sequence of isolated words. Instead, the
 
 ### Rhythm as a guide to sentence structure
 
-Research on syntactic ambiguity shows that readers often rely on implicit prosody when deciding how a sentence should be parsed. Eye-tracking studies indicate that imagined phrasing influences where readers hesitate, reread, or become confused. In effect, the inner rhythm acts like punctuation that helps organise meaning before conscious analysis catches up. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1995-8692/6/2/9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Motivation for the present study.Read more...</span></span></span>
+Research on syntactic ambiguity shows that readers often rely on implicit prosody when deciding how a sentence should be parsed. Eye-tracking studies indicate that imagined phrasing influences where readers hesitate, reread, or become confused. In effect, the inner rhythm acts like punctuation that helps organise meaning before conscious analysis catches up.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1995-8692/6/2/9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Motivation for the present study.Read more...</span></span></span>
 
 This is particularly important because written language often contains structures that are difficult to interpret without grouping. Readers who can quickly assign phrase boundaries expend less effort reconstructing syntax and can devote more attention to comprehension.
 
 ### Rhythm as a memory aid
 
-Inner rhythm also supports working memory. Meaningful phrase groupings allow readers to retain larger chunks of information instead of juggling many separate words. Cognitive theories of phonological coding suggest that written language is frequently recoded into sound-related representations, helping readers maintain information while integrating it with later parts of the sentence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPhonological coding during reading</span><span class="citation-popover-snippet">NIHby M Leinenger · 2014 · Cited by 165 — This inner voice is a subjective manifestation of phonological coding, the recoding of or...</span></span></span>
+Inner rhythm also supports working memory. Meaningful phrase groupings allow readers to retain larger chunks of information instead of juggling many separate words. Cognitive theories of phonological coding suggest that written language is frequently recoded into sound-related representations, helping readers maintain information while integrating it with later parts of the sentence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPhonological coding during reading</span><span class="citation-popover-snippet">NIHby M Leinenger · 2014 · Cited by 165 — This inner voice is a subjective manifestation of phonological coding, the recoding of or...</span></span></span>
 
 The benefit resembles how a phone number becomes easier to remember when grouped into sections. The reader is not memorising every word independently; the rhythmic structure creates larger, more manageable units.
 
 ### Evidence from eye movements
 
-Eye-tracking research provides a useful window into these processes. Studies have found that prosodic features such as lexical stress influence fixation patterns during silent reading. Readers do not simply recognise visual letter strings. Their [eye movements]({{ 'eye-tradeoff/' | relative_url }}) suggest sensitivity to speech-related patterns that contribute to fluent processing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1479854/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">We asked whether lexical stress registers in the eye...Read more...</span></span></span>
+Eye-tracking research provides a useful window into these processes. Studies have found that prosodic features such as lexical stress influence fixation patterns during silent reading. Readers do not simply recognise visual letter strings. Their [eye movements]({{ 'eye-tradeoff/' | relative_url }}) suggest sensitivity to speech-related patterns that contribute to fluent processing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1479854/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">We asked whether lexical stress registers in the eye...Read more...</span></span></span>
 
-Recent work has continued to find links between stress patterns and reading behaviour, reinforcing the view that silent reading contains more rhythmic structure than a purely visual account would predict. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1995-8692/18/3/24" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">This is...Read more...</span></span></span>
+Recent work has continued to find links between stress patterns and reading behaviour, reinforcing the view that silent reading contains more rhythmic structure than a purely visual account would predict.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1995-8692/18/3/24" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">This is...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_silent_readin_c35cd2-Illustration-2-dark.svg" | relative_url }}" alt="Inner Rhythm illustration 2" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_silent_readin_c35cd2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_silent_readin_c35cd2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -351,11 +351,11 @@ Popular [speed-reading]({{ 'myths/' | relative_url }}) advice often presents the
 
 The evidence is more complicated.
 
-Research on phonological coding indicates that sound-related representations remain deeply involved in skilled reading. While readers do not necessarily rehearse every syllable with full spoken detail, they often retain enough phonological and prosodic information to support comprehension. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPhonological coding during reading</span><span class="citation-popover-snippet">NIHby M Leinenger · 2014 · Cited by 165 — This inner voice is a subjective manifestation of phonological coding, the recoding of or...</span></span></span>
+Research on phonological coding indicates that sound-related representations remain deeply involved in skilled reading. While readers do not necessarily rehearse every syllable with full spoken detail, they often retain enough phonological and prosodic information to support comprehension.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPhonological coding during reading</span><span class="citation-popover-snippet">NIHby M Leinenger · 2014 · Cited by 165 — This inner voice is a subjective manifestation of phonological coding, the recoding of or...</span></span></span>
 
-Studies examining inner speech suggest that it becomes especially active when readers must understand, remember, or interpret text carefully. When attention and comprehension demands increase, inner-voice activity tends to increase rather than disappear. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6621680/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHow Silent Is Silent Reading?</span><span class="citation-popover-snippet">Intracerebral Evidence for Top...by M Perrone-Bertolotti · 2012 · Cited by 182 — Sustained inner voice activation is not an automatic pr...</span></span></span>
+Studies examining inner speech suggest that it becomes especially active when readers must understand, remember, or interpret text carefully. When attention and comprehension demands increase, inner-voice activity tends to increase rather than disappear.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6621680/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHow Silent Is Silent Reading?</span><span class="citation-popover-snippet">Intracerebral Evidence for Top...by M Perrone-Bertolotti · 2012 · Cited by 182 — Sustained inner voice activation is not an automatic pr...</span></span></span>
 
-This helps explain why many readers can skim simple material rapidly but still rely on a stronger inner rhythm when reading literature, academic writing, legal documents, or complex arguments. The cognitive system appears to adjust the richness of internal speech according to task demands rather than switching it off entirely. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6621680/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHow Silent Is Silent Reading?</span><span class="citation-popover-snippet">Intracerebral Evidence for Top...by M Perrone-Bertolotti · 2012 · Cited by 182 — Sustained inner voice activation is not an automatic pr...</span></span></span>
+This helps explain why many readers can skim simple material rapidly but still rely on a stronger inner rhythm when reading literature, academic writing, legal documents, or complex arguments. The cognitive system appears to adjust the richness of internal speech according to task demands rather than switching it off entirely.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6621680/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHow Silent Is Silent Reading?</span><span class="citation-popover-snippet">Intracerebral Evidence for Top...by M Perrone-Bertolotti · 2012 · Cited by 182 — Sustained inner voice activation is not an automatic pr...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/95otBlepVHc" title="The Science of the Voices in your Head – with Charles Fernyhough" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=95otBlepVHc" target="_blank" rel="noopener noreferrer">The Science of the Voices in your Head – with Charles Fernyhough</a></p><p class="youtube-embed-meta">Channel: The Royal Institution</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=95otBlepVHc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=95otBlepVHc">Open on YouTube</a></p></div></div></div>
@@ -379,7 +379,7 @@ Several [warning signs]({{ 'warning-signs/' | relative_url }}) suggest that read
 
 In these situations, the problem is often not insufficient speed but insufficient phrasing. The reader's eyes may be moving forward while the underlying syntactic and semantic structure is failing to form coherently.
 
-Research on fluency consistently treats prosody as part of skilled reading rather than an optional extra. Accuracy, rate, and prosodic organisation work together. Improvements in speed are most durable when they occur alongside smoother phrase processing, not in opposition to it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fivefromfive.com.au/fluency/components-of-fluency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fivefromfive.com.au">[Five from Five+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fivefromfive.com.au</span><span class="citation-popover-snippet">Five from FiveComponents of fluencyText or passage reading fluency is generally defined as having three components: accuracy, rate, and p...</span></span></span>
+Research on fluency consistently treats prosody as part of skilled reading rather than an optional extra. Accuracy, rate, and prosodic organisation work together. Improvements in speed are most durable when they occur alongside smoother phrase processing, not in opposition to it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fivefromfive.com.au/fluency/components-of-fluency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fivefromfive.com.au">[Five from Five+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fivefromfive.com.au</span><span class="citation-popover-snippet">Five from FiveComponents of fluencyText or passage reading fluency is generally defined as having three components: accuracy, rate, and p...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_silent_readin_c35cd2-Illustration-3-dark.svg" | relative_url }}" alt="Inner Rhythm illustration 3" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_silent_readin_c35cd2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_silent_readin_c35cd2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -387,181 +387,181 @@ Research on fluency consistently treats prosody as part of skilled reading rathe
 
 For readers working on speed, the key lesson is that fluent silent reading is not silent in a cognitive sense. Skilled readers often maintain an abbreviated but meaningful internal rhythm that tracks phrase boundaries, highlights important information, and supports memory.
 
-The goal is therefore not to eliminate rhythm but to make it more efficient. As word recognition becomes automatic, the reader can devote less attention to individual words and more attention to larger phrase units. The inner rhythm becomes lighter and faster while still preserving the structure needed for comprehension. Research on silent reading suggests that this balance—rapid visual processing combined with useful prosodic organisation—is a hallmark of fluent reading rather than a barrier to it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/259542722_Evidence_for_Prosody_in_Silent_Reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">259542722 Evidence for Prosody in Silent Reading</span><span class="citation-popover-snippet">ResearchGate(PDF) Evidence for Prosody in Silent ReadingThis Implicit Prosody (IP) Hypothesis, as originally promulgated by Fodor (1998)...</span></span></span>
+The goal is therefore not to eliminate rhythm but to make it more efficient. As word recognition becomes automatic, the reader can devote less attention to individual words and more attention to larger phrase units. The inner rhythm becomes lighter and faster while still preserving the structure needed for comprehension. Research on silent reading suggests that this balance—rapid visual processing combined with useful prosodic organisation—is a hallmark of fluent reading rather than a barrier to it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/259542722_Evidence_for_Prosody_in_Silent_Reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">259542722 Evidence for Prosody in Silent Reading</span><span class="citation-popover-snippet">ResearchGate(PDF) Evidence for Prosody in Silent ReadingThis Implicit Prosody (IP) Hypothesis, as originally promulgated by Fodor (1998)...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why silent reading still has rhythm. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why silent reading still has rhythm. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Focuses on reading for understanding and retention, aligning with themes of syntax, meaning, and thoughtful engagement with text.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Focuses on reading for understanding and retention, aligning with themes of syntax, meaning, and thoughtful engagement with text.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Shallows+by+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Shallows on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1KayoVl3OTMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Shallows" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Shallows+by+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Shallows">The Shallows</a>
-        </h4>
-        <p class="fr-book-author">By Nicholas Carr</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Shallows+by+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Shallows on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1KayoVl3OTMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Shallows" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Shallows+by+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Shallows">The Shallows</a>
+</h4>
+<p class="fr-book-author">By Nicholas Carr</p>
         
-        <p class="fr-book-desc">Provides useful context for discussions of reading speed, attention, and the potential costs of sacrificing deep comprehension for faster...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Shallows+by+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides useful context for discussions of reading speed, attention, and the potential costs of sacrificing deep comprehension for faster...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Shallows+by+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Proust+and+the+squid+%3A+the+story+and+science+of+the+reading+brain+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Proust and the squid : the story and science of the reading brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6370342-M.jpg" alt="Cover for Proust and the squid : the story and science of the reading brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Proust+and+the+squid+%3A+the+story+and+science+of+the+reading+brain+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Proust and the squid : the story and science of the reading brain">Proust and the squid : the story and science of the reading b...</a>
-        </h4>
-        <p class="fr-book-author">By Maryanne Wolf</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Proust+and+the+squid+%3A+the+story+and+science+of+the+reading+brain+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Proust and the squid : the story and science of the reading brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6370342-M.jpg" alt="Cover for Proust and the squid : the story and science of the reading brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Proust+and+the+squid+%3A+the+story+and+science+of+the+reading+brain+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Proust and the squid : the story and science of the reading brain">Proust and the squid : the story and science of the reading b...</a>
+</h4>
+<p class="fr-book-author">By Maryanne Wolf</p>
         
-        <p class="fr-book-desc">First published 2008. Subjects: Brain, Evolution, Neurophysiology, Reading comprehension, Reading.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Proust+and+the+squid+%3A+the+story+and+science+of+the+reading+brain+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2008. Subjects: Brain, Evolution, Neurophysiology, Reading comprehension, Reading.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Proust+and+the+squid+%3A+the+story+and+science+of+the+reading+brain+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Reader%2C+Come+Home+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reader, Come Home on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10170090-M.jpg" alt="Cover for Reader, Come Home" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Reader%2C+Come+Home+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reader, Come Home">Reader, Come Home</a>
-        </h4>
-        <p class="fr-book-author">By Maryanne Wolf</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Reader%2C+Come+Home+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reader, Come Home on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10170090-M.jpg" alt="Cover for Reader, Come Home" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Reader%2C+Come+Home+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reader, Come Home">Reader, Come Home</a>
+</h4>
+<p class="fr-book-author">By Maryanne Wolf</p>
         
-        <p class="fr-book-desc">First published 2018. Subjects: Books and reading, Technological innovations, Psychology of Reading, Psychological aspects, Reading compr...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Reader%2C+Come+Home+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2018. Subjects: Books and reading, Technological innovations, Psychology of Reading, Psychological aspects, Reading compr...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Reader%2C+Come+Home+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Shallows&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Shallows</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Proust+and+the+squid+%3A+the+story+and+science+of+the+reading+brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Proust and the squid : the story and science of the reading brain</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Shallows&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Shallows</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Proust+and+the+squid+%3A+the+story+and+science+of+the+reading+brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Proust and the squid : the story and science of the reading brain</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=library+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-rhythm-why-silent-reading-still-has-rhythm-increasing-library-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="library poster -book -books" data-ebay-reference="inner-rhythm-why-silent-reading-still-has-rhythm-increasing-library-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 📚 Vintage Library Poster – Mid-Century Reading Room Illustration (A4 / A3 / A3+"><img src="{{ '/assets/images/marketplace-covers/3196782f725ec8cc3e4a.jpg' | relative_url }}" alt="Listing image for 📚 Vintage Library Poster – Mid-Century Reading Room Illustration (A4 / A3 / A3+" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=library+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-rhythm-why-silent-reading-still-has-rhythm-increasing-library-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="library poster -book -books" data-ebay-reference="inner-rhythm-why-silent-reading-still-has-rhythm-increasing-library-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">📚 Vintage Library Poster – Mid-Century Reading Room Illustration (A4 / A3 / A3+</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=library+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-rhythm-why-silent-reading-still-has-rhythm-increasing-library-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="library poster -book -books" data-ebay-reference="inner-rhythm-why-silent-reading-still-has-rhythm-increasing-library-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for library poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: library poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=library+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-rhythm-why-silent-reading-still-has-rhythm-increasing-library-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="library poster -book -books" data-ebay-reference="inner-rhythm-why-silent-reading-still-has-rhythm-increasing-library-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=library+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-rhythm-why-silent-reading-still-has-rhythm-increasing-library-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="library poster -book -books" data-ebay-reference="inner-rhythm-why-silent-reading-still-has-rhythm-increasing-library-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 📚 Vintage Library Poster – Mid-Century Reading Room Illustration (A4 / A3 / A3+"><img src="{{ '/assets/images/marketplace-covers/3196782f725ec8cc3e4a.jpg' | relative_url }}" alt="Listing image for 📚 Vintage Library Poster – Mid-Century Reading Room Illustration (A4 / A3 / A3+" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=library+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-rhythm-why-silent-reading-still-has-rhythm-increasing-library-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="library poster -book -books" data-ebay-reference="inner-rhythm-why-silent-reading-still-has-rhythm-increasing-library-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">📚 Vintage Library Poster – Mid-Century Reading Room Illustration (A4 / A3 / A3+</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=library+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-rhythm-why-silent-reading-still-has-rhythm-increasing-library-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="library poster -book -books" data-ebay-reference="inner-rhythm-why-silent-reading-still-has-rhythm-increasing-library-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for library poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: library poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=library+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-rhythm-why-silent-reading-still-has-rhythm-increasing-library-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="library poster -book -books" data-ebay-reference="inner-rhythm-why-silent-reading-still-has-rhythm-increasing-library-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=library+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-rhythm-why-silent-reading-still-has-rhythm-increasing-library-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="library poster -book -books" data-ebay-reference="inner-rhythm-why-silent-reading-still-has-rhythm-increasing-library-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Library Beneath the Ocean Fantasy Underwater Poster Print Framed Canvas Art"><img src="{{ '/assets/images/marketplace-covers/ac670647852f87ef9620.jpg' | relative_url }}" alt="Listing image for The Library Beneath the Ocean Fantasy Underwater Poster Print Framed Canvas Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=library+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-rhythm-why-silent-reading-still-has-rhythm-increasing-library-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="library poster -book -books" data-ebay-reference="inner-rhythm-why-silent-reading-still-has-rhythm-increasing-library-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">The Library Beneath the Ocean Fantasy Underwater Poster Print Framed Canvas Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=library+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-rhythm-why-silent-reading-still-has-rhythm-increasing-library-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="library poster -book -books" data-ebay-reference="inner-rhythm-why-silent-reading-still-has-rhythm-increasing-library-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for library poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: library poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=library+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-rhythm-why-silent-reading-still-has-rhythm-increasing-library-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="library poster -book -books" data-ebay-reference="inner-rhythm-why-silent-reading-still-has-rhythm-increasing-library-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=library+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-rhythm-why-silent-reading-still-has-rhythm-increasing-library-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="library poster -book -books" data-ebay-reference="inner-rhythm-why-silent-reading-still-has-rhythm-increasing-library-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Library Beneath the Ocean Fantasy Underwater Poster Print Framed Canvas Art"><img src="{{ '/assets/images/marketplace-covers/ac670647852f87ef9620.jpg' | relative_url }}" alt="Listing image for The Library Beneath the Ocean Fantasy Underwater Poster Print Framed Canvas Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=library+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-rhythm-why-silent-reading-still-has-rhythm-increasing-library-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="library poster -book -books" data-ebay-reference="inner-rhythm-why-silent-reading-still-has-rhythm-increasing-library-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">The Library Beneath the Ocean Fantasy Underwater Poster Print Framed Canvas Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=library+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-rhythm-why-silent-reading-still-has-rhythm-increasing-library-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="library poster -book -books" data-ebay-reference="inner-rhythm-why-silent-reading-still-has-rhythm-increasing-library-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for library poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: library poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=library+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-rhythm-why-silent-reading-still-has-rhythm-increasing-library-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="library poster -book -books" data-ebay-reference="inner-rhythm-why-silent-reading-still-has-rhythm-increasing-library-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=library+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-rhythm-why-silent-reading-still-has-rhythm-increasing-library-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="library poster -book -books" data-ebay-reference="inner-rhythm-why-silent-reading-still-has-rhythm-increasing-library-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Library Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/017378df1decea321d03.jpg' | relative_url }}" alt="Listing image for Library Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=library+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-rhythm-why-silent-reading-still-has-rhythm-increasing-library-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="library poster -book -books" data-ebay-reference="inner-rhythm-why-silent-reading-still-has-rhythm-increasing-library-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Library Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=library+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-rhythm-why-silent-reading-still-has-rhythm-increasing-library-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="library poster -book -books" data-ebay-reference="inner-rhythm-why-silent-reading-still-has-rhythm-increasing-library-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for library poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: library poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=library+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-rhythm-why-silent-reading-still-has-rhythm-increasing-library-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="library poster -book -books" data-ebay-reference="inner-rhythm-why-silent-reading-still-has-rhythm-increasing-library-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=library+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-rhythm-why-silent-reading-still-has-rhythm-increasing-library-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="library poster -book -books" data-ebay-reference="inner-rhythm-why-silent-reading-still-has-rhythm-increasing-library-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=library+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-rhythm-why-silent-reading-still-has-rhythm-increasing-library-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="library poster -book -books" data-ebay-reference="inner-rhythm-why-silent-reading-still-has-rhythm-increasing-library-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Library Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/017378df1decea321d03.jpg' | relative_url }}" alt="Listing image for Library Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=library+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-rhythm-why-silent-reading-still-has-rhythm-increasing-library-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="library poster -book -books" data-ebay-reference="inner-rhythm-why-silent-reading-still-has-rhythm-increasing-library-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Library Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=library+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-rhythm-why-silent-reading-still-has-rhythm-increasing-library-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="library poster -book -books" data-ebay-reference="inner-rhythm-why-silent-reading-still-has-rhythm-increasing-library-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for library poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: library poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=library+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-rhythm-why-silent-reading-still-has-rhythm-increasing-library-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="library poster -book -books" data-ebay-reference="inner-rhythm-why-silent-reading-still-has-rhythm-increasing-library-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=library+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inner-rhythm-why-silent-reading-still-has-rhythm-increasing-library-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="library poster -book -books" data-ebay-reference="inner-rhythm-why-silent-reading-still-has-rhythm-increasing-library-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -577,7 +577,7 @@ The goal is therefore not to eliminate rhythm but to make it more efficient. As 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -597,7 +597,7 @@ The goal is therefore not to eliminate rhythm but to make it more efficient. As 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -629,7 +629,7 @@ The goal is therefore not to eliminate rhythm but to make it more efficient. As 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -681,7 +681,7 @@ The goal is therefore not to eliminate rhythm but to make it more efficient. As 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -726,7 +726,7 @@ The goal is therefore not to eliminate rhythm but to make it more efficient. As 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -767,183 +767,183 @@ The goal is therefore not to eliminate rhythm but to make it more efficient. As 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: researchgate.net  
    Title: 259542722 Evidence for Prosody in Silent Reading  
-   Link: <a href="https://www.researchgate.net/publication/259542722_Evidence_for_Prosody_in_Silent_Reading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/259542722_Evidence_for_Prosody_in_Silent_Reading</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Evidence for Prosody in Silent ReadingThis Implicit Prosody (IP) Hypothesis, as originally promulgated by Fodor (1998)...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/259542722_Evidence_for_Prosody_in_Silent_Reading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/259542722_Evidence_for_Prosody_in_Silent_Reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Evidence for Prosody in Silent ReadingThis Implicit Prosody (IP) Hypothesis, as originally promulgated by Fodor (1998)...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCPhonological coding during reading  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby M Leinenger · 2014 · Cited by 165 — This inner voice is a subjective manifestation of phonological coding, the recoding of or...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby M Leinenger · 2014 · Cited by 165 — This inner voice is a subjective manifestation of phonological coding, the recoding of or...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/1995-8692/6/2/9" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1995-8692/6/2/9</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Motivation for the present study.Read more...</p></details>
+   Link:<a href="https://www.mdpi.com/1995-8692/6/2/9" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1995-8692/6/2/9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Motivation for the present study.Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCHow Silent Is Silent Reading?  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6621680/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6621680/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Intracerebral Evidence for Top...by M Perrone-Bertolotti · 2012 · Cited by 182 — Sustained inner voice activation is not an automatic pr...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6621680/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6621680/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Intracerebral Evidence for Top...by M Perrone-Bertolotti · 2012 · Cited by 182 — Sustained inner voice activation is not an automatic pr...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ila.onlinelibrary.wiley.com  
    Title: Evidence for Prosody in Silent Reading  
-   Link: <a href="https://ila.onlinelibrary.wiley.com/doi/10.1002/rrq.67" target="_blank" rel="noopener noreferrer nofollow">https://ila.onlinelibrary.wiley.com/doi/10.1002/rrq.67</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gross - 201418 Dec 2013 — In two studies, we sought to understand whether the inner voice of skilled, adult readers preserves the prosodi...</p></details>
+   Link:<a href="https://ila.onlinelibrary.wiley.com/doi/10.1002/rrq.67" target="_blank" rel="noopener noreferrer nofollow">https://ila.onlinelibrary.wiley.com/doi/10.1002/rrq.67</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gross - 201418 Dec 2013 — In two studies, we sought to understand whether the inner voice of skilled, adult readers preserves the prosodi...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ila.onlinelibrary.wiley.com  
    Title: Evidence for Prosody in Silent Reading  
-   Link: <a href="https://ila.onlinelibrary.wiley.com/doi/abs/10.1002/rrq.67" target="_blank" rel="noopener noreferrer nofollow">https://ila.onlinelibrary.wiley.com/doi/abs/10.1002/rrq.67</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Because the inner voice cannot be directly observed, we borrowed the cap-emphasis...Read more...</p></details>
+   Link:<a href="https://ila.onlinelibrary.wiley.com/doi/abs/10.1002/rrq.67" target="_blank" rel="noopener noreferrer nofollow">https://ila.onlinelibrary.wiley.com/doi/abs/10.1002/rrq.67</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Because the inner voice cannot be directly observed, we borrowed the cap-emphasis...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCMental Simulations of Phonological Representations  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7792465/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7792465/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by B Yao · 2021 · Cited by 18 — The findings suggest that a more vivid inner speech is mentally activated during silent reading of dir...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7792465/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7792465/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by B Yao · 2021 · Cited by 18 — The findings suggest that a more vivid inner speech is mentally activated during silent reading of dir...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3198452/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3198452/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Inner Speech during Silent Reading Reflects the Reader&#x27;s...by R Filik · 2011 · Cited by 115 — The current study suggests that inner s...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3198452/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3198452/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inner Speech during Silent Reading Reflects the Reader&#x27;s...by R Filik · 2011 · Cited by 115 — The current study suggests that inner s...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCInner Speech: Development, Cognitive Functions  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4538954/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4538954/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by B Alderson-Day · 2015 · Cited by 1167 — Inner speech—also known as covert speech or verbal thinking—has been implicated in theories...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4538954/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4538954/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by B Alderson-Day · 2015 · Cited by 1167 — Inner speech—also known as covert speech or verbal thinking—has been implicated in theories...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1479854/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC1479854/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We asked whether lexical stress registers in the eye...Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1479854/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC1479854/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We asked whether lexical stress registers in the eye...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/228404042_Prosody_in_skilled_silent_reading_Evidence_from_eye_movements" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228404042_Prosody_in_skilled_silent_reading_Evidence_from_eye_movements</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Prosody in skilled silent reading: Evidence from eye...Recent eye movement experiments offer preliminary evidence that skilled readers a...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/228404042_Prosody_in_skilled_silent_reading_Evidence_from_eye_movements" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228404042_Prosody_in_skilled_silent_reading_Evidence_from_eye_movements</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Prosody in skilled silent reading: Evidence from eye...Recent eye movement experiments offer preliminary evidence that skilled readers a...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/1995-8692/18/3/24" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1995-8692/18/3/24</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This is...Read more...</p></details>
+   Link:<a href="https://www.mdpi.com/1995-8692/18/3/24" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1995-8692/18/3/24</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This is...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCBecoming a Fluent Reader: Reading Skill and Prosodic  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2748352/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2748352/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by PJ Schwanenflugel · 2004 · Cited by 731 — The major [purpose](&amp;#123;&amp;#123; &#x27;purpose/&#x27; | relative_url &amp;#125;&amp;#125;) of the study was to learn how reading prosody is related to decoding an...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2748352/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2748352/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by PJ Schwanenflugel · 2004 · Cited by 731 — The major [purpose](&amp;#123;&amp;#123; &#x27;purpose/&#x27; | relative_url &amp;#125;&amp;#125;) of the study was to learn how reading prosody is related to decoding an...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/384201631_Inner_Speech_and_Speed_Reading_An_Analysis_of_Written_Texts_Internalization" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/384201631_Inner_Speech_and_Speed_Reading_An_Analysis_of_Written_Texts_Internalization</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a series of inner speech uses such as subvocalization, literal translation...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/384201631_Inner_Speech_and_Speed_Reading_An_Analysis_of_Written_Texts_Internalization" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/384201631_Inner_Speech_and_Speed_Reading_An_Analysis_of_Written_Texts_Internalization</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a series of inner speech uses such as subvocalization, literal translation...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/368145969_Effects_of_Reading_Aloud_and_Subvocalization_on_Text_Comprehension_and_Eye_Movementsyinshenghuatoneishenghuagawenzhangnolijieyayanqiuyundongnijibosuyingxiang" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/368145969_Effects_of_Reading_Aloud_and_Subvocalization_on_Text_Comprehension_and_Eye_Movementsyinshenghuatoneishenghuagawenzhangnolijieyayanqiuyundongnijibosuyingxiang</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>omprehension and eye movements, and also effects of type of subvocalization.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/368145969_Effects_of_Reading_Aloud_and_Subvocalization_on_Text_Comprehension_and_Eye_Movementsyinshenghuatoneishenghuagawenzhangnolijieyayanqiuyundongnijibosuyingxiang" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/368145969_Effects_of_Reading_Aloud_and_Subvocalization_on_Text_Comprehension_and_Eye_Movementsyinshenghuatoneishenghuagawenzhangnolijieyayanqiuyundongnijibosuyingxiang</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>omprehension and eye movements, and also effects of type of subvocalization.Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: researchgate.net  
    Title: (PDF) Inner Prosody In Silent Poetry Reading  
-   Link: <a href="https://www.researchgate.net/publication/400757425_Inner_Prosody_In_Silent_Poetry_Reading_The_Role_of_Subvocalisation_and_Imagined_Voice" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400757425_Inner_Prosody_In_Silent_Poetry_Reading_The_Role_of_Subvocalisation_and_Imagined_Voice</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Role of...13 Feb 2026 — The article explores the phenomenon of inner prosody during silent poem reading, focusing on the role of sub...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/400757425_Inner_Prosody_In_Silent_Poetry_Reading_The_Role_of_Subvocalisation_and_Imagined_Voice" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400757425_Inner_Prosody_In_Silent_Poetry_Reading_The_Role_of_Subvocalisation_and_Imagined_Voice</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Role of...13 Feb 2026 — The article explores the phenomenon of inner prosody during silent poem reading, focusing on the role of sub...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/figure/Prosody-and-Silent-Reading-Comprehension-Scores_tbl2_264635890" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Prosody-and-Silent-Reading-Comprehension-Scores_tbl2_264635890</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Prosody and Silent Reading Comprehension ScoresThe relationship between fluency and comprehension is most likely reciprocal: students&#x27; co...</p></details>
+   Link:<a href="https://www.researchgate.net/figure/Prosody-and-Silent-Reading-Comprehension-Scores_tbl2_264635890" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Prosody-and-Silent-Reading-Comprehension-Scores_tbl2_264635890</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Prosody and Silent Reading Comprehension ScoresThe relationship between fluency and comprehension is most likely reciprocal: students&#x27; co...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: journalofcognition.org  
-   Link: <a href="https://journalofcognition.org/articles/10.5334/joc.141" target="_blank" rel="noopener noreferrer nofollow">https://journalofcognition.org/articles/10.5334/joc.141</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of CognitionMental Simulations of Phonological Representations Are...by B Yao · 2021 · Cited by 18 — The findings suggest that a...</p></details>
+   Link:<a href="https://journalofcognition.org/articles/10.5334/joc.141" target="_blank" rel="noopener noreferrer nofollow">https://journalofcognition.org/articles/10.5334/joc.141</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of CognitionMental Simulations of Phonological Representations Are...by B Yao · 2021 · Cited by 18 — The findings suggest that a...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: fivefromfive.com.au  
-   Link: <a href="https://fivefromfive.com.au/fluency/components-of-fluency/" target="_blank" rel="noopener noreferrer nofollow">https://fivefromfive.com.au/fluency/components-of-fluency/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Five from FiveComponents of fluencyText or passage reading fluency is generally defined as having three components: accuracy, rate, and p...</p></details>
+   Link:<a href="https://fivefromfive.com.au/fluency/components-of-fluency/" target="_blank" rel="noopener noreferrer nofollow">https://fivefromfive.com.au/fluency/components-of-fluency/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Five from FiveComponents of fluencyText or passage reading fluency is generally defined as having three components: accuracy, rate, and p...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8557949/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8557949/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>subvocalization: An eye-tracking study on silent...by J Beck · 2021 · Cited by 22 — The present study investigates effects of convention...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8557949/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8557949/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>subvocalization: An eye-tracking study on silent...by J Beck · 2021 · Cited by 22 — The present study investigates effects of convention...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4782161/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4782161/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by G Kentner · 2016 · Cited by 46 — We argue that reading comprehension requires the (implicit) assignment of accents according to the...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4782161/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4782161/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by G Kentner · 2016 · Cited by 46 — We argue that reading comprehension requires the (implicit) assignment of accents according to the...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12194486/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12194486/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Prosodic Structure of Texts Reflected in Silent Reading...by M Palmović · 2025 — This study provides indirect evidence in favour of...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12194486/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12194486/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Prosodic Structure of Texts Reflected in Silent Reading...by M Palmović · 2025 — This study provides indirect evidence in favour of...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: howjournalcolombia.org  
-   Link: <a href="https://www.howjournalcolombia.org/index.php/how/article/view/791" target="_blank" rel="noopener noreferrer nofollow">https://www.howjournalcolombia.org/index.php/how/article/view/791</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inner Speech and Speed Reading: An Analysis of Written...by FLG Cobo · 2024 · Cited by 2 — Silent reading frequently entails engaging th...</p></details>
+   Link:<a href="https://www.howjournalcolombia.org/index.php/how/article/view/791" target="_blank" rel="noopener noreferrer nofollow">https://www.howjournalcolombia.org/index.php/how/article/view/791</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inner Speech and Speed Reading: An Analysis of Written...by FLG Cobo · 2024 · Cited by 2 — Silent reading frequently entails engaging th...</p></details>
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: sarahsnippets.com  
-   Link: <a href="https://sarahsnippets.com/fluency-phrased-reading-scooping/" target="_blank" rel="noopener noreferrer nofollow">https://sarahsnippets.com/fluency-phrased-reading-scooping/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Phrased Reading: Foundations of Fluency SkillsTeaching students to read in phrases strengthens prosody, decoding momentum, and comprehens...</p></details>
+   Link:<a href="https://sarahsnippets.com/fluency-phrased-reading-scooping/" target="_blank" rel="noopener noreferrer nofollow">https://sarahsnippets.com/fluency-phrased-reading-scooping/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Phrased Reading: Foundations of Fluency SkillsTeaching students to read in phrases strengthens prosody, decoding momentum, and comprehens...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: asu.elsevierpure.com  
-   Link: <a href="https://asu.elsevierpure.com/en/publications/what-the-readers-eye-tells-the-minds-ear-silent-reading-activates/" target="_blank" rel="noopener noreferrer nofollow">https://asu.elsevierpure.com/en/publications/what-the-readers-eye-tells-the-minds-ear-silent-reading-activates/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the reader&#x27;s eye tells the mind&#x27;s ear: Silent reading...by M Abramson · 1997 · Cited by 186 — The present study examined the similarity...</p></details>
+   Link:<a href="https://asu.elsevierpure.com/en/publications/what-the-readers-eye-tells-the-minds-ear-silent-reading-activates/" target="_blank" rel="noopener noreferrer nofollow">https://asu.elsevierpure.com/en/publications/what-the-readers-eye-tells-the-minds-ear-silent-reading-activates/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the reader&#x27;s eye tells the mind&#x27;s ear: Silent reading...by M Abramson · 1997 · Cited by 186 — The present study examined the similarity...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: thereadingape.com  
    Title: that voice in your head inner speech and why it s important for reading  
-   Link: <a href="https://www.thereadingape.com/single-post/that-voice-in-your-head-inner-speech-and-why-it-s-important-for-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.thereadingape.com/single-post/that-voice-in-your-head-inner-speech-and-why-it-s-important-for-reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THAT VOICE IN YOUR HEAD – INNER SPEECH AND WHY...Dec 15, 2024 — So, if as the research suggests, the sounds of words influences the spee...</p></details>
+   Link:<a href="https://www.thereadingape.com/single-post/that-voice-in-your-head-inner-speech-and-why-it-s-important-for-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.thereadingape.com/single-post/that-voice-in-your-head-inner-speech-and-why-it-s-important-for-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THAT VOICE IN YOUR HEAD – INNER SPEECH AND WHY...Dec 15, 2024 — So, if as the research suggests, the sounds of words influences the spee...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: keystoliteracy.com  
    Title: the importance of teaching prosody as part of reading fluency  
-   Link: <a href="https://keystoliteracy.com/blog/the-importance-of-teaching-prosody-as-part-of-reading-fluency/" target="_blank" rel="noopener noreferrer nofollow">https://keystoliteracy.com/blog/the-importance-of-teaching-prosody-as-part-of-reading-fluency/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Importance of Teaching Prosody as Part of Reading...11 Jul 2023 — Fluent readers chunk words together in appropriate, meaningful phr...</p></details>
+   Link:<a href="https://keystoliteracy.com/blog/the-importance-of-teaching-prosody-as-part-of-reading-fluency/" target="_blank" rel="noopener noreferrer nofollow">https://keystoliteracy.com/blog/the-importance-of-teaching-prosody-as-part-of-reading-fluency/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Importance of Teaching Prosody as Part of Reading...11 Jul 2023 — Fluent readers chunk words together in appropriate, meaningful phr...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: literacyworldwide.org  
    Title: staying literacy strong a focus on phrasing  
-   Link: <a href="https://www.literacyworldwide.org/blog/literacy-now/2015/09/22/staying-literacy-strong-a-focus-on-phrasing" target="_blank" rel="noopener noreferrer nofollow">https://www.literacyworldwide.org/blog/literacy-now/2015/09/22/staying-literacy-strong-a-focus-on-phrasing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Staying Literacy Strong: A Focus on Phrasing22 Sept 2015 — Research and scholarly thought suggest helping students learn to read in phras...</p></details>
+   Link:<a href="https://www.literacyworldwide.org/blog/literacy-now/2015/09/22/staying-literacy-strong-a-focus-on-phrasing" target="_blank" rel="noopener noreferrer nofollow">https://www.literacyworldwide.org/blog/literacy-now/2015/09/22/staying-literacy-strong-a-focus-on-phrasing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Staying Literacy Strong: A Focus on Phrasing22 Sept 2015 — Research and scholarly thought suggest helping students learn to read in phras...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Aphantasia/comments/1e9u9tx/when_reading_do_you_have_inner_speech_or_youre/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Aphantasia/comments/1e9u9tx/when_reading_do_you_have_inner_speech_or_youre/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>they say each word in their head. They don’t and they are silent...</p></details>
+   Link:<a href="https://www.reddit.com/r/Aphantasia/comments/1e9u9tx/when_reading_do_you_have_inner_speech_or_youre/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Aphantasia/comments/1e9u9tx/when_reading_do_you_have_inner_speech_or_youre/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>they say each word in their head. They don’t and they are silent...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: mtholyoke.edu  
    Title: professor studies silent inner voice  
-   Link: <a href="https://www.mtholyoke.edu/news/news-stories/professor-studies-silent-inner-voice" target="_blank" rel="noopener noreferrer nofollow">https://www.mtholyoke.edu/news/news-stories/professor-studies-silent-inner-voice</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>13 Jan 2016 — Professor Mara Breen studies how we “hear” the words we read, and what happens when the brain expects one word but gets ano...</p></details>
+   Link:<a href="https://www.mtholyoke.edu/news/news-stories/professor-studies-silent-inner-voice" target="_blank" rel="noopener noreferrer nofollow">https://www.mtholyoke.edu/news/news-stories/professor-studies-silent-inner-voice</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>13 Jan 2016 — Professor Mara Breen studies how we “hear” the words we read, and what happens when the brain expects one word but gets ano...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: crackingtheabccode.com  
    Title: repeated reading fluency and prosody  
-   Link: <a href="https://crackingtheabccode.com/repeated-reading-fluency-and-prosody/?srsltid=AfmBOoruB3H405q9XjCqrXwZlSKzLlvxgvX3Frz16aDkXF_td6JxN6Sc" target="_blank" rel="noopener noreferrer nofollow">https://crackingtheabccode.com/repeated-reading-fluency-and-prosody/?srsltid=AfmBOoruB3H405q9XjCqrXwZlSKzLlvxgvX3Frz16aDkXF_td6JxN6Sc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Repeated Reading, Fluency and Prosody31 Oct 2024 — Reading fluency includes being able to read all the words in a passage without hesitat...</p></details>
+   Link:<a href="https://crackingtheabccode.com/repeated-reading-fluency-and-prosody/?srsltid=AfmBOoruB3H405q9XjCqrXwZlSKzLlvxgvX3Frz16aDkXF_td6JxN6Sc" target="_blank" rel="noopener noreferrer nofollow">https://crackingtheabccode.com/repeated-reading-fluency-and-prosody/?srsltid=AfmBOoruB3H405q9XjCqrXwZlSKzLlvxgvX3Frz16aDkXF_td6JxN6Sc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Repeated Reading, Fluency and Prosody31 Oct 2024 — Reading fluency includes being able to read all the words in a passage without hesitat...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: research.polyu.edu.hk  
-   Link: <a href="https://research.polyu.edu.hk/en/publications/inner-and-outer-voices-l2-readers-experiences-of-silent-reading-r/" target="_blank" rel="noopener noreferrer nofollow">https://research.polyu.edu.hk/en/publications/inner-and-outer-voices-l2-readers-experiences-of-silent-reading-r/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Outer Voices: L2 Readers&#x27; Experiences of Silent...by HY Mok · 2025 · Cited by 1 — Walter (2008) argues that L2 readers&#x27; unreliable p...</p></details>
+   Link:<a href="https://research.polyu.edu.hk/en/publications/inner-and-outer-voices-l2-readers-experiences-of-silent-reading-r/" target="_blank" rel="noopener noreferrer nofollow">https://research.polyu.edu.hk/en/publications/inner-and-outer-voices-l2-readers-experiences-of-silent-reading-r/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Outer Voices: L2 Readers&#x27; Experiences of Silent...by HY Mok · 2025 · Cited by 1 — Walter (2008) argues that L2 readers&#x27; unreliable p...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: ora.ox.ac.uk  
-   Link: <a href="https://ora.ox.ac.uk/objects/uuid%3Adfe9f411-fa39-48db-9fc3-b61ed41deb1e/files/dsf2685900" target="_blank" rel="noopener noreferrer nofollow">https://ora.ox.ac.uk/objects/uuid%3Adfe9f411-fa39-48db-9fc3-b61ed41deb1e/files/dsf2685900</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ox.ac.ukL2 readers&#x27; experiences of silent reading, reading aloud and...by E Mok · 2023 · Cited by 1 — Results suggest that readers acces...</p></details>
+   Link:<a href="https://ora.ox.ac.uk/objects/uuid%3Adfe9f411-fa39-48db-9fc3-b61ed41deb1e/files/dsf2685900" target="_blank" rel="noopener noreferrer nofollow">https://ora.ox.ac.uk/objects/uuid%3Adfe9f411-fa39-48db-9fc3-b61ed41deb1e/files/dsf2685900</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ox.ac.ukL2 readers&#x27; experiences of silent reading, reading aloud and...by E Mok · 2023 · Cited by 1 — Results suggest that readers acces...</p></details>

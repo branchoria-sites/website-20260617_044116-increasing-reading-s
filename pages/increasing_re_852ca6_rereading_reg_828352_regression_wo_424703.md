@@ -288,7 +288,7 @@ image: /assets/images/increasing_re_852ca6_rereading_reg_828352_regression_wo_42
 
 ## Introduction
 
-When trying to increase reading speed, the question is not whether you should ever look back. The question is whether a backward glance solves a specific comprehension problem. Skilled readers make regressions—backward [eye movements]({{ 'eye-tradeoff/' | relative_url }})—when they need to repair understanding, not merely to reassure themselves. [Eye-tracking]({{ 'eye-tracking/' | relative_url }}) research shows that regressions are a normal part of reading and often serve a useful function when information has been missed, misinterpreted, or needs to be connected to something earlier in the text. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 134 — These results suggest that readers use...</span></span></span>
+When trying to increase reading speed, the question is not whether you should ever look back. The question is whether a backward glance solves a specific comprehension problem. Skilled readers make regressions—backward [eye movements]({{ 'eye-tradeoff/' | relative_url }})—when they need to repair understanding, not merely to reassure themselves. [Eye-tracking]({{ 'eye-tracking/' | relative_url }}) research shows that regressions are a normal part of reading and often serve a useful function when information has been missed, misinterpreted, or needs to be connected to something earlier in the text.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 134 — These results suggest that readers use...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_rereading_reg_828352_regression_wo_424703-Illustration-1-dark.svg" | relative_url }}" alt="Worth It illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_rereading_reg_828352_regression_wo_424703-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_rereading_reg_828352_regression_wo_424703-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -304,7 +304,7 @@ If you can name the missing information, a regression is often worthwhile. If yo
 
 This matters because comprehension problems tend to be local. A forgotten definition, an unclear reference, or a missed number can often be fixed with a brief targeted glance. By contrast, vague checking frequently leads to rereading large amounts of text that were already understood well enough the first time.
 
-Research on reading [regressions]({{ 'lookbacks/' | relative_url }}) suggests that readers use these backward movements to reprocess text directly rather than merely triggering memory of what they previously saw. In other words, a regression can genuinely repair comprehension when there is something specific to repair. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 134 — These results suggest that readers use...</span></span></span>
+Research on reading [regressions]({{ 'lookbacks/' | relative_url }}) suggests that readers use these backward movements to reprocess text directly rather than merely triggering memory of what they previously saw. In other words, a regression can genuinely repair comprehension when there is something specific to repair.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 134 — These results suggest that readers use...</span></span></span>
 
 ## The Specific-Question Test
 
@@ -347,7 +347,7 @@ Common examples include:
 * Resolving an apparent [contradiction]({{ 'contradictions/' | relative_url }}).
 * Repairing understanding after a distraction.
 
-Eye-movement research links regressions to comprehension monitoring and targeted reanalysis of text. Readers often look back when incoming information does not fit their current interpretation and they need to revise it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ora.ox.ac.uk/objects/uuid%3Aa16f42e2-529d-47ae-ba51-50b75dd43899/files/rkh04dp70d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ora.ox.ac.uk">[Oxford University Research Archive+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ora.ox.ac.uk</span><span class="citation-popover-title">This seems to reflect sensitivity to comprehension monitoring</span><span class="citation-popover-snippet">ford University Research ArchiveComprehension monitoring during reading: an eye-tracking...March 27, 2020 — by AK Hessel · 2020 · Cite...</span><span class="citation-popover-meta">Published: March 27, 2020</span></span></span>
+Eye-movement research links regressions to comprehension monitoring and targeted reanalysis of text. Readers often look back when incoming information does not fit their current interpretation and they need to revise it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ora.ox.ac.uk/objects/uuid%3Aa16f42e2-529d-47ae-ba51-50b75dd43899/files/rkh04dp70d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ora.ox.ac.uk">[Oxford University Research Archive+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ora.ox.ac.uk</span><span class="citation-popover-title">This seems to reflect sensitivity to comprehension monitoring</span><span class="citation-popover-snippet">ford University Research ArchiveComprehension monitoring during reading: an eye-tracking...March 27, 2020 — by AK Hessel · 2020 · Cite...</span><span class="citation-popover-meta">Published: March 27, 2020</span></span></span>
 
 ### Vague Checking
 
@@ -400,7 +400,7 @@ Who left?
 
 The answer may be clarified in earlier text. Readers sometimes continue with an incorrect interpretation and become confused later. A brief regression to identify the correct referent is usually faster than continuing with a mistaken understanding.
 
-Eye-tracking studies have long used pronoun resolution and reference tracking to examine how readers connect information across sentences. These links require readers to integrate current text with previously read material, making targeted regressions especially useful when the connection is lost. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pure.mpg.de/rest/items/item_3037664_8/component/file_3569417/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.mpg.de">[MPG.PuRe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.mpg.de</span><span class="citation-popover-title">We know of only one eye tracking study</span><span class="citation-popover-snippet">repeated name penalty effect in children&#x27;s natural...February 13, 2024 — by S Eilers · 2019 · Cited by 14 — Pronouns require inferences...</span><span class="citation-popover-meta">Published: February 13, 2024</span></span></span>
+Eye-tracking studies have long used pronoun resolution and reference tracking to examine how readers connect information across sentences. These links require readers to integrate current text with previously read material, making targeted regressions especially useful when the connection is lost.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pure.mpg.de/rest/items/item_3037664_8/component/file_3569417/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.mpg.de">[MPG.PuRe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.mpg.de</span><span class="citation-popover-title">We know of only one eye tracking study</span><span class="citation-popover-snippet">repeated name penalty effect in children&#x27;s natural...February 13, 2024 — by S Eilers · 2019 · Cited by 14 — Pronouns require inferences...</span><span class="citation-popover-meta">Published: February 13, 2024</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7oCcAsk9mcI" title="Are Reading Regressions Holding You Back?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7oCcAsk9mcI" target="_blank" rel="noopener noreferrer">Are Reading Regressions Holding You Back?</a></p><p class="youtube-embed-meta">Channel: Odysseas</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7oCcAsk9mcI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7oCcAsk9mcI">Open on YouTube</a></p></div></div></div>
@@ -436,7 +436,7 @@ Sometimes the missing information is not actually missing.
 
 Readers often experience temporary uncertainty because a sentence is incomplete, a paragraph is developing an argument, or a story has not yet revealed its point. In these situations, continuing forward may be the faster strategy.
 
-Keep reading when: <span class="citation-chip-wrap"><a class="citation-chip" href="https://cognitivetrain.com/regression-in-reading/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cognitivetrain.com">[cognitivetrain.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cognitivetrain.com</span><span class="citation-popover-title">Some readers regress even more</span><span class="citation-popover-snippet">Regression in Reading: Why Your Eyes Keep Going...Eye-tracking research shows that regressions account for 10-15% of all eye movements d...</span></span></span>
+Keep reading when:<span class="citation-chip-wrap"><a class="citation-chip" href="https://cognitivetrain.com/regression-in-reading/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cognitivetrain.com">[cognitivetrain.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cognitivetrain.com</span><span class="citation-popover-title">Some readers regress even more</span><span class="citation-popover-snippet">Regression in Reading: Why Your Eyes Keep Going...Eye-tracking research shows that regressions account for 10-15% of all eye movements d...</span></span></span>
 
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
@@ -473,197 +473,197 @@ Examples:
 
 If you cannot fill in the blank, keep reading.
 
-This approach preserves the main benefit of regressions—the ability to repair comprehension—while avoiding the confidence-[checking loops]({{ 'checking-loop/' | relative_url }}) that often slow readers down. Research consistently shows that regressions are a normal and useful part of reading when they are tied to comprehension needs. The key is making them purposeful rather than automatic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 134 — These results suggest that readers use...</span></span></span>
+This approach preserves the main benefit of regressions—the ability to repair comprehension—while avoiding the confidence-[checking loops]({{ 'checking-loop/' | relative_url }}) that often slow readers down. Research consistently shows that regressions are a normal and useful part of reading when they are tied to comprehension needs. The key is making them purposeful rather than automatic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 134 — These results suggest that readers use...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Should You Look Back or Keep Reading?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Should You Look Back or Keep Reading?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Directly supports decisions about when to reread and when to continue.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Directly supports decisions about when to reread and when to continue.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading in the Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6649793-M.jpg" alt="Cover for Reading in the Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading in the Brain">Reading in the Brain</a>
-        </h4>
-        <p class="fr-book-author">By Stanislas Dehaene</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading in the Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6649793-M.jpg" alt="Cover for Reading in the Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading in the Brain">Reading in the Brain</a>
+</h4>
+<p class="fr-book-author">By Stanislas Dehaene</p>
         
-        <p class="fr-book-desc">First published 2009. Subjects: Science, Nonfiction, Psychology, Psychology of Reading, Reading.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2009. Subjects: Science, Nonfiction, Psychology, Psychology of Reading, Reading.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Breakthrough rapid reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/84360-M.jpg" alt="Cover for Breakthrough rapid reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breakthrough rapid reading">Breakthrough rapid reading</a>
-        </h4>
-        <p class="fr-book-author">By Peter Kump</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Breakthrough rapid reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/84360-M.jpg" alt="Cover for Breakthrough rapid reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breakthrough rapid reading">Breakthrough rapid reading</a>
+</h4>
+<p class="fr-book-author">By Peter Kump</p>
         
-        <p class="fr-book-desc">First published 1979. Subjects: Speed reading, Rapid reading, Du shu fang fa.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1979. Subjects: Speed reading, Rapid reading, Du shu fang fa.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=10+days+to+faster+reading+Abby+Marks-Beale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 10 days to faster reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9453897-M.jpg" alt="Cover for 10 days to faster reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=10+days+to+faster+reading+Abby+Marks-Beale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="10 days to faster reading">10 days to faster reading</a>
-        </h4>
-        <p class="fr-book-author">By Abby Marks-Beale</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=10+days+to+faster+reading+Abby+Marks-Beale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 10 days to faster reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9453897-M.jpg" alt="Cover for 10 days to faster reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=10+days+to+faster+reading+Abby+Marks-Beale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="10 days to faster reading">10 days to faster reading</a>
+</h4>
+<p class="fr-book-author">By Abby Marks-Beale</p>
         
-        <p class="fr-book-desc">First published 2001. Subjects: Speed reading.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=10+days+to+faster+reading+Abby+Marks-Beale&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2001. Subjects: Speed reading.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=10+days+to+faster+reading+Abby+Marks-Beale&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Reading+in+the+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Reading in the Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Breakthrough rapid reading</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Reading+in+the+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Reading in the Brain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Breakthrough rapid reading</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Back in Action Movie Poster Cast Signed Printed Autograph A3 Framed Memorabilia"><img src="{{ '/assets/images/marketplace-covers/a4aac07d181bf7403b78.jpg' | relative_url }}" alt="Listing image for Back in Action Movie Poster Cast Signed Printed Autograph A3 Framed Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Back in Action Movie Poster Cast Signed Printed Autograph A3 Framed Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for back memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: back memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Back in Action Movie Poster Cast Signed Printed Autograph A3 Framed Memorabilia"><img src="{{ '/assets/images/marketplace-covers/a4aac07d181bf7403b78.jpg' | relative_url }}" alt="Listing image for Back in Action Movie Poster Cast Signed Printed Autograph A3 Framed Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Back in Action Movie Poster Cast Signed Printed Autograph A3 Framed Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for back memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: back memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Music Memorabilia Back Stage Pass"><img src="{{ '/assets/images/marketplace-covers/301d5020dc098bf53888.jpg' | relative_url }}" alt="Listing image for Music Memorabilia Back Stage Pass" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Music Memorabilia Back Stage Pass</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for back memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: back memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Music Memorabilia Back Stage Pass"><img src="{{ '/assets/images/marketplace-covers/301d5020dc098bf53888.jpg' | relative_url }}" alt="Listing image for Music Memorabilia Back Stage Pass" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Music Memorabilia Back Stage Pass</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for back memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: back memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BACK TO THE FUTURE Signed Film Cells Framed MICHAEL J FOX MOVIE MEMORABILIA GIFT"><img src="{{ '/assets/images/marketplace-covers/726850af66a930e4b292.jpg' | relative_url }}" alt="Listing image for BACK TO THE FUTURE Signed Film Cells Framed MICHAEL J FOX MOVIE MEMORABILIA GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">BACK TO THE FUTURE Signed Film Cells Framed MICHAEL J FOX MOVIE MEMORABILIA GIFT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for back memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: back memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BACK TO THE FUTURE Signed Film Cells Framed MICHAEL J FOX MOVIE MEMORABILIA GIFT"><img src="{{ '/assets/images/marketplace-covers/726850af66a930e4b292.jpg' | relative_url }}" alt="Listing image for BACK TO THE FUTURE Signed Film Cells Framed MICHAEL J FOX MOVIE MEMORABILIA GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">BACK TO THE FUTURE Signed Film Cells Framed MICHAEL J FOX MOVIE MEMORABILIA GIFT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for back memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: back memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Back to the Future Movie Poster Signed Printed Autograph A3 Framed Memorabilia"><img src="{{ '/assets/images/marketplace-covers/20ab2faac554bd4e2515.jpg' | relative_url }}" alt="Listing image for Back to the Future Movie Poster Signed Printed Autograph A3 Framed Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Back to the Future Movie Poster Signed Printed Autograph A3 Framed Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for back memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: back memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Back to the Future Movie Poster Signed Printed Autograph A3 Framed Memorabilia"><img src="{{ '/assets/images/marketplace-covers/20ab2faac554bd4e2515.jpg' | relative_url }}" alt="Listing image for Back to the Future Movie Poster Signed Printed Autograph A3 Framed Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Back to the Future Movie Poster Signed Printed Autograph A3 Framed Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for back memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: back memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=back+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="back memorabilia -book -books -dvd" data-ebay-reference="worth-it-should-you-look-back-or-keep-reading-increasing-back-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -679,7 +679,7 @@ This approach preserves the main benefit of regressions—the ability to repair 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -699,7 +699,7 @@ This approach preserves the main benefit of regressions—the ability to repair 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -731,7 +731,7 @@ This approach preserves the main benefit of regressions—the ability to repair 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -783,7 +783,7 @@ This approach preserves the main benefit of regressions—the ability to repair 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -828,7 +828,7 @@ This approach preserves the main benefit of regressions—the ability to repair 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -869,111 +869,111 @@ This approach preserves the main benefit of regressions—the ability to repair 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCRegressions during Reading  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6802794/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6802794/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>during Reading - PMC - NIHby AW Inhoff · 2019 · Cited by 74 — Abstract. Readers occasionally move their eyes to prior text. We distinguis...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6802794/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6802794/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>during Reading - PMC - NIHby AW Inhoff · 2019 · Cited by 74 — Abstract. Readers occasionally move their eyes to prior text. We distinguis...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pure.mpg.de  
    Title: We know of only one eye tracking study  
-   Link: <a href="https://pure.mpg.de/rest/items/item_3037664_8/component/file_3569417/content" target="_blank" rel="noopener noreferrer nofollow">https://pure.mpg.de/rest/items/item_3037664_8/component/file_3569417/content</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>repeated name penalty effect in children&#x27;s natural...February 13, 2024 — by S Eilers · 2019 · Cited by 14 — Pronouns require inferences...</p></details>
+   Link:<a href="https://pure.mpg.de/rest/items/item_3037664_8/component/file_3569417/content" target="_blank" rel="noopener noreferrer nofollow">https://pure.mpg.de/rest/items/item_3037664_8/component/file_3569417/content</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>repeated name penalty effect in children&#x27;s natural...February 13, 2024 — by S Eilers · 2019 · Cited by 14 — Pronouns require inferences...</p></details>
    Published: February 13, 2024  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2906818/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2906818/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Eye Movements in Reading: Models and Data - PMC - NIHby K Rayner · 2009 · Cited by 298 — Models of eye movement control in reading and...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2906818/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2906818/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eye Movements in Reading: Models and Data - PMC - NIHby K Rayner · 2009 · Cited by 298 — Models of eye movement control in reading and...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22886737/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 134 — These results suggest that readers use...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22886737/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 134 — These results suggest that readers use...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ora.ox.ac.uk  
    Title: This seems to reflect sensitivity to comprehension monitoring  
-   Link: <a href="https://ora.ox.ac.uk/objects/uuid%3Aa16f42e2-529d-47ae-ba51-50b75dd43899/files/rkh04dp70d" target="_blank" rel="noopener noreferrer nofollow">https://ora.ox.ac.uk/objects/uuid%3Aa16f42e2-529d-47ae-ba51-50b75dd43899/files/rkh04dp70d</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ford University Research ArchiveComprehension monitoring during reading: an eye-tracking...March 27, 2020 — by AK Hessel · 2020 · Cite...</p></details>
+   Link:<a href="https://ora.ox.ac.uk/objects/uuid%3Aa16f42e2-529d-47ae-ba51-50b75dd43899/files/rkh04dp70d" target="_blank" rel="noopener noreferrer nofollow">https://ora.ox.ac.uk/objects/uuid%3Aa16f42e2-529d-47ae-ba51-50b75dd43899/files/rkh04dp70d</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ford University Research ArchiveComprehension monitoring during reading: an eye-tracking...March 27, 2020 — by AK Hessel · 2020 · Cite...</p></details>
    Published: March 27, 2020  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Eye" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eye</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EyeAn eye is a sensory organ that allows an organism to perceive visual information. It detects light and converts it into electro-che...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Eye" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eye</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EyeAn eye is a sensory organ that allows an organism to perceive visual information. It detects light and converts it into electro-che...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: We presented texts that included either a personal perspective (you) or  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7477769/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7477769/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>your emotions: An eye-tracking study on reader&#x27;s...by S Child · 2020 · Cited by 19 — An eye-tracking study explored perspective effects...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7477769/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7477769/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>your emotions: An eye-tracking study on reader&#x27;s...by S Child · 2020 · Cited by 19 — An eye-tracking study explored perspective effects...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7888242/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7888242/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Model of Regressive Eye Movements during...by AF Weiss · 2020 · Cited by 9 — In this article we present a new eye movement con...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7888242/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7888242/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Model of Regressive Eye Movements during...by AF Weiss · 2020 · Cited by 9 — In this article we present a new eye movement con...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12409514/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12409514/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the rereading effect of digital reading through eye...by Y Xu · 2025 — This study aimed to investigate the differences in eye movement c...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12409514/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12409514/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the rereading effect of digital reading through eye...by Y Xu · 2025 — This study aimed to investigate the differences in eye movement c...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/374669932_Eye_Movements_in_Reading_and_Information_Processing_20_Years_of_Research" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374669932_Eye_Movements_in_Reading_and_Information_Processing_20_Years_of_Research</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eye Movements in Reading and Information ProcessingRecent studies of eye movements in reading and other information processing tasks, suc...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/374669932_Eye_Movements_in_Reading_and_Information_Processing_20_Years_of_Research" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374669932_Eye_Movements_in_Reading_and_Information_Processing_20_Years_of_Research</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eye Movements in Reading and Information ProcessingRecent studies of eye movements in reading and other information processing tasks, suc...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: scholarsarchive.byu.edu  
-   Link: <a href="https://scholarsarchive.byu.edu/context/facpub/article/8947/viewcontent/5._Immediate_repeated_reading_has_positive_effects_on_reading_rate_for_English_language.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scholarsarchive.byu.edu/context/facpub/article/8947/viewcontent/5._Immediate_repeated_reading_has_positive_effects_on_reading_rate_for_English_language.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Repeated Reading Has Positive Effects on...by JH Hansen · 2024 · Cited by 4 — The objective of this eye- tracking study was to accuratel...</p></details>
+   Link:<a href="https://scholarsarchive.byu.edu/context/facpub/article/8947/viewcontent/5._Immediate_repeated_reading_has_positive_effects_on_reading_rate_for_English_language.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scholarsarchive.byu.edu/context/facpub/article/8947/viewcontent/5._Immediate_repeated_reading_has_positive_effects_on_reading_rate_for_English_language.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Repeated Reading Has Positive Effects on...by JH Hansen · 2024 · Cited by 4 — The objective of this eye- tracking study was to accuratel...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: readlite.in  
-   Link: <a href="https://readlite.in/concepts/regressions-reading" target="_blank" rel="noopener noreferrer nofollow">https://readlite.in/concepts/regressions-reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These regressions aren&#x27;t mistakes — they&#x27;re essential comprehension repairs that skilled...Read more...</p></details>
+   Link:<a href="https://readlite.in/concepts/regressions-reading" target="_blank" rel="noopener noreferrer nofollow">https://readlite.in/concepts/regressions-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These regressions aren&#x27;t mistakes — they&#x27;re essential comprehension repairs that skilled...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reunir.unir.net  
    Title: Eye tracking contribution on processing OF reading comprehension  
-   Link: <a href="https://reunir.unir.net/bitstream/handle/123456789/18055/Eye-tracking%20contribution%20on%20processing%20OF%20reading%20comprehension.pdf?isAllowed=y&amp;sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://reunir.unir.net/bitstream/handle/123456789/18055/Eye-tracking%20contribution%20on%20processing%20OF%20reading%20comprehension.pdf?isAllowed=y&amp;sequence=1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>unir.netEye-tracking contribution on processing of (implicit)...by C de-la-Peña · 2024 · Cited by 15 — The aim is to understand the role...</p></details>
+   Link:<a href="https://reunir.unir.net/bitstream/handle/123456789/18055/Eye-tracking%20contribution%20on%20processing%20OF%20reading%20comprehension.pdf?isAllowed=y&amp;sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://reunir.unir.net/bitstream/handle/123456789/18055/Eye-tracking%20contribution%20on%20processing%20OF%20reading%20comprehension.pdf?isAllowed=y&amp;sequence=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>unir.netEye-tracking contribution on processing of (implicit)...by C de-la-Peña · 2024 · Cited by 15 — The aim is to understand the role...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: research.reading.ac.uk  
    Title: 2025 03 Tromso Eye Tracking Workshop Session 1 Handout  
-   Link: <a href="https://research.reading.ac.uk/psylinglab/wp-content/uploads/sites/25/2025/03/2025-03-Tromso-Eye-Tracking-Workshop-Session-1-Handout.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.reading.ac.uk/psylinglab/wp-content/uploads/sites/25/2025/03/2025-03-Tromso-Eye-Tracking-Workshop-Session-1-Handout.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>reading.ac.ukEYE-TRACKING DURING READING IN PSYCHOLINGUISTICS28 Mar 2025 — (1) Eye-Tracking in Psycholinguistics. ➢ Introduce eye-trackin...</p></details>
+   Link:<a href="https://research.reading.ac.uk/psylinglab/wp-content/uploads/sites/25/2025/03/2025-03-Tromso-Eye-Tracking-Workshop-Session-1-Handout.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.reading.ac.uk/psylinglab/wp-content/uploads/sites/25/2025/03/2025-03-Tromso-Eye-Tracking-Workshop-Session-1-Handout.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>reading.ac.ukEYE-TRACKING DURING READING IN PSYCHOLINGUISTICS28 Mar 2025 — (1) Eye-Tracking in Psycholinguistics. ➢ Introduce eye-trackin...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: allgemeinepsychologie.uni-wuppertal.de  
    Title: Vorstius Radach Lonigan Silent Oral Readig VC 2014 01  
-   Link: <a href="https://allgemeinepsychologie.uni-wuppertal.de/fileadmin/psychologie/allgemeinepsychologie/Artikel/Artikel_Radach/Vorstius_Radach_Lonigan_Silent_Oral_Readig_VC_2014_01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://allgemeinepsychologie.uni-wuppertal.de/fileadmin/psychologie/allgemeinepsychologie/Artikel/Artikel_Radach/Vorstius_Radach_Lonigan_Silent_Oral_Readig_VC_2014_01.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>movements in developing readers: A comparison of silent...by C Vorstius · 2014 · Cited by 174 — We present sentence reading data from a...</p></details>
+   Link:<a href="https://allgemeinepsychologie.uni-wuppertal.de/fileadmin/psychologie/allgemeinepsychologie/Artikel/Artikel_Radach/Vorstius_Radach_Lonigan_Silent_Oral_Readig_VC_2014_01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://allgemeinepsychologie.uni-wuppertal.de/fileadmin/psychologie/allgemeinepsychologie/Artikel/Artikel_Radach/Vorstius_Radach_Lonigan_Silent_Oral_Readig_VC_2014_01.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>movements in developing readers: A comparison of silent...by C Vorstius · 2014 · Cited by 174 — We present sentence reading data from a...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: utupub.fi  
-   Link: <a href="https://www.utupub.fi/bitstream/handle/10024/190693/Reading%20Research%20Quarterly%20-%202023%20-%20M%20zi%20re%20-%20Using%20Eye%20Tracking%20Measures%20to%20Predict%20Reading%20Comprehension.pdf?sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://www.utupub.fi/bitstream/handle/10024/190693/Reading%20Research%20Quarterly%20-%202023%20-%20M%20zi%20re%20-%20Using%20Eye%20Tracking%20Measures%20to%20Predict%20Reading%20Comprehension.pdf?sequence=1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We administered three widely used reading compre- hension...</p></details>
+   Link:<a href="https://www.utupub.fi/bitstream/handle/10024/190693/Reading%20Research%20Quarterly%20-%202023%20-%20M%20zi%20re%20-%20Using%20Eye%20Tracking%20Measures%20to%20Predict%20Reading%20Comprehension.pdf?sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://www.utupub.fi/bitstream/handle/10024/190693/Reading%20Research%20Quarterly%20-%202023%20-%20M%20zi%20re%20-%20Using%20Eye%20Tracking%20Measures%20to%20Predict%20Reading%20Comprehension.pdf?sequence=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We administered three widely used reading compre- hension...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
    Title: 334364752 Regressions during Reading  
-   Link: <a href="https://www.researchgate.net/publication/334364752_Regressions_during_Reading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/334364752_Regressions_during_Reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Regressions during Reading20 May 2026 — Eye Movements and Information Processing during Reading... The function of regressions in...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/334364752_Regressions_during_Reading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/334364752_Regressions_during_Reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Regressions during Reading20 May 2026 — Eye Movements and Information Processing during Reading... The function of regressions in...</p></details>
    Published: May 2026  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/230658181_The_function_of_regressions_in_reading_Backward_eye_movements_allow_rereading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/230658181_The_function_of_regressions_in_reading_Backward_eye_movements_allow_rereading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ue their memory for previously read words.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/230658181_The_function_of_regressions_in_reading_Backward_eye_movements_allow_rereading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/230658181_The_function_of_regressions_in_reading_Backward_eye_movements_allow_rereading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ue their memory for previously read words.Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: cognitivetrain.com  
    Title: Some readers regress even more  
-   Link: <a href="https://cognitivetrain.com/regression-in-reading/" target="_blank" rel="noopener noreferrer nofollow">https://cognitivetrain.com/regression-in-reading/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Regression in Reading: Why Your Eyes Keep Going...Eye-tracking research shows that regressions account for 10-15% of all eye movements d...</p></details>
+   Link:<a href="https://cognitivetrain.com/regression-in-reading/" target="_blank" rel="noopener noreferrer nofollow">https://cognitivetrain.com/regression-in-reading/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Regression in Reading: Why Your Eyes Keep Going...Eye-tracking research shows that regressions account for 10-15% of all eye movements d...</p></details>

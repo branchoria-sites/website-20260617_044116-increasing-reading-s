@@ -269,7 +269,7 @@ image: /assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_purpose_setti_67
 
 ## Introduction
 
-[Skimming]({{ 'skimming/' | relative_url }}) is valuable because it helps you decide quickly whether a text deserves more attention. The danger appears when that decision stage is mistaken for genuine understanding. After a fast pass through headings, summaries, and conclusions, many readers feel they “know” the material even though they have only recognised its structure and key claims. The result is a false sense of understanding: confidence rises faster than comprehension. Research on the illusion of explanatory depth shows that people routinely believe they understand complex topics more deeply than they actually do, especially when they have only a surface-level grasp of how the underlying reasoning works. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3062901/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by L Rozenblit · 2002 · Cited by 1499 — We argue here that people&#x27;s limited knowledge and their misleading intuitive epistemology comb...</span></span></span>
+[Skimming]({{ 'skimming/' | relative_url }}) is valuable because it helps you decide quickly whether a text deserves more attention. The danger appears when that decision stage is mistaken for genuine understanding. After a fast pass through headings, summaries, and conclusions, many readers feel they “know” the material even though they have only recognised its structure and key claims. The result is a false sense of understanding: confidence rises faster than comprehension. Research on the illusion of explanatory depth shows that people routinely believe they understand complex topics more deeply than they actually do, especially when they have only a surface-level grasp of how the underlying reasoning works.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3062901/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by L Rozenblit · 2002 · Cited by 1499 — We argue here that people&#x27;s limited knowledge and their misleading intuitive epistemology comb...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_purpose_setti_6717ce_false_underst_751fcc-Illustration-1-dark.svg" | relative_url }}" alt="False Understanding illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_purpose_setti_6717ce_false_underst_751fcc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_purpose_setti_6717ce_false_underst_751fcc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -279,7 +279,7 @@ For anyone trying to increase reading speed, this is one of the most important r
 
 A skim is highly effective at creating familiarity. You see the title, the section headings, the main conclusion, and perhaps a few highlighted examples. These elements create a coherent outline in memory. Because the outline feels organised, the mind often interprets that feeling as understanding.
 
-Psychologists describe a related phenomenon as the illusion of explanatory depth. People frequently believe they understand a system or idea until they are asked to explain it in detail. At that point, gaps in [knowledge]({{ 'knowledge/' | relative_url }}) become obvious. The problem is not simple overconfidence; it is the tendency to confuse recognition with explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3062901/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by L Rozenblit · 2002 · Cited by 1499 — We argue here that people&#x27;s limited knowledge and their misleading intuitive epistemology comb...</span></span></span>
+Psychologists describe a related phenomenon as the illusion of explanatory depth. People frequently believe they understand a system or idea until they are asked to explain it in detail. At that point, gaps in [knowledge]({{ 'knowledge/' | relative_url }}) become obvious. The problem is not simple overconfidence; it is the tendency to confuse recognition with explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3062901/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by L Rozenblit · 2002 · Cited by 1499 — We argue here that people&#x27;s limited knowledge and their misleading intuitive epistemology comb...</span></span></span>
 
 This happens particularly easily during skimming because:
 
@@ -299,7 +299,7 @@ Consider two different statements:
 
 The first is often achievable through skimming. The second usually requires deeper reading.
 
-Research on explanatory knowledge suggests that people are especially prone to overestimating understanding when topics involve causal relationships and interconnected mechanisms. In other words, the very subjects that require explanation are the ones most likely to create an illusion of mastery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3062901/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by L Rozenblit · 2002 · Cited by 1499 — We argue here that people&#x27;s limited knowledge and their misleading intuitive epistemology comb...</span></span></span>
+Research on explanatory knowledge suggests that people are especially prone to overestimating understanding when topics involve causal relationships and interconnected mechanisms. In other words, the very subjects that require explanation are the ones most likely to create an illusion of mastery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3062901/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by L Rozenblit · 2002 · Cited by 1499 — We argue here that people&#x27;s limited knowledge and their misleading intuitive epistemology comb...</span></span></span>
 
 A useful test is simple: if someone removed the article and asked you to explain the reasoning from memory, could you do it without repeating slogans, headings, or conclusions? If not, recognition has probably been mistaken for comprehension.
 
@@ -308,7 +308,7 @@ A useful test is simple: if someone removed the article and asked you to explain
 
 ## What Skims Reliably Miss
 
-Skimming is designed to extract main ideas. It is not designed to capture every detail, qualification, or logical connection. Universities and academic learning centres consistently describe skimming as a method for obtaining an overview rather than a complete understanding of a text. The Learning Center+2University of Tennessee at Chattanooga <span class="citation-link-wrap"><a class="citation-inline-link" href="https://learningcenter.unc.edu/tips-and-tools/skimming/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learningcenter.unc.edu">[learningcenter.unc.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learningcenter.unc.edu</span><span class="citation-popover-title">The Learning Center Skimming</span><span class="citation-popover-snippet">The Learning CenterSkimming - The Learning CenterSkimming is a strategic, selective reading method in which you focus on the main ideas o...</span></span></span>
+Skimming is designed to extract main ideas. It is not designed to capture every detail, qualification, or logical connection. Universities and academic learning centres consistently describe skimming as a method for obtaining an overview rather than a complete understanding of a text. The Learning Center+2University of Tennessee at Chattanooga<span class="citation-link-wrap"><a class="citation-inline-link" href="https://learningcenter.unc.edu/tips-and-tools/skimming/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learningcenter.unc.edu">[learningcenter.unc.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learningcenter.unc.edu</span><span class="citation-popover-title">The Learning Center Skimming</span><span class="citation-popover-snippet">The Learning CenterSkimming - The Learning CenterSkimming is a strategic, selective reading method in which you focus on the main ideas o...</span></span></span>
 
 The most important omissions tend to fall into several categories.
 
@@ -340,7 +340,7 @@ The result is a common failure mode: the reader accurately remembers what was sa
 
 The danger is not merely incomplete knowledge. The greater risk is misplaced confidence.
 
-Research on the illusion of explanatory depth found that people often lower their self-ratings of understanding when they are forced to produce a detailed explanation. Attempting explanation exposes weaknesses that were invisible during passive exposure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3062901/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2JSaw]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by L Rozenblit · 2002 · Cited by 1499 — We argue here that people&#x27;s limited knowledge and their misleading intuitive epistemology comb...</span></span></span>
+Research on the illusion of explanatory depth found that people often lower their self-ratings of understanding when they are forced to produce a detailed explanation. Attempting explanation exposes weaknesses that were invisible during passive exposure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3062901/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2JSaw]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by L Rozenblit · 2002 · Cited by 1499 — We argue here that people&#x27;s limited knowledge and their misleading intuitive epistemology comb...</span></span></span>
 
 Skimming can therefore produce an unusual combination:
 
@@ -407,178 +407,178 @@ The goal of [increasing]({{ 'increasing/' | relative_url }}) reading speed is no
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Do You Understand It or Just Recognize It?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Do You Understand It or Just Recognize It?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains overconfidence and illusions of understanding.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains overconfidence and illusions of understanding.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Distinguishes inspectional reading from genuine comprehension.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Distinguishes inspectional reading from genuine comprehension.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-        </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+</h4>
+<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Shows the difference between familiarity and durable understanding.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows the difference between familiarity and durable understanding.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mistakes Were Made (but Not by Me) Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jmmVxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mistakes Were Made (but Not by Me) Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mistakes Were Made (but Not by Me) Third Edition">Mistakes Were Made (but Not by Me) Third Edition</a>
+</h4>
+<p class="fr-book-author">By Carol Tavris, Elliot Aronson</p>
         
-        <p class="fr-book-desc">Explores self-justification and misplaced confidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores self-justification and misplaced confidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mistakes+Were+Made+%28but+Not+by+Me%29+Third+Edition+by+Carol+Tavris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-understanding-do-you-understand-it-or-just-recognize-it-increasing-book-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book annotation kit" data-ebay-reference="false-understanding-do-you-understand-it-or-just-recognize-it-increasing-book-annotation-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Book Annotation Kit A Selection of Semipermanent Marking Tools"><img src="{{ '/assets/images/marketplace-covers/69762bec20bd95818b71.jpg' | relative_url }}" alt="Listing image for Book Annotation Kit A Selection of Semipermanent Marking Tools" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-understanding-do-you-understand-it-or-just-recognize-it-increasing-book-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book annotation kit" data-ebay-reference="false-understanding-do-you-understand-it-or-just-recognize-it-increasing-book-annotation-kit" target="_blank" rel="sponsored noopener noreferrer">Book Annotation Kit A Selection of Semipermanent Marking Tools</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-understanding-do-you-understand-it-or-just-recognize-it-increasing-book-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book annotation kit" data-ebay-reference="false-understanding-do-you-understand-it-or-just-recognize-it-increasing-book-annotation-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for book annotation kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: book annotation kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-understanding-do-you-understand-it-or-just-recognize-it-increasing-book-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book annotation kit" data-ebay-reference="false-understanding-do-you-understand-it-or-just-recognize-it-increasing-book-annotation-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-understanding-do-you-understand-it-or-just-recognize-it-increasing-book-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book annotation kit" data-ebay-reference="false-understanding-do-you-understand-it-or-just-recognize-it-increasing-book-annotation-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Book Annotation Kit A Selection of Semipermanent Marking Tools"><img src="{{ '/assets/images/marketplace-covers/69762bec20bd95818b71.jpg' | relative_url }}" alt="Listing image for Book Annotation Kit A Selection of Semipermanent Marking Tools" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-understanding-do-you-understand-it-or-just-recognize-it-increasing-book-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book annotation kit" data-ebay-reference="false-understanding-do-you-understand-it-or-just-recognize-it-increasing-book-annotation-kit" target="_blank" rel="sponsored noopener noreferrer">Book Annotation Kit A Selection of Semipermanent Marking Tools</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-understanding-do-you-understand-it-or-just-recognize-it-increasing-book-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book annotation kit" data-ebay-reference="false-understanding-do-you-understand-it-or-just-recognize-it-increasing-book-annotation-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for book annotation kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: book annotation kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-understanding-do-you-understand-it-or-just-recognize-it-increasing-book-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book annotation kit" data-ebay-reference="false-understanding-do-you-understand-it-or-just-recognize-it-increasing-book-annotation-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-understanding-do-you-understand-it-or-just-recognize-it-increasing-book-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book annotation kit" data-ebay-reference="false-understanding-do-you-understand-it-or-just-recognize-it-increasing-book-annotation-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Book Annotation Kit Gift Box for Her – Reading Stationery Book Lover Gift"><img src="{{ '/assets/images/marketplace-covers/c9f2afef04f776aa2135.jpg' | relative_url }}" alt="Listing image for Book Annotation Kit Gift Box for Her – Reading Stationery Book Lover Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-understanding-do-you-understand-it-or-just-recognize-it-increasing-book-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book annotation kit" data-ebay-reference="false-understanding-do-you-understand-it-or-just-recognize-it-increasing-book-annotation-kit" target="_blank" rel="sponsored noopener noreferrer">Book Annotation Kit Gift Box for Her – Reading Stationery Book Lover Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-understanding-do-you-understand-it-or-just-recognize-it-increasing-book-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book annotation kit" data-ebay-reference="false-understanding-do-you-understand-it-or-just-recognize-it-increasing-book-annotation-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for book annotation kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: book annotation kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-understanding-do-you-understand-it-or-just-recognize-it-increasing-book-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book annotation kit" data-ebay-reference="false-understanding-do-you-understand-it-or-just-recognize-it-increasing-book-annotation-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-understanding-do-you-understand-it-or-just-recognize-it-increasing-book-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book annotation kit" data-ebay-reference="false-understanding-do-you-understand-it-or-just-recognize-it-increasing-book-annotation-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Book Annotation Kit Gift Box for Her – Reading Stationery Book Lover Gift"><img src="{{ '/assets/images/marketplace-covers/c9f2afef04f776aa2135.jpg' | relative_url }}" alt="Listing image for Book Annotation Kit Gift Box for Her – Reading Stationery Book Lover Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-understanding-do-you-understand-it-or-just-recognize-it-increasing-book-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book annotation kit" data-ebay-reference="false-understanding-do-you-understand-it-or-just-recognize-it-increasing-book-annotation-kit" target="_blank" rel="sponsored noopener noreferrer">Book Annotation Kit Gift Box for Her – Reading Stationery Book Lover Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-understanding-do-you-understand-it-or-just-recognize-it-increasing-book-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book annotation kit" data-ebay-reference="false-understanding-do-you-understand-it-or-just-recognize-it-increasing-book-annotation-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for book annotation kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: book annotation kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-understanding-do-you-understand-it-or-just-recognize-it-increasing-book-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book annotation kit" data-ebay-reference="false-understanding-do-you-understand-it-or-just-recognize-it-increasing-book-annotation-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-understanding-do-you-understand-it-or-just-recognize-it-increasing-book-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book annotation kit" data-ebay-reference="false-understanding-do-you-understand-it-or-just-recognize-it-increasing-book-annotation-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pastel Highlighter Tape Kit - 10 Removable Rolls for Effortless Book Annotation"><img src="{{ '/assets/images/marketplace-covers/a91b3a7fec623741e18c.jpg' | relative_url }}" alt="Listing image for Pastel Highlighter Tape Kit - 10 Removable Rolls for Effortless Book Annotation" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-understanding-do-you-understand-it-or-just-recognize-it-increasing-book-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book annotation kit" data-ebay-reference="false-understanding-do-you-understand-it-or-just-recognize-it-increasing-book-annotation-kit" target="_blank" rel="sponsored noopener noreferrer">Pastel Highlighter Tape Kit - 10 Removable Rolls for Effortless Book Annotation</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-understanding-do-you-understand-it-or-just-recognize-it-increasing-book-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book annotation kit" data-ebay-reference="false-understanding-do-you-understand-it-or-just-recognize-it-increasing-book-annotation-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for book annotation kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: book annotation kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-understanding-do-you-understand-it-or-just-recognize-it-increasing-book-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book annotation kit" data-ebay-reference="false-understanding-do-you-understand-it-or-just-recognize-it-increasing-book-annotation-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-understanding-do-you-understand-it-or-just-recognize-it-increasing-book-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book annotation kit" data-ebay-reference="false-understanding-do-you-understand-it-or-just-recognize-it-increasing-book-annotation-kit" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-understanding-do-you-understand-it-or-just-recognize-it-increasing-book-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book annotation kit" data-ebay-reference="false-understanding-do-you-understand-it-or-just-recognize-it-increasing-book-annotation-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pastel Highlighter Tape Kit - 10 Removable Rolls for Effortless Book Annotation"><img src="{{ '/assets/images/marketplace-covers/a91b3a7fec623741e18c.jpg' | relative_url }}" alt="Listing image for Pastel Highlighter Tape Kit - 10 Removable Rolls for Effortless Book Annotation" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-understanding-do-you-understand-it-or-just-recognize-it-increasing-book-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book annotation kit" data-ebay-reference="false-understanding-do-you-understand-it-or-just-recognize-it-increasing-book-annotation-kit" target="_blank" rel="sponsored noopener noreferrer">Pastel Highlighter Tape Kit - 10 Removable Rolls for Effortless Book Annotation</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-understanding-do-you-understand-it-or-just-recognize-it-increasing-book-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book annotation kit" data-ebay-reference="false-understanding-do-you-understand-it-or-just-recognize-it-increasing-book-annotation-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for book annotation kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: book annotation kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-understanding-do-you-understand-it-or-just-recognize-it-increasing-book-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book annotation kit" data-ebay-reference="false-understanding-do-you-understand-it-or-just-recognize-it-increasing-book-annotation-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-understanding-do-you-understand-it-or-just-recognize-it-increasing-book-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book annotation kit" data-ebay-reference="false-understanding-do-you-understand-it-or-just-recognize-it-increasing-book-annotation-kit" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -594,7 +594,7 @@ The goal of [increasing]({{ 'increasing/' | relative_url }}) reading speed is no
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -614,7 +614,7 @@ The goal of [increasing]({{ 'increasing/' | relative_url }}) reading speed is no
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -646,7 +646,7 @@ The goal of [increasing]({{ 'increasing/' | relative_url }}) reading speed is no
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -698,7 +698,7 @@ The goal of [increasing]({{ 'increasing/' | relative_url }}) reading speed is no
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -743,7 +743,7 @@ The goal of [increasing]({{ 'increasing/' | relative_url }}) reading speed is no
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -784,83 +784,83 @@ The goal of [increasing]({{ 'increasing/' | relative_url }}) reading speed is no
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3062901/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3062901/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by L Rozenblit · 2002 · Cited by 1499 — We argue here that people&#x27;s limited knowledge and their misleading intuitive epistemology comb...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3062901/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3062901/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by L Rozenblit · 2002 · Cited by 1499 — We argue here that people&#x27;s limited knowledge and their misleading intuitive epistemology comb...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: philpapers.org  
    Title: Phil Papersan illusion of explanatory depth  
-   Link: <a href="https://philpapers.org/rec/ROZTML" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/ROZTML</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>We demonstrate the illusion...Read more...</p></details>
+   Link:<a href="https://philpapers.org/rec/ROZTML" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/ROZTML</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We demonstrate the illusion...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: thedecisionlab.com  
-   Link: <a href="https://thedecisionlab.com/biases/the-illusion-of-explanatory-depth" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/the-illusion-of-explanatory-depth</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>That is, they often mistake...Read more...</p></details>
+   Link:<a href="https://thedecisionlab.com/biases/the-illusion-of-explanatory-depth" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/the-illusion-of-explanatory-depth</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>That is, they often mistake...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: learningcenter.unc.edu  
    Title: The Learning Center Skimming  
-   Link: <a href="https://learningcenter.unc.edu/tips-and-tools/skimming/" target="_blank" rel="noopener noreferrer nofollow">https://learningcenter.unc.edu/tips-and-tools/skimming/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Learning CenterSkimming - The Learning CenterSkimming is a strategic, selective reading method in which you focus on the main ideas o...</p></details>
+   Link:<a href="https://learningcenter.unc.edu/tips-and-tools/skimming/" target="_blank" rel="noopener noreferrer nofollow">https://learningcenter.unc.edu/tips-and-tools/skimming/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Learning CenterSkimming - The Learning CenterSkimming is a strategic, selective reading method in which you focus on the main ideas o...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: utc.edu  
-   Link: <a href="https://www.utc.edu/enrollment-management-and-student-affairs/center-for-academic-support-and-advisement/tips-for-academic-success/skimming" target="_blank" rel="noopener noreferrer nofollow">https://www.utc.edu/enrollment-management-and-student-affairs/center-for-academic-support-and-advisement/tips-for-academic-success/skimming</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>University of Tennessee at ChattanoogaSkimming and [Scanning](&amp;#123;&amp;#123; &#x27;scanning-vs-reading/&#x27; | relative_url &amp;#125;&amp;#125;) | University of Tennessee at...With skimming, your overall understanding is...</p></details>
+   Link:<a href="https://www.utc.edu/enrollment-management-and-student-affairs/center-for-academic-support-and-advisement/tips-for-academic-success/skimming" target="_blank" rel="noopener noreferrer nofollow">https://www.utc.edu/enrollment-management-and-student-affairs/center-for-academic-support-and-advisement/tips-for-academic-success/skimming</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of Tennessee at ChattanoogaSkimming and [Scanning](&amp;#123;&amp;#123; &#x27;scanning-vs-reading/&#x27; | relative_url &amp;#125;&amp;#125;) | University of Tennessee at...With skimming, your overall understanding is...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
    Title: Research Gate The Misunderstood Limits of Folk Science  
-   Link: <a href="https://www.researchgate.net/publication/50868445_The_Misunderstood_Limits_of_Folk_Science_An_Illusion_of_Explanatory_Depth" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/50868445_The_Misunderstood_Limits_of_Folk_Science_An_Illusion_of_Explanatory_Depth</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Misunderstood Limits of Folk Science - Illusions23 May 2026 — Leon Rozenblit and Frank Keil introduced this concept in 20...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/50868445_The_Misunderstood_Limits_of_Folk_Science_An_Illusion_of_Explanatory_Depth" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/50868445_The_Misunderstood_Limits_of_Folk_Science_An_Illusion_of_Explanatory_Depth</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Misunderstood Limits of Folk Science - Illusions23 May 2026 — Leon Rozenblit and Frank Keil introduced this concept in 20...</p></details>
    Published: May 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: takeielts.britishcouncil.org  
    Title: Take IELTSA Guide to Skimming vs  
-   Link: <a href="https://takeielts.britishcouncil.org/blog/skimming-and-scanning-for-ielts-reading" target="_blank" rel="noopener noreferrer nofollow">https://takeielts.britishcouncil.org/blog/skimming-and-scanning-for-ielts-reading</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Scanning for IELTS Reading2 Sept 2025 — Skimming helps you understand the overall meaning of the text.; Skimming is useful for answering...</p></details>
+   Link:<a href="https://takeielts.britishcouncil.org/blog/skimming-and-scanning-for-ielts-reading" target="_blank" rel="noopener noreferrer nofollow">https://takeielts.britishcouncil.org/blog/skimming-and-scanning-for-ielts-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scanning for IELTS Reading2 Sept 2025 — Skimming helps you understand the overall meaning of the text.; Skimming is useful for answering...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: The Illusion of Explanatory Depth: You Don't Understand It Like You Think  
-   Link: <a href="https://www.youtube.com/watch?v=yDJuCWUC5P8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yDJuCWUC5P8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>You Don&#x27;t Know How Toilets Work - The Illusion Of Explanatory Depth...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yDJuCWUC5P8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yDJuCWUC5P8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>You Don&#x27;t Know How Toilets Work - The Illusion Of Explanatory Depth...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: scienceblogs.com  
-   Link: <a href="https://scienceblogs.com/mixingmemory/2006/11/16/the-illusion-of-explanatory-de" target="_blank" rel="noopener noreferrer nofollow">https://scienceblogs.com/mixingmemory/2006/11/16/the-illusion-of-explanatory-de</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The &quot;Illusion of Explanatory Depth&quot;: How Much Do We Know...16 Nov 2006 — Rozenblit and Keil also found that in adults, the i...</p></details>
+   Link:<a href="https://scienceblogs.com/mixingmemory/2006/11/16/the-illusion-of-explanatory-de" target="_blank" rel="noopener noreferrer nofollow">https://scienceblogs.com/mixingmemory/2006/11/16/the-illusion-of-explanatory-de</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The &quot;Illusion of Explanatory Depth&quot;: How Much Do We Know...16 Nov 2006 — Rozenblit and Keil also found that in adults, the i...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: You Don't Know How Toilets Work  
-   Link: <a href="https://www.youtube.com/watch?v=9CodKUa4F2o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9CodKUa4F2o</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Knowledge Illusion with Steven Sloman...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=9CodKUa4F2o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9CodKUa4F2o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Knowledge Illusion with Steven Sloman...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Re-Reading Is Useless (The Research Is Clear)  
-   Link: <a href="https://www.youtube.com/watch?v=JATdos-SST4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JATdos-SST4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Illusion of Explanatory Depth: You Don&#x27;t Understand It Like You Think...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=JATdos-SST4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JATdos-SST4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Illusion of Explanatory Depth: You Don&#x27;t Understand It Like You Think...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: jsaw.lib.lehigh.edu  
-   Link: <a href="https://jsaw.lib.lehigh.edu/campbell/Wilson.pdf" target="_blank" rel="noopener noreferrer nofollow">https://jsaw.lib.lehigh.edu/campbell/Wilson.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Strength and Persistence of the Illusion of Explanatory Depthby J Wilson — These findings led Rozenblit and Keil (2002) to conclude t...</p></details>
+   Link:<a href="https://jsaw.lib.lehigh.edu/campbell/Wilson.pdf" target="_blank" rel="noopener noreferrer nofollow">https://jsaw.lib.lehigh.edu/campbell/Wilson.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Strength and Persistence of the Illusion of Explanatory Depthby J Wilson — These findings led Rozenblit and Keil (2002) to conclude t...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: The Knowledge Illusion with Steven Sloman  
-   Link: <a href="https://www.youtube.com/watch?v=02h7f2T_6mA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=02h7f2T_6mA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>You Don&#x27;t Know Anything - The Illusion of Explanatory Depth - FutureIQ...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=02h7f2T_6mA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=02h7f2T_6mA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>You Don&#x27;t Know Anything - The Illusion of Explanatory Depth - FutureIQ...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: You Don't Know Anything  
-   Link: <a href="https://www.youtube.com/watch?v=_ak0k7GNCjM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_ak0k7GNCjM</a>  
+   Link:<a href="https://www.youtube.com/watch?v=_ak0k7GNCjM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_ak0k7GNCjM</a>  

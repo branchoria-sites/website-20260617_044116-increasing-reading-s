@@ -273,13 +273,13 @@ A rising words-per-minute score can create the illusion of progress. In [practic
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_measure_readi_fdb760_one_sentence_54efea_false_speed_g_1948de-Illustration-1-dark.svg" | relative_url }}" alt="False gains illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_measure_readi_fdb760_one_sentence_54efea_false_speed_g_1948de-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_measure_readi_fdb760_one_sentence_54efea_false_speed_g_1948de-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters because reading comprehension is not simply recognising words or finishing pages quickly. Researchers define comprehension as the process of extracting and constructing meaning from text. A reader who moves faster but cannot accurately explain the central message has not necessarily become a better reader. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://lincs.ed.gov/publications/html/mcshane/chapter7.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lincs.ed.gov">[LINCS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lincs.ed.gov</span><span class="citation-popover-snippet">Chapter 7: Comprehension-Strategy InstructionWe define reading comprehension as the process of simultaneously extracting and constru...</span></span></span>
+This matters because reading comprehension is not simply recognising words or finishing pages quickly. Researchers define comprehension as the process of extracting and constructing meaning from text. A reader who moves faster but cannot accurately explain the central message has not necessarily become a better reader.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://lincs.ed.gov/publications/html/mcshane/chapter7.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lincs.ed.gov">[LINCS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lincs.ed.gov</span><span class="citation-popover-snippet">Chapter 7: Comprehension-Strategy InstructionWe define reading comprehension as the process of simultaneously extracting and constru...</span></span></span>
 
 ## When Faster Reading Only Looks Like Progress
 
 A timer measures pace. A summary measures understanding.
 
-Many speed-focused readers assume that finishing an article in half the time means they processed the same information more efficiently. However, a weak summary often reveals that the reader captured only fragments of the text. Summarisation is widely used as a comprehension check because it requires readers to identify central ideas, connect them, remove irrelevant details, and restate meaning in their own words. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/classroom/classroom-strategies/summarizing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets+2Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsSummarizingSummarizing teaches students how to identify the most important ideas in a text, how to ignore irrelevant infor...</span></span></span>
+Many speed-focused readers assume that finishing an article in half the time means they processed the same information more efficiently. However, a weak summary often reveals that the reader captured only fragments of the text. Summarisation is widely used as a comprehension check because it requires readers to identify central ideas, connect them, remove irrelevant details, and restate meaning in their own words.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/classroom/classroom-strategies/summarizing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets+2Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsSummarizingSummarizing teaches students how to identify the most important ideas in a text, how to ignore irrelevant infor...</span></span></span>
 
 The gap between reading speed and summary quality is where false gains become visible. A reader may feel faster because their eyes moved across the page more quickly, yet the resulting summary shows that the message was only partially understood.
 
@@ -306,7 +306,7 @@ Consider an article explaining that urban tree planting reduces heat in cities. 
 
 The detail is correct, but the article's main claim was broader: [increasing]({{ 'increasing/' | relative_url }}) urban tree cover can help reduce city temperatures. The reader remembered a supporting fact yet failed to capture the central idea.
 
-This distinction matters because comprehension depends on separating main ideas from supporting details. Effective summarisation requires identifying what the author was primarily communicating rather than collecting interesting facts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readnaturally.com/research/5-components-of-reading/comprehension" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readnaturally.com">[Read Naturally+2Keys to Literacy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readnaturally.com</span><span class="citation-popover-title">Face and Opinion</span><span class="citation-popover-snippet">Read NaturallyReading Comprehension: Strategies, Skills &amp; InstructionStudents need to learn to distinguish between main ideas and support...</span></span></span>
+This distinction matters because comprehension depends on separating main ideas from supporting details. Effective summarisation requires identifying what the author was primarily communicating rather than collecting interesting facts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readnaturally.com/research/5-components-of-reading/comprehension" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readnaturally.com">[Read Naturally+2Keys to Literacy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readnaturally.com</span><span class="citation-popover-title">Face and Opinion</span><span class="citation-popover-snippet">Read NaturallyReading Comprehension: Strategies, Skills &amp; InstructionStudents need to learn to distinguish between main ideas and support...</span></span></span>
 
 Readers who are pushing speed aggressively often show this pattern. Their eyes move quickly enough to notice prominent details, examples, statistics, or names, but not slowly enough to build a coherent representation of the text's meaning.
 
@@ -323,7 +323,7 @@ Imagine a passage discussing remote work. A reader's summary might be:
 
 > The article was about remote work.
 
-This demonstrates topic recognition, not comprehension. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/353601964_The_Effect_of_Summarizing_Narrative_Texts_to_Improve_Reading_Comprehension" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">The Effect of Summarizing Narrative Texts to Improve...5 Jan 2026 — This study demonstrates the effect of summaries of narrative texts t...</span></span></span>
+This demonstrates topic recognition, not comprehension.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/353601964_The_Effect_of_Summarizing_Narrative_Texts_to_Improve_Reading_Comprehension" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">The Effect of Summarizing Narrative Texts to Improve...5 Jan 2026 — This study demonstrates the effect of summaries of narrative texts t...</span></span></span>
 
 A useful summary should communicate the author's main claim, such as:
 
@@ -331,7 +331,7 @@ A useful summary should communicate the author's main claim, such as:
 
 The difference is significant. In the first example, the reader knows the subject area. In the second, the reader understands the argument.
 
-Research on summarisation consistently treats identification of central ideas as a core component of comprehension. Simply knowing what a text is about is not enough; readers must determine what the author is trying to communicate about that topic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/classroom/classroom-strategies/summarizing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets+2The Windward School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsSummarizingSummarizing teaches students how to identify the most important ideas in a text, how to ignore irrelevant infor...</span></span></span>
+Research on summarisation consistently treats identification of central ideas as a core component of comprehension. Simply knowing what a text is about is not enough; readers must determine what the author is trying to communicate about that topic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/classroom/classroom-strategies/summarizing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets+2The Windward School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsSummarizingSummarizing teaches students how to identify the most important ideas in a text, how to ignore irrelevant infor...</span></span></span>
 
 This distinction is especially important for non-fiction reading. Business [reports]({{ 'reports/' | relative_url }}), academic articles, opinion essays, and [technical]({{ 'technical-texts/' | relative_url }}) documents often contain a single central claim supported by evidence. Readers who skim too aggressively may recognise the domain while missing the conclusion.
 
@@ -349,7 +349,7 @@ For example, a passage that cautiously weighs benefits and drawbacks might be su
 
 This happens because skimming encourages prediction. Readers begin filling gaps with assumptions based on headings, familiar vocabulary, prior beliefs, or early paragraphs. As speed increases, less information is available to correct those assumptions.
 
-Strong summarisation requires readers to integrate ideas and construct meaning from the entire text rather than relying on impressions. Because of that, summarisation functions as a valuable reality check against overconfidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/topics/curriculum-and-instruction/articles/what-works-comprehension-instruction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets+2Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsWhat Works in Comprehension InstructionSummarization, where readers are taught to integrate ideas and generalize from the...</span></span></span>
+Strong summarisation requires readers to integrate ideas and construct meaning from the entire text rather than relying on impressions. Because of that, summarisation functions as a valuable reality check against overconfidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/topics/curriculum-and-instruction/articles/what-works-comprehension-instruction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets+2Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsWhat Works in Comprehension InstructionSummarization, where readers are taught to integrate ideas and generalize from the...</span></span></span>
 
 A distorted summary is often more revealing than an incomplete one. It suggests that the reader did not merely miss information; they actively constructed an inaccurate interpretation.
 
@@ -367,11 +367,11 @@ Summarisation is valuable precisely because it forces evidence of understanding.
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
-* Identify the central idea.(#endnote-13 "Snippet: In this video clip from eHow, find") <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.readingrockets.org/videos/classroom/teaching-strategies-using-summarizing-comprehension-reading-lessons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[readingrockets.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">In this video clip from eHow, find...</span></span></span>
+* Identify the central idea.(#endnote-13 "Snippet: In this video clip from eHow, find")<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.readingrockets.org/videos/classroom/teaching-strategies-using-summarizing-comprehension-reading-lessons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[readingrockets.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">In this video clip from eHow, find...</span></span></span>
 * Distinguish important information from supporting detail.
 * Connect related concepts.
 * Express the meaning in their own words.
-* Preserve the author's intent. University of Toronto Mississauga+3Reading Rockets+3Reading Rockets <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/classroom/classroom-strategies/summarizing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[readingrockets.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsSummarizingSummarizing teaches students how to identify the most important ideas in a text, how to ignore irrelevant infor...</span></span></span>
+* Preserve the author's intent. University of Toronto Mississauga+3Reading Rockets+3Reading Rockets<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/classroom/classroom-strategies/summarizing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[readingrockets.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsSummarizingSummarizing teaches students how to identify the most important ideas in a text, how to ignore irrelevant infor...</span></span></span>
 
 </div>
 
@@ -405,178 +405,178 @@ For readers trying to increase reading speed, that feedback is more valuable tha
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When faster reading only looks like progress. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When faster reading only looks like progress. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Directly addresses the difference between reading quickly and reading well.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Directly addresses the difference between reading quickly and reading well.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Only+Skill+that+Matters+Jonathan+A.+Levi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Only Skill that Matters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/15160962-M.jpg" alt="Cover for The Only Skill that Matters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Only+Skill+that+Matters+Jonathan+A.+Levi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Only Skill that Matters">The Only Skill that Matters</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan A. Levi</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Only+Skill+that+Matters+Jonathan+A.+Levi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Only Skill that Matters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/15160962-M.jpg" alt="Cover for The Only Skill that Matters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Only+Skill+that+Matters+Jonathan+A.+Levi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Only Skill that Matters">The Only Skill that Matters</a>
+</h4>
+<p class="fr-book-author">By Jonathan A. Levi</p>
         
-        <p class="fr-book-desc">First published 2019.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Only+Skill+that+Matters+Jonathan+A.+Levi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2019.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Only+Skill+that+Matters+Jonathan+A.+Levi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Breakthrough rapid reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/84360-M.jpg" alt="Cover for Breakthrough rapid reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breakthrough rapid reading">Breakthrough rapid reading</a>
-        </h4>
-        <p class="fr-book-author">By Peter Kump</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Breakthrough rapid reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/84360-M.jpg" alt="Cover for Breakthrough rapid reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breakthrough rapid reading">Breakthrough rapid reading</a>
+</h4>
+<p class="fr-book-author">By Peter Kump</p>
         
-        <p class="fr-book-desc">First published 1979. Subjects: Speed reading, Rapid reading, Du shu fang fa.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1979. Subjects: Speed reading, Rapid reading, Du shu fang fa.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Speed Reading Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/375099-M.jpg" alt="Cover for The Speed Reading Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Speed Reading Book">The Speed Reading Book</a>
-        </h4>
-        <p class="fr-book-author">By Tony Buzan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Speed Reading Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/375099-M.jpg" alt="Cover for The Speed Reading Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Speed Reading Book">The Speed Reading Book</a>
+</h4>
+<p class="fr-book-author">By Tony Buzan</p>
         
-        <p class="fr-book-desc">First published 1997. Subjects: Speed reading, Développement d&#x27;aptitudes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1997. Subjects: Speed reading, Développement d&#x27;aptitudes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Only+Skill+that+Matters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Only Skill that Matters</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Breakthrough rapid reading</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Only+Skill+that+Matters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Only Skill that Matters</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Breakthrough rapid reading</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-gains-when-faster-reading-only-looks-like-progress-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="false-gains-when-faster-reading-only-looks-like-progress-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Engage Literacy Benchmark Assessment Kit Level A-P Capstone Classroom 60 texts"><img src="{{ '/assets/images/marketplace-covers/a98b5b437a435a3d0766.jpg' | relative_url }}" alt="Listing image for Engage Literacy Benchmark Assessment Kit Level A-P Capstone Classroom 60 texts" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-gains-when-faster-reading-only-looks-like-progress-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="false-gains-when-faster-reading-only-looks-like-progress-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer">Engage Literacy Benchmark Assessment Kit Level A-P Capstone Classroom 60 texts</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-gains-when-faster-reading-only-looks-like-progress-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="false-gains-when-faster-reading-only-looks-like-progress-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for literacy assessment kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: literacy assessment kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-gains-when-faster-reading-only-looks-like-progress-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="false-gains-when-faster-reading-only-looks-like-progress-increasing-literacy-assessment-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-gains-when-faster-reading-only-looks-like-progress-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="false-gains-when-faster-reading-only-looks-like-progress-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Engage Literacy Benchmark Assessment Kit Level A-P Capstone Classroom 60 texts"><img src="{{ '/assets/images/marketplace-covers/a98b5b437a435a3d0766.jpg' | relative_url }}" alt="Listing image for Engage Literacy Benchmark Assessment Kit Level A-P Capstone Classroom 60 texts" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-gains-when-faster-reading-only-looks-like-progress-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="false-gains-when-faster-reading-only-looks-like-progress-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer">Engage Literacy Benchmark Assessment Kit Level A-P Capstone Classroom 60 texts</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-gains-when-faster-reading-only-looks-like-progress-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="false-gains-when-faster-reading-only-looks-like-progress-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for literacy assessment kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: literacy assessment kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-gains-when-faster-reading-only-looks-like-progress-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="false-gains-when-faster-reading-only-looks-like-progress-increasing-literacy-assessment-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-gains-when-faster-reading-only-looks-like-progress-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="false-gains-when-faster-reading-only-looks-like-progress-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TOWL 4 Test of Written Language assessment kit / SEN, ALN, Literacy, school"><img src="{{ '/assets/images/marketplace-covers/8bff2c480feb01ce2715.jpg' | relative_url }}" alt="Listing image for TOWL 4 Test of Written Language assessment kit / SEN, ALN, Literacy, school" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-gains-when-faster-reading-only-looks-like-progress-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="false-gains-when-faster-reading-only-looks-like-progress-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer">TOWL 4 Test of Written Language assessment kit / SEN, ALN, Literacy, school</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-gains-when-faster-reading-only-looks-like-progress-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="false-gains-when-faster-reading-only-looks-like-progress-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for literacy assessment kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: literacy assessment kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-gains-when-faster-reading-only-looks-like-progress-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="false-gains-when-faster-reading-only-looks-like-progress-increasing-literacy-assessment-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-gains-when-faster-reading-only-looks-like-progress-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="false-gains-when-faster-reading-only-looks-like-progress-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TOWL 4 Test of Written Language assessment kit / SEN, ALN, Literacy, school"><img src="{{ '/assets/images/marketplace-covers/8bff2c480feb01ce2715.jpg' | relative_url }}" alt="Listing image for TOWL 4 Test of Written Language assessment kit / SEN, ALN, Literacy, school" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-gains-when-faster-reading-only-looks-like-progress-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="false-gains-when-faster-reading-only-looks-like-progress-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer">TOWL 4 Test of Written Language assessment kit / SEN, ALN, Literacy, school</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-gains-when-faster-reading-only-looks-like-progress-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="false-gains-when-faster-reading-only-looks-like-progress-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for literacy assessment kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: literacy assessment kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-gains-when-faster-reading-only-looks-like-progress-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="false-gains-when-faster-reading-only-looks-like-progress-increasing-literacy-assessment-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-gains-when-faster-reading-only-looks-like-progress-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="false-gains-when-faster-reading-only-looks-like-progress-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DEVELOPMENTAL READING ASSESSMENT DRA MANUAL FOR K3 LITERACY JOETTA BEAVER"><img src="{{ '/assets/images/marketplace-covers/588788312481d0d50bdc.jpg' | relative_url }}" alt="Listing image for DEVELOPMENTAL READING ASSESSMENT DRA MANUAL FOR K3 LITERACY JOETTA BEAVER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-gains-when-faster-reading-only-looks-like-progress-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="false-gains-when-faster-reading-only-looks-like-progress-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer">DEVELOPMENTAL READING ASSESSMENT DRA MANUAL FOR K3 LITERACY JOETTA BEAVER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-gains-when-faster-reading-only-looks-like-progress-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="false-gains-when-faster-reading-only-looks-like-progress-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for literacy assessment kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: literacy assessment kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-gains-when-faster-reading-only-looks-like-progress-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="false-gains-when-faster-reading-only-looks-like-progress-increasing-literacy-assessment-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-gains-when-faster-reading-only-looks-like-progress-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="false-gains-when-faster-reading-only-looks-like-progress-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-gains-when-faster-reading-only-looks-like-progress-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="false-gains-when-faster-reading-only-looks-like-progress-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DEVELOPMENTAL READING ASSESSMENT DRA MANUAL FOR K3 LITERACY JOETTA BEAVER"><img src="{{ '/assets/images/marketplace-covers/588788312481d0d50bdc.jpg' | relative_url }}" alt="Listing image for DEVELOPMENTAL READING ASSESSMENT DRA MANUAL FOR K3 LITERACY JOETTA BEAVER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-gains-when-faster-reading-only-looks-like-progress-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="false-gains-when-faster-reading-only-looks-like-progress-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer">DEVELOPMENTAL READING ASSESSMENT DRA MANUAL FOR K3 LITERACY JOETTA BEAVER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-gains-when-faster-reading-only-looks-like-progress-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="false-gains-when-faster-reading-only-looks-like-progress-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for literacy assessment kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: literacy assessment kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-gains-when-faster-reading-only-looks-like-progress-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="false-gains-when-faster-reading-only-looks-like-progress-increasing-literacy-assessment-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-gains-when-faster-reading-only-looks-like-progress-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="false-gains-when-faster-reading-only-looks-like-progress-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -592,7 +592,7 @@ For readers trying to increase reading speed, that feedback is more valuable tha
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -612,7 +612,7 @@ For readers trying to increase reading speed, that feedback is more valuable tha
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -644,7 +644,7 @@ For readers trying to increase reading speed, that feedback is more valuable tha
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -696,7 +696,7 @@ For readers trying to increase reading speed, that feedback is more valuable tha
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -741,7 +741,7 @@ For readers trying to increase reading speed, that feedback is more valuable tha
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -782,169 +782,169 @@ For readers trying to increase reading speed, that feedback is more valuable tha
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: lincs.ed.gov  
-   Link: <a href="https://lincs.ed.gov/publications/html/mcshane/chapter7.html" target="_blank" rel="noopener noreferrer nofollow">https://lincs.ed.gov/publications/html/mcshane/chapter7.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 7: Comprehension-Strategy InstructionWe define reading comprehension as the process of simultaneously extracting and constru...</p></details>
+   Link:<a href="https://lincs.ed.gov/publications/html/mcshane/chapter7.html" target="_blank" rel="noopener noreferrer nofollow">https://lincs.ed.gov/publications/html/mcshane/chapter7.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 7: Comprehension-Strategy InstructionWe define reading comprehension as the process of simultaneously extracting and constru...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: summary.com  
-   Link: <a href="https://www.summary.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.summary.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Each summary captures the most important ideas and takeaways in the author&#x27;s own words.Read more...</p></details>
+   Link:<a href="https://www.summary.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.summary.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Each summary captures the most important ideas and takeaways in the author&#x27;s own words.Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/classroom/classroom-strategies/summarizing" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/classroom/classroom-strategies/summarizing</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsSummarizingSummarizing teaches students how to identify the most important ideas in a text, how to ignore irrelevant infor...</p></details>
+   Link:<a href="https://www.readingrockets.org/classroom/classroom-strategies/summarizing" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/classroom/classroom-strategies/summarizing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsSummarizingSummarizing teaches students how to identify the most important ideas in a text, how to ignore irrelevant infor...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/topics/comprehension/articles/seven-strategies-teach-students-text-comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/comprehension/articles/seven-strategies-teach-students-text-comprehension</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Seven Strategies to Teach Students Text Comprehension7. Summarizing · Identify or generate main ideas · Connect the main or central ideas...</p></details>
+   Link:<a href="https://www.readingrockets.org/topics/comprehension/articles/seven-strategies-teach-students-text-comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/comprehension/articles/seven-strategies-teach-students-text-comprehension</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Seven Strategies to Teach Students Text Comprehension7. Summarizing · Identify or generate main ideas · Connect the main or central ideas...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/topics/curriculum-and-instruction/articles/what-works-comprehension-instruction" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/curriculum-and-instruction/articles/what-works-comprehension-instruction</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsWhat Works in Comprehension InstructionSummarization, where readers are taught to integrate ideas and generalize from the...</p></details>
+   Link:<a href="https://www.readingrockets.org/topics/curriculum-and-instruction/articles/what-works-comprehension-instruction" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/curriculum-and-instruction/articles/what-works-comprehension-instruction</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsWhat Works in Comprehension InstructionSummarization, where readers are taught to integrate ideas and generalize from the...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: readnaturally.com  
    Title: Face and Opinion  
-   Link: <a href="https://www.readnaturally.com/research/5-components-of-reading/comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.readnaturally.com/research/5-components-of-reading/comprehension</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Read NaturallyReading Comprehension: Strategies, Skills &amp; InstructionStudents need to learn to distinguish between main ideas and support...</p></details>
+   Link:<a href="https://www.readnaturally.com/research/5-components-of-reading/comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.readnaturally.com/research/5-components-of-reading/comprehension</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Read NaturallyReading Comprehension: Strategies, Skills &amp; InstructionStudents need to learn to distinguish between main ideas and support...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: keystoliteracy.com  
    Title: scaffolds support summarizing  
-   Link: <a href="https://keystoliteracy.com/blog/scaffolds-support-summarizing/" target="_blank" rel="noopener noreferrer nofollow">https://keystoliteracy.com/blog/scaffolds-support-summarizing/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Scaffolds to Support SummarizingMar 29, 2016 — In order to summarize, students must be able to understand what they are reading, separate...</p></details>
+   Link:<a href="https://keystoliteracy.com/blog/scaffolds-support-summarizing/" target="_blank" rel="noopener noreferrer nofollow">https://keystoliteracy.com/blog/scaffolds-support-summarizing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scaffolds to Support SummarizingMar 29, 2016 — In order to summarize, students must be able to understand what they are reading, separate...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: utm.utoronto.ca  
-   Link: <a href="https://www.utm.utoronto.ca/rgasc/student-resource-hub/writing-resources/six-effective-tips-write-summary" target="_blank" rel="noopener noreferrer nofollow">https://www.utm.utoronto.ca/rgasc/student-resource-hub/writing-resources/six-effective-tips-write-summary</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1. Identify the sections of the text. Find the text&#x27;s thesis and main ideas. Breaking down the text into sections helps...Read more...</p></details>
+   Link:<a href="https://www.utm.utoronto.ca/rgasc/student-resource-hub/writing-resources/six-effective-tips-write-summary" target="_blank" rel="noopener noreferrer nofollow">https://www.utm.utoronto.ca/rgasc/student-resource-hub/writing-resources/six-effective-tips-write-summary</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1. Identify the sections of the text. Find the text&#x27;s thesis and main ideas. Breaking down the text into sections helps...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: thewindwardschool.org  
-   Link: <a href="https://www.thewindwardschool.org/institute-blogs/summarizing-an-essential-comprehension-skill/" target="_blank" rel="noopener noreferrer nofollow">https://www.thewindwardschool.org/institute-blogs/summarizing-an-essential-comprehension-skill/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Windward SchoolSummarizing: An Essential Comprehension SkillSummarization requires students to identify main ideas, synthesize inform...</p></details>
+   Link:<a href="https://www.thewindwardschool.org/institute-blogs/summarizing-an-essential-comprehension-skill/" target="_blank" rel="noopener noreferrer nofollow">https://www.thewindwardschool.org/institute-blogs/summarizing-an-essential-comprehension-skill/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Windward SchoolSummarizing: An Essential Comprehension SkillSummarization requires students to identify main ideas, synthesize inform...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/topics/[background" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/[background</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Strategies that Promote ComprehensionDetermine and summarize important ideas and supportive details. · Make connections between and among...</p></details>
+   Link:<a href="https://www.readingrockets.org/topics/[background" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/[background</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Strategies that Promote ComprehensionDetermine and summarize important ideas and supportive details. · Make connections between and among...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: readingrockets.org  
    Title: why main idea not main idea or how best teach reading comprehension  
-   Link: <a href="https://www.readingrockets.org/blogs/shanahan-on-literacy/why-main-idea-not-main-idea-or-how-best-teach-reading-comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/blogs/shanahan-on-literacy/why-main-idea-not-main-idea-or-how-best-teach-reading-comprehension</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Main Idea Is Not the Main Idea — or, How Best to...Dec 4, 2023 — Focus on summarizing, text structure analysis, and paraphrasing — t...</p></details>
+   Link:<a href="https://www.readingrockets.org/blogs/shanahan-on-literacy/why-main-idea-not-main-idea-or-how-best-teach-reading-comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/blogs/shanahan-on-literacy/why-main-idea-not-main-idea-or-how-best-teach-reading-comprehension</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Main Idea Is Not the Main Idea — or, How Best to...Dec 4, 2023 — Focus on summarizing, text structure analysis, and paraphrasing — t...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: readingn.com  
    Title: READIN G &  
-   Link: <a href="https://www.readingn.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.readingn.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>READING &amp; - Home즐거움이 만드는 실력, READING &amp; (리딩앤)은 첨단 디지털 영어 리딩 프로그램입니다...</p></details>
+   Link:<a href="https://www.readingn.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.readingn.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>READING &amp; - Home즐거움이 만드는 실력, READING &amp; (리딩앤)은 첨단 디지털 영어 리딩 프로그램입니다...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: readingrockets.org  
    Title: how do i teach main idea  
-   Link: <a href="https://www.readingrockets.org/blogs/shanahan-on-literacy/how-do-i-teach-main-idea" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/blogs/shanahan-on-literacy/how-do-i-teach-main-idea</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>?Nov 26, 2018 — For example, teaching summarization as a strategy means teaching students to use summarization to support their reading c...</p></details>
+   Link:<a href="https://www.readingrockets.org/blogs/shanahan-on-literacy/how-do-i-teach-main-idea" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/blogs/shanahan-on-literacy/how-do-i-teach-main-idea</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?Nov 26, 2018 — For example, teaching summarization as a strategy means teaching students to use summarization to support their reading c...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/videos/classroom/teaching-strategies-using-summarizing-comprehension-reading-lessons" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/videos/classroom/teaching-strategies-using-summarizing-comprehension-reading-lessons</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In this video clip from eHow, find...</p></details>
+   Link:<a href="https://www.readingrockets.org/videos/classroom/teaching-strategies-using-summarizing-comprehension-reading-lessons" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/videos/classroom/teaching-strategies-using-summarizing-comprehension-reading-lessons</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In this video clip from eHow, find...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Reading" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ReadingReading is the process of taking in the sense or meaning of symbols, often specifically those of a written language, by means o...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Reading" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ReadingReading is the process of taking in the sense or meaning of symbols, often specifically those of a written language, by means o...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Summary" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Summary</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SummarySummary or executive summary of a document, a short document or section that summarizes a longer document such as a report or p...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Summary" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Summary</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SummarySummary or executive summary of a document, a short document or section that summarizes a longer document such as a report or p...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: keystoliteracy.com  
-   Link: <a href="https://keystoliteracy.com/blog/in-support-of-main-idea-and-comprehension-strategy-instruction/" target="_blank" rel="noopener noreferrer nofollow">https://keystoliteracy.com/blog/in-support-of-main-idea-and-comprehension-strategy-instruction/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>truction of comprehension strategies, including teaching students to identify and state main ideas.Read more...</p></details>
+   Link:<a href="https://keystoliteracy.com/blog/in-support-of-main-idea-and-comprehension-strategy-instruction/" target="_blank" rel="noopener noreferrer nofollow">https://keystoliteracy.com/blog/in-support-of-main-idea-and-comprehension-strategy-instruction/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>truction of comprehension strategies, including teaching students to identify and state main ideas.Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/summary" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/summary</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionarya short, clear description that gives the main facts or ideas about something: At the end of the...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/summary" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/summary</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionarya short, clear description that gives the main facts or ideas about something: At the end of the...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/reading" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary8 days ago — the skill or activity of getting information from books. Reading and tennis are my f...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/reading" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary8 days ago — the skill or activity of getting information from books. Reading and tennis are my f...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: comprehensionfortheclassroom.weebly.com  
-   Link: <a href="https://comprehensionfortheclassroom.weebly.com/summarizing.html" target="_blank" rel="noopener noreferrer nofollow">https://comprehensionfortheclassroom.weebly.com/summarizing.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>weebly.comSummarizingBenefits: According to Reading Rockets, “Summarizing teaches students how to discern the most important ideas in a t...</p></details>
+   Link:<a href="https://comprehensionfortheclassroom.weebly.com/summarizing.html" target="_blank" rel="noopener noreferrer nofollow">https://comprehensionfortheclassroom.weebly.com/summarizing.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>weebly.comSummarizingBenefits: According to Reading Rockets, “Summarizing teaches students how to discern the most important ideas in a t...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: readingstrategiesmsu.weebly.com  
-   Link: <a href="https://readingstrategiesmsu.weebly.com/summarizing.html" target="_blank" rel="noopener noreferrer nofollow">https://readingstrategiesmsu.weebly.com/summarizing.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[purpose](&amp;#123;&amp;#123; &#x27;purpose/&#x27; | relative_url &amp;#125;&amp;#125;) of this strategy is to pull out the main ideas out of the passage and focus on the key details. An example of where this strategy...</p></details>
+   Link:<a href="https://readingstrategiesmsu.weebly.com/summarizing.html" target="_blank" rel="noopener noreferrer nofollow">https://readingstrategiesmsu.weebly.com/summarizing.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[purpose](&amp;#123;&amp;#123; &#x27;purpose/&#x27; | relative_url &amp;#125;&amp;#125;) of this strategy is to pull out the main ideas out of the passage and focus on the key details. An example of where this strategy...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: quillbot.com  
-   Link: <a href="https://quillbot.com/blog/content-writing/what-is-a-summary/" target="_blank" rel="noopener noreferrer nofollow">https://quillbot.com/blog/content-writing/what-is-a-summary/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Summary? | Definition &amp; Writing Tips26 Jun 2024 — A summary is a shortened version of a text that captures the main points made in the or...</p></details>
+   Link:<a href="https://quillbot.com/blog/content-writing/what-is-a-summary/" target="_blank" rel="noopener noreferrer nofollow">https://quillbot.com/blog/content-writing/what-is-a-summary/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Summary? | Definition &amp; Writing Tips26 Jun 2024 — A summary is a shortened version of a text that captures the main points made in the or...</p></details>
 
 ### Additional References
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/reading" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>READING Definition &amp; Meaning5 days ago — 1. The act of reading. 2. a: material read or for reading b: extent of material read. 3. a: a...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/reading" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>READING Definition &amp; Meaning5 days ago — 1. The act of reading. 2. a: material read or for reading b: extent of material read. 3. a: a...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/353601964_The_Effect_of_Summarizing_Narrative_Texts_to_Improve_Reading_Comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/353601964_The_Effect_of_Summarizing_Narrative_Texts_to_Improve_Reading_Comprehension</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Effect of Summarizing Narrative Texts to Improve...5 Jan 2026 — This study demonstrates the effect of summaries of narrative texts t...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/353601964_The_Effect_of_Summarizing_Narrative_Texts_to_Improve_Reading_Comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/353601964_The_Effect_of_Summarizing_Narrative_Texts_to_Improve_Reading_Comprehension</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Effect of Summarizing Narrative Texts to Improve...5 Jan 2026 — This study demonstrates the effect of summaries of narrative texts t...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: media.neliti.com  
-   Link: <a href="https://media.neliti.com/media/publications/434001-the-effect-of-using-close-reading-and-gi-500255da.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.neliti.com/media/publications/434001-the-effect-of-using-close-reading-and-gi-500255da.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of Using Close Reading and GIST Strategies on...by T TAQIYUDDIN · Cited by 1 — Reading comprehension is the ability to read text...</p></details>
+   Link:<a href="https://media.neliti.com/media/publications/434001-the-effect-of-using-close-reading-and-gi-500255da.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.neliti.com/media/publications/434001-the-effect-of-using-close-reading-and-gi-500255da.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of Using Close Reading and GIST Strategies on...by T TAQIYUDDIN · Cited by 1 — Reading comprehension is the ability to read text...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=LbO3lRXT0ww" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LbO3lRXT0ww</a>  
+   Link:<a href="https://www.youtube.com/watch?v=LbO3lRXT0ww" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LbO3lRXT0ww</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DXDcUv4DK8q/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXDcUv4DK8q/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>build context [before reading](&amp;#123;&amp;#123; &#x27;before-reading/&#x27; | relative_url &amp;#125;&amp;#125;). Explicitly teach - one text structure. Purpose - make it clear to students...</p></details>
+   Link:<a href="https://www.instagram.com/p/DXDcUv4DK8q/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXDcUv4DK8q/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>build context [before reading](&amp;#123;&amp;#123; &#x27;before-reading/&#x27; | relative_url &amp;#125;&amp;#125;). Explicitly teach - one text structure. Purpose - make it clear to students...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: ers.readingstar.co.kr  
-   Link: <a href="https://ers.readingstar.co.kr/" target="_blank" rel="noopener noreferrer nofollow">https://ers.readingstar.co.kr/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>StarReadingStar 체험학습 신개념의 온라인 E-Book 독서후 학습 평가를 무료로. 오늘 하루 열지 않기. ReadingStar. LOG IN | HELP. 리딩...</p></details>
+   Link:<a href="https://ers.readingstar.co.kr/" target="_blank" rel="noopener noreferrer nofollow">https://ers.readingstar.co.kr/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>StarReadingStar 체험학습 신개념의 온라인 E-Book 독서후 학습 평가를 무료로. 오늘 하루 열지 않기. ReadingStar. LOG IN | HELP. 리딩...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: macrothink.org  
-   Link: <a href="https://www.macrothink.org/journal/index.php/ijld/article/viewFile/8271/6862" target="_blank" rel="noopener noreferrer nofollow">https://www.macrothink.org/journal/index.php/ijld/article/viewFile/8271/6862</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>eading strategy is effective in improving students reading comprehension.Read more...</p></details>
+   Link:<a href="https://www.macrothink.org/journal/index.php/ijld/article/viewFile/8271/6862" target="_blank" rel="noopener noreferrer nofollow">https://www.macrothink.org/journal/index.php/ijld/article/viewFile/8271/6862</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>eading strategy is effective in improving students reading comprehension.Read more...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DWCXBMuDif5/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWCXBMuDif5/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ideas, integrating them, and checking comprehension—basically “main idea...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DWCXBMuDif5/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWCXBMuDif5/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ideas, integrating them, and checking comprehension—basically “main idea...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/summary" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/summary</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SUMMARY Definition &amp; MeaningThe meaning of SUMMARY is comprehensive; especially: covering the main points succinctly. How to use summary...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/summary" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/summary</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SUMMARY Definition &amp; MeaningThe meaning of SUMMARY is comprehensive; especially: covering the main points succinctly. How to use summary...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: en.wiktionary.org  
    Title: orgsummarysummary (comparative more  
-   Link: <a href="https://en.wiktionary.org/wiki/summary" target="_blank" rel="noopener noreferrer nofollow">https://en.wiktionary.org/wiki/summary</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(comparative more summary, superlative most summary) Concise, brief, or presented in a condensed form; presenting information in such a f...</p></details>
+   Link:<a href="https://en.wiktionary.org/wiki/summary" target="_blank" rel="noopener noreferrer nofollow">https://en.wiktionary.org/wiki/summary</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(comparative more summary, superlative most summary) Concise, brief, or presented in a condensed form; presenting information in such a f...</p></details>

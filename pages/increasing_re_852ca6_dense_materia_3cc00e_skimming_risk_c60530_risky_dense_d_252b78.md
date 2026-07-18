@@ -275,7 +275,7 @@ image: /assets/images/increasing_re_852ca6_dense_materia_3cc00e_skimming_risk_c6
 
 ## Introduction
 
-[Increasing]({{ 'increasing/' | relative_url }}) reading speed is useful when the goal is orientation, but some documents are too costly to misunderstand. Legal contracts, medical instructions, prescribing information, eligibility criteria, and technical compliance documents often place critical limitations in short phrases that are easy to skip. In these contexts, the risk is not merely missing a detail. A missed qualifier can change who is covered, who is liable, who is eligible for treatment, or whether a medicine can be used safely. The challenge is that the most important information is often buried inside exceptions, conditions, and [definitions]({{ 'definitions/' | relative_url }}) rather than highlighted in the main message. When the consequences involve money, safety, compliance, or health, skimming shifts from a speed technique to a risk-management decision. U.S. Food and Drug Administration+2U.S. Food and Drug Administration <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fda.gov/regulatory-information/search-fda-guidance-documents/warnings-and-precautions-contraindications-and-boxed-warning-sections-labeling-human-prescription" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[fda.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-snippet">Food and Drug AdministrationWarnings and Precautions, Contraindications, and Boxed...May 5, 2020 — This guidance is intended to assist a...</span><span class="citation-popover-meta">Published: May 5, 2020</span></span></span>
+[Increasing]({{ 'increasing/' | relative_url }}) reading speed is useful when the goal is orientation, but some documents are too costly to misunderstand. Legal contracts, medical instructions, prescribing information, eligibility criteria, and technical compliance documents often place critical limitations in short phrases that are easy to skip. In these contexts, the risk is not merely missing a detail. A missed qualifier can change who is covered, who is liable, who is eligible for treatment, or whether a medicine can be used safely. The challenge is that the most important information is often buried inside exceptions, conditions, and [definitions]({{ 'definitions/' | relative_url }}) rather than highlighted in the main message. When the consequences involve money, safety, compliance, or health, skimming shifts from a speed technique to a risk-management decision. U.S. Food and Drug Administration+2U.S. Food and Drug Administration<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fda.gov/regulatory-information/search-fda-guidance-documents/warnings-and-precautions-contraindications-and-boxed-warning-sections-labeling-human-prescription" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[fda.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-snippet">Food and Drug AdministrationWarnings and Precautions, Contraindications, and Boxed...May 5, 2020 — This guidance is intended to assist a...</span><span class="citation-popover-meta">Published: May 5, 2020</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_dense_materia_3cc00e_skimming_risk_c60530_risky_dense_d_252b78-Illustration-1-dark.svg" | relative_url }}" alt="Risky Texts illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_dense_materia_3cc00e_skimming_risk_c60530_risky_dense_d_252b78-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_dense_materia_3cc00e_skimming_risk_c60530_risky_dense_d_252b78-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -283,9 +283,9 @@ image: /assets/images/increasing_re_852ca6_dense_materia_3cc00e_skimming_risk_c6
 
 Many readers assume that the main point of a document appears in its headings or opening paragraphs. Legal and medical documents frequently work differently. The broad rule may appear first, while the practical limits appear later.
 
-In contracts, rights and obligations are often narrowed by [exceptions]({{ 'exceptions/' | relative_url }}) introduced through words such as “unless”, “except”, “subject to”, or “provided that”. A reader who remembers the general promise but misses the exception may walk away with the opposite understanding of what the agreement actually requires. Legal scholars and practitioners consistently note that contract interpretation can hinge on precise wording, grammar, and ambiguity rather than broad intent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lawsociety.org.uk/topics/in-house/do-not-forget-your-commas-the-importance-of-language-and-grammar-in-contract-drafting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lawsociety.org.uk">[Law Society+2Stanford Law School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lawsociety.org.uk</span><span class="citation-popover-snippet">Law SocietyWhy clear language makes for strong contracts26 Jul 2023 — Daniela Licciardo explains why grammar and language are so importan...</span></span></span>
+In contracts, rights and obligations are often narrowed by [exceptions]({{ 'exceptions/' | relative_url }}) introduced through words such as “unless”, “except”, “subject to”, or “provided that”. A reader who remembers the general promise but misses the exception may walk away with the opposite understanding of what the agreement actually requires. Legal scholars and practitioners consistently note that contract interpretation can hinge on precise wording, grammar, and ambiguity rather than broad intent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lawsociety.org.uk/topics/in-house/do-not-forget-your-commas-the-importance-of-language-and-grammar-in-contract-drafting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lawsociety.org.uk">[Law Society+2Stanford Law School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lawsociety.org.uk</span><span class="citation-popover-snippet">Law SocietyWhy clear language makes for strong contracts26 Jul 2023 — Daniela Licciardo explains why grammar and language are so importan...</span></span></span>
 
-Medical documents present a similar problem. A treatment recommendation may apply only to a specific patient group, age range, medical history, or risk category. Regulatory agencies devote entire sections of prescribing information to contraindications, warnings, precautions, [interactions]({{ 'interactions/' | relative_url }}), and use in special populations because seemingly small distinctions can have major safety implications. U.S. Food and Drug Administration+2U.S. Food and Drug Administration <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fda.gov/regulatory-information/search-fda-guidance-documents/warnings-and-precautions-contraindications-and-boxed-warning-sections-labeling-human-prescription" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[fda.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-snippet">Food and Drug AdministrationWarnings and Precautions, Contraindications, and Boxed...May 5, 2020 — This guidance is intended to assist a...</span><span class="citation-popover-meta">Published: May 5, 2020</span></span></span>
+Medical documents present a similar problem. A treatment recommendation may apply only to a specific patient group, age range, medical history, or risk category. Regulatory agencies devote entire sections of prescribing information to contraindications, warnings, precautions, [interactions]({{ 'interactions/' | relative_url }}), and use in special populations because seemingly small distinctions can have major safety implications. U.S. Food and Drug Administration+2U.S. Food and Drug Administration<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fda.gov/regulatory-information/search-fda-guidance-documents/warnings-and-precautions-contraindications-and-boxed-warning-sections-labeling-human-prescription" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[fda.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-snippet">Food and Drug AdministrationWarnings and Precautions, Contraindications, and Boxed...May 5, 2020 — This guidance is intended to assist a...</span><span class="citation-popover-meta">Published: May 5, 2020</span></span></span>
 
 [Technical]({{ 'technical-texts/' | relative_url }}) specifications and compliance documents create another version of the same risk. A requirement that appears mandatory may apply only under certain operating conditions. Missing those conditions can lead to regulatory failures, procurement mistakes, or implementation errors.
 
@@ -297,7 +297,7 @@ The danger of [skimming]({{ 'skimming/' | relative_url }}) is not simply that in
 
 ### Eligibility Rules That Look Broader Than They Are
 
-Medical guidance frequently uses layered eligibility criteria. For example, contraceptive guidance from health authorities does not merely state whether a method is recommended. Recommendations change according to specific medical conditions, age groups, and risk factors. The difference between “generally appropriate” and “not recommended for patients with this condition” may be contained in a table entry or footnote rather than a headline statement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.who.int/publications/i/item/9789241549158" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization+2CoSRH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-title">World Health Organization Medical eligibility criteria for contraceptive use</span><span class="citation-popover-snippet">World Health OrganizationMedical eligibility criteria for contraceptive useFebruary 3, 2015 — 3 Feb 2015 — This document is part of the p...</span><span class="citation-popover-meta">Published: February 3, 2015</span></span></span>
+Medical guidance frequently uses layered eligibility criteria. For example, contraceptive guidance from health authorities does not merely state whether a method is recommended. Recommendations change according to specific medical conditions, age groups, and risk factors. The difference between “generally appropriate” and “not recommended for patients with this condition” may be contained in a table entry or footnote rather than a headline statement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.who.int/publications/i/item/9789241549158" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization+2CoSRH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-title">World Health Organization Medical eligibility criteria for contraceptive use</span><span class="citation-popover-snippet">World Health OrganizationMedical eligibility criteria for contraceptive useFebruary 3, 2015 — 3 Feb 2015 — This document is part of the p...</span><span class="citation-popover-meta">Published: February 3, 2015</span></span></span>
 
 A fast reader may retain the broad recommendation while overlooking the condition that determines whether it applies to a particular person.
 
@@ -306,15 +306,15 @@ A fast reader may retain the broad recommendation while overlooking the conditio
 
 ### Contraindications and Drug Warnings
 
-Prescription drug information contains sections specifically designed to prevent dangerous oversights. Contraindications identify situations in which a drug should not be used. Warnings and precautions describe serious risks, and boxed warnings represent the strongest safety warnings required by the U.S. Food and Drug Administration. These warnings exist because the consequences of overlooking a narrow restriction can include severe injury, hospitalisation, or death. Bloomberg School of Public Health+3U.S. Food and Drug Administration+3HHS.gov <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fda.gov/regulatory-information/search-fda-guidance-documents/warnings-and-precautions-contraindications-and-boxed-warning-sections-labeling-human-prescription" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[fda.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-snippet">Food and Drug AdministrationWarnings and Precautions, Contraindications, and Boxed...May 5, 2020 — This guidance is intended to assist a...</span><span class="citation-popover-meta">Published: May 5, 2020</span></span></span>
+Prescription drug information contains sections specifically designed to prevent dangerous oversights. Contraindications identify situations in which a drug should not be used. Warnings and precautions describe serious risks, and boxed warnings represent the strongest safety warnings required by the U.S. Food and Drug Administration. These warnings exist because the consequences of overlooking a narrow restriction can include severe injury, hospitalisation, or death. Bloomberg School of Public Health+3U.S. Food and Drug Administration+3HHS.gov<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fda.gov/regulatory-information/search-fda-guidance-documents/warnings-and-precautions-contraindications-and-boxed-warning-sections-labeling-human-prescription" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[fda.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-snippet">Food and Drug AdministrationWarnings and Precautions, Contraindications, and Boxed...May 5, 2020 — This guidance is intended to assist a...</span><span class="citation-popover-meta">Published: May 5, 2020</span></span></span>
 
-The FDA's prescribing-information structure explicitly separates indications, contraindications, drug interactions, and special-population guidance because each can alter the appropriateness of treatment. Skimming only the indication while skipping the [limitation]({{ 'reading-limits/' | relative_url }}) sections can produce a dangerously incomplete understanding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fda.gov/about-fda/oncology-center-excellence/how-do-i-use-prescription-drug-labeling" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-title">how do i use prescription drug labeling</span><span class="citation-popover-snippet">Food and Drug AdministrationHow Do I Use Prescription Drug LabelingNov 13, 2024 — Section 4: Contraindications; Section 5: Warnings and P...</span></span></span>
+The FDA's prescribing-information structure explicitly separates indications, contraindications, drug interactions, and special-population guidance because each can alter the appropriateness of treatment. Skimming only the indication while skipping the [limitation]({{ 'reading-limits/' | relative_url }}) sections can produce a dangerously incomplete understanding.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fda.gov/about-fda/oncology-center-excellence/how-do-i-use-prescription-drug-labeling" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[U.S. Food and Drug Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-title">how do i use prescription drug labeling</span><span class="citation-popover-snippet">Food and Drug AdministrationHow Do I Use Prescription Drug LabelingNov 13, 2024 — Section 4: Contraindications; Section 5: Warnings and P...</span></span></span>
 
 ### Contract Exceptions That Reverse the Rule
 
 Contracts often contain a pattern that appears straightforward until a later clause narrows it. A service provider may appear to guarantee performance, but a later limitation-of-liability clause may sharply restrict remedies. A refund policy may seem generous until exclusions are introduced. A confidentiality obligation may appear broad until carve-outs define information that is not protected.
 
-Research and legal commentary on contracts repeatedly emphasise that disputes frequently arise from wording, ambiguity, and interpretation of specific clauses rather than disagreement about the document's overall purpose. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lawsociety.org.uk/topics/in-house/do-not-forget-your-commas-the-importance-of-language-and-grammar-in-contract-drafting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lawsociety.org.uk">[Law Society+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lawsociety.org.uk</span><span class="citation-popover-snippet">Law SocietyWhy clear language makes for strong contracts26 Jul 2023 — Daniela Licciardo explains why grammar and language are so importan...</span></span></span>
+Research and legal commentary on contracts repeatedly emphasise that disputes frequently arise from wording, ambiguity, and interpretation of specific clauses rather than disagreement about the document's overall purpose.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lawsociety.org.uk/topics/in-house/do-not-forget-your-commas-the-importance-of-language-and-grammar-in-contract-drafting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lawsociety.org.uk">[Law Society+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lawsociety.org.uk</span><span class="citation-popover-snippet">Law SocietyWhy clear language makes for strong contracts26 Jul 2023 — Daniela Licciardo explains why grammar and language are so importan...</span></span></span>
 
 The faster the reading speed, the greater the chance that a reader remembers the rule and misses the carve-out.
 
@@ -328,7 +328,7 @@ Most people have seen contracts before. Most people have read medicine labels, c
 
 This assumption can be costly because high-stakes documents are often differentiated precisely by the details that seem least noticeable. A changed dosage instruction, a revised warning, a new exclusion, or a different eligibility criterion may be the only reason the document exists.
 
-Research and regulatory practice reflect this reality. Drug labels are routinely updated with new warnings, contraindications, and safety information as evidence changes. In one review of FDA safety actions, regulators added numerous new boxed warnings, contraindications, and other safety warnings in a single year, illustrating how critical information can evolve over time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/1108624" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jamanetwork.com">[JAMA Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jamanetwork.com</span><span class="citation-popover-snippet">JAMA NetworkThe FDA and New Safety Warningsby TJ Moore · 2012 · Cited by 56 — In 2009, the FDA approved 181 major safety regulatory actio...</span></span></span>
+Research and regulatory practice reflect this reality. Drug labels are routinely updated with new warnings, contraindications, and safety information as evidence changes. In one review of FDA safety actions, regulators added numerous new boxed warnings, contraindications, and other safety warnings in a single year, illustrating how critical information can evolve over time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/1108624" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jamanetwork.com">[JAMA Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jamanetwork.com</span><span class="citation-popover-snippet">JAMA NetworkThe FDA and New Safety Warningsby TJ Moore · 2012 · Cited by 56 — In 2009, the FDA approved 181 major safety regulatory actio...</span></span></span>
 
 Readers who rely on memory from previous versions may overlook exactly the information that changed.
 
@@ -342,7 +342,7 @@ If misunderstanding the document could affect health, legal rights, compliance o
 
 **Does the document contain eligibility rules or exceptions?**
 
-Documents built around conditions, exclusions, thresholds, contraindications, exemptions, or special cases deserve careful reading. These structures place crucial meaning in small textual details. World Health Organization+2U.S. Food and Drug Administration <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.who.int/publications/i/item/9789241549158" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[who.int]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-title">World Health Organization Medical eligibility criteria for contraceptive use</span><span class="citation-popover-snippet">World Health OrganizationMedical eligibility criteria for contraceptive useFebruary 3, 2015 — 3 Feb 2015 — This document is part of the p...</span><span class="citation-popover-meta">Published: February 3, 2015</span></span></span>
+Documents built around conditions, exclusions, thresholds, contraindications, exemptions, or special cases deserve careful reading. These structures place crucial meaning in small textual details. World Health Organization+2U.S. Food and Drug Administration<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.who.int/publications/i/item/9789241549158" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[who.int]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-title">World Health Organization Medical eligibility criteria for contraceptive use</span><span class="citation-popover-snippet">World Health OrganizationMedical eligibility criteria for contraceptive useFebruary 3, 2015 — 3 Feb 2015 — This document is part of the p...</span><span class="citation-popover-meta">Published: February 3, 2015</span></span></span>
 
 **Am I looking for orientation or accuracy?**
 
@@ -365,7 +365,7 @@ This preserves much of the speed benefit while reducing the chance of missing th
 
 The following categories generally warrant close reading rather than aggressive speed-reading:
 
-* Prescription drug prescribing information and medication guides. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fda.gov/drugs/fdas-labeling-resources-human-prescription-drugs/prescribing-information-resources" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[fda.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-title">prescribing information resources</span><span class="citation-popover-snippet">Food and Drug AdministrationPrescribing Information ResourcesApr 16, 2026 — Warnings and Precautions, Contraindications, and Boxed Warnin...</span></span></span>
+* Prescription drug prescribing information and medication guides.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fda.gov/drugs/fdas-labeling-resources-human-prescription-drugs/prescribing-information-resources" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[fda.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-title">prescribing information resources</span><span class="citation-popover-snippet">Food and Drug AdministrationPrescribing Information ResourcesApr 16, 2026 — Warnings and Precautions, Contraindications, and Boxed Warnin...</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -380,184 +380,184 @@ The following categories generally warrant close reading rather than aggressive 
 
 </div>
 
-The common feature is not complexity alone. It is consequence. When a document contains conditions that determine safety, legality, eligibility, or responsibility, the most important information is often hidden in the very places that skimming is most likely to miss. NCBI+3U.S. Food and Drug Administration+3U.S. Food and Drug Administration <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fda.gov/regulatory-information/search-fda-guidance-documents/warnings-and-precautions-contraindications-and-boxed-warning-sections-labeling-human-prescription" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[fda.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-snippet">Food and Drug AdministrationWarnings and Precautions, Contraindications, and Boxed...May 5, 2020 — This guidance is intended to assist a...</span><span class="citation-popover-meta">Published: May 5, 2020</span></span></span>
+The common feature is not complexity alone. It is consequence. When a document contains conditions that determine safety, legality, eligibility, or responsibility, the most important information is often hidden in the very places that skimming is most likely to miss. NCBI+3U.S. Food and Drug Administration+3U.S. Food and Drug Administration<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fda.gov/regulatory-information/search-fda-guidance-documents/warnings-and-precautions-contraindications-and-boxed-warning-sections-labeling-human-prescription" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[fda.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-snippet">Food and Drug AdministrationWarnings and Precautions, Contraindications, and Boxed...May 5, 2020 — This guidance is intended to assist a...</span><span class="citation-popover-meta">Published: May 5, 2020</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_dense_materia_3cc00e_skimming_risk_c60530_risky_dense_d_252b78-Illustration-3-dark.svg" | relative_url }}" alt="Risky Texts illustration 3" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_dense_materia_3cc00e_skimming_risk_c60530_risky_dense_d_252b78-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_dense_materia_3cc00e_skimming_risk_c60530_risky_dense_d_252b78-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Which Documents Are Too Risky to Skim?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Which Documents Are Too Risky to Skim?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Directly addresses when inspectional reading is appropriate and when deeper analytical reading is required for complex, high-stakes mater...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Directly addresses when inspectional reading is appropriate and when deeper analytical reading is required for complex, high-stakes mater...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains cognitive shortcuts, attention limits, and judgment errors that make skimming risky when important decisions depend on precise d...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains cognitive shortcuts, attention limits, and judgment errors that make skimming risky when important decisions depend on precise d...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Checklist+Manifesto+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Checklist Manifesto on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7GJi0fsSmUoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Checklist Manifesto" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Checklist+Manifesto+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Checklist Manifesto">The Checklist Manifesto</a>
-        </h4>
-        <p class="fr-book-author">By Atul Gawande</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Checklist+Manifesto+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Checklist Manifesto on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7GJi0fsSmUoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Checklist Manifesto" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Checklist+Manifesto+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Checklist Manifesto">The Checklist Manifesto</a>
+</h4>
+<p class="fr-book-author">By Atul Gawande</p>
         
-        <p class="fr-book-desc">Shows how critical omissions create costly errors in medicine and other high-consequence environments where missed details matter.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Checklist+Manifesto+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how critical omissions create costly errors in medicine and other high-consequence environments where missed details matter.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Checklist+Manifesto+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+pyramid+principle+Barbara+Minto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The pyramid principle on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2346771-M.jpg" alt="Cover for The pyramid principle" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+pyramid+principle+Barbara+Minto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The pyramid principle">The pyramid principle</a>
-        </h4>
-        <p class="fr-book-author">By Barbara Minto</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+pyramid+principle+Barbara+Minto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The pyramid principle on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2346771-M.jpg" alt="Cover for The pyramid principle" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+pyramid+principle+Barbara+Minto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The pyramid principle">The pyramid principle</a>
+</h4>
+<p class="fr-book-author">By Barbara Minto</p>
         
-        <p class="fr-book-desc">First published 1978. Subjects: English language, Business English, Business writing, Rhetoric, Thought and thinking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+pyramid+principle+Barbara+Minto&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1978. Subjects: English language, Business English, Business writing, Rhetoric, Thought and thinking.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+pyramid+principle+Barbara+Minto&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Checklist+Manifesto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Checklist Manifesto</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Checklist+Manifesto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Checklist Manifesto</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-texts-2c51a2-which-documents-are-too-risky-to-skim-increasing-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="risky-texts-2c51a2-which-documents-are-too-risky-to-skim-increasing-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 4-Tier Mesh Desk Organiser with Sliding Trays Metal Paper File Holder - Silver"><img src="{{ '/assets/images/marketplace-covers/8ef2fda3ba43e1e28efb.jpg' | relative_url }}" alt="Listing image for 4-Tier Mesh Desk Organiser with Sliding Trays Metal Paper File Holder - Silver" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-texts-2c51a2-which-documents-are-too-risky-to-skim-increasing-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="risky-texts-2c51a2-which-documents-are-too-risky-to-skim-increasing-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">4-Tier Mesh Desk Organiser with Sliding Trays Metal Paper File Holder - Silver</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-texts-2c51a2-which-documents-are-too-risky-to-skim-increasing-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="risky-texts-2c51a2-which-documents-are-too-risky-to-skim-increasing-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for office desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: office desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-texts-2c51a2-which-documents-are-too-risky-to-skim-increasing-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="risky-texts-2c51a2-which-documents-are-too-risky-to-skim-increasing-office-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-texts-2c51a2-which-documents-are-too-risky-to-skim-increasing-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="risky-texts-2c51a2-which-documents-are-too-risky-to-skim-increasing-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 4-Tier Mesh Desk Organiser with Sliding Trays Metal Paper File Holder - Silver"><img src="{{ '/assets/images/marketplace-covers/8ef2fda3ba43e1e28efb.jpg' | relative_url }}" alt="Listing image for 4-Tier Mesh Desk Organiser with Sliding Trays Metal Paper File Holder - Silver" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-texts-2c51a2-which-documents-are-too-risky-to-skim-increasing-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="risky-texts-2c51a2-which-documents-are-too-risky-to-skim-increasing-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">4-Tier Mesh Desk Organiser with Sliding Trays Metal Paper File Holder - Silver</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-texts-2c51a2-which-documents-are-too-risky-to-skim-increasing-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="risky-texts-2c51a2-which-documents-are-too-risky-to-skim-increasing-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for office desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: office desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-texts-2c51a2-which-documents-are-too-risky-to-skim-increasing-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="risky-texts-2c51a2-which-documents-are-too-risky-to-skim-increasing-office-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-texts-2c51a2-which-documents-are-too-risky-to-skim-increasing-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="risky-texts-2c51a2-which-documents-are-too-risky-to-skim-increasing-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desk Organiser Set Metal Mesh Office Pen Pencil Holder Stationary Organizer Tidy"><img src="{{ '/assets/images/marketplace-covers/191b343a7501bed5fefa.jpg' | relative_url }}" alt="Listing image for Desk Organiser Set Metal Mesh Office Pen Pencil Holder Stationary Organizer Tidy" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-texts-2c51a2-which-documents-are-too-risky-to-skim-increasing-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="risky-texts-2c51a2-which-documents-are-too-risky-to-skim-increasing-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Desk Organiser Set Metal Mesh Office Pen Pencil Holder Stationary Organizer Tidy</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-texts-2c51a2-which-documents-are-too-risky-to-skim-increasing-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="risky-texts-2c51a2-which-documents-are-too-risky-to-skim-increasing-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for office desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: office desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-texts-2c51a2-which-documents-are-too-risky-to-skim-increasing-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="risky-texts-2c51a2-which-documents-are-too-risky-to-skim-increasing-office-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-texts-2c51a2-which-documents-are-too-risky-to-skim-increasing-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="risky-texts-2c51a2-which-documents-are-too-risky-to-skim-increasing-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desk Organiser Set Metal Mesh Office Pen Pencil Holder Stationary Organizer Tidy"><img src="{{ '/assets/images/marketplace-covers/191b343a7501bed5fefa.jpg' | relative_url }}" alt="Listing image for Desk Organiser Set Metal Mesh Office Pen Pencil Holder Stationary Organizer Tidy" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-texts-2c51a2-which-documents-are-too-risky-to-skim-increasing-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="risky-texts-2c51a2-which-documents-are-too-risky-to-skim-increasing-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Desk Organiser Set Metal Mesh Office Pen Pencil Holder Stationary Organizer Tidy</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-texts-2c51a2-which-documents-are-too-risky-to-skim-increasing-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="risky-texts-2c51a2-which-documents-are-too-risky-to-skim-increasing-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for office desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: office desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-texts-2c51a2-which-documents-are-too-risky-to-skim-increasing-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="risky-texts-2c51a2-which-documents-are-too-risky-to-skim-increasing-office-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-texts-2c51a2-which-documents-are-too-risky-to-skim-increasing-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="risky-texts-2c51a2-which-documents-are-too-risky-to-skim-increasing-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for OSCO Bamboo Desk Organiser | 6 Compartments | 1 Drawer | Office Tidy | Stationer"><img src="{{ '/assets/images/marketplace-covers/acce59ee37094e6800bd.jpg' | relative_url }}" alt="Listing image for OSCO Bamboo Desk Organiser | 6 Compartments | 1 Drawer | Office Tidy | Stationer" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-texts-2c51a2-which-documents-are-too-risky-to-skim-increasing-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="risky-texts-2c51a2-which-documents-are-too-risky-to-skim-increasing-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">OSCO Bamboo Desk Organiser | 6 Compartments | 1 Drawer | Office Tidy | Stationer</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-texts-2c51a2-which-documents-are-too-risky-to-skim-increasing-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="risky-texts-2c51a2-which-documents-are-too-risky-to-skim-increasing-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for office desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: office desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-texts-2c51a2-which-documents-are-too-risky-to-skim-increasing-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="risky-texts-2c51a2-which-documents-are-too-risky-to-skim-increasing-office-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-texts-2c51a2-which-documents-are-too-risky-to-skim-increasing-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="risky-texts-2c51a2-which-documents-are-too-risky-to-skim-increasing-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-texts-2c51a2-which-documents-are-too-risky-to-skim-increasing-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="risky-texts-2c51a2-which-documents-are-too-risky-to-skim-increasing-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for OSCO Bamboo Desk Organiser | 6 Compartments | 1 Drawer | Office Tidy | Stationer"><img src="{{ '/assets/images/marketplace-covers/acce59ee37094e6800bd.jpg' | relative_url }}" alt="Listing image for OSCO Bamboo Desk Organiser | 6 Compartments | 1 Drawer | Office Tidy | Stationer" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-texts-2c51a2-which-documents-are-too-risky-to-skim-increasing-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="risky-texts-2c51a2-which-documents-are-too-risky-to-skim-increasing-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">OSCO Bamboo Desk Organiser | 6 Compartments | 1 Drawer | Office Tidy | Stationer</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-texts-2c51a2-which-documents-are-too-risky-to-skim-increasing-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="risky-texts-2c51a2-which-documents-are-too-risky-to-skim-increasing-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for office desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: office desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-texts-2c51a2-which-documents-are-too-risky-to-skim-increasing-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="risky-texts-2c51a2-which-documents-are-too-risky-to-skim-increasing-office-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=office+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-texts-2c51a2-which-documents-are-too-risky-to-skim-increasing-office-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="office desk organizer" data-ebay-reference="risky-texts-2c51a2-which-documents-are-too-risky-to-skim-increasing-office-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -573,7 +573,7 @@ The common feature is not complexity alone. It is consequence. When a document c
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -593,7 +593,7 @@ The common feature is not complexity alone. It is consequence. When a document c
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -625,7 +625,7 @@ The common feature is not complexity alone. It is consequence. When a document c
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -677,7 +677,7 @@ The common feature is not complexity alone. It is consequence. When a document c
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -722,7 +722,7 @@ The common feature is not complexity alone. It is consequence. When a document c
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -763,139 +763,139 @@ The common feature is not complexity alone. It is consequence. When a document c
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: fda.gov  
-   Link: <a href="https://www.fda.gov/regulatory-information/search-fda-guidance-documents/warnings-and-precautions-contraindications-and-boxed-warning-sections-labeling-human-prescription" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/regulatory-information/search-fda-guidance-documents/warnings-and-precautions-contraindications-and-boxed-warning-sections-labeling-human-prescription</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug AdministrationWarnings and Precautions, Contraindications, and Boxed...May 5, 2020 — This guidance is intended to assist a...</p></details>
+   Link:<a href="https://www.fda.gov/regulatory-information/search-fda-guidance-documents/warnings-and-precautions-contraindications-and-boxed-warning-sections-labeling-human-prescription" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/regulatory-information/search-fda-guidance-documents/warnings-and-precautions-contraindications-and-boxed-warning-sections-labeling-human-prescription</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug AdministrationWarnings and Precautions, Contraindications, and Boxed...May 5, 2020 — This guidance is intended to assist a...</p></details>
    Published: May 5, 2020  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: fda.gov  
    Title: how do i use prescription drug labeling  
-   Link: <a href="https://www.fda.gov/about-fda/oncology-center-excellence/how-do-i-use-prescription-drug-labeling" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/about-fda/oncology-center-excellence/how-do-i-use-prescription-drug-labeling</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug AdministrationHow Do I Use Prescription Drug LabelingNov 13, 2024 — Section 4: Contraindications; Section 5: Warnings and P...</p></details>
+   Link:<a href="https://www.fda.gov/about-fda/oncology-center-excellence/how-do-i-use-prescription-drug-labeling" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/about-fda/oncology-center-excellence/how-do-i-use-prescription-drug-labeling</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug AdministrationHow Do I Use Prescription Drug LabelingNov 13, 2024 — Section 4: Contraindications; Section 5: Warnings and P...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: law.stanford.edu  
-   Link: <a href="https://law.stanford.edu/wp-content/uploads/2015/06/Gilson-et-al-Text-and-Context-Contract-Interpretation-100-Cornell-Law-Review-23.pdf" target="_blank" rel="noopener noreferrer nofollow">https://law.stanford.edu/wp-content/uploads/2015/06/Gilson-et-al-Text-and-Context-Contract-Interpretation-100-Cornell-Law-Review-23.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Law SchoolTEXT AND CONTEXT: CONTRACT INTERPRETATION AS...by RJ Gilson · Cited by 227 — The interplay of uncertainty and scale i...</p></details>
+   Link:<a href="https://law.stanford.edu/wp-content/uploads/2015/06/Gilson-et-al-Text-and-Context-Contract-Interpretation-100-Cornell-Law-Review-23.pdf" target="_blank" rel="noopener noreferrer nofollow">https://law.stanford.edu/wp-content/uploads/2015/06/Gilson-et-al-Text-and-Context-Contract-Interpretation-100-Cornell-Law-Review-23.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Law SchoolTEXT AND CONTEXT: CONTRACT INTERPRETATION AS...by RJ Gilson · Cited by 227 — The interplay of uncertainty and scale i...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv Ambiguity is the last thing you need  
-   Link: <a href="https://arxiv.org/abs/2410.20222" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2410.20222</a>  
+   Link:<a href="https://arxiv.org/abs/2410.20222" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2410.20222</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: fda.gov  
    Title: prescribing information resources  
-   Link: <a href="https://www.fda.gov/drugs/fdas-labeling-resources-human-prescription-drugs/prescribing-information-resources" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/drugs/fdas-labeling-resources-human-prescription-drugs/prescribing-information-resources</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug AdministrationPrescribing Information ResourcesApr 16, 2026 — Warnings and Precautions, Contraindications, and Boxed Warnin...</p></details>
+   Link:<a href="https://www.fda.gov/drugs/fdas-labeling-resources-human-prescription-drugs/prescribing-information-resources" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/drugs/fdas-labeling-resources-human-prescription-drugs/prescribing-information-resources</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug AdministrationPrescribing Information ResourcesApr 16, 2026 — Warnings and Precautions, Contraindications, and Boxed Warnin...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: who.int  
    Title: World Health Organization Medical eligibility criteria for contraceptive use  
-   Link: <a href="https://www.who.int/publications/i/item/9789241549158" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/publications/i/item/9789241549158</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationMedical eligibility criteria for contraceptive useFebruary 3, 2015 — 3 Feb 2015 — This document is part of the p...</p></details>
+   Link:<a href="https://www.who.int/publications/i/item/9789241549158" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/publications/i/item/9789241549158</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationMedical eligibility criteria for contraceptive useFebruary 3, 2015 — 3 Feb 2015 — This document is part of the p...</p></details>
    Published: February 3, 2015  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cosrh.org  
-   Link: <a href="https://www.cosrh.org/Common/Uploaded%20files/documents/UKMEC_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cosrh.org/Common/Uploaded%20files/documents/UKMEC_2025.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UK MEDICAL ELIGIBILITY CRITERIAThe UK Medical Eligibility Criteria for Contraceptive Use (UKMEC) offers guidance to providers of contrace...</p></details>
+   Link:<a href="https://www.cosrh.org/Common/Uploaded%20files/documents/UKMEC_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cosrh.org/Common/Uploaded%20files/documents/UKMEC_2025.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK MEDICAL ELIGIBILITY CRITERIAThe UK Medical Eligibility Criteria for Contraceptive Use (UKMEC) offers guidance to providers of contrace...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: hhs.gov  
-   Link: <a href="https://www.hhs.gov/guidance/document/warnings-and-precautions-contraindications-and-boxed-warning-sections-labeling-human" target="_blank" rel="noopener noreferrer nofollow">https://www.hhs.gov/guidance/document/warnings-and-precautions-contraindications-and-boxed-warning-sections-labeling-human</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Warnings and Precautions, Contraindications, and Boxed...Nov 30, 2024 — Warnings and Precautions, Contraindications, and Boxed Warning S...</p></details>
+   Link:<a href="https://www.hhs.gov/guidance/document/warnings-and-precautions-contraindications-and-boxed-warning-sections-labeling-human" target="_blank" rel="noopener noreferrer nofollow">https://www.hhs.gov/guidance/document/warnings-and-precautions-contraindications-and-boxed-warning-sections-labeling-human</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Warnings and Precautions, Contraindications, and Boxed...Nov 30, 2024 — Warnings and Precautions, Contraindications, and Boxed Warning S...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIBox Warning  
-   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK538521/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK538521/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Warning - StatPearls - NCBI Bookshelf - NIHby C Delong · 2023 · Cited by 8 — Boxed warnings (formerly known as Black Box Warnings) are th...</p></details>
+   Link:<a href="https://www.ncbi.nlm.nih.gov/books/NBK538521/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK538521/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Warning - StatPearls - NCBI Bookshelf - NIHby C Delong · 2023 · Cited by 8 — Boxed warnings (formerly known as Black Box Warnings) are th...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: fda.gov  
    Title: The information in the boxed  
-   Link: <a href="https://www.fda.gov/media/71866/download" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/media/71866/download</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Warnings and Precautions, Contraindications, and Boxed...Oct 6, 2011 — The BOXED WARNING section in the full prescribing information mus...</p></details>
+   Link:<a href="https://www.fda.gov/media/71866/download" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/media/71866/download</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Warnings and Precautions, Contraindications, and Boxed...Oct 6, 2011 — The BOXED WARNING section in the full prescribing information mus...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: moh.gov.om  
    Title: medical record documentaion guideline  
-   Link: <a href="https://moh.gov.om/media/wu0jmwng/medical-record-documentaion-guideline.pdf" target="_blank" rel="noopener noreferrer nofollow">https://moh.gov.om/media/wu0jmwng/medical-record-documentaion-guideline.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Medical Record Documentation Guideline2 Mar 2025 — for release of information from the medical record. 2.4.12. Records shall be signed ou...</p></details>
+   Link:<a href="https://moh.gov.om/media/wu0jmwng/medical-record-documentaion-guideline.pdf" target="_blank" rel="noopener noreferrer nofollow">https://moh.gov.om/media/wu0jmwng/medical-record-documentaion-guideline.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Medical Record Documentation Guideline2 Mar 2025 — for release of information from the medical record. 2.4.12. Records shall be signed ou...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: lawsociety.org.uk  
-   Link: <a href="https://www.lawsociety.org.uk/topics/in-house/do-not-forget-your-commas-the-importance-of-language-and-grammar-in-contract-drafting" target="_blank" rel="noopener noreferrer nofollow">https://www.lawsociety.org.uk/topics/in-house/do-not-forget-your-commas-the-importance-of-language-and-grammar-in-contract-drafting</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Law SocietyWhy clear language makes for strong contracts26 Jul 2023 — Daniela Licciardo explains why grammar and language are so importan...</p></details>
+   Link:<a href="https://www.lawsociety.org.uk/topics/in-house/do-not-forget-your-commas-the-importance-of-language-and-grammar-in-contract-drafting" target="_blank" rel="noopener noreferrer nofollow">https://www.lawsociety.org.uk/topics/in-house/do-not-forget-your-commas-the-importance-of-language-and-grammar-in-contract-drafting</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Law SocietyWhy clear language makes for strong contracts26 Jul 2023 — Daniela Licciardo explains why grammar and language are so importan...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: publichealth.jhu.edu  
    Title: Bloomberg School of Public Health What Is a Black Box Warning?  
-   Link: <a href="https://publichealth.jhu.edu/2025/what-is-a-black-box-warning" target="_blank" rel="noopener noreferrer nofollow">https://publichealth.jhu.edu/2025/what-is-a-black-box-warning</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is a Black Box Warning? | Johns HopkinsDec 19, 2025 — Black box warnings are added only when substantial clinical data shows the drug can...</p></details>
+   Link:<a href="https://publichealth.jhu.edu/2025/what-is-a-black-box-warning" target="_blank" rel="noopener noreferrer nofollow">https://publichealth.jhu.edu/2025/what-is-a-black-box-warning</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is a Black Box Warning? | Johns HopkinsDec 19, 2025 — Black box warnings are added only when substantial clinical data shows the drug can...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: jamanetwork.com  
-   Link: <a href="https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/1108624" target="_blank" rel="noopener noreferrer nofollow">https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/1108624</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>JAMA NetworkThe FDA and New Safety Warningsby TJ Moore · 2012 · Cited by 56 — In 2009, the FDA approved 181 major safety regulatory actio...</p></details>
+   Link:<a href="https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/1108624" target="_blank" rel="noopener noreferrer nofollow">https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/1108624</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>JAMA NetworkThe FDA and New Safety Warningsby TJ Moore · 2012 · Cited by 56 — In 2009, the FDA approved 181 major safety regulatory actio...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/tessa-manuello_legaldesign-contracts-innovation-activity-7307756283053371392-IFZ7" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/tessa-manuello_legaldesign-contracts-innovation-activity-7307756283053371392-IFZ7</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why are contracts so hard to read? | Tessa ManuelloWith Lawformer&#x27;s Modify feature, you can update existing clauses simply by providing s...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/tessa-manuello_legaldesign-contracts-innovation-activity-7307756283053371392-IFZ7" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/tessa-manuello_legaldesign-contracts-innovation-activity-7307756283053371392-IFZ7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why are contracts so hard to read? | Tessa ManuelloWith Lawformer&#x27;s Modify feature, you can update existing clauses simply by providing s...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: complianceonline.com  
-   Link: <a href="https://www.complianceonline.com/fda-issues-guidance-on-warning-and-precautions-labeling-for-drugs-and-biological-products-12717-prdad" target="_blank" rel="noopener noreferrer nofollow">https://www.complianceonline.com/fda-issues-guidance-on-warning-and-precautions-labeling-for-drugs-and-biological-products-12717-prdad</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FDA Issues Guidance on Warning and Precautions...Nov 10, 2011 — How to organize the CONTRAINDICATIONS section; When to include a boxed w...</p></details>
+   Link:<a href="https://www.complianceonline.com/fda-issues-guidance-on-warning-and-precautions-labeling-for-drugs-and-biological-products-12717-prdad" target="_blank" rel="noopener noreferrer nofollow">https://www.complianceonline.com/fda-issues-guidance-on-warning-and-precautions-labeling-for-drugs-and-biological-products-12717-prdad</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FDA Issues Guidance on Warning and Precautions...Nov 10, 2011 — How to organize the CONTRAINDICATIONS section; When to include a boxed w...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/355589510_THE_INFLUENCE_OF_PLAIN_LANGUAGE_AND_STRUCTURE_ON_THE_READABILITY_OF_CONTRACTS" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/355589510_THE_INFLUENCE_OF_PLAIN_LANGUAGE_AND_STRUCTURE_ON_THE_READABILITY_OF_CONTRACTS</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the influence of plain language and structure on...6 May 2026 — As a consequence of this lack of bargaining power, consumers entering in...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/355589510_THE_INFLUENCE_OF_PLAIN_LANGUAGE_AND_STRUCTURE_ON_THE_READABILITY_OF_CONTRACTS" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/355589510_THE_INFLUENCE_OF_PLAIN_LANGUAGE_AND_STRUCTURE_ON_THE_READABILITY_OF_CONTRACTS</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the influence of plain language and structure on...6 May 2026 — As a consequence of this lack of bargaining power, consumers entering in...</p></details>
    Published: May 2026  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: psoriasis.org  
-   Link: <a href="https://www.psoriasis.org/understanding-your-prescription-label/" target="_blank" rel="noopener noreferrer nofollow">https://www.psoriasis.org/understanding-your-prescription-label/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>· Section 1: Indications and Usage · Section 2: Dosage and Administration · Section 3: Dosage Forms and...Read more...</p></details>
+   Link:<a href="https://www.psoriasis.org/understanding-your-prescription-label/" target="_blank" rel="noopener noreferrer nofollow">https://www.psoriasis.org/understanding-your-prescription-label/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>· Section 1: Indications and Usage · Section 2: Dosage and Administration · Section 3: Dosage Forms and...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: intuitionlabs.ai  
    Title: They alert prescribers and patients to life-threatening or serious  
-   Link: <a href="https://intuitionlabs.ai/articles/fda-boxed-warning-negotiation" target="_blank" rel="noopener noreferrer nofollow">https://intuitionlabs.ai/articles/fda-boxed-warning-negotiation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The FDA Boxed Warning: Regulatory Strategy &amp; NegotiationBoxed (or “black‐box”) warnings are the FDA&#x27;s strongest safety advisories on drug...</p></details>
+   Link:<a href="https://intuitionlabs.ai/articles/fda-boxed-warning-negotiation" target="_blank" rel="noopener noreferrer nofollow">https://intuitionlabs.ai/articles/fda-boxed-warning-negotiation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The FDA Boxed Warning: Regulatory Strategy &amp; NegotiationBoxed (or “black‐box”) warnings are the FDA&#x27;s strongest safety advisories on drug...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: bclawreview.bc.edu  
-   Link: <a href="https://bclawreview.bc.edu/articles/320/files/63a92425205eb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bclawreview.bc.edu/articles/320/files/63a92425205eb.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Boston College Law ReviewTHE DUTY TO READ THE UNREADABLEby U Benoliel · 2019 · Cited by 277 — Abstract: The duty to read doctrine is a we...</p></details>
+   Link:<a href="https://bclawreview.bc.edu/articles/320/files/63a92425205eb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bclawreview.bc.edu/articles/320/files/63a92425205eb.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Boston College Law ReviewTHE DUTY TO READ THE UNREADABLEby U Benoliel · 2019 · Cited by 277 — Abstract: The duty to read doctrine is a we...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ambci.org  
    Title: essential guidelines for accurate clinical documentation  
-   Link: <a href="https://ambci.org/medical-billing-and-coding-certification-blog/essential-guidelines-for-accurate-clinical-documentation" target="_blank" rel="noopener noreferrer nofollow">https://ambci.org/medical-billing-and-coding-certification-blog/essential-guidelines-for-accurate-clinical-documentation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>28 Jul 2025 — Learn essential guidelines for accurate clinical documentation, including best practices, EHR integration, and strategies f...</p></details>
+   Link:<a href="https://ambci.org/medical-billing-and-coding-certification-blog/essential-guidelines-for-accurate-clinical-documentation" target="_blank" rel="noopener noreferrer nofollow">https://ambci.org/medical-billing-and-coding-certification-blog/essential-guidelines-for-accurate-clinical-documentation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>28 Jul 2025 — Learn essential guidelines for accurate clinical documentation, including best practices, EHR integration, and strategies f...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: law.ac.uk  
    Title: more than two thirds of people dont read their contracts  
-   Link: <a href="https://www.law.ac.uk/about/press-releases/more-than-two-thirds-of-people-dont-read-their-contracts/" target="_blank" rel="noopener noreferrer nofollow">https://www.law.ac.uk/about/press-releases/more-than-two-thirds-of-people-dont-read-their-contracts/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>More than two thirds of people don&#x27;t read their contracts30 Mar 2023 — Recent findings show that more than two thirds of people don&#x27;t pro...</p></details>
+   Link:<a href="https://www.law.ac.uk/about/press-releases/more-than-two-thirds-of-people-dont-read-their-contracts/" target="_blank" rel="noopener noreferrer nofollow">https://www.law.ac.uk/about/press-releases/more-than-two-thirds-of-people-dont-read-their-contracts/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>More than two thirds of people don&#x27;t read their contracts30 Mar 2023 — Recent findings show that more than two thirds of people don&#x27;t pro...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: agencyiq.com  
    Title: FD A unveils long-awaited Patient Medication Information  
-   Link: <a href="https://www.agencyiq.com/blog/fda-unveils-long-awaited-patient-medication-information-proposed-rule/" target="_blank" rel="noopener noreferrer nofollow">https://www.agencyiq.com/blog/fda-unveils-long-awaited-patient-medication-information-proposed-rule/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FDA unveils long-awaited Patient Medication Information...May 30, 2023 — The FDA has been working on a proposal to create a new type of...</p></details>
+   Link:<a href="https://www.agencyiq.com/blog/fda-unveils-long-awaited-patient-medication-information-proposed-rule/" target="_blank" rel="noopener noreferrer nofollow">https://www.agencyiq.com/blog/fda-unveils-long-awaited-patient-medication-information-proposed-rule/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FDA unveils long-awaited Patient Medication Information...May 30, 2023 — The FDA has been working on a proposal to create a new type of...</p></details>
    Published: May 30, 2023  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: ecfr.gov  
-   Link: <a href="https://www.ecfr.gov/current/title-21/chapter-I/subchapter-C/part-201" target="_blank" rel="noopener noreferrer nofollow">https://www.ecfr.gov/current/title-21/chapter-I/subchapter-C/part-201</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tion statement must remain on the PDP of the drug...</p></details>
+   Link:<a href="https://www.ecfr.gov/current/title-21/chapter-I/subchapter-C/part-201" target="_blank" rel="noopener noreferrer nofollow">https://www.ecfr.gov/current/title-21/chapter-I/subchapter-C/part-201</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tion statement must remain on the PDP of the drug...</p></details>

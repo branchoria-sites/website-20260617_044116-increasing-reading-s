@@ -269,7 +269,7 @@ image: /assets/images/increasing_re_852ca6_phrase_readin_eba9de_not_speed_rea_5c
 
 ## Introduction
 
-Reading faster is only an improvement if you still understand what you read. The practical question is not “How many words per minute can I reach?” but “How fast can I read while accurately remembering and explaining the main ideas?” Research on reading and [eye movements]({{ 'eye-tradeoff/' | relative_url }}) consistently shows that speed and comprehension are linked. Skilled readers can often increase pace, especially on familiar material, but comprehension begins to suffer when speed rises beyond what the text and reader can support. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 531 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</span></span></span>
+Reading faster is only an improvement if you still understand what you read. The practical question is not “How many words per minute can I reach?” but “How fast can I read while accurately remembering and explaining the main ideas?” Research on reading and [eye movements]({{ 'eye-tradeoff/' | relative_url }}) consistently shows that speed and comprehension are linked. Skilled readers can often increase pace, especially on familiar material, but comprehension begins to suffer when speed rises beyond what the text and reader can support.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 531 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_not_speed_rea_5caa5d_test_speed_co_6a44e6-Illustration-1-dark.svg" | relative_url }}" alt="Check meaning illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_not_speed_rea_5caa5d_test_speed_co_6a44e6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_not_speed_rea_5caa5d_test_speed_co_6a44e6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -279,13 +279,13 @@ Phrase reading can help reduce unnecessary pauses, yet the safest way to improve
 
 There is no single reading speed that is “too fast” for everyone. The limit depends on the reader, the material, and the purpose of reading. A familiar news article can often be read much faster than a dense academic paper or a [technical]({{ 'technical-texts/' | relative_url }}) manual.
 
-Research reviewing speed-reading claims has repeatedly found that large increases in reading rate usually come with reduced understanding. While skilled readers may read faster than average, it is unlikely that most people can double or triple their normal speed and maintain the same level of comprehension. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 531 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</span></span></span>
+Research reviewing speed-reading claims has repeatedly found that large increases in reading rate usually come with reduced understanding. While skilled readers may read faster than average, it is unlikely that most people can double or triple their normal speed and maintain the same level of comprehension.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 531 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</span></span></span>
 
 A useful definition of “too fast” is simple: you cannot accurately explain the passage after reading it. If your recall drops, your reading speed has exceeded the level that supports understanding for that material.
 
 ## Simple recall checks after a passage
 
-The most practical way to test comprehension is to stop briefly after a section and retrieve information from memory rather than immediately looking back at the text. Educational research on active recall shows that retrieving information is a powerful way to assess and strengthen understanding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bcu.ac.uk/exams-and-revision/best-ways-to-revise/active-recall" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bcu.ac.uk">[Birmingham City University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bcu.ac.uk</span><span class="citation-popover-title">Birmingham City University What is active recall?</span><span class="citation-popover-snippet">The best study method explained...Active recall is a learning method where you continuously test yourself by pulling information out of...</span></span></span>
+The most practical way to test comprehension is to stop briefly after a section and retrieve information from memory rather than immediately looking back at the text. Educational research on active recall shows that retrieving information is a powerful way to assess and strengthen understanding.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bcu.ac.uk/exams-and-revision/best-ways-to-revise/active-recall" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bcu.ac.uk">[Birmingham City University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bcu.ac.uk</span><span class="citation-popover-title">Birmingham City University What is active recall?</span><span class="citation-popover-snippet">The best study method explained...Active recall is a learning method where you continuously test yourself by pulling information out of...</span></span></span>
 
 After reading a page, section, or short chapter, try three quick questions:
 
@@ -305,7 +305,7 @@ A useful variation is the “one-minute summary”. After finishing a passage, s
 
 ## Warning signs that pace is hurting comprehension
 
-Readers often notice comprehension problems before they show up on a formal test. Effective readers monitor their understanding while reading and adjust when something feels wrong. Research on comprehension monitoring shows that this self-checking ability is closely linked to successful reading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7079677/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Relations Between Children&#x27;s Comprehension Monitoring...by E Zargar · 2019 · Cited by 90 — Comprehension monitoring is generally...</span></span></span>
+Readers often notice comprehension problems before they show up on a formal test. Effective readers monitor their understanding while reading and adjust when something feels wrong. Research on comprehension monitoring shows that this self-checking ability is closely linked to successful reading.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7079677/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Relations Between Children&#x27;s Comprehension Monitoring...by E Zargar · 2019 · Cited by 90 — Comprehension monitoring is generally...</span></span></span>
 
 Common warning signs include:
 
@@ -361,7 +361,7 @@ For highly technical or conceptually dense material:
 
 </div>
 
-Research on reading comprehension strategies emphasises that understanding depends on active engagement with meaning, not merely faster word recognition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/reading-comprehension-strategies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">ng. The strategies focus mainly on language comprehension...Read more...</span></span></span>
+Research on reading comprehension strategies emphasises that understanding depends on active engagement with meaning, not merely faster word recognition.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/reading-comprehension-strategies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">ng. The strategies focus mainly on language comprehension...Read more...</span></span></span>
 
 A useful mental rule is that speed should vary with complexity. Good readers often accelerate through familiar explanations and naturally slow down when the text becomes information-rich.
 
@@ -370,7 +370,7 @@ A useful mental rule is that speed should vary with complexity. Good readers oft
 
 ## A practical test-and-adjust method
 
-To improve reading speed without sacrificing meaning, use a simple cycle: <span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.org/blog/does-speed-reading-improve-reading-comprehension/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.org">[centerforinquiry.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.org</span><span class="citation-popover-title">does speed reading improve reading comprehension</span><span class="citation-popover-snippet">?Sep 22, 2022 — The researchers concluded that the speed readers showed a speed-accuracy tradeoff; with increased speed, their accuracy i...</span></span></span>
+To improve reading speed without sacrificing meaning, use a simple cycle:<span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.org/blog/does-speed-reading-improve-reading-comprehension/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.org">[centerforinquiry.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.org</span><span class="citation-popover-title">does speed reading improve reading comprehension</span><span class="citation-popover-snippet">?Sep 22, 2022 — The researchers concluded that the speed readers showed a speed-accuracy tradeoff; with increased speed, their accuracy i...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zKbbSnUlXP8" title="Free Speed Reading Course - Test Your Reading Speed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zKbbSnUlXP8" target="_blank" rel="noopener noreferrer">Free Speed Reading Course - Test Your Reading Speed</a></p><p class="youtube-embed-meta">Channel: Paul Nowak &middot; Views: 13.5K &middot; Uploaded: September 2008 &middot; Length: 3 minutes 41 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zKbbSnUlXP8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zKbbSnUlXP8">Open on YouTube</a></p></div></div></div>
@@ -389,189 +389,189 @@ To improve reading speed without sacrificing meaning, use a simple cycle: <span 
 
 If comprehension remains strong, keep the faster pace. If recall becomes noticeably weaker, return to the previous speed and practise there until it feels comfortable.
 
-This approach respects the speed–accuracy relationship identified in reading research while still allowing gradual improvement. Recent studies examining reading rate and comprehension suggest that readers can adapt to different speeds, but comprehension remains the key measure of success. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/10888438.2025.2612649" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">This study investigates whether the natural reading rate aligns with the rate optimal for reading comprehension...</span></span></span>
+This approach respects the speed–accuracy relationship identified in reading research while still allowing gradual improvement. Recent studies examining reading rate and comprehension suggest that readers can adapt to different speeds, but comprehension remains the key measure of success.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/10888438.2025.2612649" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">This study investigates whether the natural reading rate aligns with the rate optimal for reading comprehension...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_not_speed_rea_5caa5d_test_speed_co_6a44e6-Illustration-3-dark.svg" | relative_url }}" alt="Check meaning illustration 3" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_not_speed_rea_5caa5d_test_speed_co_6a44e6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_not_speed_rea_5caa5d_test_speed_co_6a44e6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The goal is reliable understanding
 
-Phrase reading and other fluency techniques are valuable because they help readers process language more efficiently, not because they eliminate the need for comprehension. Eye-movement research shows that even fast readers work within the limits of human visual and language processing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEye movements, the perceptual span, and reading speed</span><span class="citation-popover-snippet">by K Rayner · 2010 · Cited by 474 — The main findings were that fast readers (reading at about 330 wpm) had a larger perceptual span t...</span></span></span>
+Phrase reading and other fluency techniques are valuable because they help readers process language more efficiently, not because they eliminate the need for comprehension. Eye-movement research shows that even fast readers work within the limits of human visual and language processing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEye movements, the perceptual span, and reading speed</span><span class="citation-popover-snippet">by K Rayner · 2010 · Cited by 474 — The main findings were that fast readers (reading at about 330 wpm) had a larger perceptual span t...</span></span></span>
 
 The most dependable test of reading speed is therefore not a stopwatch but a comprehension check. If you can accurately recall the main ideas, explain them in your own words, and apply them after reading, your speed is serving your understanding. If not, the text is asking for a slower, more deliberate pace.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How fast is too fast to understand?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How fast is too fast to understand?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Speed+Reading+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Speed Reading Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/375569-M.jpg" alt="Cover for The Speed Reading Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Speed+Reading+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Speed Reading Book">The Speed Reading Book</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Speed+Reading+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Speed Reading Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/375569-M.jpg" alt="Cover for The Speed Reading Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Speed+Reading+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Speed Reading Book">The Speed Reading Book</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Directly addresses reading speed, comprehension, and practical techniques for balancing faster reading with understanding.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Speed+Reading+Book&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses reading speed, comprehension, and practical techniques for balancing faster reading with understanding.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Speed+Reading+Book&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Proust+and+the+squid+%3A+the+story+and+science+of+the+reading+brain+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Proust and the squid : the story and science of the reading brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6370342-M.jpg" alt="Cover for Proust and the squid : the story and science of the reading brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Proust+and+the+squid+%3A+the+story+and+science+of+the+reading+brain+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Proust and the squid : the story and science of the reading brain">Proust and the squid : the story and science of the reading b...</a>
-        </h4>
-        <p class="fr-book-author">By Maryanne Wolf</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Proust+and+the+squid+%3A+the+story+and+science+of+the+reading+brain+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Proust and the squid : the story and science of the reading brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6370342-M.jpg" alt="Cover for Proust and the squid : the story and science of the reading brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Proust+and+the+squid+%3A+the+story+and+science+of+the+reading+brain+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Proust and the squid : the story and science of the reading brain">Proust and the squid : the story and science of the reading b...</a>
+</h4>
+<p class="fr-book-author">By Maryanne Wolf</p>
         
-        <p class="fr-book-desc">First published 2008. Subjects: Brain, Evolution, Neurophysiology, Reading comprehension, Reading.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Proust+and+the+squid+%3A+the+story+and+science+of+the+reading+brain+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2008. Subjects: Brain, Evolution, Neurophysiology, Reading comprehension, Reading.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Proust+and+the+squid+%3A+the+story+and+science+of+the+reading+brain+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Speed+Reading+For+Dummies+Richard+Sutz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Speed Reading For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6426966-M.jpg" alt="Cover for Speed Reading For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Speed+Reading+For+Dummies+Richard+Sutz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Speed Reading For Dummies">Speed Reading For Dummies</a>
-        </h4>
-        <p class="fr-book-author">By Richard Sutz</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Speed+Reading+For+Dummies+Richard+Sutz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Speed Reading For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6426966-M.jpg" alt="Cover for Speed Reading For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Speed+Reading+For+Dummies+Richard+Sutz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Speed Reading For Dummies">Speed Reading For Dummies</a>
+</h4>
+<p class="fr-book-author">By Richard Sutz</p>
         
-        <p class="fr-book-desc">First published 2009. Subjects: Language Arts, Nonfiction, Speed reading.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Speed+Reading+For+Dummies+Richard+Sutz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2009. Subjects: Language Arts, Nonfiction, Speed reading.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Speed+Reading+For+Dummies+Richard+Sutz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Breakthrough rapid reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/84360-M.jpg" alt="Cover for Breakthrough rapid reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breakthrough rapid reading">Breakthrough rapid reading</a>
-        </h4>
-        <p class="fr-book-author">By Peter Kump</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Breakthrough rapid reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/84360-M.jpg" alt="Cover for Breakthrough rapid reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breakthrough rapid reading">Breakthrough rapid reading</a>
+</h4>
+<p class="fr-book-author">By Peter Kump</p>
         
-        <p class="fr-book-desc">First published 1979. Subjects: Speed reading, Rapid reading, Du shu fang fa.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1979. Subjects: Speed reading, Rapid reading, Du shu fang fa.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Speed+Reading+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Speed Reading Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Proust+and+the+squid+%3A+the+story+and+science+of+the+reading+brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Proust and the squid : the story and science of the reading brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Speed+Reading+For+Dummies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Speed Reading For Dummies</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Speed+Reading+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Speed Reading Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Proust+and+the+squid+%3A+the+story+and+science+of+the+reading+brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Proust and the squid : the story and science of the reading brain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Speed+Reading+For+Dummies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Speed Reading For Dummies</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-meaning-how-fast-is-too-fast-to-understand-increasing-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster -book -books" data-ebay-reference="check-meaning-how-fast-is-too-fast-to-understand-increasing-learning-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alphabet Poster Kids Learning A4 A3 200gsm 240gsm"><img src="{{ '/assets/images/marketplace-covers/0589fe008e2ace8d06dc.jpg' | relative_url }}" alt="Listing image for Alphabet Poster Kids Learning A4 A3 200gsm 240gsm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-meaning-how-fast-is-too-fast-to-understand-increasing-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster -book -books" data-ebay-reference="check-meaning-how-fast-is-too-fast-to-understand-increasing-learning-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alphabet Poster Kids Learning A4 A3 200gsm 240gsm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-meaning-how-fast-is-too-fast-to-understand-increasing-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster -book -books" data-ebay-reference="check-meaning-how-fast-is-too-fast-to-understand-increasing-learning-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for learning poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: learning poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-meaning-how-fast-is-too-fast-to-understand-increasing-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster -book -books" data-ebay-reference="check-meaning-how-fast-is-too-fast-to-understand-increasing-learning-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-meaning-how-fast-is-too-fast-to-understand-increasing-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster -book -books" data-ebay-reference="check-meaning-how-fast-is-too-fast-to-understand-increasing-learning-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alphabet Poster Kids Learning A4 A3 200gsm 240gsm"><img src="{{ '/assets/images/marketplace-covers/0589fe008e2ace8d06dc.jpg' | relative_url }}" alt="Listing image for Alphabet Poster Kids Learning A4 A3 200gsm 240gsm" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-meaning-how-fast-is-too-fast-to-understand-increasing-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster -book -books" data-ebay-reference="check-meaning-how-fast-is-too-fast-to-understand-increasing-learning-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alphabet Poster Kids Learning A4 A3 200gsm 240gsm</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-meaning-how-fast-is-too-fast-to-understand-increasing-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster -book -books" data-ebay-reference="check-meaning-how-fast-is-too-fast-to-understand-increasing-learning-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for learning poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: learning poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-meaning-how-fast-is-too-fast-to-understand-increasing-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster -book -books" data-ebay-reference="check-meaning-how-fast-is-too-fast-to-understand-increasing-learning-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-meaning-how-fast-is-too-fast-to-understand-increasing-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster -book -books" data-ebay-reference="check-meaning-how-fast-is-too-fast-to-understand-increasing-learning-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Electronic ABC Learning Wall Chart Talking Alphabet 123 Educational Poster Large"><img src="{{ '/assets/images/marketplace-covers/8d54b8a1e09ac57a8c0b.jpg' | relative_url }}" alt="Listing image for Electronic ABC Learning Wall Chart Talking Alphabet 123 Educational Poster Large" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-meaning-how-fast-is-too-fast-to-understand-increasing-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster -book -books" data-ebay-reference="check-meaning-how-fast-is-too-fast-to-understand-increasing-learning-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Electronic ABC Learning Wall Chart Talking Alphabet 123 Educational Poster Large</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-meaning-how-fast-is-too-fast-to-understand-increasing-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster -book -books" data-ebay-reference="check-meaning-how-fast-is-too-fast-to-understand-increasing-learning-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for learning poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: learning poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-meaning-how-fast-is-too-fast-to-understand-increasing-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster -book -books" data-ebay-reference="check-meaning-how-fast-is-too-fast-to-understand-increasing-learning-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-meaning-how-fast-is-too-fast-to-understand-increasing-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster -book -books" data-ebay-reference="check-meaning-how-fast-is-too-fast-to-understand-increasing-learning-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Electronic ABC Learning Wall Chart Talking Alphabet 123 Educational Poster Large"><img src="{{ '/assets/images/marketplace-covers/8d54b8a1e09ac57a8c0b.jpg' | relative_url }}" alt="Listing image for Electronic ABC Learning Wall Chart Talking Alphabet 123 Educational Poster Large" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-meaning-how-fast-is-too-fast-to-understand-increasing-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster -book -books" data-ebay-reference="check-meaning-how-fast-is-too-fast-to-understand-increasing-learning-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Electronic ABC Learning Wall Chart Talking Alphabet 123 Educational Poster Large</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-meaning-how-fast-is-too-fast-to-understand-increasing-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster -book -books" data-ebay-reference="check-meaning-how-fast-is-too-fast-to-understand-increasing-learning-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for learning poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: learning poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-meaning-how-fast-is-too-fast-to-understand-increasing-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster -book -books" data-ebay-reference="check-meaning-how-fast-is-too-fast-to-understand-increasing-learning-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-meaning-how-fast-is-too-fast-to-understand-increasing-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster -book -books" data-ebay-reference="check-meaning-how-fast-is-too-fast-to-understand-increasing-learning-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New English Learning Poster Wall Chart For Kids Talking With Touch Buttons"><img src="{{ '/assets/images/marketplace-covers/a3e5c1e95d296598141e.jpg' | relative_url }}" alt="Listing image for New English Learning Poster Wall Chart For Kids Talking With Touch Buttons" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-meaning-how-fast-is-too-fast-to-understand-increasing-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster -book -books" data-ebay-reference="check-meaning-how-fast-is-too-fast-to-understand-increasing-learning-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">New English Learning Poster Wall Chart For Kids Talking With Touch Buttons</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-meaning-how-fast-is-too-fast-to-understand-increasing-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster -book -books" data-ebay-reference="check-meaning-how-fast-is-too-fast-to-understand-increasing-learning-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for learning poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: learning poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-meaning-how-fast-is-too-fast-to-understand-increasing-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster -book -books" data-ebay-reference="check-meaning-how-fast-is-too-fast-to-understand-increasing-learning-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-meaning-how-fast-is-too-fast-to-understand-increasing-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster -book -books" data-ebay-reference="check-meaning-how-fast-is-too-fast-to-understand-increasing-learning-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-meaning-how-fast-is-too-fast-to-understand-increasing-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster -book -books" data-ebay-reference="check-meaning-how-fast-is-too-fast-to-understand-increasing-learning-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New English Learning Poster Wall Chart For Kids Talking With Touch Buttons"><img src="{{ '/assets/images/marketplace-covers/a3e5c1e95d296598141e.jpg' | relative_url }}" alt="Listing image for New English Learning Poster Wall Chart For Kids Talking With Touch Buttons" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-meaning-how-fast-is-too-fast-to-understand-increasing-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster -book -books" data-ebay-reference="check-meaning-how-fast-is-too-fast-to-understand-increasing-learning-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">New English Learning Poster Wall Chart For Kids Talking With Touch Buttons</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-meaning-how-fast-is-too-fast-to-understand-increasing-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster -book -books" data-ebay-reference="check-meaning-how-fast-is-too-fast-to-understand-increasing-learning-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for learning poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: learning poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-meaning-how-fast-is-too-fast-to-understand-increasing-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster -book -books" data-ebay-reference="check-meaning-how-fast-is-too-fast-to-understand-increasing-learning-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=check-meaning-how-fast-is-too-fast-to-understand-increasing-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster -book -books" data-ebay-reference="check-meaning-how-fast-is-too-fast-to-understand-increasing-learning-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -587,7 +587,7 @@ The most dependable test of reading speed is therefore not a stopwatch but a com
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -607,7 +607,7 @@ The most dependable test of reading speed is therefore not a stopwatch but a com
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -639,7 +639,7 @@ The most dependable test of reading speed is therefore not a stopwatch but a com
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -691,7 +691,7 @@ The most dependable test of reading speed is therefore not a stopwatch but a com
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -736,7 +736,7 @@ The most dependable test of reading speed is therefore not a stopwatch but a com
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -777,136 +777,136 @@ The most dependable test of reading speed is therefore not a stopwatch but a com
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCEye movements, the [perceptual span](&#123;&#123; 'perceptual-span/' | relative_url &#125;&#125;), and reading speed  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by K Rayner · 2010 · Cited by 474 — The main findings were that fast readers (reading at about 330 wpm) had a larger perceptual span t...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by K Rayner · 2010 · Cited by 474 — The main findings were that fast readers (reading at about 330 wpm) had a larger perceptual span t...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7079677/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7079677/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Relations Between Children&#x27;s Comprehension Monitoring...by E Zargar · 2019 · Cited by 90 — Comprehension monitoring is generally...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7079677/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7079677/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Relations Between Children&#x27;s Comprehension Monitoring...by E Zargar · 2019 · Cited by 90 — Comprehension monitoring is generally...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: <a href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/reading-comprehension-strategies" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/reading-comprehension-strategies</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ng. The strategies focus mainly on language comprehension...Read more...</p></details>
+   Link:<a href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/reading-comprehension-strategies" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/reading-comprehension-strategies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ng. The strategies focus mainly on language comprehension...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: fast.com  
-   Link: <a href="https://fast.com/" target="_blank" rel="noopener noreferrer nofollow">https://fast.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Speed TestHow fast is your download speed? In seconds, FAST.com&#x27;s simple Internet speed test will estimate your ISP speed...</p></details>
+   Link:<a href="https://fast.com/" target="_blank" rel="noopener noreferrer nofollow">https://fast.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Speed TestHow fast is your download speed? In seconds, FAST.com&#x27;s simple Internet speed test will estimate your ISP speed...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reading.com  
-   Link: <a href="https://www.reading.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.reading.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Teach Your Child To Read Early, Step by StepReading.com helps your child learn to read with a proven, step-by-step program. Start today a...</p></details>
+   Link:<a href="https://www.reading.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.reading.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Teach Your Child To Read Early, Step by StepReading.com helps your child learn to read with a proven, step-by-step program. Start today a...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: americanenglish.state.gov  
-   Link: <a href="https://americanenglish.state.gov/files/ae/resource_files/49_3_4_cohen-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://americanenglish.state.gov/files/ae/resource_files/49_3_4_cohen-1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fluency through the Repeated Reading Methodby J Cohen · Cited by 59 — RR is a method where the student reads and rereads a text silently...</p></details>
+   Link:<a href="https://americanenglish.state.gov/files/ae/resource_files/49_3_4_cohen-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://americanenglish.state.gov/files/ae/resource_files/49_3_4_cohen-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fluency through the Repeated Reading Methodby J Cohen · Cited by 59 — RR is a method where the student reads and rereads a text silently...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med How Do We Read, and Can Speed Reading Help?  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26769745/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by K Rayner · 2016 · Cited by 531 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26769745/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by K Rayner · 2016 · Cited by 531 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: psychologicalscience.org  
    Title: speed reading promises are too good to be true scientists find  
-   Link: <a href="https://www.psychologicalscience.org/news/releases/speed-reading-promises-are-too-good-to-be-true-scientists-find.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/news/releases/speed-reading-promises-are-too-good-to-be-true-scientists-find.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceSpeed Reading Promises Are Too Good to Be True...Jan 14, 2016 — There is little scientific evidenc...</p></details>
+   Link:<a href="https://www.psychologicalscience.org/news/releases/speed-reading-promises-are-too-good-to-be-true-scientists-find.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/news/releases/speed-reading-promises-are-too-good-to-be-true-scientists-find.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceSpeed Reading Promises Are Too Good to Be True...Jan 14, 2016 — There is little scientific evidenc...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: bcu.ac.uk  
    Title: Birmingham City University What is active recall?  
-   Link: <a href="https://www.bcu.ac.uk/exams-and-revision/best-ways-to-revise/active-recall" target="_blank" rel="noopener noreferrer nofollow">https://www.bcu.ac.uk/exams-and-revision/best-ways-to-revise/active-recall</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The best study method explained...Active recall is a learning method where you continuously test yourself by pulling information out of...</p></details>
+   Link:<a href="https://www.bcu.ac.uk/exams-and-revision/best-ways-to-revise/active-recall" target="_blank" rel="noopener noreferrer nofollow">https://www.bcu.ac.uk/exams-and-revision/best-ways-to-revise/active-recall</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The best study method explained...Active recall is a learning method where you continuously test yourself by pulling information out of...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/38461899/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38461899/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>recall strategies associated with academic...by J Xu · 2024 · Cited by 35 — This systematic review investigates the effectiveness of var...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/38461899/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38461899/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>recall strategies associated with academic...by J Xu · 2024 · Cited by 35 — This systematic review investigates the effectiveness of var...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/10888438.2025.2612649" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10888438.2025.2612649</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This study investigates whether the natural reading rate aligns with the rate optimal for reading comprehension...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/10888438.2025.2612649" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10888438.2025.2612649</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This study investigates whether the natural reading rate aligns with the rate optimal for reading comprehension...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: learnenglish.britishcouncil.org  
-   Link: <a href="https://learnenglish.britishcouncil.org/free-resources/reading" target="_blank" rel="noopener noreferrer nofollow">https://learnenglish.britishcouncil.org/free-resources/reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>will help you to improve your understanding of the language and build your [vocabulary](&amp;#123;&amp;#123; &#x27;knowledge/&#x27; | relative_url &amp;#125;&amp;#125;). Read more...</p></details>
+   Link:<a href="https://learnenglish.britishcouncil.org/free-resources/reading" target="_blank" rel="noopener noreferrer nofollow">https://learnenglish.britishcouncil.org/free-resources/reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>will help you to improve your understanding of the language and build your [vocabulary](&amp;#123;&amp;#123; &#x27;knowledge/&#x27; | relative_url &amp;#125;&amp;#125;). Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Reading" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ReadingReading is the process of taking in the sense or meaning of symbols, often specifically those of a written language, by means o...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Reading" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ReadingReading is the process of taking in the sense or meaning of symbols, often specifically those of a written language, by means o...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/22590519/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22590519/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Speed, Comprehension and Eye Movements...by H Miyata · 2012 · Cited by 60 — The present study examined relationships between reading spe...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/22590519/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22590519/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Speed, Comprehension and Eye Movements...by H Miyata · 2012 · Cited by 60 — The present study examined relationships between reading spe...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: centerforinquiry.org  
    Title: does speed reading improve reading comprehension  
-   Link: <a href="https://centerforinquiry.org/blog/does-speed-reading-improve-reading-comprehension/" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.org/blog/does-speed-reading-improve-reading-comprehension/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>?Sep 22, 2022 — The researchers concluded that the speed readers showed a speed-accuracy tradeoff; with increased speed, their accuracy i...</p></details>
+   Link:<a href="https://centerforinquiry.org/blog/does-speed-reading-improve-reading-comprehension/" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.org/blog/does-speed-reading-improve-reading-comprehension/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?Sep 22, 2022 — The researchers concluded that the speed readers showed a speed-accuracy tradeoff; with increased speed, their accuracy i...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: psychologicalscience.org  
    Title: speed reading promises are too good to be true scientists find 2  
-   Link: <a href="https://www.psychologicalscience.org/observer/speed-reading-promises-are-too-good-to-be-true-scientists-find-2" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/observer/speed-reading-promises-are-too-good-to-be-true-scientists-find-2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Speed Reading Promises Are Too Good to Be True...Feb 29, 2016 — A team of psychological scientists found little evidence to support spee...</p></details>
+   Link:<a href="https://www.psychologicalscience.org/observer/speed-reading-promises-are-too-good-to-be-true-scientists-find-2" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/observer/speed-reading-promises-are-too-good-to-be-true-scientists-find-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Speed Reading Promises Are Too Good to Be True...Feb 29, 2016 — A team of psychological scientists found little evidence to support spee...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/398253041_Effect_of_Repeated_Reading_for_Developing_Reading_Fluency_and_Reading_Comprehension_in_EFL_Students_Pre_Experimental_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/398253041_Effect_of_Repeated_Reading_for_Developing_Reading_Fluency_and_Reading_Comprehension_in_EFL_Students_Pre_Experimental_Study</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Effect of Repeated Reading for Developing...29 May 2026 — Based on the results of the study, it was found that repeated reading wa...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/398253041_Effect_of_Repeated_Reading_for_Developing_Reading_Fluency_and_Reading_Comprehension_in_EFL_Students_Pre_Experimental_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/398253041_Effect_of_Repeated_Reading_for_Developing_Reading_Fluency_and_Reading_Comprehension_in_EFL_Students_Pre_Experimental_Study</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Effect of Repeated Reading for Developing...29 May 2026 — Based on the results of the study, it was found that repeated reading wa...</p></details>
    Published: May 2026  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/49694262_Eye_movements_the_perceptual_span_and_reading_speed" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/49694262_Eye_movements_the_perceptual_span_and_reading_speed</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eye movements, the perceptual span, and reading speedThe main findings were that fast readers (reading at about 330 wpm) had a larger per...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/49694262_Eye_movements_the_perceptual_span_and_reading_speed" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/49694262_Eye_movements_the_perceptual_span_and_reading_speed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eye movements, the perceptual span, and reading speedThe main findings were that fast readers (reading at about 330 wpm) had a larger per...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: readnaturally.com  
-   Link: <a href="https://www.readnaturally.com/research/5-components-of-reading/comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.readnaturally.com/research/5-components-of-reading/comprehension</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Comprehension: Strategies, Skills &amp; InstructionEvidence-based methods for teaching reading comprehension, including key strategie...</p></details>
+   Link:<a href="https://www.readnaturally.com/research/5-components-of-reading/comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.readnaturally.com/research/5-components-of-reading/comprehension</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Comprehension: Strategies, Skills &amp; InstructionEvidence-based methods for teaching reading comprehension, including key strategie...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: test-english.com  
-   Link: <a href="https://test-english.com/reading/" target="_blank" rel="noopener noreferrer nofollow">https://test-english.com/reading/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ReadingImprove your reading skills with our reading tests. Find reading tests for every level. Different types of texts &amp; questions in ea...</p></details>
+   Link:<a href="https://test-english.com/reading/" target="_blank" rel="noopener noreferrer nofollow">https://test-english.com/reading/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ReadingImprove your reading skills with our reading tests. Find reading tests for every level. Different types of texts &amp; questions in ea...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: onlit.org  
-   Link: <a href="https://onlit.org/wp-content/uploads/2024/03/Stollar-Repeated-Reading.pdf" target="_blank" rel="noopener noreferrer nofollow">https://onlit.org/wp-content/uploads/2024/03/Stollar-Repeated-Reading.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Repeated Reading Implementation GuideResults suggested that repeated reading improves fluency and comprehension of familiar texts and may...</p></details>
+   Link:<a href="https://onlit.org/wp-content/uploads/2024/03/Stollar-Repeated-Reading.pdf" target="_blank" rel="noopener noreferrer nofollow">https://onlit.org/wp-content/uploads/2024/03/Stollar-Repeated-Reading.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Repeated Reading Implementation GuideResults suggested that repeated reading improves fluency and comprehension of familiar texts and may...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/curious/the-science-behind-whether-speed-reading-works-2da2e115bb5c" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/curious/the-science-behind-whether-speed-reading-works-2da2e115bb5c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science Behind Whether Speed Reading WorksOn general comprehension questions, the normal readers performed the best, but the speed re...</p></details>
+   Link:<a href="https://medium.com/curious/the-science-behind-whether-speed-reading-works-2da2e115bb5c" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/curious/the-science-behind-whether-speed-reading-works-2da2e115bb5c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Science Behind Whether Speed Reading WorksOn general comprehension questions, the normal readers performed the best, but the speed re...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: rayner.com  
-   Link: <a href="https://rayner.com/us/" target="_blank" rel="noopener noreferrer nofollow">https://rayner.com/us/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rayner USA | Global Ophthalmic SolutionsRayner is a British manufacturer of ophthalmic medical products, including intraocular lenses (IO...</p></details>
+   Link:<a href="https://rayner.com/us/" target="_blank" rel="noopener noreferrer nofollow">https://rayner.com/us/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rayner USA | Global Ophthalmic SolutionsRayner is a British manufacturer of ophthalmic medical products, including intraocular lenses (IO...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: publications.waset.org  
-   Link: <a href="https://publications.waset.org/15850/the-effect-of-repeated-reading-on-student-fluency-does-[practice" target="_blank" rel="noopener noreferrer nofollow">https://publications.waset.org/15850/the-effect-of-repeated-reading-on-student-fluency-does-[practice</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of Repeated Reading on Student FluencyWe found that, on average, the use of repeated reading strategies increased students- fluenc...</p></details>
+   Link:<a href="https://publications.waset.org/15850/the-effect-of-repeated-reading-on-student-fluency-does-[practice" target="_blank" rel="noopener noreferrer nofollow">https://publications.waset.org/15850/the-effect-of-repeated-reading-on-student-fluency-does-[practice</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of Repeated Reading on Student FluencyWe found that, on average, the use of repeated reading strategies increased students- fluenc...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: scientificamerican.com  
-   Link: <a href="https://www.scientificamerican.com/article/speed-read-with-phonics/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/speed-read-with-phonics/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>To Read with Speed, Get Hooked on Phonics, and…Aug 1, 2007 — To Read with Speed, Get Hooked on Phonics, and…...</p></details>
+   Link:<a href="https://www.scientificamerican.com/article/speed-read-with-phonics/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/speed-read-with-phonics/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>To Read with Speed, Get Hooked on Phonics, and…Aug 1, 2007 — To Read with Speed, Get Hooked on Phonics, and…...</p></details>

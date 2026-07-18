@@ -294,17 +294,17 @@ image: /assets/images/increasing_re_852ca6_phrase_readin_eba9de_natural_phras_b4
 
 ## Introduction
 
-When readers ask where a sentence should naturally pause, the answer is usually: where a unit of meaning ends, not where an individual word ends. Natural phrase breaks help transform reading from a series of disconnected word recognitions into a smooth flow of ideas. This matters for [increasing]({{ 'increasing/' | relative_url }}) reading speed because fluent readers spend less effort rebuilding sentence structure after every word and more effort following meaning across larger chunks of text. Research on reading fluency consistently links effective phrasing with better prosody—the rhythm and expression of reading—and stronger comprehension. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/topics/fluency/articles/developing-fluent-readers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsDeveloping Fluent ReadersfluencyFluency is the ability to read a text accurately, at a good pace, and with proper expressi...</span></span></span>
+When readers ask where a sentence should naturally pause, the answer is usually: where a unit of meaning ends, not where an individual word ends. Natural phrase breaks help transform reading from a series of disconnected word recognitions into a smooth flow of ideas. This matters for [increasing]({{ 'increasing/' | relative_url }}) reading speed because fluent readers spend less effort rebuilding sentence structure after every word and more effort following meaning across larger chunks of text. Research on reading fluency consistently links effective phrasing with better prosody—the rhythm and expression of reading—and stronger comprehension.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/topics/fluency/articles/developing-fluent-readers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsDeveloping Fluent ReadersfluencyFluency is the ability to read a text accurately, at a good pace, and with proper expressi...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_natural_phras_b4ef28-Illustration-1-dark.svg" | relative_url }}" alt="Phrase Breaks illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_natural_phras_b4ef28-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_natural_phras_b4ef28-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Phrase breaks are not arbitrary pauses. They reflect how words work together in the sentence. Learning to recognise those boundaries reduces choppy reading, supports comprehension, and helps readers maintain momentum without skipping information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naset.com/publications/the-practical-teacher/the-brain-prosody-and-reading-fluency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naset.com">[NASET]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naset.com</span><span class="citation-popover-snippet">The Brain, Prosody, and Reading Fluency -Phrase-cued reading develops prosody. The phrase pauses help students whose reading lacks p...</span></span></span>
+Phrase breaks are not arbitrary pauses. They reflect how words work together in the sentence. Learning to recognise those boundaries reduces choppy reading, supports comprehension, and helps readers maintain momentum without skipping information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.naset.com/publications/the-practical-teacher/the-brain-prosody-and-reading-fluency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naset.com">[NASET]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naset.com</span><span class="citation-popover-snippet">The Brain, Prosody, and Reading Fluency -Phrase-cued reading develops prosody. The phrase pauses help students whose reading lacks p...</span></span></span>
 
 ## How phrase boundaries follow meaning
 
 Natural phrase boundaries usually appear where a reader has completed a small package of meaning.
 
-Consider this sentence: <span class="citation-chip-wrap"><a class="citation-chip" href="https://centaur.reading.ac.uk/106198/1/Working%20Memory%20and%20L2%20Sentence%20Processing%20-%20Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centaur.reading.ac.uk">[centaur.reading.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centaur.reading.ac.uk</span><span class="citation-popover-title">reading.ac.uk Working memory and L2 sentence processing</span><span class="citation-popover-snippet">memory and L2 sentence processing - CentAURby I Cunnings · 2022 · Cited by 11 — In this chapter, I critically evaluate different models o...</span></span></span>
+Consider this sentence:<span class="citation-chip-wrap"><a class="citation-chip" href="https://centaur.reading.ac.uk/106198/1/Working%20Memory%20and%20L2%20Sentence%20Processing%20-%20Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centaur.reading.ac.uk">[centaur.reading.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centaur.reading.ac.uk</span><span class="citation-popover-title">reading.ac.uk Working memory and L2 sentence processing</span><span class="citation-popover-snippet">memory and L2 sentence processing - CentAURby I Cunnings · 2022 · Cited by 11 — In this chapter, I critically evaluate different models o...</span></span></span>
 
 *The young scientist from Edinburgh presented her findings at the conference.*
 
@@ -318,15 +318,15 @@ A phrase-based reading pattern is more likely to be:
 
 Each group contains words that belong together. The reader is not pausing because of word count. The reader is pausing because a meaningful idea has been completed.
 
-This reflects a broader characteristic of skilled reading. Research on reading fluency describes effective readers as people who process text with appropriate phrasing and expression rather than as isolated words. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/topics/fluency/articles/developing-fluent-readers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsDeveloping Fluent ReadersfluencyFluency is the ability to read a text accurately, at a good pace, and with proper expressi...</span></span></span>
+This reflects a broader characteristic of skilled reading. Research on reading fluency describes effective readers as people who process text with appropriate phrasing and expression rather than as isolated words.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/topics/fluency/articles/developing-fluent-readers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsDeveloping Fluent ReadersfluencyFluency is the ability to read a text accurately, at a good pace, and with proper expressi...</span></span></span>
 
-Linguistic and [eye-movement]({{ 'eye-tradeoff/' | relative_url }}) research also shows that sentence processing is closely tied to syntactic structure. Readers continuously build interpretations of how words relate to one another, and these structural relationships influence how text is processed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2993640/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Effects of syntactic context on eye movements during readingby L Huestegge · 2010 · Cited by 16 — Previous research has demonstrated t...</span></span></span>
+Linguistic and [eye-movement]({{ 'eye-tradeoff/' | relative_url }}) research also shows that sentence processing is closely tied to syntactic structure. Readers continuously build interpretations of how words relate to one another, and these structural relationships influence how text is processed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2993640/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Effects of syntactic context on eye movements during readingby L Huestegge · 2010 · Cited by 16 — Previous research has demonstrated t...</span></span></span>
 
 ### Why the brain prefers grouped meaning
 
 Working memory has limits. If every word is treated as a separate task, the reader must hold many small pieces in mind while simultaneously trying to build a coherent sentence.
 
-Grouping words into phrases reduces that burden. Instead of processing: <span class="citation-chip-wrap"><a class="citation-chip" href="https://readlite.in/concepts/chunking-reading/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readlite.in">[readlite.in]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readlite.in</span><span class="citation-popover-snippet">Chunking in Reading: Processing Text in Meaningful UnitsExpert readers don&#x27;t process word-by-word—they chunk phrases into meaningful unit...</span></span></span>
+Grouping words into phrases reduces that burden. Instead of processing:<span class="citation-chip-wrap"><a class="citation-chip" href="https://readlite.in/concepts/chunking-reading/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readlite.in">[readlite.in]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readlite.in</span><span class="citation-popover-snippet">Chunking in Reading: Processing Text in Meaningful UnitsExpert readers don&#x27;t process word-by-word—they chunk phrases into meaningful unit...</span></span></span>
 
 *the / old / wooden / bridge*
 
@@ -334,7 +334,7 @@ the reader processes:
 
 *the old wooden bridge*
 
-as a single descriptive unit. Research on chunking and sentence processing suggests that readers naturally organise language into larger meaningful units rather than maintaining every word as an independent element. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10613263/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Often sentences can...</span></span></span>
+as a single descriptive unit. Research on chunking and sentence processing suggests that readers naturally organise language into larger meaningful units rather than maintaining every word as an independent element.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10613263/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Often sentences can...</span></span></span>
 
 For reading speed, this matters because fewer mental resources are spent assembling structure. More attention can be directed towards understanding the message.
 
@@ -407,7 +407,7 @@ Opening clauses often form their own phrase.
 
 These introductory sections prepare the reader for what follows and often benefit from a boundary before the main clause begins.
 
-Phrase-cued reading approaches used in literacy instruction explicitly mark these natural groupings because many developing readers struggle to recognise them independently. Studies examining phrase-[cued text]({{ 'cued-text/' | relative_url }}) have found benefits for expression and phrasing, both important components of fluency. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/full/10.1111/1467-9817.70002" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">1467 9817.70002</span><span class="citation-popover-snippet">Wiley Online LibraryPairing phrase‐cued text with readers theatre: Effects on...by E Rodgers · 2025 · Cited by 2 — Adding text with high...</span></span></span>
+Phrase-cued reading approaches used in literacy instruction explicitly mark these natural groupings because many developing readers struggle to recognise them independently. Studies examining phrase-[cued text]({{ 'cued-text/' | relative_url }}) have found benefits for expression and phrasing, both important components of fluency.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/full/10.1111/1467-9817.70002" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">1467 9817.70002</span><span class="citation-popover-snippet">Wiley Online LibraryPairing phrase‐cued text with readers theatre: Effects on...by E Rodgers · 2025 · Cited by 2 — Adding text with high...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_natural_phras_b4ef28-Illustration-2-dark.svg" | relative_url }}" alt="Phrase Breaks illustration 2" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_natural_phras_b4ef28-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_natural_phras_b4ef28-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -425,7 +425,7 @@ The excessive pauses force the reader to repeatedly restart sentence constructio
 
 Overly short phrase groups can also hide relationships between words. If *during* becomes detached from *the afternoon meeting*, the reader must reconnect them mentally. This creates unnecessary work.
 
-Reading researchers frequently use the term *prosody* to describe natural phrasing, rhythm, and expression. Choppy reading is often viewed as evidence that the reader has not yet developed efficient [phrase-level]({{ 'phrase-voice/' | relative_url }}) processing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/topics/fluency/articles/developing-fluent-readers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsDeveloping Fluent ReadersfluencyFluency is the ability to read a text accurately, at a good pace, and with proper expressi...</span></span></span>
+Reading researchers frequently use the term *prosody* to describe natural phrasing, rhythm, and expression. Choppy reading is often viewed as evidence that the reader has not yet developed efficient [phrase-level]({{ 'phrase-voice/' | relative_url }}) processing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/topics/fluency/articles/developing-fluent-readers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsDeveloping Fluent ReadersfluencyFluency is the ability to read a text accurately, at a good pace, and with proper expressi...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Jp1dhZVA-3Q" title="Module 2, Video 5: Focus on Prosody (PRISMS)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Jp1dhZVA-3Q" target="_blank" rel="noopener noreferrer">Module 2, Video 5: Focus on Prosody (PRISMS)</a></p><p class="youtube-embed-meta">Channel: Institute of Education Sciences &middot; Views: 480 &middot; Uploaded: November 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Jp1dhZVA-3Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Jp1dhZVA-3Q">Open on YouTube</a></p></div></div></div>
@@ -442,7 +442,7 @@ A reader who treats this entire sentence as one uninterrupted unit may lose trac
 
 Very long chunks can overload working memory. The reader delays structure-building for too long and may need to backtrack to recover meaning.
 
-Research on sentence chunking suggests that readers benefit from boundaries that align with meaningful syntactic units rather than arbitrarily large spans of text. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10613263/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Often sentences can...</span></span></span>
+Research on sentence chunking suggests that readers benefit from boundaries that align with meaningful syntactic units rather than arbitrarily large spans of text.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10613263/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Often sentences can...</span></span></span>
 
 The goal is balance: phrase groups should be large enough to carry meaning efficiently but small enough to remain manageable.
 
@@ -464,7 +464,7 @@ Now compare:
 
 Nothing is technically misread, yet the sentence becomes harder to follow because the pauses split ideas that belong together.
 
-This difference explains why phrase-cued instruction often marks meaningful boundaries rather than teaching readers to pause according to fixed word counts. The objective is not slower reading with more pauses; it is smoother reading with better-organised pauses. Studies of phrase-cued text continue to show improvements in phrasing and expressive reading when readers receive support in recognising these boundaries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/full/10.1111/1467-9817.70002" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library+2NASET]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">1467 9817.70002</span><span class="citation-popover-snippet">Wiley Online LibraryPairing phrase‐cued text with readers theatre: Effects on...by E Rodgers · 2025 · Cited by 2 — Adding text with high...</span></span></span>
+This difference explains why phrase-cued instruction often marks meaningful boundaries rather than teaching readers to pause according to fixed word counts. The objective is not slower reading with more pauses; it is smoother reading with better-organised pauses. Studies of phrase-cued text continue to show improvements in phrasing and expressive reading when readers receive support in recognising these boundaries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/full/10.1111/1467-9817.70002" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library+2NASET]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">1467 9817.70002</span><span class="citation-popover-snippet">Wiley Online LibraryPairing phrase‐cued text with readers theatre: Effects on...by E Rodgers · 2025 · Cited by 2 — Adding text with high...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uJ9JPy9mLsA" title="Fundations - Scooping Phrases" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uJ9JPy9mLsA" target="_blank" rel="noopener noreferrer">Fundations - Scooping Phrases</a></p><p class="youtube-embed-meta">Channel: KAREN GAFFNEY &middot; Views: 14.5K &middot; Uploaded: March 2020 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uJ9JPy9mLsA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uJ9JPy9mLsA">Open on YouTube</a></p></div></div></div>
@@ -485,199 +485,199 @@ When readers recognise meaningful groups:
 
 </div>
 
-Research on fluency consistently presents phrasing as part of the bridge between word recognition and comprehension rather than as a separate skill. Readers who phrase effectively tend to sound smoother because they are processing meaning more efficiently, not because they are rushing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/reading-101/reading-and-writing-basics/fluency" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets+2Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsBasics: FluencyFluency is the ability to read a text accurately, quickly, and with expression. Fluent reading builds stami...</span></span></span>
+Research on fluency consistently presents phrasing as part of the bridge between word recognition and comprehension rather than as a separate skill. Readers who phrase effectively tend to sound smoother because they are processing meaning more efficiently, not because they are rushing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/reading-101/reading-and-writing-basics/fluency" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets+2Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsBasics: FluencyFluency is the ability to read a text accurately, quickly, and with expression. Fluent reading builds stami...</span></span></span>
 
 In practical terms, natural phrase breaks stop reading from feeling like a sequence of starts and stops. They allow sentences to unfold in the same meaningful units in which they were written, creating the smoother rhythm that supports both comprehension and increased reading speed.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Where should a sentence naturally pause?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Where should a sentence naturally pause?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Focuses on understanding structure and meaning rather than isolated words.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Focuses on understanding structure and meaning rather than isolated words.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Breakthrough rapid reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/84360-M.jpg" alt="Cover for Breakthrough rapid reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breakthrough rapid reading">Breakthrough rapid reading</a>
-        </h4>
-        <p class="fr-book-author">By Peter Kump</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Breakthrough rapid reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/84360-M.jpg" alt="Cover for Breakthrough rapid reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breakthrough rapid reading">Breakthrough rapid reading</a>
+</h4>
+<p class="fr-book-author">By Peter Kump</p>
         
-        <p class="fr-book-desc">First published 1979. Subjects: Speed reading, Rapid reading, Du shu fang fa.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1979. Subjects: Speed reading, Rapid reading, Du shu fang fa.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Speed Reading Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/375099-M.jpg" alt="Cover for The Speed Reading Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Speed Reading Book">The Speed Reading Book</a>
-        </h4>
-        <p class="fr-book-author">By Tony Buzan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Speed Reading Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/375099-M.jpg" alt="Cover for The Speed Reading Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Speed Reading Book">The Speed Reading Book</a>
+</h4>
+<p class="fr-book-author">By Tony Buzan</p>
         
-        <p class="fr-book-desc">First published 1997. Subjects: Speed reading, Développement d&#x27;aptitudes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1997. Subjects: Speed reading, Développement d&#x27;aptitudes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=10+Days+to+Faster+Reading+Abby+Marks+Beale+and+The+Princeton+Language+Institute&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 10 Days to Faster Reading on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=10+Days+to+Faster+Reading+Abby+Marks+Beale+and+The+Princeton+Language+Institute&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="10 Days to Faster Reading">10 Days to Faster Reading</a>
-        </h4>
-        <p class="fr-book-author">By Abby Marks Beale and The Princeton Language Institute</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=10+Days+to+Faster+Reading+Abby+Marks+Beale+and+The+Princeton+Language+Institute&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 10 Days to Faster Reading on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=10+Days+to+Faster+Reading+Abby+Marks+Beale+and+The+Princeton+Language+Institute&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="10 Days to Faster Reading">10 Days to Faster Reading</a>
+</h4>
+<p class="fr-book-author">By Abby Marks Beale and The Princeton Language Institute</p>
         
-        <p class="fr-book-desc">Includes exercises that encourage phrase-level reading.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=10+Days+to+Faster+Reading+Abby+Marks+Beale+and+The+Princeton+Language+Institute&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes exercises that encourage phrase-level reading.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=10+Days+to+Faster+Reading+Abby+Marks+Beale+and+The+Princeton+Language+Institute&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Breakthrough rapid reading</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Speed+Reading+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Speed Reading Book</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Breakthrough rapid reading</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Speed+Reading+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Speed Reading Book</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=read+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="read poster -book -books -dvd" data-ebay-reference="phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Reader Read I Read Banned Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/09261166f66bd9cd272e.jpg' | relative_url }}" alt="Listing image for Reader Read I Read Banned Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=read+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="read poster -book -books -dvd" data-ebay-reference="phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Reader Read I Read Banned Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=read+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="read poster -book -books -dvd" data-ebay-reference="phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for read poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: read poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=read+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="read poster -book -books -dvd" data-ebay-reference="phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=read+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="read poster -book -books -dvd" data-ebay-reference="phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Reader Read I Read Banned Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/09261166f66bd9cd272e.jpg' | relative_url }}" alt="Listing image for Reader Read I Read Banned Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=read+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="read poster -book -books -dvd" data-ebay-reference="phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Reader Read I Read Banned Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=read+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="read poster -book -books -dvd" data-ebay-reference="phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for read poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: read poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=read+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="read poster -book -books -dvd" data-ebay-reference="phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=read+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="read poster -book -books -dvd" data-ebay-reference="phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for you read my tshirt Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/846d75d822ecff3dd041.jpg' | relative_url }}" alt="Listing image for you read my tshirt Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=read+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="read poster -book -books -dvd" data-ebay-reference="phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">you read my tshirt Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=read+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="read poster -book -books -dvd" data-ebay-reference="phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for read poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: read poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=read+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="read poster -book -books -dvd" data-ebay-reference="phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=read+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="read poster -book -books -dvd" data-ebay-reference="phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for you read my tshirt Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/846d75d822ecff3dd041.jpg' | relative_url }}" alt="Listing image for you read my tshirt Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=read+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="read poster -book -books -dvd" data-ebay-reference="phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">you read my tshirt Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=read+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="read poster -book -books -dvd" data-ebay-reference="phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for read poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: read poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=read+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="read poster -book -books -dvd" data-ebay-reference="phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=read+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="read poster -book -books -dvd" data-ebay-reference="phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Levellers Hand Signed A2 Matt Paper Poster Limited Edition (Read Description)"><img src="{{ '/assets/images/marketplace-covers/0a405d84333870165f87.jpg' | relative_url }}" alt="Listing image for Levellers Hand Signed A2 Matt Paper Poster Limited Edition (Read Description)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=read+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="read poster -book -books -dvd" data-ebay-reference="phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Levellers Hand Signed A2 Matt Paper Poster Limited Edition (Read Description)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=read+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="read poster -book -books -dvd" data-ebay-reference="phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for read poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: read poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=read+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="read poster -book -books -dvd" data-ebay-reference="phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=read+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="read poster -book -books -dvd" data-ebay-reference="phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Levellers Hand Signed A2 Matt Paper Poster Limited Edition (Read Description)"><img src="{{ '/assets/images/marketplace-covers/0a405d84333870165f87.jpg' | relative_url }}" alt="Listing image for Levellers Hand Signed A2 Matt Paper Poster Limited Edition (Read Description)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=read+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="read poster -book -books -dvd" data-ebay-reference="phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Levellers Hand Signed A2 Matt Paper Poster Limited Edition (Read Description)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=read+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="read poster -book -books -dvd" data-ebay-reference="phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for read poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: read poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=read+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="read poster -book -books -dvd" data-ebay-reference="phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=read+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="read poster -book -books -dvd" data-ebay-reference="phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Read Learn Grow 4 Framed Canvas Print, Pictures for Home Walls Decor"><img src="{{ '/assets/images/marketplace-covers/0675f1d5fdb148d0fd49.jpg' | relative_url }}" alt="Listing image for Read Learn Grow 4 Framed Canvas Print, Pictures for Home Walls Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=read+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="read poster -book -books -dvd" data-ebay-reference="phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Read Learn Grow 4 Framed Canvas Print, Pictures for Home Walls Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=read+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="read poster -book -books -dvd" data-ebay-reference="phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for read poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: read poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=read+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="read poster -book -books -dvd" data-ebay-reference="phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=read+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="read poster -book -books -dvd" data-ebay-reference="phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=read+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="read poster -book -books -dvd" data-ebay-reference="phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Read Learn Grow 4 Framed Canvas Print, Pictures for Home Walls Decor"><img src="{{ '/assets/images/marketplace-covers/0675f1d5fdb148d0fd49.jpg' | relative_url }}" alt="Listing image for Read Learn Grow 4 Framed Canvas Print, Pictures for Home Walls Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=read+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="read poster -book -books -dvd" data-ebay-reference="phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Read Learn Grow 4 Framed Canvas Print, Pictures for Home Walls Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=read+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="read poster -book -books -dvd" data-ebay-reference="phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for read poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: read poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=read+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="read poster -book -books -dvd" data-ebay-reference="phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=read+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="read poster -book -books -dvd" data-ebay-reference="phrase-breaks-where-should-a-sentence-naturally-pause-increasing-read-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -693,7 +693,7 @@ In practical terms, natural phrase breaks stop reading from feeling like a seque
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -713,7 +713,7 @@ In practical terms, natural phrase breaks stop reading from feeling like a seque
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -745,7 +745,7 @@ In practical terms, natural phrase breaks stop reading from feeling like a seque
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -797,7 +797,7 @@ In practical terms, natural phrase breaks stop reading from feeling like a seque
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -842,7 +842,7 @@ In practical terms, natural phrase breaks stop reading from feeling like a seque
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -883,170 +883,170 @@ In practical terms, natural phrase breaks stop reading from feeling like a seque
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: naset.com  
-   Link: <a href="https://www.naset.com/publications/the-practical-teacher/the-brain-prosody-and-reading-fluency/" target="_blank" rel="noopener noreferrer nofollow">https://www.naset.com/publications/the-practical-teacher/the-brain-prosody-and-reading-fluency/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Brain, Prosody, and Reading Fluency -Phrase-cued reading develops prosody. The phrase pauses help students whose reading lacks p...</p></details>
+   Link:<a href="https://www.naset.com/publications/the-practical-teacher/the-brain-prosody-and-reading-fluency/" target="_blank" rel="noopener noreferrer nofollow">https://www.naset.com/publications/the-practical-teacher/the-brain-prosody-and-reading-fluency/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Brain, Prosody, and Reading Fluency -Phrase-cued reading develops prosody. The phrase pauses help students whose reading lacks p...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2993640/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2993640/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of syntactic context on eye movements during readingby L Huestegge · 2010 · Cited by 16 — Previous research has demonstrated t...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2993640/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2993640/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of syntactic context on eye movements during readingby L Huestegge · 2010 · Cited by 16 — Previous research has demonstrated t...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: researchgate.net  
    Title: 269700920 Syntactic influences on eye movements during reading  
-   Link: <a href="https://www.researchgate.net/publication/269700920_Syntactic_influences_on_eye_movements_during_reading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/269700920_Syntactic_influences_on_eye_movements_during_reading</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Syntactic influences on eye movements during readingDec 18, 2014 — It provides an extensive review of what eye movement measurement...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/269700920_Syntactic_influences_on_eye_movements_during_reading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/269700920_Syntactic_influences_on_eye_movements_during_reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Syntactic influences on eye movements during readingDec 18, 2014 — It provides an extensive review of what eye movement measurement...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10613263/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10613263/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Often sentences can...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10613263/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10613263/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Often sentences can...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: onlinelibrary.wiley.com  
    Title: 1467 9817.70002  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/1467-9817.70002" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1111/1467-9817.70002</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryPairing phrase‐cued text with readers theatre: Effects on...by E Rodgers · 2025 · Cited by 2 — Adding text with high...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/1467-9817.70002" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1111/1467-9817.70002</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryPairing phrase‐cued text with readers theatre: Effects on...by E Rodgers · 2025 · Cited by 2 — Adding text with high...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/389791217_Pairing_phrase-cued_text_with_readers_theatre_Effects_on_reading_prosody_and_automaticity" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/389791217_Pairing_phrase-cued_text_with_readers_theatre_Effects_on_reading_prosody_and_automaticity</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pairing phrase‐cued text with readers theatreConclusions Adding text with highlighted phrase boundaries enhanced the effect of readers th...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/389791217_Pairing_phrase-cued_text_with_readers_theatre_Effects_on_reading_prosody_and_automaticity" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/389791217_Pairing_phrase-cued_text_with_readers_theatre_Effects_on_reading_prosody_and_automaticity</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pairing phrase‐cued text with readers theatreConclusions Adding text with highlighted phrase boundaries enhanced the effect of readers th...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: onlinelibrary.wiley.com  
    Title: 1467 9817.70002  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/1467-9817.70002" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1111/1467-9817.70002</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>phrase‐cued text with readers theatreby E Rodgers · 2025 · Cited by 2 — Adding text with highlighted phrase boundaries enhanced the effec...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/1467-9817.70002" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1111/1467-9817.70002</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>phrase‐cued text with readers theatreby E Rodgers · 2025 · Cited by 2 — Adding text with highlighted phrase boundaries enhanced the effec...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
    Title: 226501354 Promoting gains in reading fluency A comparison of three approaches  
-   Link: <a href="https://www.researchgate.net/publication/226501354_Promoting_gains_in_reading_fluency_A_comparison_of_three_approaches" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/226501354_Promoting_gains_in_reading_fluency_A_comparison_of_three_approaches</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Promoting gains in reading fluency: A comparison of three...Aug 9, 2025 — Reading with natural prosody was most strongly facilitated by...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/226501354_Promoting_gains_in_reading_fluency_A_comparison_of_three_approaches" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/226501354_Promoting_gains_in_reading_fluency_A_comparison_of_three_approaches</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Promoting gains in reading fluency: A comparison of three...Aug 9, 2025 — Reading with natural prosody was most strongly facilitated by...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/topics/fluency/articles/developing-fluent-readers" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/fluency/articles/developing-fluent-readers</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsDeveloping Fluent ReadersfluencyFluency is the ability to read a text accurately, at a good pace, and with proper expressi...</p></details>
+   Link:<a href="https://www.readingrockets.org/topics/fluency/articles/developing-fluent-readers" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/fluency/articles/developing-fluent-readers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsDeveloping Fluent ReadersfluencyFluency is the ability to read a text accurately, at a good pace, and with proper expressi...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/reading-101/reading-and-writing-basics/fluency" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/reading-101/reading-and-writing-basics/fluency</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsBasics: FluencyFluency is the ability to read a text accurately, quickly, and with expression. Fluent reading builds stami...</p></details>
+   Link:<a href="https://www.readingrockets.org/reading-101/reading-and-writing-basics/fluency" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/reading-101/reading-and-writing-basics/fluency</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsBasics: FluencyFluency is the ability to read a text accurately, quickly, and with expression. Fluent reading builds stami...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2805245/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2805245/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Longitudinal Study of the Development of Reading Prosody...by J Miller · 2008 · Cited by 519 — The [purpose](&amp;#123;&amp;#123; &#x27;purpose/&#x27; | relative_url &amp;#125;&amp;#125;) of this study was to examine...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2805245/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2805245/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Longitudinal Study of the Development of Reading Prosody...by J Miller · 2008 · Cited by 519 — The [purpose](&amp;#123;&amp;#123; &#x27;purpose/&#x27; | relative_url &amp;#125;&amp;#125;) of this study was to examine...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: readingrockets.org  
    Title: can we really teach prosody and why would we want  
-   Link: <a href="https://www.readingrockets.org/blogs/shanahan-on-literacy/can-we-really-teach-prosody-and-why-would-we-want" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/blogs/shanahan-on-literacy/can-we-really-teach-prosody-and-why-would-we-want</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>To?Jul 5, 2023 — Recent research One instructional approach found to improve the prosody of early readers is repeated reading can have po...</p></details>
+   Link:<a href="https://www.readingrockets.org/blogs/shanahan-on-literacy/can-we-really-teach-prosody-and-why-would-we-want" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/blogs/shanahan-on-literacy/can-we-really-teach-prosody-and-why-would-we-want</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>To?Jul 5, 2023 — Recent research One instructional approach found to improve the prosody of early readers is repeated reading can have po...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/practice" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/practice</a>  
+   Link:<a href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/practice" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/practice</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: readingrockets.org  
    Title: everything you wanted know about repeated reading  
-   Link: <a href="https://www.readingrockets.org/blogs/shanahan-on-literacy/everything-you-wanted-know-about-repeated-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/blogs/shanahan-on-literacy/everything-you-wanted-know-about-repeated-reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Everything You Wanted to Know about Repeated ReadingAug 4, 2017 — Repeated reading is a particular method proposed by S. Jay Samuels to d...</p></details>
+   Link:<a href="https://www.readingrockets.org/blogs/shanahan-on-literacy/everything-you-wanted-know-about-repeated-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/blogs/shanahan-on-literacy/everything-you-wanted-know-about-repeated-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Everything You Wanted to Know about Repeated ReadingAug 4, 2017 — Repeated reading is a particular method proposed by S. Jay Samuels to d...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/classroom/classroom-strategies/timed-repeated-readings" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/classroom/classroom-strategies/timed-repeated-readings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Timed Repeated ReadingsThe goal of timed repeated readings is to increase reading speed, accuracy, and expression through repeated practi...</p></details>
+   Link:<a href="https://www.readingrockets.org/classroom/classroom-strategies/timed-repeated-readings" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/classroom/classroom-strategies/timed-repeated-readings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Timed Repeated ReadingsThe goal of timed repeated readings is to increase reading speed, accuracy, and expression through repeated practi...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fluency: In DepthRepeated [oral reading](&amp;#123;&amp;#123; &#x27;reading-aloud/&#x27; | relative_url &amp;#125;&amp;#125;) of familiar texts can substantially improve reading fluency in typical elementary students as well...</p></details>
+   Link:<a href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fluency: In DepthRepeated [oral reading](&amp;#123;&amp;#123; &#x27;reading-aloud/&#x27; | relative_url &amp;#125;&amp;#125;) of familiar texts can substantially improve reading fluency in typical elementary students as well...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Reading" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ReadingReading is the process of taking in the sense or meaning of symbols, often specifically those of a written language, by means o...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Reading" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ReadingReading is the process of taking in the sense or meaning of symbols, often specifically those of a written language, by means o...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4467465/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4467465/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Differences in Eye-Movements During Reading - PMCby MJ Traxler · 2012 · Cited by 79 — Theories of eye-movement control in reading should...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4467465/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4467465/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Differences in Eye-Movements During Reading - PMCby MJ Traxler · 2012 · Cited by 79 — Theories of eye-movement control in reading should...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/32673033/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/32673033/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The model contains a word-processing module and an...Read...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/32673033/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/32673033/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The model contains a word-processing module and an...Read...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: readingn.com  
    Title: READIN G &  
-   Link: <a href="https://www.readingn.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.readingn.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>READING &amp; - Home즐거움이 만드는 실력, READING &amp; (리딩앤)은 첨단 디지털 영어 리딩 프로그램입니다...</p></details>
+   Link:<a href="https://www.readingn.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.readingn.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>READING &amp; - Home즐거움이 만드는 실력, READING &amp; (리딩앤)은 첨단 디지털 영어 리딩 프로그램입니다...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.607621/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.607621/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chunking ability was predictive of overall reading speed. Target relative...R...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.607621/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.607621/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chunking ability was predictive of overall reading speed. Target relative...R...</p></details>
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: readlite.in  
-   Link: <a href="https://readlite.in/concepts/chunking-reading/" target="_blank" rel="noopener noreferrer nofollow">https://readlite.in/concepts/chunking-reading/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chunking in Reading: Processing Text in Meaningful UnitsExpert readers don&#x27;t process word-by-word—they chunk phrases into meaningful unit...</p></details>
+   Link:<a href="https://readlite.in/concepts/chunking-reading/" target="_blank" rel="noopener noreferrer nofollow">https://readlite.in/concepts/chunking-reading/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chunking in Reading: Processing Text in Meaningful UnitsExpert readers don&#x27;t process word-by-word—they chunk phrases into meaningful unit...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: interventioncentral.org  
-   Link: <a href="https://www.interventioncentral.org/academic-interventions/reading-comprehension/phrase-cued-text-lessons" target="_blank" rel="noopener noreferrer nofollow">https://www.interventioncentral.org/academic-interventions/reading-comprehension/phrase-cued-text-lessons</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Phrase-Cued Text LessonsDESCRIPTION: Phrase-cued texts are a means to train students to recognize the natural pauses that occur between p...</p></details>
+   Link:<a href="https://www.interventioncentral.org/academic-interventions/reading-comprehension/phrase-cued-text-lessons" target="_blank" rel="noopener noreferrer nofollow">https://www.interventioncentral.org/academic-interventions/reading-comprehension/phrase-cued-text-lessons</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Phrase-Cued Text LessonsDESCRIPTION: Phrase-cued texts are a means to train students to recognize the natural pauses that occur between p...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: sarahsnippets.com  
-   Link: <a href="https://sarahsnippets.com/fluency-phrased-reading-scooping/" target="_blank" rel="noopener noreferrer nofollow">https://sarahsnippets.com/fluency-phrased-reading-scooping/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Phrased Reading: Foundations of Fluency SkillsPhrasing is a foundational part of reading fluency. Teaching students to read in phrases st...</p></details>
+   Link:<a href="https://sarahsnippets.com/fluency-phrased-reading-scooping/" target="_blank" rel="noopener noreferrer nofollow">https://sarahsnippets.com/fluency-phrased-reading-scooping/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Phrased Reading: Foundations of Fluency SkillsPhrasing is a foundational part of reading fluency. Teaching students to read in phrases st...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/25275427282101759/posts/33229414790036262/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/25275427282101759/posts/33229414790036262/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Practicing fluency with prosody in reading aloudFluency is reading with prosody, intonation, and expression. It&#x27;s the ability to read lik...</p></details>
+   Link:<a href="https://www.facebook.com/groups/25275427282101759/posts/33229414790036262/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/25275427282101759/posts/33229414790036262/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Practicing fluency with prosody in reading aloudFluency is reading with prosody, intonation, and expression. It&#x27;s the ability to read lik...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: ces.org  
-   Link: <a href="https://www.ces.org/prosody-in-reading/" target="_blank" rel="noopener noreferrer nofollow">https://www.ces.org/prosody-in-reading/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Room- Prosody in ReadingDo repeated readings: Doing repeated reading helps reinforce prosody and improves fluency. Partner up: Pu...</p></details>
+   Link:<a href="https://www.ces.org/prosody-in-reading/" target="_blank" rel="noopener noreferrer nofollow">https://www.ces.org/prosody-in-reading/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Room- Prosody in ReadingDo repeated readings: Doing repeated reading helps reinforce prosody and improves fluency. Partner up: Pu...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: nwea.org  
    Title: Part of reading passages with fluency involves communicating that meaning, both  
-   Link: <a href="https://www.nwea.org/blog/2025/supporting-fluency-and-comprehension-using-practices-grounded-in-the-science-of-reading/" target="_blank" rel="noopener noreferrer nofollow">https://www.nwea.org/blog/2025/supporting-fluency-and-comprehension-using-practices-grounded-in-the-science-of-reading/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Supporting fluency and comprehension using practices...Apr 3, 2025 — Fluency centers on two important factors—automaticity and proso...</p></details>
+   Link:<a href="https://www.nwea.org/blog/2025/supporting-fluency-and-comprehension-using-practices-grounded-in-the-science-of-reading/" target="_blank" rel="noopener noreferrer nofollow">https://www.nwea.org/blog/2025/supporting-fluency-and-comprehension-using-practices-grounded-in-the-science-of-reading/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Supporting fluency and comprehension using practices...Apr 3, 2025 — Fluency centers on two important factors—automaticity and proso...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: keystoliteracy.com  
    Title: the importance of teaching prosody as part of reading fluency  
-   Link: <a href="https://keystoliteracy.com/blog/the-importance-of-teaching-prosody-as-part-of-reading-fluency/" target="_blank" rel="noopener noreferrer nofollow">https://keystoliteracy.com/blog/the-importance-of-teaching-prosody-as-part-of-reading-fluency/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Importance of Teaching Prosody as Part of Reading...Jul 11, 2023 — Repeated Readings: Engaging students in repeated readings of the...</p></details>
+   Link:<a href="https://keystoliteracy.com/blog/the-importance-of-teaching-prosody-as-part-of-reading-fluency/" target="_blank" rel="noopener noreferrer nofollow">https://keystoliteracy.com/blog/the-importance-of-teaching-prosody-as-part-of-reading-fluency/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Importance of Teaching Prosody as Part of Reading...Jul 11, 2023 — Repeated Readings: Engaging students in repeated readings of the...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: digitalcommons.andrews.edu  
    Title: Teachers can easily use this method with authentic text  
-   Link: <a href="https://digitalcommons.andrews.edu/cgi/viewcontent.cgi?article=1615&amp;context=dissertations" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.andrews.edu/cgi/viewcontent.cgi?article=1615&amp;context=dissertations</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of Prosody Instruction on Reading Fluency and...by TB Overstreet · 2014 · Cited by 9 — According to Glavach (2011), phrase cued r...</p></details>
+   Link:<a href="https://digitalcommons.andrews.edu/cgi/viewcontent.cgi?article=1615&amp;context=dissertations" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.andrews.edu/cgi/viewcontent.cgi?article=1615&amp;context=dissertations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of Prosody Instruction on Reading Fluency and...by TB Overstreet · 2014 · Cited by 9 — According to Glavach (2011), phrase cued r...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: centaur.reading.ac.uk  
    Title: reading.ac.uk Working memory and L2 sentence processing  
-   Link: <a href="https://centaur.reading.ac.uk/106198/1/Working%20Memory%20and%20L2%20Sentence%20Processing%20-%20Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centaur.reading.ac.uk/106198/1/Working%20Memory%20and%20L2%20Sentence%20Processing%20-%20Final.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>memory and L2 sentence processing - CentAURby I Cunnings · 2022 · Cited by 11 — In this chapter, I critically evaluate different [models](&amp;#123;&amp;#123; &#x27;models/&#x27; | relative_url &amp;#125;&amp;#125;) o...</p></details>
+   Link:<a href="https://centaur.reading.ac.uk/106198/1/Working%20Memory%20and%20L2%20Sentence%20Processing%20-%20Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centaur.reading.ac.uk/106198/1/Working%20Memory%20and%20L2%20Sentence%20Processing%20-%20Final.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>memory and L2 sentence processing - CentAURby I Cunnings · 2022 · Cited by 11 — In this chapter, I critically evaluate different [models](&amp;#123;&amp;#123; &#x27;models/&#x27; | relative_url &amp;#125;&amp;#125;) o...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: landmarkoutreach.org  
    Title: fluency interventions word phrase and sentence level  
-   Link: <a href="https://www.landmarkoutreach.org/strategies/fluency-interventions-word-phrase-and-sentence-level/" target="_blank" rel="noopener noreferrer nofollow">https://www.landmarkoutreach.org/strategies/fluency-interventions-word-phrase-and-sentence-level/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fluency Interventions at the Word, Phrase, and Sentence...16 Apr 2025 — To help students improve their reading fluency, Jan Hasbrouck su...</p></details>
+   Link:<a href="https://www.landmarkoutreach.org/strategies/fluency-interventions-word-phrase-and-sentence-level/" target="_blank" rel="noopener noreferrer nofollow">https://www.landmarkoutreach.org/strategies/fluency-interventions-word-phrase-and-sentence-level/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fluency Interventions at the Word, Phrase, and Sentence...16 Apr 2025 — To help students improve their reading fluency, Jan Hasbrouck su...</p></details>

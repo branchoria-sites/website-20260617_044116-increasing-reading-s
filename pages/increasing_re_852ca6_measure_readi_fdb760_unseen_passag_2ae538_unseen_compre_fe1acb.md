@@ -269,17 +269,17 @@ image: /assets/images/increasing_re_852ca6_measure_readi_fdb760_unseen_passag_2a
 
 ## Introduction
 
-Reading speed only matters if understanding survives the increase in pace. An unseen-passage test therefore needs more than a words-per-minute score: it needs a short set of comprehension checks that reveal whether the reader grasped the text, retained important information, and drew reasonable conclusions from what was read. Research on reading fluency consistently finds that reading rate and comprehension are linked but distinct. Faster reading can support comprehension when it reflects greater fluency, yet speed gains are not meaningful if readers miss central ideas or rely on superficial [scanning]({{ 'scanning-vs-reading/' | relative_url }}). Cambridge University Press &amp; Assessment+2Cambridge University Press &amp; Assessment <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/books/reading-in-a-second-language/reading-fluency-reading-rate-and-comprehension/CDE08FC24601451D78C5CE08D38BD2E8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment17</span><span class="citation-popover-snippet">Cambridge University Press &amp; Assessment17 - Reading Fluency, Reading Rate, and ComprehensionThis chapter reviews research on the role of...</span></span></span>
+Reading speed only matters if understanding survives the increase in pace. An unseen-passage test therefore needs more than a words-per-minute score: it needs a short set of comprehension checks that reveal whether the reader grasped the text, retained important information, and drew reasonable conclusions from what was read. Research on reading fluency consistently finds that reading rate and comprehension are linked but distinct. Faster reading can support comprehension when it reflects greater fluency, yet speed gains are not meaningful if readers miss central ideas or rely on superficial [scanning]({{ 'scanning-vs-reading/' | relative_url }}). Cambridge University Press &amp; Assessment+2Cambridge University Press &amp; Assessment<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/books/reading-in-a-second-language/reading-fluency-reading-rate-and-comprehension/CDE08FC24601451D78C5CE08D38BD2E8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment17</span><span class="citation-popover-snippet">Cambridge University Press &amp; Assessment17 - Reading Fluency, Reading Rate, and ComprehensionThis chapter reviews research on the role of...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_measure_readi_fdb760_unseen_passag_2ae538_unseen_compre_fe1acb-Illustration-1-dark.svg" | relative_url }}" alt="Comprehension Checks illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_measure_readi_fdb760_unseen_passag_2ae538_unseen_compre_fe1acb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_measure_readi_fdb760_unseen_passag_2ae538_unseen_compre_fe1acb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For honest progress checks, the most useful assessments are usually a combination of three question types: a summary task to test understanding of the main idea, a small number of detail questions to verify accurate recall, and inference questions that require the reader to connect information that is not stated directly. Together, these checks make it much harder for shallow [skimming]({{ 'skimming/' | relative_url }}) to masquerade as genuine reading improvement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lexialearning.com/blog/3-types-of-reading-comprehension-compared-inferential-literal-and-evaluative" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lexialearning.com">[Lexia+2Shanahan on Literacy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lexialearning.com</span><span class="citation-popover-title">Lexia3 Types of Reading Comprehension Compared</span><span class="citation-popover-snippet">Lexia9 Feb 2026 — Explore the three main levels of reading comprehension: literal, inferential, and evaluative. Develop instructional str...</span></span></span>
+For honest progress checks, the most useful assessments are usually a combination of three question types: a summary task to test understanding of the main idea, a small number of detail questions to verify accurate recall, and inference questions that require the reader to connect information that is not stated directly. Together, these checks make it much harder for shallow [skimming]({{ 'skimming/' | relative_url }}) to masquerade as genuine reading improvement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lexialearning.com/blog/3-types-of-reading-comprehension-compared-inferential-literal-and-evaluative" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lexialearning.com">[Lexia+2Shanahan on Literacy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lexialearning.com</span><span class="citation-popover-title">Lexia3 Types of Reading Comprehension Compared</span><span class="citation-popover-snippet">Lexia9 Feb 2026 — Explore the three main levels of reading comprehension: literal, inferential, and evaluative. Develop instructional str...</span></span></span>
 
 ## One-Sentence Summaries for Main-Idea Understanding
 
 The quickest way to test whether a reader understood an unseen passage is to ask for a [one-sentence]({{ 'one-sentence/' | relative_url }}) summary.
 
-A summary forces the reader to identify the text's central message while filtering out less important information. Reading-comprehension assessments have long treated main-idea recognition as a core indicator of understanding because readers who cannot identify the central point often retain disconnected facts without understanding how those facts fit together. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.waynecc.edu/wp-content/uploads/reading-review.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waynecc.edu">[Wayne Community College &#124; Goldsboro, NC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waynecc.edu</span><span class="citation-popover-snippet">Wayne Community College &#124; Goldsboro, NCReading Review Tests of Reading ComprehensionSeptember 19, 2007 — On reading tests, main idea ques...</span><span class="citation-popover-meta">Published: September 19, 2007</span></span></span>
+A summary forces the reader to identify the text's central message while filtering out less important information. Reading-comprehension assessments have long treated main-idea recognition as a core indicator of understanding because readers who cannot identify the central point often retain disconnected facts without understanding how those facts fit together.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.waynecc.edu/wp-content/uploads/reading-review.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waynecc.edu">[Wayne Community College &#124; Goldsboro, NC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waynecc.edu</span><span class="citation-popover-snippet">Wayne Community College &#124; Goldsboro, NCReading Review Tests of Reading ComprehensionSeptember 19, 2007 — On reading tests, main idea ques...</span><span class="citation-popover-meta">Published: September 19, 2007</span></span></span>
 
 For reading-speed measurement, a summary task has several advantages:
 
@@ -295,7 +295,7 @@ For reading-speed measurement, a summary task has several advantages:
 
 A useful benchmark is whether the summary captures the author's primary point without becoming a list of examples. Consider a passage about urban tree planting. A weak summary might mention specific statistics or city names. A strong summary would explain that the passage argues urban trees provide environmental and public-health benefits that justify investment.
 
-This distinction matters because fast readers who merely skim often remember striking details while missing the organising idea that gives those details meaning. Research and assessment [practice]({{ 'practice/' | relative_url }}) consistently treat main-idea identification as a higher-value indicator than simple fact recall for this reason. Wayne Community College | Goldsboro, NC+2The Hechinger Report <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.waynecc.edu/wp-content/uploads/reading-review.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waynecc.edu">[waynecc.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waynecc.edu</span><span class="citation-popover-snippet">Wayne Community College &#124; Goldsboro, NCReading Review Tests of Reading ComprehensionSeptember 19, 2007 — On reading tests, main idea ques...</span><span class="citation-popover-meta">Published: September 19, 2007</span></span></span>
+This distinction matters because fast readers who merely skim often remember striking details while missing the organising idea that gives those details meaning. Research and assessment [practice]({{ 'practice/' | relative_url }}) consistently treat main-idea identification as a higher-value indicator than simple fact recall for this reason. Wayne Community College | Goldsboro, NC+2The Hechinger Report<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.waynecc.edu/wp-content/uploads/reading-review.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: waynecc.edu">[waynecc.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">waynecc.edu</span><span class="citation-popover-snippet">Wayne Community College &#124; Goldsboro, NCReading Review Tests of Reading ComprehensionSeptember 19, 2007 — On reading tests, main idea ques...</span><span class="citation-popover-meta">Published: September 19, 2007</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_gyYtys805U" title="Understanding reading comprehension assessment: what every teacher should know" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_gyYtys805U" target="_blank" rel="noopener noreferrer">Understanding reading comprehension assessment: what every teacher should know</a></p><p class="youtube-embed-meta">Channel: English with Cambridge</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_gyYtys805U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_gyYtys805U">Open on YouTube</a></p></div></div></div>
@@ -304,7 +304,7 @@ This distinction matters because fast readers who merely skim often remember str
 
 Main-idea understanding alone is not enough. A reader can sometimes infer the overall message while overlooking important supporting information.
 
-That is why effective unseen-passage checks usually include a small number of literal comprehension questions. Literal comprehension focuses on information explicitly stated in the text, such as facts, examples, sequences, or explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lexialearning.com/blog/3-types-of-reading-comprehension-compared-inferential-literal-and-evaluative" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lexialearning.com">[Lexia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lexialearning.com</span><span class="citation-popover-title">Lexia3 Types of Reading Comprehension Compared</span><span class="citation-popover-snippet">Lexia9 Feb 2026 — Explore the three main levels of reading comprehension: literal, inferential, and evaluative. Develop instructional str...</span></span></span>
+That is why effective unseen-passage checks usually include a small number of literal comprehension questions. Literal comprehension focuses on information explicitly stated in the text, such as facts, examples, sequences, or explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lexialearning.com/blog/3-types-of-reading-comprehension-compared-inferential-literal-and-evaluative" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lexialearning.com">[Lexia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lexialearning.com</span><span class="citation-popover-title">Lexia3 Types of Reading Comprehension Compared</span><span class="citation-popover-snippet">Lexia9 Feb 2026 — Explore the three main levels of reading comprehension: literal, inferential, and evaluative. Develop instructional str...</span></span></span>
 
 The challenge is avoiding trivia.
 
@@ -325,7 +325,7 @@ For personal speed tracking, two or three detail questions are usually enough. I
 
 Inference questions are often the most revealing part of an unseen reading test.
 
-Unlike literal questions, inference questions require readers to combine pieces of information, interpret implications, recognise relationships, or identify conclusions that the author leaves unstated. Reading researchers commonly distinguish inferential comprehension from literal comprehension because it requires readers to build a deeper mental representation of the text rather than simply retrieve facts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lexialearning.com/blog/3-types-of-reading-comprehension-compared-inferential-literal-and-evaluative" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lexialearning.com">[Lexia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lexialearning.com</span><span class="citation-popover-title">Lexia3 Types of Reading Comprehension Compared</span><span class="citation-popover-snippet">Lexia9 Feb 2026 — Explore the three main levels of reading comprehension: literal, inferential, and evaluative. Develop instructional str...</span></span></span>
+Unlike literal questions, inference questions require readers to combine pieces of information, interpret implications, recognise relationships, or identify conclusions that the author leaves unstated. Reading researchers commonly distinguish inferential comprehension from literal comprehension because it requires readers to build a deeper mental representation of the text rather than simply retrieve facts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lexialearning.com/blog/3-types-of-reading-comprehension-compared-inferential-literal-and-evaluative" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lexialearning.com">[Lexia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lexialearning.com</span><span class="citation-popover-title">Lexia3 Types of Reading Comprehension Compared</span><span class="citation-popover-snippet">Lexia9 Feb 2026 — Explore the three main levels of reading comprehension: literal, inferential, and evaluative. Develop instructional str...</span></span></span>
 
 Examples include:
 
@@ -341,11 +341,11 @@ Examples include:
 
 These questions are valuable because they are difficult to answer through skimming alone. A reader may notice keywords and major headings while moving rapidly through a passage, but inference questions require integration of information across sentences and paragraphs.
 
-Evidence from reading-comprehension research shows that inference-making is a critical component of deeper understanding and a key factor in constructing a meaningful representation of a text. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pure.eur.nl/ws/portalfiles/portal/174198957/Training_Inference_Making_Skills_Using_a_Situation_Model_Approach_Improves_Reading_Comprehension.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.eur.nl">[Erasmus University Rotterdam]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.eur.nl</span><span class="citation-popover-snippet">Therefore, we tested a reading...Read more...</span></span></span>
+Evidence from reading-comprehension research shows that inference-making is a critical component of deeper understanding and a key factor in constructing a meaningful representation of a text.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pure.eur.nl/ws/portalfiles/portal/174198957/Training_Inference_Making_Skills_Using_a_Situation_Model_Approach_Improves_Reading_Comprehension.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.eur.nl">[Erasmus University Rotterdam]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.eur.nl</span><span class="citation-popover-snippet">Therefore, we tested a reading...Read more...</span></span></span>
 
 In practical terms, inference questions often reveal the difference between:
 
-* Reading quickly and understanding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.readingrockets.org/topics/assessment-and-evaluation/articles/understanding-and-assessing-fluency" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[readingrockets.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Understanding and Assessing FluencyLearn what reading fluency is, why it is critical to make sure that students have sufficient fluency...</span></span></span>
+* Reading quickly and understanding.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.readingrockets.org/topics/assessment-and-evaluation/articles/understanding-and-assessing-fluency" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[readingrockets.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Understanding and Assessing FluencyLearn what reading fluency is, why it is critical to make sure that students have sufficient fluency...</span></span></span>
 * Reading quickly and merely recognising words.
 
 That distinction is exactly what an honest progress check is trying to [measure]({{ 'measure/' | relative_url }}).
@@ -368,7 +368,7 @@ After reading an unfamiliar passage, ask:
 
 </div>
 
-This structure samples the three major levels of comprehension commonly recognised in reading assessment: literal understanding, inferential understanding, and broader interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lexialearning.com/blog/3-types-of-reading-comprehension-compared-inferential-literal-and-evaluative" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lexialearning.com">[Lexia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lexialearning.com</span><span class="citation-popover-title">Lexia3 Types of Reading Comprehension Compared</span><span class="citation-popover-snippet">Lexia9 Feb 2026 — Explore the three main levels of reading comprehension: literal, inferential, and evaluative. Develop instructional str...</span></span></span>
+This structure samples the three major levels of comprehension commonly recognised in reading assessment: literal understanding, inferential understanding, and broader interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lexialearning.com/blog/3-types-of-reading-comprehension-compared-inferential-literal-and-evaluative" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lexialearning.com">[Lexia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lexialearning.com</span><span class="citation-popover-title">Lexia3 Types of Reading Comprehension Compared</span><span class="citation-popover-snippet">Lexia9 Feb 2026 — Explore the three main levels of reading comprehension: literal, inferential, and evaluative. Develop instructional str...</span></span></span>
 
 A reader who increases from 220 to 280 words per minute while continuing to perform well across all three checks has stronger evidence of genuine improvement than a reader whose speed rises while summary quality, detail recall, or inference accuracy declines.
 
@@ -389,201 +389,201 @@ Instead, success means maintaining a stable level of understanding while reading
 
 </div>
 
-When these outcomes remain consistent across multiple unseen passages, the reader has evidence that higher reading speed reflects improved fluency rather than reduced comprehension. Research on reading fluency repeatedly emphasises that appropriate reading rate should support meaning-making, not replace it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/books/reading-in-a-second-language/reading-fluency-reading-rate-and-comprehension/CDE08FC24601451D78C5CE08D38BD2E8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment+2readingrockets.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment17</span><span class="citation-popover-snippet">Cambridge University Press &amp; Assessment17 - Reading Fluency, Reading Rate, and ComprehensionThis chapter reviews research on the role of...</span></span></span>
+When these outcomes remain consistent across multiple unseen passages, the reader has evidence that higher reading speed reflects improved fluency rather than reduced comprehension. Research on reading fluency repeatedly emphasises that appropriate reading rate should support meaning-making, not replace it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/books/reading-in-a-second-language/reading-fluency-reading-rate-and-comprehension/CDE08FC24601451D78C5CE08D38BD2E8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment+2readingrockets.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment17</span><span class="citation-popover-snippet">Cambridge University Press &amp; Assessment17 - Reading Fluency, Reading Rate, and ComprehensionThis chapter reviews research on the role of...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OqHglukOWzQ" title="How to assess reading (Assessment Series Part 2/6)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OqHglukOWzQ" target="_blank" rel="noopener noreferrer">How to assess reading (Assessment Series Part 2/6)</a></p><p class="youtube-embed-meta">Channel: British Council | TeachingEnglish</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OqHglukOWzQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OqHglukOWzQ">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Checks That Keep Speed Honest. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Checks That Keep Speed Honest. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Teaches extracting central ideas and evaluating understanding.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Teaches extracting central ideas and evaluating understanding.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-        </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+</h4>
+<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Supports meaningful retention rather than superficial speed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports meaningful retention rather than superficial speed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Reading+Strategies+Book+Jennifer+Serravallo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Reading Strategies Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7400188-M.jpg" alt="Cover for The Reading Strategies Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Reading+Strategies+Book+Jennifer+Serravallo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Reading Strategies Book">The Reading Strategies Book</a>
-        </h4>
-        <p class="fr-book-author">By Jennifer Serravallo</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Reading+Strategies+Book+Jennifer+Serravallo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Reading Strategies Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7400188-M.jpg" alt="Cover for The Reading Strategies Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Reading+Strategies+Book+Jennifer+Serravallo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Reading Strategies Book">The Reading Strategies Book</a>
+</h4>
+<p class="fr-book-author">By Jennifer Serravallo</p>
         
-        <p class="fr-book-desc">First published 2015. Subjects: Reading, Books and reading, nyt:education=2016-03-13, New York Times bestseller.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Reading+Strategies+Book+Jennifer+Serravallo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2015. Subjects: Reading, Books and reading, nyt:education=2016-03-13, New York Times bestseller.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Reading+Strategies+Book+Jennifer+Serravallo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Reading+Reconsidered+Doug+Lemov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading Reconsidered on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9388456-M.jpg" alt="Cover for Reading Reconsidered" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Reading+Reconsidered+Doug+Lemov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading Reconsidered">Reading Reconsidered</a>
-        </h4>
-        <p class="fr-book-author">By Doug Lemov, Colleen Driggs et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Reading+Reconsidered+Doug+Lemov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading Reconsidered on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9388456-M.jpg" alt="Cover for Reading Reconsidered" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Reading+Reconsidered+Doug+Lemov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading Reconsidered">Reading Reconsidered</a>
+</h4>
+<p class="fr-book-author">By Doug Lemov, Colleen Driggs et al.</p>
         
-        <p class="fr-book-desc">First published 2016. Subjects: Reading, Reading comprehension, Correlation with content subjects, Language arts, EDUCATION / Teaching Me...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Reading+Reconsidered+Doug+Lemov&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2016. Subjects: Reading, Reading comprehension, Correlation with content subjects, Language arts, EDUCATION / Teaching Me...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Reading+Reconsidered+Doug+Lemov&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Reading+Strategies+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Reading Strategies Book</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Reading+Strategies+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Reading Strategies Book</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop organizer" data-ebay-reference="comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 4-Tier Mesh Desk Organiser with Sliding Trays Metal Paper File Holder - Silver"><img src="{{ '/assets/images/marketplace-covers/8ef2fda3ba43e1e28efb.jpg' | relative_url }}" alt="Listing image for 4-Tier Mesh Desk Organiser with Sliding Trays Metal Paper File Holder - Silver" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop organizer" data-ebay-reference="comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer" target="_blank" rel="sponsored noopener noreferrer">4-Tier Mesh Desk Organiser with Sliding Trays Metal Paper File Holder - Silver</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop organizer" data-ebay-reference="comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desktop organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: desktop organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop organizer" data-ebay-reference="comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop organizer" data-ebay-reference="comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 4-Tier Mesh Desk Organiser with Sliding Trays Metal Paper File Holder - Silver"><img src="{{ '/assets/images/marketplace-covers/8ef2fda3ba43e1e28efb.jpg' | relative_url }}" alt="Listing image for 4-Tier Mesh Desk Organiser with Sliding Trays Metal Paper File Holder - Silver" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop organizer" data-ebay-reference="comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer" target="_blank" rel="sponsored noopener noreferrer">4-Tier Mesh Desk Organiser with Sliding Trays Metal Paper File Holder - Silver</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop organizer" data-ebay-reference="comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desktop organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: desktop organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop organizer" data-ebay-reference="comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop organizer" data-ebay-reference="comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 7-Tier Large Capacity Desktop Organizer-Scientific Storage for Pens &amp;Markers"><img src="{{ '/assets/images/marketplace-covers/d7b706c1a8813103e452.jpg' | relative_url }}" alt="Listing image for 7-Tier Large Capacity Desktop Organizer-Scientific Storage for Pens &amp;Markers" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop organizer" data-ebay-reference="comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer" target="_blank" rel="sponsored noopener noreferrer">7-Tier Large Capacity Desktop Organizer-Scientific Storage for Pens &amp;Markers</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop organizer" data-ebay-reference="comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desktop organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: desktop organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop organizer" data-ebay-reference="comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop organizer" data-ebay-reference="comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 7-Tier Large Capacity Desktop Organizer-Scientific Storage for Pens &amp;Markers"><img src="{{ '/assets/images/marketplace-covers/d7b706c1a8813103e452.jpg' | relative_url }}" alt="Listing image for 7-Tier Large Capacity Desktop Organizer-Scientific Storage for Pens &amp;Markers" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop organizer" data-ebay-reference="comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer" target="_blank" rel="sponsored noopener noreferrer">7-Tier Large Capacity Desktop Organizer-Scientific Storage for Pens &amp;Markers</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop organizer" data-ebay-reference="comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desktop organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: desktop organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop organizer" data-ebay-reference="comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop organizer" data-ebay-reference="comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3 Tier Desktop Organizer Drawers Plastic Storage Box Office Stationery Holder"><img src="{{ '/assets/images/marketplace-covers/0492dd8510b85393a5db.jpg' | relative_url }}" alt="Listing image for 3 Tier Desktop Organizer Drawers Plastic Storage Box Office Stationery Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop organizer" data-ebay-reference="comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer" target="_blank" rel="sponsored noopener noreferrer">3 Tier Desktop Organizer Drawers Plastic Storage Box Office Stationery Holder</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop organizer" data-ebay-reference="comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desktop organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: desktop organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop organizer" data-ebay-reference="comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop organizer" data-ebay-reference="comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3 Tier Desktop Organizer Drawers Plastic Storage Box Office Stationery Holder"><img src="{{ '/assets/images/marketplace-covers/0492dd8510b85393a5db.jpg' | relative_url }}" alt="Listing image for 3 Tier Desktop Organizer Drawers Plastic Storage Box Office Stationery Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop organizer" data-ebay-reference="comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer" target="_blank" rel="sponsored noopener noreferrer">3 Tier Desktop Organizer Drawers Plastic Storage Box Office Stationery Holder</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop organizer" data-ebay-reference="comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desktop organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: desktop organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop organizer" data-ebay-reference="comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop organizer" data-ebay-reference="comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Marker Bamboo Organizer Storage Box with 18/32 Compartments Desktop Organizer"><img src="{{ '/assets/images/marketplace-covers/b10fc09a7413226c6c0b.jpg' | relative_url }}" alt="Listing image for Marker Bamboo Organizer Storage Box with 18/32 Compartments Desktop Organizer" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop organizer" data-ebay-reference="comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer" target="_blank" rel="sponsored noopener noreferrer">Marker Bamboo Organizer Storage Box with 18/32 Compartments Desktop Organizer</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop organizer" data-ebay-reference="comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desktop organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: desktop organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop organizer" data-ebay-reference="comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop organizer" data-ebay-reference="comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop organizer" data-ebay-reference="comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Marker Bamboo Organizer Storage Box with 18/32 Compartments Desktop Organizer"><img src="{{ '/assets/images/marketplace-covers/b10fc09a7413226c6c0b.jpg' | relative_url }}" alt="Listing image for Marker Bamboo Organizer Storage Box with 18/32 Compartments Desktop Organizer" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop organizer" data-ebay-reference="comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer" target="_blank" rel="sponsored noopener noreferrer">Marker Bamboo Organizer Storage Box with 18/32 Compartments Desktop Organizer</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop organizer" data-ebay-reference="comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desktop organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: desktop organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop organizer" data-ebay-reference="comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop organizer" data-ebay-reference="comprehension-checks-the-checks-that-keep-speed-honest-increasing-desktop-organizer" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -599,7 +599,7 @@ When these outcomes remain consistent across multiple unseen passages, the reade
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -619,7 +619,7 @@ When these outcomes remain consistent across multiple unseen passages, the reade
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -651,7 +651,7 @@ When these outcomes remain consistent across multiple unseen passages, the reade
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -703,7 +703,7 @@ When these outcomes remain consistent across multiple unseen passages, the reade
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -748,7 +748,7 @@ When these outcomes remain consistent across multiple unseen passages, the reade
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -789,104 +789,104 @@ When these outcomes remain consistent across multiple unseen passages, the reade
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cambridge.org  
    Title: University Press & Assessment17  
-   Link: <a href="https://www.cambridge.org/core/books/reading-in-a-second-language/reading-fluency-reading-rate-and-comprehension/CDE08FC24601451D78C5CE08D38BD2E8" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/reading-in-a-second-language/reading-fluency-reading-rate-and-comprehension/CDE08FC24601451D78C5CE08D38BD2E8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; Assessment17 - Reading Fluency, Reading Rate, and ComprehensionThis chapter reviews research on the role of...</p></details>
+   Link:<a href="https://www.cambridge.org/core/books/reading-in-a-second-language/reading-fluency-reading-rate-and-comprehension/CDE08FC24601451D78C5CE08D38BD2E8" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/reading-in-a-second-language/reading-fluency-reading-rate-and-comprehension/CDE08FC24601451D78C5CE08D38BD2E8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; Assessment17 - Reading Fluency, Reading Rate, and ComprehensionThis chapter reviews research on the role of...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: resolve.cambridge.org  
-   Link: <a href="https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/216DADCE833E8A3E270EDD2DE21EF16C/9781139150484c14_p289-310_CBO.pdf/reading_fluency_reading_rate_and_comprehension.pdf" target="_blank" rel="noopener noreferrer nofollow">https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/216DADCE833E8A3E270EDD2DE21EF16C/9781139150484c14_p289-310_CBO.pdf/reading_fluency_reading_rate_and_comprehension.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; Assessment14 Reading fluency, reading rate, and comprehensionIn almost all reviews of reading fluency, the r...</p></details>
+   Link:<a href="https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/216DADCE833E8A3E270EDD2DE21EF16C/9781139150484c14_p289-310_CBO.pdf/reading_fluency_reading_rate_and_comprehension.pdf" target="_blank" rel="noopener noreferrer nofollow">https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/216DADCE833E8A3E270EDD2DE21EF16C/9781139150484c14_p289-310_CBO.pdf/reading_fluency_reading_rate_and_comprehension.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; Assessment14 Reading fluency, reading rate, and comprehensionIn almost all reviews of reading fluency, the r...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: waynecc.edu  
-   Link: <a href="https://www.waynecc.edu/wp-content/uploads/reading-review.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.waynecc.edu/wp-content/uploads/reading-review.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wayne Community College | Goldsboro, NCReading Review Tests of Reading ComprehensionSeptember 19, 2007 — On reading tests, main idea ques...</p></details>
+   Link:<a href="https://www.waynecc.edu/wp-content/uploads/reading-review.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.waynecc.edu/wp-content/uploads/reading-review.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wayne Community College | Goldsboro, NCReading Review Tests of Reading ComprehensionSeptember 19, 2007 — On reading tests, main idea ques...</p></details>
    Published: September 19, 2007  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/topics/assessment-and-evaluation/articles/understanding-and-assessing-fluency" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/assessment-and-evaluation/articles/understanding-and-assessing-fluency</a>  
+   Link:<a href="https://www.readingrockets.org/topics/assessment-and-evaluation/articles/understanding-and-assessing-fluency" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/assessment-and-evaluation/articles/understanding-and-assessing-fluency</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/topics/comprehension/articles/seven-strategies-teach-students-text-comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/comprehension/articles/seven-strategies-teach-students-text-comprehension</a>  
+   Link:<a href="https://www.readingrockets.org/topics/comprehension/articles/seven-strategies-teach-students-text-comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/comprehension/articles/seven-strategies-teach-students-text-comprehension</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: lexialearning.com  
    Title: Lexia3 Types of Reading Comprehension Compared  
-   Link: <a href="https://www.lexialearning.com/blog/3-types-of-reading-comprehension-compared-inferential-literal-and-evaluative" target="_blank" rel="noopener noreferrer nofollow">https://www.lexialearning.com/blog/3-types-of-reading-comprehension-compared-inferential-literal-and-evaluative</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lexia9 Feb 2026 — Explore the three main levels of reading comprehension: literal, inferential, and evaluative. Develop instructional str...</p></details>
+   Link:<a href="https://www.lexialearning.com/blog/3-types-of-reading-comprehension-compared-inferential-literal-and-evaluative" target="_blank" rel="noopener noreferrer nofollow">https://www.lexialearning.com/blog/3-types-of-reading-comprehension-compared-inferential-literal-and-evaluative</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lexia9 Feb 2026 — Explore the three main levels of reading comprehension: literal, inferential, and evaluative. Develop instructional str...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: shanahanonliteracy.com  
    Title: how to analyze or assess reading comprehension  
-   Link: <a href="https://www.shanahanonliteracy.com/blog/how-to-analyze-or-assess-reading-comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/how-to-analyze-or-assess-reading-comprehension</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>9 Nov 2019 — All these standards or question types aimed at main idea, central message, key details, supporting details, inferencing, app...</p></details>
+   Link:<a href="https://www.shanahanonliteracy.com/blog/how-to-analyze-or-assess-reading-comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/how-to-analyze-or-assess-reading-comprehension</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>9 Nov 2019 — All these standards or question types aimed at main idea, central message, key details, supporting details, inferencing, app...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: hechingerreport.org  
    Title: proof points reading comprehension main idea  
-   Link: <a href="https://hechingerreport.org/proof-points-reading-comprehension-main-idea/" target="_blank" rel="noopener noreferrer nofollow">https://hechingerreport.org/proof-points-reading-comprehension-main-idea/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Hechinger ReportWhat happens to reading comprehension when students...26 May 2025 — Some researchers say students need to be explici...</p></details>
+   Link:<a href="https://hechingerreport.org/proof-points-reading-comprehension-main-idea/" target="_blank" rel="noopener noreferrer nofollow">https://hechingerreport.org/proof-points-reading-comprehension-main-idea/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Hechinger ReportWhat happens to reading comprehension when students...26 May 2025 — Some researchers say students need to be explici...</p></details>
    Published: May 2025  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pure.eur.nl  
-   Link: <a href="https://pure.eur.nl/ws/portalfiles/portal/174198957/Training_Inference_Making_Skills_Using_a_Situation_Model_Approach_Improves_Reading_Comprehension.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.eur.nl/ws/portalfiles/portal/174198957/Training_Inference_Making_Skills_Using_a_Situation_Model_Approach_Improves_Reading_Comprehension.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Therefore, we tested a reading...Read more...</p></details>
+   Link:<a href="https://pure.eur.nl/ws/portalfiles/portal/174198957/Training_Inference_Making_Skills_Using_a_Situation_Model_Approach_Improves_Reading_Comprehension.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.eur.nl/ws/portalfiles/portal/174198957/Training_Inference_Making_Skills_Using_a_Situation_Model_Approach_Improves_Reading_Comprehension.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Therefore, we tested a reading...Read more...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: lincs.ed.gov  
-   Link: <a href="https://lincs.ed.gov/publications/html/mcshane/chapter7.html" target="_blank" rel="noopener noreferrer nofollow">https://lincs.ed.gov/publications/html/mcshane/chapter7.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>7: Comprehension-Strategy InstructionWe define reading comprehension as the process of simultaneously extracting and constructing meaning...</p></details>
+   Link:<a href="https://lincs.ed.gov/publications/html/mcshane/chapter7.html" target="_blank" rel="noopener noreferrer nofollow">https://lincs.ed.gov/publications/html/mcshane/chapter7.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>7: Comprehension-Strategy InstructionWe define reading comprehension as the process of simultaneously extracting and constructing meaning...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/372036593_Reading_comprehension_processes_a_review_based_on_theoretical_[models" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/372036593_Reading_comprehension_processes_a_review_based_on_theoretical_[models</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Reading comprehension processes: a review based...17 Mar 2026 — This study provides comprehensive insights, based on theory, on th...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/372036593_Reading_comprehension_processes_a_review_based_on_theoretical_[models" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/372036593_Reading_comprehension_processes_a_review_based_on_theoretical_[models</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Reading comprehension processes: a review based...17 Mar 2026 — This study provides comprehensive insights, based on theory, on th...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1120922196519412/posts/1182537390357892/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1120922196519412/posts/1182537390357892/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Assessing reading comprehension and fluency in studentsIn the test in this study, students fluency assessment had the strongest correlati...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1120922196519412/posts/1182537390357892/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1120922196519412/posts/1182537390357892/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Assessing reading comprehension and fluency in studentsIn the test in this study, students fluency assessment had the strongest correlati...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: education.vic.gov.au  
-   Link: <a href="https://www.education.vic.gov.au/Documents/school/teachers/teachingresources/discipline/english/literacy/Oral_Reading_Fluency_Oct2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.education.vic.gov.au/Documents/school/teachers/teachingresources/discipline/english/literacy/Oral_Reading_Fluency_Oct2023.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Oral Reading Fluency | EducationWhy is reading fluency important? Reading is a complex cognitive process whereby skilled readers decode t...</p></details>
+   Link:<a href="https://www.education.vic.gov.au/Documents/school/teachers/teachingresources/discipline/english/literacy/Oral_Reading_Fluency_Oct2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.education.vic.gov.au/Documents/school/teachers/teachingresources/discipline/english/literacy/Oral_Reading_Fluency_Oct2023.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Oral Reading Fluency | EducationWhy is reading fluency important? Reading is a complex cognitive process whereby skilled readers decode t...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: readnaturally.com  
-   Link: <a href="https://www.readnaturally.com/research/5-components-of-reading/comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.readnaturally.com/research/5-components-of-reading/comprehension</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Comprehension: Strategies, Skills &amp; InstructionEvidence-based methods for teaching reading comprehension, including key strategie...</p></details>
+   Link:<a href="https://www.readnaturally.com/research/5-components-of-reading/comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.readnaturally.com/research/5-components-of-reading/comprehension</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Comprehension: Strategies, Skills &amp; InstructionEvidence-based methods for teaching reading comprehension, including key strategie...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: minotstateu.edu  
-   Link: <a href="https://www.minotstateu.edu/teu/documents/Reading.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.minotstateu.edu/teu/documents/Reading.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ReadingIt states: The [purpose](&amp;#123;&amp;#123; &#x27;purpose/&#x27; | relative_url &amp;#125;&amp;#125;) of the goal is for David to read grade level material with fluency and understanding. David will read grade...</p></details>
+   Link:<a href="https://www.minotstateu.edu/teu/documents/Reading.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.minotstateu.edu/teu/documents/Reading.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ReadingIt states: The [purpose](&amp;#123;&amp;#123; &#x27;purpose/&#x27; | relative_url &amp;#125;&amp;#125;) of the goal is for David to read grade level material with fluency and understanding. David will read grade...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: gallaudet.edu  
-   Link: <a href="https://gallaudet.edu/student-success/tutorial-center/english-center/reading-esl/types-of-reading-comprehension-questions-and-tests/6-types-of-reading-questions/" target="_blank" rel="noopener noreferrer nofollow">https://gallaudet.edu/student-success/tutorial-center/english-center/reading-esl/types-of-reading-comprehension-questions-and-tests/6-types-of-reading-questions/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gallaudet University6 Types of reading questionsThere are six kinds of reading questions: Comprehension; Detail Questions; Following Dire...</p></details>
+   Link:<a href="https://gallaudet.edu/student-success/tutorial-center/english-center/reading-esl/types-of-reading-comprehension-questions-and-tests/6-types-of-reading-questions/" target="_blank" rel="noopener noreferrer nofollow">https://gallaudet.edu/student-success/tutorial-center/english-center/reading-esl/types-of-reading-comprehension-questions-and-tests/6-types-of-reading-questions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gallaudet University6 Types of reading questionsThere are six kinds of reading questions: Comprehension; Detail Questions; Following Dire...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: fivefromfive.com.au  
-   Link: <a href="https://fivefromfive.com.au/fluency/components-of-fluency/" target="_blank" rel="noopener noreferrer nofollow">https://fivefromfive.com.au/fluency/components-of-fluency/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ponents of fluencyText or passage reading fluency is generally defined as having three components: accuracy, rate, and prosody (or exp...</p></details>
+   Link:<a href="https://fivefromfive.com.au/fluency/components-of-fluency/" target="_blank" rel="noopener noreferrer nofollow">https://fivefromfive.com.au/fluency/components-of-fluency/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ponents of fluencyText or passage reading fluency is generally defined as having three components: accuracy, rate, and prosody (or exp...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: fndusa.org  
    Title: A Strategy to Improve Reading Comprehension Through Inferential Thinking  
-   Link: <a href="https://fndusa.org/wp-content/uploads/2015/06/A-Strategy-to-Improve-Reading-Comprehension-Through-Inferential-Thinking.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fndusa.org/wp-content/uploads/2015/06/A-Strategy-to-Improve-Reading-Comprehension-Through-Inferential-Thinking.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Family Network on DisabilitiesA-Strategy-to-Improve-Reading-Comprehension-Through-...9 Jun 2015 — This article introduces the Main Idea...</p></details>
+   Link:<a href="https://fndusa.org/wp-content/uploads/2015/06/A-Strategy-to-Improve-Reading-Comprehension-Through-Inferential-Thinking.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fndusa.org/wp-content/uploads/2015/06/A-Strategy-to-Improve-Reading-Comprehension-Through-Inferential-Thinking.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Family Network on DisabilitiesA-Strategy-to-Improve-Reading-Comprehension-Through-...9 Jun 2015 — This article introduces the Main Idea...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: school-page.com  
-   Link: <a href="https://www.school-page.com/articles/crafting-effective-reading-comprehension-questions-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.school-page.com/articles/crafting-effective-reading-comprehension-questions-guide</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Generate questions that require students to identify the main idea and supporting details.Read more...</p></details>
+   Link:<a href="https://www.school-page.com/articles/crafting-effective-reading-comprehension-questions-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.school-page.com/articles/crafting-effective-reading-comprehension-questions-guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Generate questions that require students to identify the main idea and supporting details.Read more...</p></details>

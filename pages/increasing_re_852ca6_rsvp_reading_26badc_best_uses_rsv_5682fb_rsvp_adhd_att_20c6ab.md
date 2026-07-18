@@ -269,7 +269,7 @@ image: /assets/images/increasing_re_852ca6_rsvp_reading_26badc_best_uses_rsv_568
 
 ## Introduction
 
-For most readers, RSVP (Rapid Serial Visual Presentation) [reading apps]({{ 'reading-apps/' | relative_url }}) offer a mixed trade-off: they may increase reading speed, but comprehension often suffers because readers lose the ability to preview text and reread difficult passages. However, emerging research suggests that some adults with ADHD may respond differently. Instead of reducing comprehension, RSVP can sometimes improve it by removing the need for constant [eye movements]({{ 'eye-tradeoff/' | relative_url }}) and visual navigation across a page. This does not mean RSVP is a universal solution for ADHD, nor that it works for every type of reading. Yet the evidence is strong enough to make ADHD one of the most interesting specialised use cases for RSVP-based reading tools. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/journals/journal-of-the-international-neuropsychological-society/article/reading-without-eye-movements-improving-reading-comprehension-in-young-adults-with-attentiondeficithyperactivity-disorder-adhd/33851CEA7C1AC6193D088D4D5551ED3C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentReading without eye movements: Improving...by S Moussaoui · Cited by 1 — The study indicates that...</span></span></span>
+For most readers, RSVP (Rapid Serial Visual Presentation) [reading apps]({{ 'reading-apps/' | relative_url }}) offer a mixed trade-off: they may increase reading speed, but comprehension often suffers because readers lose the ability to preview text and reread difficult passages. However, emerging research suggests that some adults with ADHD may respond differently. Instead of reducing comprehension, RSVP can sometimes improve it by removing the need for constant [eye movements]({{ 'eye-tradeoff/' | relative_url }}) and visual navigation across a page. This does not mean RSVP is a universal solution for ADHD, nor that it works for every type of reading. Yet the evidence is strong enough to make ADHD one of the most interesting specialised use cases for RSVP-based reading tools.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/journals/journal-of-the-international-neuropsychological-society/article/reading-without-eye-movements-improving-reading-comprehension-in-young-adults-with-attentiondeficithyperactivity-disorder-adhd/33851CEA7C1AC6193D088D4D5551ED3C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentReading without eye movements: Improving...by S Moussaoui · Cited by 1 — The study indicates that...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_rsvp_reading_26badc_best_uses_rsv_5682fb_rsvp_adhd_att_20c6ab-Illustration-1-dark.svg" | relative_url }}" alt="ADHD Focus illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_rsvp_reading_26badc_best_uses_rsv_5682fb_rsvp_adhd_att_20c6ab-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_rsvp_reading_26badc_best_uses_rsv_5682fb_rsvp_adhd_att_20c6ab-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -277,7 +277,7 @@ For most readers, RSVP (Rapid Serial Visual Presentation) [reading apps]({{ 'rea
 
 Reading is not only a language task. It is also an attention-management task. Traditional reading requires continuous coordination between eye movements, visual tracking, working memory, and comprehension.
 
-For many people with ADHD, maintaining focus across lines of text can be difficult. Attention may drift during eye movements, readers may lose their place on the page, or they may find themselves repeatedly rereading passages without fully processing them. Difficulties with sustained attention and executive control are well-documented contributors to reading-comprehension problems in ADHD. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.verdantpsychology.com/blog-resources/adhd-and-reading-comprehension" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verdantpsychology.com">[Verdant Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verdantpsychology.com</span><span class="citation-popover-title">Learn the signs and book a free consultation today</span><span class="citation-popover-snippet">Verdant PsychologyADHD and Reading Comprehension Difficulties ExplainedOct 15, 2025 — ADHD and Reading Comprehension difficulties can aff...</span></span></span>
+For many people with ADHD, maintaining focus across lines of text can be difficult. Attention may drift during eye movements, readers may lose their place on the page, or they may find themselves repeatedly rereading passages without fully processing them. Difficulties with sustained attention and executive control are well-documented contributors to reading-comprehension problems in ADHD.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.verdantpsychology.com/blog-resources/adhd-and-reading-comprehension" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verdantpsychology.com">[Verdant Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verdantpsychology.com</span><span class="citation-popover-title">Learn the signs and book a free consultation today</span><span class="citation-popover-snippet">Verdant PsychologyADHD and Reading Comprehension Difficulties ExplainedOct 15, 2025 — ADHD and Reading Comprehension difficulties can aff...</span></span></span>
 
 RSVP changes the mechanics of reading by presenting words one at a time in a fixed location. The reader does not need to scan lines, perform frequent saccades (rapid eye movements), or decide where to look next. In theory, this reduces some of the attentional demands that compete with comprehension.
 
@@ -290,17 +290,17 @@ The most important evidence comes from recent research comparing different readi
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Conventional text reading. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nottingham-repository.worktribe.com/output/765223/the-impact-of-rapid-serial-visual-presentation-rsvp-on-reading-by-nonnative-speakers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nottingham-repository.worktribe.com">[nottingham-repository.worktribe.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nottingham-repository.worktribe.com</span><span class="citation-popover-snippet">impact of Rapid Serial Visual Presentation (RSVP) on...by Z Boo · Cited by 11 — To address this, the current study explores the impact o...</span></span></span>
+* Conventional text reading.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nottingham-repository.worktribe.com/output/765223/the-impact-of-rapid-serial-visual-presentation-rsvp-on-reading-by-nonnative-speakers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nottingham-repository.worktribe.com">[nottingham-repository.worktribe.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nottingham-repository.worktribe.com</span><span class="citation-popover-snippet">impact of Rapid Serial Visual Presentation (RSVP) on...by Z Boo · Cited by 11 — To address this, the current study explores the impact o...</span></span></span>
 * Paced reading that preserved normal page layout.
 * RSVP reading, where words appeared one at a time in a fixed central location.
 
 </div>
 
-Researchers found that participants with ADHD performed better in the RSVP condition than in the formats that required [normal eye]({{ 'normal-glances/' | relative_url }}) movements. Their comprehension advantage was approximately 13% relative to neurotypical readers, who generally experienced reduced comprehension under RSVP conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/41277242/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">rapid serial visual presentation (RSVP). Results: ADHD participants performed better in the RSVP condition relative to the other two read...</span></span></span>
+Researchers found that participants with ADHD performed better in the RSVP condition than in the formats that required [normal eye]({{ 'normal-glances/' | relative_url }}) movements. Their comprehension advantage was approximately 13% relative to neurotypical readers, who generally experienced reduced comprehension under RSVP conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/41277242/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">rapid serial visual presentation (RSVP). Results: ADHD participants performed better in the RSVP condition relative to the other two read...</span></span></span>
 
-This finding is notable because it runs against the broader RSVP literature. Studies involving typical readers often conclude that RSVP can increase reading speed but may impair understanding, particularly when texts become more complex or when readers cannot easily revisit earlier material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/29461715/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Modern Speed-Reading Apps Do Not Foster...by D Acklin · 2017 · Cited by 25 — This is done using rapid serial visual presentation (...</span></span></span>
+This finding is notable because it runs against the broader RSVP literature. Studies involving typical readers often conclude that RSVP can increase reading speed but may impair understanding, particularly when texts become more complex or when readers cannot easily revisit earlier material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/29461715/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Modern Speed-Reading Apps Do Not Foster...by D Acklin · 2017 · Cited by 25 — This is done using rapid serial visual presentation (...</span></span></span>
 
-The ADHD study suggests a different mechanism may be operating. Rather than benefiting from faster presentation itself, some ADHD readers may benefit from the reduction of eye-movement demands. The authors argued that eye movements may create an additional source of interference during reading for people with ADHD and that minimising those movements could improve comprehension. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/journals/journal-of-the-international-neuropsychological-society/article/reading-without-eye-movements-improving-reading-comprehension-in-young-adults-with-attentiondeficithyperactivity-disorder-adhd/33851CEA7C1AC6193D088D4D5551ED3C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentReading without eye movements: Improving...by S Moussaoui · Cited by 1 — The study indicates that...</span></span></span>
+The ADHD study suggests a different mechanism may be operating. Rather than benefiting from faster presentation itself, some ADHD readers may benefit from the reduction of eye-movement demands. The authors argued that eye movements may create an additional source of interference during reading for people with ADHD and that minimising those movements could improve comprehension.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/journals/journal-of-the-international-neuropsychological-society/article/reading-without-eye-movements-improving-reading-comprehension-in-young-adults-with-attentiondeficithyperactivity-disorder-adhd/33851CEA7C1AC6193D088D4D5551ED3C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentReading without eye movements: Improving...by S Moussaoui · Cited by 1 — The study indicates that...</span></span></span>
 
 In practical terms, this means RSVP may help certain ADHD readers stay engaged with material that would otherwise trigger distraction or repeated loss of focus.
 
@@ -311,13 +311,13 @@ In practical terms, this means RSVP may help certain ADHD readers stay engaged w
 
 The contrast between ADHD and non-ADHD readers is important.
 
-For many neurotypical readers: <span class="citation-chip-wrap"><a class="citation-chip" href="https://accruva.app/blog/adhd-reading/rsvp-13-percent-advantage/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: accruva.app">[accruva.app]</a><span class="citation-popover" role="note"><span class="citation-popover-source">accruva.app</span><span class="citation-popover-title">rsvp 13 percent advantage</span><span class="citation-popover-snippet">ADHD Reading: RSVP Boosts Comprehension 13% &#124; Accruva22 May 2026 — A 2025 study found RSVP reading boosts comprehension by 13% for adults...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+For many neurotypical readers:<span class="citation-chip-wrap"><a class="citation-chip" href="https://accruva.app/blog/adhd-reading/rsvp-13-percent-advantage/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: accruva.app">[accruva.app]</a><span class="citation-popover" role="note"><span class="citation-popover-source">accruva.app</span><span class="citation-popover-title">rsvp 13 percent advantage</span><span class="citation-popover-snippet">ADHD Reading: RSVP Boosts Comprehension 13% &#124; Accruva22 May 2026 — A 2025 study found RSVP reading boosts comprehension by 13% for adults...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 * Previewing upcoming words supports comprehension.
 * [Regressions]({{ 'lookbacks/' | relative_url }}) (moving backwards in the text) help resolve confusion.
-* Natural eye movements are part of efficient reading. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/369690713_Reading_without_eye_movements_Improving_reading_comprehension_in_young_adults_with_Attention-DeficitHyperactivity_Disorder_ADHD" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Reading without eye movements</span><span class="citation-popover-snippet">Reading without eye movements - ADHDJan 17, 2026 — ADHD participants benefited from RSVP by almost 13% relative to neurotypical controls...</span></span></span>
+* Natural eye movements are part of efficient reading.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/369690713_Reading_without_eye_movements_Improving_reading_comprehension_in_young_adults_with_Attention-DeficitHyperactivity_Disorder_ADHD" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Reading without eye movements</span><span class="citation-popover-snippet">Reading without eye movements - ADHDJan 17, 2026 — ADHD participants benefited from RSVP by almost 13% relative to neurotypical controls...</span></span></span>
 
-RSVP removes all three advantages. Consequently, comprehension often declines when reading speeds become aggressive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/29461715/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2TSW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Modern Speed-Reading Apps Do Not Foster...by D Acklin · 2017 · Cited by 25 — This is done using rapid serial visual presentation (...</span></span></span>
+RSVP removes all three advantages. Consequently, comprehension often declines when reading speeds become aggressive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/29461715/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2TSW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Modern Speed-Reading Apps Do Not Foster...by D Acklin · 2017 · Cited by 25 — This is done using rapid serial visual presentation (...</span></span></span>
 
 For some readers with ADHD, the balance may shift:
 
@@ -327,7 +327,7 @@ For some readers with ADHD, the balance may shift:
 * Less visual searching means fewer opportunities for attention to wander.
 * A fixed focal point reduces place-losing behaviour.
 * Continuous word presentation may create a stronger sense of momentum.
-* Reduced eye-movement demands may lower cognitive interference during reading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/journals/journal-of-the-international-neuropsychological-society/article/reading-without-eye-movements-improving-reading-comprehension-in-young-adults-with-attentiondeficithyperactivity-disorder-adhd/33851CEA7C1AC6193D088D4D5551ED3C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentReading without eye movements: Improving...by S Moussaoui · Cited by 1 — The study indicates that...</span></span></span>
+* Reduced eye-movement demands may lower cognitive interference during reading.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/journals/journal-of-the-international-neuropsychological-society/article/reading-without-eye-movements-improving-reading-comprehension-in-young-adults-with-attentiondeficithyperactivity-disorder-adhd/33851CEA7C1AC6193D088D4D5551ED3C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentReading without eye movements: Improving...by S Moussaoui · Cited by 1 — The study indicates that...</span></span></span>
 
 </div>
 
@@ -358,7 +358,7 @@ The case becomes weaker when reading requires:
 * Careful study of [technical]({{ 'technical-texts/' | relative_url }}) diagrams, tables, or formulas.
 * Critical analysis of complex academic texts.
 
-Even if RSVP helps attention, it cannot restore the structural advantages of seeing an entire page at once. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tsw.it/wp-content/uploads/Rapid-serial-visual-presentation-in-reading-The-case-of-Spritz-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tsw.it">[TSW+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tsw.it</span><span class="citation-popover-snippet">Rapid serial visual presentation in reading: The case of Spritzby S Benedetto · 2015 · Cited by 99 — RSVP consists of display- ing in...</span></span></span>
+Even if RSVP helps attention, it cannot restore the structural advantages of seeing an entire page at once.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tsw.it/wp-content/uploads/Rapid-serial-visual-presentation-in-reading-The-case-of-Spritz-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tsw.it">[TSW+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tsw.it</span><span class="citation-popover-snippet">Rapid serial visual presentation in reading: The case of Spritzby S Benedetto · 2015 · Cited by 99 — RSVP consists of display- ing in...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5yddeRrd0hA" title="Can you keep up? Speed Reading and RSVP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5yddeRrd0hA" target="_blank" rel="noopener noreferrer">Can you keep up? Speed Reading and RSVP</a></p><p class="youtube-embed-meta">Channel: MindfulThinks</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5yddeRrd0hA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5yddeRrd0hA">Open on YouTube</a></p></div></div></div>
@@ -370,211 +370,211 @@ The ADHD-RSVP finding is promising, but readers should treat it as an emerging r
 Several limitations remain:
 
 * The research base is still small compared with the extensive literature on conventional reading.
-* Much of the direct evidence comes from a relatively recent study of young adults rather than multiple large-scale replications. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/journals/journal-of-the-international-neuropsychological-society/article/reading-without-eye-movements-improving-reading-comprehension-in-young-adults-with-attentiondeficithyperactivity-disorder-adhd/33851CEA7C1AC6193D088D4D5551ED3C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentReading without eye movements: Improving...by S Moussaoui · Cited by 1 — The study indicates that...</span></span></span>
+* Much of the direct evidence comes from a relatively recent study of young adults rather than multiple large-scale replications.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/journals/journal-of-the-international-neuropsychological-society/article/reading-without-eye-movements-improving-reading-comprehension-in-young-adults-with-attentiondeficithyperactivity-disorder-adhd/33851CEA7C1AC6193D088D4D5551ED3C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentReading without eye movements: Improving...by S Moussaoui · Cited by 1 — The study indicates that...</span></span></span>
 * ADHD is highly heterogeneous. Individuals differ in attention patterns, reading ability, [medication]({{ 'medicine-labels/' | relative_url }}) use, and co-occurring learning difficulties.
 * Improvements observed in controlled experiments may not translate equally to long books, workplace reading, or everyday study tasks.
 
-Researchers themselves describe RSVP as a potentially useful reading aid rather than a replacement for conventional reading. Further work is needed to determine which ADHD subgroups benefit most, how reading speed affects outcomes, and whether gains persist over extended use. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/journals/journal-of-the-international-neuropsychological-society/article/reading-without-eye-movements-improving-reading-comprehension-in-young-adults-with-attentiondeficithyperactivity-disorder-adhd/33851CEA7C1AC6193D088D4D5551ED3C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentReading without eye movements: Improving...by S Moussaoui · Cited by 1 — The study indicates that...</span></span></span>
+Researchers themselves describe RSVP as a potentially useful reading aid rather than a replacement for conventional reading. Further work is needed to determine which ADHD subgroups benefit most, how reading speed affects outcomes, and whether gains persist over extended use.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge.org/core/journals/journal-of-the-international-neuropsychological-society/article/reading-without-eye-movements-improving-reading-comprehension-in-young-adults-with-attentiondeficithyperactivity-disorder-adhd/33851CEA7C1AC6193D088D4D5551ED3C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentReading without eye movements: Improving...by S Moussaoui · Cited by 1 — The study indicates that...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_rsvp_reading_26badc_best_uses_rsv_5682fb_rsvp_adhd_att_20c6ab-Illustration-3-dark.svg" | relative_url }}" alt="ADHD Focus illustration 3" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_rsvp_reading_26badc_best_uses_rsv_5682fb_rsvp_adhd_att_20c6ab-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_rsvp_reading_26badc_best_uses_rsv_5682fb_rsvp_adhd_att_20c6ab-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Evidence Suggests Today
 
-Among the proposed uses for RSVP [speed-reading]({{ 'myths/' | relative_url }}) apps, ADHD-related attention support stands out because it is one of the few areas where RSVP may offer more than simple convenience. While typical readers often face a trade-off between speed and comprehension, some adults with ADHD appear capable of maintaining or even improving comprehension when eye-movement demands are removed. The strongest interpretation of current evidence is not that RSVP makes ADHD readers universally faster or smarter readers, but that it may reduce a specific attentional bottleneck that interferes with reading performance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/41277242/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">rapid serial visual presentation (RSVP). Results: ADHD participants performed better in the RSVP condition relative to the other two read...</span></span></span>
+Among the proposed uses for RSVP [speed-reading]({{ 'myths/' | relative_url }}) apps, ADHD-related attention support stands out because it is one of the few areas where RSVP may offer more than simple convenience. While typical readers often face a trade-off between speed and comprehension, some adults with ADHD appear capable of maintaining or even improving comprehension when eye-movement demands are removed. The strongest interpretation of current evidence is not that RSVP makes ADHD readers universally faster or smarter readers, but that it may reduce a specific attentional bottleneck that interferes with reading performance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/41277242/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">rapid serial visual presentation (RSVP). Results: ADHD participants performed better in the RSVP condition relative to the other two read...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2bLQUkYLFUk" title="ADHD &amp; Bionic Reading" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2bLQUkYLFUk" target="_blank" rel="noopener noreferrer">ADHD &amp; Bionic Reading</a></p><p class="youtube-embed-meta">Channel: ADHDVision</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2bLQUkYLFUk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2bLQUkYLFUk">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Could RSVP Help Some Readers Stay Focused Longer?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Could RSVP Help Some Readers Stay Focused Longer?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=ADHD+2.0&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open ADHD 2.0 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12107807-M.jpg" alt="Cover for ADHD 2.0" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=ADHD+2.0&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="ADHD 2.0">ADHD 2.0</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=ADHD+2.0&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open ADHD 2.0 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12107807-M.jpg" alt="Cover for ADHD 2.0" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=ADHD+2.0&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="ADHD 2.0">ADHD 2.0</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Directly addresses sustained attention, distraction, and practical strategies relevant to evaluating RSVP reading for ADHD.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=ADHD+2.0&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses sustained attention, distraction, and practical strategies relevant to evaluating RSVP reading for ADHD.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=ADHD+2.0&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Fits the article&#x27;s theme of choosing the right reading method for the task rather than blindly maximizing speed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Fits the article&#x27;s theme of choosing the right reading method for the task rather than blindly maximizing speed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Smart+but+Scattered--And+Stalled+Richard+Guare&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Smart but Scattered--And Stalled on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14766544-M.jpg" alt="Cover for Smart but Scattered--And Stalled" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Smart+but+Scattered--And+Stalled+Richard+Guare&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Smart but Scattered--And Stalled">Smart but Scattered--And Stalled</a>
-        </h4>
-        <p class="fr-book-author">By Richard Guare, Peg Dawson et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Smart+but+Scattered--And+Stalled+Richard+Guare&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Smart but Scattered--And Stalled on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14766544-M.jpg" alt="Cover for Smart but Scattered--And Stalled" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Smart+but+Scattered--And+Stalled+Richard+Guare&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Smart but Scattered--And Stalled">Smart but Scattered--And Stalled</a>
+</h4>
+<p class="fr-book-author">By Richard Guare, Peg Dawson et al.</p>
         
-        <p class="fr-book-desc">First published 2014. Subjects: Young adults, Life skills, Executive ability.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Smart+but+Scattered--And+Stalled+Richard+Guare&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2014. Subjects: Young adults, Life skills, Executive ability.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Smart+but+Scattered--And+Stalled+Richard+Guare&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Driven+to+distraction&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Driven to distraction on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Driven+to+distraction&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Driven to distraction">Driven to distraction</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Driven+to+distraction&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Driven to distraction on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Driven+to+distraction&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Driven to distraction">Driven to distraction</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Foundational explanation of ADHD attention challenges that underlie interest in alternative reading methods such as RSVP.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Driven+to+distraction&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Foundational explanation of ADHD attention challenges that underlie interest in alternative reading methods such as RSVP.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Driven+to+distraction&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=ADHD+2.0&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">ADHD 2.0</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Smart+but+Scattered+And+Stalled&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Smart but Scattered And Stalled</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=ADHD+2.0&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">ADHD 2.0</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Smart+but+Scattered+And+Stalled&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Smart but Scattered And Stalled</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reader+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reader accessory" data-ebay-reference="adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Zebra TRG-TC2Y-SNP1-01 barcode reader accessory Handle"><img src="{{ '/assets/images/marketplace-covers/1ed0333981aa4c805354.jpg' | relative_url }}" alt="Listing image for Zebra TRG-TC2Y-SNP1-01 barcode reader accessory Handle" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reader+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reader accessory" data-ebay-reference="adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory" target="_blank" rel="sponsored noopener noreferrer">Zebra TRG-TC2Y-SNP1-01 barcode reader accessory Handle</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reader+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reader accessory" data-ebay-reference="adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reader accessory">Search <span data-ebay-domain-label>eBay.co.uk</span>: reader accessory</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reader+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reader accessory" data-ebay-reference="adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reader+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reader accessory" data-ebay-reference="adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Zebra TRG-TC2Y-SNP1-01 barcode reader accessory Handle"><img src="{{ '/assets/images/marketplace-covers/1ed0333981aa4c805354.jpg' | relative_url }}" alt="Listing image for Zebra TRG-TC2Y-SNP1-01 barcode reader accessory Handle" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reader+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reader accessory" data-ebay-reference="adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory" target="_blank" rel="sponsored noopener noreferrer">Zebra TRG-TC2Y-SNP1-01 barcode reader accessory Handle</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reader+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reader accessory" data-ebay-reference="adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reader accessory">Search<span data-ebay-domain-label>eBay.co.uk</span>: reader accessory</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reader+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reader accessory" data-ebay-reference="adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reader+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reader accessory" data-ebay-reference="adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Square Payment Accessory Bundle - Model SPH1-02-A and Card Reader(2nd gen) *New*"><img src="{{ '/assets/images/marketplace-covers/37cb18bf2296c49c2334.jpg' | relative_url }}" alt="Listing image for Square Payment Accessory Bundle - Model SPH1-02-A and Card Reader(2nd gen) *New*" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reader+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reader accessory" data-ebay-reference="adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory" target="_blank" rel="sponsored noopener noreferrer">Square Payment Accessory Bundle - Model SPH1-02-A and Card Reader(2nd gen) *New*</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reader+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reader accessory" data-ebay-reference="adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reader accessory">Search <span data-ebay-domain-label>eBay.co.uk</span>: reader accessory</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reader+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reader accessory" data-ebay-reference="adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reader+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reader accessory" data-ebay-reference="adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Square Payment Accessory Bundle - Model SPH1-02-A and Card Reader(2nd gen) *New*"><img src="{{ '/assets/images/marketplace-covers/37cb18bf2296c49c2334.jpg' | relative_url }}" alt="Listing image for Square Payment Accessory Bundle - Model SPH1-02-A and Card Reader(2nd gen) *New*" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reader+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reader accessory" data-ebay-reference="adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory" target="_blank" rel="sponsored noopener noreferrer">Square Payment Accessory Bundle - Model SPH1-02-A and Card Reader(2nd gen) *New*</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reader+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reader accessory" data-ebay-reference="adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reader accessory">Search<span data-ebay-domain-label>eBay.co.uk</span>: reader accessory</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reader+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reader accessory" data-ebay-reference="adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reader+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reader accessory" data-ebay-reference="adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motorola 50-15400-031 barcode reader accessory"><img src="{{ '/assets/images/marketplace-covers/aa3308790de32d7e42d4.jpg' | relative_url }}" alt="Listing image for Motorola 50-15400-031 barcode reader accessory" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reader+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reader accessory" data-ebay-reference="adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory" target="_blank" rel="sponsored noopener noreferrer">Motorola 50-15400-031 barcode reader accessory</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reader+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reader accessory" data-ebay-reference="adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reader accessory">Search <span data-ebay-domain-label>eBay.co.uk</span>: reader accessory</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reader+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reader accessory" data-ebay-reference="adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reader+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reader accessory" data-ebay-reference="adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motorola 50-15400-031 barcode reader accessory"><img src="{{ '/assets/images/marketplace-covers/aa3308790de32d7e42d4.jpg' | relative_url }}" alt="Listing image for Motorola 50-15400-031 barcode reader accessory" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reader+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reader accessory" data-ebay-reference="adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory" target="_blank" rel="sponsored noopener noreferrer">Motorola 50-15400-031 barcode reader accessory</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reader+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reader accessory" data-ebay-reference="adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reader accessory">Search<span data-ebay-domain-label>eBay.co.uk</span>: reader accessory</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reader+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reader accessory" data-ebay-reference="adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reader+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reader accessory" data-ebay-reference="adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Acer SD Card Reader USB 3.0 Aluminum Camera Memory Card Reader UHS ODK550"><img src="{{ '/assets/images/marketplace-covers/4fd1c93b812b9a41e6b7.jpg' | relative_url }}" alt="Listing image for Acer SD Card Reader USB 3.0 Aluminum Camera Memory Card Reader UHS ODK550" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reader+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reader accessory" data-ebay-reference="adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory" target="_blank" rel="sponsored noopener noreferrer">Acer SD Card Reader USB 3.0 Aluminum Camera Memory Card Reader UHS ODK550</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reader+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reader accessory" data-ebay-reference="adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reader accessory">Search <span data-ebay-domain-label>eBay.co.uk</span>: reader accessory</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reader+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reader accessory" data-ebay-reference="adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=reader+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reader accessory" data-ebay-reference="adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reader+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reader accessory" data-ebay-reference="adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Acer SD Card Reader USB 3.0 Aluminum Camera Memory Card Reader UHS ODK550"><img src="{{ '/assets/images/marketplace-covers/4fd1c93b812b9a41e6b7.jpg' | relative_url }}" alt="Listing image for Acer SD Card Reader USB 3.0 Aluminum Camera Memory Card Reader UHS ODK550" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reader+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reader accessory" data-ebay-reference="adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory" target="_blank" rel="sponsored noopener noreferrer">Acer SD Card Reader USB 3.0 Aluminum Camera Memory Card Reader UHS ODK550</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reader+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reader accessory" data-ebay-reference="adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reader accessory">Search<span data-ebay-domain-label>eBay.co.uk</span>: reader accessory</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reader+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reader accessory" data-ebay-reference="adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=reader+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reader accessory" data-ebay-reference="adhd-focus-could-rsvp-help-some-readers-stay-focused-longer-increasing-reader-accessory" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -590,7 +590,7 @@ Among the proposed uses for RSVP [speed-reading]({{ 'myths/' | relative_url }}) 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -610,7 +610,7 @@ Among the proposed uses for RSVP [speed-reading]({{ 'myths/' | relative_url }}) 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -642,7 +642,7 @@ Among the proposed uses for RSVP [speed-reading]({{ 'myths/' | relative_url }}) 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -694,7 +694,7 @@ Among the proposed uses for RSVP [speed-reading]({{ 'myths/' | relative_url }}) 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -739,7 +739,7 @@ Among the proposed uses for RSVP [speed-reading]({{ 'myths/' | relative_url }}) 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -780,145 +780,145 @@ Among the proposed uses for RSVP [speed-reading]({{ 'myths/' | relative_url }}) 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/journals/journal-of-the-international-neuropsychological-society/article/reading-without-eye-movements-improving-reading-comprehension-in-young-adults-with-attentiondeficithyperactivity-disorder-adhd/33851CEA7C1AC6193D088D4D5551ED3C" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/journal-of-the-international-neuropsychological-society/article/reading-without-eye-movements-improving-reading-comprehension-in-young-adults-with-attentiondeficithyperactivity-disorder-adhd/33851CEA7C1AC6193D088D4D5551ED3C</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentReading without eye movements: Improving...by S Moussaoui · Cited by 1 — The study indicates that...</p></details>
+   Link:<a href="https://www.cambridge.org/core/journals/journal-of-the-international-neuropsychological-society/article/reading-without-eye-movements-improving-reading-comprehension-in-young-adults-with-attentiondeficithyperactivity-disorder-adhd/33851CEA7C1AC6193D088D4D5551ED3C" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/journal-of-the-international-neuropsychological-society/article/reading-without-eye-movements-improving-reading-comprehension-in-young-adults-with-attentiondeficithyperactivity-disorder-adhd/33851CEA7C1AC6193D088D4D5551ED3C</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentReading without eye movements: Improving...by S Moussaoui · Cited by 1 — The study indicates that...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) Reading without eye movements  
-   Link: <a href="https://www.researchgate.net/publication/364348418_Reading_without_eye_movements_Improving_reading_comprehension_in_young_adults_With_ADHD" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/364348418_Reading_without_eye_movements_Improving_reading_comprehension_in_young_adults_With_ADHD</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Reading without eye movements - ADHDResults GLMM results showed that ADHD participants benefited from RSVP by almost 13% relative t...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/364348418_Reading_without_eye_movements_Improving_reading_comprehension_in_young_adults_With_ADHD" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/364348418_Reading_without_eye_movements_Improving_reading_comprehension_in_young_adults_With_ADHD</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Reading without eye movements - ADHDResults GLMM results showed that ADHD participants benefited from RSVP by almost 13% relative t...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: researchgate.net  
    Title: Research Gate Reading without eye movements  
-   Link: <a href="https://www.researchgate.net/publication/369690713_Reading_without_eye_movements_Improving_reading_comprehension_in_young_adults_with_Attention-DeficitHyperactivity_Disorder_ADHD" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/369690713_Reading_without_eye_movements_Improving_reading_comprehension_in_young_adults_with_Attention-DeficitHyperactivity_Disorder_ADHD</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading without eye movements - ADHDJan 17, 2026 — ADHD participants benefited from RSVP by almost 13% relative to neurotypical controls...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/369690713_Reading_without_eye_movements_Improving_reading_comprehension_in_young_adults_with_Attention-DeficitHyperactivity_Disorder_ADHD" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/369690713_Reading_without_eye_movements_Improving_reading_comprehension_in_young_adults_with_Attention-DeficitHyperactivity_Disorder_ADHD</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading without eye movements - ADHDJan 17, 2026 — ADHD participants benefited from RSVP by almost 13% relative to neurotypical controls...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/397908954_Reading_without_eye_movements_Improving_reading_comprehension_in_young_adults_with_attention-deficithyperactivity_disorder_ADHD" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397908954_Reading_without_eye_movements_Improving_reading_comprehension_in_young_adults_with_attention-deficithyperactivity_disorder_ADHD</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Reading without eye movements: Improving...4 Nov 2025 — Results ADHD participants performed better in the RSVP condition relative...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/397908954_Reading_without_eye_movements_Improving_reading_comprehension_in_young_adults_with_attention-deficithyperactivity_disorder_ADHD" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397908954_Reading_without_eye_movements_Improving_reading_comprehension_in_young_adults_with_attention-deficithyperactivity_disorder_ADHD</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Reading without eye movements: Improving...4 Nov 2025 — Results ADHD participants performed better in the RSVP condition relative...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: tsw.it  
-   Link: <a href="https://www.tsw.it/wp-content/uploads/Rapid-serial-visual-presentation-in-reading-The-case-of-Spritz-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.tsw.it/wp-content/uploads/Rapid-serial-visual-presentation-in-reading-The-case-of-Spritz-1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rapid serial visual presentation in reading: The case of Spritzby S Benedetto · 2015 · Cited by 99 — RSVP consists of display- ing in...</p></details>
+   Link:<a href="https://www.tsw.it/wp-content/uploads/Rapid-serial-visual-presentation-in-reading-The-case-of-Spritz-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.tsw.it/wp-content/uploads/Rapid-serial-visual-presentation-in-reading-The-case-of-Spritz-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rapid serial visual presentation in reading: The case of Spritzby S Benedetto · 2015 · Cited by 99 — RSVP consists of display- ing in...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/270650767_Rapid_serial_visual_presentation_in_reading_The_case_of_Spritz" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/270650767_Rapid_serial_visual_presentation_in_reading_The_case_of_Spritz</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rapid serial visual presentation in reading: The case of SpritzRSVP consists of displaying in sequential order one or more words at a tim...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/270650767_Rapid_serial_visual_presentation_in_reading_The_case_of_Spritz" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/270650767_Rapid_serial_visual_presentation_in_reading_The_case_of_Spritz</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rapid serial visual presentation in reading: The case of SpritzRSVP consists of displaying in sequential order one or more words at a tim...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/41277242/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41277242/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>rapid serial visual presentation (RSVP). Results: ADHD participants performed better in the RSVP condition relative to the other two read...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/41277242/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41277242/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rapid serial visual presentation (RSVP). Results: ADHD participants performed better in the RSVP condition relative to the other two read...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: verdantpsychology.com  
    Title: Learn the signs and book a free consultation today  
-   Link: <a href="https://www.verdantpsychology.com/blog-resources/adhd-and-reading-comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.verdantpsychology.com/blog-resources/adhd-and-reading-comprehension</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Verdant PsychologyADHD and Reading Comprehension Difficulties ExplainedOct 15, 2025 — ADHD and Reading Comprehension difficulties can aff...</p></details>
+   Link:<a href="https://www.verdantpsychology.com/blog-resources/adhd-and-reading-comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.verdantpsychology.com/blog-resources/adhd-and-reading-comprehension</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Verdant PsychologyADHD and Reading Comprehension Difficulties ExplainedOct 15, 2025 — ADHD and Reading Comprehension difficulties can aff...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCSelective Visual Attention in ADHD: A Narrative Review  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12289795/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12289795/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Visual Attention in ADHD: A Narrative Review - PMCby JL Klein · 2025 · Cited by 4 — [139], the authors used a rapid serial visual present...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12289795/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12289795/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Visual Attention in ADHD: A Narrative Review - PMCby JL Klein · 2025 · Cited by 4 — [139], the authors used a rapid serial visual present...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/29461715/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29461715/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Modern Speed-Reading Apps Do Not Foster...by D Acklin · 2017 · Cited by 25 — This is done using rapid serial visual presentation (...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/29461715/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29461715/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Modern Speed-Reading Apps Do Not Foster...by D Acklin · 2017 · Cited by 25 — This is done using rapid serial visual presentation (...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: psychologicalscience.org  
-   Link: <a href="https://www.psychologicalscience.org/news/were-only-human/read-this-blog-post-in-less-than-a-minute.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/news/were-only-human/read-this-blog-post-in-less-than-a-minute.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceRead This Blog Post In Less Than A Minute!Mar 25, 2014 — Spritz makes use of a technology first deve...</p></details>
+   Link:<a href="https://www.psychologicalscience.org/news/were-only-human/read-this-blog-post-in-less-than-a-minute.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/news/were-only-human/read-this-blog-post-in-less-than-a-minute.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceRead This Blog Post In Less Than A Minute!Mar 25, 2014 — Spritz makes use of a technology first deve...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Rapid serial visual presentation  
-   Link: <a href="https://en.wikipedia.org/wiki/Rapid_serial_visual_presentation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rapid_serial_visual_presentation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rapid serial visual presentationRapid serial visual presentation (RSVP) is a scientific method for studying the [timing](&amp;#123;&amp;#123; &#x27;timing/&#x27; | relative_url &amp;#125;&amp;#125;) of vision. In R...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Rapid_serial_visual_presentation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rapid_serial_visual_presentation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rapid serial visual presentationRapid serial visual presentation (RSVP) is a scientific method for studying the [timing](&amp;#123;&amp;#123; &#x27;timing/&#x27; | relative_url &amp;#125;&amp;#125;) of vision. In R...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11039523/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11039523/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of a novel rodent rapid serial visual presentation...by A Benn · 2024 · Cited by 6 — The rapid serial visual presentation task (RSVP) an...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11039523/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11039523/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of a novel rodent rapid serial visual presentation...by A Benn · 2024 · Cited by 6 — The rapid serial visual presentation task (RSVP) an...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: apps.apple.com  
-   Link: <a href="https://apps.apple.com/ca/app/speedy-reader-rsvp/id6753229240" target="_blank" rel="noopener noreferrer nofollow">https://apps.apple.com/ca/app/speedy-reader-rsvp/id6753229240</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reader - RSVP - App Store - AppleSpeedy Reader uses RSVP (Rapid Serial Visual Presentation) technology to help you boost reading speed, f...</p></details>
+   Link:<a href="https://apps.apple.com/ca/app/speedy-reader-rsvp/id6753229240" target="_blank" rel="noopener noreferrer nofollow">https://apps.apple.com/ca/app/speedy-reader-rsvp/id6753229240</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reader - RSVP - App Store - AppleSpeedy Reader uses RSVP (Rapid Serial Visual Presentation) technology to help you boost reading speed, f...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: accruva.app  
    Title: rsvp 13 percent advantage  
-   Link: <a href="https://accruva.app/blog/adhd-reading/rsvp-13-percent-advantage/" target="_blank" rel="noopener noreferrer nofollow">https://accruva.app/blog/adhd-reading/rsvp-13-percent-advantage/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ADHD Reading: RSVP Boosts Comprehension 13% | Accruva22 May 2026 — A 2025 study found RSVP reading boosts comprehension by 13% for adults...</p></details>
+   Link:<a href="https://accruva.app/blog/adhd-reading/rsvp-13-percent-advantage/" target="_blank" rel="noopener noreferrer nofollow">https://accruva.app/blog/adhd-reading/rsvp-13-percent-advantage/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ADHD Reading: RSVP Boosts Comprehension 13% | Accruva22 May 2026 — A 2025 study found RSVP reading boosts comprehension by 13% for adults...</p></details>
    Published: May 2026  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/RSVP" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RSVP</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RSVPRSVP is an initialism derived from the French phrase &quot;Répondez s&#x27;il vous plaît&quot;, [1] meaning &quot;please respond&quot; (literally &quot;respond...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/RSVP" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RSVP</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RSVPRSVP is an initialism derived from the French phrase &quot;Répondez s&#x27;il vous plaît&quot;, [1] meaning &quot;please respond&quot; (literally &quot;respond...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: mtsu.edu  
-   Link: <a href="https://www.mtsu.edu/scholarsweek/wp-content/uploads/sites/142/2024/10/Ramirez.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mtsu.edu/scholarsweek/wp-content/uploads/sites/142/2024/10/Ramirez.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Review of the Comorbidity of ADHD and DyslexiaPast research suggests dyslexia occurs along a continuum such that a given individual may...</p></details>
+   Link:<a href="https://www.mtsu.edu/scholarsweek/wp-content/uploads/sites/142/2024/10/Ramirez.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mtsu.edu/scholarsweek/wp-content/uploads/sites/142/2024/10/Ramirez.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Review of the Comorbidity of ADHD and DyslexiaPast research suggests dyslexia occurs along a continuum such that a given individual may...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/richard-mayne_speedreading-adhd-rsvp-activity-7431693078253535233-DQW0" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/richard-mayne_speedreading-adhd-rsvp-activity-7431693078253535233-DQW0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RSVP Reading Technique Boosts Comprehension for ADHDThe technique is called RSVP (Rapid Serial Visual Presentation). One... attention sy...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/richard-mayne_speedreading-adhd-rsvp-activity-7431693078253535233-DQW0" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/richard-mayne_speedreading-adhd-rsvp-activity-7431693078253535233-DQW0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RSVP Reading Technique Boosts Comprehension for ADHDThe technique is called RSVP (Rapid Serial Visual Presentation). One... attention sy...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: labvanced.com  
-   Link: <a href="https://www.labvanced.com/content/learn/en/walkthroughs/2021-08-RSVP-walkthrough/" target="_blank" rel="noopener noreferrer nofollow">https://www.labvanced.com/content/learn/en/walkthroughs/2021-08-RSVP-walkthrough/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rapid Serial Visual Presentation (RSVP) Task WalkthroughRapid serial visual presentation (RSVP) task is a method of displaying texts or i...</p></details>
+   Link:<a href="https://www.labvanced.com/content/learn/en/walkthroughs/2021-08-RSVP-walkthrough/" target="_blank" rel="noopener noreferrer nofollow">https://www.labvanced.com/content/learn/en/walkthroughs/2021-08-RSVP-walkthrough/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rapid Serial Visual Presentation (RSVP) Task WalkthroughRapid serial visual presentation (RSVP) task is a method of displaying texts or i...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nottingham-repository.worktribe.com  
-   Link: <a href="https://nottingham-repository.worktribe.com/output/765223/the-impact-of-rapid-serial-visual-presentation-rsvp-on-reading-by-nonnative-speakers" target="_blank" rel="noopener noreferrer nofollow">https://nottingham-repository.worktribe.com/output/765223/the-impact-of-rapid-serial-visual-presentation-rsvp-on-reading-by-nonnative-speakers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>impact of Rapid Serial Visual Presentation (RSVP) on...by Z Boo · Cited by 11 — To address this, the current study explores the impact o...</p></details>
+   Link:<a href="https://nottingham-repository.worktribe.com/output/765223/the-impact-of-rapid-serial-visual-presentation-rsvp-on-reading-by-nonnative-speakers" target="_blank" rel="noopener noreferrer nofollow">https://nottingham-repository.worktribe.com/output/765223/the-impact-of-rapid-serial-visual-presentation-rsvp-on-reading-by-nonnative-speakers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>impact of Rapid Serial Visual Presentation (RSVP) on...by Z Boo · Cited by 11 — To address this, the current study explores the impact o...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: rbppsiquiatria.org.br  
    Title: attentional blink in children with attention deficit hyperactivity disorder  
-   Link: <a href="https://www.rbppsiquiatria.org.br/details/364/en-US/attentional-blink-in-children-with-attention-deficit-hyperactivity-disorder" target="_blank" rel="noopener noreferrer nofollow">https://www.rbppsiquiatria.org.br/details/364/en-US/attentional-blink-in-children-with-attention-deficit-hyperactivity-disorder</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Attentional blink in children with attention deficit...by JA Amador-Campos · 2015 · Cited by 22 — In the study of attentional disorders...</p></details>
+   Link:<a href="https://www.rbppsiquiatria.org.br/details/364/en-US/attentional-blink-in-children-with-attention-deficit-hyperactivity-disorder" target="_blank" rel="noopener noreferrer nofollow">https://www.rbppsiquiatria.org.br/details/364/en-US/attentional-blink-in-children-with-attention-deficit-hyperactivity-disorder</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Attentional blink in children with attention deficit...by JA Amador-Campos · 2015 · Cited by 22 — In the study of attentional disorders...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: research.rug.nl  
    Title: the attentional blink in typically developing and reading disable  
-   Link: <a href="https://research.rug.nl/en/publications/the-attentional-blink-in-typically-developing-and-reading-disable" target="_blank" rel="noopener noreferrer nofollow">https://research.rug.nl/en/publications/the-attentional-blink-in-typically-developing-and-reading-disable</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>attentional blink in typically developing and reading-...by BJA de Groot · 2015 · Cited by 15 — This study&#x27;s research question was wheth...</p></details>
+   Link:<a href="https://research.rug.nl/en/publications/the-attentional-blink-in-typically-developing-and-reading-disable" target="_blank" rel="noopener noreferrer nofollow">https://research.rug.nl/en/publications/the-attentional-blink-in-typically-developing-and-reading-disable</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>attentional blink in typically developing and reading-...by BJA de Groot · 2015 · Cited by 15 — This study&#x27;s research question was wheth...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: rapidpaycard.com  
    Title: Reduce paper checks, cut costs, and pay people how they prefer  
-   Link: <a href="https://www.rapidpaycard.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.rapidpaycard.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Workforce Payouts: Paycards, EWA &amp; Disbursements | rapid!Modernize workforce payouts with paycards, earned wage access &amp; digital disburse...</p></details>
+   Link:<a href="https://www.rapidpaycard.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.rapidpaycard.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Workforce Payouts: Paycards, EWA &amp; Disbursements | rapid!Modernize workforce payouts with paycards, earned wage access &amp; digital disburse...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: rsvpify.com  
-   Link: <a href="https://rsvpify.com/" target="_blank" rel="noopener noreferrer nofollow">https://rsvpify.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Create a truly custom experience with powerful event management tools and unmatched flexibility...</p></details>
+   Link:<a href="https://rsvpify.com/" target="_blank" rel="noopener noreferrer nofollow">https://rsvpify.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Create a truly custom experience with powerful event management tools and unmatched flexibility...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: commoncraft.com  
    Title: tools betterfaster reading  
-   Link: <a href="https://commoncraft.com/tools-betterfaster-reading" target="_blank" rel="noopener noreferrer nofollow">https://commoncraft.com/tools-betterfaster-reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tools for Better/Faster ReadingApr 4, 2023 — This is often referred to as Rapid Serial Visual Presentation or &quot;RSVP&quot;. The format has been...</p></details>
+   Link:<a href="https://commoncraft.com/tools-betterfaster-reading" target="_blank" rel="noopener noreferrer nofollow">https://commoncraft.com/tools-betterfaster-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tools for Better/Faster ReadingApr 4, 2023 — This is often referred to as Rapid Serial Visual Presentation or &quot;RSVP&quot;. The format has been...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: osf.io  
-   Link: <a href="https://osf.io/preprints/psyarxiv/3d4ea_v1" target="_blank" rel="noopener noreferrer nofollow">https://osf.io/preprints/psyarxiv/3d4ea_v1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Improving reading comprehension in young adults with...by S Moussaoui · Cited by 1 — ADHD participants benefited from RSVP by almost 13%...</p></details>
+   Link:<a href="https://osf.io/preprints/psyarxiv/3d4ea_v1" target="_blank" rel="noopener noreferrer nofollow">https://osf.io/preprints/psyarxiv/3d4ea_v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Improving reading comprehension in young adults with...by S Moussaoui · Cited by 1 — ADHD participants benefited from RSVP by almost 13%...</p></details>

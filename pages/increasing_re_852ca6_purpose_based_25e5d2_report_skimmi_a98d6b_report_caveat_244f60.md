@@ -269,7 +269,7 @@ image: /assets/images/increasing_re_852ca6_purpose_based_25e5d2_report_skimmi_a9
 
 ## Introduction
 
-When you skim a report to save time, the most dangerous mistake is often not missing the recommendation—it is missing the caveat that limits it. A recommendation can appear decisive in an executive summary yet depend on assumptions, data limitations, forecast conditions, or scope restrictions buried elsewhere in the document. In many professional [reports]({{ 'reports/' | relative_url }}), the recommendation is technically correct only under specific conditions. If those conditions do not hold, the recommended action may need to be delayed, modified, or rejected. Guidance on uncertainty and decision-making consistently stresses that limitations and assumptions are not side notes; they are part of the evidence itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/the-aqua-book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2Government Analysis Function]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">The AQu A Book</span><span class="citation-popover-snippet">The AQuA BookJuly 30, 2025 — 30 Jul 2025 — The AQuA Book is Government guidance about how to produce robust, fit for purpose analysis. It...</span><span class="citation-popover-meta">Published: July 30, 2025</span></span></span>
+When you skim a report to save time, the most dangerous mistake is often not missing the recommendation—it is missing the caveat that limits it. A recommendation can appear decisive in an executive summary yet depend on assumptions, data limitations, forecast conditions, or scope restrictions buried elsewhere in the document. In many professional [reports]({{ 'reports/' | relative_url }}), the recommendation is technically correct only under specific conditions. If those conditions do not hold, the recommended action may need to be delayed, modified, or rejected. Guidance on uncertainty and decision-making consistently stresses that limitations and assumptions are not side notes; they are part of the evidence itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/the-aqua-book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2Government Analysis Function]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">The AQu A Book</span><span class="citation-popover-snippet">The AQuA BookJuly 30, 2025 — 30 Jul 2025 — The AQuA Book is Government guidance about how to produce robust, fit for purpose analysis. It...</span><span class="citation-popover-meta">Published: July 30, 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_purpose_based_25e5d2_report_skimmi_a98d6b_report_caveat_244f60-Illustration-1-dark.svg" | relative_url }}" alt="Caveats illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_purpose_based_25e5d2_report_skimmi_a98d6b_report_caveat_244f60-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_purpose_based_25e5d2_report_skimmi_a98d6b_report_caveat_244f60-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -277,7 +277,7 @@ For a fast reader, this creates a practical rule: before accepting a recommendat
 
 ## Where Limitations Hide in Reports
 
-Many reports place their strongest recommendations near the front and their strongest qualifications elsewhere. Executive summaries are designed to communicate conclusions quickly and may be the only section many readers ever see. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://methodology.eca.europa.eu/aware/PA/Pages/Reporting/Executive-summary.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: methodology.eca.europa.eu">[ECA Methodology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">methodology.eca.europa.eu</span><span class="citation-popover-title">ECA Methodology Executive</span><span class="citation-popover-snippet">ECA MethodologyExecutive summary - Methodology11 Apr 2022 — An executive summary should use clear language to tell the reader quickly wha...</span></span></span>
+Many reports place their strongest recommendations near the front and their strongest qualifications elsewhere. Executive summaries are designed to communicate conclusions quickly and may be the only section many readers ever see.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://methodology.eca.europa.eu/aware/PA/Pages/Reporting/Executive-summary.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: methodology.eca.europa.eu">[ECA Methodology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">methodology.eca.europa.eu</span><span class="citation-popover-title">ECA Methodology Executive</span><span class="citation-popover-snippet">ECA MethodologyExecutive summary - Methodology11 Apr 2022 — An executive summary should use clear language to tell the reader quickly wha...</span></span></span>
 
 The caveats that matter most often appear in:
 
@@ -301,7 +301,7 @@ A useful [skimming]({{ 'skimming/' | relative_url }}) technique is to search ele
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * “Assumption”
-* “Uncertainty” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ngfs.net/sites/default/files/medias/documents/ngfs_guide_scenario_analysis_final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ngfs.net">[ngfs.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ngfs.net</span><span class="citation-popover-snippet">Guide to climate scenario analysisJune 29, 2020 — This chapter sets out the main assumptions underpinning climate scenarios and some furt...</span><span class="citation-popover-meta">Published: June 29, 2020</span></span></span>
+* “Uncertainty”<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ngfs.net/sites/default/files/medias/documents/ngfs_guide_scenario_analysis_final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ngfs.net">[ngfs.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ngfs.net</span><span class="citation-popover-snippet">Guide to climate scenario analysisJune 29, 2020 — This chapter sets out the main assumptions underpinning climate scenarios and some furt...</span><span class="citation-popover-meta">Published: June 29, 2020</span></span></span>
 * “Scope”
 * “Conditional”
 * “Scenario”
@@ -313,7 +313,7 @@ A useful [skimming]({{ 'skimming/' | relative_url }}) technique is to search ele
 
 These terms frequently point directly to information that qualifies the recommendation.
 
-Consider a report recommending a major investment because projected benefits exceed costs. The recommendation may seem straightforward until a note reveals that the forecast assumes stable energy prices, continued demand growth, or unchanged regulation. If those assumptions are uncertain, the recommendation becomes conditional rather than definitive. Forecasting and scenario-analysis guidance repeatedly emphasises that projections depend on underlying assumptions and should not be interpreted as guaranteed outcomes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ngfs.net/sites/default/files/medias/documents/ngfs_guide_scenario_analysis_final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ngfs.net">[ngfs.net+2OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ngfs.net</span><span class="citation-popover-snippet">Guide to climate scenario analysisJune 29, 2020 — This chapter sets out the main assumptions underpinning climate scenarios and some furt...</span><span class="citation-popover-meta">Published: June 29, 2020</span></span></span>
+Consider a report recommending a major investment because projected benefits exceed costs. The recommendation may seem straightforward until a note reveals that the forecast assumes stable energy prices, continued demand growth, or unchanged regulation. If those assumptions are uncertain, the recommendation becomes conditional rather than definitive. Forecasting and scenario-analysis guidance repeatedly emphasises that projections depend on underlying assumptions and should not be interpreted as guaranteed outcomes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ngfs.net/sites/default/files/medias/documents/ngfs_guide_scenario_analysis_final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ngfs.net">[ngfs.net+2OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ngfs.net</span><span class="citation-popover-snippet">Guide to climate scenario analysisJune 29, 2020 — This chapter sets out the main assumptions underpinning climate scenarios and some furt...</span><span class="citation-popover-meta">Published: June 29, 2020</span></span></span>
 
 ## Assumptions That Deserve Close Reading
 
@@ -324,7 +324,7 @@ Not all assumptions are equally important. During a skim, focus on assumptions t
 
 ### Forecast Assumptions
 
-Forecast-based recommendations are especially vulnerable to hidden conditions. Economic, operational, environmental, and policy forecasts rely on [models]({{ 'models/' | relative_url }}) that simplify reality and incorporate judgement. Organisations that produce long-term scenarios routinely warn that projections are illustrations of possible futures rather than predictions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/oecd-global-long-run-economic-scenarios_00353678-en/full-report/component-4.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">component 4</span><span class="citation-popover-snippet">OECD global long-run economic scenarios: 2025 update4 Sept 2025 — This paper describes the latest update of the OECD&#x27;s long-term scen...</span></span></span>
+Forecast-based recommendations are especially vulnerable to hidden conditions. Economic, operational, environmental, and policy forecasts rely on [models]({{ 'models/' | relative_url }}) that simplify reality and incorporate judgement. Organisations that produce long-term scenarios routinely warn that projections are illustrations of possible futures rather than predictions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/oecd-global-long-run-economic-scenarios_00353678-en/full-report/component-4.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">component 4</span><span class="citation-popover-snippet">OECD global long-run economic scenarios: 2025 update4 Sept 2025 — This paper describes the latest update of the OECD&#x27;s long-term scen...</span></span></span>
 
 Questions to ask include:
 
@@ -357,7 +357,7 @@ Sometimes a recommendation rests on incomplete, outdated, or biased data.
 
 </div>
 
-Official guidance on communicating statistical quality and uncertainty stresses that limitations in data can directly affect the decisions users make from the findings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://analysisfunction.civilservice.gov.uk/policy-store/communicating-quality-uncertainty-and-change/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: analysisfunction.civilservice.gov.uk">[Government Analysis Function]</a><span class="citation-popover" role="note"><span class="citation-popover-source">analysisfunction.civilservice.gov.uk</span><span class="citation-popover-title">communicating quality uncertainty and change</span><span class="citation-popover-snippet">ernment Analysis FunctionCommunicating quality, uncertainty and change17 Dec 2018 — This guidance sets out principles on how to commun...</span></span></span>
+Official guidance on communicating statistical quality and uncertainty stresses that limitations in data can directly affect the decisions users make from the findings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://analysisfunction.civilservice.gov.uk/policy-store/communicating-quality-uncertainty-and-change/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: analysisfunction.civilservice.gov.uk">[Government Analysis Function]</a><span class="citation-popover" role="note"><span class="citation-popover-source">analysisfunction.civilservice.gov.uk</span><span class="citation-popover-title">communicating quality uncertainty and change</span><span class="citation-popover-snippet">ernment Analysis FunctionCommunicating quality, uncertainty and change17 Dec 2018 — This guidance sets out principles on how to commun...</span></span></span>
 
 A confident recommendation supported by weak evidence should be treated differently from an equally confident recommendation supported by extensive, reliable data.
 
@@ -399,7 +399,7 @@ A project justified by a narrow financial margin can become unattractive if esti
 
 A recommendation may remain beneficial on average while exposing decision-makers to unacceptable downside outcomes.
 
-Research and policy guidance on uncertainty repeatedly emphasise that decision-makers should not focus solely on central forecasts. Understanding ranges of possible outcomes and adverse scenarios is often more important than understanding the average prediction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.federalreserve.gov/econres/feds/files/2025073pap.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: federalreserve.gov">[Federal Reserve+2Office for Budget Responsibility]</a><span class="citation-popover" role="note"><span class="citation-popover-source">federalreserve.gov</span><span class="citation-popover-title">Federal Reserve Accounting for Uncertainty and Risks in Monetary Policy</span><span class="citation-popover-snippet">Federal ReserveAccounting for Uncertainty and Risks in Monetary PolicyAugust 21, 2025 — by M Bauer · 2025 · Cited by 7 — Fan charts based...</span><span class="citation-popover-meta">Published: August 21, 2025</span></span></span>
+Research and policy guidance on uncertainty repeatedly emphasise that decision-makers should not focus solely on central forecasts. Understanding ranges of possible outcomes and adverse scenarios is often more important than understanding the average prediction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.federalreserve.gov/econres/feds/files/2025073pap.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: federalreserve.gov">[Federal Reserve+2Office for Budget Responsibility]</a><span class="citation-popover" role="note"><span class="citation-popover-source">federalreserve.gov</span><span class="citation-popover-title">Federal Reserve Accounting for Uncertainty and Risks in Monetary Policy</span><span class="citation-popover-snippet">Federal ReserveAccounting for Uncertainty and Risks in Monetary PolicyAugust 21, 2025 — by M Bauer · 2025 · Cited by 7 — Fan charts based...</span><span class="citation-popover-meta">Published: August 21, 2025</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Sl4S3B3SrGs" title="How to Research and Evaluate Sources for a Report Step by Step" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Sl4S3B3SrGs" target="_blank" rel="noopener noreferrer">How to Research and Evaluate Sources for a Report Step by Step</a></p><p class="youtube-embed-meta">Channel: Dr. Whitney Kosters</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Sl4S3B3SrGs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Sl4S3B3SrGs">Open on YouTube</a></p></div></div></div>
@@ -422,11 +422,11 @@ This approach allows a reader to separate minor [technical]({{ 'technical-texts/
 <img src="{{ "/assets/images/increasing_re_852ca6_purpose_based_25e5d2_report_skimmi_a98d6b_report_caveat_244f60-Illustration-3-dark.svg" | relative_url }}" alt="Caveats illustration 3" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_purpose_based_25e5d2_report_skimmi_a98d6b_report_caveat_244f60-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_purpose_based_25e5d2_report_skimmi_a98d6b_report_caveat_244f60-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Confident Language Can Be Misleading
 
-One reason caveats are overlooked is that recommendations are often written in confident, action-oriented language. Decision-makers want clarity, and report writers frequently present conclusions in a concise, persuasive form. Executive summaries are specifically designed to communicate findings and recommendations quickly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://methodology.eca.europa.eu/aware/PA/Pages/Reporting/Executive-summary.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: methodology.eca.europa.eu">[ECA Methodology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">methodology.eca.europa.eu</span><span class="citation-popover-title">ECA Methodology Executive</span><span class="citation-popover-snippet">ECA MethodologyExecutive summary - Methodology11 Apr 2022 — An executive summary should use clear language to tell the reader quickly wha...</span></span></span>
+One reason caveats are overlooked is that recommendations are often written in confident, action-oriented language. Decision-makers want clarity, and report writers frequently present conclusions in a concise, persuasive form. Executive summaries are specifically designed to communicate findings and recommendations quickly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://methodology.eca.europa.eu/aware/PA/Pages/Reporting/Executive-summary.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: methodology.eca.europa.eu">[ECA Methodology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">methodology.eca.europa.eu</span><span class="citation-popover-title">ECA Methodology Executive</span><span class="citation-popover-snippet">ECA MethodologyExecutive summary - Methodology11 Apr 2022 — An executive summary should use clear language to tell the reader quickly wha...</span></span></span>
 
 The confidence of the wording, however, does not necessarily reflect the certainty of the evidence.
 
-In areas such as forecasting, climate analysis, economic modelling, and risk assessment, experts regularly note that outcomes remain conditional on assumptions and that uncertainty cannot be eliminated. Models may omit important factors, future conditions may change, and unexpected events may invalidate projections. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metoffice.gov.uk/binaries/content/assets/metofficegovuk/pdf/research/ukcp/ukcp18-guidance---caveats-and-limitations.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metoffice.gov.uk">[OECD+3Met Office+3Actuaries Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metoffice.gov.uk</span><span class="citation-popover-title">Met Office UKCP18 Guidance: Caveats and limitations</span><span class="citation-popover-snippet">2. Climate projections are dependent on future greenhouse gases assumptions. 3. Estimated ranges for future climate are conditional.Read...</span></span></span>
+In areas such as forecasting, climate analysis, economic modelling, and risk assessment, experts regularly note that outcomes remain conditional on assumptions and that uncertainty cannot be eliminated. Models may omit important factors, future conditions may change, and unexpected events may invalidate projections.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metoffice.gov.uk/binaries/content/assets/metofficegovuk/pdf/research/ukcp/ukcp18-guidance---caveats-and-limitations.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metoffice.gov.uk">[OECD+3Met Office+3Actuaries Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metoffice.gov.uk</span><span class="citation-popover-title">Met Office UKCP18 Guidance: Caveats and limitations</span><span class="citation-popover-snippet">2. Climate projections are dependent on future greenhouse gases assumptions. 3. Estimated ranges for future climate are conditional.Read...</span></span></span>
 
 A useful habit is to treat strong recommendations and strong caveats as equally important pieces of information.
 
@@ -448,7 +448,7 @@ Slow down when you encounter caveats involving:
 
 </div>
 
-Government, scientific, and analytical guidance consistently argues that transparent discussion of uncertainty improves decision quality because it helps users understand where confidence is justified and where caution is warranted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://analysisfunction.civilservice.gov.uk/policy-store/communicating-quality-uncertainty-and-change/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: analysisfunction.civilservice.gov.uk">[Government Analysis Function+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">analysisfunction.civilservice.gov.uk</span><span class="citation-popover-title">communicating quality uncertainty and change</span><span class="citation-popover-snippet">ernment Analysis FunctionCommunicating quality, uncertainty and change17 Dec 2018 — This guidance sets out principles on how to commun...</span></span></span>
+Government, scientific, and analytical guidance consistently argues that transparent discussion of uncertainty improves decision quality because it helps users understand where confidence is justified and where caution is warranted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://analysisfunction.civilservice.gov.uk/policy-store/communicating-quality-uncertainty-and-change/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: analysisfunction.civilservice.gov.uk">[Government Analysis Function+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">analysisfunction.civilservice.gov.uk</span><span class="citation-popover-title">communicating quality uncertainty and change</span><span class="citation-popover-snippet">ernment Analysis FunctionCommunicating quality, uncertainty and change17 Dec 2018 — This guidance sets out principles on how to commun...</span></span></span>
 
 For a reader trying to increase reading speed, this is one of the highest-value checks available. A few minutes spent locating limitations can prevent hours of work—and expensive decisions—from being guided by a recommendation that only works under conditions that may never occur.
 
@@ -457,194 +457,194 @@ For a reader trying to increase reading speed, this is one of the highest-value 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Small Caveat That Changes the Report. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Small Caveat That Changes the Report. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
-        </h4>
-        <p class="fr-book-author">By Nate Silver</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+</h4>
+<p class="fr-book-author">By Nate Silver</p>
         
-        <p class="fr-book-desc">Explains uncertainty, caveats, and predictive limitations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains uncertainty, caveats, and predictive limitations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Highlights biases, assumptions, and limits in evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights biases, assumptions, and limits in evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Measure Anything on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=EAPXAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Measure Anything" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Measure Anything">How to Measure Anything</a>
-        </h4>
-        <p class="fr-book-author">By Douglas W. Hubbard</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Measure Anything on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=EAPXAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Measure Anything" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Measure Anything">How to Measure Anything</a>
+</h4>
+<p class="fr-book-author">By Douglas W. Hubbard</p>
         
-        <p class="fr-book-desc">Teaches careful evaluation of assumptions and evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Teaches careful evaluation of assumptions and evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
-        </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rxg0tgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+</h4>
+<p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
         
-        <p class="fr-book-desc">Encourages scrutiny of claims and supporting data.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages scrutiny of claims and supporting data.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Measure+Anything&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Measure Anything</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Measure+Anything&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Measure Anything</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 Take That Poster"><img src="{{ '/assets/images/marketplace-covers/12cc66c9c630e76f785f.jpg' | relative_url }}" alt="Listing image for Large A3 Take That Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Large A3 Take That Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for that poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: that poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 Take That Poster"><img src="{{ '/assets/images/marketplace-covers/12cc66c9c630e76f785f.jpg' | relative_url }}" alt="Listing image for Large A3 Take That Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Large A3 Take That Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for that poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: that poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 Take That Poster"><img src="{{ '/assets/images/marketplace-covers/882c029ae826dfc3772e.jpg' | relative_url }}" alt="Listing image for Large A3 Take That Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Large A3 Take That Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for that poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: that poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 Take That Poster"><img src="{{ '/assets/images/marketplace-covers/882c029ae826dfc3772e.jpg' | relative_url }}" alt="Listing image for Large A3 Take That Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Large A3 Take That Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for that poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: that poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Take That Music Poster The Circus Summer Tour 2026 Promotional Tour Gig Poster"><img src="{{ '/assets/images/marketplace-covers/8447e39577d6f74e5f28.jpg' | relative_url }}" alt="Listing image for Take That Music Poster The Circus Summer Tour 2026 Promotional Tour Gig Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Take That Music Poster The Circus Summer Tour 2026 Promotional Tour Gig Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for that poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: that poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Take That Music Poster The Circus Summer Tour 2026 Promotional Tour Gig Poster"><img src="{{ '/assets/images/marketplace-covers/8447e39577d6f74e5f28.jpg' | relative_url }}" alt="Listing image for Take That Music Poster The Circus Summer Tour 2026 Promotional Tour Gig Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Take That Music Poster The Circus Summer Tour 2026 Promotional Tour Gig Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for that poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: that poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 Take That Poster"><img src="{{ '/assets/images/marketplace-covers/4e3daf9f35bf883cfa2b.jpg' | relative_url }}" alt="Listing image for Large A3 Take That Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Large A3 Take That Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for that poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: that poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 Take That Poster"><img src="{{ '/assets/images/marketplace-covers/4e3daf9f35bf883cfa2b.jpg' | relative_url }}" alt="Listing image for Large A3 Take That Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Large A3 Take That Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for that poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: that poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="caveats-the-small-caveat-that-changes-the-report-increasing-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -660,7 +660,7 @@ For a reader trying to increase reading speed, this is one of the highest-value 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -680,7 +680,7 @@ For a reader trying to increase reading speed, this is one of the highest-value 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -712,7 +712,7 @@ For a reader trying to increase reading speed, this is one of the highest-value 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -764,7 +764,7 @@ For a reader trying to increase reading speed, this is one of the highest-value 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -809,7 +809,7 @@ For a reader trying to increase reading speed, this is one of the highest-value 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -850,152 +850,152 @@ For a reader trying to increase reading speed, this is one of the highest-value 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: GOV.UK  
    Title: The AQu A Book  
-   Link: <a href="https://www.gov.uk/guidance/the-aqua-book" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/the-aqua-book</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The AQuA BookJuly 30, 2025 — 30 Jul 2025 — The AQuA Book is Government guidance about how to produce robust, fit for purpose analysis. It...</p></details>
+   Link:<a href="https://www.gov.uk/guidance/the-aqua-book" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/the-aqua-book</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The AQuA BookJuly 30, 2025 — 30 Jul 2025 — The AQuA Book is Government guidance about how to produce robust, fit for purpose analysis. It...</p></details>
    Published: July 30, 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: analysisfunction.civilservice.gov.uk  
    Title: communicating quality uncertainty and change  
-   Link: <a href="https://analysisfunction.civilservice.gov.uk/policy-store/communicating-quality-uncertainty-and-change/" target="_blank" rel="noopener noreferrer nofollow">https://analysisfunction.civilservice.gov.uk/policy-store/communicating-quality-uncertainty-and-change/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ernment Analysis FunctionCommunicating quality, uncertainty and change17 Dec 2018 — This guidance sets out principles on how to commun...</p></details>
+   Link:<a href="https://analysisfunction.civilservice.gov.uk/policy-store/communicating-quality-uncertainty-and-change/" target="_blank" rel="noopener noreferrer nofollow">https://analysisfunction.civilservice.gov.uk/policy-store/communicating-quality-uncertainty-and-change/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ernment Analysis FunctionCommunicating quality, uncertainty and change17 Dec 2018 — This guidance sets out principles on how to commun...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ngfs.net  
-   Link: <a href="https://www.ngfs.net/sites/default/files/medias/documents/ngfs_guide_scenario_analysis_final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ngfs.net/sites/default/files/medias/documents/ngfs_guide_scenario_analysis_final.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Guide to climate scenario analysisJune 29, 2020 — This chapter sets out the main assumptions underpinning climate scenarios and some furt...</p></details>
+   Link:<a href="https://www.ngfs.net/sites/default/files/medias/documents/ngfs_guide_scenario_analysis_final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ngfs.net/sites/default/files/medias/documents/ngfs_guide_scenario_analysis_final.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Guide to climate scenario analysisJune 29, 2020 — This chapter sets out the main assumptions underpinning climate scenarios and some furt...</p></details>
    Published: June 29, 2020  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: oecd.org  
-   Link: <a href="https://www.oecd.org/en/publications/migration-anticipation-and-preparedness_4161131f-en/full-report/how-should-forecasts-be-presented-to-policymakers-and-ensure-effective-interaction-between-policymaking-and-forecasting_d628ebf3.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/migration-anticipation-and-preparedness_4161131f-en/full-report/how-should-forecasts-be-presented-to-policymakers-and-ensure-effective-interaction-between-policymaking-and-forecasting_d628ebf3.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
+   Link:<a href="https://www.oecd.org/en/publications/migration-anticipation-and-preparedness_4161131f-en/full-report/how-should-forecasts-be-presented-to-policymakers-and-ensure-effective-interaction-between-policymaking-and-forecasting_d628ebf3.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/migration-anticipation-and-preparedness_4161131f-en/full-report/how-should-forecasts-be-presented-to-policymakers-and-ensure-effective-interaction-between-policymaking-and-forecasting_d628ebf3.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: oecd.org  
    Title: component 4  
-   Link: <a href="https://www.oecd.org/en/publications/oecd-global-long-run-economic-scenarios_00353678-en/full-report/component-4.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/oecd-global-long-run-economic-scenarios_00353678-en/full-report/component-4.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OECD global long-run economic scenarios: 2025 update4 Sept 2025 — This paper describes the latest update of the OECD&#x27;s long-term scen...</p></details>
+   Link:<a href="https://www.oecd.org/en/publications/oecd-global-long-run-economic-scenarios_00353678-en/full-report/component-4.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/oecd-global-long-run-economic-scenarios_00353678-en/full-report/component-4.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OECD global long-run economic scenarios: 2025 update4 Sept 2025 — This paper describes the latest update of the OECD&#x27;s long-term scen...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: metoffice.gov.uk  
    Title: Met Office UKCP18 Guidance: Caveats and limitations  
-   Link: <a href="https://www.metoffice.gov.uk/binaries/content/assets/metofficegovuk/pdf/research/ukcp/ukcp18-guidance---caveats-and-limitations.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/binaries/content/assets/metofficegovuk/pdf/research/ukcp/ukcp18-guidance---caveats-and-limitations.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2. Climate projections are dependent on future greenhouse gases assumptions. 3. Estimated ranges for future climate are conditional.Read...</p></details>
+   Link:<a href="https://www.metoffice.gov.uk/binaries/content/assets/metofficegovuk/pdf/research/ukcp/ukcp18-guidance---caveats-and-limitations.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/binaries/content/assets/metofficegovuk/pdf/research/ukcp/ukcp18-guidance---caveats-and-limitations.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2. Climate projections are dependent on future greenhouse gases assumptions. 3. Estimated ranges for future climate are conditional.Read...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: actuaries.blog.gov.uk  
    Title: Actuaries Blog Uncertainty in climate analysis  
-   Link: <a href="https://actuaries.blog.gov.uk/2025/01/28/uncertainty-in-climate-analysis/" target="_blank" rel="noopener noreferrer nofollow">https://actuaries.blog.gov.uk/2025/01/28/uncertainty-in-climate-analysis/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Actuaries BlogUncertainty in climate analysis - Actuaries in government28 Jan 2025 — Recognising and clearly articulating uncertainties i...</p></details>
+   Link:<a href="https://actuaries.blog.gov.uk/2025/01/28/uncertainty-in-climate-analysis/" target="_blank" rel="noopener noreferrer nofollow">https://actuaries.blog.gov.uk/2025/01/28/uncertainty-in-climate-analysis/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Actuaries BlogUncertainty in climate analysis - Actuaries in government28 Jan 2025 — Recognising and clearly articulating uncertainties i...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: oecd.org  
    Title: objective economic assumptions 89a8cd99  
-   Link: <a href="https://www.oecd.org/en/publications/quality-budget-institutions_8e811202-en/full-report/objective-economic-assumptions_89a8cd99.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/quality-budget-institutions_8e811202-en/full-report/objective-economic-assumptions_89a8cd99.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>These are prepared using assumptions about how the economy will shape the public...Read more...</p></details>
+   Link:<a href="https://www.oecd.org/en/publications/quality-budget-institutions_8e811202-en/full-report/objective-economic-assumptions_89a8cd99.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/quality-budget-institutions_8e811202-en/full-report/objective-economic-assumptions_89a8cd99.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These are prepared using assumptions about how the economy will shape the public...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7292191/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7292191/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>on Communication of Uncertainty in Scientific...by EFS Authority · 2019 · Cited by 137 — This document provides guidance for communicato...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7292191/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7292191/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on Communication of Uncertainty in Scientific...by EFS Authority · 2019 · Cited by 137 — This document provides guidance for communicato...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: methodology.eca.europa.eu  
    Title: ECA Methodology Executive  
-   Link: <a href="https://methodology.eca.europa.eu/aware/PA/Pages/Reporting/Executive-summary.aspx" target="_blank" rel="noopener noreferrer nofollow">https://methodology.eca.europa.eu/aware/PA/Pages/Reporting/Executive-summary.aspx</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ECA MethodologyExecutive summary - Methodology11 Apr 2022 — An executive summary should use clear language to tell the reader quickly wha...</p></details>
+   Link:<a href="https://methodology.eca.europa.eu/aware/PA/Pages/Reporting/Executive-summary.aspx" target="_blank" rel="noopener noreferrer nofollow">https://methodology.eca.europa.eu/aware/PA/Pages/Reporting/Executive-summary.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ECA MethodologyExecutive summary - Methodology11 Apr 2022 — An executive summary should use clear language to tell the reader quickly wha...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ecb.europa.eu  
-   Link: <a href="https://www.ecb.europa.eu/press/blog/date/2025/html/ecb.blog.20250115~f016f263dd.en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ecb.europa.eu/press/blog/date/2025/html/ecb.blog.20250115~f016f263dd.en.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>European Central BankExploring an uncertain future with the help of scenarios15 Jan 2025 — The ECB Blog explains how scenario, risk and s...</p></details>
+   Link:<a href="https://www.ecb.europa.eu/press/blog/date/2025/html/ecb.blog.20250115~f016f263dd.en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ecb.europa.eu/press/blog/date/2025/html/ecb.blog.20250115~f016f263dd.en.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>European Central BankExploring an uncertain future with the help of scenarios15 Jan 2025 — The ECB Blog explains how scenario, risk and s...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: federalreserve.gov  
    Title: Federal Reserve Accounting for Uncertainty and Risks in Monetary Policy  
-   Link: <a href="https://www.federalreserve.gov/econres/feds/files/2025073pap.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.federalreserve.gov/econres/feds/files/2025073pap.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal ReserveAccounting for Uncertainty and Risks in Monetary PolicyAugust 21, 2025 — by M Bauer · 2025 · Cited by 7 — Fan charts based...</p></details>
+   Link:<a href="https://www.federalreserve.gov/econres/feds/files/2025073pap.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.federalreserve.gov/econres/feds/files/2025073pap.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal ReserveAccounting for Uncertainty and Risks in Monetary PolicyAugust 21, 2025 — by M Bauer · 2025 · Cited by 7 — Fan charts based...</p></details>
    Published: August 21, 2025  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: obr.uk  
-   Link: <a href="https://obr.uk/docs/dlm_uploads/working_paper_no17_uncertainty.pdf" target="_blank" rel="noopener noreferrer nofollow">https://obr.uk/docs/dlm_uploads/working_paper_no17_uncertainty.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Currently at the OBR we use a variety of approaches to illustrate uncertainty around our central forecasts. This paper adds stochastic si...</p></details>
+   Link:<a href="https://obr.uk/docs/dlm_uploads/working_paper_no17_uncertainty.pdf" target="_blank" rel="noopener noreferrer nofollow">https://obr.uk/docs/dlm_uploads/working_paper_no17_uncertainty.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Currently at the OBR we use a variety of approaches to illustrate uncertainty around our central forecasts. This paper adds stochastic si...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: yellowbook-cpe.com  
    Title: executive summaries  
-   Link: <a href="https://yellowbook-cpe.com/executive-summaries.html" target="_blank" rel="noopener noreferrer nofollow">https://yellowbook-cpe.com/executive-summaries.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>29 Sept 2023 — Using executive summaries in your audit reports cuts through the details so your reader gets to the main message fast...</p></details>
+   Link:<a href="https://yellowbook-cpe.com/executive-summaries.html" target="_blank" rel="noopener noreferrer nofollow">https://yellowbook-cpe.com/executive-summaries.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>29 Sept 2023 — Using executive summaries in your audit reports cuts through the details so your reader gets to the main message fast...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: frbsf.org  
    Title: wp2025 19  
-   Link: <a href="https://www.frbsf.org/wp-content/uploads/wp2025-19.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.frbsf.org/wp-content/uploads/wp2025-19.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Reserve Bank of San FranciscoAccounting for Uncertainty and Risks in Monetary Policyby M Bauer · 2025 · Cited by 7 — Abstract: Th...</p></details>
+   Link:<a href="https://www.frbsf.org/wp-content/uploads/wp2025-19.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.frbsf.org/wp-content/uploads/wp2025-19.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Reserve Bank of San FranciscoAccounting for Uncertainty and Risks in Monetary Policyby M Bauer · 2025 · Cited by 7 — Abstract: Th...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: data.europa.eu  
-   Link: <a href="https://data.europa.eu/sites/default/files/course/7.2_VisualizingUncertainty.pdf" target="_blank" rel="noopener noreferrer nofollow">https://data.europa.eu/sites/default/files/course/7.2_VisualizingUncertainty.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>uncertaintySeveral studies explore how visualisation affects cognitive strategies for dealing with uncertainty, and find that visualisati...</p></details>
+   Link:<a href="https://data.europa.eu/sites/default/files/course/7.2_VisualizingUncertainty.pdf" target="_blank" rel="noopener noreferrer nofollow">https://data.europa.eu/sites/default/files/course/7.2_VisualizingUncertainty.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>uncertaintySeveral studies explore how visualisation affects cognitive strategies for dealing with uncertainty, and find that visualisati...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: theiia.org  
-   Link: <a href="https://www.theiia.org/globalassets/site/auditing-report-writing-toolkit.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.theiia.org/globalassets/site/auditing-report-writing-toolkit.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Audit Report Writing ToolkitFinal written internal audit reports or executive summaries may be provided to the board at the conclusion of...</p></details>
+   Link:<a href="https://www.theiia.org/globalassets/site/auditing-report-writing-toolkit.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.theiia.org/globalassets/site/auditing-report-writing-toolkit.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Audit Report Writing ToolkitFinal written internal audit reports or executive summaries may be provided to the board at the conclusion of...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ghgprotocol.org  
-   Link: <a href="https://ghgprotocol.org/sites/default/files/2023-03/ghg-uncertainty.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ghgprotocol.org/sites/default/files/2023-03/ghg-uncertainty.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>proper interpretation of uncertainty requires a discussion of such limitations and ample caveats for any quantitative uncertainty estimat...</p></details>
+   Link:<a href="https://ghgprotocol.org/sites/default/files/2023-03/ghg-uncertainty.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ghgprotocol.org/sites/default/files/2023-03/ghg-uncertainty.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>proper interpretation of uncertainty requires a discussion of such limitations and ample caveats for any quantitative uncertainty estimat...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: learninternalaudit.com  
-   Link: <a href="https://www.learninternalaudit.com/effective-internal-audit-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.learninternalaudit.com/effective-internal-audit-report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Elements Of Effective Internal Audit Report: Structure, Style...30 Jun 2025 — An audit report is only as useful as it is readable...</p></details>
+   Link:<a href="https://www.learninternalaudit.com/effective-internal-audit-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.learninternalaudit.com/effective-internal-audit-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10 Elements Of Effective Internal Audit Report: Structure, Style...30 Jun 2025 — An audit report is only as useful as it is readable...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: aurorafinancials.com  
-   Link: <a href="https://aurorafinancials.com/executive-summaries-in-audit-reports-getting-them-right/" target="_blank" rel="noopener noreferrer nofollow">https://aurorafinancials.com/executive-summaries-in-audit-reports-getting-them-right/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>· Highlights high-risk areas and compliance gaps. · Summarizes recommendations that require...Read more...</p></details>
+   Link:<a href="https://aurorafinancials.com/executive-summaries-in-audit-reports-getting-them-right/" target="_blank" rel="noopener noreferrer nofollow">https://aurorafinancials.com/executive-summaries-in-audit-reports-getting-them-right/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>· Highlights high-risk areas and compliance gaps. · Summarizes recommendations that require...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: findanomaly.ai  
-   Link: <a href="https://www.findanomaly.ai/executive-summaries-source-backed-logic" target="_blank" rel="noopener noreferrer nofollow">https://www.findanomaly.ai/executive-summaries-source-backed-logic</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a source metric, assumption, caveat, and next action so clients read and...</p></details>
+   Link:<a href="https://www.findanomaly.ai/executive-summaries-source-backed-logic" target="_blank" rel="noopener noreferrer nofollow">https://www.findanomaly.ai/executive-summaries-source-backed-logic</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a source metric, assumption, caveat, and next action so clients read and...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: ccmonet.ai  
    Title: guide to effective audit report preparation  
-   Link: <a href="https://www.ccmonet.ai/blog/guide-to-effective-audit-report-preparation" target="_blank" rel="noopener noreferrer nofollow">https://www.ccmonet.ai/blog/guide-to-effective-audit-report-preparation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>14 May 2025 — The executive summary gives a brief overview of the audit&#x27;s key findings and recommendations. It includes risk ratings and...</p></details>
+   Link:<a href="https://www.ccmonet.ai/blog/guide-to-effective-audit-report-preparation" target="_blank" rel="noopener noreferrer nofollow">https://www.ccmonet.ai/blog/guide-to-effective-audit-report-preparation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>14 May 2025 — The executive summary gives a brief overview of the audit&#x27;s key findings and recommendations. It includes risk ratings and...</p></details>
    Published: May 2025  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: researchgate.net  
    Title: 342356597 Managing uncertainty Principles for improved decision making  
-   Link: <a href="https://www.researchgate.net/publication/342356597_Managing_uncertainty_Principles_for_improved_decision_making" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342356597_Managing_uncertainty_Principles_for_improved_decision_making</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This report is aimed at both decision makers and their advisors. While the context...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/342356597_Managing_uncertainty_Principles_for_improved_decision_making" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342356597_Managing_uncertainty_Principles_for_improved_decision_making</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This report is aimed at both decision makers and their advisors. While the context...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtu.be  
-   Link: <a href="https://youtu.be/IpiYE2JEZeg" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/IpiYE2JEZeg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Watch my video on &quot;How to Find and Evaluate Credible Sources&quot;: [https://youtu.be/OH6zIwGuEIY...&quot;](https://youtu.be/OH6zIwGuEIY...&quot;)...</p></details>
+   Link:<a href="https://youtu.be/IpiYE2JEZeg" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/IpiYE2JEZeg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Watch my video on &quot;How to Find and Evaluate Credible Sources&quot;: [https://youtu.be/OH6zIwGuEIY...&quot;](https://youtu.be/OH6zIwGuEIY...&quot;)...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: Check out my playlist on lectures on the short story  
-   Link: <a href="https://www.youtube.com/watch?v=xvUPxIrMtO4&amp;list=PLrhV674J9MHpJ6gWob7H_lfs4PFpugzVk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xvUPxIrMtO4&amp;list=PLrhV674J9MHpJ6gWob7H_lfs4PFpugzVk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Check out my playlist on &quot;Lectures on Writing, Rhetoric, and Research&quot; here: [https://youtube.com/playlist?list=PLrhV674J9MHrcYvh6Gwn5Z4K4...&quot;](https://youtube.com/playlist?list=PLrhV674J9MHrcYvh6Gwn5Z4K4...&quot;)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xvUPxIrMtO4&amp;list=PLrhV674J9MHpJ6gWob7H_lfs4PFpugzVk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xvUPxIrMtO4&amp;list=PLrhV674J9MHpJ6gWob7H_lfs4PFpugzVk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Check out my playlist on &quot;Lectures on Writing, Rhetoric, and Research&quot; here: [https://youtube.com/playlist?list=PLrhV674J9MHrcYvh6Gwn5Z4K4...&quot;](https://youtube.com/playlist?list=PLrhV674J9MHrcYvh6Gwn5Z4K4...&quot;)...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: diligent.com  
    Title: What is an audit report?  
-   Link: <a href="https://www.diligent.com/resources/blog/understanding-four-types-audit-reports" target="_blank" rel="noopener noreferrer nofollow">https://www.diligent.com/resources/blog/understanding-four-types-audit-reports</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 4 types of...16 Jun 2025 — Executive summary: The auditor briefly summarizes the audit results and their opinion. Opinion: Following...</p></details>
+   Link:<a href="https://www.diligent.com/resources/blog/understanding-four-types-audit-reports" target="_blank" rel="noopener noreferrer nofollow">https://www.diligent.com/resources/blog/understanding-four-types-audit-reports</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 4 types of...16 Jun 2025 — Executive summary: The auditor briefly summarizes the audit results and their opinion. Opinion: Following...</p></details>

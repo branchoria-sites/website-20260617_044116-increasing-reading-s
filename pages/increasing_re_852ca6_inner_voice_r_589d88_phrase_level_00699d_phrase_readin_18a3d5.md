@@ -273,7 +273,7 @@ image: /assets/images/increasing_re_852ca6_inner_voice_r_589d88_phrase_level_006
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_inner_voice_r_589d88_phrase_level_00699d_phrase_readin_18a3d5-Illustration-1-dark.svg" | relative_url }}" alt="Failure Cases illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_inner_voice_r_589d88_phrase_level_00699d_phrase_readin_18a3d5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_inner_voice_r_589d88_phrase_level_00699d_phrase_readin_18a3d5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The key skill is not learning to read everything faster. It is learning when to switch modes. A reader who automatically applies phrase-level reading to [legal clauses]({{ 'legal-wording/' | relative_url }}), mathematical proofs, poetry, or unfamiliar language may miss distinctions that carry most of the meaning. Research on silent reading consistently shows that phonological processing—the sound-related aspect of language—continues to contribute to comprehension, especially when the text becomes difficult, ambiguous, or unusually precise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPhonological coding during reading</span><span class="citation-popover-snippet">The exact role that phonological coding (the recoding of written, orthographic information into a sound based code) plays during silent r...</span></span></span>
+The key skill is not learning to read everything faster. It is learning when to switch modes. A reader who automatically applies phrase-level reading to [legal clauses]({{ 'legal-wording/' | relative_url }}), mathematical proofs, poetry, or unfamiliar language may miss distinctions that carry most of the meaning. Research on silent reading consistently shows that phonological processing—the sound-related aspect of language—continues to contribute to comprehension, especially when the text becomes difficult, ambiguous, or unusually precise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPhonological coding during reading</span><span class="citation-popover-snippet">The exact role that phonological coding (the recoding of written, orthographic information into a sound based code) plays during silent r...</span></span></span>
 
 ## Why precise wording changes the reading task
 
@@ -287,9 +287,9 @@ Consider the difference between:
 * "must terminate"
 * "may not terminate"
 
-A phrase reader might recognise the general topic and move on. A careful reader must inspect each word because the legal consequences differ substantially. Legal language is deliberately built around such distinctions, and studies of legal-document reading show that readers spend more time on difficult clauses and vary greatly in how they process them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aclanthology.org/2024.determit-1.11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aclanthology.org">[ACL Anthology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aclanthology.org</span><span class="citation-popover-title">ACL Anthology Legal Text Reader Profiling: Evidences from Eye Tracking</span><span class="citation-popover-snippet">ACL AnthologyLegal Text Reader Profiling: Evidences from Eye Tracking...April 5, 2024 — by CJ Scozzaro · 2024 · Cited by 3 — We propose...</span><span class="citation-popover-meta">Published: April 5, 2024</span></span></span>
+A phrase reader might recognise the general topic and move on. A careful reader must inspect each word because the legal consequences differ substantially. Legal language is deliberately built around such distinctions, and studies of legal-document reading show that readers spend more time on difficult clauses and vary greatly in how they process them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aclanthology.org/2024.determit-1.11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aclanthology.org">[ACL Anthology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aclanthology.org</span><span class="citation-popover-title">ACL Anthology Legal Text Reader Profiling: Evidences from Eye Tracking</span><span class="citation-popover-snippet">ACL AnthologyLegal Text Reader Profiling: Evidences from Eye Tracking...April 5, 2024 — by CJ Scozzaro · 2024 · Cited by 3 — We propose...</span><span class="citation-popover-meta">Published: April 5, 2024</span></span></span>
 
-Research on phonological coding also suggests that sound-based representations remain active during silent reading and help support accurate interpretation when comprehension becomes demanding. Rather than disappearing, inner speech often becomes more prominent when readers encounter material that requires closer analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPhonological coding during reading</span><span class="citation-popover-snippet">The exact role that phonological coding (the recoding of written, orthographic information into a sound based code) plays during silent r...</span></span></span>
+Research on phonological coding also suggests that sound-based representations remain active during silent reading and help support accurate interpretation when comprehension becomes demanding. Rather than disappearing, inner speech often becomes more prominent when readers encounter material that requires closer analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPhonological coding during reading</span><span class="citation-popover-snippet">The exact role that phonological coding (the recoding of written, orthographic information into a sound based code) plays during silent r...</span></span></span>
 
 ## Text types that reward slower inner speech
 
@@ -297,7 +297,7 @@ Research on phonological coding also suggests that sound-based representations r
 
 Poetry often packs meaning into sound, rhythm, line breaks, and word choice. The reader is not merely extracting information; they are interpreting how language is arranged.
 
-[Eye-tracking]({{ 'eye-tracking/' | relative_url }}) research on poetry shows that formal features such as metre and rhyme influence silent reading behaviour. Readers spend time processing patterns that would be largely invisible to a purely phrase-oriented approach. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8557949/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Rhythmic subvocalization: An eye-tracking study on silent...by J Beck · 2021 · Cited by 22 — The present study investigates effects o...</span></span></span>
+[Eye-tracking]({{ 'eye-tracking/' | relative_url }}) research on poetry shows that formal features such as metre and rhyme influence silent reading behaviour. Readers spend time processing patterns that would be largely invisible to a purely phrase-oriented approach.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8557949/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Rhythmic subvocalization: An eye-tracking study on silent...by J Beck · 2021 · Cited by 22 — The present study investigates effects o...</span></span></span>
 
 For example, in a poem, replacing one synonym with another may preserve dictionary meaning while changing rhythm, emphasis, or emotional effect. Fast phrase reading can capture the topic of a poem while missing much of what makes it poetry.
 
@@ -310,7 +310,7 @@ This is one reason literary scholars often engage in close reading. The goal is 
 
 Legal texts are designed to be interpreted with precision. Small linguistic differences can create different rights, obligations, and [exceptions]({{ 'exceptions/' | relative_url }}).
 
-Research into legal-document reading highlights the difficulty readers have with legal language and the importance of careful comprehension. Legal specialists frequently analyse clauses word by word because apparently minor modifiers, conditions, and references can alter meaning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aclanthology.org/2024.determit-1.11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aclanthology.org">[ACL Anthology+2Tidsskrift]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aclanthology.org</span><span class="citation-popover-title">ACL Anthology Legal Text Reader Profiling: Evidences from Eye Tracking</span><span class="citation-popover-snippet">ACL AnthologyLegal Text Reader Profiling: Evidences from Eye Tracking...April 5, 2024 — by CJ Scozzaro · 2024 · Cited by 3 — We propose...</span><span class="citation-popover-meta">Published: April 5, 2024</span></span></span>
+Research into legal-document reading highlights the difficulty readers have with legal language and the importance of careful comprehension. Legal specialists frequently analyse clauses word by word because apparently minor modifiers, conditions, and references can alter meaning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aclanthology.org/2024.determit-1.11.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aclanthology.org">[ACL Anthology+2Tidsskrift]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aclanthology.org</span><span class="citation-popover-title">ACL Anthology Legal Text Reader Profiling: Evidences from Eye Tracking</span><span class="citation-popover-snippet">ACL AnthologyLegal Text Reader Profiling: Evidences from Eye Tracking...April 5, 2024 — by CJ Scozzaro · 2024 · Cited by 3 — We propose...</span><span class="citation-popover-meta">Published: April 5, 2024</span></span></span>
 
 In these situations, phrase-level reading can create a dangerous illusion of understanding. A reader may feel fluent because the text is moving quickly while overlooking critical qualifications such as:
 
@@ -328,7 +328,7 @@ Mathematical proofs are another common failure case.
 
 The difficulty in reading a proof is usually not recognising the words. It is following the logical dependencies between statements. A single assumption, quantifier, or inference step can determine whether the argument succeeds.
 
-Readers often discover that their pace slows naturally when a proof introduces a crucial step. The bottleneck is not vocal speed but reasoning speed. Understanding requires holding relationships in working memory and verifying each transition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://calnewport.com/my-deliberate-quest-to-read-proofs-faster/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calnewport.com">[Cal Newport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calnewport.com</span><span class="citation-popover-title">Cal Newport My Deliberate Quest to Read Proofs Faster</span><span class="citation-popover-snippet">Cal NewportMy Deliberate Quest to Read Proofs FasterJune 16, 2014 — 16 Jun 2014 — The reason why people read proofs slowly is not because...</span><span class="citation-popover-meta">Published: June 16, 2014</span></span></span>
+Readers often discover that their pace slows naturally when a proof introduces a crucial step. The bottleneck is not vocal speed but reasoning speed. Understanding requires holding relationships in working memory and verifying each transition.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://calnewport.com/my-deliberate-quest-to-read-proofs-faster/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calnewport.com">[Cal Newport]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calnewport.com</span><span class="citation-popover-title">Cal Newport My Deliberate Quest to Read Proofs Faster</span><span class="citation-popover-snippet">Cal NewportMy Deliberate Quest to Read Proofs FasterJune 16, 2014 — 16 Jun 2014 — The reason why people read proofs slowly is not because...</span><span class="citation-popover-meta">Published: June 16, 2014</span></span></span>
 
 A phrase-level approach may allow rapid [scanning]({{ 'scanning-vs-reading/' | relative_url }}) of familiar sections, but key passages usually demand deliberate inspection and occasional rereading.
 
@@ -338,7 +338,7 @@ A phrase-level approach may allow rapid [scanning]({{ 'scanning-vs-reading/' | r
 
 Dense technical writing often introduces unfamiliar terminology, precise definitions, or layered causal explanations.
 
-Research on comprehension in science education suggests that linguistic complexity can influence how successfully readers understand technical material. When terminology and sentence structure become demanding, readers benefit from slowing down and checking interpretation rather than relying on rapid chunk recognition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s10763-022-10306-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">Challenging to Read, Easy to Comprehend?</span><span class="citation-popover-snippet">Effects of...by T Hackemann · 2022 · Cited by 37 — The present study investigates whether the linguistic demands of expository text affe...</span></span></span>
+Research on comprehension in science education suggests that linguistic complexity can influence how successfully readers understand technical material. When terminology and sentence structure become demanding, readers benefit from slowing down and checking interpretation rather than relying on rapid chunk recognition.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s10763-022-10306-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">Challenging to Read, Easy to Comprehend?</span><span class="citation-popover-snippet">Effects of...by T Hackemann · 2022 · Cited by 37 — The present study investigates whether the linguistic demands of expository text affe...</span></span></span>
 
 A phrase reader may understand the general topic of a paragraph while missing a critical distinction between correlation and causation, hypothesis and conclusion, or condition and result.
 
@@ -346,7 +346,7 @@ A phrase reader may understand the general topic of a paragraph while missing a 
 
 Phrase reading depends heavily on prediction. Experienced readers recognise common patterns and anticipate what comes next.
 
-When reading in a second language or in a domain full of unfamiliar vocabulary, those predictions become less reliable. Readers often need more detailed phonological and lexical processing because the language patterns are not yet automatic. Research on second-language reading shows that phonological processing continues to contribute to reading performance and comprehension. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academypublication.com/issues/past/jltr/vol03/01/08.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academypublication.com">[Academy Publication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academypublication.com</span><span class="citation-popover-snippet">Academy PublicationOn the Role of Phonological Processing in L2 ReadingThree types of ESL reading measures were used as criterion variabl...</span></span></span>
+When reading in a second language or in a domain full of unfamiliar vocabulary, those predictions become less reliable. Readers often need more detailed phonological and lexical processing because the language patterns are not yet automatic. Research on second-language reading shows that phonological processing continues to contribute to reading performance and comprehension.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academypublication.com/issues/past/jltr/vol03/01/08.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academypublication.com">[Academy Publication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academypublication.com</span><span class="citation-popover-snippet">Academy PublicationOn the Role of Phonological Processing in L2 ReadingThree types of ESL reading measures were used as criterion variabl...</span></span></span>
 
 In these contexts, slowing down is often a sign of effective reading rather than poor reading.
 
@@ -361,7 +361,7 @@ The brain is highly efficient at constructing plausible interpretations from par
 
 This problem becomes especially important in texts built around exceptions, qualifications, or logical contrasts. Readers may remember what they expected to read rather than what the text actually said.
 
-Research on silent reading suggests that comprehension involves more than recognising words quickly. Readers must also integrate details, maintain relationships across sentences, and build accurate mental representations of the text. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s11097-024-09966-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Experiences of silent reading &#124; Phenomenology and the...by C Barbero · 2024 · Cited by 6 — Text reading has to do with comprehen...</span></span></span>
+Research on silent reading suggests that comprehension involves more than recognising words quickly. Readers must also integrate details, maintain relationships across sentences, and build accurate mental representations of the text.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s11097-024-09966-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Experiences of silent reading &#124; Phenomenology and the...by C Barbero · 2024 · Cited by 6 — Text reading has to do with comprehen...</span></span></span>
 
 Speed becomes counterproductive when it interferes with those processes.
 
@@ -402,7 +402,7 @@ A practical progression is:
 
 </div>
 
-This flexible approach aligns with what research suggests about skilled reading: efficient readers do not eliminate phonological processing or inner speech entirely. Instead, they deploy it selectively when language becomes difficult, precise, or cognitively demanding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[Psychologica Belgica+3PMC+3ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPhonological coding during reading</span><span class="citation-popover-snippet">The exact role that phonological coding (the recoding of written, orthographic information into a sound based code) plays during silent r...</span></span></span>
+This flexible approach aligns with what research suggests about skilled reading: efficient readers do not eliminate phonological processing or inner speech entirely. Instead, they deploy it selectively when language becomes difficult, precise, or cognitively demanding.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[Psychologica Belgica+3PMC+3ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPhonological coding during reading</span><span class="citation-popover-snippet">The exact role that phonological coding (the recoding of written, orthographic information into a sound based code) plays during silent r...</span></span></span>
 
 ## The real goal: variable speed, not maximum speed
 
@@ -411,229 +411,229 @@ The most useful lesson from phrase-level reading is not that every text should b
 News articles, familiar non-fiction, and routine communication often reward larger reading chunks and a lighter inner voice. Poetry, contracts, proofs, technical arguments, and unfamiliar language frequently reward the opposite approach. In these cases, slower reading is not a failure of technique. It is evidence that the reader has recognised that the meaning resides in the details.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When phrase reading is too fast. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When phrase reading is too fast. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Explains when close reading is more important than speed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Explains when close reading is more important than speed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-        </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+</h4>
+<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Highlights the cost of superficial processing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights the cost of superficial processing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Provides a framework for knowing when slower thinking is needed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for knowing when slower thinking is needed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Reading+Law+Antonin+Scalia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading Law on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7144607-M.jpg" alt="Cover for Reading Law" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Reading+Law+Antonin+Scalia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading Law">Reading Law</a>
-        </h4>
-        <p class="fr-book-author">By Antonin Scalia, Bryan A. Garner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Reading+Law+Antonin+Scalia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading Law on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7144607-M.jpg" alt="Cover for Reading Law" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Reading+Law+Antonin+Scalia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading Law">Reading Law</a>
+</h4>
+<p class="fr-book-author">By Antonin Scalia, Bryan A. Garner</p>
         
-        <p class="fr-book-desc">First published 2012. Subjects: Judicial process, Law, Jurisprudence, Statutes, Philosophy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Reading+Law+Antonin+Scalia&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2012. Subjects: Judicial process, Law, Jurisprudence, Statutes, Philosophy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Reading+Law+Antonin+Scalia&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCPhonological coding during reading  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The exact role that phonological coding (the recoding of written, orthographic information into a sound based code) plays during silent r...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The exact role that phonological coding (the recoding of written, orthographic information into a sound based code) plays during silent r...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
    Title: 300781402 The Roles of [Phonology](&#123;&#123; 'sound-coding/' | relative_url &#125;&#125;) in Silent Reading A Selective Review  
-   Link: <a href="https://www.researchgate.net/publication/300781402_The_Roles_of_Phonology_in_Silent_Reading_A_Selective_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/300781402_The_Roles_of_Phonology_in_Silent_Reading_A_Selective_Review</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roles of Phonology in Silent Reading: A Selective...7 Jun 2016 — This chapter presents a selective review of evidence about how phon...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/300781402_The_Roles_of_Phonology_in_Silent_Reading_A_Selective_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/300781402_The_Roles_of_Phonology_in_Silent_Reading_A_Selective_Review</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Roles of Phonology in Silent Reading: A Selective...7 Jun 2016 — This chapter presents a selective review of evidence about how phon...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: link.springer.com  
    Title: Silent reading activates inner speech  
-   Link: <a href="https://link.springer.com/article/10.3758/BF03205520" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/BF03205520</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Two lexical decision experiments (in which participants gave speeded...Read more...</p></details>
+   Link:<a href="https://link.springer.com/article/10.3758/BF03205520" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/BF03205520</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Two lexical decision experiments (in which participants gave speeded...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: tidsskrift.dk  
-   Link: <a href="https://tidsskrift.dk/her/article/download/21456/18908/48838" target="_blank" rel="noopener noreferrer nofollow">https://tidsskrift.dk/her/article/download/21456/18908/48838</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It points...Read mo...</p></details>
+   Link:<a href="https://tidsskrift.dk/her/article/download/21456/18908/48838" target="_blank" rel="noopener noreferrer nofollow">https://tidsskrift.dk/her/article/download/21456/18908/48838</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It points...Read mo...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/255661380_Vygotskian_Inner_Speech_and_the_Reading_Process1" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/255661380_Vygotskian_Inner_Speech_and_the_Reading_Process1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Vygotskian Inner Speech and the Reading Process1In this paper, an argument is presented that Vygotskian inner speech acts in two ma...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/255661380_Vygotskian_Inner_Speech_and_the_Reading_Process1" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/255661380_Vygotskian_Inner_Speech_and_the_Reading_Process1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Vygotskian Inner Speech and the Reading Process1In this paper, an argument is presented that Vygotskian inner speech acts in two ma...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8557949/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8557949/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rhythmic subvocalization: An eye-tracking study on silent...by J Beck · 2021 · Cited by 22 — The present study investigates effects o...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8557949/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8557949/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rhythmic subvocalization: An eye-tracking study on silent...by J Beck · 2021 · Cited by 22 — The present study investigates effects o...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: link.springer.com  
    Title: Challenging to Read, Easy to Comprehend?  
-   Link: <a href="https://link.springer.com/article/10.1007/s10763-022-10306-1" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10763-022-10306-1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of...by T Hackemann · 2022 · Cited by 37 — The present study investigates whether the linguistic demands of expository text affe...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s10763-022-10306-1" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10763-022-10306-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of...by T Hackemann · 2022 · Cited by 37 — The present study investigates whether the linguistic demands of expository text affe...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s11097-024-09966-x" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11097-024-09966-x</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Experiences of silent reading | Phenomenology and the...by C Barbero · 2024 · Cited by 6 — Text reading has to do with comprehen...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s11097-024-09966-x" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11097-024-09966-x</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Experiences of silent reading | Phenomenology and the...by C Barbero · 2024 · Cited by 6 — Text reading has to do with comprehen...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12490762/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12490762/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby M Leachman · 2025 · Cited by 10 — We examined the relation between text reading fluency and reading comprehension, and modera...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12490762/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12490762/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby M Leachman · 2025 · Cited by 10 — We examined the relation between text reading fluency and reading comprehension, and modera...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/379348357_Research_on_English_Reading_Comprehension_Strategies_Based_on_Natural_Language_Processing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/379348357_Research_on_English_Reading_Comprehension_Strategies_Based_on_Natural_Language_Processing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Research on English Reading Comprehension Strategies...1 Apr 2024 — This study investigates strategies based on natural language process...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/379348357_Research_on_English_Reading_Comprehension_Strategies_Based_on_Natural_Language_Processing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/379348357_Research_on_English_Reading_Comprehension_Strategies_Based_on_Natural_Language_Processing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Research on English Reading Comprehension Strategies...1 Apr 2024 — This study investigates strategies based on natural language process...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aclanthology.org  
    Title: ACL Anthology Legal Text Reader Profiling: Evidences from Eye Tracking  
-   Link: <a href="https://aclanthology.org/2024.determit-1.11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aclanthology.org/2024.determit-1.11.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ACL AnthologyLegal Text Reader Profiling: Evidences from Eye Tracking...April 5, 2024 — by CJ Scozzaro · 2024 · Cited by 3 — We propose...</p></details>
+   Link:<a href="https://aclanthology.org/2024.determit-1.11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aclanthology.org/2024.determit-1.11.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ACL AnthologyLegal Text Reader Profiling: Evidences from Eye Tracking...April 5, 2024 — by CJ Scozzaro · 2024 · Cited by 3 — We propose...</p></details>
    Published: April 5, 2024  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: calnewport.com  
    Title: Cal Newport My Deliberate Quest to Read Proofs Faster  
-   Link: <a href="https://calnewport.com/my-deliberate-quest-to-read-proofs-faster/" target="_blank" rel="noopener noreferrer nofollow">https://calnewport.com/my-deliberate-quest-to-read-proofs-faster/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cal NewportMy Deliberate Quest to Read Proofs FasterJune 16, 2014 — 16 Jun 2014 — The reason why people read proofs slowly is not because...</p></details>
+   Link:<a href="https://calnewport.com/my-deliberate-quest-to-read-proofs-faster/" target="_blank" rel="noopener noreferrer nofollow">https://calnewport.com/my-deliberate-quest-to-read-proofs-faster/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cal NewportMy Deliberate Quest to Read Proofs FasterJune 16, 2014 — 16 Jun 2014 — The reason why people read proofs slowly is not because...</p></details>
    Published: June 16, 2014  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: academypublication.com  
-   Link: <a href="https://www.academypublication.com/issues/past/jltr/vol03/01/08.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.academypublication.com/issues/past/jltr/vol03/01/08.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Academy PublicationOn the Role of Phonological Processing in L2 ReadingThree types of ESL reading measures were used as criterion variabl...</p></details>
+   Link:<a href="https://www.academypublication.com/issues/past/jltr/vol03/01/08.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.academypublication.com/issues/past/jltr/vol03/01/08.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Academy PublicationOn the Role of Phonological Processing in L2 ReadingThree types of ESL reading measures were used as criterion variabl...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: psychologicabelgica.com  
-   Link: <a href="https://psychologicabelgica.com/articles/10.5334/pb.1189" target="_blank" rel="noopener noreferrer nofollow">https://psychologicabelgica.com/articles/10.5334/pb.1189</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The nature of the phonological code is debated...Read mo...</p></details>
+   Link:<a href="https://psychologicabelgica.com/articles/10.5334/pb.1189" target="_blank" rel="noopener noreferrer nofollow">https://psychologicabelgica.com/articles/10.5334/pb.1189</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The nature of the phonological code is debated...Read mo...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/256495165859/posts/10159734386090860/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/256495165859/posts/10159734386090860/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IgNobel 2022 in Literature goes to Eric...Next, 108 human subjects were asked to read 12 pairs of contract excerpts. The results support...</p></details>
+   Link:<a href="https://www.facebook.com/groups/256495165859/posts/10159734386090860/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/256495165859/posts/10159734386090860/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IgNobel 2022 in Literature goes to Eric...Next, 108 human subjects were asked to read 12 pairs of contract excerpts. The results support...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pure.uva.nl  
-   Link: <a href="https://pure.uva.nl/ws/files/2041068/141278_06.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.uva.nl/ws/files/2041068/141278_06.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>uva.nlUvA-DARE (Digital Academic Repository)silent reading should be ascribed to less extensive phonological processing in silent as comp...</p></details>
+   Link:<a href="https://pure.uva.nl/ws/files/2041068/141278_06.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.uva.nl/ws/files/2041068/141278_06.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>uva.nlUvA-DARE (Digital Academic Repository)silent reading should be ascribed to less extensive phonological processing in silent as comp...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ro.uow.edu.au  
-   Link: <a href="https://ro.uow.edu.au/ndownloader/files/50460885" target="_blank" rel="noopener noreferrer nofollow">https://ro.uow.edu.au/ndownloader/files/50460885</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>inner speech and the reading processThere is a paucity of Vygotskian influenced inner speech research in relation to the reading process...</p></details>
+   Link:<a href="https://ro.uow.edu.au/ndownloader/files/50460885" target="_blank" rel="noopener noreferrer nofollow">https://ro.uow.edu.au/ndownloader/files/50460885</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>inner speech and the reading processThere is a paucity of Vygotskian influenced inner speech research in relation to the reading process...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: wwwold.mathematik.tu-dortmund.de  
-   Link: <a href="https://wwwold.mathematik.tu-dortmund.de/~prediger/veroeff/19-HB-PredErathMoser-MathDifficultiesLanguage.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wwwold.mathematik.tu-dortmund.de/~prediger/veroeff/19-HB-PredErathMoser-MathDifficultiesLanguage.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mathematics Faculty TU DortmundAn overview on research results and instructional approacheby S Prediger · Cited by 5 — On this base, we d...</p></details>
+   Link:<a href="https://wwwold.mathematik.tu-dortmund.de/~prediger/veroeff/19-HB-PredErathMoser-MathDifficultiesLanguage.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wwwold.mathematik.tu-dortmund.de/~prediger/veroeff/19-HB-PredErathMoser-MathDifficultiesLanguage.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mathematics Faculty TU DortmundAn overview on research results and instructional approacheby S Prediger · Cited by 5 — On this base, we d...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: i-agree.io  
    Title: i agree Behavioural Science & Contract Comprehension  
-   Link: <a href="https://i-agree.io/resources/behavioural-science-contract-comprehension" target="_blank" rel="noopener noreferrer nofollow">https://i-agree.io/resources/behavioural-science-contract-comprehension</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioural Science &amp; Contract Comprehension - i agreeLearn how the production effect, multimodal learning, behavioural science, and repe...</p></details>
+   Link:<a href="https://i-agree.io/resources/behavioural-science-contract-comprehension" target="_blank" rel="noopener noreferrer nofollow">https://i-agree.io/resources/behavioural-science-contract-comprehension</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioural Science &amp; Contract Comprehension - i agreeLearn how the production effect, multimodal learning, behavioural science, and repe...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: scispace.com  
-   Link: <a href="https://scispace.com/pdf/vygotskian-inner-speech-and-the-reading-process-1t5mz6ii59.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/vygotskian-inner-speech-and-the-reading-process-1t5mz6ii59.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ing process. Those few studies which have examined Vygotskian inner...</p></details>
+   Link:<a href="https://scispace.com/pdf/vygotskian-inner-speech-and-the-reading-process-1t5mz6ii59.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/vygotskian-inner-speech-and-the-reading-process-1t5mz6ii59.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ing process. Those few studies which have examined Vygotskian inner...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: digitalcommons.memphis.edu  
-   Link: <a href="https://digitalcommons.memphis.edu/cgi/viewcontent.cgi?article=4058&amp;context=etd" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.memphis.edu/cgi/viewcontent.cgi?article=4058&amp;context=etd</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Relation among Phonological Processing, Oral and...by MF Robinson · 2019 · Cited by 2 — [Oral reading](&amp;#123;&amp;#123; &#x27;reading-aloud/&#x27; | relative_url &amp;#125;&amp;#125;) was found to facilitate higher read...</p></details>
+   Link:<a href="https://digitalcommons.memphis.edu/cgi/viewcontent.cgi?article=4058&amp;context=etd" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.memphis.edu/cgi/viewcontent.cgi?article=4058&amp;context=etd</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Relation among Phonological Processing, Oral and...by MF Robinson · 2019 · Cited by 2 — [Oral reading](&amp;#123;&amp;#123; &#x27;reading-aloud/&#x27; | relative_url &amp;#125;&amp;#125;) was found to facilitate higher read...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: worldcc.com  
    Title: the psychology that makes people skip reading contracts and how to change it  
-   Link: <a href="https://www.worldcc.com/resource/the-psychology-that-makes-people-skip-reading-contracts-and-how-to-change-it.html" target="_blank" rel="noopener noreferrer nofollow">https://www.worldcc.com/resource/the-psychology-that-makes-people-skip-reading-contracts-and-how-to-change-it.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why our brains resist legal documents and how overcoming our own...Read more...</p></details>
+   Link:<a href="https://www.worldcc.com/resource/the-psychology-that-makes-people-skip-reading-contracts-and-how-to-change-it.html" target="_blank" rel="noopener noreferrer nofollow">https://www.worldcc.com/resource/the-psychology-that-makes-people-skip-reading-contracts-and-how-to-change-it.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why our brains resist legal documents and how overcoming our own...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: educationaldatamining.org  
    Title: 2025.EDM.short papers.189  
-   Link: <a href="https://educationaldatamining.org/EDM2025/proceedings/2025.EDM.short-papers.189/2025.EDM.short-papers.189.pdf" target="_blank" rel="noopener noreferrer nofollow">https://educationaldatamining.org/EDM2025/proceedings/2025.EDM.short-papers.189/2025.EDM.short-papers.189.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Linguistic Features Predicting Math Word Problem...by K Norberg · 2025 · Cited by 5 — The findings suggest readability of the text playe...</p></details>
+   Link:<a href="https://educationaldatamining.org/EDM2025/proceedings/2025.EDM.short-papers.189/2025.EDM.short-papers.189.pdf" target="_blank" rel="noopener noreferrer nofollow">https://educationaldatamining.org/EDM2025/proceedings/2025.EDM.short-papers.189/2025.EDM.short-papers.189.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Linguistic Features Predicting Math Word Problem...by K Norberg · 2025 · Cited by 5 — The findings suggest readability of the text playe...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: isca-archive.org  
    Title: breen26 speechprosody  
-   Link: <a href="https://www.isca-archive.org/speechprosody_2026/breen26_speechprosody.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.isca-archive.org/speechprosody_2026/breen26_speechprosody.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Prosodic fluency in spoken productions of The Cat in the...by M Breen · 2026 — A regression model predicting reading comprehension skill...</p></details>
+   Link:<a href="https://www.isca-archive.org/speechprosody_2026/breen26_speechprosody.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.isca-archive.org/speechprosody_2026/breen26_speechprosody.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Prosodic fluency in spoken productions of The Cat in the...by M Breen · 2026 — A regression model predicting reading comprehension skill...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: languageleveler.com  
    Title: estimating reading time second language reading  
-   Link: <a href="https://languageleveler.com/blog/estimating-reading-time-second-language-reading" target="_blank" rel="noopener noreferrer nofollow">https://languageleveler.com/blog/estimating-reading-time-second-language-reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LanguageLeveler now calculates accurate reading time estimates for books in...</p></details>
+   Link:<a href="https://languageleveler.com/blog/estimating-reading-time-second-language-reading" target="_blank" rel="noopener noreferrer nofollow">https://languageleveler.com/blog/estimating-reading-time-second-language-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LanguageLeveler now calculates accurate reading time estimates for books in...</p></details>

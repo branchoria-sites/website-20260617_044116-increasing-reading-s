@@ -269,7 +269,7 @@ image: /assets/images/increasing_re_852ca6_speed_reading_71e807_regressions_r_72
 
 ## Introduction
 
-When people think about reading speed, they often assume that every backward [eye movement]({{ 'eye-tradeoff/' | relative_url }}) is wasted time. Research on sentence processing suggests the opposite for a particular class of regressions: those triggered by ambiguity. When a sentence initially appears to mean one thing and later words reveal a different structure, readers frequently look back to earlier text. These lookbacks help repair a mistaken interpretation before it becomes part of the reader’s understanding. [Eye-tracking]({{ 'eye-tracking/' | relative_url }}) studies consistently show that ambiguity increases regressions because the reading system is not merely recognising words; it is continuously building and testing meaning. When that meaning collapses, a brief return to the source of the problem can be more efficient than continuing forward with an incorrect interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tmalsburg.github.io/VasishthEtAl2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tmalsburg.github.io">[tmalsburg.github.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tmalsburg.github.io</span><span class="citation-popover-title">Eyetracking research has addressed a wide range of questions.Read more</span><span class="citation-popover-snippet">What eye movements can tell us about sentence...January 28, 2013 — by S Vasishth · Cited by 130 — Eye movement data have proven to be ve...</span><span class="citation-popover-meta">Published: January 28, 2013</span></span></span>
+When people think about reading speed, they often assume that every backward [eye movement]({{ 'eye-tradeoff/' | relative_url }}) is wasted time. Research on sentence processing suggests the opposite for a particular class of regressions: those triggered by ambiguity. When a sentence initially appears to mean one thing and later words reveal a different structure, readers frequently look back to earlier text. These lookbacks help repair a mistaken interpretation before it becomes part of the reader’s understanding. [Eye-tracking]({{ 'eye-tracking/' | relative_url }}) studies consistently show that ambiguity increases regressions because the reading system is not merely recognising words; it is continuously building and testing meaning. When that meaning collapses, a brief return to the source of the problem can be more efficient than continuing forward with an incorrect interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tmalsburg.github.io/VasishthEtAl2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tmalsburg.github.io">[tmalsburg.github.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tmalsburg.github.io</span><span class="citation-popover-title">Eyetracking research has addressed a wide range of questions.Read more</span><span class="citation-popover-snippet">What eye movements can tell us about sentence...January 28, 2013 — by S Vasishth · Cited by 130 — Eye movement data have proven to be ve...</span><span class="citation-popover-meta">Published: January 28, 2013</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_speed_reading_71e807_regressions_r_724139_ambiguity_loo_c1046e-Illustration-1-dark.svg" | relative_url }}" alt="Ambiguity illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_speed_reading_71e807_regressions_r_724139_ambiguity_loo_c1046e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_speed_reading_71e807_regressions_r_724139_ambiguity_loo_c1046e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -281,11 +281,11 @@ Consider:
 
 > While the man hunted the deer ran into the woods.
 
-Many readers initially treat “the deer” as the object of “hunted”. The word “ran” then reveals that “the deer” is actually the subject of a new clause. The reader's original interpretation no longer fits the sentence, creating a need for reanalysis. Psycholinguistic research has used such sentences for decades because they reveal how readers construct meaning incrementally rather than waiting until the end of a sentence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Garden-path_sentence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Garden-path sentence</span><span class="citation-popover-snippet">Garden-path sentence</span></span></span>
+Many readers initially treat “the deer” as the object of “hunted”. The word “ran” then reveals that “the deer” is actually the subject of a new clause. The reader's original interpretation no longer fits the sentence, creating a need for reanalysis. Psycholinguistic research has used such sentences for decades because they reveal how readers construct meaning incrementally rather than waiting until the end of a sentence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Garden-path_sentence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Garden-path sentence</span><span class="citation-popover-snippet">Garden-path sentence</span></span></span>
 
-The key mechanism is prediction. As words arrive, readers generate expectations about grammar and meaning. Most of the time these predictions are helpful because they speed comprehension. However, when a prediction is wrong, the reading system must repair it. Garden-path sentences expose this repair process in a highly visible form. Eye-tracking studies show increased reading times and frequent regressions near the point where the sentence becomes disambiguated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Garden-path_sentence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Garden-path sentence</span><span class="citation-popover-snippet">Garden-path sentence</span></span></span>
+The key mechanism is prediction. As words arrive, readers generate expectations about grammar and meaning. Most of the time these predictions are helpful because they speed comprehension. However, when a prediction is wrong, the reading system must repair it. Garden-path sentences expose this repair process in a highly visible form. Eye-tracking studies show increased reading times and frequent regressions near the point where the sentence becomes disambiguated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Garden-path_sentence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Garden-path sentence</span><span class="citation-popover-snippet">Garden-path sentence</span></span></span>
 
-Importantly, the slowdown is not caused by unfamiliar [vocabulary]({{ 'knowledge/' | relative_url }}). It occurs because the reader must abandon a previously constructed interpretation and build a new one from the same words. This makes ambiguity-driven regressions fundamentally different from simple word-recognition difficulties. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2411-5150/3/3/35" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">We distinguish two types of these movements (regressions). One type consists of relatively large...Read more...</span></span></span>
+Importantly, the slowdown is not caused by unfamiliar [vocabulary]({{ 'knowledge/' | relative_url }}). It occurs because the reader must abandon a previously constructed interpretation and build a new one from the same words. This makes ambiguity-driven regressions fundamentally different from simple word-recognition difficulties.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2411-5150/3/3/35" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">We distinguish two types of these movements (regressions). One type consists of relatively large...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vzzeiR9heNA" title="🧠 Psycholinguistics: How Your Brain Understands Language" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vzzeiR9heNA" target="_blank" rel="noopener noreferrer">🧠 Psycholinguistics: How Your Brain Understands Language</a></p><p class="youtube-embed-meta">Channel: Roam and Remember</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vzzeiR9heNA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vzzeiR9heNA">Open on YouTube</a></p></div></div></div>
@@ -294,7 +294,7 @@ Importantly, the slowdown is not caused by unfamiliar [vocabulary]({{ 'knowledge
 
 When comprehension breaks down, regressions are not random. Readers tend to return to locations that can resolve the ambiguity.
 
-Research on eye movements during sentence processing shows that readers often direct their gaze back toward the region that created the mistaken interpretation. In garden-path sentences, this may be the verb, noun phrase, or clause boundary that originally supported the incorrect parse. These targeted lookbacks suggest that regressions are part of a controlled repair strategy rather than a sign of aimless rereading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Garden-path_sentence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Garden-path sentence</span><span class="citation-popover-snippet">Garden-path sentence</span></span></span>
+Research on eye movements during sentence processing shows that readers often direct their gaze back toward the region that created the mistaken interpretation. In garden-path sentences, this may be the verb, noun phrase, or clause boundary that originally supported the incorrect parse. These targeted lookbacks suggest that regressions are part of a controlled repair strategy rather than a sign of aimless rereading.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Garden-path_sentence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Garden-path sentence</span><span class="citation-popover-snippet">Garden-path sentence</span></span></span>
 
 Several patterns commonly appear:
 
@@ -304,11 +304,11 @@ Several patterns commonly appear:
 * Readers regress to the word or phrase that now seems inconsistent with later information.
 * They spend additional fixation time on the ambiguous region.
 * They then move forward again with a revised interpretation.
-* The more severe the ambiguity, the more extensive the rereading tends to be. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Garden-path_sentence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2tmalsburg.github.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Garden-path sentence</span><span class="citation-popover-snippet">Garden-path sentence</span></span></span>
+* The more severe the ambiguity, the more extensive the rereading tends to be.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Garden-path_sentence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2tmalsburg.github.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Garden-path sentence</span><span class="citation-popover-snippet">Garden-path sentence</span></span></span>
 
 </div>
 
-Eye-tracking reviews distinguish these comprehension-driven regressions from small corrective eye movements caused by visual targeting errors. The former are closely linked to language understanding and become more likely when readers need to revise linguistic content. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2411-5150/3/3/35" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">We distinguish two types of these movements (regressions). One type consists of relatively large...Read more...</span></span></span>
+Eye-tracking reviews distinguish these comprehension-driven regressions from small corrective eye movements caused by visual targeting errors. The former are closely linked to language understanding and become more likely when readers need to revise linguistic content.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2411-5150/3/3/35" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">We distinguish two types of these movements (regressions). One type consists of relatively large...Read more...</span></span></span>
 
 This distinction matters for reading speed. A reader who briefly revisits a critical phrase to repair meaning may lose a second or two. A reader who fails to repair the interpretation may misunderstand an entire paragraph.
 
@@ -318,11 +318,11 @@ This distinction matters for reading speed. A reader who briefly revisits a crit
 
 A tempting response to ambiguity is to keep moving forward and hope that later context resolves the confusion. Research suggests that this strategy has limits.
 
-Studies examining the role of regressions in reading comprehension have found that preventing or severely restricting rereading can reduce understanding. When readers cannot return to earlier text, they become more dependent on memory representations that may already contain the wrong interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/261761989_Don%27t_Believe_What_You_Read_Only_Once_Comprehension_Is_Supported_by_Regressions_During_Reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Don&#x27;t Believe What You Read (Only Once</span><span class="citation-popover-snippet">ResearchGate(PDF) Don&#x27;t Believe What You Read (Only Once)April 18, 2014 — These data suggest that regressions contribute to the ability t...</span><span class="citation-popover-meta">Published: April 18, 2014</span></span></span>
+Studies examining the role of regressions in reading comprehension have found that preventing or severely restricting rereading can reduce understanding. When readers cannot return to earlier text, they become more dependent on memory representations that may already contain the wrong interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/261761989_Don%27t_Believe_What_You_Read_Only_Once_Comprehension_Is_Supported_by_Regressions_During_Reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Don&#x27;t Believe What You Read (Only Once</span><span class="citation-popover-snippet">ResearchGate(PDF) Don&#x27;t Believe What You Read (Only Once)April 18, 2014 — These data suggest that regressions contribute to the ability t...</span><span class="citation-popover-meta">Published: April 18, 2014</span></span></span>
 
-This is especially important because reanalysis is not always perfect. Research on garden-path processing has shown that initial misinterpretations can linger even after readers encounter information that should correct them. In some cases, people continue to retain traces of the original, incorrect meaning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Garden-path_sentence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Garden-path sentence</span><span class="citation-popover-snippet">Garden-path sentence</span></span></span>
+This is especially important because reanalysis is not always perfect. Research on garden-path processing has shown that initial misinterpretations can linger even after readers encounter information that should correct them. In some cases, people continue to retain traces of the original, incorrect meaning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Garden-path_sentence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Garden-path sentence</span><span class="citation-popover-snippet">Garden-path sentence</span></span></span>
 
-A useful lookback helps counter this problem by allowing the reader to inspect the actual words again rather than relying solely on memory. The text itself becomes an external reference that supports reconstruction of the sentence's intended meaning. This is one reason comprehension-driven regressions are often viewed as a beneficial component of skilled reading rather than evidence of failure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2411-5150/3/3/35" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">We distinguish two types of these movements (regressions). One type consists of relatively large...Read more...</span></span></span>
+A useful lookback helps counter this problem by allowing the reader to inspect the actual words again rather than relying solely on memory. The text itself becomes an external reference that supports reconstruction of the sentence's intended meaning. This is one reason comprehension-driven regressions are often viewed as a beneficial component of skilled reading rather than evidence of failure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2411-5150/3/3/35" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">We distinguish two types of these movements (regressions). One type consists of relatively large...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VFIZDZwdf-0" title="Eye Tracking Reading Study" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VFIZDZwdf-0" target="_blank" rel="noopener noreferrer">Eye Tracking Reading Study</a></p><p class="youtube-embed-meta">Channel: Tobii</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VFIZDZwdf-0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VFIZDZwdf-0">Open on YouTube</a></p></div></div></div>
@@ -331,209 +331,209 @@ A useful lookback helps counter this problem by allowing the reader to inspect t
 
 From a speed perspective, ambiguity creates a trade-off. Every regression adds time, but refusing to regress can produce larger comprehension costs later.
 
-Skilled readers generally do not eliminate ambiguity-driven lookbacks. Instead, they appear to use them selectively. When the reading system detects that an interpretation no longer fits incoming information, a short regression can prevent a much larger misunderstanding from spreading through the rest of the text. Eye-movement research consistently links these larger regressions to comprehension repair rather than inefficient reading habits. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2411-5150/3/3/35" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">We distinguish two types of these movements (regressions). One type consists of relatively large...Read more...</span></span></span>
+Skilled readers generally do not eliminate ambiguity-driven lookbacks. Instead, they appear to use them selectively. When the reading system detects that an interpretation no longer fits incoming information, a short regression can prevent a much larger misunderstanding from spreading through the rest of the text. Eye-movement research consistently links these larger regressions to comprehension repair rather than inefficient reading habits.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2411-5150/3/3/35" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">We distinguish two types of these movements (regressions). One type consists of relatively large...Read more...</span></span></span>
 
-For readers seeking greater speed, the lesson is not that all regressions are desirable. Habitual rereading of easy text can certainly slow progress. However, regressions triggered by genuine ambiguity perform a different function. They help the brain recover from incorrect predictions, rebuild sentence structure, and preserve accurate comprehension when meaning briefly goes off course. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">The function of these &quot;regressions&quot; is still largely unknown</span><span class="citation-popover-snippet">The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 134 — Standard text reading involves frequent...</span></span></span>
+For readers seeking greater speed, the lesson is not that all regressions are desirable. Habitual rereading of easy text can certainly slow progress. However, regressions triggered by genuine ambiguity perform a different function. They help the brain recover from incorrect predictions, rebuild sentence structure, and preserve accurate comprehension when meaning briefly goes off course.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">The function of these &quot;regressions&quot; is still largely unknown</span><span class="citation-popover-snippet">The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 134 — Standard text reading involves frequent...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_speed_reading_71e807_regressions_r_724139_ambiguity_loo_c1046e-Illustration-3-dark.svg" | relative_url }}" alt="Ambiguity illustration 3" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_speed_reading_71e807_regressions_r_724139_ambiguity_loo_c1046e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_speed_reading_71e807_regressions_r_724139_ambiguity_loo_c1046e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Core Mechanism in One Sentence
 
-Ambiguity triggers useful reading lookbacks because readers construct meaning before a sentence is complete; when later words reveal that the original interpretation was wrong, regressions allow the eyes to revisit the critical text and rebuild a more accurate understanding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tmalsburg.github.io/VasishthEtAl2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tmalsburg.github.io">[tmalsburg.github.io+2MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tmalsburg.github.io</span><span class="citation-popover-title">Eyetracking research has addressed a wide range of questions.Read more</span><span class="citation-popover-snippet">What eye movements can tell us about sentence...January 28, 2013 — by S Vasishth · Cited by 130 — Eye movement data have proven to be ve...</span><span class="citation-popover-meta">Published: January 28, 2013</span></span></span>
+Ambiguity triggers useful reading lookbacks because readers construct meaning before a sentence is complete; when later words reveal that the original interpretation was wrong, regressions allow the eyes to revisit the critical text and rebuild a more accurate understanding.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tmalsburg.github.io/VasishthEtAl2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tmalsburg.github.io">[tmalsburg.github.io+2MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tmalsburg.github.io</span><span class="citation-popover-title">Eyetracking research has addressed a wide range of questions.Read more</span><span class="citation-popover-snippet">What eye movements can tell us about sentence...January 28, 2013 — by S Vasishth · Cited by 130 — Eye movement data have proven to be ve...</span><span class="citation-popover-meta">Published: January 28, 2013</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TPr6EKqfkzk" title="Speed Reading: Optimal Eye Movements" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TPr6EKqfkzk" target="_blank" rel="noopener noreferrer">Speed Reading: Optimal Eye Movements</a></p><p class="youtube-embed-meta">Channel: Iris Reading</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TPr6EKqfkzk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TPr6EKqfkzk">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Confusing Sentences Make Eyes Look Back. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Confusing Sentences Make Eyes Look Back. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Focuses on understanding meaning rather than rushing forward.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Focuses on understanding meaning rather than rushing forward.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Proust and the Squid on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4940484-M.jpg" alt="Cover for Proust and the Squid" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Proust and the Squid">Proust and the Squid</a>
-        </h4>
-        <p class="fr-book-author">By Maryanne Wolf</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Proust and the Squid on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4940484-M.jpg" alt="Cover for Proust and the Squid" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Proust and the Squid">Proust and the Squid</a>
+</h4>
+<p class="fr-book-author">By Maryanne Wolf</p>
         
-        <p class="fr-book-desc">First published 2007. Subjects: Brain, Evolution, Reading history, Neurophysiology, Reading comprehension.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2007. Subjects: Brain, Evolution, Reading history, Neurophysiology, Reading comprehension.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading in the Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6649793-M.jpg" alt="Cover for Reading in the Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading in the Brain">Reading in the Brain</a>
-        </h4>
-        <p class="fr-book-author">By Stanislas Dehaene</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading in the Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6649793-M.jpg" alt="Cover for Reading in the Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading in the Brain">Reading in the Brain</a>
+</h4>
+<p class="fr-book-author">By Stanislas Dehaene</p>
         
-        <p class="fr-book-desc">First published 2009. Subjects: Science, Nonfiction, Psychology, Psychology of Reading, Reading.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2009. Subjects: Science, Nonfiction, Psychology, Psychology of Reading, Reading.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Reading+in+the+Brain+Stanislas+Dehaene&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Speed+reading&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Speed reading on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Speed+reading&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Speed reading">Speed reading</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Speed+reading&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Speed reading on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Speed+reading&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Speed reading">Speed reading</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Frequently cited in discussions about minimizing regressions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Speed+reading&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Frequently cited in discussions about minimizing regressions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Speed+reading&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Proust+and+the+Squid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Proust and the Squid</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Reading+in+the+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Reading in the Brain</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Proust+and+the+Squid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Proust and the Squid</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Reading+in+the+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Reading in the Brain</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=myths+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="myths poster -book -books -dvd" data-ebay-reference="ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Classical roman myths and mythology Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/169995ae060ffbc83985.jpg' | relative_url }}" alt="Listing image for Classical roman myths and mythology Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=myths+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="myths poster -book -books -dvd" data-ebay-reference="ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Classical roman myths and mythology Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=myths+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="myths poster -book -books -dvd" data-ebay-reference="ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for myths poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: myths poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=myths+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="myths poster -book -books -dvd" data-ebay-reference="ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=myths+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="myths poster -book -books -dvd" data-ebay-reference="ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Classical roman myths and mythology Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/169995ae060ffbc83985.jpg' | relative_url }}" alt="Listing image for Classical roman myths and mythology Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=myths+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="myths poster -book -books -dvd" data-ebay-reference="ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Classical roman myths and mythology Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=myths+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="myths poster -book -books -dvd" data-ebay-reference="ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for myths poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: myths poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=myths+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="myths poster -book -books -dvd" data-ebay-reference="ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=myths+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="myths poster -book -books -dvd" data-ebay-reference="ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Blacklight Nude Medieval Greek Myths Tapestry Wall Hanging UV Reactive Poster"><img src="{{ '/assets/images/marketplace-covers/e5d64413d64dba44385a.jpg' | relative_url }}" alt="Listing image for Blacklight Nude Medieval Greek Myths Tapestry Wall Hanging UV Reactive Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=myths+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="myths poster -book -books -dvd" data-ebay-reference="ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Blacklight Nude Medieval Greek Myths Tapestry Wall Hanging UV Reactive Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=myths+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="myths poster -book -books -dvd" data-ebay-reference="ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for myths poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: myths poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=myths+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="myths poster -book -books -dvd" data-ebay-reference="ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=myths+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="myths poster -book -books -dvd" data-ebay-reference="ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Blacklight Nude Medieval Greek Myths Tapestry Wall Hanging UV Reactive Poster"><img src="{{ '/assets/images/marketplace-covers/e5d64413d64dba44385a.jpg' | relative_url }}" alt="Listing image for Blacklight Nude Medieval Greek Myths Tapestry Wall Hanging UV Reactive Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=myths+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="myths poster -book -books -dvd" data-ebay-reference="ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Blacklight Nude Medieval Greek Myths Tapestry Wall Hanging UV Reactive Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=myths+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="myths poster -book -books -dvd" data-ebay-reference="ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for myths poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: myths poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=myths+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="myths poster -book -books -dvd" data-ebay-reference="ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=myths+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="myths poster -book -books -dvd" data-ebay-reference="ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Blacklight Medieval Myths Tapestry Wall Hanging UV Reactive Poster Ceiling"><img src="{{ '/assets/images/marketplace-covers/043c106a7d6252cbc524.jpg' | relative_url }}" alt="Listing image for Blacklight Medieval Myths Tapestry Wall Hanging UV Reactive Poster Ceiling" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=myths+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="myths poster -book -books -dvd" data-ebay-reference="ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Blacklight Medieval Myths Tapestry Wall Hanging UV Reactive Poster Ceiling</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=myths+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="myths poster -book -books -dvd" data-ebay-reference="ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for myths poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: myths poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=myths+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="myths poster -book -books -dvd" data-ebay-reference="ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=myths+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="myths poster -book -books -dvd" data-ebay-reference="ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Blacklight Medieval Myths Tapestry Wall Hanging UV Reactive Poster Ceiling"><img src="{{ '/assets/images/marketplace-covers/043c106a7d6252cbc524.jpg' | relative_url }}" alt="Listing image for Blacklight Medieval Myths Tapestry Wall Hanging UV Reactive Poster Ceiling" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=myths+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="myths poster -book -books -dvd" data-ebay-reference="ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Blacklight Medieval Myths Tapestry Wall Hanging UV Reactive Poster Ceiling</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=myths+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="myths poster -book -books -dvd" data-ebay-reference="ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for myths poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: myths poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=myths+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="myths poster -book -books -dvd" data-ebay-reference="ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=myths+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="myths poster -book -books -dvd" data-ebay-reference="ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Classical roman myths and mythology Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/3f5aa4c98b29e4f4afb0.jpg' | relative_url }}" alt="Listing image for Classical roman myths and mythology Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=myths+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="myths poster -book -books -dvd" data-ebay-reference="ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Classical roman myths and mythology Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=myths+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="myths poster -book -books -dvd" data-ebay-reference="ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for myths poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: myths poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=myths+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="myths poster -book -books -dvd" data-ebay-reference="ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=myths+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="myths poster -book -books -dvd" data-ebay-reference="ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=myths+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="myths poster -book -books -dvd" data-ebay-reference="ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Classical roman myths and mythology Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/3f5aa4c98b29e4f4afb0.jpg' | relative_url }}" alt="Listing image for Classical roman myths and mythology Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=myths+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="myths poster -book -books -dvd" data-ebay-reference="ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Classical roman myths and mythology Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=myths+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="myths poster -book -books -dvd" data-ebay-reference="ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for myths poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: myths poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=myths+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="myths poster -book -books -dvd" data-ebay-reference="ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=myths+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="myths poster -book -books -dvd" data-ebay-reference="ambiguity-c06624-why-confusing-sentences-make-eyes-look-back-increasing-myths-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -549,7 +549,7 @@ Ambiguity triggers useful reading lookbacks because readers construct meaning be
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -569,7 +569,7 @@ Ambiguity triggers useful reading lookbacks because readers construct meaning be
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -601,7 +601,7 @@ Ambiguity triggers useful reading lookbacks because readers construct meaning be
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -653,7 +653,7 @@ Ambiguity triggers useful reading lookbacks because readers construct meaning be
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -698,7 +698,7 @@ Ambiguity triggers useful reading lookbacks because readers construct meaning be
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -739,109 +739,109 @@ Ambiguity triggers useful reading lookbacks because readers construct meaning be
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: tmalsburg.github.io  
    Title: Eyetracking research has addressed a wide range of questions.Read more  
-   Link: <a href="https://tmalsburg.github.io/VasishthEtAl2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tmalsburg.github.io/VasishthEtAl2013.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What eye movements can tell us about sentence...January 28, 2013 — by S Vasishth · Cited by 130 — Eye movement data have proven to be ve...</p></details>
+   Link:<a href="https://tmalsburg.github.io/VasishthEtAl2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tmalsburg.github.io/VasishthEtAl2013.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What eye movements can tell us about sentence...January 28, 2013 — by S Vasishth · Cited by 130 — Eye movement data have proven to be ve...</p></details>
    Published: January 28, 2013  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2411-5150/3/3/35" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2411-5150/3/3/35</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>We distinguish two types of these movements (regressions). One type consists of relatively large...Read more...</p></details>
+   Link:<a href="https://www.mdpi.com/2411-5150/3/3/35" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2411-5150/3/3/35</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We distinguish two types of these movements (regressions). One type consists of relatively large...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Garden-path sentence  
-   Link: <a href="https://en.wikipedia.org/wiki/Garden-path_sentence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Garden-path_sentence</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Garden-path_sentence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Garden-path_sentence</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) Don't Believe What You Read (Only Once)  
-   Link: <a href="https://www.researchgate.net/publication/261761989_Don%27t_Believe_What_You_Read_Only_Once_Comprehension_Is_Supported_by_Regressions_During_Reading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/261761989_Don%27t_Believe_What_You_Read_Only_Once_Comprehension_Is_Supported_by_Regressions_During_Reading</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Don&#x27;t Believe What You Read (Only Once)April 18, 2014 — These data suggest that regressions contribute to the ability t...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/261761989_Don%27t_Believe_What_You_Read_Only_Once_Comprehension_Is_Supported_by_Regressions_During_Reading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/261761989_Don%27t_Believe_What_You_Read_Only_Once_Comprehension_Is_Supported_by_Regressions_During_Reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Don&#x27;t Believe What You Read (Only Once)April 18, 2014 — These data suggest that regressions contribute to the ability t...</p></details>
    Published: April 18, 2014  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Eye" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eye</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EyeAn eye is a sensory organ that allows an organism to perceive visual information. It detects light and converts it into electro-che...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Eye" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eye</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EyeAn eye is a sensory organ that allows an organism to perceive visual information. It detects light and converts it into electro-che...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: The function of these "regressions" is still largely unknown  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22886737/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 134 — Standard text reading involves frequent...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22886737/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 134 — Standard text reading involves frequent...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5735033/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5735033/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Comprehension of Ambiguous Sentences by School...by MM Davidson · 2017 · Cited by 44 — Results indicated that children with ASD, similar...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5735033/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5735033/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Comprehension of Ambiguous Sentences by School...by MM Davidson · 2017 · Cited by 44 — Results indicated that children with ASD, similar...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nei.nih.gov  
    Title: how eyes work  
-   Link: <a href="https://www.nei.nih.gov/eye-health-information/healthy-vision/how-eyes-work" target="_blank" rel="noopener noreferrer nofollow">https://www.nei.nih.gov/eye-health-information/healthy-vision/how-eyes-work</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the Eyes Work - National Eye Institute - NIHApr 20, 2022 — All the different part of your eyes work together to help you see. Learn the j...</p></details>
+   Link:<a href="https://www.nei.nih.gov/eye-health-information/healthy-vision/how-eyes-work" target="_blank" rel="noopener noreferrer nofollow">https://www.nei.nih.gov/eye-health-information/healthy-vision/how-eyes-work</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Eyes Work - National Eye Institute - NIHApr 20, 2022 — All the different part of your eyes work together to help you see. Learn the j...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: betterhealth.vic.gov.au  
-   Link: <a href="https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/eyes" target="_blank" rel="noopener noreferrer nofollow">https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/eyes</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Eyes explainedThe eye is our organ of vision. Its complicated design means that an image can pass through its many layers and end up cris...</p></details>
+   Link:<a href="https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/eyes" target="_blank" rel="noopener noreferrer nofollow">https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/eyes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eyes explainedThe eye is our organ of vision. Its complicated design means that an image can pass through its many layers and end up cris...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/eye/" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/eye/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EyeEye is the official journal of the Royal College of Ophthalmologists. It aims to provide the practising ophthalmologist with informati...</p></details>
+   Link:<a href="https://www.nature.com/eye/" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/eye/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EyeEye is the official journal of the Royal College of Ophthalmologists. It aims to provide the practising ophthalmologist with informati...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aao.org  
-   Link: <a href="https://www.aao.org/eye-health" target="_blank" rel="noopener noreferrer nofollow">https://www.aao.org/eye-health</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eye HealthThe Academy&#x27;s EyeSmart website provides ophthalmologist-reviewed information about eye diseases and treatments, eye health news...</p></details>
+   Link:<a href="https://www.aao.org/eye-health" target="_blank" rel="noopener noreferrer nofollow">https://www.aao.org/eye-health</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eye HealthThe Academy&#x27;s EyeSmart website provides ophthalmologist-reviewed information about eye diseases and treatments, eye health news...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: research-portal.uu.nl  
-   Link: <a href="https://research-portal.uu.nl/ws/files/266642627/Grammatical_understanding_predicts_reading_comprehension_in_secondary-level_students_insights_from_a_Finnish_national_survey.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research-portal.uu.nl/ws/files/266642627/Grammatical_understanding_predicts_reading_comprehension_in_secondary-level_students_insights_from_a_Finnish_national_survey.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>understanding predicts reading...by J Marjokorpi · 2025 · Cited by 13 — The study encourages further research on the benefits of explici...</p></details>
+   Link:<a href="https://research-portal.uu.nl/ws/files/266642627/Grammatical_understanding_predicts_reading_comprehension_in_secondary-level_students_insights_from_a_Finnish_national_survey.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research-portal.uu.nl/ws/files/266642627/Grammatical_understanding_predicts_reading_comprehension_in_secondary-level_students_insights_from_a_Finnish_national_survey.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>understanding predicts reading...by J Marjokorpi · 2025 · Cited by 13 — The study encourages further research on the benefits of explici...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: webmd.com  
-   Link: <a href="https://www.webmd.com/eye-health/picture-of-the-eyes" target="_blank" rel="noopener noreferrer nofollow">https://www.webmd.com/eye-health/picture-of-the-eyes</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Eyes (Human Anatomy): Diagram, Optic Nerve, Iris...WebMD&#x27;s Eyes Anatomy Pages provide a detailed picture and definition of the human...</p></details>
+   Link:<a href="https://www.webmd.com/eye-health/picture-of-the-eyes" target="_blank" rel="noopener noreferrer nofollow">https://www.webmd.com/eye-health/picture-of-the-eyes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Eyes (Human Anatomy): Diagram, Optic Nerve, Iris...WebMD&#x27;s Eyes Anatomy Pages provide a detailed picture and definition of the human...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: oars.uos.ac.uk  
-   Link: <a href="https://oars.uos.ac.uk/1044/1/Stella___Engelhardt__2019__OARS_version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oars.uos.ac.uk/1044/1/Stella___Engelhardt__2019__OARS_version.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ambiguity resolution in dyslexiaby M Stella · Cited by 21 — They showed that dyslexics had a greater number of fixations on a target word...</p></details>
+   Link:<a href="https://oars.uos.ac.uk/1044/1/Stella___Engelhardt__2019__OARS_version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oars.uos.ac.uk/1044/1/Stella___Engelhardt__2019__OARS_version.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ambiguity resolution in dyslexiaby M Stella · Cited by 21 — They showed that dyslexics had a greater number of fixations on a target word...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/eye" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/eye</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary6 days ago — one of the two organs in your face that are used for seeing: He has no sight in his...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/eye" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/eye</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary6 days ago — one of the two organs in your face that are used for seeing: He has no sight in his...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: readlite.in  
    Title: Strategic regressions improve reading outcomes  
-   Link: <a href="https://readlite.in/concepts/regressions-reading" target="_blank" rel="noopener noreferrer nofollow">https://readlite.in/concepts/regressions-reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Regressions in Reading: Why Your Eyes Jump Back (And...Studies show that forcing yourself not to regress leads to worse comprehension, e...</p></details>
+   Link:<a href="https://readlite.in/concepts/regressions-reading" target="_blank" rel="noopener noreferrer nofollow">https://readlite.in/concepts/regressions-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Regressions in Reading: Why Your Eyes Jump Back (And...Studies show that forcing yourself not to regress leads to worse comprehension, e...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: akjournals.com  
    Title: There are two possible cognitive  
-   Link: <a href="https://www.akjournals.com/view/journals/2059/8/1/article-p77.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.akjournals.com/view/journals/2059/8/1/article-p77.xml</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Error detection in reading in English: A validation study of a...by T Gostiukhin · 2025 — The presence of regressions may indicate sever...</p></details>
+   Link:<a href="https://www.akjournals.com/view/journals/2059/8/1/article-p77.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.akjournals.com/view/journals/2059/8/1/article-p77.xml</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Error detection in reading in English: A validation study of a...by T Gostiukhin · 2025 — The presence of regressions may indicate sever...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: videnomlaesning.dk  
    Title: reading for understanding  
-   Link: <a href="https://www.videnomlaesning.dk/media/2526/reading-for-understanding.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.videnomlaesning.dk/media/2526/reading-for-understanding.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Toward an R&amp;D Program in Reading Comprehensionby C Snow · 2002 · Cited by 5123 — Understanding how to improve reading comprehension outco...</p></details>
+   Link:<a href="https://www.videnomlaesning.dk/media/2526/reading-for-understanding.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.videnomlaesning.dk/media/2526/reading-for-understanding.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Toward an R&amp;D Program in Reading Comprehensionby C Snow · 2002 · Cited by 5123 — Understanding how to improve reading comprehension outco...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: educationaldatamining.org  
    Title: 2022.EDM long papers.13  
-   Link: <a href="https://educationaldatamining.org/edm2022/proceedings/2022.EDM-long-papers.13/" target="_blank" rel="noopener noreferrer nofollow">https://educationaldatamining.org/edm2022/proceedings/2022.EDM-long-papers.13/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Going Deep and Far: Gaze-based [Models](&amp;#123;&amp;#123; &#x27;models/&#x27; | relative_url &amp;#125;&amp;#125;) Predict Multiple...by M Caruso · 2022 · Cited by 15 — Gaze-based student-independent computational...</p></details>
+   Link:<a href="https://educationaldatamining.org/edm2022/proceedings/2022.EDM-long-papers.13/" target="_blank" rel="noopener noreferrer nofollow">https://educationaldatamining.org/edm2022/proceedings/2022.EDM-long-papers.13/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Going Deep and Far: Gaze-based [Models](&amp;#123;&amp;#123; &#x27;models/&#x27; | relative_url &amp;#125;&amp;#125;) Predict Multiple...by M Caruso · 2022 · Cited by 15 — Gaze-based student-independent computational...</p></details>

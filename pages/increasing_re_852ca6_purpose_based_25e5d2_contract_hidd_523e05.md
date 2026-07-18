@@ -292,7 +292,7 @@ Reading contracts quickly is not the same as reading them casually. Among common
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_purpose_based_25e5d2_contract_hidd_523e05-Illustration-1-dark.svg" | relative_url }}" alt="Contracts illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_purpose_based_25e5d2_contract_hidd_523e05-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_purpose_based_25e5d2_contract_hidd_523e05-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Many disputes arise not from the headline deal terms but from provisions that reshape them: a broad definition, an exclusion buried in a later section, an automatic renewal trigger, or a [liability cap]({{ 'liability-caps/' | relative_url }}) that limits recovery when something goes wrong. Courts generally treat contracts as risk-allocation tools, meaning seemingly [technical]({{ 'technical-texts/' | relative_url }}) wording can determine who pays, who bears losses, and who has legal remedies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ashurst.com/en/insights/quickguide-limiting-and-excluding-liability/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ashurst.com">[Ashurst]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ashurst.com</span><span class="citation-popover-title">quickguide limiting and excluding liability</span><span class="citation-popover-snippet">Quickguide Limiting and excluding liability10 Jan 2025 — This guide sets out the principles to be considered when drafting these c...</span></span></span>
+Many disputes arise not from the headline deal terms but from provisions that reshape them: a broad definition, an exclusion buried in a later section, an automatic renewal trigger, or a [liability cap]({{ 'liability-caps/' | relative_url }}) that limits recovery when something goes wrong. Courts generally treat contracts as risk-allocation tools, meaning seemingly [technical]({{ 'technical-texts/' | relative_url }}) wording can determine who pays, who bears losses, and who has legal remedies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ashurst.com/en/insights/quickguide-limiting-and-excluding-liability/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ashurst.com">[Ashurst]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ashurst.com</span><span class="citation-popover-title">quickguide limiting and excluding liability</span><span class="citation-popover-snippet">Quickguide Limiting and excluding liability10 Jan 2025 — This guide sets out the principles to be considered when drafting these c...</span></span></span>
 
 ## Definitions, Exclusions, and “Subject To” Wording
 
@@ -343,7 +343,7 @@ Skimming readers often ignore these references because they interrupt flow. Yet 
 
 Many costly contract surprises involve timing rather than price.
 
-Automatic renewal provisions are a classic example. A contract may appear to end after one year, but an auto-renewal clause can extend it unless notice is given during a narrow cancellation window. Consumer-protection regulators have devoted increasing attention to automatic renewal and negative-option arrangements because customers often overlook these provisions. The US Federal Trade Commission has repeatedly highlighted risks associated with subscriptions and renewals that continue unless consumers actively cancel. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://consumer.ftc.gov/articles/getting-and-out-free-trials-auto-renewals-and-negative-option-subscriptions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consumer.ftc.gov">[Consumer Advice+2Federal Register]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consumer.ftc.gov</span><span class="citation-popover-snippet">Consumer AdviceGetting In and Out of Free Trials, Auto-Renewals...Some will auto-renew if you don&#x27;t cancel first, A negative option is w...</span></span></span>
+Automatic renewal provisions are a classic example. A contract may appear to end after one year, but an auto-renewal clause can extend it unless notice is given during a narrow cancellation window. Consumer-protection regulators have devoted increasing attention to automatic renewal and negative-option arrangements because customers often overlook these provisions. The US Federal Trade Commission has repeatedly highlighted risks associated with subscriptions and renewals that continue unless consumers actively cancel.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://consumer.ftc.gov/articles/getting-and-out-free-trials-auto-renewals-and-negative-option-subscriptions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consumer.ftc.gov">[Consumer Advice+2Federal Register]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consumer.ftc.gov</span><span class="citation-popover-snippet">Consumer AdviceGetting In and Out of Free Trials, Auto-Renewals...Some will auto-renew if you don&#x27;t cancel first, A negative option is w...</span></span></span>
 
 When reviewing a contract, identify:
 
@@ -395,7 +395,7 @@ The most financially important clauses are often among the least exciting to rea
 
 ### Liability Limits: What Happens When Things Go Wrong?
 
-A [limitation]({{ 'reading-limits/' | relative_url }})-of-liability clause determines how much one party can recover if the other breaches the agreement. Rather than focusing on performance, it focuses on failure. These clauses commonly cap damages, exclude particular categories of loss, or both. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sirion.ai/library/contract-clauses/limitation-of-liability-clauses/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sirion.ai">[Sirion+2Icertis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sirion.ai</span><span class="citation-popover-title">These provisions define the extent to which parties can be held</span><span class="citation-popover-snippet">Limitation of Liability Clauses: A Definitive Guide30 Apr 2026 — Limitation of liability clauses are essential in managing risk in...</span></span></span>
+A [limitation]({{ 'reading-limits/' | relative_url }})-of-liability clause determines how much one party can recover if the other breaches the agreement. Rather than focusing on performance, it focuses on failure. These clauses commonly cap damages, exclude particular categories of loss, or both.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sirion.ai/library/contract-clauses/limitation-of-liability-clauses/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sirion.ai">[Sirion+2Icertis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sirion.ai</span><span class="citation-popover-title">These provisions define the extent to which parties can be held</span><span class="citation-popover-snippet">Limitation of Liability Clauses: A Definitive Guide30 Apr 2026 — Limitation of liability clauses are essential in managing risk in...</span></span></span>
 
 For example, a supplier might agree to provide a critical service while simultaneously limiting liability to the fees paid during the previous twelve months. The service commitment may appear strong, but the remedy for failure may be modest.
 
@@ -406,12 +406,12 @@ When reviewing liability provisions, look for:
 
 * Financial caps.
 * Excluded categories of damages.
-* Unlimited-liability exceptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nortonrosefulbright.com/en-de/knowledge/publications/1cb2397c/liability-101-liability-clauses-in-technology-and-outsourcing-contracts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nortonrosefulbright.com">[nortonrosefulbright.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nortonrosefulbright.com</span><span class="citation-popover-snippet">Norton Rose FulbrightLiability clauses in technology and outsourcing contractsUnlimited liability: A clause providing for those instances...</span></span></span>
+* Unlimited-liability exceptions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nortonrosefulbright.com/en-de/knowledge/publications/1cb2397c/liability-101-liability-clauses-in-technology-and-outsourcing-contracts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nortonrosefulbright.com">[nortonrosefulbright.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nortonrosefulbright.com</span><span class="citation-popover-snippet">Norton Rose FulbrightLiability clauses in technology and outsourcing contractsUnlimited liability: A clause providing for those instances...</span></span></span>
 * Special treatment of negligence, fraud, or misconduct.
 
 </div>
 
-Commercial contracts often distinguish between losses that can be claimed and losses that cannot. Financial exposure can therefore differ dramatically from a reader's first impression of the deal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nortonrosefulbright.com/en-de/knowledge/publications/1cb2397c/liability-101-liability-clauses-in-technology-and-outsourcing-contracts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nortonrosefulbright.com">[Norton Rose Fulbright]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nortonrosefulbright.com</span><span class="citation-popover-snippet">Norton Rose FulbrightLiability clauses in technology and outsourcing contractsUnlimited liability: A clause providing for those instances...</span></span></span>
+Commercial contracts often distinguish between losses that can be claimed and losses that cannot. Financial exposure can therefore differ dramatically from a reader's first impression of the deal.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nortonrosefulbright.com/en-de/knowledge/publications/1cb2397c/liability-101-liability-clauses-in-technology-and-outsourcing-contracts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nortonrosefulbright.com">[Norton Rose Fulbright]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nortonrosefulbright.com</span><span class="citation-popover-snippet">Norton Rose FulbrightLiability clauses in technology and outsourcing contractsUnlimited liability: A clause providing for those instances...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XpROJ5DDC0Q" title="The Hidden Liability Risks in Your Current MSP Contracts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XpROJ5DDC0Q" target="_blank" rel="noopener noreferrer">The Hidden Liability Risks in Your Current MSP Contracts</a></p><p class="youtube-embed-meta">Channel: CRN &middot; Views: 18 &middot; Uploaded: May 2026 &middot; Length: 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XpROJ5DDC0Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XpROJ5DDC0Q">Open on YouTube</a></p></div></div></div>
@@ -420,7 +420,7 @@ Commercial contracts often distinguish between losses that can be claimed and lo
 
 Indemnity clauses deserve special attention because they can transfer responsibility for losses from one party to another.
 
-An indemnity generally requires one party to compensate another for specified losses, liabilities, costs, or third-party claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lexisnexis.com/en-gb/legal/glossary/indemnity-clause" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lexisnexis.com">[LexisNexis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lexisnexis.com</span><span class="citation-popover-snippet">Indemnity clause Meaning &#124; Legal GlossaryAn indemnity clause is a contractual risk-allocation provision under which one party a...</span></span></span>
+An indemnity generally requires one party to compensate another for specified losses, liabilities, costs, or third-party claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lexisnexis.com/en-gb/legal/glossary/indemnity-clause" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lexisnexis.com">[LexisNexis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lexisnexis.com</span><span class="citation-popover-snippet">Indemnity clause Meaning &#124; Legal GlossaryAn indemnity clause is a contractual risk-allocation provision under which one party a...</span></span></span>
 
 The reading trap is that indemnities often appear deep in the contract and use technical language. Yet they may create obligations that exceed what a casual reader expects.
 
@@ -430,14 +430,14 @@ Questions to ask include:
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * What losses are covered?
-* Does the indemnity cover third-party claims? <span class="citation-chip-wrap"><a class="citation-chip" href="https://uk.practicallaw.thomsonreuters.com/a-040-6482?contextData=%28sc.Default%29&amp;transitionType=Default" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uk.practicallaw.thomsonreuters.com">[uk.practicallaw.thomsonreuters.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uk.practicallaw.thomsonreuters.com</span><span class="citation-popover-snippet">you take an indemnity against third party claims for injury...15 Dec 2017 — The contract between A and B caps A&#x27;s liability to B for los...</span></span></span>
+* Does the indemnity cover third-party claims?<span class="citation-chip-wrap"><a class="citation-chip" href="https://uk.practicallaw.thomsonreuters.com/a-040-6482?contextData=%28sc.Default%29&amp;transitionType=Default" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uk.practicallaw.thomsonreuters.com">[uk.practicallaw.thomsonreuters.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uk.practicallaw.thomsonreuters.com</span><span class="citation-popover-snippet">you take an indemnity against third party claims for injury...15 Dec 2017 — The contract between A and B caps A&#x27;s liability to B for los...</span></span></span>
 * Are legal costs included?
 * Is the indemnity capped?
 * Does it survive termination?
 
 </div>
 
-A particularly important issue is the relationship between indemnities and liability caps. Depending on the contract's wording, indemnity obligations may receive different treatment from ordinary liability provisions. Lawyers frequently negotiate this point because it can significantly alter risk exposure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uk.practicallaw.thomsonreuters.com/a-132-9522?contextData=%28sc.Default%29&amp;transitionType=Default" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uk.practicallaw.thomsonreuters.com">[Practical Law+2Osborne Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uk.practicallaw.thomsonreuters.com</span><span class="citation-popover-snippet">Practical LawDo indemnities ordinarily sit outside a liability cap?4 Jan 2022 — Indemnities would ordinarily sit outside of the limitatio...</span></span></span>
+A particularly important issue is the relationship between indemnities and liability caps. Depending on the contract's wording, indemnity obligations may receive different treatment from ordinary liability provisions. Lawyers frequently negotiate this point because it can significantly alter risk exposure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uk.practicallaw.thomsonreuters.com/a-132-9522?contextData=%28sc.Default%29&amp;transitionType=Default" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uk.practicallaw.thomsonreuters.com">[Practical Law+2Osborne Clarke]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uk.practicallaw.thomsonreuters.com</span><span class="citation-popover-snippet">Practical LawDo indemnities ordinarily sit outside a liability cap?4 Jan 2022 — Indemnities would ordinarily sit outside of the limitatio...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_purpose_based_25e5d2_contract_hidd_523e05-Illustration-3-dark.svg" | relative_url }}" alt="Contracts illustration 3" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_purpose_based_25e5d2_contract_hidd_523e05-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_purpose_based_25e5d2_contract_hidd_523e05-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -453,7 +453,7 @@ The key reading question is not merely, "What is promised?" but also, "What happ
 
 Dispute-resolution clauses frequently receive little attention during negotiations because neither side expects litigation.
 
-Yet these provisions determine: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sirion.ai/library/contract-clauses/limitation-of-liability-clauses/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sirion.ai">[sirion.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sirion.ai</span><span class="citation-popover-title">These provisions define the extent to which parties can be held</span><span class="citation-popover-snippet">Limitation of Liability Clauses: A Definitive Guide30 Apr 2026 — Limitation of liability clauses are essential in managing risk in...</span></span></span>
+Yet these provisions determine:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sirion.ai/library/contract-clauses/limitation-of-liability-clauses/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sirion.ai">[sirion.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sirion.ai</span><span class="citation-popover-title">These provisions define the extent to which parties can be held</span><span class="citation-popover-snippet">Limitation of Liability Clauses: A Definitive Guide30 Apr 2026 — Limitation of liability clauses are essential in managing risk in...</span></span></span>
 
 * Where disputes will be heard.
 * Which law applies.
@@ -473,7 +473,7 @@ For readers whose goal is both speed and protection, a practical sequence is:
 2. Review all defined terms that appear repeatedly.
 3. Locate every renewal, termination, and notice provision.
 4. Trace payment triggers and deadlines.
-5. Read every liability, warranty, exclusion, and indemnity clause slowly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.icertis.com/contracting-basics/limitation-of-liability-clause/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icertis.com">[icertis.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icertis.com</span><span class="citation-popover-title">limitation of liability clause</span><span class="citation-popover-snippet">A Comprehensive Guide19 Mar 2025 — A limitation of liability clause is a provision within a contract that caps the amount of damages one...</span></span></span>
+5. Read every liability, warranty, exclusion, and indemnity clause slowly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.icertis.com/contracting-basics/limitation-of-liability-clause/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icertis.com">[icertis.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icertis.com</span><span class="citation-popover-title">limitation of liability clause</span><span class="citation-popover-snippet">A Comprehensive Guide19 Mar 2025 — A limitation of liability clause is a provision within a contract that caps the amount of damages one...</span></span></span>
 6. Check dispute-resolution and governing-law sections.
 7. Follow every cross-reference attached to those clauses.
 
@@ -486,178 +486,178 @@ Contracts are unusual documents because the sections that look least important a
 For increasing reading speed, the lesson is not to read contracts faster across the board. It is to read selectively. Skim routine narrative, but [slow down]({{ 'slow-down/' | relative_url }}) wherever the contract allocates risk. The greatest gains come not from moving your eyes faster, but from recognising which paragraphs deserve far more attention than their dull appearance suggests.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the dullest clauses may matter most. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the dullest clauses may matter most. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Directly addresses different reading goals and speeds.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Directly addresses different reading goals and speeds.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Manual+of+Style+for+Contract+Drafting+Kenneth+A.+Adams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Manual of Style for Contract Drafting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/859826-M.jpg" alt="Cover for A Manual of Style for Contract Drafting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Manual+of+Style+for+Contract+Drafting+Kenneth+A.+Adams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Manual of Style for Contract Drafting">A Manual of Style for Contract Drafting</a>
-        </h4>
-        <p class="fr-book-author">By Kenneth A. Adams</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Manual+of+Style+for+Contract+Drafting+Kenneth+A.+Adams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Manual of Style for Contract Drafting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/859826-M.jpg" alt="Cover for A Manual of Style for Contract Drafting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Manual+of+Style+for+Contract+Drafting+Kenneth+A.+Adams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Manual of Style for Contract Drafting">A Manual of Style for Contract Drafting</a>
+</h4>
+<p class="fr-book-author">By Kenneth A. Adams</p>
         
-        <p class="fr-book-desc">First published 2005. Subjects: Contracts, Legal composition, Language, Contracts, united states, Interpretation and construction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Manual+of+Style+for+Contract+Drafting+Kenneth+A.+Adams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2005. Subjects: Contracts, Legal composition, Language, Contracts, united states, Interpretation and construction.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Manual+of+Style+for+Contract+Drafting+Kenneth+A.+Adams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Breakthrough rapid reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/84360-M.jpg" alt="Cover for Breakthrough rapid reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breakthrough rapid reading">Breakthrough rapid reading</a>
-        </h4>
-        <p class="fr-book-author">By Peter Kump</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Breakthrough rapid reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/84360-M.jpg" alt="Cover for Breakthrough rapid reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breakthrough rapid reading">Breakthrough rapid reading</a>
+</h4>
+<p class="fr-book-author">By Peter Kump</p>
         
-        <p class="fr-book-desc">First published 1979. Subjects: Speed reading, Rapid reading, Du shu fang fa.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1979. Subjects: Speed reading, Rapid reading, Du shu fang fa.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Working+with+contracts+Charles+M.+Fox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Working with contracts on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/751372-M.jpg" alt="Cover for Working with contracts" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Working+with+contracts+Charles+M.+Fox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Working with contracts">Working with contracts</a>
-        </h4>
-        <p class="fr-book-author">By Charles M. Fox</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Working+with+contracts+Charles+M.+Fox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Working with contracts on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/751372-M.jpg" alt="Cover for Working with contracts" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Working+with+contracts+Charles+M.+Fox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Working with contracts">Working with contracts</a>
+</h4>
+<p class="fr-book-author">By Charles M. Fox</p>
         
-        <p class="fr-book-desc">First published 2002. Subjects: Contracts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Working+with+contracts+Charles+M.+Fox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2002. Subjects: Contracts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Working+with+contracts+Charles+M.+Fox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Manual+of+Style+for+Contract+Drafting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Manual of Style for Contract Drafting</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Breakthrough rapid reading</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Manual+of+Style+for+Contract+Drafting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Manual of Style for Contract Drafting</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Breakthrough rapid reading</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+file+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contracts-why-the-dullest-clauses-may-matter-most-increasing-desktop-file-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop file organizer" data-ebay-reference="contracts-why-the-dullest-clauses-may-matter-most-increasing-desktop-file-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 4-Trays Desktop File Organizer, Mesh Office Desk Supplies Organizer Document"><img src="{{ '/assets/images/marketplace-covers/4b73c95abb946bbcbd81.jpg' | relative_url }}" alt="Listing image for 4-Trays Desktop File Organizer, Mesh Office Desk Supplies Organizer Document" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+file+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contracts-why-the-dullest-clauses-may-matter-most-increasing-desktop-file-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop file organizer" data-ebay-reference="contracts-why-the-dullest-clauses-may-matter-most-increasing-desktop-file-organizer" target="_blank" rel="sponsored noopener noreferrer">4-Trays Desktop File Organizer, Mesh Office Desk Supplies Organizer Document</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+file+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contracts-why-the-dullest-clauses-may-matter-most-increasing-desktop-file-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop file organizer" data-ebay-reference="contracts-why-the-dullest-clauses-may-matter-most-increasing-desktop-file-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desktop file organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: desktop file organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+file+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contracts-why-the-dullest-clauses-may-matter-most-increasing-desktop-file-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop file organizer" data-ebay-reference="contracts-why-the-dullest-clauses-may-matter-most-increasing-desktop-file-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+file+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contracts-why-the-dullest-clauses-may-matter-most-increasing-desktop-file-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop file organizer" data-ebay-reference="contracts-why-the-dullest-clauses-may-matter-most-increasing-desktop-file-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 4-Trays Desktop File Organizer, Mesh Office Desk Supplies Organizer Document"><img src="{{ '/assets/images/marketplace-covers/4b73c95abb946bbcbd81.jpg' | relative_url }}" alt="Listing image for 4-Trays Desktop File Organizer, Mesh Office Desk Supplies Organizer Document" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+file+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contracts-why-the-dullest-clauses-may-matter-most-increasing-desktop-file-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop file organizer" data-ebay-reference="contracts-why-the-dullest-clauses-may-matter-most-increasing-desktop-file-organizer" target="_blank" rel="sponsored noopener noreferrer">4-Trays Desktop File Organizer, Mesh Office Desk Supplies Organizer Document</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+file+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contracts-why-the-dullest-clauses-may-matter-most-increasing-desktop-file-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop file organizer" data-ebay-reference="contracts-why-the-dullest-clauses-may-matter-most-increasing-desktop-file-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desktop file organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: desktop file organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+file+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contracts-why-the-dullest-clauses-may-matter-most-increasing-desktop-file-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop file organizer" data-ebay-reference="contracts-why-the-dullest-clauses-may-matter-most-increasing-desktop-file-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+file+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contracts-why-the-dullest-clauses-may-matter-most-increasing-desktop-file-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop file organizer" data-ebay-reference="contracts-why-the-dullest-clauses-may-matter-most-increasing-desktop-file-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desktop File Holder A4 Paper Letter Tray Office Document Rack Storage Organizer"><img src="{{ '/assets/images/marketplace-covers/72b592a80073247fa49f.jpg' | relative_url }}" alt="Listing image for Desktop File Holder A4 Paper Letter Tray Office Document Rack Storage Organizer" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+file+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contracts-why-the-dullest-clauses-may-matter-most-increasing-desktop-file-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop file organizer" data-ebay-reference="contracts-why-the-dullest-clauses-may-matter-most-increasing-desktop-file-organizer" target="_blank" rel="sponsored noopener noreferrer">Desktop File Holder A4 Paper Letter Tray Office Document Rack Storage Organizer</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+file+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contracts-why-the-dullest-clauses-may-matter-most-increasing-desktop-file-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop file organizer" data-ebay-reference="contracts-why-the-dullest-clauses-may-matter-most-increasing-desktop-file-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desktop file organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: desktop file organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+file+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contracts-why-the-dullest-clauses-may-matter-most-increasing-desktop-file-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop file organizer" data-ebay-reference="contracts-why-the-dullest-clauses-may-matter-most-increasing-desktop-file-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+file+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contracts-why-the-dullest-clauses-may-matter-most-increasing-desktop-file-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop file organizer" data-ebay-reference="contracts-why-the-dullest-clauses-may-matter-most-increasing-desktop-file-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desktop File Holder A4 Paper Letter Tray Office Document Rack Storage Organizer"><img src="{{ '/assets/images/marketplace-covers/72b592a80073247fa49f.jpg' | relative_url }}" alt="Listing image for Desktop File Holder A4 Paper Letter Tray Office Document Rack Storage Organizer" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+file+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contracts-why-the-dullest-clauses-may-matter-most-increasing-desktop-file-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop file organizer" data-ebay-reference="contracts-why-the-dullest-clauses-may-matter-most-increasing-desktop-file-organizer" target="_blank" rel="sponsored noopener noreferrer">Desktop File Holder A4 Paper Letter Tray Office Document Rack Storage Organizer</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+file+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contracts-why-the-dullest-clauses-may-matter-most-increasing-desktop-file-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop file organizer" data-ebay-reference="contracts-why-the-dullest-clauses-may-matter-most-increasing-desktop-file-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desktop file organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: desktop file organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+file+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contracts-why-the-dullest-clauses-may-matter-most-increasing-desktop-file-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop file organizer" data-ebay-reference="contracts-why-the-dullest-clauses-may-matter-most-increasing-desktop-file-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+file+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contracts-why-the-dullest-clauses-may-matter-most-increasing-desktop-file-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop file organizer" data-ebay-reference="contracts-why-the-dullest-clauses-may-matter-most-increasing-desktop-file-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 5/7Tier Desktop File Holder A4 Paper Storage Tray Office Document Sort Organizer"><img src="{{ '/assets/images/marketplace-covers/91bba6523253754caf06.jpg' | relative_url }}" alt="Listing image for 5/7Tier Desktop File Holder A4 Paper Storage Tray Office Document Sort Organizer" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+file+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contracts-why-the-dullest-clauses-may-matter-most-increasing-desktop-file-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop file organizer" data-ebay-reference="contracts-why-the-dullest-clauses-may-matter-most-increasing-desktop-file-organizer" target="_blank" rel="sponsored noopener noreferrer">5/7Tier Desktop File Holder A4 Paper Storage Tray Office Document Sort Organizer</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+file+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contracts-why-the-dullest-clauses-may-matter-most-increasing-desktop-file-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop file organizer" data-ebay-reference="contracts-why-the-dullest-clauses-may-matter-most-increasing-desktop-file-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desktop file organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: desktop file organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+file+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contracts-why-the-dullest-clauses-may-matter-most-increasing-desktop-file-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop file organizer" data-ebay-reference="contracts-why-the-dullest-clauses-may-matter-most-increasing-desktop-file-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+file+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contracts-why-the-dullest-clauses-may-matter-most-increasing-desktop-file-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop file organizer" data-ebay-reference="contracts-why-the-dullest-clauses-may-matter-most-increasing-desktop-file-organizer" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+file+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contracts-why-the-dullest-clauses-may-matter-most-increasing-desktop-file-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop file organizer" data-ebay-reference="contracts-why-the-dullest-clauses-may-matter-most-increasing-desktop-file-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 5/7Tier Desktop File Holder A4 Paper Storage Tray Office Document Sort Organizer"><img src="{{ '/assets/images/marketplace-covers/91bba6523253754caf06.jpg' | relative_url }}" alt="Listing image for 5/7Tier Desktop File Holder A4 Paper Storage Tray Office Document Sort Organizer" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+file+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contracts-why-the-dullest-clauses-may-matter-most-increasing-desktop-file-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop file organizer" data-ebay-reference="contracts-why-the-dullest-clauses-may-matter-most-increasing-desktop-file-organizer" target="_blank" rel="sponsored noopener noreferrer">5/7Tier Desktop File Holder A4 Paper Storage Tray Office Document Sort Organizer</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+file+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contracts-why-the-dullest-clauses-may-matter-most-increasing-desktop-file-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop file organizer" data-ebay-reference="contracts-why-the-dullest-clauses-may-matter-most-increasing-desktop-file-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desktop file organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: desktop file organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+file+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contracts-why-the-dullest-clauses-may-matter-most-increasing-desktop-file-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop file organizer" data-ebay-reference="contracts-why-the-dullest-clauses-may-matter-most-increasing-desktop-file-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=desktop+file+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contracts-why-the-dullest-clauses-may-matter-most-increasing-desktop-file-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desktop file organizer" data-ebay-reference="contracts-why-the-dullest-clauses-may-matter-most-increasing-desktop-file-organizer" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -673,7 +673,7 @@ For increasing reading speed, the lesson is not to read contracts faster across 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -693,7 +693,7 @@ For increasing reading speed, the lesson is not to read contracts faster across 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -725,7 +725,7 @@ For increasing reading speed, the lesson is not to read contracts faster across 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -777,7 +777,7 @@ For increasing reading speed, the lesson is not to read contracts faster across 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -822,7 +822,7 @@ For increasing reading speed, the lesson is not to read contracts faster across 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -863,140 +863,140 @@ For increasing reading speed, the lesson is not to read contracts faster across 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ashurst.com  
    Title: quickguide limiting and excluding liability  
-   Link: <a href="https://www.ashurst.com/en/insights/quickguide-limiting-and-excluding-liability/" target="_blank" rel="noopener noreferrer nofollow">https://www.ashurst.com/en/insights/quickguide-limiting-and-excluding-liability/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Quickguide Limiting and excluding liability10 Jan 2025 — This guide sets out the principles to be considered when drafting these c...</p></details>
+   Link:<a href="https://www.ashurst.com/en/insights/quickguide-limiting-and-excluding-liability/" target="_blank" rel="noopener noreferrer nofollow">https://www.ashurst.com/en/insights/quickguide-limiting-and-excluding-liability/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Quickguide Limiting and excluding liability10 Jan 2025 — This guide sets out the principles to be considered when drafting these c...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sirion.ai  
    Title: These provisions define the extent to which parties can be held  
-   Link: <a href="https://www.sirion.ai/library/contract-clauses/limitation-of-liability-clauses/" target="_blank" rel="noopener noreferrer nofollow">https://www.sirion.ai/library/contract-clauses/limitation-of-liability-clauses/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Limitation of Liability Clauses: A Definitive Guide30 Apr 2026 — Limitation of liability clauses are essential in managing risk in...</p></details>
+   Link:<a href="https://www.sirion.ai/library/contract-clauses/limitation-of-liability-clauses/" target="_blank" rel="noopener noreferrer nofollow">https://www.sirion.ai/library/contract-clauses/limitation-of-liability-clauses/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Limitation of Liability Clauses: A Definitive Guide30 Apr 2026 — Limitation of liability clauses are essential in managing risk in...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: icertis.com  
    Title: limitation of liability clause  
-   Link: <a href="https://www.icertis.com/contracting-basics/limitation-of-liability-clause/" target="_blank" rel="noopener noreferrer nofollow">https://www.icertis.com/contracting-basics/limitation-of-liability-clause/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Comprehensive Guide19 Mar 2025 — A limitation of liability clause is a provision within a contract that caps the amount of damages one...</p></details>
+   Link:<a href="https://www.icertis.com/contracting-basics/limitation-of-liability-clause/" target="_blank" rel="noopener noreferrer nofollow">https://www.icertis.com/contracting-basics/limitation-of-liability-clause/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Comprehensive Guide19 Mar 2025 — A limitation of liability clause is a provision within a contract that caps the amount of damages one...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sirion.ai  
-   Link: <a href="https://www.sirion.ai/library/contract-clauses/limitation-of-liability-vs-indemnification/" target="_blank" rel="noopener noreferrer nofollow">https://www.sirion.ai/library/contract-clauses/limitation-of-liability-vs-indemnification/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Limitation of Liability vs Indemnification: Key DifferencesA limitation of liability clause sets boundaries on the amount or types...</p></details>
+   Link:<a href="https://www.sirion.ai/library/contract-clauses/limitation-of-liability-vs-indemnification/" target="_blank" rel="noopener noreferrer nofollow">https://www.sirion.ai/library/contract-clauses/limitation-of-liability-vs-indemnification/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Limitation of Liability vs Indemnification: Key DifferencesA limitation of liability clause sets boundaries on the amount or types...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: lexisnexis.com  
-   Link: <a href="https://www.lexisnexis.com/en-gb/legal/glossary/indemnity-clause" target="_blank" rel="noopener noreferrer nofollow">https://www.lexisnexis.com/en-gb/legal/glossary/indemnity-clause</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Indemnity clause Meaning | Legal GlossaryAn indemnity clause is a contractual risk-allocation provision under which one party a...</p></details>
+   Link:<a href="https://www.lexisnexis.com/en-gb/legal/glossary/indemnity-clause" target="_blank" rel="noopener noreferrer nofollow">https://www.lexisnexis.com/en-gb/legal/glossary/indemnity-clause</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Indemnity clause Meaning | Legal GlossaryAn indemnity clause is a contractual risk-allocation provision under which one party a...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: uk.practicallaw.thomsonreuters.com  
    Title: Practical Law Limiting liability: drafting and negotiating  
-   Link: <a href="https://uk.practicallaw.thomsonreuters.com/2-520-5359?contextData=%28sc.Default%29&amp;transitionType=Default" target="_blank" rel="noopener noreferrer nofollow">https://uk.practicallaw.thomsonreuters.com/2-520-5359?contextData=%28sc.Default%29&amp;transitionType=Default</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>liability: drafting and negotiating - Practical LawA [practice](&amp;#123;&amp;#123; &#x27;practice/&#x27; | relative_url &amp;#125;&amp;#125;) note that explains the legal and commercial issues involved in negotiating...</p></details>
+   Link:<a href="https://uk.practicallaw.thomsonreuters.com/2-520-5359?contextData=%28sc.Default%29&amp;transitionType=Default" target="_blank" rel="noopener noreferrer nofollow">https://uk.practicallaw.thomsonreuters.com/2-520-5359?contextData=%28sc.Default%29&amp;transitionType=Default</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>liability: drafting and negotiating - Practical LawA [practice](&amp;#123;&amp;#123; &#x27;practice/&#x27; | relative_url &amp;#125;&amp;#125;) note that explains the legal and commercial issues involved in negotiating...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: consumer.ftc.gov  
-   Link: <a href="https://consumer.ftc.gov/articles/getting-and-out-free-trials-auto-renewals-and-negative-option-subscriptions" target="_blank" rel="noopener noreferrer nofollow">https://consumer.ftc.gov/articles/getting-and-out-free-trials-auto-renewals-and-negative-option-subscriptions</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer AdviceGetting In and Out of Free Trials, Auto-Renewals...Some will auto-renew if you don&#x27;t cancel first, A negative option is w...</p></details>
+   Link:<a href="https://consumer.ftc.gov/articles/getting-and-out-free-trials-auto-renewals-and-negative-option-subscriptions" target="_blank" rel="noopener noreferrer nofollow">https://consumer.ftc.gov/articles/getting-and-out-free-trials-auto-renewals-and-negative-option-subscriptions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer AdviceGetting In and Out of Free Trials, Auto-Renewals...Some will auto-renew if you don&#x27;t cancel first, A negative option is w...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: federalregister.gov  
    Title: negative option rule  
-   Link: <a href="https://www.federalregister.gov/documents/2024/11/15/2024-25534/negative-option-rule" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2024/11/15/2024-25534/negative-option-rule</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>15 Nov 2024 — In automatic renewals, sellers automatically renew consumers&#x27; subscriptions when they expire, unless consumers affirmativel...</p></details>
+   Link:<a href="https://www.federalregister.gov/documents/2024/11/15/2024-25534/negative-option-rule" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2024/11/15/2024-25534/negative-option-rule</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>15 Nov 2024 — In automatic renewals, sellers automatically renew consumers&#x27; subscriptions when they expire, unless consumers affirmativel...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/news-events/news/press-releases/2024/10/federal-trade-commission-announces-final-click-cancel-rule-making-it-easier-consumers-end-recurring" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/news/press-releases/2024/10/federal-trade-commission-announces-final-click-cancel-rule-making-it-easier-consumers-end-recurring</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFederal Trade Commission Announces Final “Click-to-...16 Oct 2024 — Federal Trade Commission Announces Final “Cl...</p></details>
+   Link:<a href="https://www.ftc.gov/news-events/news/press-releases/2024/10/federal-trade-commission-announces-final-click-cancel-rule-making-it-easier-consumers-end-recurring" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/news/press-releases/2024/10/federal-trade-commission-announces-final-click-cancel-rule-making-it-easier-consumers-end-recurring</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFederal Trade Commission Announces Final “Click-to-...16 Oct 2024 — Federal Trade Commission Announces Final “Cl...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nortonrosefulbright.com  
-   Link: <a href="https://www.nortonrosefulbright.com/en-de/knowledge/publications/1cb2397c/liability-101-liability-clauses-in-technology-and-outsourcing-contracts" target="_blank" rel="noopener noreferrer nofollow">https://www.nortonrosefulbright.com/en-de/knowledge/publications/1cb2397c/liability-101-liability-clauses-in-technology-and-outsourcing-contracts</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Norton Rose FulbrightLiability clauses in technology and outsourcing contractsUnlimited liability: A clause providing for those instances...</p></details>
+   Link:<a href="https://www.nortonrosefulbright.com/en-de/knowledge/publications/1cb2397c/liability-101-liability-clauses-in-technology-and-outsourcing-contracts" target="_blank" rel="noopener noreferrer nofollow">https://www.nortonrosefulbright.com/en-de/knowledge/publications/1cb2397c/liability-101-liability-clauses-in-technology-and-outsourcing-contracts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Norton Rose FulbrightLiability clauses in technology and outsourcing contractsUnlimited liability: A clause providing for those instances...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: uk.practicallaw.thomsonreuters.com  
-   Link: <a href="https://uk.practicallaw.thomsonreuters.com/a-132-9522?contextData=%28sc.Default%29&amp;transitionType=Default" target="_blank" rel="noopener noreferrer nofollow">https://uk.practicallaw.thomsonreuters.com/a-132-9522?contextData=%28sc.Default%29&amp;transitionType=Default</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Practical LawDo indemnities ordinarily sit outside a liability cap?4 Jan 2022 — Indemnities would ordinarily sit outside of the limitatio...</p></details>
+   Link:<a href="https://uk.practicallaw.thomsonreuters.com/a-132-9522?contextData=%28sc.Default%29&amp;transitionType=Default" target="_blank" rel="noopener noreferrer nofollow">https://uk.practicallaw.thomsonreuters.com/a-132-9522?contextData=%28sc.Default%29&amp;transitionType=Default</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Practical LawDo indemnities ordinarily sit outside a liability cap?4 Jan 2022 — Indemnities would ordinarily sit outside of the limitatio...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: osborneclarke.com  
    Title: spotlight on contractual indemnities  
-   Link: <a href="https://www.osborneclarke.com/insights/spotlight-on-contractual-indemnities" target="_blank" rel="noopener noreferrer nofollow">https://www.osborneclarke.com/insights/spotlight-on-contractual-indemnities</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Osborne ClarkeSpotlight on contractual indemnities1 Mar 2019 — There is no general rule as to whether a clause limiting liability applies...</p></details>
+   Link:<a href="https://www.osborneclarke.com/insights/spotlight-on-contractual-indemnities" target="_blank" rel="noopener noreferrer nofollow">https://www.osborneclarke.com/insights/spotlight-on-contractual-indemnities</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Osborne ClarkeSpotlight on contractual indemnities1 Mar 2019 — There is no general rule as to whether a clause limiting liability applies...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: legal.thomsonreuters.com  
    Title: indemnification clauses in commercial contracts  
-   Link: <a href="https://legal.thomsonreuters.com/en/insights/articles/indemnification-clauses-in-commercial-contracts" target="_blank" rel="noopener noreferrer nofollow">https://legal.thomsonreuters.com/en/insights/articles/indemnification-clauses-in-commercial-contracts</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Thomson Reuters LegalIndemnification Clauses in Commercial Contracts20 Oct 2024 — A limitation of liability clause in a contract caps the...</p></details>
+   Link:<a href="https://legal.thomsonreuters.com/en/insights/articles/indemnification-clauses-in-commercial-contracts" target="_blank" rel="noopener noreferrer nofollow">https://legal.thomsonreuters.com/en/insights/articles/indemnification-clauses-in-commercial-contracts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thomson Reuters LegalIndemnification Clauses in Commercial Contracts20 Oct 2024 — A limitation of liability clause in a contract caps the...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: uk.practicallaw.thomsonreuters.com  
-   Link: <a href="https://uk.practicallaw.thomsonreuters.com/w-026-1588?contextData=%28sc.Default%29&amp;transitionType=Default" target="_blank" rel="noopener noreferrer nofollow">https://uk.practicallaw.thomsonreuters.com/w-026-1588?contextData=%28sc.Default%29&amp;transitionType=Default</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Basics: Indemnification and Limitation of Liability...This presentation gives a high-level overview of indemnification and limitation of...</p></details>
+   Link:<a href="https://uk.practicallaw.thomsonreuters.com/w-026-1588?contextData=%28sc.Default%29&amp;transitionType=Default" target="_blank" rel="noopener noreferrer nofollow">https://uk.practicallaw.thomsonreuters.com/w-026-1588?contextData=%28sc.Default%29&amp;transitionType=Default</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Basics: Indemnification and Limitation of Liability...This presentation gives a high-level overview of indemnification and limitation of...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: uk.practicallaw.thomsonreuters.com  
-   Link: <a href="https://uk.practicallaw.thomsonreuters.com/a-040-6482?contextData=%28sc.Default%29&amp;transitionType=Default" target="_blank" rel="noopener noreferrer nofollow">https://uk.practicallaw.thomsonreuters.com/a-040-6482?contextData=%28sc.Default%29&amp;transitionType=Default</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>you take an indemnity against third party claims for injury...15 Dec 2017 — The contract between A and B caps A&#x27;s liability to B for los...</p></details>
+   Link:<a href="https://uk.practicallaw.thomsonreuters.com/a-040-6482?contextData=%28sc.Default%29&amp;transitionType=Default" target="_blank" rel="noopener noreferrer nofollow">https://uk.practicallaw.thomsonreuters.com/a-040-6482?contextData=%28sc.Default%29&amp;transitionType=Default</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>you take an indemnity against third party claims for injury...15 Dec 2017 — The contract between A and B caps A&#x27;s liability to B for los...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/legal-library/browse/rules/negative-option-rule" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/legal-library/browse/rules/negative-option-rule</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Negative Option RuleFederal Trade Commission Proposes Rule Provision Making it Easier for Consumers to “Click to Cancel” Recurring Subscr...</p></details>
+   Link:<a href="https://www.ftc.gov/legal-library/browse/rules/negative-option-rule" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/legal-library/browse/rules/negative-option-rule</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Negative Option RuleFederal Trade Commission Proposes Rule Provision Making it Easier for Consumers to “Click to Cancel” Recurring Subscr...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: loeb.com  
-   Link: <a href="https://www.loeb.com/en/insights/publications/2024/10/click-to-cancel-ftc-releases-final-rule-for-subscriptions" target="_blank" rel="noopener noreferrer nofollow">https://www.loeb.com/en/insights/publications/2024/10/click-to-cancel-ftc-releases-final-rule-for-subscriptions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Click to Cancel&#x27; – FTC Releases Final Rule for SubscriptionsThe new rule requires sellers to provide a simple mechanism for a consumer t...</p></details>
+   Link:<a href="https://www.loeb.com/en/insights/publications/2024/10/click-to-cancel-ftc-releases-final-rule-for-subscriptions" target="_blank" rel="noopener noreferrer nofollow">https://www.loeb.com/en/insights/publications/2024/10/click-to-cancel-ftc-releases-final-rule-for-subscriptions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Click to Cancel&#x27; – FTC Releases Final Rule for SubscriptionsThe new rule requires sellers to provide a simple mechanism for a consumer t...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: crowell.com  
-   Link: <a href="https://www.crowell.com/en/insights/client-alerts/clicking-all-the-right-boxes-ftc-moves-to-revive-click-to-cancel-rule-following-eighth-circuit-vacatur" target="_blank" rel="noopener noreferrer nofollow">https://www.crowell.com/en/insights/client-alerts/clicking-all-the-right-boxes-ftc-moves-to-revive-click-to-cancel-rule-following-eighth-circuit-vacatur</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Moves to Revive “Click-to-Cancel” Rule Following...The draft ANPRM signals the FTC&#x27;s intent to revisit and potentially revive regula...</p></details>
+   Link:<a href="https://www.crowell.com/en/insights/client-alerts/clicking-all-the-right-boxes-ftc-moves-to-revive-click-to-cancel-rule-following-eighth-circuit-vacatur" target="_blank" rel="noopener noreferrer nofollow">https://www.crowell.com/en/insights/client-alerts/clicking-all-the-right-boxes-ftc-moves-to-revive-click-to-cancel-rule-following-eighth-circuit-vacatur</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Moves to Revive “Click-to-Cancel” Rule Following...The draft ANPRM signals the FTC&#x27;s intent to revisit and potentially revive regula...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: taulersmith.com  
-   Link: <a href="https://taulersmith.com/ftc-rule-proposal-automatic-renewals" target="_blank" rel="noopener noreferrer nofollow">https://taulersmith.com/ftc-rule-proposal-automatic-renewals</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Rule Proposal on Automatic RenewalsThe FTC rule proposal on automatic renewals would impose strict requirements on companies that off...</p></details>
+   Link:<a href="https://taulersmith.com/ftc-rule-proposal-automatic-renewals" target="_blank" rel="noopener noreferrer nofollow">https://taulersmith.com/ftc-rule-proposal-automatic-renewals</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Rule Proposal on Automatic RenewalsThe FTC rule proposal on automatic renewals would impose strict requirements on companies that off...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: taylorwessing.com  
-   Link: <a href="https://www.taylorwessing.com/de/insights-and-events/insights/2018/06/liability-exclusions-under-german-law" target="_blank" rel="noopener noreferrer nofollow">https://www.taylorwessing.com/de/insights-and-events/insights/2018/06/liability-exclusions-under-german-law</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Liability Exclusions under German LawUnder German law limitation/exclusion of liability clauses respectively indemnity clauses require an...</p></details>
+   Link:<a href="https://www.taylorwessing.com/de/insights-and-events/insights/2018/06/liability-exclusions-under-german-law" target="_blank" rel="noopener noreferrer nofollow">https://www.taylorwessing.com/de/insights-and-events/insights/2018/06/liability-exclusions-under-german-law</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Liability Exclusions under German LawUnder German law limitation/exclusion of liability clauses respectively indemnity clauses require an...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: stevens-bolton.com  
-   Link: <a href="https://www.stevens-bolton.com/insights/102ktw4/limiting-liability-in-commercial-contracts/" target="_blank" rel="noopener noreferrer nofollow">https://www.stevens-bolton.com/insights/102ktw4/limiting-liability-in-commercial-contracts/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Limiting liability in commercial contractsAn exclusion, limitation or exemption clause in a commercial contract seeks to exclude or limit...</p></details>
+   Link:<a href="https://www.stevens-bolton.com/insights/102ktw4/limiting-liability-in-commercial-contracts/" target="_blank" rel="noopener noreferrer nofollow">https://www.stevens-bolton.com/insights/102ktw4/limiting-liability-in-commercial-contracts/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Limiting liability in commercial contractsAn exclusion, limitation or exemption clause in a commercial contract seeks to exclude or limit...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: dglaw.com  
-   Link: <a href="https://www.dglaw.com/wp-content/uploads/2022/01/Negative-Option-Marketing.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dglaw.com/wp-content/uploads/2022/01/Negative-Option-Marketing.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Negative Option MarketingFor automatic renewal offers that include a free gift, trial, or promotional pricing, sellers must notify consum...</p></details>
+   Link:<a href="https://www.dglaw.com/wp-content/uploads/2022/01/Negative-Option-Marketing.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dglaw.com/wp-content/uploads/2022/01/Negative-Option-Marketing.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Negative Option MarketingFor automatic renewal offers that include a free gift, trial, or promotional pricing, sellers must notify consum...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: sra.org.uk  
-   Link: <a href="https://www.sra.org.uk/solicitors/standards-regulations/indemnity-insurance-rules/" target="_blank" rel="noopener noreferrer nofollow">https://www.sra.org.uk/solicitors/standards-regulations/indemnity-insurance-rules/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Indemnity Insurance RulesThese rules require firms that are authorised by the SRA to take out and maintain professional indemnity i...</p></details>
+   Link:<a href="https://www.sra.org.uk/solicitors/standards-regulations/indemnity-insurance-rules/" target="_blank" rel="noopener noreferrer nofollow">https://www.sra.org.uk/solicitors/standards-regulations/indemnity-insurance-rules/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Indemnity Insurance RulesThese rules require firms that are authorised by the SRA to take out and maintain professional indemnity i...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: gunder.com  
-   Link: <a href="https://www.gunder.com/en/news-insights/insights/client-insight-click-to-cancel-amendements-to-the-ftc-negative-option-rule-and-california-automatic-renewal-law" target="_blank" rel="noopener noreferrer nofollow">https://www.gunder.com/en/news-insights/insights/client-insight-click-to-cancel-amendements-to-the-ftc-negative-option-rule-and-california-automatic-renewal-law</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Client Insight: “Click to Cancel” Amendments to the FTC...Jun 23, 2025 — The FTC&#x27;s new “Click to Cancel” rule and California&#x27;s updated l...</p></details>
+   Link:<a href="https://www.gunder.com/en/news-insights/insights/client-insight-click-to-cancel-amendements-to-the-ftc-negative-option-rule-and-california-automatic-renewal-law" target="_blank" rel="noopener noreferrer nofollow">https://www.gunder.com/en/news-insights/insights/client-insight-click-to-cancel-amendements-to-the-ftc-negative-option-rule-and-california-automatic-renewal-law</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Client Insight: “Click to Cancel” Amendments to the FTC...Jun 23, 2025 — The FTC&#x27;s new “Click to Cancel” rule and California&#x27;s updated l...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: cms.law  
-   Link: <a href="https://cms.law/content/download/443673/file/Consequential%20Loss%20Clauses%20in%20the%20Energy%20Sector_An%20international%20guide_FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cms.law/content/download/443673/file/Consequential%20Loss%20Clauses%20in%20the%20Energy%20Sector_An%20international%20guide_FINAL.pdf</a>  
+   Link:<a href="https://cms.law/content/download/443673/file/Consequential%20Loss%20Clauses%20in%20the%20Energy%20Sector_An%20international%20guide_FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cms.law/content/download/443673/file/Consequential%20Loss%20Clauses%20in%20the%20Energy%20Sector_An%20international%20guide_FINAL.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: cooley.com  
-   Link: <a href="https://www.cooley.com/news/insight/2024/2024-10-23-ftc-finalizes-negative-option-rule-governing-subscriptions-and-trial-offers" target="_blank" rel="noopener noreferrer nofollow">https://www.cooley.com/news/insight/2024/2024-10-23-ftc-finalizes-negative-option-rule-governing-subscriptions-and-trial-offers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Finalizes Negative Option Rule Governing...23 Oct 2024 — The FTC has finalized a new rule that governs negative option features, suc...</p></details>
+   Link:<a href="https://www.cooley.com/news/insight/2024/2024-10-23-ftc-finalizes-negative-option-rule-governing-subscriptions-and-trial-offers" target="_blank" rel="noopener noreferrer nofollow">https://www.cooley.com/news/insight/2024/2024-10-23-ftc-finalizes-negative-option-rule-governing-subscriptions-and-trial-offers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Finalizes Negative Option Rule Governing...23 Oct 2024 — The FTC has finalized a new rule that governs negative option features, suc...</p></details>

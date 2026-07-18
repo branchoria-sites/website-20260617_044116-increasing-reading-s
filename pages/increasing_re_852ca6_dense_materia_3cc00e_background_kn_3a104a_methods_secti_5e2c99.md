@@ -269,13 +269,13 @@ image: /assets/images/increasing_re_852ca6_dense_materia_3cc00e_background_kn_3a
 
 ## Introduction
 
-Methods sections often feel like the slowest part of a technical paper, not because they are badly written, but because they are packed with assumptions. Researchers use methods sections to document study design, measurements, controls, sampling decisions and statistical procedures. Much of that information is compressed into disciplinary shorthand that experts recognise instantly. Novice readers do not yet possess those mental shortcuts, so they must stop repeatedly to interpret what each choice means. The result is a dramatic difference in reading speed. What feels like a quick scan for an experienced researcher can become a sequence of small puzzles for a newcomer. Research on reading comprehension, [expertise]({{ 'expertise/' | relative_url }}) and cognitive load consistently shows that prior [knowledge]({{ 'knowledge/' | relative_url }}) reduces the effort required to process complex information and allows experts to recognise meaningful patterns that novices must build from scratch. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/02702711.2021.1888348" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online+2Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">A critical review was conducted to determine the influence background knowledge has on the reading comprehension of primary school-aged c...</span></span></span>
+Methods sections often feel like the slowest part of a technical paper, not because they are badly written, but because they are packed with assumptions. Researchers use methods sections to document study design, measurements, controls, sampling decisions and statistical procedures. Much of that information is compressed into disciplinary shorthand that experts recognise instantly. Novice readers do not yet possess those mental shortcuts, so they must stop repeatedly to interpret what each choice means. The result is a dramatic difference in reading speed. What feels like a quick scan for an experienced researcher can become a sequence of small puzzles for a newcomer. Research on reading comprehension, [expertise]({{ 'expertise/' | relative_url }}) and cognitive load consistently shows that prior [knowledge]({{ 'knowledge/' | relative_url }}) reduces the effort required to process complex information and allows experts to recognise meaningful patterns that novices must build from scratch.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/02702711.2021.1888348" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online+2Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">A critical review was conducted to determine the influence background knowledge has on the reading comprehension of primary school-aged c...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_dense_materia_3cc00e_background_kn_3a104a_methods_secti_5e2c99-Illustration-1-dark.svg" | relative_url }}" alt="Methods drag illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_dense_materia_3cc00e_background_kn_3a104a_methods_secti_5e2c99-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_dense_materia_3cc00e_background_kn_3a104a_methods_secti_5e2c99-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What methods sections assume you already know
 
-A methods section is rarely intended to teach a reader how research works. Its primary [purpose]({{ 'purpose/' | relative_url }}) is to document what was done so that informed readers can evaluate the study's validity and potentially reproduce it. That goal creates a hidden barrier for newcomers. Writers often assume that readers already understand the standard tools and conventions of the field. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/dissertation/methodology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">What Is a Research Methodology? &#124; Steps &amp; Tips</span><span class="citation-popover-snippet">What Is a Research Methodology? &#124; Steps &amp; TipsAugust 25, 2022 — 25 Aug 2022 — The methodology lets readers assess the reliability...</span><span class="citation-popover-meta">Published: August 25, 2022</span></span></span>
+A methods section is rarely intended to teach a reader how research works. Its primary [purpose]({{ 'purpose/' | relative_url }}) is to document what was done so that informed readers can evaluate the study's validity and potentially reproduce it. That goal creates a hidden barrier for newcomers. Writers often assume that readers already understand the standard tools and conventions of the field.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribbr.com/dissertation/methodology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribbr.com">[Scribbr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribbr.com</span><span class="citation-popover-title">What Is a Research Methodology? &#124; Steps &amp; Tips</span><span class="citation-popover-snippet">What Is a Research Methodology? &#124; Steps &amp; TipsAugust 25, 2022 — 25 Aug 2022 — The methodology lets readers assess the reliability...</span><span class="citation-popover-meta">Published: August 25, 2022</span></span></span>
 
 A single sentence may contain several layers of implied knowledge:
 
@@ -293,7 +293,7 @@ To an expert, this sentence immediately signals a set of design choices, strengt
 
 </div>
 
-The paper usually does not pause to explain these concepts because, within the discipline, they are considered background knowledge. The methods section therefore becomes difficult not because every sentence is complicated, but because understanding each sentence requires knowledge stored outside the text itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7392212/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTen simple rules for reading a scientific paper</span><span class="citation-popover-snippet">NIHby MA Carey · 2020 · Cited by 44 — We present 10 simple rules, relevant to novices and seasoned scientists alike, to teach our s...</span></span></span>
+The paper usually does not pause to explain these concepts because, within the discipline, they are considered background knowledge. The methods section therefore becomes difficult not because every sentence is complicated, but because understanding each sentence requires knowledge stored outside the text itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7392212/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTen simple rules for reading a scientific paper</span><span class="citation-popover-snippet">NIHby MA Carey · 2020 · Cited by 44 — We present 10 simple rules, relevant to novices and seasoned scientists alike, to teach our s...</span></span></span>
 
 This helps explain a common frustration among beginners. They may understand the introduction and even the broad conclusions, yet become stuck in the middle of the paper. The obstacle is often not vocabulary alone. It is the invisible network of assumptions linking procedures, measurements and analytical choices together.
 
@@ -304,7 +304,7 @@ This helps explain a common frustration among beginners. They may understand the
 
 One of the biggest speed advantages experts possess is pattern recognition.
 
-Studies comparing experts and novices reading research literature show that experts experience fewer comprehension difficulties because they recognise familiar structures and can organise information into larger conceptual units rather than treating every detail separately. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6829068/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Expert–Novice Comparison Reveals Pedagogical Implications...by AA Nelms · 2019 · Cited by 60 — Perhaps not unexpectedly, our study re...</span></span></span>
+Studies comparing experts and novices reading research literature show that experts experience fewer comprehension difficulties because they recognise familiar structures and can organise information into larger conceptual units rather than treating every detail separately.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6829068/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Expert–Novice Comparison Reveals Pedagogical Implications...by AA Nelms · 2019 · Cited by 60 — Perhaps not unexpectedly, our study re...</span></span></span>
 
 For example, an experienced biomedical researcher might see:
 
@@ -321,7 +321,7 @@ For example, an experienced biomedical researcher might see:
 
 and immediately activate a large body of prior knowledge about typical strengths, weaknesses and expectations.
 
-Instead of processing twenty individual details, the expert processes one familiar pattern. Cognitive load theory describes this advantage through schemas: organised knowledge structures that allow many elements to be treated as a single meaningful unit. When relevant schemas exist, working memory is freed for higher-level evaluation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/0963721420922183" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals+2Medical College of Wisconsin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsCognitive-Load Theory: Methods to Manage Working...by F Paas · 2020 · Cited by 729 — This article highlights proven and new...</span></span></span>
+Instead of processing twenty individual details, the expert processes one familiar pattern. Cognitive load theory describes this advantage through schemas: organised knowledge structures that allow many elements to be treated as a single meaningful unit. When relevant schemas exist, working memory is freed for higher-level evaluation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/0963721420922183" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals+2Medical College of Wisconsin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsCognitive-Load Theory: Methods to Manage Working...by F Paas · 2020 · Cited by 729 — This article highlights proven and new...</span></span></span>
 
 A novice lacks those schemas. The same methods section may require conscious attention to every component:
 
@@ -336,7 +336,7 @@ A novice lacks those schemas. The same methods section may require conscious att
 
 </div>
 
-Each unanswered question consumes working-memory resources. Reading slows because interpretation must occur simultaneously with decoding the text. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://education.nsw.gov.au/content/dam/main-education/about-us/educational-data/cese/2017-cognitive-load-theory.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.nsw.gov.au">[Education NSW+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.nsw.gov.au</span><span class="citation-popover-title">Education NSWCognitive load theory: Research that teachers really need</span><span class="citation-popover-snippet">February 13, 2025 — The aim of cognitive load research is therefore to develop instructional techniques and recommendations that fit with...</span><span class="citation-popover-meta">Published: February 13, 2025</span></span></span>
+Each unanswered question consumes working-memory resources. Reading slows because interpretation must occur simultaneously with decoding the text.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://education.nsw.gov.au/content/dam/main-education/about-us/educational-data/cese/2017-cognitive-load-theory.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: education.nsw.gov.au">[Education NSW+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">education.nsw.gov.au</span><span class="citation-popover-title">Education NSWCognitive load theory: Research that teachers really need</span><span class="citation-popover-snippet">February 13, 2025 — The aim of cognitive load research is therefore to develop instructional techniques and recommendations that fit with...</span><span class="citation-popover-meta">Published: February 13, 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_dense_materia_3cc00e_background_kn_3a104a_methods_secti_5e2c99-Illustration-2.svg" | relative_url }}" alt="Methods drag illustration 2" loading="lazy" decoding="async" fetchpriority="low">
@@ -348,9 +348,9 @@ Controls provide a useful example. Researchers understand that controls help iso
 
 Novices often see only an additional procedural detail. Because they do not yet understand the purpose behind the control, they must pause and reconstruct the logic of the experiment before moving on.
 
-The same problem occurs with measurements. A paper might state that researchers measured blood pressure, reaction time, gene expression or survey responses using a particular instrument. Experts often know what those measurements represent, how reliable they are and what counts as a meaningful difference. Novices must determine all of that while reading. The text itself rarely supplies enough explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.journalpulmonology.org/en-how-write-scientific-paperwriting-methods-articulo-S0873215911000973" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalpulmonology.org">[journalpulmonology.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalpulmonology.org</span><span class="citation-popover-snippet">How to write a scientific paper—Writing the methods sectionIn this article, we describe and discuss some general recommendations that sho...</span></span></span>
+The same problem occurs with measurements. A paper might state that researchers measured blood pressure, reaction time, gene expression or survey responses using a particular instrument. Experts often know what those measurements represent, how reliable they are and what counts as a meaningful difference. Novices must determine all of that while reading. The text itself rarely supplies enough explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.journalpulmonology.org/en-how-write-scientific-paperwriting-methods-articulo-S0873215911000973" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalpulmonology.org">[journalpulmonology.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalpulmonology.org</span><span class="citation-popover-snippet">How to write a scientific paper—Writing the methods sectionIn this article, we describe and discuss some general recommendations that sho...</span></span></span>
 
-This creates an important reading-[speed illusion]({{ 'speed-illusion/' | relative_url }}). Experts are not merely reading faster. They are importing large amounts of information from memory. Their comprehension depends partly on knowledge accumulated long before they opened the paper. Taylor &amp; Francis Online+2Institute of Education Sciences <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/02702711.2021.1888348" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[tandfonline.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">A critical review was conducted to determine the influence background knowledge has on the reading comprehension of primary school-aged c...</span></span></span>
+This creates an important reading-[speed illusion]({{ 'speed-illusion/' | relative_url }}). Experts are not merely reading faster. They are importing large amounts of information from memory. Their comprehension depends partly on knowledge accumulated long before they opened the paper. Taylor &amp; Francis Online+2Institute of Education Sciences<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/02702711.2021.1888348" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[tandfonline.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">A critical review was conducted to determine the influence background knowledge has on the reading comprehension of primary school-aged c...</span></span></span>
 
 ## Statistics often become the bottleneck
 
@@ -370,7 +370,7 @@ For novices, each statistical reference may trigger a chain of questions:
 
 </div>
 
-Reading stops while the reader attempts to fill in missing knowledge. The bottleneck is not the number of words on the page but the amount of background understanding required to interpret them. Cognitive-load research repeatedly shows that unfamiliar material places greater demands on working memory, making complex tasks feel slower and more effortful. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/0963721420922183" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals+2Education NSW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsCognitive-Load Theory: Methods to Manage Working...by F Paas · 2020 · Cited by 729 — This article highlights proven and new...</span></span></span>
+Reading stops while the reader attempts to fill in missing knowledge. The bottleneck is not the number of words on the page but the amount of background understanding required to interpret them. Cognitive-load research repeatedly shows that unfamiliar material places greater demands on working memory, making complex tasks feel slower and more effortful.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/0963721420922183" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals+2Education NSW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsCognitive-Load Theory: Methods to Manage Working...by F Paas · 2020 · Cited by 729 — This article highlights proven and new...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P4RVO9aIIVA" title="02. How People Learn: Cognitive Load Theory" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P4RVO9aIIVA" target="_blank" rel="noopener noreferrer">02. How People Learn: Cognitive Load Theory</a></p><p class="youtube-embed-meta">Channel: MIT OpenCourseWare</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P4RVO9aIIVA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P4RVO9aIIVA">Open on YouTube</a></p></div></div></div>
@@ -393,7 +393,7 @@ Pause when:
 
 </div>
 
-In contrast, it is often unnecessary to master every [technical]({{ 'technical-texts/' | relative_url }}) detail on a first reading. Experienced readers frequently make an initial pass to identify the overall design before returning to difficult sections later. Guidance for reading scientific papers commonly recommends active reading and multiple passes rather than trying to understand everything at once. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7392212/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Stanford University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTen simple rules for reading a scientific paper</span><span class="citation-popover-snippet">NIHby MA Carey · 2020 · Cited by 44 — We present 10 simple rules, relevant to novices and seasoned scientists alike, to teach our s...</span></span></span>
+In contrast, it is often unnecessary to master every [technical]({{ 'technical-texts/' | relative_url }}) detail on a first reading. Experienced readers frequently make an initial pass to identify the overall design before returning to difficult sections later. Guidance for reading scientific papers commonly recommends active reading and multiple passes rather than trying to understand everything at once.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7392212/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Stanford University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTen simple rules for reading a scientific paper</span><span class="citation-popover-snippet">NIHby MA Carey · 2020 · Cited by 44 — We present 10 simple rules, relevant to novices and seasoned scientists alike, to teach our s...</span></span></span>
 
 The key insight is that slowing down is not always a failure. Sometimes it is a signal that the text is relying on knowledge you have not yet acquired. In those moments, the obstacle is not reading speed itself. It is the absence of the background knowledge that allows experts to recognise designs, controls, measurements and analyses almost automatically.
 
@@ -405,201 +405,201 @@ Methods sections reveal an important truth about [increasing]({{ 'increasing/' |
 
 Experts move quickly through methods because years of experience allow them to compress large amounts of information into familiar patterns. Novices encounter the same text as a collection of unfamiliar decisions that must be interpreted one by one. The apparent speed gap is therefore largely a knowledge gap.
 
-As readers accumulate familiarity with common study designs, standard controls, typical measurements and recurring statistical approaches, methods sections begin to feel shorter. The words on the page do not change. What changes is the amount of explanation the reader can supply from memory. That hidden reservoir of knowledge is often the real reason experts seem to read so much faster. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/02702711.2021.1888348" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[PMC+3Taylor &amp; Francis Online+3PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">A critical review was conducted to determine the influence background knowledge has on the reading comprehension of primary school-aged c...</span></span></span>
+As readers accumulate familiarity with common study designs, standard controls, typical measurements and recurring statistical approaches, methods sections begin to feel shorter. The words on the page do not change. What changes is the amount of explanation the reader can supply from memory. That hidden reservoir of knowledge is often the real reason experts seem to read so much faster.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/02702711.2021.1888348" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[PMC+3Taylor &amp; Francis Online+3PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">A critical review was conducted to determine the influence background knowledge has on the reading comprehension of primary school-aged c...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SKxm2HF_-k0" title="How To Read an Academic Paper" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SKxm2HF_-k0" target="_blank" rel="noopener noreferrer">How To Read an Academic Paper</a></p><p class="youtube-embed-meta">Channel: UBC iSchool</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SKxm2HF_-k0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SKxm2HF_-k0">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Methods Sections Feel So Slow. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Methods Sections Feel So Slow. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Designing+Social+Inquiry+Gary+King&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Designing Social Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12414993-M.jpg" alt="Cover for Designing Social Inquiry" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Designing+Social+Inquiry+Gary+King&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Designing Social Inquiry">Designing Social Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By Gary King, Robert O. Keohane et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Designing+Social+Inquiry+Gary+King&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Designing Social Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12414993-M.jpg" alt="Cover for Designing Social Inquiry" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Designing+Social+Inquiry+Gary+King&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Designing Social Inquiry">Designing Social Inquiry</a>
+</h4>
+<p class="fr-book-author">By Gary King, Robert O. Keohane et al.</p>
         
-        <p class="fr-book-desc">First published 1994. Subjects: Inference, Social sciences, methodology, Social sciences, research, Social sciences, Methodology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Designing+Social+Inquiry+Gary+King&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1994. Subjects: Inference, Social sciences, methodology, Social sciences, research, Social sciences, Methodology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Designing+Social+Inquiry+Gary+King&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+read+a+paper+Trisha+Greenhalgh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to read a paper on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/459980-M.jpg" alt="Cover for How to read a paper" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+read+a+paper+Trisha+Greenhalgh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to read a paper">How to read a paper</a>
-        </h4>
-        <p class="fr-book-author">By Trisha Greenhalgh</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+read+a+paper+Trisha+Greenhalgh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to read a paper on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/459980-M.jpg" alt="Cover for How to read a paper" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+read+a+paper+Trisha+Greenhalgh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to read a paper">How to read a paper</a>
+</h4>
+<p class="fr-book-author">By Trisha Greenhalgh</p>
         
-        <p class="fr-book-desc">First published 1997. Subjects: Clinical medicine, Decision making, Documentation, Epidemiology, Evaluation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+read+a+paper+Trisha+Greenhalgh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1997. Subjects: Clinical medicine, Decision making, Documentation, Epidemiology, Evaluation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+read+a+paper+Trisha+Greenhalgh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Research+Design+John+W.+Creswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Research Design on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6716326-M.jpg" alt="Cover for Research Design" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Research+Design+John+W.+Creswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Research Design">Research Design</a>
-        </h4>
-        <p class="fr-book-author">By John W. Creswell, J. David Creswell</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Research+Design+John+W.+Creswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Research Design on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6716326-M.jpg" alt="Cover for Research Design" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Research+Design+John+W.+Creswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Research Design">Research Design</a>
+</h4>
+<p class="fr-book-author">By John W. Creswell, J. David Creswell</p>
         
-        <p class="fr-book-desc">First published 1994. Subjects: Statistical methods, Research, Methodology, Social sciences, Social sciences - research - methodology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Research+Design+John+W.+Creswell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1994. Subjects: Statistical methods, Research, Methodology, Social sciences, Social sciences - research - methodology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Research+Design+John+W.+Creswell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Craft+of+Research+%28Chicago+Guides+to+Writing%2C+Editing%2C+and+Publishing%29+Wayne+C.+Booth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Craft of Research (Chicago Guides to Writing, Editing, and Publishing) on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Craft+of+Research+%28Chicago+Guides+to+Writing%2C+Editing%2C+and+Publishing%29+Wayne+C.+Booth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Craft of Research (Chicago Guides to Writing, Editing, and Publishing)">The Craft of Research (Chicago Guides to Writing, Editing, an...</a>
-        </h4>
-        <p class="fr-book-author">By Wayne C. Booth, Gregory G. Colomb et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Craft+of+Research+%28Chicago+Guides+to+Writing%2C+Editing%2C+and+Publishing%29+Wayne+C.+Booth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Craft of Research (Chicago Guides to Writing, Editing, and Publishing) on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Craft+of+Research+%28Chicago+Guides+to+Writing%2C+Editing%2C+and+Publishing%29+Wayne+C.+Booth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Craft of Research (Chicago Guides to Writing, Editing, and Publishing)">The Craft of Research (Chicago Guides to Writing, Editing, an...</a>
+</h4>
+<p class="fr-book-author">By Wayne C. Booth, Gregory G. Colomb et al.</p>
         
-        <p class="fr-book-desc">Explains research design, evidence, methods, and how experts interpret research papers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Craft+of+Research+%28Chicago+Guides+to+Writing%2C+Editing%2C+and+Publishing%29+Wayne+C.+Booth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains research design, evidence, methods, and how experts interpret research papers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Craft+of+Research+%28Chicago+Guides+to+Writing%2C+Editing%2C+and+Publishing%29+Wayne+C.+Booth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Designing+Social+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Designing Social Inquiry</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+read+a+paper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to read a paper</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Research+Design&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Research Design</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Designing+Social+Inquiry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Designing Social Inquiry</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+read+a+paper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to read a paper</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Research+Design&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Research Design</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart"><img src="{{ '/assets/images/marketplace-covers/aae037611cfd40de073a.jpg' | relative_url }}" alt="Listing image for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart"><img src="{{ '/assets/images/marketplace-covers/aae037611cfd40de073a.jpg' | relative_url }}" alt="Listing image for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster"><img src="{{ '/assets/images/marketplace-covers/fe6eac85e0cbd3115c4c.jpg' | relative_url }}" alt="Listing image for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster"><img src="{{ '/assets/images/marketplace-covers/fe6eac85e0cbd3115c4c.jpg' | relative_url }}" alt="Listing image for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd"><img src="{{ '/assets/images/marketplace-covers/7b9530e3e70391be5ab3.jpg' | relative_url }}" alt="Listing image for Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd"><img src="{{ '/assets/images/marketplace-covers/7b9530e3e70391be5ab3.jpg' | relative_url }}" alt="Listing image for Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic Table Of The Elements Science Education Poster For Students A4 A3 A2 A1"><img src="{{ '/assets/images/marketplace-covers/c3b9a38bf2b70fc3d814.jpg' | relative_url }}" alt="Listing image for Periodic Table Of The Elements Science Education Poster For Students A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Periodic Table Of The Elements Science Education Poster For Students A4 A3 A2 A1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic Table Of The Elements Science Education Poster For Students A4 A3 A2 A1"><img src="{{ '/assets/images/marketplace-covers/c3b9a38bf2b70fc3d814.jpg' | relative_url }}" alt="Listing image for Periodic Table Of The Elements Science Education Poster For Students A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Periodic Table Of The Elements Science Education Poster For Students A4 A3 A2 A1</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="methods-drag-why-methods-sections-feel-so-slow-increasing-science-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -615,7 +615,7 @@ As readers accumulate familiarity with common study designs, standard controls, 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -635,7 +635,7 @@ As readers accumulate familiarity with common study designs, standard controls, 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -667,7 +667,7 @@ As readers accumulate familiarity with common study designs, standard controls, 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -719,7 +719,7 @@ As readers accumulate familiarity with common study designs, standard controls, 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -764,7 +764,7 @@ As readers accumulate familiarity with common study designs, standard controls, 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -805,142 +805,142 @@ As readers accumulate familiarity with common study designs, standard controls, 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12367772/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12367772/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by A Gorbunova · 2025 · Cited by 10 — This study examines how prior knowledge and pre-training relate to cognitive load during problem...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12367772/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12367772/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by A Gorbunova · 2025 · Cited by 10 — This study examines how prior knowledge and pre-training relate to cognitive load during problem...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: scribbr.com  
    Title: What Is a Research Methodology? | Steps & Tips  
-   Link: <a href="https://www.scribbr.com/dissertation/methodology/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/dissertation/methodology/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What Is a Research Methodology? | Steps &amp; TipsAugust 25, 2022 — 25 Aug 2022 — The methodology lets readers assess the reliability...</p></details>
+   Link:<a href="https://www.scribbr.com/dissertation/methodology/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.com/dissertation/methodology/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Is a Research Methodology? | Steps &amp; TipsAugust 25, 2022 — 25 Aug 2022 — The methodology lets readers assess the reliability...</p></details>
    Published: August 25, 2022  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: journalpulmonology.org  
-   Link: <a href="https://www.journalpulmonology.org/en-how-write-scientific-paperwriting-methods-articulo-S0873215911000973" target="_blank" rel="noopener noreferrer nofollow">https://www.journalpulmonology.org/en-how-write-scientific-paperwriting-methods-articulo-S0873215911000973</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to write a scientific paper—Writing the methods sectionIn this article, we describe and discuss some general recommendations that sho...</p></details>
+   Link:<a href="https://www.journalpulmonology.org/en-how-write-scientific-paperwriting-methods-articulo-S0873215911000973" target="_blank" rel="noopener noreferrer nofollow">https://www.journalpulmonology.org/en-how-write-scientific-paperwriting-methods-articulo-S0873215911000973</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to write a scientific paper—Writing the methods sectionIn this article, we describe and discuss some general recommendations that sho...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCTen simple rules for reading a scientific paper  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7392212/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7392212/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby MA Carey · 2020 · Cited by 44 — We present 10 simple rules, relevant to novices and seasoned scientists alike, to teach our s...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7392212/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7392212/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby MA Carey · 2020 · Cited by 44 — We present 10 simple rules, relevant to novices and seasoned scientists alike, to teach our s...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6829068/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6829068/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Expert–Novice Comparison Reveals Pedagogical Implications...by AA Nelms · 2019 · Cited by 60 — Perhaps not unexpectedly, our study re...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6829068/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6829068/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Expert–Novice Comparison Reveals Pedagogical Implications...by AA Nelms · 2019 · Cited by 60 — Perhaps not unexpectedly, our study re...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: education.nsw.gov.au  
    Title: Education NSWCognitive load theory: Research that teachers really need  
-   Link: <a href="https://education.nsw.gov.au/content/dam/main-education/about-us/educational-data/cese/2017-cognitive-load-theory.pdf" target="_blank" rel="noopener noreferrer nofollow">https://education.nsw.gov.au/content/dam/main-education/about-us/educational-data/cese/2017-cognitive-load-theory.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>February 13, 2025 — The aim of cognitive load research is therefore to develop instructional techniques and recommendations that fit with...</p></details>
+   Link:<a href="https://education.nsw.gov.au/content/dam/main-education/about-us/educational-data/cese/2017-cognitive-load-theory.pdf" target="_blank" rel="noopener noreferrer nofollow">https://education.nsw.gov.au/content/dam/main-education/about-us/educational-data/cese/2017-cognitive-load-theory.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>February 13, 2025 — The aim of cognitive load research is therefore to develop instructional techniques and recommendations that fit with...</p></details>
    Published: February 13, 2025  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: web.stanford.edu  
-   Link: <a href="https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford UniversityHow to Read a Paperby S Keshav · Cited by 313 — Researchers must read papers for several reasons: to re- view them for...</p></details>
+   Link:<a href="https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford UniversityHow to Read a Paperby S Keshav · Cited by 313 — Researchers must read papers for several reasons: to re- view them for...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: How People Learn: Cognitive Load Theory  
-   Link: <a href="https://www.youtube.com/watch?v=P4RVO9aIIVA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P4RVO9aIIVA</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Load Theory...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=P4RVO9aIIVA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P4RVO9aIIVA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Load Theory...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Cognitive Load Theory  
-   Link: <a href="https://www.youtube.com/watch?v=QUHRo4b-XGA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QUHRo4b-XGA</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How To Read an Academic Paper - YouTube How To Read an Academic Paper - YouTube...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=QUHRo4b-XGA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QUHRo4b-XGA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How To Read an Academic Paper - YouTube How To Read an Academic Paper - YouTube...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/02702711.2021.1888348" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/02702711.2021.1888348</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A critical review was conducted to determine the influence background knowledge has on the reading comprehension of primary school-aged c...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/02702711.2021.1888348" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/02702711.2021.1888348</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A critical review was conducted to determine the influence background knowledge has on the reading comprehension of primary school-aged c...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/0963721420922183" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0963721420922183</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsCognitive-Load Theory: Methods to Manage Working...by F Paas · 2020 · Cited by 729 — This article highlights proven and new...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/0963721420922183" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0963721420922183</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsCognitive-Load Theory: Methods to Manage Working...by F Paas · 2020 · Cited by 729 — This article highlights proven and new...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/21548455.2022.2078010" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/21548455.2022.2078010</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineHow do readers at different career stages approach...by KE Hubbard · 2022 · Cited by 21 — We explore how 33 biolo...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/21548455.2022.2078010" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/21548455.2022.2078010</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineHow do readers at different career stages approach...by KE Hubbard · 2022 · Cited by 21 — We explore how 33 biolo...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: mcw.edu  
-   Link: <a href="https://www.mcw.edu/-/media/MCW/Education/Academic-Affairs/OEI/Faculty-Quick-Guides/Cognitive-Load-Theory.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mcw.edu/-/media/MCW/Education/Academic-Affairs/OEI/Faculty-Quick-Guides/Cognitive-Load-Theory.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Medical College of WisconsinCognitive Load TheoryCognitive load refers to the amount of information our working memory can process at any...</p></details>
+   Link:<a href="https://www.mcw.edu/-/media/MCW/Education/Academic-Affairs/OEI/Faculty-Quick-Guides/Cognitive-Load-Theory.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mcw.edu/-/media/MCW/Education/Academic-Affairs/OEI/Faculty-Quick-Guides/Cognitive-Load-Theory.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Medical College of WisconsinCognitive Load TheoryCognitive load refers to the amount of information our working memory can process at any...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ies.ed.gov  
    Title: Institute of Education Sciences IES  
-   Link: <a href="https://ies.ed.gov/use-work/awards/what-types-knowledge-matters-what-types-comprehension-exploring-role-background-knowledge-students" target="_blank" rel="noopener noreferrer nofollow">https://ies.ed.gov/use-work/awards/what-types-knowledge-matters-what-types-comprehension-exploring-role-background-knowledge-students</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Institute of Education SciencesIES - Institute of Education SciencesThe purpose of this project was to explore the relationship between h...</p></details>
+   Link:<a href="https://ies.ed.gov/use-work/awards/what-types-knowledge-matters-what-types-comprehension-exploring-role-background-knowledge-students" target="_blank" rel="noopener noreferrer nofollow">https://ies.ed.gov/use-work/awards/what-types-knowledge-matters-what-types-comprehension-exploring-role-background-knowledge-students</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Institute of Education SciencesIES - Institute of Education SciencesThe purpose of this project was to explore the relationship between h...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: guides.mclibrary.duke.edu  
-   Link: <a href="https://guides.mclibrary.duke.edu/scientificwriting/sections" target="_blank" rel="noopener noreferrer nofollow">https://guides.mclibrary.duke.edu/scientificwriting/sections</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Writing: Sections of a Paper16 Jan 2026 — Typically scientific journal articles have the following sections: Abstract. Introduction. Mate...</p></details>
+   Link:<a href="https://guides.mclibrary.duke.edu/scientificwriting/sections" target="_blank" rel="noopener noreferrer nofollow">https://guides.mclibrary.duke.edu/scientificwriting/sections</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Writing: Sections of a Paper16 Jan 2026 — Typically scientific journal articles have the following sections: Abstract. Introduction. Mate...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/topics/background-knowledge/articles/building-background-knowledge" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/background-knowledge/articles/building-background-knowledge</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Building Background KnowledgeThis article offers practical classroom strategies to build background knowledge such as using contrasts and...</p></details>
+   Link:<a href="https://www.readingrockets.org/topics/background-knowledge/articles/building-background-knowledge" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/background-knowledge/articles/building-background-knowledge</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Building Background KnowledgeThis article offers practical classroom strategies to build background knowledge such as using contrasts and...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/inspired-ideas-prek-12/how-knowledge-supports-reading-comprehension-a4069a4f1541" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/inspired-ideas-prek-12/how-knowledge-supports-reading-comprehension-a4069a4f1541</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Knowledge Supports Reading ComprehensionExperts argue that if students have some knowledge about the contents of a text before they r...</p></details>
+   Link:<a href="https://medium.com/inspired-ideas-prek-12/how-knowledge-supports-reading-comprehension-a4069a4f1541" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/inspired-ideas-prek-12/how-knowledge-supports-reading-comprehension-a4069a4f1541</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Knowledge Supports Reading ComprehensionExperts argue that if students have some knowledge about the contents of a text before they r...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: skyfox.co  
-   Link: <a href="https://skyfox.co/wp-content/uploads/2020/08/Research-Methodology-for-Beginners-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skyfox.co/wp-content/uploads/2020/08/Research-Methodology-for-Beginners-1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Research Methodology for BeginnersThe very same book you are holding in your hand now is available in your V-Campus portal. All the teach...</p></details>
+   Link:<a href="https://skyfox.co/wp-content/uploads/2020/08/Research-Methodology-for-Beginners-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skyfox.co/wp-content/uploads/2020/08/Research-Methodology-for-Beginners-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Research Methodology for BeginnersThe very same book you are holding in your hand now is available in your V-Campus portal. All the teach...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/349506620_The_Role_of_Background_Knowledge_in_Reading_Comprehension_A_Critical_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/349506620_The_Role_of_Background_Knowledge_in_Reading_Comprehension_A_Critical_Review</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Role of Background Knowledge in Reading...22 Feb 2021 — A critical review was conducted to determine the influence background...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/349506620_The_Role_of_Background_Knowledge_in_Reading_Comprehension_A_Critical_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/349506620_The_Role_of_Background_Knowledge_in_Reading_Comprehension_A_Critical_Review</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Role of Background Knowledge in Reading...22 Feb 2021 — A critical review was conducted to determine the influence background...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: gse.harvard.edu  
    Title: building background knowledge science improves reading comprehension  
-   Link: <a href="https://www.gse.harvard.edu/ideas/usable-knowledge/23/03/building-background-knowledge-science-improves-reading-comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.gse.harvard.edu/ideas/usable-knowledge/23/03/building-background-knowledge-science-improves-reading-comprehension</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard Graduate School of EducationBuilding Background Knowledge in Science Improves...31 Mar 2023 — The 12-month program was designed...</p></details>
+   Link:<a href="https://www.gse.harvard.edu/ideas/usable-knowledge/23/03/building-background-knowledge-science-improves-reading-comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.gse.harvard.edu/ideas/usable-knowledge/23/03/building-background-knowledge-science-improves-reading-comprehension</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard Graduate School of EducationBuilding Background Knowledge in Science Improves...31 Mar 2023 — The 12-month program was designed...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: researchgate.net  
    Title: 373809840 Research Methodology Methods Approaches And Techniques  
-   Link: <a href="https://www.researchgate.net/publication/373809840_Research_Methodology_Methods_Approaches_And_Techniques" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/373809840_Research_Methodology_Methods_Approaches_And_Techniques</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Research Methodology (Methods, Approaches And...5 Jun 2026 — Research involves gathering information pertinent to a subject at hand and...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/373809840_Research_Methodology_Methods_Approaches_And_Techniques" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/373809840_Research_Methodology_Methods_Approaches_And_Techniques</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Research Methodology (Methods, Approaches And...5 Jun 2026 — Research involves gathering information pertinent to a subject at hand and...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: opal.latrobe.edu.au  
    Title: latrobe.edu.au The Role of Background Knowledge in Reading  
-   Link: <a href="https://opal.latrobe.edu.au/articles/journal_contribution/The_Role_of_Background_Knowledge_in_Reading_Comprehension_A_Critical_Review/15022110/files/28892316.pdf" target="_blank" rel="noopener noreferrer nofollow">https://opal.latrobe.edu.au/articles/journal_contribution/The_Role_of_Background_Knowledge_in_Reading_Comprehension_A_Critical_Review/15022110/files/28892316.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>La Trobeby R Smith · 2021 · Cited by 807 — A critical review was conducted to determine the influence background knowledge has on the rea...</p></details>
+   Link:<a href="https://opal.latrobe.edu.au/articles/journal_contribution/The_Role_of_Background_Knowledge_in_Reading_Comprehension_A_Critical_Review/15022110/files/28892316.pdf" target="_blank" rel="noopener noreferrer nofollow">https://opal.latrobe.edu.au/articles/journal_contribution/The_Role_of_Background_Knowledge_in_Reading_Comprehension_A_Critical_Review/15022110/files/28892316.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>La Trobeby R Smith · 2021 · Cited by 807 — A critical review was conducted to determine the influence background knowledge has on the rea...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/106283473/Cognitive_Load_Theory_Methods_to_Manage_Working_Memory_Load_in_the_Learning_of_Complex_Tasks" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/106283473/Cognitive_Load_Theory_Methods_to_Manage_Working_Memory_Load_in_the_Learning_of_Complex_Tasks</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by focusing on the cognitive architecture used by cognitive-load theory and...Read more...</p></details>
+   Link:<a href="https://www.academia.edu/106283473/Cognitive_Load_Theory_Methods_to_Manage_Working_Memory_Load_in_the_Learning_of_Complex_Tasks" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/106283473/Cognitive_Load_Theory_Methods_to_Manage_Working_Memory_Load_in_the_Learning_of_Complex_Tasks</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by focusing on the cognitive architecture used by cognitive-load theory and...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/394386877_Rethinking_pre-training_cognitive_load_implications_for_learners_with_varying_prior_knowledge" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394386877_Rethinking_pre-training_cognitive_load_implications_for_learners_with_varying_prior_knowledge</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Grounded in cognitive load theory...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/394386877_Rethinking_pre-training_cognitive_load_implications_for_learners_with_varying_prior_knowledge" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394386877_Rethinking_pre-training_cognitive_load_implications_for_learners_with_varying_prior_knowledge</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Grounded in cognitive load theory...Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: discovery.ucl.ac.uk  
    Title: Umek UCL 30 March 2023  
-   Link: <a href="https://discovery.ucl.ac.uk/10167622/1/Umek_UCL_30_March_2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/10167622/1/Umek_UCL_30_March_2023.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>role of background knowledge in reading comprehension...by A Umek · 2023 · Cited by 1 — This thesis investigates the impact of backgroun...</p></details>
+   Link:<a href="https://discovery.ucl.ac.uk/10167622/1/Umek_UCL_30_March_2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/10167622/1/Umek_UCL_30_March_2023.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>role of background knowledge in reading comprehension...by A Umek · 2023 · Cited by 1 — This thesis investigates the impact of backgroun...</p></details>
    Published: March 2023  

@@ -327,7 +327,7 @@ image: /assets/images/increasing_re_852ca6_reading_speed_ac88ef-overview-social.
 
 ## Introduction
 
-A realistic adult reading-speed benchmark is much lower than many [speed-reading]({{ 'myths/' | relative_url }}) adverts suggest. For English silent reading, the best-supported average is about **238 words per minute for non-fiction** and **260 words per minute for fiction**, with many adults falling roughly between **175–300 wpm for non-fiction** and **200–320 wpm for fiction**. Those numbers matter only when comprehension is still intact; a faster number produced by [skimming]({{ 'skimming/' | relative_url }}), guessing, or skipping detail is measuring a different task. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://biblio.ugent.be/publication/8647789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: biblio.ugent.be">[Ghent University Bibliography]</a><span class="citation-popover" role="note"><span class="citation-popover-source">biblio.ugent.be</span><span class="citation-popover-snippet">Open source on ugent.be.</span></span></span>
+A realistic adult reading-speed benchmark is much lower than many [speed-reading]({{ 'myths/' | relative_url }}) adverts suggest. For English silent reading, the best-supported average is about **238 words per minute for non-fiction** and **260 words per minute for fiction**, with many adults falling roughly between **175–300 wpm for non-fiction** and **200–320 wpm for fiction**. Those numbers matter only when comprehension is still intact; a faster number produced by [skimming]({{ 'skimming/' | relative_url }}), guessing, or skipping detail is measuring a different task.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://biblio.ugent.be/publication/8647789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: biblio.ugent.be">[Ghent University Bibliography]</a><span class="citation-popover" role="note"><span class="citation-popover-source">biblio.ugent.be</span><span class="citation-popover-snippet">Open source on ugent.be.</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef-overview.webp" | relative_url }}" alt="Overview image for Benchmarks" loading="eager" decoding="sync" fetchpriority="high">
@@ -338,7 +338,7 @@ That means “[increasing]({{ 'increasing/' | relative_url }}) reading speed” 
 
 ## Typical Words-Per-Minute Ranges
 
-The strongest benchmark comes from Marc Brysbaert’s 2019 review and meta-analysis in the *Journal of Memory and Language*. It pooled 190 studies with 18,573 participants and estimated average adult silent reading in English at **238 wpm for non-fiction** and **260 wpm for fiction**. It also found that previously repeated figures around 300 wpm had probably overstated ordinary adult reading speed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://biblio.ugent.be/publication/8647789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: biblio.ugent.be">[Ghent University Bibliography]</a><span class="citation-popover" role="note"><span class="citation-popover-source">biblio.ugent.be</span><span class="citation-popover-snippet">Open source on ugent.be.</span></span></span>
+The strongest benchmark comes from Marc Brysbaert’s 2019 review and meta-analysis in the *Journal of Memory and Language*. It pooled 190 studies with 18,573 participants and estimated average adult silent reading in English at **238 wpm for non-fiction** and **260 wpm for fiction**. It also found that previously repeated figures around 300 wpm had probably overstated ordinary adult reading speed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://biblio.ugent.be/publication/8647789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: biblio.ugent.be">[Ghent University Bibliography]</a><span class="citation-popover" role="note"><span class="citation-popover-source">biblio.ugent.be</span><span class="citation-popover-snippet">Open source on ugent.be.</span></span></span>
 
 A practical way to read the evidence is:
 
@@ -346,15 +346,15 @@ Reading situationRealistic adult benchmarkSilent reading, English non-fictionAve
 
 These figures are not a moral ranking of readers. They are a baseline for interpreting your own pace. Someone reading 210 wpm with strong comprehension of dense non-fiction may be reading more effectively than someone moving at 340 wpm through the same material but retaining only the surface.
 
-[Reading aloud]({{ 'reading-aloud/' | relative_url }}) is slower because it is limited by articulation: you have to say the words, not just recognise and understand them. Brysbaert’s review estimated average adult oral reading at 183 wpm, based on 77 studies and 5,965 participants. Guidance from the SpLD Assessment Standards Committee similarly treats oral rate as useful for some assessment contexts but less central than silent reading for older students and adults, because silent reading is the [normal adult]({{ 'wpm-ranges/' | relative_url }}) mode for study and work. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://biblio.ugent.be/publication/8647789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: biblio.ugent.be">[Ghent University Bibliography]</a><span class="citation-popover" role="note"><span class="citation-popover-source">biblio.ugent.be</span><span class="citation-popover-snippet">Open source on ugent.be.</span></span></span>
+[Reading aloud]({{ 'reading-aloud/' | relative_url }}) is slower because it is limited by articulation: you have to say the words, not just recognise and understand them. Brysbaert’s review estimated average adult oral reading at 183 wpm, based on 77 studies and 5,965 participants. Guidance from the SpLD Assessment Standards Committee similarly treats oral rate as useful for some assessment contexts but less central than silent reading for older students and adults, because silent reading is the [normal adult]({{ 'wpm-ranges/' | relative_url }}) mode for study and work.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://biblio.ugent.be/publication/8647789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: biblio.ugent.be">[Ghent University Bibliography]</a><span class="citation-popover" role="note"><span class="citation-popover-source">biblio.ugent.be</span><span class="citation-popover-snippet">Open source on ugent.be.</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef-Illustration-1-dark.svg" | relative_url }}" alt="Benchmarks illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Fiction and Non-Fiction Differ
 
-Fiction is often read faster not because it is “easier” in every meaningful sense, but because its surface features often demand less word-by-word processing. Brysbaert’s analysis found that the fiction/non-fiction difference could largely be predicted by word length: non-fiction tends to contain longer words, and longer words take more processing time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://biblio.ugent.be/publication/8647789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: biblio.ugent.be">[Ghent University Bibliography]</a><span class="citation-popover" role="note"><span class="citation-popover-source">biblio.ugent.be</span><span class="citation-popover-snippet">Open source on ugent.be.</span></span></span>
+Fiction is often read faster not because it is “easier” in every meaningful sense, but because its surface features often demand less word-by-word processing. Brysbaert’s analysis found that the fiction/non-fiction difference could largely be predicted by word length: non-fiction tends to contain longer words, and longer words take more processing time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://biblio.ugent.be/publication/8647789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: biblio.ugent.be">[Ghent University Bibliography]</a><span class="citation-popover" role="note"><span class="citation-popover-source">biblio.ugent.be</span><span class="citation-popover-snippet">Open source on ugent.be.</span></span></span>
 
-A later study tested this word-length explanation in Dutch. It found that reading-rate predictions improved when average word length was taken into account: texts averaging 4.5 letters per word were predicted at around 270 wpm, while texts averaging 6.0 letters per word were predicted at around 202 wpm. The point is not that word length explains everything, but that the physical and linguistic make-up of a text changes what counts as a realistic pace. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/17470218211017100" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsImproving reading rate prediction with word length information: Evidence from Dutch - Marc Brysbaert, Longjiao Sui, Wouter D...</span></span></span>
+A later study tested this word-length explanation in Dutch. It found that reading-rate predictions improved when average word length was taken into account: texts averaging 4.5 letters per word were predicted at around 270 wpm, while texts averaging 6.0 letters per word were predicted at around 202 wpm. The point is not that word length explains everything, but that the physical and linguistic make-up of a text changes what counts as a realistic pace.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/17470218211017100" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsImproving reading rate prediction with word length information: Evidence from Dutch - Marc Brysbaert, Longjiao Sui, Wouter D...</span></span></span>
 
 This is why a single personal reading-speed number can be misleading. The same adult might read a thriller at 310 wpm, a clear newspaper analysis at 250 wpm, a [technical]({{ 'technical-texts/' | relative_url }}) manual at 170 wpm, and a legal clause at 90 wpm with rereading. Those are not necessarily four different skill levels. They are four different reading jobs.
 
@@ -363,11 +363,11 @@ This is why a single personal reading-speed number can be misleading. The same a
 
 ## Why 500 WPM Is Usually a Different Task
 
-The major warning from the research is the speed–accuracy trade-off. A 2016 review in *Psychological Science in the Public Interest* concluded that readers are unlikely to double or triple normal speed, for example from around 250 wpm to 500–750 wpm, while understanding the text as well as they would at their ordinary pace. Faster skimming can be useful when thorough understanding is not the goal, but it should not be treated as the same thing as full reading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">So Much to Read, So Little Time: How Do We Read, and Can Speed Reading Help? - PubMed...</span></span></span>
+The major warning from the research is the speed–accuracy trade-off. A 2016 review in *Psychological Science in the Public Interest* concluded that readers are unlikely to double or triple normal speed, for example from around 250 wpm to 500–750 wpm, while understanding the text as well as they would at their ordinary pace. Faster skimming can be useful when thorough understanding is not the goal, but it should not be treated as the same thing as full reading.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">So Much to Read, So Little Time: How Do We Read, and Can Speed Reading Help? - PubMed...</span></span></span>
 
-This distinction explains why online tests and reading apps can produce impressive-looking scores. Many short tests use easy passages, brief exposure, and simple comprehension questions. The SpLD Assessment Standards Committee notes that reading-rate results vary widely depending on test design, whether comprehension is measured, what kind of information readers must recall, and whether the task encourages skimming, scanning, meaning-focused reading, or memorisation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sasc.org.uk/media/yovdkkvo/reading-and-writing-speeds-guidance-sasc-june-2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sasc.org.uk">[SASC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sasc.org.uk</span><span class="citation-popover-title">SASCMicrosoft Word</span><span class="citation-popover-snippet">Reading and writing speeds guidance final (1)...</span></span></span>
+This distinction explains why online tests and reading apps can produce impressive-looking scores. Many short tests use easy passages, brief exposure, and simple comprehension questions. The SpLD Assessment Standards Committee notes that reading-rate results vary widely depending on test design, whether comprehension is measured, what kind of information readers must recall, and whether the task encourages skimming, scanning, meaning-focused reading, or memorisation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sasc.org.uk/media/yovdkkvo/reading-and-writing-speeds-guidance-sasc-june-2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sasc.org.uk">[SASC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sasc.org.uk</span><span class="citation-popover-title">SASCMicrosoft Word</span><span class="citation-popover-snippet">Reading and writing speeds guidance final (1)...</span></span></span>
 
-For adults trying to improve, that means a benchmark is only valid when the task resembles the reading you actually care about. A score from a one-minute passage does not tell you much about your ability to read a 40-page report, a textbook chapter, or a novel with sustained attention. For silent reading with comprehension, SASC guidance summarising Brysbaert recommends a longer passage lasting at least five minutes, because very short tests produce more variability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sasc.org.uk/media/yovdkkvo/reading-and-writing-speeds-guidance-sasc-june-2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sasc.org.uk">[SASC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sasc.org.uk</span><span class="citation-popover-title">SASCMicrosoft Word</span><span class="citation-popover-snippet">Reading and writing speeds guidance final (1)...</span></span></span>
+For adults trying to improve, that means a benchmark is only valid when the task resembles the reading you actually care about. A score from a one-minute passage does not tell you much about your ability to read a 40-page report, a textbook chapter, or a novel with sustained attention. For silent reading with comprehension, SASC guidance summarising Brysbaert recommends a longer passage lasting at least five minutes, because very short tests produce more variability.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sasc.org.uk/media/yovdkkvo/reading-and-writing-speeds-guidance-sasc-june-2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sasc.org.uk">[SASC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sasc.org.uk</span><span class="citation-popover-title">SASCMicrosoft Word</span><span class="citation-popover-snippet">Reading and writing speeds guidance final (1)...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef-Illustration-2-dark.svg" | relative_url }}" alt="Benchmarks illustration 2" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -390,7 +390,7 @@ Interpret the result by purpose:
 
 </div>
 
-There is no universal minimum speed at which comprehension suddenly becomes possible. Literacy researcher Timothy Shanahan has argued that he could not find evidence for a fixed 100 wpm threshold for comprehension, and that any true minimum would depend heavily on the reader, text, and task. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.shanahanonliteracy.com/blog/how-important-is-reading-rate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shanahanonliteracy.com">[Shanahan on Literacy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shanahanonliteracy.com</span><span class="citation-popover-title">Shanahan on Literacy How Important is Reading Rate? &#124; Shanahan on Literacy</span><span class="citation-popover-snippet">Shanahan on Literacy How Important is Reading Rate? &#124; Shanahan on Literacy</span></span></span>
+There is no universal minimum speed at which comprehension suddenly becomes possible. Literacy researcher Timothy Shanahan has argued that he could not find evidence for a fixed 100 wpm threshold for comprehension, and that any true minimum would depend heavily on the reader, text, and task.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.shanahanonliteracy.com/blog/how-important-is-reading-rate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shanahanonliteracy.com">[Shanahan on Literacy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shanahanonliteracy.com</span><span class="citation-popover-title">Shanahan on Literacy How Important is Reading Rate? &#124; Shanahan on Literacy</span><span class="citation-popover-snippet">Shanahan on Literacy How Important is Reading Rate? &#124; Shanahan on Literacy</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/D2aZ3THL8BQ" title="What Speed Readers Won&#x27;t Tell You" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=D2aZ3THL8BQ" target="_blank" rel="noopener noreferrer">What Speed Readers Won&#x27;t Tell You</a></p><p class="youtube-embed-meta">Channel: Benjamin Keep, PhD, JD &middot; Views: 57.6K &middot; Uploaded: March 2023 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=D2aZ3THL8BQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=D2aZ3THL8BQ">Open on YouTube</a></p></div></div></div>
@@ -399,7 +399,7 @@ There is no universal minimum speed at which comprehension suddenly becomes poss
 
 Realistic benchmarks make reading improvement less glamorous but more useful. The goal is not to turn 240 wpm into 1,000 wpm. It is to reduce avoidable slowdowns on material you can reasonably understand: recognising common words more automatically, building background knowledge, improving vocabulary, and choosing the right mode for the task.
 
-The 2016 speed-reading review makes this point directly: the way to maintain high comprehension while getting through text faster is to practise reading and become a more skilled language user, because language skill sits at the heart of reading speed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">So Much to Read, So Little Time: How Do We Read, and Can Speed Reading Help? - PubMed...</span></span></span>
+The 2016 speed-reading review makes this point directly: the way to maintain high comprehension while getting through text faster is to practise reading and become a more skilled language user, because language skill sits at the heart of reading speed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">So Much to Read, So Little Time: How Do We Read, and Can Speed Reading Help? - PubMed...</span></span></span>
 
 A good benchmark, then, is not “How close am I to a speed-reading claim?” It is “How fast can I read this kind of text while still doing what I came to do?” For everyday adult reading, a few hundred words per minute is normal. The stronger improvement target is flexible control: faster through familiar or low-stakes passages, slower through dense arguments, and always fast enough to serve understanding rather than replace it.
 
@@ -407,194 +407,194 @@ A good benchmark, then, is not “How close am I to a speed-reading claim?” It
 <img src="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef-Illustration-3-dark.svg" | relative_url }}" alt="Benchmarks illustration 3" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Fast Do Adults Really Read?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Fast Do Adults Really Read?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Teaches efficient reading strategies for different materials.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Teaches efficient reading strategies for different materials.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Evelyn+Wood+Seven-Day+Speed+Reading+and+Learning+Program+Stanley+D.+Frank&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Evelyn Wood Seven-Day Speed Reading and Learning Program on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/806088-M.jpg" alt="Cover for The Evelyn Wood Seven-Day Speed Reading and Learning Program" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Evelyn+Wood+Seven-Day+Speed+Reading+and+Learning+Program+Stanley+D.+Frank&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Evelyn Wood Seven-Day Speed Reading and Learning Program">The Evelyn Wood Seven-Day Speed Reading and Learning Program</a>
-        </h4>
-        <p class="fr-book-author">By Stanley D. Frank</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Evelyn+Wood+Seven-Day+Speed+Reading+and+Learning+Program+Stanley+D.+Frank&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Evelyn Wood Seven-Day Speed Reading and Learning Program on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/806088-M.jpg" alt="Cover for The Evelyn Wood Seven-Day Speed Reading and Learning Program" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Evelyn+Wood+Seven-Day+Speed+Reading+and+Learning+Program+Stanley+D.+Frank&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Evelyn Wood Seven-Day Speed Reading and Learning Program">The Evelyn Wood Seven-Day Speed Reading and Learning Program</a>
+</h4>
+<p class="fr-book-author">By Stanley D. Frank</p>
         
-        <p class="fr-book-desc">First published 1994. Subjects: Speed reading, Study skills, Reading.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Evelyn+Wood+Seven-Day+Speed+Reading+and+Learning+Program+Stanley+D.+Frank&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1994. Subjects: Speed reading, Study skills, Reading.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Evelyn+Wood+Seven-Day+Speed+Reading+and+Learning+Program+Stanley+D.+Frank&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Breakthrough rapid reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/84360-M.jpg" alt="Cover for Breakthrough rapid reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breakthrough rapid reading">Breakthrough rapid reading</a>
-        </h4>
-        <p class="fr-book-author">By Peter Kump</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Breakthrough rapid reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/84360-M.jpg" alt="Cover for Breakthrough rapid reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breakthrough rapid reading">Breakthrough rapid reading</a>
+</h4>
+<p class="fr-book-author">By Peter Kump</p>
         
-        <p class="fr-book-desc">First published 1979. Subjects: Speed reading, Rapid reading, Du shu fang fa.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1979. Subjects: Speed reading, Rapid reading, Du shu fang fa.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=10+days+to+faster+reading+Abby+Marks-Beale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 10 days to faster reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9453897-M.jpg" alt="Cover for 10 days to faster reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=10+days+to+faster+reading+Abby+Marks-Beale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="10 days to faster reading">10 days to faster reading</a>
-        </h4>
-        <p class="fr-book-author">By Abby Marks-Beale</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=10+days+to+faster+reading+Abby+Marks-Beale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 10 days to faster reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9453897-M.jpg" alt="Cover for 10 days to faster reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=10+days+to+faster+reading+Abby+Marks-Beale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="10 days to faster reading">10 days to faster reading</a>
+</h4>
+<p class="fr-book-author">By Abby Marks-Beale</p>
         
-        <p class="fr-book-desc">First published 2001. Subjects: Speed reading.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=10+days+to+faster+reading+Abby+Marks-Beale&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2001. Subjects: Speed reading.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=10+days+to+faster+reading+Abby+Marks-Beale&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Evelyn+Wood+Seven+Day+Speed+Reading+and+Learning+Program&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Evelyn Wood Seven Day Speed Reading and Learning Program</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Breakthrough rapid reading</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Evelyn+Wood+Seven+Day+Speed+Reading+and+Learning+Program&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Evelyn Wood Seven Day Speed Reading and Learning Program</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Breakthrough rapid reading</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk accessory" data-ebay-reference="benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Clamp on Desk Organizer Accessory Under Desk Mouse Tray for Study Office"><img src="{{ '/assets/images/marketplace-covers/425eb0a27beb127b25e2.jpg' | relative_url }}" alt="Listing image for Clamp on Desk Organizer Accessory Under Desk Mouse Tray for Study Office" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk accessory" data-ebay-reference="benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory" target="_blank" rel="sponsored noopener noreferrer">Clamp on Desk Organizer Accessory Under Desk Mouse Tray for Study Office</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk accessory" data-ebay-reference="benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study desk accessory">Search <span data-ebay-domain-label>eBay.co.uk</span>: study desk accessory</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk accessory" data-ebay-reference="benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk accessory" data-ebay-reference="benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Clamp on Desk Organizer Accessory Under Desk Mouse Tray for Study Office"><img src="{{ '/assets/images/marketplace-covers/425eb0a27beb127b25e2.jpg' | relative_url }}" alt="Listing image for Clamp on Desk Organizer Accessory Under Desk Mouse Tray for Study Office" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk accessory" data-ebay-reference="benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory" target="_blank" rel="sponsored noopener noreferrer">Clamp on Desk Organizer Accessory Under Desk Mouse Tray for Study Office</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk accessory" data-ebay-reference="benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study desk accessory">Search<span data-ebay-domain-label>eBay.co.uk</span>: study desk accessory</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk accessory" data-ebay-reference="benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk accessory" data-ebay-reference="benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Computer Desk, Work Desk with Storage, 3 Shelves, 2 Drawers, 60 X 140 X 76 Cm, f"><img src="{{ '/assets/images/marketplace-covers/2b5722168713fb1b18ac.jpg' | relative_url }}" alt="Listing image for Computer Desk, Work Desk with Storage, 3 Shelves, 2 Drawers, 60 X 140 X 76 Cm, f" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk accessory" data-ebay-reference="benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory" target="_blank" rel="sponsored noopener noreferrer">Computer Desk, Work Desk with Storage, 3 Shelves, 2 Drawers, 60 X 140 X 76 Cm, f</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk accessory" data-ebay-reference="benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study desk accessory">Search <span data-ebay-domain-label>eBay.co.uk</span>: study desk accessory</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk accessory" data-ebay-reference="benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk accessory" data-ebay-reference="benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Computer Desk, Work Desk with Storage, 3 Shelves, 2 Drawers, 60 X 140 X 76 Cm, f"><img src="{{ '/assets/images/marketplace-covers/2b5722168713fb1b18ac.jpg' | relative_url }}" alt="Listing image for Computer Desk, Work Desk with Storage, 3 Shelves, 2 Drawers, 60 X 140 X 76 Cm, f" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk accessory" data-ebay-reference="benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory" target="_blank" rel="sponsored noopener noreferrer">Computer Desk, Work Desk with Storage, 3 Shelves, 2 Drawers, 60 X 140 X 76 Cm, f</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk accessory" data-ebay-reference="benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study desk accessory">Search<span data-ebay-domain-label>eBay.co.uk</span>: study desk accessory</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk accessory" data-ebay-reference="benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk accessory" data-ebay-reference="benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Office Study Desk Wooden Pen Pencil Storage Holder Organizer Box Tidy Shelf Case"><img src="{{ '/assets/images/marketplace-covers/4d4f2260d069ffb62cdb.jpg' | relative_url }}" alt="Listing image for Office Study Desk Wooden Pen Pencil Storage Holder Organizer Box Tidy Shelf Case" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk accessory" data-ebay-reference="benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory" target="_blank" rel="sponsored noopener noreferrer">Office Study Desk Wooden Pen Pencil Storage Holder Organizer Box Tidy Shelf Case</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk accessory" data-ebay-reference="benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study desk accessory">Search <span data-ebay-domain-label>eBay.co.uk</span>: study desk accessory</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk accessory" data-ebay-reference="benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk accessory" data-ebay-reference="benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Office Study Desk Wooden Pen Pencil Storage Holder Organizer Box Tidy Shelf Case"><img src="{{ '/assets/images/marketplace-covers/4d4f2260d069ffb62cdb.jpg' | relative_url }}" alt="Listing image for Office Study Desk Wooden Pen Pencil Storage Holder Organizer Box Tidy Shelf Case" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk accessory" data-ebay-reference="benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory" target="_blank" rel="sponsored noopener noreferrer">Office Study Desk Wooden Pen Pencil Storage Holder Organizer Box Tidy Shelf Case</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk accessory" data-ebay-reference="benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study desk accessory">Search<span data-ebay-domain-label>eBay.co.uk</span>: study desk accessory</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk accessory" data-ebay-reference="benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk accessory" data-ebay-reference="benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wooden Pen Pencil Storage Holder Office Study Desk Organizer Box Tidy Shelves UK"><img src="{{ '/assets/images/marketplace-covers/7b8348e91102d6b274e0.jpg' | relative_url }}" alt="Listing image for Wooden Pen Pencil Storage Holder Office Study Desk Organizer Box Tidy Shelves UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk accessory" data-ebay-reference="benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory" target="_blank" rel="sponsored noopener noreferrer">Wooden Pen Pencil Storage Holder Office Study Desk Organizer Box Tidy Shelves UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk accessory" data-ebay-reference="benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study desk accessory">Search <span data-ebay-domain-label>eBay.co.uk</span>: study desk accessory</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk accessory" data-ebay-reference="benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk accessory" data-ebay-reference="benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk accessory" data-ebay-reference="benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wooden Pen Pencil Storage Holder Office Study Desk Organizer Box Tidy Shelves UK"><img src="{{ '/assets/images/marketplace-covers/7b8348e91102d6b274e0.jpg' | relative_url }}" alt="Listing image for Wooden Pen Pencil Storage Holder Office Study Desk Organizer Box Tidy Shelves UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk accessory" data-ebay-reference="benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory" target="_blank" rel="sponsored noopener noreferrer">Wooden Pen Pencil Storage Holder Office Study Desk Organizer Box Tidy Shelves UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk accessory" data-ebay-reference="benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study desk accessory">Search<span data-ebay-domain-label>eBay.co.uk</span>: study desk accessory</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk accessory" data-ebay-reference="benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk accessory" data-ebay-reference="benchmarks-how-fast-do-adults-really-read-increasing-study-desk-accessory" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -610,7 +610,7 @@ A good benchmark, then, is not “How close am I to a speed-reading claim?” It
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -630,7 +630,7 @@ A good benchmark, then, is not “How close am I to a speed-reading claim?” It
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -662,7 +662,7 @@ A good benchmark, then, is not “How close am I to a speed-reading claim?” It
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -714,7 +714,7 @@ A good benchmark, then, is not “How close am I to a speed-reading claim?” It
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -759,7 +759,7 @@ A good benchmark, then, is not “How close am I to a speed-reading claim?” It
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -800,124 +800,124 @@ A good benchmark, then, is not “How close am I to a speed-reading claim?” It
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sasc.org.uk  
    Title: SASCMicrosoft Word  
-   Link: <a href="https://www.sasc.org.uk/media/yovdkkvo/reading-and-writing-speeds-guidance-sasc-june-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sasc.org.uk/media/yovdkkvo/reading-and-writing-speeds-guidance-sasc-june-2020.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading and writing speeds guidance final (1)...</p></details>
+   Link:<a href="https://www.sasc.org.uk/media/yovdkkvo/reading-and-writing-speeds-guidance-sasc-june-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sasc.org.uk/media/yovdkkvo/reading-and-writing-speeds-guidance-sasc-june-2020.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading and writing speeds guidance final (1)...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: fast.com  
-   Link: <a href="https://fast.com/" target="_blank" rel="noopener noreferrer nofollow">https://fast.com/</a>  
+   Link:<a href="https://fast.com/" target="_blank" rel="noopener noreferrer nofollow">https://fast.com/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: biblio.ugent.be  
-   Link: <a href="https://biblio.ugent.be/publication/8647789" target="_blank" rel="noopener noreferrer nofollow">https://biblio.ugent.be/publication/8647789</a>  
+   Link:<a href="https://biblio.ugent.be/publication/8647789" target="_blank" rel="noopener noreferrer nofollow">https://biblio.ugent.be/publication/8647789</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/17470218211017100" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/17470218211017100</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsImproving reading rate prediction with word length information: Evidence from Dutch - Marc Brysbaert, Longjiao Sui, Wouter D...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/17470218211017100" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/17470218211017100</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsImproving reading rate prediction with word length information: Evidence from Dutch - Marc Brysbaert, Longjiao Sui, Wouter D...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26769745/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>So Much to Read, So Little Time: How Do We Read, and Can Speed Reading Help? - PubMed...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26769745/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>So Much to Read, So Little Time: How Do We Read, and Can Speed Reading Help? - PubMed...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: shanahanonliteracy.com  
    Title: Shanahan on Literacy How Important is Reading Rate? | Shanahan on Literacy  
-   Link: <a href="https://www.shanahanonliteracy.com/blog/how-important-is-reading-rate" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/how-important-is-reading-rate</a>  
+   Link:<a href="https://www.shanahanonliteracy.com/blog/how-important-is-reading-rate" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/how-important-is-reading-rate</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4835101/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4835101/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4835101/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4835101/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10360968/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10360968/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10360968/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10360968/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10336603/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10336603/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10336603/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10336603/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/33910411/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/33910411/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/33910411/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/33910411/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3689316/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3689316/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3689316/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3689316/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/1529100615623268" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1529100615623268</a>  
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/1529100615623268" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1529100615623268</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/1529100615623267" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/1529100615623267</a>  
+   Link:<a href="https://journals.sagepub.com/doi/abs/10.1177/1529100615623267" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/1529100615623267</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
    Title: 300 WPM  
-   Link: <a href="https://www.reddit.com/r/books/comments/tkcul5/300_wpm_do_you_people_actually_read_this_fast/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/books/comments/tkcul5/300_wpm_do_you_people_actually_read_this_fast/</a>  
+   Link:<a href="https://www.reddit.com/r/books/comments/tkcul5/300_wpm_do_you_people_actually_read_this_fast/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/books/comments/tkcul5/300_wpm_do_you_people_actually_read_this_fast/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: sasc.org.uk  
-   Link: <a href="https://www.sasc.org.uk/media/4d4lsrfv/assessing-reading-and-writing-speeds-presentation-june-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sasc.org.uk/media/4d4lsrfv/assessing-reading-and-writing-speeds-presentation-june-2020.pdf</a>  
+   Link:<a href="https://www.sasc.org.uk/media/4d4lsrfv/assessing-reading-and-writing-speeds-presentation-june-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sasc.org.uk/media/4d4lsrfv/assessing-reading-and-writing-speeds-presentation-june-2020.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: bso.bradford.gov.uk  
    Title: bradford.gov.uk Help Sheet  
-   Link: <a href="https://bso.bradford.gov.uk/userfiles/file/%21Learning%20Support/Help%20Sheets/Help%20Sheet%20-%20Repeated%20Reading.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bso.bradford.gov.uk/userfiles/file/%21Learning%20Support/Help%20Sheets/Help%20Sheet%20-%20Repeated%20Reading.pdf</a>  
+   Link:<a href="https://bso.bradford.gov.uk/userfiles/file/%21Learning%20Support/Help%20Sheets/Help%20Sheet%20-%20Repeated%20Reading.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bso.bradford.gov.uk/userfiles/file/%21Learning%20Support/Help%20Sheets/Help%20Sheet%20-%20Repeated%20Reading.pdf</a>  
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: osf.io  
-   Link: <a href="https://osf.io/preprints/psyarxiv/xynwg_v1" target="_blank" rel="noopener noreferrer nofollow">https://osf.io/preprints/psyarxiv/xynwg_v1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>per minute (wpm) for non-fiction and 260 wpm for fiction.Read more...</p></details>
+   Link:<a href="https://osf.io/preprints/psyarxiv/xynwg_v1" target="_blank" rel="noopener noreferrer nofollow">https://osf.io/preprints/psyarxiv/xynwg_v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>per minute (wpm) for non-fiction and 260 wpm for fiction.Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: readingspeedtest.net  
    Title: Reading Speed Test  
-   Link: <a href="https://readingspeedtest.net/" target="_blank" rel="noopener noreferrer nofollow">https://readingspeedtest.net/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Calculate Your WPM &amp; Improve...The Reading Speed Test is a powerful tool to [measure](&amp;#123;&amp;#123; &#x27;measure/&#x27; | relative_url &amp;#125;&amp;#125;) your words-per-minute (WPM) rate and assess your com...</p></details>
+   Link:<a href="https://readingspeedtest.net/" target="_blank" rel="noopener noreferrer nofollow">https://readingspeedtest.net/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Calculate Your WPM &amp; Improve...The Reading Speed Test is a powerful tool to [measure](&amp;#123;&amp;#123; &#x27;measure/&#x27; | relative_url &amp;#125;&amp;#125;) your words-per-minute (WPM) rate and assess your com...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: DID YOU PASS THE TEST? (3/8): The Actual Average Reading Speed WPM  
-   Link: <a href="https://www.youtube.com/watch?v=I2Ieg4Ht4k8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=I2Ieg4Ht4k8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Is My Reading Speed In Words Per Minute?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=I2Ieg4Ht4k8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=I2Ieg4Ht4k8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Is My Reading Speed In Words Per Minute?...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: osf.io  
-   Link: <a href="https://osf.io/3wfas/" target="_blank" rel="noopener noreferrer nofollow">https://osf.io/3wfas/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Rate9 Apr 2019 — For silent reading of English fiction most adults fall in the range of 175 to 300 wpm; for fiction the range is...</p></details>
+   Link:<a href="https://osf.io/3wfas/" target="_blank" rel="noopener noreferrer nofollow">https://osf.io/3wfas/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Rate9 Apr 2019 — For silent reading of English fiction most adults fall in the range of 175 to 300 wpm; for fiction the range is...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: What Is My Reading Speed In Words Per Minute?  
-   Link: <a href="https://www.youtube.com/watch?v=20fNor1oxdc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=20fNor1oxdc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Speed Reading for Beginners: The Quickest Way to Read Faster...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=20fNor1oxdc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=20fNor1oxdc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Speed Reading for Beginners: The Quickest Way to Read Faster...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: psychologicalscience.org  
    Title: speed reading promises are too good to be true scientists find 2  
-   Link: <a href="https://www.psychologicalscience.org/observer/speed-reading-promises-are-too-good-to-be-true-scientists-find-2" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/observer/speed-reading-promises-are-too-good-to-be-true-scientists-find-2</a>  
+   Link:<a href="https://www.psychologicalscience.org/observer/speed-reading-promises-are-too-good-to-be-true-scientists-find-2" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/observer/speed-reading-promises-are-too-good-to-be-true-scientists-find-2</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/332380784_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/332380784_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate</a>  
+   Link:<a href="https://www.researchgate.net/publication/332380784_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/332380784_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/290471702_Speed_Reading_You_Cant_Always_Get_What_You_Want_but_Can_You_Sometimes_Get_What_You_Need" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/290471702_Speed_Reading_You_Cant_Always_Get_What_You_Want_but_Can_You_Sometimes_Get_What_You_Need</a>  
+   Link:<a href="https://www.researchgate.net/publication/290471702_Speed_Reading_You_Cant_Always_Get_What_You_Want_but_Can_You_Sometimes_Get_What_You_Need" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/290471702_Speed_Reading_You_Cant_Always_Get_What_You_Want_but_Can_You_Sometimes_Get_What_You_Need</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: fivefromfive.com.au  
-   Link: <a href="https://fivefromfive.com.au/fluency/assessing-fluency/" target="_blank" rel="noopener noreferrer nofollow">https://fivefromfive.com.au/fluency/assessing-fluency/</a>  
+   Link:<a href="https://fivefromfive.com.au/fluency/assessing-fluency/" target="_blank" rel="noopener noreferrer nofollow">https://fivefromfive.com.au/fluency/assessing-fluency/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: scholarwithin.com  
-   Link: <a href="https://scholarwithin.com/average-reading-speed?srsltid=AfmBOoo_ruL8SyI2HbAv8MDZUfqeOkyfnunsuTe5s4ou3W72XjIwM5t_" target="_blank" rel="noopener noreferrer nofollow">https://scholarwithin.com/average-reading-speed?srsltid=AfmBOoo_ruL8SyI2HbAv8MDZUfqeOkyfnunsuTe5s4ou3W72XjIwM5t_</a>  
+   Link:<a href="https://scholarwithin.com/average-reading-speed?srsltid=AfmBOoo_ruL8SyI2HbAv8MDZUfqeOkyfnunsuTe5s4ou3W72XjIwM5t_" target="_blank" rel="noopener noreferrer nofollow">https://scholarwithin.com/average-reading-speed?srsltid=AfmBOoo_ruL8SyI2HbAv8MDZUfqeOkyfnunsuTe5s4ou3W72XjIwM5t_</a>  

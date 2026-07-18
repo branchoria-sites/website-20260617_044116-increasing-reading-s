@@ -269,7 +269,7 @@ image: /assets/images/increasing_re_852ca6-overview-social.jpg
 
 ## Introduction
 
-Increasing reading speed is possible, but not in the “read a book in an hour with full comprehension” sense often promised by [speed-reading]({{ 'myths/' | relative_url }}) courses. A realistic goal is to become a more fluent, flexible reader: faster on familiar or low-stakes material, slower when ideas are dense, and better at choosing when to skim, scan, or read closely. The research base is fairly consistent: skilled adult readers usually read English prose at a few hundred words per minute, and attempts to double or triple that rate tend to reduce understanding. A large review estimated average silent adult reading at about 238 words per minute for English non-fiction and 260 words per minute for fiction, with wide individual variation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://biblio.ugent.be/publication/8647789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: biblio.ugent.be">[Ghent University Bibliography]</a><span class="citation-popover" role="note"><span class="citation-popover-source">biblio.ugent.be</span><span class="citation-popover-title">Ghent University Bibliography How many words do we read per minute?</span><span class="citation-popover-snippet">A review and meta...by M Brysbaert · 2019 · Cited by 879 — The average oral reading rate (based on 77 studies and 5965 participants) is...</span></span></span>
+Increasing reading speed is possible, but not in the “read a book in an hour with full comprehension” sense often promised by [speed-reading]({{ 'myths/' | relative_url }}) courses. A realistic goal is to become a more fluent, flexible reader: faster on familiar or low-stakes material, slower when ideas are dense, and better at choosing when to skim, scan, or read closely. The research base is fairly consistent: skilled adult readers usually read English prose at a few hundred words per minute, and attempts to double or triple that rate tend to reduce understanding. A large review estimated average silent adult reading at about 238 words per minute for English non-fiction and 260 words per minute for fiction, with wide individual variation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://biblio.ugent.be/publication/8647789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: biblio.ugent.be">[Ghent University Bibliography]</a><span class="citation-popover" role="note"><span class="citation-popover-source">biblio.ugent.be</span><span class="citation-popover-title">Ghent University Bibliography How many words do we read per minute?</span><span class="citation-popover-snippet">A review and meta...by M Brysbaert · 2019 · Cited by 879 — The average oral reading rate (based on 77 studies and 5965 participants) is...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6-overview.webp" | relative_url }}" alt="Overview image for Increasing" loading="eager" decoding="sync" fetchpriority="high">
@@ -277,19 +277,19 @@ The useful question, then, is not “How do I force my eyes to move faster?” I
 
 ## What reading speed really measures
 
-Reading speed is usually reported as words per minute, but that number is only meaningful when paired with comprehension. A person can race through 800 words per minute by [skimming]({{ 'skimming/' | relative_url }}) headings and first sentences, but that is not the same as reading a legal contract, a scientific paper, or a novel with attention to style and implication. Researchers and educators therefore treat fluency as more than raw pace: it includes accuracy, automatic word recognition, and expressive phrasing, all of which help the reader reach meaning with less effort. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nichd.nih.gov">[NICHD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nichd.nih.gov</span><span class="citation-popover-title">Fluency depends upon well developed word recognition skills, but such skills do</span><span class="citation-popover-snippet">National Reading Panel - Reports of the Subgroups - FluencyOctober 2, 2008 — Fluent readers can read text with speed, accuracy, and...</span><span class="citation-popover-meta">Published: October 2, 2008</span></span></span>
+Reading speed is usually reported as words per minute, but that number is only meaningful when paired with comprehension. A person can race through 800 words per minute by [skimming]({{ 'skimming/' | relative_url }}) headings and first sentences, but that is not the same as reading a legal contract, a scientific paper, or a novel with attention to style and implication. Researchers and educators therefore treat fluency as more than raw pace: it includes accuracy, automatic word recognition, and expressive phrasing, all of which help the reader reach meaning with less effort.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nichd.nih.gov">[NICHD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nichd.nih.gov</span><span class="citation-popover-title">Fluency depends upon well developed word recognition skills, but such skills do</span><span class="citation-popover-snippet">National Reading Panel - Reports of the Subgroups - FluencyOctober 2, 2008 — Fluent readers can read text with speed, accuracy, and...</span><span class="citation-popover-meta">Published: October 2, 2008</span></span></span>
 
-For ordinary adult silent reading in English, the best available benchmark is lower than many popular claims. Marc Brysbaert’s review and meta-analysis of reading rate estimated about 238 words per minute for non-fiction and 260 for fiction, and suggested that many adults fall roughly in the 175–300 words-per-minute range for non-fiction. Fiction tends to be faster partly because it often uses shorter, more familiar words than expository prose. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/335174808_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) How many words do we read per minute?</span><span class="citation-popover-snippet">A review...August 15, 2019 — 15 Aug 2019 — We estimate that the average silent reading rate for adults in English is 238 words per minut...</span><span class="citation-popover-meta">Published: August 15, 2019</span></span></span>
+For ordinary adult silent reading in English, the best available benchmark is lower than many popular claims. Marc Brysbaert’s review and meta-analysis of reading rate estimated about 238 words per minute for non-fiction and 260 for fiction, and suggested that many adults fall roughly in the 175–300 words-per-minute range for non-fiction. Fiction tends to be faster partly because it often uses shorter, more familiar words than expository prose.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/335174808_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) How many words do we read per minute?</span><span class="citation-popover-snippet">A review...August 15, 2019 — 15 Aug 2019 — We estimate that the average silent reading rate for adults in English is 238 words per minut...</span><span class="citation-popover-meta">Published: August 15, 2019</span></span></span>
 
 That range is not a personal limit. It is a context. A medical student reading familiar revision notes, a solicitor reading a clause for risk, and a commuter reading a thriller are doing different cognitive jobs. Good readers change pace because the [purpose]({{ 'purpose/' | relative_url }}) changes. A faster reader is not simply someone whose eyes move quickly; it is someone who recognises more words automatically, has more relevant vocabulary and knowledge ready, and knows when detailed reading is unnecessary.
 
 ## Why extreme speed-reading claims fail
 
-The strongest warning from the research is the speed–accuracy trade-off. A major review in *Psychological Science in the Public Interest* concluded that readers are unlikely to double or triple their normal reading speed while preserving the same understanding; when thorough comprehension is not required, faster skimming can work, but it is a different task from full reading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 537 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</span></span></span>
+The strongest warning from the research is the speed–accuracy trade-off. A major review in *Psychological Science in the Public Interest* concluded that readers are unlikely to double or triple their normal reading speed while preserving the same understanding; when thorough comprehension is not required, faster skimming can work, but it is a different task from full reading.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 537 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</span></span></span>
 
-Many speed-reading systems target three things: suppressing the inner voice, reducing backward [eye movements]({{ 'eye-tradeoff/' | relative_url }}), and taking in larger chunks of text per glance. Each claim contains a small truth but often overstates what can be trained. Inner speech can slow reading if it becomes exaggerated word-by-word narration, but phonological processing also supports comprehension. Backward eye movements are not just “bad habits”; readers often regress because they need to resolve ambiguity, check a detail, or repair understanding. Eye movements and brief fixations are part of how reading works, not dead time that can simply be removed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://faculty.cas.usf.edu/eschotter/papers/Rayner_Schotter_Masson_Potter_Treiman_2016_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faculty.cas.usf.edu">[USF Faculty]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faculty.cas.usf.edu</span><span class="citation-popover-title">Rayner Schotter Masson Potter Treiman 2016 PSPI</span><span class="citation-popover-snippet">Rayner Schotter Masson Potter Treiman 2016 PSPI</span></span></span>
+Many speed-reading systems target three things: suppressing the inner voice, reducing backward [eye movements]({{ 'eye-tradeoff/' | relative_url }}), and taking in larger chunks of text per glance. Each claim contains a small truth but often overstates what can be trained. Inner speech can slow reading if it becomes exaggerated word-by-word narration, but phonological processing also supports comprehension. Backward eye movements are not just “bad habits”; readers often regress because they need to resolve ambiguity, check a detail, or repair understanding. Eye movements and brief fixations are part of how reading works, not dead time that can simply be removed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://faculty.cas.usf.edu/eschotter/papers/Rayner_Schotter_Masson_Potter_Treiman_2016_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faculty.cas.usf.edu">[USF Faculty]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faculty.cas.usf.edu</span><span class="citation-popover-title">Rayner Schotter Masson Potter Treiman 2016 PSPI</span><span class="citation-popover-snippet">Rayner Schotter Masson Potter Treiman 2016 PSPI</span></span></span>
 
-Rapid serial visual presentation, the method used by some apps that flash one word at a time, shows the same problem. It can make text appear faster and can be useful on very small screens or for short, simple material, but it removes normal parafoveal preview and makes it harder to look back. Research on Spritz-style presentation found that suppressing rereading and parafoveal processing can harm literal comprehension. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/270650767_Rapid_serial_visual_presentation_in_reading_The_case_of_Spritz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Rapid serial visual presentation in reading: The case of Spritz</span><span class="citation-popover-snippet">Research Gate Rapid serial visual presentation in reading: The case of Spritz</span></span></span>
+Rapid serial visual presentation, the method used by some apps that flash one word at a time, shows the same problem. It can make text appear faster and can be useful on very small screens or for short, simple material, but it removes normal parafoveal preview and makes it harder to look back. Research on Spritz-style presentation found that suppressing rereading and parafoveal processing can harm literal comprehension.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/270650767_Rapid_serial_visual_presentation_in_reading_The_case_of_Spritz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Rapid serial visual presentation in reading: The case of Spritz</span><span class="citation-popover-snippet">Research Gate Rapid serial visual presentation in reading: The case of Spritz</span></span></span>
 
 The practical lesson is not that speed training is useless. It is that the promise has to be reframed. You can learn to skim more deliberately, reduce avoidable rereading, and build fluency. You should be sceptical of claims that one technique can let you read complex material at several times your normal rate with no comprehension cost.
 
@@ -303,7 +303,7 @@ There are four realistic routes to better speed:
 
 **Build vocabulary and topic knowledge.** Unknown words and unfamiliar concepts slow reading more than eye movement does. Reading widely within a field makes later reading in that field faster because terms, arguments, and structures become recognisable.
 
-**Practise fluency with manageable text.** Repeated reading has a strong evidence base in school-age fluency instruction and is also useful as a principle for adults: rereading short, slightly challenging passages can improve accuracy and pace because less effort is spent on basic word recognition. The National Reading Panel and later summaries identify guided repeated oral reading with feedback as an effective way to improve fluency. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://brtprojects.org/wp-content/uploads/2024/02/Fluency-NRP-Updates-TRL-2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brtprojects.org">[BRT Projects]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brtprojects.org</span><span class="citation-popover-title">Fluency NRP Updates TRL 2020</span><span class="citation-popover-snippet">Fluency NRP Updates TRL 2020</span></span></span>
+**Practise fluency with manageable text.** Repeated reading has a strong evidence base in school-age fluency instruction and is also useful as a principle for adults: rereading short, slightly challenging passages can improve accuracy and pace because less effort is spent on basic word recognition. The National Reading Panel and later summaries identify guided repeated oral reading with feedback as an effective way to improve fluency.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://brtprojects.org/wp-content/uploads/2024/02/Fluency-NRP-Updates-TRL-2020.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brtprojects.org">[BRT Projects]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brtprojects.org</span><span class="citation-popover-title">Fluency NRP Updates TRL 2020</span><span class="citation-popover-snippet">Fluency NRP Updates TRL 2020</span></span></span>
 
 **Use purpose-based reading.** Not every document deserves the same reading mode. A report can be previewed through headings, summary, figures, and conclusion before close reading. A novel may reward slower reading. A set of emails may need triage, not full attention.
 
@@ -326,7 +326,7 @@ Then practise in short sessions:
 4. **Reread selectively.** Do not ban regressions. Instead, notice whether you are rereading because the text is hard, because you lost focus, or because you are anxious about missing something. The first case may require slowing down; the second may require a clearer purpose or fewer distractions.
 5. **Finish with recall.** After a section, look away and state the main point, two supporting details, and one question. If recall collapses, the pace was too fast or the text needed more preparation.
 
-This kind of practice is less glamorous than speed-reading drills, but it matches what fluency research emphasises: speed, accuracy, and meaning develop together. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nichd.nih.gov">[NICHD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nichd.nih.gov</span><span class="citation-popover-title">Fluency depends upon well developed word recognition skills, but such skills do</span><span class="citation-popover-snippet">National Reading Panel - Reports of the Subgroups - FluencyOctober 2, 2008 — Fluent readers can read text with speed, accuracy, and...</span><span class="citation-popover-meta">Published: October 2, 2008</span></span></span>
+This kind of practice is less glamorous than speed-reading drills, but it matches what fluency research emphasises: speed, accuracy, and meaning develop together.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nichd.nih.gov">[NICHD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nichd.nih.gov</span><span class="citation-popover-title">Fluency depends upon well developed word recognition skills, but such skills do</span><span class="citation-popover-snippet">National Reading Panel - Reports of the Subgroups - FluencyOctober 2, 2008 — Fluent readers can read text with speed, accuracy, and...</span><span class="citation-popover-meta">Published: October 2, 2008</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6-Illustration-2-dark.svg" | relative_url }}" alt="Increasing illustration 2" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -358,7 +358,7 @@ Finally, some readers try to suppress subvocalisation completely. Reducing exagg
 
 For an adult already reading comfortably, a modest gain of 10–30 per cent on familiar non-fiction can be meaningful if comprehension remains stable. Moving from 220 to 270 words per minute on work documents, while remembering more because you preview and summarise, is far more valuable than briefly hitting 600 words per minute and losing the argument.
 
-For struggling readers, second-language readers, or people returning to study, the priority may be accuracy and automaticity before speed. Fluency improves when decoding, vocabulary, and confidence improve. Educational sources define fluent reading as accurate, automatic, and appropriately paced, not merely fast. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://educationendowmentfoundation.org.uk/news/eef-blog-shining-a-spotlight-on-reading-fluency" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-title">eef blog shining a spotlight on reading fluency</span><span class="citation-popover-snippet">EEFEEF blog: Shining a spotlight on reading fluency1 Dec 2021 — Reading fluency is defined as reading with accuracy (reading words correc...</span></span></span>
+For struggling readers, second-language readers, or people returning to study, the priority may be accuracy and automaticity before speed. Fluency improves when decoding, vocabulary, and confidence improve. Educational sources define fluent reading as accurate, automatic, and appropriately paced, not merely fast.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://educationendowmentfoundation.org.uk/news/eef-blog-shining-a-spotlight-on-reading-fluency" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-title">eef blog shining a spotlight on reading fluency</span><span class="citation-popover-snippet">EEFEEF blog: Shining a spotlight on reading fluency1 Dec 2021 — Reading fluency is defined as reading with accuracy (reading words correc...</span></span></span>
 
 The simplest benchmark is a paired measure:
 
@@ -382,162 +382,162 @@ The best way to increase reading speed is to stop treating speed as a trick and 
 The evidence does not support magical leaps in full-comprehension reading speed. It does support becoming a more efficient reader: someone who moves quickly when the task allows it, carefully when the text demands it, and always with enough understanding to make the time count.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Increasing. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Increasing. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Getting+Things+Done+David+Allen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Getting Things Done on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7892515-M.jpg" alt="Cover for Getting Things Done" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Getting+Things+Done+David+Allen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Getting Things Done">Getting Things Done</a>
-        </h4>
-        <p class="fr-book-author">By David Allen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Getting+Things+Done+David+Allen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Getting Things Done on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7892515-M.jpg" alt="Cover for Getting Things Done" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Getting+Things+Done+David+Allen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Getting Things Done">Getting Things Done</a>
+</h4>
+<p class="fr-book-author">By David Allen</p>
         
-        <p class="fr-book-desc">Directly supports identifying high-consequence communications that require deliberate processing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Getting+Things+Done+David+Allen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly supports identifying high-consequence communications that require deliberate processing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Getting+Things+Done+David+Allen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Work on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lZpFCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Work" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Work">Deep Work</a>
-        </h4>
-        <p class="fr-book-author">By Cal Newport</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Work on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lZpFCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Work" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Work">Deep Work</a>
+</h4>
+<p class="fr-book-author">By Cal Newport</p>
         
-        <p class="fr-book-desc">Encourages intentional attention on high-impact information and decisions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages intentional attention on high-impact information and decisions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Checklist+Manifesto+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Checklist Manifesto on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7GJi0fsSmUoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Checklist Manifesto" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Checklist+Manifesto+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Checklist Manifesto">The Checklist Manifesto</a>
-        </h4>
-        <p class="fr-book-author">By Atul Gawande</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Checklist+Manifesto+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Checklist Manifesto on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7GJi0fsSmUoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Checklist Manifesto" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Checklist+Manifesto+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Checklist Manifesto">The Checklist Manifesto</a>
+</h4>
+<p class="fr-book-author">By Atul Gawande</p>
         
-        <p class="fr-book-desc">Promotes risk-awareness and structured review processes that help prevent costly oversights.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Checklist+Manifesto+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Promotes risk-awareness and structured review processes that help prevent costly oversights.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Checklist+Manifesto+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Essentialism+Greg+McKeown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Essentialism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7285986-M.jpg" alt="Cover for Essentialism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Essentialism+Greg+McKeown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Essentialism">Essentialism</a>
-        </h4>
-        <p class="fr-book-author">By Greg McKeown</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Essentialism+Greg+McKeown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Essentialism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7285986-M.jpg" alt="Cover for Essentialism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Essentialism+Greg+McKeown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Essentialism">Essentialism</a>
+</h4>
+<p class="fr-book-author">By Greg McKeown</p>
         
-        <p class="fr-book-desc">First published 2014. Subjects: Choice (Psychology), Essentialism (Philosophy), Decision making, Choice Behavior, nyt:advice-how-to-and-m...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Essentialism+Greg+McKeown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2014. Subjects: Choice (Psychology), Essentialism (Philosophy), Decision making, Choice Behavior, nyt:advice-how-to-and-m...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Essentialism+Greg+McKeown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Getting+Things+Done&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Getting Things Done</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Work&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Work</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Checklist+Manifesto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Checklist Manifesto</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Getting+Things+Done&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Getting Things Done</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Work&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Work</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Checklist+Manifesto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Checklist Manifesto</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+fluency+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=increasing-reading-fluency-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading fluency kit" data-ebay-reference="increasing-reading-fluency-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Houghton Mifflin Reading Tool Kits: Phonics and Decoding &amp; Oral Reading Fluency"><img src="{{ '/assets/images/marketplace-covers/393327544fa769570891.jpg' | relative_url }}" alt="Listing image for Houghton Mifflin Reading Tool Kits: Phonics and Decoding &amp; Oral Reading Fluency" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+fluency+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=increasing-reading-fluency-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading fluency kit" data-ebay-reference="increasing-reading-fluency-kit" target="_blank" rel="sponsored noopener noreferrer">Houghton Mifflin Reading Tool Kits: Phonics and Decoding &amp; Oral Reading Fluency</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+fluency+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=increasing-reading-fluency-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading fluency kit" data-ebay-reference="increasing-reading-fluency-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading fluency kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: reading fluency kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+fluency+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=increasing-reading-fluency-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading fluency kit" data-ebay-reference="increasing-reading-fluency-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+fluency+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=increasing-reading-fluency-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading fluency kit" data-ebay-reference="increasing-reading-fluency-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Houghton Mifflin Reading Tool Kits: Phonics and Decoding &amp; Oral Reading Fluency"><img src="{{ '/assets/images/marketplace-covers/393327544fa769570891.jpg' | relative_url }}" alt="Listing image for Houghton Mifflin Reading Tool Kits: Phonics and Decoding &amp; Oral Reading Fluency" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+fluency+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=increasing-reading-fluency-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading fluency kit" data-ebay-reference="increasing-reading-fluency-kit" target="_blank" rel="sponsored noopener noreferrer">Houghton Mifflin Reading Tool Kits: Phonics and Decoding &amp; Oral Reading Fluency</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+fluency+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=increasing-reading-fluency-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading fluency kit" data-ebay-reference="increasing-reading-fluency-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading fluency kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: reading fluency kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+fluency+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=increasing-reading-fluency-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading fluency kit" data-ebay-reference="increasing-reading-fluency-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+fluency+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=increasing-reading-fluency-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading fluency kit" data-ebay-reference="increasing-reading-fluency-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Reading Benchmark Kit. Fluency Kit For Independence. Level F - U"><img src="{{ '/assets/images/marketplace-covers/550263f81640b051e121.jpg' | relative_url }}" alt="Listing image for Reading Benchmark Kit. Fluency Kit For Independence. Level F - U" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+fluency+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=increasing-reading-fluency-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading fluency kit" data-ebay-reference="increasing-reading-fluency-kit" target="_blank" rel="sponsored noopener noreferrer">Reading Benchmark Kit. Fluency Kit For Independence. Level F - U</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+fluency+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=increasing-reading-fluency-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading fluency kit" data-ebay-reference="increasing-reading-fluency-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading fluency kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: reading fluency kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+fluency+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=increasing-reading-fluency-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading fluency kit" data-ebay-reference="increasing-reading-fluency-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+fluency+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=increasing-reading-fluency-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading fluency kit" data-ebay-reference="increasing-reading-fluency-kit" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+fluency+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=increasing-reading-fluency-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading fluency kit" data-ebay-reference="increasing-reading-fluency-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Reading Benchmark Kit. Fluency Kit For Independence. Level F - U"><img src="{{ '/assets/images/marketplace-covers/550263f81640b051e121.jpg' | relative_url }}" alt="Listing image for Reading Benchmark Kit. Fluency Kit For Independence. Level F - U" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+fluency+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=increasing-reading-fluency-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading fluency kit" data-ebay-reference="increasing-reading-fluency-kit" target="_blank" rel="sponsored noopener noreferrer">Reading Benchmark Kit. Fluency Kit For Independence. Level F - U</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+fluency+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=increasing-reading-fluency-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading fluency kit" data-ebay-reference="increasing-reading-fluency-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading fluency kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: reading fluency kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+fluency+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=increasing-reading-fluency-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading fluency kit" data-ebay-reference="increasing-reading-fluency-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+fluency+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=increasing-reading-fluency-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading fluency kit" data-ebay-reference="increasing-reading-fluency-kit" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -553,7 +553,7 @@ The evidence does not support magical leaps in full-comprehension reading speed.
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -573,7 +573,7 @@ The evidence does not support magical leaps in full-comprehension reading speed.
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -605,7 +605,7 @@ The evidence does not support magical leaps in full-comprehension reading speed.
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -657,7 +657,7 @@ The evidence does not support magical leaps in full-comprehension reading speed.
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -702,7 +702,7 @@ The evidence does not support magical leaps in full-comprehension reading speed.
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -743,229 +743,229 @@ The evidence does not support magical leaps in full-comprehension reading speed.
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nichd.nih.gov  
    Title: Fluency depends upon well developed word recognition skills, but such skills do  
-   Link: <a href="https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Reading Panel - Reports of the Subgroups - FluencyOctober 2, 2008 — Fluent readers can read text with speed, accuracy, and...</p></details>
+   Link:<a href="https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Reading Panel - Reports of the Subgroups - FluencyOctober 2, 2008 — Fluent readers can read text with speed, accuracy, and...</p></details>
    Published: October 2, 2008  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) How many words do we read per minute?  
-   Link: <a href="https://www.researchgate.net/publication/335174808_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/335174808_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A review...August 15, 2019 — 15 Aug 2019 — We estimate that the average silent reading rate for adults in English is 238 words per minut...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/335174808_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/335174808_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A review...August 15, 2019 — 15 Aug 2019 — We estimate that the average silent reading rate for adults in English is 238 words per minut...</p></details>
    Published: August 15, 2019  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: faculty.cas.usf.edu  
    Title: Rayner Schotter Masson Potter Treiman 2016 PSPI  
-   Link: <a href="https://faculty.cas.usf.edu/eschotter/papers/Rayner_Schotter_Masson_Potter_Treiman_2016_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://faculty.cas.usf.edu/eschotter/papers/Rayner_Schotter_Masson_Potter_Treiman_2016_PSPI.pdf</a>  
+   Link:<a href="https://faculty.cas.usf.edu/eschotter/papers/Rayner_Schotter_Masson_Potter_Treiman_2016_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://faculty.cas.usf.edu/eschotter/papers/Rayner_Schotter_Masson_Potter_Treiman_2016_PSPI.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
    Title: Research Gate Rapid serial visual presentation in reading: The case of Spritz  
-   Link: <a href="https://www.researchgate.net/publication/270650767_Rapid_serial_visual_presentation_in_reading_The_case_of_Spritz" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/270650767_Rapid_serial_visual_presentation_in_reading_The_case_of_Spritz</a>  
+   Link:<a href="https://www.researchgate.net/publication/270650767_Rapid_serial_visual_presentation_in_reading_The_case_of_Spritz" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/270650767_Rapid_serial_visual_presentation_in_reading_The_case_of_Spritz</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/49694262_Eye_movements_the_perceptual_span_and_reading_speed" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/49694262_Eye_movements_the_perceptual_span_and_reading_speed</a>  
+   Link:<a href="https://www.researchgate.net/publication/49694262_Eye_movements_the_perceptual_span_and_reading_speed" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/49694262_Eye_movements_the_perceptual_span_and_reading_speed</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/367560632_Does_speed-reading_training_work_and_if_so_why_Effects_of_speed-reading_training_and_metacognitive_training_on_reading_speed_comprehension_and_eye_movements" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/367560632_Does_speed-reading_training_work_and_if_so_why_Effects_of_speed-reading_training_and_metacognitive_training_on_reading_speed_comprehension_and_eye_movements</a>  
+   Link:<a href="https://www.researchgate.net/publication/367560632_Does_speed-reading_training_work_and_if_so_why_Effects_of_speed-reading_training_and_metacognitive_training_on_reading_speed_comprehension_and_eye_movements" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/367560632_Does_speed-reading_training_work_and_if_so_why_Effects_of_speed-reading_training_and_metacognitive_training_on_reading_speed_comprehension_and_eye_movements</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/224967614_Reading_Speed_Comprehension_and_Eye_Movements_While_Reading_Japanese_Novels_Evidence_from_Untrained_Readers_and_Cases_of_Speed-Reading_Trainees" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/224967614_Reading_Speed_Comprehension_and_Eye_Movements_While_Reading_Japanese_Novels_Evidence_from_Untrained_Readers_and_Cases_of_Speed-Reading_Trainees</a>  
+   Link:<a href="https://www.researchgate.net/publication/224967614_Reading_Speed_Comprehension_and_Eye_Movements_While_Reading_Japanese_Novels_Evidence_from_Untrained_Readers_and_Cases_of_Speed-Reading_Trainees" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/224967614_Reading_Speed_Comprehension_and_Eye_Movements_While_Reading_Japanese_Novels_Evidence_from_Untrained_Readers_and_Cases_of_Speed-Reading_Trainees</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/249134643_A_Review_of_the_National_Reading_Panel%27s_Studies_on_Fluency_The_Role_of_Text" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/249134643_A_Review_of_the_National_Reading_Panel%27s_Studies_on_Fluency_The_Role_of_Text</a>  
+   Link:<a href="https://www.researchgate.net/publication/249134643_A_Review_of_the_National_Reading_Panel%27s_Studies_on_Fluency_The_Role_of_Text" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/249134643_A_Review_of_the_National_Reading_Panel%27s_Studies_on_Fluency_The_Role_of_Text</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/332380784_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/332380784_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate</a>  
+   Link:<a href="https://www.researchgate.net/publication/332380784_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/332380784_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/290471702_Speed_Reading_You_Cant_Always_Get_What_You_Want_but_Can_You_Sometimes_Get_What_You_Need" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/290471702_Speed_Reading_You_Cant_Always_Get_What_You_Want_but_Can_You_Sometimes_Get_What_You_Need</a>  
+   Link:<a href="https://www.researchgate.net/publication/290471702_Speed_Reading_You_Cant_Always_Get_What_You_Want_but_Can_You_Sometimes_Get_What_You_Need" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/290471702_Speed_Reading_You_Cant_Always_Get_What_You_Want_but_Can_You_Sometimes_Get_What_You_Need</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/290492746_So_Much_to_Read_So_Little_Time_How_Do_We_Read_and_Can_Speed_Reading_Help" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/290492746_So_Much_to_Read_So_Little_Time_How_Do_We_Read_and_Can_Speed_Reading_Help</a>  
+   Link:<a href="https://www.researchgate.net/publication/290492746_So_Much_to_Read_So_Little_Time_How_Do_We_Read_and_Can_Speed_Reading_Help" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/290492746_So_Much_to_Read_So_Little_Time_How_Do_We_Read_and_Can_Speed_Reading_Help</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/398253041_Effect_of_Repeated_Reading_for_Developing_Reading_Fluency_and_Reading_Comprehension_in_EFL_Students_Pre_Experimental_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/398253041_Effect_of_Repeated_Reading_for_Developing_Reading_Fluency_and_Reading_Comprehension_in_EFL_Students_Pre_Experimental_Study</a>  
+   Link:<a href="https://www.researchgate.net/publication/398253041_Effect_of_Repeated_Reading_for_Developing_Reading_Fluency_and_Reading_Comprehension_in_EFL_Students_Pre_Experimental_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/398253041_Effect_of_Repeated_Reading_for_Developing_Reading_Fluency_and_Reading_Comprehension_in_EFL_Students_Pre_Experimental_Study</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/249835323_Fluency_and_Comprehension_Gains_as_a_Result_of_Repeated_Reading_A_Meta-Analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/249835323_Fluency_and_Comprehension_Gains_as_a_Result_of_Repeated_Reading_A_Meta-Analysis</a>  
+   Link:<a href="https://www.researchgate.net/publication/249835323_Fluency_and_Comprehension_Gains_as_a_Result_of_Repeated_Reading_A_Meta-Analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/249835323_Fluency_and_Comprehension_Gains_as_a_Result_of_Repeated_Reading_A_Meta-Analysis</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/222413425_Extensive_reading_and_development_of_different_aspects_of_L2_proficiency" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/222413425_Extensive_reading_and_development_of_different_aspects_of_L2_proficiency</a>  
+   Link:<a href="https://www.researchgate.net/publication/222413425_Extensive_reading_and_development_of_different_aspects_of_L2_proficiency" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/222413425_Extensive_reading_and_development_of_different_aspects_of_L2_proficiency</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: biblio.ugent.be  
    Title: Ghent University Bibliography How many words do we read per minute?  
-   Link: <a href="https://biblio.ugent.be/publication/8647789" target="_blank" rel="noopener noreferrer nofollow">https://biblio.ugent.be/publication/8647789</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A review and meta...by M Brysbaert · 2019 · Cited by 879 — The average oral reading rate (based on 77 studies and 5965 participants) is...</p></details>
+   Link:<a href="https://biblio.ugent.be/publication/8647789" target="_blank" rel="noopener noreferrer nofollow">https://biblio.ugent.be/publication/8647789</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A review and meta...by M Brysbaert · 2019 · Cited by 879 — The average oral reading rate (based on 77 studies and 5965 participants) is...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: educationendowmentfoundation.org.uk  
    Title: eef blog shining a spotlight on reading fluency  
-   Link: <a href="https://educationendowmentfoundation.org.uk/news/eef-blog-shining-a-spotlight-on-reading-fluency" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/eef-blog-shining-a-spotlight-on-reading-fluency</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EEFEEF blog: Shining a spotlight on reading fluency1 Dec 2021 — Reading fluency is defined as reading with accuracy (reading words correc...</p></details>
+   Link:<a href="https://educationendowmentfoundation.org.uk/news/eef-blog-shining-a-spotlight-on-reading-fluency" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/eef-blog-shining-a-spotlight-on-reading-fluency</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EEFEEF blog: Shining a spotlight on reading fluency1 Dec 2021 — Reading fluency is defined as reading with accuracy (reading words correc...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med How Do We Read, and Can Speed Reading Help?  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26769745/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by K Rayner · 2016 · Cited by 537 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26769745/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by K Rayner · 2016 · Cited by 537 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: brtprojects.org  
    Title: Fluency NRP Updates TRL 2020  
-   Link: <a href="https://brtprojects.org/wp-content/uploads/2024/02/Fluency-NRP-Updates-TRL-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://brtprojects.org/wp-content/uploads/2024/02/Fluency-NRP-Updates-TRL-2020.pdf</a>  
+   Link:<a href="https://brtprojects.org/wp-content/uploads/2024/02/Fluency-NRP-Updates-TRL-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://brtprojects.org/wp-content/uploads/2024/02/Fluency-NRP-Updates-TRL-2020.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/664f600c05e5fe28788fc437/The_reading_framework_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/664f600c05e5fe28788fc437/The_reading_framework_.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/664f600c05e5fe28788fc437/The_reading_framework_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/664f600c05e5fe28788fc437/The_reading_framework_.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3348914/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3348914/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3348914/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3348914/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/22590519/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22590519/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/22590519/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22590519/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8557949/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8557949/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8557949/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8557949/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: nichd.nih.gov  
-   Link: <a href="https://www.nichd.nih.gov/publications/pubs/nrp/findings" target="_blank" rel="noopener noreferrer nofollow">https://www.nichd.nih.gov/publications/pubs/nrp/findings</a>  
+   Link:<a href="https://www.nichd.nih.gov/publications/pubs/nrp/findings" target="_blank" rel="noopener noreferrer nofollow">https://www.nichd.nih.gov/publications/pubs/nrp/findings</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4835101/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4835101/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4835101/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4835101/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8500173/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8500173/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8500173/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8500173/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5097019/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5097019/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5097019/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5097019/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: <a href="https://educationendowmentfoundation.org.uk/reading-house/fluency" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/reading-house/fluency</a>  
+   Link:<a href="https://educationendowmentfoundation.org.uk/reading-house/fluency" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/reading-house/fluency</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: educationendowmentfoundation.org.uk  
    Title: literacy ks2  
-   Link: <a href="https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/literacy-ks2" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/literacy-ks2</a>  
+   Link:<a href="https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/literacy-ks2" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/literacy-ks2</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: educationendowmentfoundation.org.uk  
    Title: guide to the eefs tools reading fluency  
-   Link: <a href="https://educationendowmentfoundation.org.uk/news/guide-to-the-eefs-tools-reading-fluency" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/guide-to-the-eefs-tools-reading-fluency</a>  
+   Link:<a href="https://educationendowmentfoundation.org.uk/news/guide-to-the-eefs-tools-reading-fluency" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/guide-to-the-eefs-tools-reading-fluency</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: <a href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/reading-comprehension-strategies" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/reading-comprehension-strategies</a>  
+   Link:<a href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/reading-comprehension-strategies" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/reading-comprehension-strategies</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: teachingbyscience.com  
    Title: repeated reading  
-   Link: <a href="https://www.teachingbyscience.com/repeated-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.teachingbyscience.com/repeated-reading</a>  
+   Link:<a href="https://www.teachingbyscience.com/repeated-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.teachingbyscience.com/repeated-reading</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: erfoundation.org  
-   Link: <a href="https://erfoundation.org/wordpress/evidence/" target="_blank" rel="noopener noreferrer nofollow">https://erfoundation.org/wordpress/evidence/</a>  
+   Link:<a href="https://erfoundation.org/wordpress/evidence/" target="_blank" rel="noopener noreferrer nofollow">https://erfoundation.org/wordpress/evidence/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=5RfMMBTLDms" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5RfMMBTLDms</a>  
+   Link:<a href="https://www.youtube.com/watch?v=5RfMMBTLDms" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5RfMMBTLDms</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: play.google.com  
-   Link: <a href="https://play.google.com/store/apps/details?hl=en&amp;id=com.revolvotech.fovea" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en&amp;id=com.revolvotech.fovea</a>  
+   Link:<a href="https://play.google.com/store/apps/details?hl=en&amp;id=com.revolvotech.fovea" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en&amp;id=com.revolvotech.fovea</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: users.ugent.be  
    Title: Brysbaert Sui Duyck Dirix In Press  
-   Link: <a href="https://users.ugent.be/~wduyck/articles/BrysbaertSuiDuyckDirixInPress.pdf" target="_blank" rel="noopener noreferrer nofollow">https://users.ugent.be/~wduyck/articles/BrysbaertSuiDuyckDirixInPress.pdf</a>  
+   Link:<a href="https://users.ugent.be/~wduyck/articles/BrysbaertSuiDuyckDirixInPress.pdf" target="_blank" rel="noopener noreferrer nofollow">https://users.ugent.be/~wduyck/articles/BrysbaertSuiDuyckDirixInPress.pdf</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: pure.mpg.de  
-   Link: <a href="https://pure.mpg.de/rest/items/item_2567078_1/component/file_2567077/content" target="_blank" rel="noopener noreferrer nofollow">https://pure.mpg.de/rest/items/item_2567078_1/component/file_2567077/content</a>  
+   Link:<a href="https://pure.mpg.de/rest/items/item_2567078_1/component/file_2567077/content" target="_blank" rel="noopener noreferrer nofollow">https://pure.mpg.de/rest/items/item_2567078_1/component/file_2567077/content</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: fivefromfive.com.au  
    Title: repeated reading  
-   Link: <a href="https://fivefromfive.com.au/fluency/evidence-based-fluency-instruction/repeated-reading/" target="_blank" rel="noopener noreferrer nofollow">https://fivefromfive.com.au/fluency/evidence-based-fluency-instruction/repeated-reading/</a>  
+   Link:<a href="https://fivefromfive.com.au/fluency/evidence-based-fluency-instruction/repeated-reading/" target="_blank" rel="noopener noreferrer nofollow">https://fivefromfive.com.au/fluency/evidence-based-fluency-instruction/repeated-reading/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: fluencyfocus.org.uk  
    Title: evidence base  
-   Link: <a href="https://www.fluencyfocus.org.uk/evidence-base" target="_blank" rel="noopener noreferrer nofollow">https://www.fluencyfocus.org.uk/evidence-base</a>  
+   Link:<a href="https://www.fluencyfocus.org.uk/evidence-base" target="_blank" rel="noopener noreferrer nofollow">https://www.fluencyfocus.org.uk/evidence-base</a>  
 
 ### Additional References
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: osf.io  
    Title: How many words do we read per minute?  
-   Link: <a href="https://osf.io/preprints/psyarxiv/xynwg/" target="_blank" rel="noopener noreferrer nofollow">https://osf.io/preprints/psyarxiv/xynwg/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A review and...by M Brysbaert · Cited by 858 — For silent reading of English non-fiction most adults fall in the range of 175 to 300 wpm...</p></details>
+   Link:<a href="https://osf.io/preprints/psyarxiv/xynwg/" target="_blank" rel="noopener noreferrer nofollow">https://osf.io/preprints/psyarxiv/xynwg/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A review and...by M Brysbaert · Cited by 858 — For silent reading of English non-fiction most adults fall in the range of 175 to 300 wpm...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: youtube.com  
    Title: Speed Reading Exercises  
-   Link: <a href="https://www.youtube.com/watch?v=km5njMqeIzk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=km5njMqeIzk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stop Rereading: 7 Ways to Improve Speed &amp; Accuracy on Reading Comprehension (with GMAT 805 Tutor)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=km5njMqeIzk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=km5njMqeIzk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stop Rereading: 7 Ways to Improve Speed &amp; Accuracy on Reading Comprehension (with GMAT 805 Tutor)...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: youtube.com  
    Title: How to Absorb Books 3x Faster (While Remembering More)  
-   Link: <a href="https://www.youtube.com/watch?v=jczEX3A7Sd0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jczEX3A7Sd0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Speed Reading Exercises - Tips on How To Read Faster...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jczEX3A7Sd0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jczEX3A7Sd0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Speed Reading Exercises - Tips on How To Read Faster...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: youtube.com  
    Title: TOP Speed Reading Techniques to Help You Read Faster  
-   Link: <a href="https://www.youtube.com/watch?v=nOp9KAXgOOU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nOp9KAXgOOU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Absorb Books 3x Faster (While Remembering More)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nOp9KAXgOOU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nOp9KAXgOOU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Absorb Books 3x Faster (While Remembering More)...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: sci-hub.box  
-   Link: <a href="https://sci-hub.box/10.1177/0741932519855058" target="_blank" rel="noopener noreferrer nofollow">https://sci-hub.box/10.1177/0741932519855058</a>  
+   Link:<a href="https://sci-hub.box/10.1177/0741932519855058" target="_blank" rel="noopener noreferrer nofollow">https://sci-hub.box/10.1177/0741932519855058</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: sasc.org.uk  
-   Link: <a href="https://www.sasc.org.uk/media/4d4lsrfv/assessing-reading-and-writing-speeds-presentation-june-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sasc.org.uk/media/4d4lsrfv/assessing-reading-and-writing-speeds-presentation-june-2020.pdf</a>  
+   Link:<a href="https://www.sasc.org.uk/media/4d4lsrfv/assessing-reading-and-writing-speeds-presentation-june-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sasc.org.uk/media/4d4lsrfv/assessing-reading-and-writing-speeds-presentation-june-2020.pdf</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/2015/09/big-question-speed-reading-actually-possible" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2015/09/big-question-speed-reading-actually-possible</a>  
+   Link:<a href="https://www.wired.com/2015/09/big-question-speed-reading-actually-possible" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2015/09/big-question-speed-reading-actually-possible</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: education-progress.org  
-   Link: <a href="https://www.education-progress.org/focus/24-readingspeed" target="_blank" rel="noopener noreferrer nofollow">https://www.education-progress.org/focus/24-readingspeed</a>  
+   Link:<a href="https://www.education-progress.org/focus/24-readingspeed" target="_blank" rel="noopener noreferrer nofollow">https://www.education-progress.org/focus/24-readingspeed</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: shanahanonliteracy.com  
-   Link: <a href="https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading</a>  
+   Link:<a href="https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: speedreading.com  
-   Link: <a href="https://speedreading.com/research/eye-movements-visual-processing.php" target="_blank" rel="noopener noreferrer nofollow">https://speedreading.com/research/eye-movements-visual-processing.php</a>  
+   Link:<a href="https://speedreading.com/research/eye-movements-visual-processing.php" target="_blank" rel="noopener noreferrer nofollow">https://speedreading.com/research/eye-movements-visual-processing.php</a>  

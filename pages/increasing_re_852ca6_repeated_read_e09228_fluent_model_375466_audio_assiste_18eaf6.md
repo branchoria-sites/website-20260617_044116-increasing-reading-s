@@ -269,7 +269,7 @@ image: /assets/images/increasing_re_852ca6_repeated_read_e09228_fluent_model_375
 
 ## Introduction
 
-Audio-assisted reading is one of the most practical ways to support reading fluency when teacher feedback is limited. Instead of relying on a teacher, parent, or tutor to model a passage repeatedly, learners listen to a fluent recording while following the text and then reread the passage themselves. The approach is especially useful in classrooms with large pupil-to-teacher ratios, inconsistent home support, or limited intervention time. Research and literacy guidance consistently suggest that hearing a skilled reading model can improve pacing, phrasing, word recognition, and reading confidence, all of which contribute to faster and more accurate reading. At the same time, recordings are not a complete substitute for human feedback because they cannot identify or correct individual errors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/classroom/classroom-strategies/audio-assisted-reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets+2Five from Five]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsAudio-Assisted ReadingWhy use audio-assisted reading? · It helps to build fluency skills including proper phrasing and exp...</span></span></span>
+Audio-assisted reading is one of the most practical ways to support reading fluency when teacher feedback is limited. Instead of relying on a teacher, parent, or tutor to model a passage repeatedly, learners listen to a fluent recording while following the text and then reread the passage themselves. The approach is especially useful in classrooms with large pupil-to-teacher ratios, inconsistent home support, or limited intervention time. Research and literacy guidance consistently suggest that hearing a skilled reading model can improve pacing, phrasing, word recognition, and reading confidence, all of which contribute to faster and more accurate reading. At the same time, recordings are not a complete substitute for human feedback because they cannot identify or correct individual errors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/classroom/classroom-strategies/audio-assisted-reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets+2Five from Five]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsAudio-Assisted ReadingWhy use audio-assisted reading? · It helps to build fluency skills including proper phrasing and exp...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_repeated_read_e09228_fluent_model_375466_audio_assiste_18eaf6-Illustration-1-dark.svg" | relative_url }}" alt="Audio Support illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_repeated_read_e09228_fluent_model_375466_audio_assiste_18eaf6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_repeated_read_e09228_fluent_model_375466_audio_assiste_18eaf6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -277,9 +277,9 @@ Audio-assisted reading is one of the most practical ways to support reading flue
 
 The short answer is: partly.
 
-A fluent reader provides two things during repeated reading [practice]({{ 'practice/' | relative_url }}). First, they model what successful reading sounds like. Second, they give corrective feedback when mistakes occur. Audio-assisted reading can reproduce the first function very effectively, but it only partially addresses the second. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fivefromfive.com.au/fluency/evidence-based-fluency-instruction/audio-assisted-reading/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fivefromfive.com.au">[Five from Five+2Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fivefromfive.com.au</span><span class="citation-popover-snippet">Five from FiveAudio-assisted readingIn audio-assisted reading, students read aloud along with a recording of a text. It is important that...</span></span></span>
+A fluent reader provides two things during repeated reading [practice]({{ 'practice/' | relative_url }}). First, they model what successful reading sounds like. Second, they give corrective feedback when mistakes occur. Audio-assisted reading can reproduce the first function very effectively, but it only partially addresses the second.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fivefromfive.com.au/fluency/evidence-based-fluency-instruction/audio-assisted-reading/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fivefromfive.com.au">[Five from Five+2Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fivefromfive.com.au</span><span class="citation-popover-snippet">Five from FiveAudio-assisted readingIn audio-assisted reading, students read aloud along with a recording of a text. It is important that...</span></span></span>
 
-When a learner repeatedly hears accurate pronunciation, natural phrasing, and appropriate expression, the recording supplies a consistent model every time the passage is practised. Unlike busy adults, the recording never becomes unavailable, tired, or inconsistent. This reliability makes it particularly attractive in schools where individual reading conferences are infrequent or where intervention staff are stretched across many pupils. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/classroom/classroom-strategies/audio-assisted-reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets+2Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsAudio-Assisted ReadingWhy use audio-assisted reading? · It helps to build fluency skills including proper phrasing and exp...</span></span></span>
+When a learner repeatedly hears accurate pronunciation, natural phrasing, and appropriate expression, the recording supplies a consistent model every time the passage is practised. Unlike busy adults, the recording never becomes unavailable, tired, or inconsistent. This reliability makes it particularly attractive in schools where individual reading conferences are infrequent or where intervention staff are stretched across many pupils.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/classroom/classroom-strategies/audio-assisted-reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets+2Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsAudio-Assisted ReadingWhy use audio-assisted reading? · It helps to build fluency skills including proper phrasing and exp...</span></span></span>
 
 ## How Listen–Read–Reread Practice Works
 
@@ -293,9 +293,9 @@ A typical sequence involves:
 4. The learner reads aloud with the recording.
 5. The learner rereads the passage independently one or more times.
 
-This sequence combines modelling with repetition. Each [exposure]({{ 'exposure/' | relative_url }}) reduces the cognitive effort required for decoding, allowing more attention to shift towards phrasing and meaning. Over multiple readings, word recognition becomes more automatic, helping increase reading rate without encouraging careless [guessing]({{ 'guessing/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/classroom/classroom-strategies/audio-assisted-reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets+2Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsAudio-Assisted ReadingWhy use audio-assisted reading? · It helps to build fluency skills including proper phrasing and exp...</span></span></span>
+This sequence combines modelling with repetition. Each [exposure]({{ 'exposure/' | relative_url }}) reduces the cognitive effort required for decoding, allowing more attention to shift towards phrasing and meaning. Over multiple readings, word recognition becomes more automatic, helping increase reading rate without encouraging careless [guessing]({{ 'guessing/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/classroom/classroom-strategies/audio-assisted-reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets+2Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsAudio-Assisted ReadingWhy use audio-assisted reading? · It helps to build fluency skills including proper phrasing and exp...</span></span></span>
 
-An important implementation detail is that learners should actively follow the printed text. Simply listening to an audiobook is not the same as audio-assisted reading. The fluency benefits arise from synchronising visual text with spoken language and then practising [oral reading]({{ 'reading-aloud/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fivefromfive.com.au/fluency/evidence-based-fluency-instruction/audio-assisted-reading/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fivefromfive.com.au">[Five from Five]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fivefromfive.com.au</span><span class="citation-popover-snippet">Five from FiveAudio-assisted readingIn audio-assisted reading, students read aloud along with a recording of a text. It is important that...</span></span></span>
+An important implementation detail is that learners should actively follow the printed text. Simply listening to an audiobook is not the same as audio-assisted reading. The fluency benefits arise from synchronising visual text with spoken language and then practising [oral reading]({{ 'reading-aloud/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fivefromfive.com.au/fluency/evidence-based-fluency-instruction/audio-assisted-reading/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fivefromfive.com.au">[Five from Five]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fivefromfive.com.au</span><span class="citation-popover-snippet">Five from FiveAudio-assisted readingIn audio-assisted reading, students read aloud along with a recording of a text. It is important that...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8N1Q6lV27sc" title="3 Evidence-Based Fluency Routines You Can Start Today" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8N1Q6lV27sc" target="_blank" rel="noopener noreferrer">3 Evidence-Based Fluency Routines You Can Start Today</a></p><p class="youtube-embed-meta">Channel: Reach All Readers with Anna Geiger</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8N1Q6lV27sc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8N1Q6lV27sc">Open on YouTube</a></p></div></div></div>
@@ -306,29 +306,29 @@ Audio-assisted reading is particularly valuable in situations where access to im
 
 ### Independent practice outside teaching time
 
-Many schools can provide direct fluency instruction only a few times each week. Recordings extend practice beyond those sessions. Pupils can rehearse passages during independent work periods, intervention blocks, homework sessions, or holiday practice without needing a fluent adult present. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/videos/classroom/improving-fluency-technology-assisted-reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsImproving Fluency with Technology: Assisted ReadingReading Rockets is a national public media literacy initiative offering...</span></span></span>
+Many schools can provide direct fluency instruction only a few times each week. Recordings extend practice beyond those sessions. Pupils can rehearse passages during independent work periods, intervention blocks, homework sessions, or holiday practice without needing a fluent adult present.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/videos/classroom/improving-fluency-technology-assisted-reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsImproving Fluency with Technology: Assisted ReadingReading Rockets is a national public media literacy initiative offering...</span></span></span>
 
 ### Large classrooms
 
-In a classroom with many pupils, a teacher cannot listen to every child repeatedly read the same passage. Recordings allow learners to receive a fluent model simultaneously while the teacher focuses attention on pupils who need the most intensive support. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/videos/classroom/improving-fluency-technology-assisted-reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsImproving Fluency with Technology: Assisted ReadingReading Rockets is a national public media literacy initiative offering...</span></span></span>
+In a classroom with many pupils, a teacher cannot listen to every child repeatedly read the same passage. Recordings allow learners to receive a fluent model simultaneously while the teacher focuses attention on pupils who need the most intensive support.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/videos/classroom/improving-fluency-technology-assisted-reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsImproving Fluency with Technology: Assisted ReadingReading Rockets is a national public media literacy initiative offering...</span></span></span>
 
 ### Struggling readers
 
-Several studies and reviews report positive effects of audio-assisted reading on fluency, comprehension, pronunciation, and reading motivation among struggling readers. Learners who find oral reading stressful often benefit from being able to practise alongside a non-judgemental model [before reading]({{ 'before-reading/' | relative_url }}) independently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.eric.ed.gov/fulltext/EJ1413159.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.eric.ed.gov">[Thai-Journal Online+3ERIC+3Digital Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.eric.ed.gov</span><span class="citation-popover-snippet">ERICThe Effectiveness of Audio-Assisted Reading to Enhance...by J Lhamo · 2023 · Cited by 11 — The use of audiobooks proved invaluable f...</span></span></span>
+Several studies and reviews report positive effects of audio-assisted reading on fluency, comprehension, pronunciation, and reading motivation among struggling readers. Learners who find oral reading stressful often benefit from being able to practise alongside a non-judgemental model [before reading]({{ 'before-reading/' | relative_url }}) independently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.eric.ed.gov/fulltext/EJ1413159.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.eric.ed.gov">[Thai-Journal Online+3ERIC+3Digital Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.eric.ed.gov</span><span class="citation-popover-snippet">ERICThe Effectiveness of Audio-Assisted Reading to Enhance...by J Lhamo · 2023 · Cited by 11 — The use of audiobooks proved invaluable f...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_repeated_read_e09228_fluent_model_375466_audio_assiste_18eaf6-Illustration-2-dark.svg" | relative_url }}" alt="Audio Support illustration 2" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_repeated_read_e09228_fluent_model_375466_audio_assiste_18eaf6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_repeated_read_e09228_fluent_model_375466_audio_assiste_18eaf6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Consistency across practice sessions
 
-Human readers vary in speed, expression, and accuracy. A recording provides the same model every time. For learners working on specific fluency goals, that consistency can make repeated practice more structured and easier to monitor. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/classroom/classroom-strategies/audio-assisted-reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsAudio-Assisted ReadingWhy use audio-assisted reading? · It helps to build fluency skills including proper phrasing and exp...</span></span></span>
+Human readers vary in speed, expression, and accuracy. A recording provides the same model every time. For learners working on specific fluency goals, that consistency can make repeated practice more structured and easier to monitor.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/classroom/classroom-strategies/audio-assisted-reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsAudio-Assisted ReadingWhy use audio-assisted reading? · It helps to build fluency skills including proper phrasing and exp...</span></span></span>
 
 ## Why Audio Support Can Increase Reading Speed
 
 The connection to reading speed is indirect but important.
 
-Fluent recordings help learners hear how words combine into meaningful [phrases]({{ 'phrases/' | relative_url }}) rather than isolated units. Struggling readers often pause excessively, devote too much attention to individual words, or read in a choppy word-by-word style. Hearing a skilled model repeatedly demonstrates efficient pacing and phrase grouping. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/classroom/classroom-strategies/audio-assisted-reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsAudio-Assisted ReadingWhy use audio-assisted reading? · It helps to build fluency skills including proper phrasing and exp...</span></span></span>
+Fluent recordings help learners hear how words combine into meaningful [phrases]({{ 'phrases/' | relative_url }}) rather than isolated units. Struggling readers often pause excessively, devote too much attention to individual words, or read in a choppy word-by-word style. Hearing a skilled model repeatedly demonstrates efficient pacing and phrase grouping.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/classroom/classroom-strategies/audio-assisted-reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsAudio-Assisted ReadingWhy use audio-assisted reading? · It helps to build fluency skills including proper phrasing and exp...</span></span></span>
 
-As repeated exposure improves word recognition, readers spend less mental effort decoding familiar words. This increased automaticity frees attention for comprehension and supports faster oral reading. Research on repeated reading generally finds improvements in reading fluency and reading rate when rereading is structured and supported. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/topics/fluency/articles/fluency-instructional-guidelines-and-student-activities" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Sage Journals+3Reading Rockets+3NICHD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsFluency: Instructional Guidelines and Student ActivitiesThe best strategy for developing reading fluency is to provide you...</span></span></span>
+As repeated exposure improves word recognition, readers spend less mental effort decoding familiar words. This increased automaticity frees attention for comprehension and supports faster oral reading. Research on repeated reading generally finds improvements in reading fluency and reading rate when rereading is structured and supported.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/topics/fluency/articles/fluency-instructional-guidelines-and-student-activities" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Sage Journals+3Reading Rockets+3NICHD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsFluency: Instructional Guidelines and Student ActivitiesThe best strategy for developing reading fluency is to provide you...</span></span></span>
 
 Audio-assisted reading therefore serves as a bridge. The recording supplies the fluent model initially, but the long-term goal remains independent reading at an appropriate pace.
 
@@ -339,7 +339,7 @@ Audio-assisted reading therefore serves as a bridge. The recording supplies the 
 
 The major limitation of recordings is the absence of responsive correction.
 
-A teacher listening to a pupil can immediately notice when a word is skipped, substituted, or mispronounced. The teacher can also identify problems that recordings cannot detect, such as misunderstanding punctuation, reading too quickly, or using inappropriate expression. Guided oral reading research consistently highlights the value of feedback and correction as part of fluency development. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/topics/curriculum-and-instruction/articles/findings-national-reading-panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsFindings of the National Reading PanelIn guided oral reading, students read out loud, to a parent, teacher or other studen...</span></span></span>
+A teacher listening to a pupil can immediately notice when a word is skipped, substituted, or mispronounced. The teacher can also identify problems that recordings cannot detect, such as misunderstanding punctuation, reading too quickly, or using inappropriate expression. Guided oral reading research consistently highlights the value of feedback and correction as part of fluency development.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/topics/curriculum-and-instruction/articles/findings-national-reading-panel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsFindings of the National Reading PanelIn guided oral reading, students read out loud, to a parent, teacher or other studen...</span></span></span>
 
 Recordings cannot answer questions such as:
 
@@ -353,9 +353,9 @@ Recordings cannot answer questions such as:
 
 </div>
 
-Because of these limitations, audio-assisted reading is generally strongest as a supplement to periodic teacher review rather than a complete replacement for human instruction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fivefromfive.com.au/fluency/evidence-based-fluency-instruction/audio-assisted-reading/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fivefromfive.com.au">[Five from Five+2Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fivefromfive.com.au</span><span class="citation-popover-snippet">Five from FiveAudio-assisted readingIn audio-assisted reading, students read aloud along with a recording of a text. It is important that...</span></span></span>
+Because of these limitations, audio-assisted reading is generally strongest as a supplement to periodic teacher review rather than a complete replacement for human instruction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fivefromfive.com.au/fluency/evidence-based-fluency-instruction/audio-assisted-reading/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fivefromfive.com.au">[Five from Five+2Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fivefromfive.com.au</span><span class="citation-popover-snippet">Five from FiveAudio-assisted readingIn audio-assisted reading, students read aloud along with a recording of a text. It is important that...</span></span></span>
 
-Another risk is passive listening. If pupils merely hear the recording without actively following and rereading the text, gains in oral reading fluency are likely to be smaller. The method depends on active participation, not exposure alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fivefromfive.com.au/fluency/evidence-based-fluency-instruction/audio-assisted-reading/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fivefromfive.com.au">[Five from Five]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fivefromfive.com.au</span><span class="citation-popover-snippet">Five from FiveAudio-assisted readingIn audio-assisted reading, students read aloud along with a recording of a text. It is important that...</span></span></span>
+Another risk is passive listening. If pupils merely hear the recording without actively following and rereading the text, gains in oral reading fluency are likely to be smaller. The method depends on active participation, not exposure alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fivefromfive.com.au/fluency/evidence-based-fluency-instruction/audio-assisted-reading/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fivefromfive.com.au">[Five from Five]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fivefromfive.com.au</span><span class="citation-popover-snippet">Five from FiveAudio-assisted readingIn audio-assisted reading, students read aloud along with a recording of a text. It is important that...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_repeated_read_e09228_fluent_model_375466_audio_assiste_18eaf6-Illustration-3-dark.svg" | relative_url }}" alt="Audio Support illustration 3" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_repeated_read_e09228_fluent_model_375466_audio_assiste_18eaf6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_repeated_read_e09228_fluent_model_375466_audio_assiste_18eaf6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -371,7 +371,7 @@ When teacher time is limited, several implementation choices can improve results
 * Encourage reading aloud with the recording rather than silent listening.
 * Follow assisted practice with independent rereading.
 * Schedule occasional teacher or peer check-ins to catch persistent errors.
-* Track words read correctly per minute or similar fluency measures to monitor progress. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fivefromfive.com.au/fluency/evidence-based-fluency-instruction/audio-assisted-reading/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fivefromfive.com.au">[Five from Five+2Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fivefromfive.com.au</span><span class="citation-popover-snippet">Five from FiveAudio-assisted readingIn audio-assisted reading, students read aloud along with a recording of a text. It is important that...</span></span></span>
+* Track words read correctly per minute or similar fluency measures to monitor progress.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fivefromfive.com.au/fluency/evidence-based-fluency-instruction/audio-assisted-reading/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fivefromfive.com.au">[Five from Five+2Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fivefromfive.com.au</span><span class="citation-popover-snippet">Five from FiveAudio-assisted readingIn audio-assisted reading, students read aloud along with a recording of a text. It is important that...</span></span></span>
 
 </div>
 
@@ -382,197 +382,197 @@ The most effective use of recordings is not as a replacement for instruction but
 
 ## A Practical Trade-Off
 
-Audio-assisted reading occupies a useful middle ground between fully guided oral reading and unsupported independent rereading. It supplies a fluent model, extends practice opportunities, and can improve fluency-related skills that contribute to increased reading speed. Evidence from literacy organisations and intervention studies suggests that it is particularly valuable for struggling readers and settings where adult support is limited. However, because recordings cannot diagnose or correct individual mistakes, they work best when combined with occasional human feedback rather than used as a complete substitute for it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/classroom/classroom-strategies/audio-assisted-reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[NICHD+4Reading Rockets+4Five from Five]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsAudio-Assisted ReadingWhy use audio-assisted reading? · It helps to build fluency skills including proper phrasing and exp...</span></span></span>
+Audio-assisted reading occupies a useful middle ground between fully guided oral reading and unsupported independent rereading. It supplies a fluent model, extends practice opportunities, and can improve fluency-related skills that contribute to increased reading speed. Evidence from literacy organisations and intervention studies suggests that it is particularly valuable for struggling readers and settings where adult support is limited. However, because recordings cannot diagnose or correct individual mistakes, they work best when combined with occasional human feedback rather than used as a complete substitute for it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/classroom/classroom-strategies/audio-assisted-reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[NICHD+4Reading Rockets+4Five from Five]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsAudio-Assisted ReadingWhy use audio-assisted reading? · It helps to build fluency skills including proper phrasing and exp...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can Recordings Stand In for a Fluent Reader?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can Recordings Stand In for a Fluent Reader?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The fluent reader on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/277217-M.jpg" alt="Cover for The fluent reader" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fluent reader">The fluent reader</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The fluent reader on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/277217-M.jpg" alt="Cover for The fluent reader" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fluent reader">The fluent reader</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Discusses modeled reading that aligns with audio-assisted practice.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses modeled reading that aligns with audio-assisted practice.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Peak on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rLECDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Peak" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Peak">Peak</a>
-        </h4>
-        <p class="fr-book-author">By Anders Ericsson, Robert Pool</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Peak on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rLECDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Peak" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Peak">Peak</a>
+</h4>
+<p class="fr-book-author">By Anders Ericsson, Robert Pool</p>
         
-        <p class="fr-book-desc">Emphasizes modeled performance and feedback.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes modeled performance and feedback.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ultralearning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jyV2DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ultralearning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ultralearning">Ultralearning</a>
-        </h4>
-        <p class="fr-book-author">By Scott H. Young</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ultralearning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jyV2DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ultralearning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ultralearning">Ultralearning</a>
+</h4>
+<p class="fr-book-author">By Scott H. Young</p>
         
-        <p class="fr-book-desc">Relevant to independent audio-assisted study.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to independent audio-assisted study.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Megabook+of+Fluency+Timothy+V.+Rasinski%3BMelissa+Cheesman+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Megabook of Fluency on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8825334-M.jpg" alt="Cover for The Megabook of Fluency" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Megabook+of+Fluency+Timothy+V.+Rasinski%3BMelissa+Cheesman+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Megabook of Fluency">The Megabook of Fluency</a>
-        </h4>
-        <p class="fr-book-author">By Timothy V. Rasinski;Melissa Cheesman Smith</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Megabook+of+Fluency+Timothy+V.+Rasinski%3BMelissa+Cheesman+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Megabook of Fluency on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8825334-M.jpg" alt="Cover for The Megabook of Fluency" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Megabook+of+Fluency+Timothy+V.+Rasinski%3BMelissa+Cheesman+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Megabook of Fluency">The Megabook of Fluency</a>
+</h4>
+<p class="fr-book-author">By Timothy V. Rasinski;Melissa Cheesman Smith</p>
         
-        <p class="fr-book-desc">First published 2018. Subjects: Language arts (elementary), Teaching, aids and devices.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Megabook+of+Fluency+Timothy+V.+Rasinski%3BMelissa+Cheesman+Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2018. Subjects: Language arts (elementary), Teaching, aids and devices.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Megabook+of+Fluency+Timothy+V.+Rasinski%3BMelissa+Cheesman+Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The fluent reader</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Peak&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Peak</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ultralearning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ultralearning</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The fluent reader</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Peak&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Peak</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ultralearning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ultralearning</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recordings+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recordings memorabilia -book -books -dvd" data-ebay-reference="audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Beatles - The Original Studio Recordings Album Collectible Memorabilia SET."><img src="{{ '/assets/images/marketplace-covers/98634d501b9d30c06b54.jpg' | relative_url }}" alt="Listing image for The Beatles - The Original Studio Recordings Album Collectible Memorabilia SET." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recordings+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recordings memorabilia -book -books -dvd" data-ebay-reference="audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">The Beatles - The Original Studio Recordings Album Collectible Memorabilia SET.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recordings+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recordings memorabilia -book -books -dvd" data-ebay-reference="audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recordings memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: recordings memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recordings+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recordings memorabilia -book -books -dvd" data-ebay-reference="audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recordings+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recordings memorabilia -book -books -dvd" data-ebay-reference="audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Beatles - The Original Studio Recordings Album Collectible Memorabilia SET."><img src="{{ '/assets/images/marketplace-covers/98634d501b9d30c06b54.jpg' | relative_url }}" alt="Listing image for The Beatles - The Original Studio Recordings Album Collectible Memorabilia SET." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recordings+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recordings memorabilia -book -books -dvd" data-ebay-reference="audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">The Beatles - The Original Studio Recordings Album Collectible Memorabilia SET.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recordings+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recordings memorabilia -book -books -dvd" data-ebay-reference="audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recordings memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: recordings memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recordings+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recordings memorabilia -book -books -dvd" data-ebay-reference="audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recordings+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recordings memorabilia -book -books -dvd" data-ebay-reference="audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Flower Children | Memorabilia | 13 Track CD | Orange recordings"><img src="{{ '/assets/images/marketplace-covers/d6ebd3902fb653e5d780.jpg' | relative_url }}" alt="Listing image for The Flower Children | Memorabilia | 13 Track CD | Orange recordings" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recordings+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recordings memorabilia -book -books -dvd" data-ebay-reference="audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">The Flower Children | Memorabilia | 13 Track CD | Orange recordings</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recordings+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recordings memorabilia -book -books -dvd" data-ebay-reference="audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recordings memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: recordings memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recordings+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recordings memorabilia -book -books -dvd" data-ebay-reference="audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recordings+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recordings memorabilia -book -books -dvd" data-ebay-reference="audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Flower Children | Memorabilia | 13 Track CD | Orange recordings"><img src="{{ '/assets/images/marketplace-covers/d6ebd3902fb653e5d780.jpg' | relative_url }}" alt="Listing image for The Flower Children | Memorabilia | 13 Track CD | Orange recordings" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recordings+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recordings memorabilia -book -books -dvd" data-ebay-reference="audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">The Flower Children | Memorabilia | 13 Track CD | Orange recordings</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recordings+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recordings memorabilia -book -books -dvd" data-ebay-reference="audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recordings memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: recordings memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recordings+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recordings memorabilia -book -books -dvd" data-ebay-reference="audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recordings+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recordings memorabilia -book -books -dvd" data-ebay-reference="audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vinile - Eilertsen / Trio Mediaeval - Memorabilia (2 Lp) - Nxn Recordings -D- N"><img src="{{ '/assets/images/marketplace-covers/3f4e0530f6aaf748ff20.jpg' | relative_url }}" alt="Listing image for Vinile - Eilertsen / Trio Mediaeval - Memorabilia (2 Lp) - Nxn Recordings -D- N" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recordings+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recordings memorabilia -book -books -dvd" data-ebay-reference="audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Vinile - Eilertsen / Trio Mediaeval - Memorabilia (2 Lp) - Nxn Recordings -D- N</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recordings+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recordings memorabilia -book -books -dvd" data-ebay-reference="audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recordings memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: recordings memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recordings+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recordings memorabilia -book -books -dvd" data-ebay-reference="audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recordings+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recordings memorabilia -book -books -dvd" data-ebay-reference="audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vinile - Eilertsen / Trio Mediaeval - Memorabilia (2 Lp) - Nxn Recordings -D- N"><img src="{{ '/assets/images/marketplace-covers/3f4e0530f6aaf748ff20.jpg' | relative_url }}" alt="Listing image for Vinile - Eilertsen / Trio Mediaeval - Memorabilia (2 Lp) - Nxn Recordings -D- N" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recordings+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recordings memorabilia -book -books -dvd" data-ebay-reference="audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Vinile - Eilertsen / Trio Mediaeval - Memorabilia (2 Lp) - Nxn Recordings -D- N</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recordings+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recordings memorabilia -book -books -dvd" data-ebay-reference="audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recordings memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: recordings memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recordings+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recordings memorabilia -book -books -dvd" data-ebay-reference="audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recordings+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recordings memorabilia -book -books -dvd" data-ebay-reference="audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Brother - Memorabilia CD 1995 Rhythm Kitchen Recordings - ROCK RARE"><img src="{{ '/assets/images/marketplace-covers/f6847199d03e26643016.jpg' | relative_url }}" alt="Listing image for Brother - Memorabilia CD 1995 Rhythm Kitchen Recordings - ROCK RARE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recordings+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recordings memorabilia -book -books -dvd" data-ebay-reference="audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Brother - Memorabilia CD 1995 Rhythm Kitchen Recordings - ROCK RARE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recordings+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recordings memorabilia -book -books -dvd" data-ebay-reference="audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recordings memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: recordings memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=recordings+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recordings memorabilia -book -books -dvd" data-ebay-reference="audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=recordings+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recordings memorabilia -book -books -dvd" data-ebay-reference="audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=recordings+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recordings memorabilia -book -books -dvd" data-ebay-reference="audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Brother - Memorabilia CD 1995 Rhythm Kitchen Recordings - ROCK RARE"><img src="{{ '/assets/images/marketplace-covers/f6847199d03e26643016.jpg' | relative_url }}" alt="Listing image for Brother - Memorabilia CD 1995 Rhythm Kitchen Recordings - ROCK RARE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recordings+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recordings memorabilia -book -books -dvd" data-ebay-reference="audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Brother - Memorabilia CD 1995 Rhythm Kitchen Recordings - ROCK RARE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=recordings+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recordings memorabilia -book -books -dvd" data-ebay-reference="audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for recordings memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: recordings memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=recordings+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recordings memorabilia -book -books -dvd" data-ebay-reference="audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=recordings+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="recordings memorabilia -book -books -dvd" data-ebay-reference="audio-support-can-recordings-stand-in-for-a-fluent-reader-increasing-recordings-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -588,7 +588,7 @@ Audio-assisted reading occupies a useful middle ground between fully guided oral
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -608,7 +608,7 @@ Audio-assisted reading occupies a useful middle ground between fully guided oral
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -640,7 +640,7 @@ Audio-assisted reading occupies a useful middle ground between fully guided oral
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -692,7 +692,7 @@ Audio-assisted reading occupies a useful middle ground between fully guided oral
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -737,7 +737,7 @@ Audio-assisted reading occupies a useful middle ground between fully guided oral
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -778,162 +778,162 @@ Audio-assisted reading occupies a useful middle ground between fully guided oral
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nichd.nih.gov  
    Title: NICHDNational Reading Panel  
-   Link: <a href="https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Panel - Reports of the Subgroups - FluencyAn extensive review of the literature indicates that classroom practices that encourage...</p></details>
+   Link:<a href="https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Panel - Reports of the Subgroups - FluencyAn extensive review of the literature indicates that classroom practices that encourage...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: files.eric.ed.gov  
-   Link: <a href="https://files.eric.ed.gov/fulltext/EJ1413159.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/EJ1413159.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ERICThe Effectiveness of Audio-Assisted Reading to Enhance...by J Lhamo · 2023 · Cited by 11 — The use of audiobooks proved invaluable f...</p></details>
+   Link:<a href="https://files.eric.ed.gov/fulltext/EJ1413159.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/EJ1413159.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ERICThe Effectiveness of Audio-Assisted Reading to Enhance...by J Lhamo · 2023 · Cited by 11 — The use of audiobooks proved invaluable f...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: audio.com  
-   Link: <a href="https://audio.com/" target="_blank" rel="noopener noreferrer nofollow">https://audio.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>We empower audio creatives to share their work with the world. Upload your files online or directly from the Audacity app...</p></details>
+   Link:<a href="https://audio.com/" target="_blank" rel="noopener noreferrer nofollow">https://audio.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We empower audio creatives to share their work with the world. Upload your files online or directly from the Audacity app...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reading.com  
-   Link: <a href="https://www.reading.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.reading.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Teach Your Child To Read Early, Step by StepReading.com helps your child learn to read with a proven, step-by-step program. Start today a...</p></details>
+   Link:<a href="https://www.reading.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.reading.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Teach Your Child To Read Early, Step by StepReading.com helps your child learn to read with a proven, step-by-step program. Start today a...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/classroom/classroom-strategies/audio-assisted-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/classroom/classroom-strategies/audio-assisted-reading</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsAudio-Assisted ReadingWhy use audio-assisted reading? · It helps to build fluency skills including proper phrasing and exp...</p></details>
+   Link:<a href="https://www.readingrockets.org/classroom/classroom-strategies/audio-assisted-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/classroom/classroom-strategies/audio-assisted-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsAudio-Assisted ReadingWhy use audio-assisted reading? · It helps to build fluency skills including proper phrasing and exp...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: fivefromfive.com.au  
-   Link: <a href="https://fivefromfive.com.au/fluency/evidence-based-fluency-instruction/audio-assisted-reading/" target="_blank" rel="noopener noreferrer nofollow">https://fivefromfive.com.au/fluency/evidence-based-fluency-instruction/audio-assisted-reading/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Five from FiveAudio-assisted readingIn audio-assisted reading, students read aloud along with a recording of a text. It is important that...</p></details>
+   Link:<a href="https://fivefromfive.com.au/fluency/evidence-based-fluency-instruction/audio-assisted-reading/" target="_blank" rel="noopener noreferrer nofollow">https://fivefromfive.com.au/fluency/evidence-based-fluency-instruction/audio-assisted-reading/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Five from FiveAudio-assisted readingIn audio-assisted reading, students read aloud along with a recording of a text. It is important that...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/topics/curriculum-and-instruction/articles/findings-national-reading-panel" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/curriculum-and-instruction/articles/findings-national-reading-panel</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsFindings of the National Reading PanelIn guided oral reading, students read out loud, to a parent, teacher or other studen...</p></details>
+   Link:<a href="https://www.readingrockets.org/topics/curriculum-and-instruction/articles/findings-national-reading-panel" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/curriculum-and-instruction/articles/findings-national-reading-panel</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsFindings of the National Reading PanelIn guided oral reading, students read out loud, to a parent, teacher or other studen...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/videos/classroom/improving-fluency-technology-assisted-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/videos/classroom/improving-fluency-technology-assisted-reading</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsImproving Fluency with Technology: Assisted ReadingReading Rockets is a national public media literacy initiative offering...</p></details>
+   Link:<a href="https://www.readingrockets.org/videos/classroom/improving-fluency-technology-assisted-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/videos/classroom/improving-fluency-technology-assisted-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsImproving Fluency with Technology: Assisted ReadingReading Rockets is a national public media literacy initiative offering...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/topics/fluency/articles/fluency-instructional-guidelines-and-student-activities" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/fluency/articles/fluency-instructional-guidelines-and-student-activities</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsFluency: Instructional Guidelines and Student ActivitiesThe best strategy for developing reading fluency is to provide you...</p></details>
+   Link:<a href="https://www.readingrockets.org/topics/fluency/articles/fluency-instructional-guidelines-and-student-activities" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/fluency/articles/fluency-instructional-guidelines-and-student-activities</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsFluency: Instructional Guidelines and Student ActivitiesThe best strategy for developing reading fluency is to provide you...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: digitalcommons.butler.edu  
    Title: coe papers  
-   Link: <a href="https://digitalcommons.butler.edu/coe_papers/73/" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.butler.edu/coe_papers/73/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Commons&quot;Audiobooks for Struggling Readers: Using Audio-Assisted...by KJ Esteves · 2009 · Cited by 2 — Researchers have cited imp...</p></details>
+   Link:<a href="https://digitalcommons.butler.edu/coe_papers/73/" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.butler.edu/coe_papers/73/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Commons&quot;Audiobooks for Struggling Readers: Using Audio-Assisted...by KJ Esteves · 2009 · Cited by 2 — Researchers have cited imp...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: so05.tci-thaijo.org  
-   Link: <a href="https://so05.tci-thaijo.org/index.php/thaitesoljournal/article/view/268986" target="_blank" rel="noopener noreferrer nofollow">https://so05.tci-thaijo.org/index.php/thaitesoljournal/article/view/268986</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Thai-Journal OnlineThe Effectiveness of Audio-Assisted Reading to Enhance...by J Lhamo · 2023 · Cited by 11 — The study recommends incor...</p></details>
+   Link:<a href="https://so05.tci-thaijo.org/index.php/thaitesoljournal/article/view/268986" target="_blank" rel="noopener noreferrer nofollow">https://so05.tci-thaijo.org/index.php/thaitesoljournal/article/view/268986</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thai-Journal OnlineThe Effectiveness of Audio-Assisted Reading to Enhance...by J Lhamo · 2023 · Cited by 11 — The study recommends incor...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/01632787241257450" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/01632787241257450</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsAnalyzing the Effects of a Repeated Reading Intervention...11 Dec 2024 — The results presented by GLMMs showed that repeate...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/01632787241257450" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/01632787241257450</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsAnalyzing the Effects of a Repeated Reading Intervention...11 Dec 2024 — The results presented by GLMMs showed that repeate...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/classroom/classroom-strategies/timed-repeated-readings" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/classroom/classroom-strategies/timed-repeated-readings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Timed Repeated ReadingsTimed repeated readings are an instructional practice for monitoring students&#x27; fluency development. Repeated readi...</p></details>
+   Link:<a href="https://www.readingrockets.org/classroom/classroom-strategies/timed-repeated-readings" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/classroom/classroom-strategies/timed-repeated-readings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Timed Repeated ReadingsTimed repeated readings are an instructional practice for monitoring students&#x27; fluency development. Repeated readi...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/topics/assistive-technology/articles/assistive-technology-tools-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/assistive-technology/articles/assistive-technology-tools-reading</a>  
+   Link:<a href="https://www.readingrockets.org/topics/assistive-technology/articles/assistive-technology-tools-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/assistive-technology/articles/assistive-technology-tools-reading</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/topics/fluency" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/fluency</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FluencyDeveloping Fluency. This video shows an after-school program called RAVE-O that helps teach reading fluency in Malden, Massachuset...</p></details>
+   Link:<a href="https://www.readingrockets.org/topics/fluency" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/fluency</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FluencyDeveloping Fluency. This video shows an after-school program called RAVE-O that helps teach reading fluency in Malden, Massachuset...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: readingrockets.org  
    Title: everything you wanted know about repeated reading  
-   Link: <a href="https://www.readingrockets.org/blogs/shanahan-on-literacy/everything-you-wanted-know-about-repeated-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/blogs/shanahan-on-literacy/everything-you-wanted-know-about-repeated-reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The biggest payoffs tend to be with word reading, but it also has been found to...Read more...</p></details>
+   Link:<a href="https://www.readingrockets.org/blogs/shanahan-on-literacy/everything-you-wanted-know-about-repeated-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/blogs/shanahan-on-literacy/everything-you-wanted-know-about-repeated-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The biggest payoffs tend to be with word reading, but it also has been found to...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Rockets: Launching Young ReadersReading Rockets offers a rich library of evidence-based classroom strategies to help young childr...</p></details>
+   Link:<a href="https://www.readingrockets.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Rockets: Launching Young ReadersReading Rockets offers a rich library of evidence-based classroom strategies to help young childr...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Reading" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ReadingReading is the process of taking in the sense or meaning of symbols, often specifically those of a written language, by means o...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Reading" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ReadingReading is the process of taking in the sense or meaning of symbols, often specifically those of a written language, by means o...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/fivefromfive/posts/repeated-reading-when-done-properly-is-an-evidence-based-approach-to-teaching-re/1503120385152594/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fivefromfive/posts/repeated-reading-when-done-properly-is-an-evidence-based-approach-to-teaching-re/1503120385152594/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Repeated reading - when done properly - is an evidence...If you want to add listening to your fluency activity, you can try audio-assist...</p></details>
+   Link:<a href="https://www.facebook.com/fivefromfive/posts/repeated-reading-when-done-properly-is-an-evidence-based-approach-to-teaching-re/1503120385152594/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fivefromfive/posts/repeated-reading-when-done-properly-is-an-evidence-based-approach-to-teaching-re/1503120385152594/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Repeated reading - when done properly - is an evidence...If you want to add listening to your fluency activity, you can try audio-assist...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: landmarkoutreach.org  
    Title: Reading Rockets.Read more  
-   Link: <a href="https://www.landmarkoutreach.org/strategies/fluency-interventions-text-and-passage-level/" target="_blank" rel="noopener noreferrer nofollow">https://www.landmarkoutreach.org/strategies/fluency-interventions-text-and-passage-level/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fluency Interventions at the Text and Passage LevelsApr 16, 2025 — Modeling is a component of many text-level fluency practices, includin...</p></details>
+   Link:<a href="https://www.landmarkoutreach.org/strategies/fluency-interventions-text-and-passage-level/" target="_blank" rel="noopener noreferrer nofollow">https://www.landmarkoutreach.org/strategies/fluency-interventions-text-and-passage-level/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fluency Interventions at the Text and Passage LevelsApr 16, 2025 — Modeling is a component of many text-level fluency practices, includin...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: eric.ed.gov  
-   Link: <a href="https://eric.ed.gov/?id=ED470652" target="_blank" rel="noopener noreferrer nofollow">https://eric.ed.gov/?id=ED470652</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the National Reading Panel Report into Practice., 2002This collection of articles from &quot;The Reading Teacher&quot; provides examples of the ins...</p></details>
+   Link:<a href="https://eric.ed.gov/?id=ED470652" target="_blank" rel="noopener noreferrer nofollow">https://eric.ed.gov/?id=ED470652</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the National Reading Panel Report into Practice., 2002This collection of articles from &quot;The Reading Teacher&quot; provides examples of the ins...</p></details>
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/398253041_Effect_of_Repeated_Reading_for_Developing_Reading_Fluency_and_Reading_Comprehension_in_EFL_Students_Pre_Experimental_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/398253041_Effect_of_Repeated_Reading_for_Developing_Reading_Fluency_and_Reading_Comprehension_in_EFL_Students_Pre_Experimental_Study</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Effect of Repeated Reading for Developing...Dec 23, 2025 — Based on the results of the study, it was found that repeated reading w...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/398253041_Effect_of_Repeated_Reading_for_Developing_Reading_Fluency_and_Reading_Comprehension_in_EFL_Students_Pre_Experimental_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/398253041_Effect_of_Repeated_Reading_for_Developing_Reading_Fluency_and_Reading_Comprehension_in_EFL_Students_Pre_Experimental_Study</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Effect of Repeated Reading for Developing...Dec 23, 2025 — Based on the results of the study, it was found that repeated reading w...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: brtprojects.org  
-   Link: <a href="https://brtprojects.org/wp-content/uploads/2024/02/Fluency-NRP-Updates-TRL-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://brtprojects.org/wp-content/uploads/2024/02/Fluency-NRP-Updates-TRL-2020.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FLUENCY Hasbrouck 1The panel structured its response around two procedural options: (a) repeated oral reading, and (b) encouraging studen...</p></details>
+   Link:<a href="https://brtprojects.org/wp-content/uploads/2024/02/Fluency-NRP-Updates-TRL-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://brtprojects.org/wp-content/uploads/2024/02/Fluency-NRP-Updates-TRL-2020.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FLUENCY Hasbrouck 1The panel structured its response around two procedural options: (a) repeated oral reading, and (b) encouraging studen...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: ncicu.org  
-   Link: <a href="https://ncicu.org/wp-content/uploads/2024/03/Toolkit_Oral-Reading-Fluency.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ncicu.org/wp-content/uploads/2024/03/Toolkit_Oral-Reading-Fluency.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Oral Reading FluencyOral reading fluency refers to the ability to read aloud with accuracy, speed, and expression. It involves the automa...</p></details>
+   Link:<a href="https://ncicu.org/wp-content/uploads/2024/03/Toolkit_Oral-Reading-Fluency.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ncicu.org/wp-content/uploads/2024/03/Toolkit_Oral-Reading-Fluency.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Oral Reading FluencyOral reading fluency refers to the ability to read aloud with accuracy, speed, and expression. It involves the automa...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/reading" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>READING Definition &amp; Meaning1. The act of reading. 2. a: material read or for reading b: extent of material read. 3. a: a particular v...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/reading" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>READING Definition &amp; Meaning1. The act of reading. 2. a: material read or for reading b: extent of material read. 3. a: a particular v...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: readinguniverse.org  
-   Link: <a href="https://readinguniverse.org/" target="_blank" rel="noopener noreferrer nofollow">https://readinguniverse.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Universe: HomepageReading Universe can help. You&#x27;ll find ready-to-use teaching strategies, in-classroom videos, interviews with t...</p></details>
+   Link:<a href="https://readinguniverse.org/" target="_blank" rel="noopener noreferrer nofollow">https://readinguniverse.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Universe: HomepageReading Universe can help. You&#x27;ll find ready-to-use teaching strategies, in-classroom videos, interviews with t...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: shanahanonliteracy.com  
-   Link: <a href="https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Everything You Wanted to Know about Repeated ReadingRepeated reading usually leads to better oral reading performance and reading compreh...</p></details>
+   Link:<a href="https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Everything You Wanted to Know about Repeated ReadingRepeated reading usually leads to better oral reading performance and reading compreh...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: campbellcreatesreaders.com  
-   Link: <a href="https://www.campbellcreatesreaders.com/blog/nrpfluency" target="_blank" rel="noopener noreferrer nofollow">https://www.campbellcreatesreaders.com/blog/nrpfluency</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What the National Reading Panel Says About: FluencyFor the National Reading Panel, their focus was really two questions: does repeated re...</p></details>
+   Link:<a href="https://www.campbellcreatesreaders.com/blog/nrpfluency" target="_blank" rel="noopener noreferrer nofollow">https://www.campbellcreatesreaders.com/blog/nrpfluency</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What the National Reading Panel Says About: FluencyFor the National Reading Panel, their focus was really two questions: does repeated re...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: pathstoliteracy.org  
-   Link: <a href="https://www.pathstoliteracy.org/audio-assisted-reading/" target="_blank" rel="noopener noreferrer nofollow">https://www.pathstoliteracy.org/audio-assisted-reading/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Audio-Assisted ReadingAudio-Assisted Reading allows a user to listen to a spoken version of text while looking at screen-displayed print...</p></details>
+   Link:<a href="https://www.pathstoliteracy.org/audio-assisted-reading/" target="_blank" rel="noopener noreferrer nofollow">https://www.pathstoliteracy.org/audio-assisted-reading/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Audio-Assisted ReadingAudio-Assisted Reading allows a user to listen to a spoken version of text while looking at screen-displayed print...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/391145825_Addressing_diverse_challenges_in_teaching_reading_comprehension_Voices_among_Indonesian_university_teachers" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391145825_Addressing_diverse_challenges_in_teaching_reading_comprehension_Voices_among_Indonesian_university_teachers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Learners. Article. Full-text available. Oct 2024. Musa Nushi · Peyman Jahanbin. This study applies audio-assisted reading...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/391145825_Addressing_diverse_challenges_in_teaching_reading_comprehension_Voices_among_Indonesian_university_teachers" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391145825_Addressing_diverse_challenges_in_teaching_reading_comprehension_Voices_among_Indonesian_university_teachers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Learners. Article. Full-text available. Oct 2024. Musa Nushi · Peyman Jahanbin. This study applies audio-assisted reading...Read more...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: readingeggs.com  
-   Link: <a href="https://readingeggs.com/" target="_blank" rel="noopener noreferrer nofollow">https://readingeggs.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Eggs makes learning to read interesting and engaging for kids, with great online reading games and activities.Read more...</p></details>
+   Link:<a href="https://readingeggs.com/" target="_blank" rel="noopener noreferrer nofollow">https://readingeggs.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Eggs makes learning to read interesting and engaging for kids, with great online reading games and activities.Read more...</p></details>

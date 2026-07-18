@@ -294,7 +294,7 @@ image: /assets/images/increasing_re_852ca6_purpose_based_25e5d2_report_skimmi_a9
 
 ## Introduction
 
-When the goal is to make a decision rather than master every detail, reports should not be read from page one to the final appendix at a constant pace. Most professional reports are structured so that key conclusions, recommendations, evidence summaries, and limitations can be found quickly. Effective report [skimming]({{ 'skimming/' | relative_url }}) means identifying the few sections that influence a decision and postponing detailed reading until those sections justify it. Universities, audit bodies, and business-writing guidance consistently place executive summaries, findings, conclusions, and recommendations at the centre of report navigation because many readers use those sections first to determine whether deeper reading is necessary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.open.edu/openlearn/mod/oucontent/view.php?id=19203&amp;section=5.2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.edu">[The Open University+2ECA Methodology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.edu</span><span class="citation-popover-title">The Open University5.2 Planning a business report Executive</span><span class="citation-popover-snippet">The Open University5.2 Planning a business reportExecutive summary, Gives a brief summary, Section or paragraph explaining the purpose of...</span></span></span>
+When the goal is to make a decision rather than master every detail, reports should not be read from page one to the final appendix at a constant pace. Most professional reports are structured so that key conclusions, recommendations, evidence summaries, and limitations can be found quickly. Effective report [skimming]({{ 'skimming/' | relative_url }}) means identifying the few sections that influence a decision and postponing detailed reading until those sections justify it. Universities, audit bodies, and business-writing guidance consistently place executive summaries, findings, conclusions, and recommendations at the centre of report navigation because many readers use those sections first to determine whether deeper reading is necessary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.open.edu/openlearn/mod/oucontent/view.php?id=19203&amp;section=5.2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.edu">[The Open University+2ECA Methodology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.edu</span><span class="citation-popover-title">The Open University5.2 Planning a business report Executive</span><span class="citation-popover-snippet">The Open University5.2 Planning a business reportExecutive summary, Gives a brief summary, Section or paragraph explaining the purpose of...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_purpose_based_25e5d2_report_skimmi_a98d6b-Illustration-1-dark.svg" | relative_url }}" alt="Reports illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_purpose_based_25e5d2_report_skimmi_a98d6b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_purpose_based_25e5d2_report_skimmi_a98d6b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -304,16 +304,16 @@ For [increasing]({{ 'increasing/' | relative_url }}) reading speed, this approac
 
 Most reports contain a built-in route to the main decision. Rather than beginning with methodology or background, start by locating:
 
-1. The executive summary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://methodology.eca.europa.eu/aware/PA/Pages/Reporting/Executive-summary.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: methodology.eca.europa.eu">[methodology.eca.europa.eu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">methodology.eca.europa.eu</span><span class="citation-popover-title">ECA Methodology Executive</span><span class="citation-popover-snippet">ECA MethodologyExecutive summary - Methodology11 Apr 2022 — An executive summary should use clear language to tell the reader quickly wha...</span></span></span>
+1. The executive summary.<span class="citation-chip-wrap"><a class="citation-chip" href="https://methodology.eca.europa.eu/aware/PA/Pages/Reporting/Executive-summary.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: methodology.eca.europa.eu">[methodology.eca.europa.eu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">methodology.eca.europa.eu</span><span class="citation-popover-title">ECA Methodology Executive</span><span class="citation-popover-snippet">ECA MethodologyExecutive summary - Methodology11 Apr 2022 — An executive summary should use clear language to tell the reader quickly wha...</span></span></span>
 2. The conclusion.
-3. The recommendations section. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.open.edu/openlearn/mod/oucontent/view.php?id=19203&amp;section=5.2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.edu">[open.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.edu</span><span class="citation-popover-title">The Open University5.2 Planning a business report Executive</span><span class="citation-popover-snippet">The Open University5.2 Planning a business reportExecutive summary, Gives a brief summary, Section or paragraph explaining the purpose of...</span></span></span>
+3. The recommendations section.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.open.edu/openlearn/mod/oucontent/view.php?id=19203&amp;section=5.2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.edu">[open.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.edu</span><span class="citation-popover-title">The Open University5.2 Planning a business report Executive</span><span class="citation-popover-snippet">The Open University5.2 Planning a business reportExecutive summary, Gives a brief summary, Section or paragraph explaining the purpose of...</span></span></span>
 4. The contents page and major headings.
 
-These elements usually reveal the report's purpose, main findings, and proposed actions. Academic and business-report guidance repeatedly describes the executive summary as a condensed version of the report's purpose, findings, conclusions, and recommendations, often intended for readers who may never read the full document. Grimsby Institute+3The Open University+3ECA Methodology <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.open.edu/openlearn/mod/oucontent/view.php?id=19203&amp;section=5.2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.edu">[open.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.edu</span><span class="citation-popover-title">The Open University5.2 Planning a business report Executive</span><span class="citation-popover-snippet">The Open University5.2 Planning a business reportExecutive summary, Gives a brief summary, Section or paragraph explaining the purpose of...</span></span></span>
+These elements usually reveal the report's purpose, main findings, and proposed actions. Academic and business-report guidance repeatedly describes the executive summary as a condensed version of the report's purpose, findings, conclusions, and recommendations, often intended for readers who may never read the full document. Grimsby Institute+3The Open University+3ECA Methodology<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.open.edu/openlearn/mod/oucontent/view.php?id=19203&amp;section=5.2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.edu">[open.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.edu</span><span class="citation-popover-title">The Open University5.2 Planning a business report Executive</span><span class="citation-popover-snippet">The Open University5.2 Planning a business reportExecutive summary, Gives a brief summary, Section or paragraph explaining the purpose of...</span></span></span>
 
 A practical sequence is:
 
-* Read the executive summary completely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.open.edu/openlearn/mod/oucontent/view.php?id=19203&amp;section=5.2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.edu">[open.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.edu</span><span class="citation-popover-title">The Open University5.2 Planning a business report Executive</span><span class="citation-popover-snippet">The Open University5.2 Planning a business reportExecutive summary, Gives a brief summary, Section or paragraph explaining the purpose of...</span></span></span>
+* Read the executive summary completely.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.open.edu/openlearn/mod/oucontent/view.php?id=19203&amp;section=5.2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.edu">[open.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.edu</span><span class="citation-popover-title">The Open University5.2 Planning a business report Executive</span><span class="citation-popover-snippet">The Open University5.2 Planning a business reportExecutive summary, Gives a brief summary, Section or paragraph explaining the purpose of...</span></span></span>
 * Jump to the recommendations.
 * Read the conclusion.
 * Scan the contents page.
@@ -347,7 +347,7 @@ A useful technique is to scan every figure title, table heading, and chart capti
 * Performance measures.
 * Forecasts and scenarios.
 
-Because report writers usually design tables and figures to summarise evidence, they often function as compressed versions of entire sections. A contents page and clear report structure are specifically intended to help readers locate relevant information efficiently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://libguides.reading.ac.uk/reports/structuring" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: libguides.reading.ac.uk">[Reading University Library Guides]</a><span class="citation-popover" role="note"><span class="citation-popover-source">libguides.reading.ac.uk</span><span class="citation-popover-snippet">Reading University Library GuidesReport writing: Structuring your report16 Apr 2026 — The structure of a report has a key role to play in...</span></span></span>
+Because report writers usually design tables and figures to summarise evidence, they often function as compressed versions of entire sections. A contents page and clear report structure are specifically intended to help readers locate relevant information efficiently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://libguides.reading.ac.uk/reports/structuring" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: libguides.reading.ac.uk">[Reading University Library Guides]</a><span class="citation-popover" role="note"><span class="citation-popover-source">libguides.reading.ac.uk</span><span class="citation-popover-snippet">Reading University Library GuidesReport writing: Structuring your report16 Apr 2026 — The structure of a report has a key role to play in...</span></span></span>
 
 For example, a fifty-page operational review may contain only three tables that directly affect a decision:
 
@@ -372,13 +372,13 @@ Recommendations rarely stand alone. They depend on conditions such as:
 * Forecast [models]({{ 'models/' | relative_url }}) being accurate.
 * Certain risks remaining unlikely.
 
-Policy-writing guidance often recommends making assumptions explicit because recommendations cannot be properly evaluated without understanding the reasoning beneath them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://law.stanford.edu/wp-content/uploads/2015/04/White-Papers-Guidelines.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law.stanford.edu">[Stanford Law School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law.stanford.edu</span><span class="citation-popover-title">Law School Tips for Writing Policy Papers The Executive</span><span class="citation-popover-snippet">Stanford Law SchoolTips for Writing Policy PapersThe Executive Summary explicitly names basic assumptions for the rationale supporting th...</span></span></span>
+Policy-writing guidance often recommends making assumptions explicit because recommendations cannot be properly evaluated without understanding the reasoning beneath them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://law.stanford.edu/wp-content/uploads/2015/04/White-Papers-Guidelines.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law.stanford.edu">[Stanford Law School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law.stanford.edu</span><span class="citation-popover-title">Law School Tips for Writing Policy Papers The Executive</span><span class="citation-popover-snippet">Stanford Law SchoolTips for Writing Policy PapersThe Executive Summary explicitly names basic assumptions for the rationale supporting th...</span></span></span>
 
 When skimming, look for headings such as:
 
 * Assumptions
 * Limitations
-* Methodology <span class="citation-chip-wrap"><a class="citation-chip" href="https://methodology.eca.europa.eu/aware/PA/Pages/Reporting/Executive-summary.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: methodology.eca.europa.eu">[methodology.eca.europa.eu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">methodology.eca.europa.eu</span><span class="citation-popover-title">ECA Methodology Executive</span><span class="citation-popover-snippet">ECA MethodologyExecutive summary - Methodology11 Apr 2022 — An executive summary should use clear language to tell the reader quickly wha...</span></span></span>
+* Methodology<span class="citation-chip-wrap"><a class="citation-chip" href="https://methodology.eca.europa.eu/aware/PA/Pages/Reporting/Executive-summary.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: methodology.eca.europa.eu">[methodology.eca.europa.eu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">methodology.eca.europa.eu</span><span class="citation-popover-title">ECA Methodology Executive</span><span class="citation-popover-snippet">ECA MethodologyExecutive summary - Methodology11 Apr 2022 — An executive summary should use clear language to tell the reader quickly wha...</span></span></span>
 * Scope
 * Constraints
 * Risks
@@ -401,7 +401,7 @@ Fast readers sometimes make a costly mistake: they read the recommendation but s
 
 Yet caveats often contain the information that determines whether a recommendation should be accepted, modified, delayed, or rejected.
 
-Common caveats include: <span class="citation-chip-wrap"><a class="citation-chip" href="https://asana.com/resources/executive-summary-examples" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asana.com">[asana.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asana.com</span><span class="citation-popover-snippet">Summary Examples: How to Write + Template2 Feb 2026 — Executive summary examples plus a simple template to write yours fast. Learn the 5...</span></span></span>
+Common caveats include:<span class="citation-chip-wrap"><a class="citation-chip" href="https://asana.com/resources/executive-summary-examples" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asana.com">[asana.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asana.com</span><span class="citation-popover-snippet">Summary Examples: How to Write + Template2 Feb 2026 — Executive summary examples plus a simple template to write yours fast. Learn the 5...</span></span></span>
 
 * Small sample sizes.
 * Missing data.
@@ -417,7 +417,7 @@ In many professional settings, the most valuable paragraph in a report is not th
 * "The findings should be interpreted with caution..."
 * "Several limitations apply..."
 
-These statements reveal where confidence should be reduced. Reports that present recommendations alongside assumptions and caveats allow readers to trace the logic and understand the conditions under which the recommendation remains valid. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.findanomaly.ai/executive-summaries-source-backed-logic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: findanomaly.ai">[Anomaly AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">findanomaly.ai</span><span class="citation-popover-snippet">th the decision, stating the logic and assumption behind the read, naming the caveat...</span></span></span>
+These statements reveal where confidence should be reduced. Reports that present recommendations alongside assumptions and caveats allow readers to trace the logic and understand the conditions under which the recommendation remains valid.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.findanomaly.ai/executive-summaries-source-backed-logic" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: findanomaly.ai">[Anomaly AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">findanomaly.ai</span><span class="citation-popover-snippet">th the decision, stating the logic and assumption behind the read, naming the caveat...</span></span></span>
 
 A reader who finds caveats early can often make a better judgement with less reading than someone who studies supporting details but misses the limitations.
 
@@ -435,7 +435,7 @@ Move from skimming to close reading when:
 * Important caveats are concentrated in one section.
 * A chart or table directly influences a decision.
 
-Open University guidance on efficient reading recommends first obtaining an overview through summaries, headings, and conclusions before reading selected sections thoroughly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://help.open.ac.uk/critical-reading-techniques/use-an-efficient-approach" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: help.open.ac.uk">[Open University Help+2Open University Help]</a><span class="citation-popover" role="note"><span class="citation-popover-source">help.open.ac.uk</span><span class="citation-popover-snippet">Open University HelpUse an efficient approach: Critical reading techniquesHaving an effective reading and note-taking strategy is importa...</span></span></span>
+Open University guidance on efficient reading recommends first obtaining an overview through summaries, headings, and conclusions before reading selected sections thoroughly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://help.open.ac.uk/critical-reading-techniques/use-an-efficient-approach" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: help.open.ac.uk">[Open University Help+2Open University Help]</a><span class="citation-popover" role="note"><span class="citation-popover-source">help.open.ac.uk</span><span class="citation-popover-snippet">Open University HelpUse an efficient approach: Critical reading techniquesHaving an effective reading and note-taking strategy is importa...</span></span></span>
 
 In [practice]({{ 'practice/' | relative_url }}), many reports contain only a handful of pages that genuinely require close attention. The rest provide context, supporting detail, or documentation.
 
@@ -446,7 +446,7 @@ In [practice]({{ 'practice/' | relative_url }}), many reports contain only a han
 
 For a report that is too long to read immediately, use this order:
 
-1. Title and executive summary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://methodology.eca.europa.eu/aware/PA/Pages/Reporting/Executive-summary.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: methodology.eca.europa.eu">[methodology.eca.europa.eu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">methodology.eca.europa.eu</span><span class="citation-popover-title">ECA Methodology Executive</span><span class="citation-popover-snippet">ECA MethodologyExecutive summary - Methodology11 Apr 2022 — An executive summary should use clear language to tell the reader quickly wha...</span></span></span>
+1. Title and executive summary.<span class="citation-chip-wrap"><a class="citation-chip" href="https://methodology.eca.europa.eu/aware/PA/Pages/Reporting/Executive-summary.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: methodology.eca.europa.eu">[methodology.eca.europa.eu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">methodology.eca.europa.eu</span><span class="citation-popover-title">ECA Methodology Executive</span><span class="citation-popover-snippet">ECA MethodologyExecutive summary - Methodology11 Apr 2022 — An executive summary should use clear language to tell the reader quickly wha...</span></span></span>
 2. Contents page.
 3. Conclusions and recommendations.
 4. Figure titles, table titles, and chart captions.
@@ -458,178 +458,178 @@ This sequence works because it follows the report's structure rather than its pa
 For increasing reading speed, that is the key mechanism: not reading faster line by line, but reaching the parts that matter before investing time in the rest.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How to find the parts of a report that matter. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How to find the parts of a report that matter. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Directly addresses different reading goals and speeds.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Directly addresses different reading goals and speeds.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+pyramid+principle+Barbara+Minto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The pyramid principle on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2346771-M.jpg" alt="Cover for The pyramid principle" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+pyramid+principle+Barbara+Minto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The pyramid principle">The pyramid principle</a>
-        </h4>
-        <p class="fr-book-author">By Barbara Minto</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+pyramid+principle+Barbara+Minto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The pyramid principle on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2346771-M.jpg" alt="Cover for The pyramid principle" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+pyramid+principle+Barbara+Minto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The pyramid principle">The pyramid principle</a>
+</h4>
+<p class="fr-book-author">By Barbara Minto</p>
         
-        <p class="fr-book-desc">First published 1978. Subjects: English language, Business English, Business writing, Rhetoric, Thought and thinking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+pyramid+principle+Barbara+Minto&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1978. Subjects: English language, Business English, Business writing, Rhetoric, Thought and thinking.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+pyramid+principle+Barbara+Minto&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hbr+Guide+To+Better+Business+Writing+Bryan+A.+Garner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hbr Guide To Better Business Writing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7619257-M.jpg" alt="Cover for Hbr Guide To Better Business Writing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hbr+Guide+To+Better+Business+Writing+Bryan+A.+Garner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hbr Guide To Better Business Writing">Hbr Guide To Better Business Writing</a>
-        </h4>
-        <p class="fr-book-author">By Bryan A. Garner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Hbr+Guide+To+Better+Business+Writing+Bryan+A.+Garner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hbr Guide To Better Business Writing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7619257-M.jpg" alt="Cover for Hbr Guide To Better Business Writing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Hbr+Guide+To+Better+Business+Writing+Bryan+A.+Garner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hbr Guide To Better Business Writing">Hbr Guide To Better Business Writing</a>
+</h4>
+<p class="fr-book-author">By Bryan A. Garner</p>
         
-        <p class="fr-book-desc">First published 2013. Subjects: Commercial correspondence, Business writing, Business life &amp; skills, Writing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hbr+Guide+To+Better+Business+Writing+Bryan+A.+Garner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2013. Subjects: Commercial correspondence, Business writing, Business life &amp; skills, Writing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Hbr+Guide+To+Better+Business+Writing+Bryan+A.+Garner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+McKinsey+mind+Ethan+M.+Rasiel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The McKinsey mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8692882-M.jpg" alt="Cover for The McKinsey mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+McKinsey+mind+Ethan+M.+Rasiel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The McKinsey mind">The McKinsey mind</a>
-        </h4>
-        <p class="fr-book-author">By Ethan M. Rasiel, Paul N. Friga</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+McKinsey+mind+Ethan+M.+Rasiel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The McKinsey mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8692882-M.jpg" alt="Cover for The McKinsey mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+McKinsey+mind+Ethan+M.+Rasiel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The McKinsey mind">The McKinsey mind</a>
+</h4>
+<p class="fr-book-author">By Ethan M. Rasiel, Paul N. Friga</p>
         
-        <p class="fr-book-desc">First published 2001. Subjects: Business, Business consultants, Industrial management, Management, McKinsey and Company.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+McKinsey+mind+Ethan+M.+Rasiel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2001. Subjects: Business, Business consultants, Industrial management, Management, McKinsey and Company.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+McKinsey+mind+Ethan+M.+Rasiel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+pyramid+principle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The pyramid principle</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hbr+To+Better+Business+Writing+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hbr To Better Business Writing books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+pyramid+principle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The pyramid principle</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Hbr+To+Better+Business+Writing+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hbr To Better Business Writing books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-how-to-find-the-parts-of-a-report-that-matter-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="reports-how-to-find-the-parts-of-a-report-that-matter-increasing-document-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 FILE DIVIDERS (1-20) DOCUMENT FILING FOLDER SUBJECT ORGANISER INSERTS ANY QTY"><img src="{{ '/assets/images/marketplace-covers/3658e87f5922f026cc76.jpg' | relative_url }}" alt="Listing image for A4 FILE DIVIDERS (1-20) DOCUMENT FILING FOLDER SUBJECT ORGANISER INSERTS ANY QTY" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-how-to-find-the-parts-of-a-report-that-matter-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="reports-how-to-find-the-parts-of-a-report-that-matter-increasing-document-organizer" target="_blank" rel="sponsored noopener noreferrer">A4 FILE DIVIDERS (1-20) DOCUMENT FILING FOLDER SUBJECT ORGANISER INSERTS ANY QTY</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-how-to-find-the-parts-of-a-report-that-matter-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="reports-how-to-find-the-parts-of-a-report-that-matter-increasing-document-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for document organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: document organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-how-to-find-the-parts-of-a-report-that-matter-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="reports-how-to-find-the-parts-of-a-report-that-matter-increasing-document-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-how-to-find-the-parts-of-a-report-that-matter-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="reports-how-to-find-the-parts-of-a-report-that-matter-increasing-document-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 FILE DIVIDERS (1-20) DOCUMENT FILING FOLDER SUBJECT ORGANISER INSERTS ANY QTY"><img src="{{ '/assets/images/marketplace-covers/3658e87f5922f026cc76.jpg' | relative_url }}" alt="Listing image for A4 FILE DIVIDERS (1-20) DOCUMENT FILING FOLDER SUBJECT ORGANISER INSERTS ANY QTY" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-how-to-find-the-parts-of-a-report-that-matter-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="reports-how-to-find-the-parts-of-a-report-that-matter-increasing-document-organizer" target="_blank" rel="sponsored noopener noreferrer">A4 FILE DIVIDERS (1-20) DOCUMENT FILING FOLDER SUBJECT ORGANISER INSERTS ANY QTY</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-how-to-find-the-parts-of-a-report-that-matter-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="reports-how-to-find-the-parts-of-a-report-that-matter-increasing-document-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for document organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: document organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-how-to-find-the-parts-of-a-report-that-matter-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="reports-how-to-find-the-parts-of-a-report-that-matter-increasing-document-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-how-to-find-the-parts-of-a-report-that-matter-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="reports-how-to-find-the-parts-of-a-report-that-matter-increasing-document-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Life Book Document Organizer In Case I Go Missing Binder Folio File Folder"><img src="{{ '/assets/images/marketplace-covers/dd46836add13c87a3844.jpg' | relative_url }}" alt="Listing image for The Life Book Document Organizer In Case I Go Missing Binder Folio File Folder" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-how-to-find-the-parts-of-a-report-that-matter-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="reports-how-to-find-the-parts-of-a-report-that-matter-increasing-document-organizer" target="_blank" rel="sponsored noopener noreferrer">The Life Book Document Organizer In Case I Go Missing Binder Folio File Folder</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-how-to-find-the-parts-of-a-report-that-matter-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="reports-how-to-find-the-parts-of-a-report-that-matter-increasing-document-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for document organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: document organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-how-to-find-the-parts-of-a-report-that-matter-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="reports-how-to-find-the-parts-of-a-report-that-matter-increasing-document-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-how-to-find-the-parts-of-a-report-that-matter-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="reports-how-to-find-the-parts-of-a-report-that-matter-increasing-document-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Life Book Document Organizer In Case I Go Missing Binder Folio File Folder"><img src="{{ '/assets/images/marketplace-covers/dd46836add13c87a3844.jpg' | relative_url }}" alt="Listing image for The Life Book Document Organizer In Case I Go Missing Binder Folio File Folder" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-how-to-find-the-parts-of-a-report-that-matter-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="reports-how-to-find-the-parts-of-a-report-that-matter-increasing-document-organizer" target="_blank" rel="sponsored noopener noreferrer">The Life Book Document Organizer In Case I Go Missing Binder Folio File Folder</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-how-to-find-the-parts-of-a-report-that-matter-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="reports-how-to-find-the-parts-of-a-report-that-matter-increasing-document-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for document organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: document organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-how-to-find-the-parts-of-a-report-that-matter-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="reports-how-to-find-the-parts-of-a-report-that-matter-increasing-document-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-how-to-find-the-parts-of-a-report-that-matter-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="reports-how-to-find-the-parts-of-a-report-that-matter-increasing-document-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 13 Pockets A4 Expanding File Document Organiser Multicolour Foolscap Folder"><img src="{{ '/assets/images/marketplace-covers/f9be1abb56b39fc2313d.jpg' | relative_url }}" alt="Listing image for 13 Pockets A4 Expanding File Document Organiser Multicolour Foolscap Folder" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-how-to-find-the-parts-of-a-report-that-matter-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="reports-how-to-find-the-parts-of-a-report-that-matter-increasing-document-organizer" target="_blank" rel="sponsored noopener noreferrer">13 Pockets A4 Expanding File Document Organiser Multicolour Foolscap Folder</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-how-to-find-the-parts-of-a-report-that-matter-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="reports-how-to-find-the-parts-of-a-report-that-matter-increasing-document-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for document organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: document organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-how-to-find-the-parts-of-a-report-that-matter-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="reports-how-to-find-the-parts-of-a-report-that-matter-increasing-document-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-how-to-find-the-parts-of-a-report-that-matter-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="reports-how-to-find-the-parts-of-a-report-that-matter-increasing-document-organizer" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-how-to-find-the-parts-of-a-report-that-matter-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="reports-how-to-find-the-parts-of-a-report-that-matter-increasing-document-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 13 Pockets A4 Expanding File Document Organiser Multicolour Foolscap Folder"><img src="{{ '/assets/images/marketplace-covers/f9be1abb56b39fc2313d.jpg' | relative_url }}" alt="Listing image for 13 Pockets A4 Expanding File Document Organiser Multicolour Foolscap Folder" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-how-to-find-the-parts-of-a-report-that-matter-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="reports-how-to-find-the-parts-of-a-report-that-matter-increasing-document-organizer" target="_blank" rel="sponsored noopener noreferrer">13 Pockets A4 Expanding File Document Organiser Multicolour Foolscap Folder</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-how-to-find-the-parts-of-a-report-that-matter-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="reports-how-to-find-the-parts-of-a-report-that-matter-increasing-document-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for document organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: document organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-how-to-find-the-parts-of-a-report-that-matter-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="reports-how-to-find-the-parts-of-a-report-that-matter-increasing-document-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reports-how-to-find-the-parts-of-a-report-that-matter-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="reports-how-to-find-the-parts-of-a-report-that-matter-increasing-document-organizer" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -645,7 +645,7 @@ For increasing reading speed, that is the key mechanism: not reading faster line
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -665,7 +665,7 @@ For increasing reading speed, that is the key mechanism: not reading faster line
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -697,7 +697,7 @@ For increasing reading speed, that is the key mechanism: not reading faster line
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -749,7 +749,7 @@ For increasing reading speed, that is the key mechanism: not reading faster line
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -794,7 +794,7 @@ For increasing reading speed, that is the key mechanism: not reading faster line
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -835,149 +835,149 @@ For increasing reading speed, that is the key mechanism: not reading faster line
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: open.edu  
    Title: The Open University5.2 Planning a business report Executive  
-   Link: <a href="https://www.open.edu/openlearn/mod/oucontent/view.php?id=19203&amp;section=5.2" target="_blank" rel="noopener noreferrer nofollow">https://www.open.edu/openlearn/mod/oucontent/view.php?id=19203&amp;section=5.2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Open University5.2 Planning a business reportExecutive summary, Gives a brief summary, Section or paragraph explaining the purpose of...</p></details>
+   Link:<a href="https://www.open.edu/openlearn/mod/oucontent/view.php?id=19203&amp;section=5.2" target="_blank" rel="noopener noreferrer nofollow">https://www.open.edu/openlearn/mod/oucontent/view.php?id=19203&amp;section=5.2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Open University5.2 Planning a business reportExecutive summary, Gives a brief summary, Section or paragraph explaining the purpose of...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: law.stanford.edu  
    Title: Law School Tips for Writing Policy Papers The Executive  
-   Link: <a href="https://law.stanford.edu/wp-content/uploads/2015/04/White-Papers-Guidelines.pdf" target="_blank" rel="noopener noreferrer nofollow">https://law.stanford.edu/wp-content/uploads/2015/04/White-Papers-Guidelines.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Law SchoolTips for Writing Policy PapersThe Executive Summary explicitly names basic assumptions for the rationale supporting th...</p></details>
+   Link:<a href="https://law.stanford.edu/wp-content/uploads/2015/04/White-Papers-Guidelines.pdf" target="_blank" rel="noopener noreferrer nofollow">https://law.stanford.edu/wp-content/uploads/2015/04/White-Papers-Guidelines.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Law SchoolTips for Writing Policy PapersThe Executive Summary explicitly names basic assumptions for the rationale supporting th...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: findanomaly.ai  
-   Link: <a href="https://www.findanomaly.ai/executive-summaries-source-backed-logic" target="_blank" rel="noopener noreferrer nofollow">https://www.findanomaly.ai/executive-summaries-source-backed-logic</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>th the decision, stating the logic and assumption behind the read, naming the caveat...</p></details>
+   Link:<a href="https://www.findanomaly.ai/executive-summaries-source-backed-logic" target="_blank" rel="noopener noreferrer nofollow">https://www.findanomaly.ai/executive-summaries-source-backed-logic</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>th the decision, stating the logic and assumption behind the read, naming the caveat...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: open.edu  
-   Link: <a href="https://www.open.edu/openlearn/ocw/mod/oucontent/view.php?id=85812&amp;section=2" target="_blank" rel="noopener noreferrer nofollow">https://www.open.edu/openlearn/ocw/mod/oucontent/view.php?id=85812&amp;section=2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Open University2 Skimming, [scanning](&amp;#123;&amp;#123; &#x27;scanning-vs-reading/&#x27; | relative_url &amp;#125;&amp;#125;) and detailed readingIt can be difficult to read and digest lots of important information in a sho...</p></details>
+   Link:<a href="https://www.open.edu/openlearn/ocw/mod/oucontent/view.php?id=85812&amp;section=2" target="_blank" rel="noopener noreferrer nofollow">https://www.open.edu/openlearn/ocw/mod/oucontent/view.php?id=85812&amp;section=2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Open University2 Skimming, [scanning](&amp;#123;&amp;#123; &#x27;scanning-vs-reading/&#x27; | relative_url &amp;#125;&amp;#125;) and detailed readingIt can be difficult to read and digest lots of important information in a sho...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: methodology.eca.europa.eu  
    Title: ECA Methodology Executive  
-   Link: <a href="https://methodology.eca.europa.eu/aware/PA/Pages/Reporting/Executive-summary.aspx" target="_blank" rel="noopener noreferrer nofollow">https://methodology.eca.europa.eu/aware/PA/Pages/Reporting/Executive-summary.aspx</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ECA MethodologyExecutive summary - Methodology11 Apr 2022 — An executive summary should use clear language to tell the reader quickly wha...</p></details>
+   Link:<a href="https://methodology.eca.europa.eu/aware/PA/Pages/Reporting/Executive-summary.aspx" target="_blank" rel="noopener noreferrer nofollow">https://methodology.eca.europa.eu/aware/PA/Pages/Reporting/Executive-summary.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ECA MethodologyExecutive summary - Methodology11 Apr 2022 — An executive summary should use clear language to tell the reader quickly wha...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: help.open.ac.uk  
    Title: Open University Help Reading efficiently: Postgraduate study skills  
-   Link: <a href="https://help.open.ac.uk/postgraduate-study-skills/reading-efficiently" target="_blank" rel="noopener noreferrer nofollow">https://help.open.ac.uk/postgraduate-study-skills/reading-efficiently</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>At the basic level you should read the abstract, summary or overview to get an insight into the purpose and the findings of...Read more...</p></details>
+   Link:<a href="https://help.open.ac.uk/postgraduate-study-skills/reading-efficiently" target="_blank" rel="noopener noreferrer nofollow">https://help.open.ac.uk/postgraduate-study-skills/reading-efficiently</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>At the basic level you should read the abstract, summary or overview to get an insight into the purpose and the findings of...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: grimsby.ac.uk  
-   Link: <a href="https://grimsby.ac.uk/documents/highereducation/skills/Structure-of-Reports-Learnhigher.pdf" target="_blank" rel="noopener noreferrer nofollow">https://grimsby.ac.uk/documents/highereducation/skills/Structure-of-Reports-Learnhigher.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Grimsby InstituteSTRUCTURE OF REPORTS(Also called the Summary or Executive Summary). This is the &#x27;shop window&#x27; for your report. It is the...</p></details>
+   Link:<a href="https://grimsby.ac.uk/documents/highereducation/skills/Structure-of-Reports-Learnhigher.pdf" target="_blank" rel="noopener noreferrer nofollow">https://grimsby.ac.uk/documents/highereducation/skills/Structure-of-Reports-Learnhigher.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Grimsby InstituteSTRUCTURE OF REPORTS(Also called the Summary or Executive Summary). This is the &#x27;shop window&#x27; for your report. It is the...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: libguides.reading.ac.uk  
-   Link: <a href="https://libguides.reading.ac.uk/reports/structuring" target="_blank" rel="noopener noreferrer nofollow">https://libguides.reading.ac.uk/reports/structuring</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading University Library GuidesReport writing: Structuring your report16 Apr 2026 — The structure of a report has a key role to play in...</p></details>
+   Link:<a href="https://libguides.reading.ac.uk/reports/structuring" target="_blank" rel="noopener noreferrer nofollow">https://libguides.reading.ac.uk/reports/structuring</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading University Library GuidesReport writing: Structuring your report16 Apr 2026 — The structure of a report has a key role to play in...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: help.open.ac.uk  
-   Link: <a href="https://help.open.ac.uk/critical-reading-techniques/use-an-efficient-approach" target="_blank" rel="noopener noreferrer nofollow">https://help.open.ac.uk/critical-reading-techniques/use-an-efficient-approach</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Open University HelpUse an efficient approach: Critical reading techniquesHaving an effective reading and note-taking strategy is importa...</p></details>
+   Link:<a href="https://help.open.ac.uk/critical-reading-techniques/use-an-efficient-approach" target="_blank" rel="noopener noreferrer nofollow">https://help.open.ac.uk/critical-reading-techniques/use-an-efficient-approach</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Open University HelpUse an efficient approach: Critical reading techniquesHaving an effective reading and note-taking strategy is importa...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: venngage.com  
-   Link: <a href="https://venngage.com/blog/executive-summary-report-format/" target="_blank" rel="noopener noreferrer nofollow">https://venngage.com/blog/executive-summary-report-format/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Header and document information · 2. Purpose statement · 3. Key findings · 4. Recommendation · 5.Read more...</p></details>
+   Link:<a href="https://venngage.com/blog/executive-summary-report-format/" target="_blank" rel="noopener noreferrer nofollow">https://venngage.com/blog/executive-summary-report-format/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Header and document information · 2. Purpose statement · 3. Key findings · 4. Recommendation · 5.Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: deckary.com  
-   Link: <a href="https://deckary.com/blog/executive-summary-slides" target="_blank" rel="noopener noreferrer nofollow">https://deckary.com/blog/executive-summary-slides</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Summary Slides: How to Write Like McKinsey22 Aug 2025 — This guide covers how to write executive summary slides that command attention—th...</p></details>
+   Link:<a href="https://deckary.com/blog/executive-summary-slides" target="_blank" rel="noopener noreferrer nofollow">https://deckary.com/blog/executive-summary-slides</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Summary Slides: How to Write Like McKinsey22 Aug 2025 — This guide covers how to write executive summary slides that command attention—th...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: help.open.ac.uk  
-   Link: <a href="https://help.open.ac.uk/types-of-assignment/reports" target="_blank" rel="noopener noreferrer nofollow">https://help.open.ac.uk/types-of-assignment/reports</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>open.ac.ukReports: Types of assignment | Help CentreThere are four main types of report: information or description reports; reports of i...</p></details>
+   Link:<a href="https://help.open.ac.uk/types-of-assignment/reports" target="_blank" rel="noopener noreferrer nofollow">https://help.open.ac.uk/types-of-assignment/reports</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>open.ac.ukReports: Types of assignment | Help CentreThere are four main types of report: information or description reports; reports of i...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: customuniversitypapers.com  
-   Link: <a href="https://customuniversitypapers.com/executive-summary-writing/" target="_blank" rel="noopener noreferrer nofollow">https://customuniversitypapers.com/executive-summary-writing/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Summary WritingComplete guide to executive summary writing covering structure, content, purpose, best practices, and effective strategies...</p></details>
+   Link:<a href="https://customuniversitypapers.com/executive-summary-writing/" target="_blank" rel="noopener noreferrer nofollow">https://customuniversitypapers.com/executive-summary-writing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Summary WritingComplete guide to executive summary writing covering structure, content, purpose, best practices, and effective strategies...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: studies.helsinki.fi  
    Title: insightful reading open university  
-   Link: <a href="https://studies.helsinki.fi/instructions/article/insightful-reading-open-university" target="_blank" rel="noopener noreferrer nofollow">https://studies.helsinki.fi/instructions/article/insightful-reading-open-university</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>reading | Open University | Instructions2 Dec 2025 — On this page, you will find information on what literacy skills are needed in univer...</p></details>
+   Link:<a href="https://studies.helsinki.fi/instructions/article/insightful-reading-open-university" target="_blank" rel="noopener noreferrer nofollow">https://studies.helsinki.fi/instructions/article/insightful-reading-open-university</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>reading | Open University | Instructions2 Dec 2025 — On this page, you will find information on what literacy skills are needed in univer...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: luthresearch.com  
-   Link: <a href="https://luthresearch.com/glossary/executive-summary-reporting-a-comprehensive-guide-for-decision-makers/" target="_blank" rel="noopener noreferrer nofollow">https://luthresearch.com/glossary/executive-summary-reporting-a-comprehensive-guide-for-decision-makers/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Summary Reporting: A Comprehensive Guide...9 Apr 2026 — Executive summary reporting distills complex data into digestible formats, focus...</p></details>
+   Link:<a href="https://luthresearch.com/glossary/executive-summary-reporting-a-comprehensive-guide-for-decision-makers/" target="_blank" rel="noopener noreferrer nofollow">https://luthresearch.com/glossary/executive-summary-reporting-a-comprehensive-guide-for-decision-makers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Summary Reporting: A Comprehensive Guide...9 Apr 2026 — Executive summary reporting distills complex data into digestible formats, focus...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: asana.com  
-   Link: <a href="https://asana.com/resources/executive-summary-examples" target="_blank" rel="noopener noreferrer nofollow">https://asana.com/resources/executive-summary-examples</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Summary Examples: How to Write + Template2 Feb 2026 — Executive summary examples plus a simple template to write yours fast. Learn the 5...</p></details>
+   Link:<a href="https://asana.com/resources/executive-summary-examples" target="_blank" rel="noopener noreferrer nofollow">https://asana.com/resources/executive-summary-examples</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Summary Examples: How to Write + Template2 Feb 2026 — Executive summary examples plus a simple template to write yours fast. Learn the 5...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pressbooks-dev.oer.hawaii.edu  
-   Link: <a href="https://pressbooks-dev.oer.hawaii.edu/cmchang/chapter/5-6-reading-and-analyzing/" target="_blank" rel="noopener noreferrer nofollow">https://pressbooks-dev.oer.hawaii.edu/cmchang/chapter/5-6-reading-and-analyzing/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Do you skim over the document and try to identify key terms and themes? Do you focus on numbers and statistics...Read more...</p></details>
+   Link:<a href="https://pressbooks-dev.oer.hawaii.edu/cmchang/chapter/5-6-reading-and-analyzing/" target="_blank" rel="noopener noreferrer nofollow">https://pressbooks-dev.oer.hawaii.edu/cmchang/chapter/5-6-reading-and-analyzing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Do you skim over the document and try to identify key terms and themes? Do you focus on numbers and statistics...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: fixmydocs.space  
    Title: Covers executive summaries, KPI sections, recommendations, and presentation  
-   Link: <a href="https://fixmydocs.space/guides/business-report-writing" target="_blank" rel="noopener noreferrer nofollow">https://fixmydocs.space/guides/business-report-writing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Business Report Writing: Structure, Format &amp; Best Practices28 Mar 2026 — How to write and format a professional business report...</p></details>
+   Link:<a href="https://fixmydocs.space/guides/business-report-writing" target="_blank" rel="noopener noreferrer nofollow">https://fixmydocs.space/guides/business-report-writing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Business Report Writing: Structure, Format &amp; Best Practices28 Mar 2026 — How to write and format a professional business report...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: fanruan.com  
    Title: business report structure components and what each one does  
-   Link: <a href="https://www.fanruan.com/en/blog/business-report-structure-components-and-what-each-one-does" target="_blank" rel="noopener noreferrer nofollow">https://www.fanruan.com/en/blog/business-report-structure-components-and-what-each-one-does</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Business Report Structure Components Explained21 May 2026 — The executive summary gives decision-makers a concise overview of the repo...</p></details>
+   Link:<a href="https://www.fanruan.com/en/blog/business-report-structure-components-and-what-each-one-does" target="_blank" rel="noopener noreferrer nofollow">https://www.fanruan.com/en/blog/business-report-structure-components-and-what-each-one-does</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10 Business Report Structure Components Explained21 May 2026 — The executive summary gives decision-makers a concise overview of the repo...</p></details>
    Published: May 2026  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: blog.nobledesktop.com  
    Title: the five essential sections of a business report  
-   Link: <a href="https://blog.nobledesktop.com/learn/business-writing/the-five-essential-sections-of-a-business-report" target="_blank" rel="noopener noreferrer nofollow">https://blog.nobledesktop.com/learn/business-writing/the-five-essential-sections-of-a-business-report</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Noble Desktop BlogThe Five Essential Sections of a Business Report19 Apr 2026 — The Executive Summary encapsulates the core findings and...</p></details>
+   Link:<a href="https://blog.nobledesktop.com/learn/business-writing/the-five-essential-sections-of-a-business-report" target="_blank" rel="noopener noreferrer nofollow">https://blog.nobledesktop.com/learn/business-writing/the-five-essential-sections-of-a-business-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Noble Desktop BlogThe Five Essential Sections of a Business Report19 Apr 2026 — The Executive Summary encapsulates the core findings and...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: brookes.ac.uk  
    Title: Oxford Brookes University Executive  
-   Link: <a href="https://www.brookes.ac.uk/students/academic-development/online-resources/executive-summary" target="_blank" rel="noopener noreferrer nofollow">https://www.brookes.ac.uk/students/academic-development/online-resources/executive-summary</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Oxford Brookes UniversityExecutive summaryAn executive summary usually includes specific recommendations for the business based on the fi...</p></details>
+   Link:<a href="https://www.brookes.ac.uk/students/academic-development/online-resources/executive-summary" target="_blank" rel="noopener noreferrer nofollow">https://www.brookes.ac.uk/students/academic-development/online-resources/executive-summary</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Oxford Brookes UniversityExecutive summaryAn executive summary usually includes specific recommendations for the business based on the fi...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: researchgate.net  
    Title: Understanding an Executive  
-   Link: <a href="https://www.researchgate.net/publication/395494710_Understanding_an_Executive_Summary_A_Guide_to_Effective_Communication_and_Decision-Making" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395494710_Understanding_an_Executive_Summary_A_Guide_to_Effective_Communication_and_Decision-Making</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Summary: A Guide to Effective...Its purpose is to present the problem being addressed, the methodology used to investigate it, the key f...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/395494710_Understanding_an_Executive_Summary_A_Guide_to_Effective_Communication_and_Decision-Making" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395494710_Understanding_an_Executive_Summary_A_Guide_to_Effective_Communication_and_Decision-Making</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Summary: A Guide to Effective...Its purpose is to present the problem being addressed, the methodology used to investigate it, the key f...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: slite.com  
    Title: How To Write An Executive  
-   Link: <a href="https://slite.com/learn/how-to-write-an-executive-summary" target="_blank" rel="noopener noreferrer nofollow">https://slite.com/learn/how-to-write-an-executive-summary</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Summary: 7 Ways12 Sept 2024 — An executive summary helps by highlighting the main points and key findings, making it easier for readers t...</p></details>
+   Link:<a href="https://slite.com/learn/how-to-write-an-executive-summary" target="_blank" rel="noopener noreferrer nofollow">https://slite.com/learn/how-to-write-an-executive-summary</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Summary: 7 Ways12 Sept 2024 — An executive summary helps by highlighting the main points and key findings, making it easier for readers t...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: betterevaluation.org  
    Title: Writing a good executive  
-   Link: <a href="https://www.betterevaluation.org/tools-resources/writing-good-executive-summary-unicef-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.betterevaluation.org/tools-resources/writing-good-executive-summary-unicef-guide</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>summary – UNICEF guide2 Jan 2002 — An Executive Summary should provide an overview of the essential parts of a report: a summary of the p...</p></details>
+   Link:<a href="https://www.betterevaluation.org/tools-resources/writing-good-executive-summary-unicef-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.betterevaluation.org/tools-resources/writing-good-executive-summary-unicef-guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>summary – UNICEF guide2 Jan 2002 — An Executive Summary should provide an overview of the essential parts of a report: a summary of the p...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: TIPS for Reading & Summarizing Research Articles  
-   Link: <a href="http://www.youtube.com/watch?v=WKoeyEIxhlg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=WKoeyEIxhlg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to skim reports executive summary [speed reading](&amp;#123;&amp;#123; &#x27;myths/&#x27; | relative_url &amp;#125;&amp;#125;) TIPS for Reading &amp; Summarizing Research Articles Josiah Fehlauer...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=WKoeyEIxhlg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=WKoeyEIxhlg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to skim reports executive summary [speed reading](&amp;#123;&amp;#123; &#x27;myths/&#x27; | relative_url &amp;#125;&amp;#125;) TIPS for Reading &amp; Summarizing Research Articles Josiah Fehlauer...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: How To Read A Paper Quickly & Effectively | Easy Research Reading Technique  
-   Link: <a href="http://www.youtube.com/watch?v=Gv5ku0eoY6k" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Gv5ku0eoY6k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How To Read Research Papers Effectively | Prof. David Stuckler...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=Gv5ku0eoY6k" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Gv5ku0eoY6k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How To Read Research Papers Effectively | Prof. David Stuckler...</p></details>

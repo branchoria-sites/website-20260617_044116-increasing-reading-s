@@ -279,7 +279,7 @@ image: /assets/images/increasing_re_852ca6_speed_reading_71e807_skimming_high_0c
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_speed_reading_71e807_skimming_high_0ce38c_contract_exce_79a32f-Illustration-1-dark.svg" | relative_url }}" alt="Exceptions illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_speed_reading_71e807_skimming_high_0ce38c_contract_exce_79a32f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_speed_reading_71e807_skimming_high_0ce38c_contract_exce_79a32f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This is why contract exceptions defeat skimming. They are designed to modify the apparent rule. Missing a descriptive paragraph in a news article may not matter much; missing the words “except”, “unless”, “subject to”, or “notwithstanding” can completely change who must do what, when, and under which circumstances. Contract interpretation depends on these qualifications, and courts generally interpret contracts by examining the text as a whole rather than relying on a headline promise in isolation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.acc.com/sites/default/files/resources/vl/membersonly/Article/1446359_1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acc.com">[Association of Corporate Counsel (ACC)]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acc.com</span><span class="citation-popover-title">Contract language is not.Read more</span><span class="citation-popover-snippet">Association of Corporate Counsel (ACC)A GUIDE TO CONTRACT INTERPRETATIONJuly 24, 2014 — by VR Martorana · 2014 · Cited by 13 — Unless the...</span><span class="citation-popover-meta">Published: July 24, 2014</span></span></span>
+This is why contract exceptions defeat skimming. They are designed to modify the apparent rule. Missing a descriptive paragraph in a news article may not matter much; missing the words “except”, “unless”, “subject to”, or “notwithstanding” can completely change who must do what, when, and under which circumstances. Contract interpretation depends on these qualifications, and courts generally interpret contracts by examining the text as a whole rather than relying on a headline promise in isolation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.acc.com/sites/default/files/resources/vl/membersonly/Article/1446359_1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acc.com">[Association of Corporate Counsel (ACC)]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acc.com</span><span class="citation-popover-title">Contract language is not.Read more</span><span class="citation-popover-snippet">Association of Corporate Counsel (ACC)A GUIDE TO CONTRACT INTERPRETATIONJuly 24, 2014 — by VR Martorana · 2014 · Cited by 13 — Unless the...</span><span class="citation-popover-meta">Published: July 24, 2014</span></span></span>
 
 ## The Contract Words Skimmers Miss Most
 
@@ -295,7 +295,7 @@ A skimming reader may stop there mentally and record the obligation as settled. 
 
 At that point, the operative meaning no longer sits in the first sentence. It sits somewhere else.
 
-Contract-drafting guidance identifies terms such as “except”, “unless”, “other than”, and “except as otherwise provided” as standard mechanisms for creating exceptions. These words are not decorative. They tell the reader that the apparent rule does not apply in every situation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalparalegal.edu/Slides_New/Drafting_Contracts/SH/Slides_10.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalparalegal.edu">[National Paralegal College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalparalegal.edu</span><span class="citation-popover-title">National Paralegal College A Potpourri of Other Drafting Considerations</span><span class="citation-popover-snippet">□ • To make an exception, use words such as except, except as otherwise provided, other than, and...Read more...</span></span></span>
+Contract-drafting guidance identifies terms such as “except”, “unless”, “other than”, and “except as otherwise provided” as standard mechanisms for creating exceptions. These words are not decorative. They tell the reader that the apparent rule does not apply in every situation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalparalegal.edu/Slides_New/Drafting_Contracts/SH/Slides_10.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalparalegal.edu">[National Paralegal College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalparalegal.edu</span><span class="citation-popover-title">National Paralegal College A Potpourri of Other Drafting Considerations</span><span class="citation-popover-snippet">□ • To make an exception, use words such as except, except as otherwise provided, other than, and...Read more...</span></span></span>
 
 The [speed-reading]({{ 'myths/' | relative_url }}) problem is that readers naturally prioritise the first complete idea they encounter. Exceptions arrive later, often after the reader has already formed a mental summary. The result is a common comprehension error:
 
@@ -303,7 +303,7 @@ The [speed-reading]({{ 'myths/' | relative_url }}) problem is that readers natur
 * The reader forgets the [limitation]({{ 'reading-limits/' | relative_url }}).
 * The limitation was actually the most important part.
 
-Legal drafting specialist Kenneth Adams has noted that exceptions require careful logical reading because multiple qualifications may interact with one another. A reader who assumes the first exception settles the issue can still miss later language that further changes the outcome. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.adamsdrafting.com/provided-that/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adamsdrafting.com">[Adams on Contract Drafting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adamsdrafting.com</span><span class="citation-popover-title">provided that</span><span class="citation-popover-snippet">Adams on Contract DraftingProvided That23 Aug 2008 — In legal contracts, exceptions (ie. “unless”) impose a logical rigour, encapsulation...</span></span></span>
+Legal drafting specialist Kenneth Adams has noted that exceptions require careful logical reading because multiple qualifications may interact with one another. A reader who assumes the first exception settles the issue can still miss later language that further changes the outcome.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.adamsdrafting.com/provided-that/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adamsdrafting.com">[Adams on Contract Drafting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adamsdrafting.com</span><span class="citation-popover-title">provided that</span><span class="citation-popover-snippet">Adams on Contract DraftingProvided That23 Aug 2008 — In legal contracts, exceptions (ie. “unless”) impose a logical rigour, encapsulation...</span></span></span>
 
 ## How Exceptions Change Apparent Obligations
 
@@ -339,7 +339,7 @@ This pattern appears repeatedly in commercial agreements:
 
 In each case, the exception determines the real-world effect of the clause. The apparent obligation is only a starting point.
 
-The challenge is amplified because contracts are often read under time pressure. Surveys consistently find that many people either do not read contracts fully or struggle to understand them, creating ideal conditions for qualification language to be overlooked. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.law.ac.uk/about/press-releases/more-than-two-thirds-of-people-dont-read-their-contracts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law.ac.uk">[The University of Law+2WorldCC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law.ac.uk</span><span class="citation-popover-title">The University of Law More than two thirds of people don&#x27;t read their contracts</span><span class="citation-popover-snippet">The University of LawMore than two thirds of people don&#x27;t read their contractsMarch 30, 2023 — 30 Mar 2023 — More than two thirds of peop...</span><span class="citation-popover-meta">Published: March 30, 2023</span></span></span>
+The challenge is amplified because contracts are often read under time pressure. Surveys consistently find that many people either do not read contracts fully or struggle to understand them, creating ideal conditions for qualification language to be overlooked.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.law.ac.uk/about/press-releases/more-than-two-thirds-of-people-dont-read-their-contracts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law.ac.uk">[The University of Law+2WorldCC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law.ac.uk</span><span class="citation-popover-title">The University of Law More than two thirds of people don&#x27;t read their contracts</span><span class="citation-popover-snippet">The University of LawMore than two thirds of people don&#x27;t read their contractsMarch 30, 2023 — 30 Mar 2023 — More than two thirds of peop...</span><span class="citation-popover-meta">Published: March 30, 2023</span></span></span>
 
 ## Why Defined Terms and Cross-References Matter
 
@@ -351,7 +351,7 @@ Exceptions become even harder to spot when they depend on [definitions]({{ 'defi
 
 Contracts frequently assign specialised meanings to familiar words. A defined term may look ordinary but carry a precise contractual definition located elsewhere in the document.
 
-For example, a clause might refer to “Services”, “Confidential Information”, or “Cause”. Those words may appear self-explanatory, yet the contract may define them in a way that is narrower or broader than everyday usage. Contract drafting guidance emphasises that interpretation often requires substituting the defined term with its full definition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://weagree.com/clm/contracts/contract-clauses-explained/definitions-in-contracts-22-best-practice-rules/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weagree.com">[Weagree]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weagree.com</span><span class="citation-popover-title">Definitions in contracts – 22 best practice rules</span><span class="citation-popover-snippet">At the same time, it is a contract drafting discipline.Read more...</span></span></span>
+For example, a clause might refer to “Services”, “Confidential Information”, or “Cause”. Those words may appear self-explanatory, yet the contract may define them in a way that is narrower or broader than everyday usage. Contract drafting guidance emphasises that interpretation often requires substituting the defined term with its full definition.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://weagree.com/clm/contracts/contract-clauses-explained/definitions-in-contracts-22-best-practice-rules/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weagree.com">[Weagree]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weagree.com</span><span class="citation-popover-title">Definitions in contracts – 22 best practice rules</span><span class="citation-popover-snippet">At the same time, it is a contract drafting discipline.Read more...</span></span></span>
 
 A skimmer typically reads the word itself.
 
@@ -371,7 +371,7 @@ A clause may appear complete until it directs the reader elsewhere:
 
 > Notwithstanding Clause 12.
 
-The reader must leave the current provision, locate the referenced section, understand it, and then return. Research on contract readability has noted that heavy use of cross-references increases reading difficulty because readers must continually move between different parts of the document to understand the text they are currently reading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://obiter.mandela.ac.za/article/download/12339/17312" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: obiter.mandela.ac.za">[Obiter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">obiter.mandela.ac.za</span><span class="citation-popover-snippet">Open source on mandela.ac.za.</span></span></span>
+The reader must leave the current provision, locate the referenced section, understand it, and then return. Research on contract readability has noted that heavy use of cross-references increases reading difficulty because readers must continually move between different parts of the document to understand the text they are currently reading.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://obiter.mandela.ac.za/article/download/12339/17312" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: obiter.mandela.ac.za">[Obiter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">obiter.mandela.ac.za</span><span class="citation-popover-snippet">Open source on mandela.ac.za.</span></span></span>
 
 From a reading-speed perspective, cross-references destroy the linear flow that makes skimming effective. The meaning is distributed across multiple locations.
 
@@ -395,7 +395,7 @@ A heading titled “Support Services” does not reveal that the next paragraph 
 
 In ordinary informational reading, readers can often reconstruct missing details from context. Contract reading works differently. The missing detail may be the entire point.
 
-This is one reason why legal drafting movements that promote plain language often seek to reduce excessive cross-referencing, ambiguity, and unnecessary complexity. The goal is not merely stylistic improvement; it is to reduce the risk that readers misunderstand their rights and obligations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://juro.com/learn/plain-language-contracts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: juro.com">[Juro+2Grim Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">juro.com</span><span class="citation-popover-snippet">What are plain language contracts and why do they matter?Plain language contracts make legal agreements accessible to everyone. Disco...</span></span></span>
+This is one reason why legal drafting movements that promote plain language often seek to reduce excessive cross-referencing, ambiguity, and unnecessary complexity. The goal is not merely stylistic improvement; it is to reduce the risk that readers misunderstand their rights and obligations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://juro.com/learn/plain-language-contracts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: juro.com">[Juro+2Grim Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">juro.com</span><span class="citation-popover-snippet">What are plain language contracts and why do they matter?Plain language contracts make legal agreements accessible to everyone. Disco...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_speed_reading_71e807_skimming_high_0ce38c_contract_exce_79a32f-Illustration-3-dark.svg" | relative_url }}" alt="Exceptions illustration 3" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_speed_reading_71e807_skimming_high_0ce38c_contract_exce_79a32f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_speed_reading_71e807_skimming_high_0ce38c_contract_exce_79a32f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -418,185 +418,185 @@ Read every referenced provision before forming a conclusion.
 6. **What circumstances make the rule stop applying?**
 Many practical disputes arise from carve-outs rather than the main rule itself.
 
-The goal is not to read every contract painfully slowly. It is to recognise when skimming has reached its limit. In contracts, the highest-risk information is often not the promise at the start of the clause but the exception attached to it. Missing that exception can leave a reader with the exact opposite understanding of what the agreement actually says. Adams on Contract Drafting+2National Paralegal College <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.adamsdrafting.com/provided-that/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adamsdrafting.com">[adamsdrafting.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adamsdrafting.com</span><span class="citation-popover-title">provided that</span><span class="citation-popover-snippet">Adams on Contract DraftingProvided That23 Aug 2008 — In legal contracts, exceptions (ie. “unless”) impose a logical rigour, encapsulation...</span></span></span>
+The goal is not to read every contract painfully slowly. It is to recognise when skimming has reached its limit. In contracts, the highest-risk information is often not the promise at the start of the clause but the exception attached to it. Missing that exception can leave a reader with the exact opposite understanding of what the agreement actually says. Adams on Contract Drafting+2National Paralegal College<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.adamsdrafting.com/provided-that/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adamsdrafting.com">[adamsdrafting.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adamsdrafting.com</span><span class="citation-popover-title">provided that</span><span class="citation-popover-snippet">Adams on Contract DraftingProvided That23 Aug 2008 — In legal contracts, exceptions (ie. “unless”) impose a logical rigour, encapsulation...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2mBy3NkA8KU" title="How to read and understand contracts quickly?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2mBy3NkA8KU" target="_blank" rel="noopener noreferrer">How to read and understand contracts quickly?</a></p><p class="youtube-embed-meta">Channel: Law Chambers of Amish Aggarwala</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2mBy3NkA8KU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2mBy3NkA8KU">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Contract Words Skimmers Miss Most. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Contract Words Skimmers Miss Most. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Reinforces the value of analytical reading over superficial skimming.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Reinforces the value of analytical reading over superficial skimming.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Manual+of+Style+for+Contract+Drafting+Kenneth+A.+Adams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Manual of Style for Contract Drafting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/859826-M.jpg" alt="Cover for A Manual of Style for Contract Drafting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Manual+of+Style+for+Contract+Drafting+Kenneth+A.+Adams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Manual of Style for Contract Drafting">A Manual of Style for Contract Drafting</a>
-        </h4>
-        <p class="fr-book-author">By Kenneth A. Adams</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Manual+of+Style+for+Contract+Drafting+Kenneth+A.+Adams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Manual of Style for Contract Drafting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/859826-M.jpg" alt="Cover for A Manual of Style for Contract Drafting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Manual+of+Style+for+Contract+Drafting+Kenneth+A.+Adams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Manual of Style for Contract Drafting">A Manual of Style for Contract Drafting</a>
+</h4>
+<p class="fr-book-author">By Kenneth A. Adams</p>
         
-        <p class="fr-book-desc">First published 2005. Subjects: Contracts, Legal composition, Language, Contracts, united states, Interpretation and construction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Manual+of+Style+for+Contract+Drafting+Kenneth+A.+Adams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2005. Subjects: Contracts, Legal composition, Language, Contracts, united states, Interpretation and construction.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Manual+of+Style+for+Contract+Drafting+Kenneth+A.+Adams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Elements+of+Contract+Drafting+with+Questions+and+Clauses+for+Consideration+George+W.+Kuney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Elements of Contract Drafting with Questions and Clauses for Consideration on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1174393-M.jpg" alt="Cover for The Elements of Contract Drafting with Questions and Clauses for Consideration" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Elements+of+Contract+Drafting+with+Questions+and+Clauses+for+Consideration+George+W.+Kuney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Elements of Contract Drafting with Questions and Clauses for Consideration">The Elements of Contract Drafting with Questions and Clauses...</a>
-        </h4>
-        <p class="fr-book-author">By George W. Kuney</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Elements+of+Contract+Drafting+with+Questions+and+Clauses+for+Consideration+George+W.+Kuney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Elements of Contract Drafting with Questions and Clauses for Consideration on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1174393-M.jpg" alt="Cover for The Elements of Contract Drafting with Questions and Clauses for Consideration" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Elements+of+Contract+Drafting+with+Questions+and+Clauses+for+Consideration+George+W.+Kuney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Elements of Contract Drafting with Questions and Clauses for Consideration">The Elements of Contract Drafting with Questions and Clauses...</a>
+</h4>
+<p class="fr-book-author">By George W. Kuney</p>
         
-        <p class="fr-book-desc">First published 2003. Subjects: Contracts, Cases, Legal composition, Language.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Elements+of+Contract+Drafting+with+Questions+and+Clauses+for+Consideration+George+W.+Kuney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2003. Subjects: Contracts, Cases, Legal composition, Language.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Elements+of+Contract+Drafting+with+Questions+and+Clauses+for+Consideration+George+W.+Kuney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Reading+Law+Antonin+Scalia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading Law on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7144607-M.jpg" alt="Cover for Reading Law" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Reading+Law+Antonin+Scalia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading Law">Reading Law</a>
-        </h4>
-        <p class="fr-book-author">By Antonin Scalia, Bryan A. Garner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Reading+Law+Antonin+Scalia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading Law on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7144607-M.jpg" alt="Cover for Reading Law" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Reading+Law+Antonin+Scalia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading Law">Reading Law</a>
+</h4>
+<p class="fr-book-author">By Antonin Scalia, Bryan A. Garner</p>
         
-        <p class="fr-book-desc">First published 2012. Subjects: Judicial process, Law, Jurisprudence, Statutes, Philosophy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Reading+Law+Antonin+Scalia&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2012. Subjects: Judicial process, Law, Jurisprudence, Statutes, Philosophy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Reading+Law+Antonin+Scalia&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Manual+of+Style+for+Contract+Drafting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Manual of Style for Contract Drafting</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Elements+of+Contract+Drafting+with+Questions+and+Clauses+for+Consideration&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Elements of Contract Drafting with Questions and Clauses for Consideration</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Manual+of+Style+for+Contract+Drafting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Manual of Style for Contract Drafting</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Elements+of+Contract+Drafting+with+Questions+and+Clauses+for+Consideration&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Elements of Contract Drafting with Questions and Clauses for Consideration</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exceptions-the-contract-words-skimmers-miss-most-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="exceptions-the-contract-words-skimmers-miss-most-increasing-document-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 FILE DIVIDERS (1-20) DOCUMENT FILING FOLDER SUBJECT ORGANISER INSERTS ANY QTY"><img src="{{ '/assets/images/marketplace-covers/3658e87f5922f026cc76.jpg' | relative_url }}" alt="Listing image for A4 FILE DIVIDERS (1-20) DOCUMENT FILING FOLDER SUBJECT ORGANISER INSERTS ANY QTY" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exceptions-the-contract-words-skimmers-miss-most-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="exceptions-the-contract-words-skimmers-miss-most-increasing-document-organizer" target="_blank" rel="sponsored noopener noreferrer">A4 FILE DIVIDERS (1-20) DOCUMENT FILING FOLDER SUBJECT ORGANISER INSERTS ANY QTY</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exceptions-the-contract-words-skimmers-miss-most-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="exceptions-the-contract-words-skimmers-miss-most-increasing-document-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for document organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: document organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exceptions-the-contract-words-skimmers-miss-most-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="exceptions-the-contract-words-skimmers-miss-most-increasing-document-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exceptions-the-contract-words-skimmers-miss-most-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="exceptions-the-contract-words-skimmers-miss-most-increasing-document-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 FILE DIVIDERS (1-20) DOCUMENT FILING FOLDER SUBJECT ORGANISER INSERTS ANY QTY"><img src="{{ '/assets/images/marketplace-covers/3658e87f5922f026cc76.jpg' | relative_url }}" alt="Listing image for A4 FILE DIVIDERS (1-20) DOCUMENT FILING FOLDER SUBJECT ORGANISER INSERTS ANY QTY" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exceptions-the-contract-words-skimmers-miss-most-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="exceptions-the-contract-words-skimmers-miss-most-increasing-document-organizer" target="_blank" rel="sponsored noopener noreferrer">A4 FILE DIVIDERS (1-20) DOCUMENT FILING FOLDER SUBJECT ORGANISER INSERTS ANY QTY</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exceptions-the-contract-words-skimmers-miss-most-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="exceptions-the-contract-words-skimmers-miss-most-increasing-document-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for document organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: document organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exceptions-the-contract-words-skimmers-miss-most-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="exceptions-the-contract-words-skimmers-miss-most-increasing-document-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exceptions-the-contract-words-skimmers-miss-most-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="exceptions-the-contract-words-skimmers-miss-most-increasing-document-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Life Book Document Organizer In Case I Go Missing Binder Folio File Folder"><img src="{{ '/assets/images/marketplace-covers/dd46836add13c87a3844.jpg' | relative_url }}" alt="Listing image for The Life Book Document Organizer In Case I Go Missing Binder Folio File Folder" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exceptions-the-contract-words-skimmers-miss-most-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="exceptions-the-contract-words-skimmers-miss-most-increasing-document-organizer" target="_blank" rel="sponsored noopener noreferrer">The Life Book Document Organizer In Case I Go Missing Binder Folio File Folder</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exceptions-the-contract-words-skimmers-miss-most-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="exceptions-the-contract-words-skimmers-miss-most-increasing-document-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for document organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: document organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exceptions-the-contract-words-skimmers-miss-most-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="exceptions-the-contract-words-skimmers-miss-most-increasing-document-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exceptions-the-contract-words-skimmers-miss-most-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="exceptions-the-contract-words-skimmers-miss-most-increasing-document-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Life Book Document Organizer In Case I Go Missing Binder Folio File Folder"><img src="{{ '/assets/images/marketplace-covers/dd46836add13c87a3844.jpg' | relative_url }}" alt="Listing image for The Life Book Document Organizer In Case I Go Missing Binder Folio File Folder" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exceptions-the-contract-words-skimmers-miss-most-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="exceptions-the-contract-words-skimmers-miss-most-increasing-document-organizer" target="_blank" rel="sponsored noopener noreferrer">The Life Book Document Organizer In Case I Go Missing Binder Folio File Folder</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exceptions-the-contract-words-skimmers-miss-most-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="exceptions-the-contract-words-skimmers-miss-most-increasing-document-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for document organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: document organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exceptions-the-contract-words-skimmers-miss-most-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="exceptions-the-contract-words-skimmers-miss-most-increasing-document-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exceptions-the-contract-words-skimmers-miss-most-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="exceptions-the-contract-words-skimmers-miss-most-increasing-document-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 13 Pockets A4 Expanding File Document Organiser Multicolour Foolscap Folder"><img src="{{ '/assets/images/marketplace-covers/f9be1abb56b39fc2313d.jpg' | relative_url }}" alt="Listing image for 13 Pockets A4 Expanding File Document Organiser Multicolour Foolscap Folder" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exceptions-the-contract-words-skimmers-miss-most-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="exceptions-the-contract-words-skimmers-miss-most-increasing-document-organizer" target="_blank" rel="sponsored noopener noreferrer">13 Pockets A4 Expanding File Document Organiser Multicolour Foolscap Folder</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exceptions-the-contract-words-skimmers-miss-most-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="exceptions-the-contract-words-skimmers-miss-most-increasing-document-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for document organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: document organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exceptions-the-contract-words-skimmers-miss-most-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="exceptions-the-contract-words-skimmers-miss-most-increasing-document-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exceptions-the-contract-words-skimmers-miss-most-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="exceptions-the-contract-words-skimmers-miss-most-increasing-document-organizer" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exceptions-the-contract-words-skimmers-miss-most-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="exceptions-the-contract-words-skimmers-miss-most-increasing-document-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 13 Pockets A4 Expanding File Document Organiser Multicolour Foolscap Folder"><img src="{{ '/assets/images/marketplace-covers/f9be1abb56b39fc2313d.jpg' | relative_url }}" alt="Listing image for 13 Pockets A4 Expanding File Document Organiser Multicolour Foolscap Folder" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exceptions-the-contract-words-skimmers-miss-most-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="exceptions-the-contract-words-skimmers-miss-most-increasing-document-organizer" target="_blank" rel="sponsored noopener noreferrer">13 Pockets A4 Expanding File Document Organiser Multicolour Foolscap Folder</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exceptions-the-contract-words-skimmers-miss-most-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="exceptions-the-contract-words-skimmers-miss-most-increasing-document-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for document organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: document organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exceptions-the-contract-words-skimmers-miss-most-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="exceptions-the-contract-words-skimmers-miss-most-increasing-document-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exceptions-the-contract-words-skimmers-miss-most-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="exceptions-the-contract-words-skimmers-miss-most-increasing-document-organizer" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -612,7 +612,7 @@ The goal is not to read every contract painfully slowly. It is to recognise when
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -632,7 +632,7 @@ The goal is not to read every contract painfully slowly. It is to recognise when
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -664,7 +664,7 @@ The goal is not to read every contract painfully slowly. It is to recognise when
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -716,7 +716,7 @@ The goal is not to read every contract painfully slowly. It is to recognise when
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -761,7 +761,7 @@ The goal is not to read every contract painfully slowly. It is to recognise when
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -802,109 +802,109 @@ The goal is not to read every contract painfully slowly. It is to recognise when
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: acc.com  
    Title: Contract language is not.Read more  
-   Link: <a href="https://www.acc.com/sites/default/files/resources/vl/membersonly/Article/1446359_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.acc.com/sites/default/files/resources/vl/membersonly/Article/1446359_1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Association of Corporate Counsel (ACC)A GUIDE TO CONTRACT INTERPRETATIONJuly 24, 2014 — by VR Martorana · 2014 · Cited by 13 — Unless the...</p></details>
+   Link:<a href="https://www.acc.com/sites/default/files/resources/vl/membersonly/Article/1446359_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.acc.com/sites/default/files/resources/vl/membersonly/Article/1446359_1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Association of Corporate Counsel (ACC)A GUIDE TO CONTRACT INTERPRETATIONJuly 24, 2014 — by VR Martorana · 2014 · Cited by 13 — Unless the...</p></details>
    Published: July 24, 2014  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: worldcc.com  
    Title: But why? Are we all just lazy?Read more  
-   Link: <a href="https://www.worldcc.com/resource/the-psychology-that-makes-people-skip-reading-contracts-and-how-to-change-it.html" target="_blank" rel="noopener noreferrer nofollow">https://www.worldcc.com/resource/the-psychology-that-makes-people-skip-reading-contracts-and-how-to-change-it.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The psychology that makes people skip reading contracts31 Mar 2025 — According to a study by Deloitte1, roughly 91% of consumers a...</p></details>
+   Link:<a href="https://www.worldcc.com/resource/the-psychology-that-makes-people-skip-reading-contracts-and-how-to-change-it.html" target="_blank" rel="noopener noreferrer nofollow">https://www.worldcc.com/resource/the-psychology-that-makes-people-skip-reading-contracts-and-how-to-change-it.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The psychology that makes people skip reading contracts31 Mar 2025 — According to a study by Deloitte1, roughly 91% of consumers a...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: weagree.com  
    Title: Definitions in contracts – 22 best practice rules  
-   Link: <a href="https://weagree.com/clm/contracts/contract-clauses-explained/definitions-in-contracts-22-best-practice-rules/" target="_blank" rel="noopener noreferrer nofollow">https://weagree.com/clm/contracts/contract-clauses-explained/definitions-in-contracts-22-best-practice-rules/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>At the same time, it is a contract drafting discipline.Read more...</p></details>
+   Link:<a href="https://weagree.com/clm/contracts/contract-clauses-explained/definitions-in-contracts-22-best-practice-rules/" target="_blank" rel="noopener noreferrer nofollow">https://weagree.com/clm/contracts/contract-clauses-explained/definitions-in-contracts-22-best-practice-rules/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>At the same time, it is a contract drafting discipline.Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: juro.com  
-   Link: <a href="https://juro.com/learn/plain-language-contracts" target="_blank" rel="noopener noreferrer nofollow">https://juro.com/learn/plain-language-contracts</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What are plain language contracts and why do they matter?Plain language contracts make legal agreements accessible to everyone. Disco...</p></details>
+   Link:<a href="https://juro.com/learn/plain-language-contracts" target="_blank" rel="noopener noreferrer nofollow">https://juro.com/learn/plain-language-contracts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What are plain language contracts and why do they matter?Plain language contracts make legal agreements accessible to everyone. Disco...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nationalparalegal.edu  
    Title: National Paralegal College A Potpourri of Other Drafting Considerations  
-   Link: <a href="https://www.nationalparalegal.edu/Slides_New/Drafting_Contracts/SH/Slides_10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalparalegal.edu/Slides_New/Drafting_Contracts/SH/Slides_10.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>□ • To make an exception, use words such as except, except as otherwise provided, other than, and...Read more...</p></details>
+   Link:<a href="https://www.nationalparalegal.edu/Slides_New/Drafting_Contracts/SH/Slides_10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalparalegal.edu/Slides_New/Drafting_Contracts/SH/Slides_10.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>□ • To make an exception, use words such as except, except as otherwise provided, other than, and...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: adamsdrafting.com  
    Title: provided that  
-   Link: <a href="https://www.adamsdrafting.com/provided-that/" target="_blank" rel="noopener noreferrer nofollow">https://www.adamsdrafting.com/provided-that/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Adams on Contract DraftingProvided That23 Aug 2008 — In legal contracts, exceptions (ie. “unless”) impose a logical rigour, encapsulation...</p></details>
+   Link:<a href="https://www.adamsdrafting.com/provided-that/" target="_blank" rel="noopener noreferrer nofollow">https://www.adamsdrafting.com/provided-that/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Adams on Contract DraftingProvided That23 Aug 2008 — In legal contracts, exceptions (ie. “unless”) impose a logical rigour, encapsulation...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: law.ac.uk  
    Title: The University of Law More than two thirds of people don't read their contracts  
-   Link: <a href="https://www.law.ac.uk/about/press-releases/more-than-two-thirds-of-people-dont-read-their-contracts/" target="_blank" rel="noopener noreferrer nofollow">https://www.law.ac.uk/about/press-releases/more-than-two-thirds-of-people-dont-read-their-contracts/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The University of LawMore than two thirds of people don&#x27;t read their contractsMarch 30, 2023 — 30 Mar 2023 — More than two thirds of peop...</p></details>
+   Link:<a href="https://www.law.ac.uk/about/press-releases/more-than-two-thirds-of-people-dont-read-their-contracts/" target="_blank" rel="noopener noreferrer nofollow">https://www.law.ac.uk/about/press-releases/more-than-two-thirds-of-people-dont-read-their-contracts/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The University of LawMore than two thirds of people don&#x27;t read their contractsMarch 30, 2023 — 30 Mar 2023 — More than two thirds of peop...</p></details>
    Published: March 30, 2023  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: obiter.mandela.ac.za  
-   Link: <a href="https://obiter.mandela.ac.za/article/download/12339/17312" target="_blank" rel="noopener noreferrer nofollow">https://obiter.mandela.ac.za/article/download/12339/17312</a>  
+   Link:<a href="https://obiter.mandela.ac.za/article/download/12339/17312" target="_blank" rel="noopener noreferrer nofollow">https://obiter.mandela.ac.za/article/download/12339/17312</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: grimlaw.com  
-   Link: <a href="https://grimlaw.com/articles-of-interest/plain-language-law-contract-simple/" target="_blank" rel="noopener noreferrer nofollow">https://grimlaw.com/articles-of-interest/plain-language-law-contract-simple/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pennsylvania Plain Language LawThe objective of this Act is to protect consumers from making contracts that they do not understand, a...</p></details>
+   Link:<a href="https://grimlaw.com/articles-of-interest/plain-language-law-contract-simple/" target="_blank" rel="noopener noreferrer nofollow">https://grimlaw.com/articles-of-interest/plain-language-law-contract-simple/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Pennsylvania Plain Language LawThe objective of this Act is to protect consumers from making contracts that they do not understand, a...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: fdvn.vn  
-   Link: <a href="https://fdvn.vn/wp-content/uploads/2020/01/luu-ban-nhap-tu-dong-7.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fdvn.vn/wp-content/uploads/2020/01/luu-ban-nhap-tu-dong-7.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Manual of Style for Contract Drafting, Third EditionNothing contained in this book is to be considered as the rendering of legal advice...</p></details>
+   Link:<a href="https://fdvn.vn/wp-content/uploads/2020/01/luu-ban-nhap-tu-dong-7.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fdvn.vn/wp-content/uploads/2020/01/luu-ban-nhap-tu-dong-7.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Manual of Style for Contract Drafting, Third EditionNothing contained in this book is to be considered as the rendering of legal advice...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: charlessabel.com  
-   Link: <a href="https://charlessabel.com/papers/Gilson%20Sabel%20%26%20Scott%20final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://charlessabel.com/papers/Gilson%20Sabel%20%26%20Scott%20final.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TEXT AND CONTEXT: CONTRACT INTERPRETATION AS...by RJ Gilson · Cited by 227 — Contract interpretation remains the most important source o...</p></details>
+   Link:<a href="https://charlessabel.com/papers/Gilson%20Sabel%20%26%20Scott%20final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://charlessabel.com/papers/Gilson%20Sabel%20%26%20Scott%20final.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TEXT AND CONTEXT: CONTRACT INTERPRETATION AS...by RJ Gilson · Cited by 227 — Contract interpretation remains the most important source o...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: shopdata.giuffre.it  
-   Link: <a href="https://shopdata.giuffre.it/media/Indice/INDICE_000530690.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shopdata.giuffre.it/media/Indice/INDICE_000530690.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Legal Documents in Plain EnglishPlain and Ordinary Meaning of Express Terms............... 103. 2. Four Corners Rule... b...</p></details>
+   Link:<a href="https://shopdata.giuffre.it/media/Indice/INDICE_000530690.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shopdata.giuffre.it/media/Indice/INDICE_000530690.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Legal Documents in Plain EnglishPlain and Ordinary Meaning of Express Terms............... 103. 2. Four Corners Rule... b...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: blog.adobe.com  
    Title: top 5 takeaways from new contracts survey most people sign before they read  
-   Link: <a href="https://blog.adobe.com/en/publish/2025/02/04/top-5-takeaways-from-new-contracts-survey-most-people-sign-before-they-read" target="_blank" rel="noopener noreferrer nofollow">https://blog.adobe.com/en/publish/2025/02/04/top-5-takeaways-from-new-contracts-survey-most-people-sign-before-they-read</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Takeaways from New Contracts Survey: Most People...4 Feb 2025 — A new survey found that 73 percent of consumers, 68 percent of knowled...</p></details>
+   Link:<a href="https://blog.adobe.com/en/publish/2025/02/04/top-5-takeaways-from-new-contracts-survey-most-people-sign-before-they-read" target="_blank" rel="noopener noreferrer nofollow">https://blog.adobe.com/en/publish/2025/02/04/top-5-takeaways-from-new-contracts-survey-most-people-sign-before-they-read</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Takeaways from New Contracts Survey: Most People...4 Feb 2025 — A new survey found that 73 percent of consumers, 68 percent of knowled...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: michbar.org  
-   Link: <a href="https://www.michbar.org/file/generalinfo/plainenglish/pdfs/99_feb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.michbar.org/file/generalinfo/plainenglish/pdfs/99_feb.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Phrases Not to Use in a Contract- A Lesson from Dr...When you refer to your contract, use the words &quot;this contract&quot; (not defined)...</p></details>
+   Link:<a href="https://www.michbar.org/file/generalinfo/plainenglish/pdfs/99_feb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.michbar.org/file/generalinfo/plainenglish/pdfs/99_feb.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Phrases Not to Use in a Contract- A Lesson from Dr...When you refer to your contract, use the words &quot;this contract&quot; (not defined)...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: wabarnews.org  
-   Link: <a href="https://wabarnews.org/2024/10/08/drafting-transactional-documents-and-avoiding-ambiguity/" target="_blank" rel="noopener noreferrer nofollow">https://wabarnews.org/2024/10/08/drafting-transactional-documents-and-avoiding-ambiguity/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Washington State Bar NewsDrafting Transactional Documents and Avoiding Ambiguity8 Oct 2024 — Definite, concrete, everyday words: Use plai...</p></details>
+   Link:<a href="https://wabarnews.org/2024/10/08/drafting-transactional-documents-and-avoiding-ambiguity/" target="_blank" rel="noopener noreferrer nofollow">https://wabarnews.org/2024/10/08/drafting-transactional-documents-and-avoiding-ambiguity/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Washington State Bar NewsDrafting Transactional Documents and Avoiding Ambiguity8 Oct 2024 — Definite, concrete, everyday words: Use plai...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: hsfkramer.com  
-   Link: <a href="https://www.hsfkramer.com/dam/jcr%3A607da76d-0819-4a5b-adc7-793e526bb778/Contract-disputes-practical-guides_Issue-2_d6-Interpretation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hsfkramer.com/dam/jcr%3A607da76d-0819-4a5b-adc7-793e526bb778/Contract-disputes-practical-guides_Issue-2_d6-Interpretation.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>afting rather than referring vaguely to. “such” or “...Read more...</p></details>
+   Link:<a href="https://www.hsfkramer.com/dam/jcr%3A607da76d-0819-4a5b-adc7-793e526bb778/Contract-disputes-practical-guides_Issue-2_d6-Interpretation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hsfkramer.com/dam/jcr%3A607da76d-0819-4a5b-adc7-793e526bb778/Contract-disputes-practical-guides_Issue-2_d6-Interpretation.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>afting rather than referring vaguely to. “such” or “...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: commission.europa.eu  
    Title: terms and conditions final report en  
-   Link: <a href="https://commission.europa.eu/system/files/2018-03/terms_and_conditions_final_report_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commission.europa.eu/system/files/2018-03/terms_and_conditions_final_report_en.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>European CommissionStudy on consumers&#x27; attitudes towards Terms and Conditions...by M Elshout · 2016 · Cited by 25 — Previous research ha...</p></details>
+   Link:<a href="https://commission.europa.eu/system/files/2018-03/terms_and_conditions_final_report_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commission.europa.eu/system/files/2018-03/terms_and_conditions_final_report_en.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>European CommissionStudy on consumers&#x27; attitudes towards Terms and Conditions...by M Elshout · 2016 · Cited by 25 — Previous research ha...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: tenthings.blog  
    Title: ten things how to read a contract  
-   Link: <a href="https://tenthings.blog/2019/08/28/ten-things-how-to-read-a-contract/" target="_blank" rel="noopener noreferrer nofollow">https://tenthings.blog/2019/08/28/ten-things-how-to-read-a-contract/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ten Things – How to Read a Contract28 Aug 2019 — This edition of “Ten Things” will teach you a few tricks about how contracts are structu...</p></details>
+   Link:<a href="https://tenthings.blog/2019/08/28/ten-things-how-to-read-a-contract/" target="_blank" rel="noopener noreferrer nofollow">https://tenthings.blog/2019/08/28/ten-things-how-to-read-a-contract/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ten Things – How to Read a Contract28 Aug 2019 — This edition of “Ten Things” will teach you a few tricks about how contracts are structu...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: jurispro.com  
-   Link: <a href="https://www.jurispro.com/files/articles/Consumers%20Understanding%20of%20%27All%20Natural%27%20and%20Its%20Relationship%20to%20GMOs_1370.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.jurispro.com/files/articles/Consumers%20Understanding%20of%20%27All%20Natural%27%20and%20Its%20Relationship%20to%20GMOs_1370.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>benefit of reading it, not the font size or legal...</p></details>
+   Link:<a href="https://www.jurispro.com/files/articles/Consumers%20Understanding%20of%20%27All%20Natural%27%20and%20Its%20Relationship%20to%20GMOs_1370.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.jurispro.com/files/articles/Consumers%20Understanding%20of%20%27All%20Natural%27%20and%20Its%20Relationship%20to%20GMOs_1370.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>benefit of reading it, not the font size or legal...</p></details>

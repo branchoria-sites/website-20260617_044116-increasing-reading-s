@@ -275,21 +275,21 @@ image: /assets/images/increasing_re_852ca6_repeated_read_e09228_transfer_limi_d9
 
 ## Introduction
 
-The most reliable way to determine whether reading-speed practice is genuinely working is to test it on passages the reader has never seen before. Improvements on a practised text can be dramatic because familiarity removes many of the challenges that normally [slow reading]({{ 'slow-reading/' | relative_url }}). The real question is whether those gains carry over to new articles, book chapters, reports, and other everyday reading. Research on repeated reading and fluency interventions consistently shows that performance on practised passages often improves more than performance on unfamiliar passages, making [transfer]({{ 'transfer/' | relative_url }}) testing essential for a fair evaluation of progress. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/249835323_Fluency_and_Comprehension_Gains_as_a_Result_of_Repeated_Reading_A_Meta-Analysis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">The author conducted a meta-analysis...Read more...</span></span></span>
+The most reliable way to determine whether reading-speed practice is genuinely working is to test it on passages the reader has never seen before. Improvements on a practised text can be dramatic because familiarity removes many of the challenges that normally [slow reading]({{ 'slow-reading/' | relative_url }}). The real question is whether those gains carry over to new articles, book chapters, reports, and other everyday reading. Research on repeated reading and fluency interventions consistently shows that performance on practised passages often improves more than performance on unfamiliar passages, making [transfer]({{ 'transfer/' | relative_url }}) testing essential for a fair evaluation of progress.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/249835323_Fluency_and_Comprehension_Gains_as_a_Result_of_Repeated_Reading_A_Meta-Analysis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">The author conducted a meta-analysis...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_repeated_read_e09228_transfer_limi_d9602d_unfamiliar_pa_f979cc-Illustration-1-dark.svg" | relative_url }}" alt="Transfer tests illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_repeated_read_e09228_transfer_limi_d9602d_unfamiliar_pa_f979cc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_repeated_read_e09228_transfer_limi_d9602d_unfamiliar_pa_f979cc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-When readers assess only rehearsed material, they risk confusing memory for skill development. Transfer tests using unfamiliar passages help separate genuine increases in reading fluency from improvements that depend largely on prior [exposure]({{ 'exposure/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3320221/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">fluency intervention are transferrable and generalizable to unpracticed passages and have a positive effect for comprehension and word re...</span></span></span>
+When readers assess only rehearsed material, they risk confusing memory for skill development. Transfer tests using unfamiliar passages help separate genuine increases in reading fluency from improvements that depend largely on prior [exposure]({{ 'exposure/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3320221/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">fluency intervention are transferrable and generalizable to unpracticed passages and have a positive effect for comprehension and word re...</span></span></span>
 
 ## Why Practised-Text Scores Can Mislead
 
-A reader who rereads the same passage several times usually becomes faster because many processing demands have already been solved. Difficult [vocabulary]({{ 'knowledge/' | relative_url }}), sentence structures, and ideas become familiar. As a result, words-per-minute scores on that passage can rise sharply even if broader reading ability changes only modestly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/249835323_Fluency_and_Comprehension_Gains_as_a_Result_of_Repeated_Reading_A_Meta-Analysis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">The author conducted a meta-analysis...Read more...</span></span></span>
+A reader who rereads the same passage several times usually becomes faster because many processing demands have already been solved. Difficult [vocabulary]({{ 'knowledge/' | relative_url }}), sentence structures, and ideas become familiar. As a result, words-per-minute scores on that passage can rise sharply even if broader reading ability changes only modestly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/249835323_Fluency_and_Comprehension_Gains_as_a_Result_of_Repeated_Reading_A_Meta-Analysis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">The author conducted a meta-analysis...Read more...</span></span></span>
 
-This issue has been recognised for decades in fluency research. Reviews of interventions repeatedly stress that outcomes should be measured on unpractised passages as well as practised ones. For struggling readers in particular, a fluency programme has limited practical value if gains disappear when the text changes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3320221/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">fluency intervention are transferrable and generalizable to unpracticed passages and have a positive effect for comprehension and word re...</span></span></span>
+This issue has been recognised for decades in fluency research. Reviews of interventions repeatedly stress that outcomes should be measured on unpractised passages as well as practised ones. For struggling readers in particular, a fluency programme has limited practical value if gains disappear when the text changes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3320221/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">fluency intervention are transferrable and generalizable to unpracticed passages and have a positive effect for comprehension and word re...</span></span></span>
 
 A useful thought experiment illustrates the problem. Imagine a reader who practises one 500-word article every day for two weeks. By the end, they may read that article extremely quickly. However, if they pick up a completely different article and their speed returns to baseline, then most of the measured improvement came from familiarity rather than transferable fluency.
 
-Research syntheses generally find that repeated reading can improve both fluency and comprehension, but the strongest effects tend to occur on the passages that were actually practised. Transfer to unfamiliar material is often present yet smaller. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/249835323_Fluency_and_Comprehension_Gains_as_a_Result_of_Repeated_Reading_A_Meta-Analysis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">The author conducted a meta-analysis...Read more...</span></span></span>
+Research syntheses generally find that repeated reading can improve both fluency and comprehension, but the strongest effects tend to occur on the passages that were actually practised. Transfer to unfamiliar material is often present yet smaller.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/249835323_Fluency_and_Comprehension_Gains_as_a_Result_of_Repeated_Reading_A_Meta-Analysis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">The author conducted a meta-analysis...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/u23WFNBNylM" title="The National - Rome (Full Album Fan Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=u23WFNBNylM" target="_blank" rel="noopener noreferrer">The National - Rome (Full Album Fan Video)</a></p><p class="youtube-embed-meta">Channel: The National</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=u23WFNBNylM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=u23WFNBNylM">Open on YouTube</a></p></div></div></div>
@@ -314,7 +314,7 @@ Researchers commonly use equivalent passages that share broad characteristics su
 
 </div>
 
-This approach helps isolate whether fluency has generalised rather than whether the test passage happened to be unusually easy or difficult. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3320221/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">fluency intervention are transferrable and generalizable to unpracticed passages and have a positive effect for comprehension and word re...</span></span></span>
+This approach helps isolate whether fluency has generalised rather than whether the test passage happened to be unusually easy or difficult.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3320221/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">fluency intervention are transferrable and generalizable to unpracticed passages and have a positive effect for comprehension and word re...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_repeated_read_e09228_transfer_limi_d9602d_unfamiliar_pa_f979cc-Illustration-2-dark.svg" | relative_url }}" alt="Transfer tests illustration 2" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_repeated_read_e09228_transfer_limi_d9602d_unfamiliar_pa_f979cc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_repeated_read_e09228_transfer_limi_d9602d_unfamiliar_pa_f979cc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -327,7 +327,7 @@ Transfer tests should also minimise advantages from prior knowledge. A reader wh
 
 ### Use more than one passage
 
-Single-passage testing can be misleading because some texts are naturally easier than others. Many educational studies therefore average performance across multiple unfamiliar passages. This reduces the chance that one unusually simple or unusually [difficult text]({{ 'difficult-text/' | relative_url }}) distorts the result. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3320221/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">fluency intervention are transferrable and generalizable to unpracticed passages and have a positive effect for comprehension and word re...</span></span></span>
+Single-passage testing can be misleading because some texts are naturally easier than others. Many educational studies therefore average performance across multiple unfamiliar passages. This reduces the chance that one unusually simple or unusually [difficult text]({{ 'difficult-text/' | relative_url }}) distorts the result.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3320221/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">fluency intervention are transferrable and generalizable to unpracticed passages and have a positive effect for comprehension and word re...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oh0xdnND4JY" title="Discovering the Path to Reading Fluency with Timothy Rasinski, Ph.D." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oh0xdnND4JY" target="_blank" rel="noopener noreferrer">Discovering the Path to Reading Fluency with Timothy Rasinski, Ph.D.</a></p><p class="youtube-embed-meta">Channel: Just Right Reader</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oh0xdnND4JY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oh0xdnND4JY">Open on YouTube</a></p></div></div></div>
@@ -402,162 +402,162 @@ From the perspective of increasing reading speed, the most convincing evidence i
 Practised-text gains remain useful because they can build confidence and automaticity. However, unfamiliar-passage testing provides the stronger answer to the question that ultimately matters: whether fluency improvements will appear when the next article, chapter, or report is completely new. [nexus.aimpa.org+2ResearchGate](https://nexus.aimpa.org/skill-overviews/automaticity-and-fluency/)
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How To Test Whether Fluency Really Transfers. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How To Test Whether Fluency Really Transfers. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The fluent reader on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/277217-M.jpg" alt="Cover for The fluent reader" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fluent reader">The fluent reader</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The fluent reader on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/277217-M.jpg" alt="Cover for The fluent reader" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fluent reader">The fluent reader</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Addresses fluency assessment on new and practiced texts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses fluency assessment on new and practiced texts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Essentials+of+Assessing%2C+Preventing%2C+and+Overcoming+Reading+Difficulties+David+A.+Kilpatrick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Essentials of Assessing, Preventing, and Overcoming Reading Difficulties on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9273818-M.jpg" alt="Cover for Essentials of Assessing, Preventing, and Overcoming Reading Difficulties" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Essentials+of+Assessing%2C+Preventing%2C+and+Overcoming+Reading+Difficulties+David+A.+Kilpatrick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Essentials of Assessing, Preventing, and Overcoming Reading Difficulties">Essentials of Assessing, Preventing, and Overcoming Reading D...</a>
-        </h4>
-        <p class="fr-book-author">By David A. Kilpatrick, Kaufman, Alan S. et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Essentials+of+Assessing%2C+Preventing%2C+and+Overcoming+Reading+Difficulties+David+A.+Kilpatrick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Essentials of Assessing, Preventing, and Overcoming Reading Difficulties on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9273818-M.jpg" alt="Cover for Essentials of Assessing, Preventing, and Overcoming Reading Difficulties" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Essentials+of+Assessing%2C+Preventing%2C+and+Overcoming+Reading+Difficulties+David+A.+Kilpatrick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Essentials of Assessing, Preventing, and Overcoming Reading Difficulties">Essentials of Assessing, Preventing, and Overcoming Reading D...</a>
+</h4>
+<p class="fr-book-author">By David A. Kilpatrick, Kaufman, Alan S. et al.</p>
         
-        <p class="fr-book-desc">First published 2015. Subjects: Reading, Language and languages, PSYCHOLOGY / Assessment, Testing &amp; Measurement, Lb1050 .k493 2015, 372.41.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Essentials+of+Assessing%2C+Preventing%2C+and+Overcoming+Reading+Difficulties+David+A.+Kilpatrick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2015. Subjects: Reading, Language and languages, PSYCHOLOGY / Assessment, Testing &amp; Measurement, Lb1050 .k493 2015, 372.41.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Essentials+of+Assessing%2C+Preventing%2C+and+Overcoming+Reading+Difficulties+David+A.+Kilpatrick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Reading+Strategies+Book+Jennifer+Serravallo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Reading Strategies Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7400188-M.jpg" alt="Cover for The Reading Strategies Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Reading+Strategies+Book+Jennifer+Serravallo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Reading Strategies Book">The Reading Strategies Book</a>
-        </h4>
-        <p class="fr-book-author">By Jennifer Serravallo</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Reading+Strategies+Book+Jennifer+Serravallo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Reading Strategies Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7400188-M.jpg" alt="Cover for The Reading Strategies Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Reading+Strategies+Book+Jennifer+Serravallo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Reading Strategies Book">The Reading Strategies Book</a>
+</h4>
+<p class="fr-book-author">By Jennifer Serravallo</p>
         
-        <p class="fr-book-desc">First published 2015. Subjects: Reading, Books and reading, nyt:education=2016-03-13, New York Times bestseller.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Reading+Strategies+Book+Jennifer+Serravallo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2015. Subjects: Reading, Books and reading, nyt:education=2016-03-13, New York Times bestseller.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Reading+Strategies+Book+Jennifer+Serravallo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Megabook+of+Fluency+Timothy+V.+Rasinski%3BMelissa+Cheesman+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Megabook of Fluency on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8825334-M.jpg" alt="Cover for The Megabook of Fluency" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Megabook+of+Fluency+Timothy+V.+Rasinski%3BMelissa+Cheesman+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Megabook of Fluency">The Megabook of Fluency</a>
-        </h4>
-        <p class="fr-book-author">By Timothy V. Rasinski;Melissa Cheesman Smith</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Megabook+of+Fluency+Timothy+V.+Rasinski%3BMelissa+Cheesman+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Megabook of Fluency on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8825334-M.jpg" alt="Cover for The Megabook of Fluency" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Megabook+of+Fluency+Timothy+V.+Rasinski%3BMelissa+Cheesman+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Megabook of Fluency">The Megabook of Fluency</a>
+</h4>
+<p class="fr-book-author">By Timothy V. Rasinski;Melissa Cheesman Smith</p>
         
-        <p class="fr-book-desc">First published 2018. Subjects: Language arts (elementary), Teaching, aids and devices.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Megabook+of+Fluency+Timothy+V.+Rasinski%3BMelissa+Cheesman+Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2018. Subjects: Language arts (elementary), Teaching, aids and devices.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Megabook+of+Fluency+Timothy+V.+Rasinski%3BMelissa+Cheesman+Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The fluent reader</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Essentials+of+Assessing%2C+Preventing%2C+and+Overcoming+Reading+Difficulties&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Essentials of Assessing, Preventing, and Overcoming Reading Difficulties</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Reading+Strategies+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Reading Strategies Book</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The fluent reader</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Essentials+of+Assessing%2C+Preventing%2C+and+Overcoming+Reading+Difficulties&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Essentials of Assessing, Preventing, and Overcoming Reading Difficulties</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Reading+Strategies+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Reading Strategies Book</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-tests-how-to-test-whether-fluency-really-transfers-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="transfer-tests-how-to-test-whether-fluency-really-transfers-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Office Study Desk Organizer Table Box Tidy Case Display Stationaries Pen Holder"><img src="{{ '/assets/images/marketplace-covers/5c9ca9153eac647ccfb2.jpg' | relative_url }}" alt="Listing image for Office Study Desk Organizer Table Box Tidy Case Display Stationaries Pen Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-tests-how-to-test-whether-fluency-really-transfers-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="transfer-tests-how-to-test-whether-fluency-really-transfers-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Office Study Desk Organizer Table Box Tidy Case Display Stationaries Pen Holder</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-tests-how-to-test-whether-fluency-really-transfers-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="transfer-tests-how-to-test-whether-fluency-really-transfers-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: study desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-tests-how-to-test-whether-fluency-really-transfers-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="transfer-tests-how-to-test-whether-fluency-really-transfers-increasing-study-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-tests-how-to-test-whether-fluency-really-transfers-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="transfer-tests-how-to-test-whether-fluency-really-transfers-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Office Study Desk Organizer Table Box Tidy Case Display Stationaries Pen Holder"><img src="{{ '/assets/images/marketplace-covers/5c9ca9153eac647ccfb2.jpg' | relative_url }}" alt="Listing image for Office Study Desk Organizer Table Box Tidy Case Display Stationaries Pen Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-tests-how-to-test-whether-fluency-really-transfers-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="transfer-tests-how-to-test-whether-fluency-really-transfers-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Office Study Desk Organizer Table Box Tidy Case Display Stationaries Pen Holder</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-tests-how-to-test-whether-fluency-really-transfers-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="transfer-tests-how-to-test-whether-fluency-really-transfers-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: study desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-tests-how-to-test-whether-fluency-really-transfers-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="transfer-tests-how-to-test-whether-fluency-really-transfers-increasing-study-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-tests-how-to-test-whether-fluency-really-transfers-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="transfer-tests-how-to-test-whether-fluency-really-transfers-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Under Desk Drawers Study Table Drawer Tray Pencil Storage Organizer Box Holder"><img src="{{ '/assets/images/marketplace-covers/33486c199d5fa156bbf4.jpg' | relative_url }}" alt="Listing image for Under Desk Drawers Study Table Drawer Tray Pencil Storage Organizer Box Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-tests-how-to-test-whether-fluency-really-transfers-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="transfer-tests-how-to-test-whether-fluency-really-transfers-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Under Desk Drawers Study Table Drawer Tray Pencil Storage Organizer Box Holder</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-tests-how-to-test-whether-fluency-really-transfers-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="transfer-tests-how-to-test-whether-fluency-really-transfers-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: study desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-tests-how-to-test-whether-fluency-really-transfers-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="transfer-tests-how-to-test-whether-fluency-really-transfers-increasing-study-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-tests-how-to-test-whether-fluency-really-transfers-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="transfer-tests-how-to-test-whether-fluency-really-transfers-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-tests-how-to-test-whether-fluency-really-transfers-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="transfer-tests-how-to-test-whether-fluency-really-transfers-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Under Desk Drawers Study Table Drawer Tray Pencil Storage Organizer Box Holder"><img src="{{ '/assets/images/marketplace-covers/33486c199d5fa156bbf4.jpg' | relative_url }}" alt="Listing image for Under Desk Drawers Study Table Drawer Tray Pencil Storage Organizer Box Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-tests-how-to-test-whether-fluency-really-transfers-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="transfer-tests-how-to-test-whether-fluency-really-transfers-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Under Desk Drawers Study Table Drawer Tray Pencil Storage Organizer Box Holder</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-tests-how-to-test-whether-fluency-really-transfers-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="transfer-tests-how-to-test-whether-fluency-really-transfers-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: study desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-tests-how-to-test-whether-fluency-really-transfers-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="transfer-tests-how-to-test-whether-fluency-really-transfers-increasing-study-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-tests-how-to-test-whether-fluency-really-transfers-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="transfer-tests-how-to-test-whether-fluency-really-transfers-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -573,7 +573,7 @@ Practised-text gains remain useful because they can build confidence and automat
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -593,7 +593,7 @@ Practised-text gains remain useful because they can build confidence and automat
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -625,7 +625,7 @@ Practised-text gains remain useful because they can build confidence and automat
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -677,7 +677,7 @@ Practised-text gains remain useful because they can build confidence and automat
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -722,7 +722,7 @@ Practised-text gains remain useful because they can build confidence and automat
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -763,190 +763,190 @@ Practised-text gains remain useful because they can build confidence and automat
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/249835323_Fluency_and_Comprehension_Gains_as_a_Result_of_Repeated_Reading_A_Meta-Analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/249835323_Fluency_and_Comprehension_Gains_as_a_Result_of_Repeated_Reading_A_Meta-Analysis</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The author conducted a meta-analysis...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/249835323_Fluency_and_Comprehension_Gains_as_a_Result_of_Repeated_Reading_A_Meta-Analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/249835323_Fluency_and_Comprehension_Gains_as_a_Result_of_Repeated_Reading_A_Meta-Analysis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The author conducted a meta-analysis...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nichd.nih.gov  
    Title: NICHDNational Reading Panel  
-   Link: <a href="https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reports of the Subgroups - FluencyThe [purpose](&amp;#123;&amp;#123; &#x27;purpose/&#x27; | relative_url &amp;#125;&amp;#125;) of this report of the NRP was to review the changing concepts of fluency as an essential as...</p></details>
+   Link:<a href="https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reports of the Subgroups - FluencyThe [purpose](&amp;#123;&amp;#123; &#x27;purpose/&#x27; | relative_url &amp;#125;&amp;#125;) of this report of the NRP was to review the changing concepts of fluency as an essential as...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5097019/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5097019/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by EA Stevens · 2016 · Cited by 366 — Results showed repeated reading (RR), multicomponent interventions, and assisted reading with au...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5097019/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5097019/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by EA Stevens · 2016 · Cited by 366 — Results showed repeated reading (RR), multicomponent interventions, and assisted reading with au...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: files.eric.ed.gov  
    Title: ERICTeaching Children To Read  
-   Link: <a href="https://files.eric.ed.gov/fulltext/ED444126.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/ED444126.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Panel, charged by Congress to assess the status of research-based knowledge, including the...Read more...</p></details>
+   Link:<a href="https://files.eric.ed.gov/fulltext/ED444126.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/ED444126.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Panel, charged by Congress to assess the status of research-based knowledge, including the...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: www2.hawaii.edu  
-   Link: <a href="https://www2.hawaii.edu/~readfl/rfl/October2004/taguchi/taguchi.html" target="_blank" rel="noopener noreferrer nofollow">https://www2.hawaii.edu/~readfl/rfl/October2004/taguchi/taguchi.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>University of HawaiiDeveloping reading fluency in EFLby E Taguchi · 2004 · Cited by 466 — In addition, practice effects of re-reading a p...</p></details>
+   Link:<a href="https://www2.hawaii.edu/~readfl/rfl/October2004/taguchi/taguchi.html" target="_blank" rel="noopener noreferrer nofollow">https://www2.hawaii.edu/~readfl/rfl/October2004/taguchi/taguchi.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of HawaiiDeveloping reading fluency in EFLby E Taguchi · 2004 · Cited by 466 — In addition, practice effects of re-reading a p...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: files.eric.ed.gov  
-   Link: <a href="https://files.eric.ed.gov/fulltext/EJ1015754.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/EJ1015754.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ERICImproving reading rates and comprehension through timed...by A Chang · 2013 · Cited by 110 — The comprehension levels of the repeate...</p></details>
+   Link:<a href="https://files.eric.ed.gov/fulltext/EJ1015754.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/EJ1015754.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ERICImproving reading rates and comprehension through timed...by A Chang · 2013 · Cited by 110 — The comprehension levels of the repeate...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/249870691_Developing_reading_fluency_and_comprehension_using_repeated_reading_Evidence_from_longitudinal_student_reports" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/249870691_Developing_reading_fluency_and_comprehension_using_repeated_reading_Evidence_from_longitudinal_student_reports</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Developing reading fluency and comprehension...Fluent readers are accurate and fast in their ability to recognize words, and in th...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/249870691_Developing_reading_fluency_and_comprehension_using_repeated_reading_Evidence_from_longitudinal_student_reports" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/249870691_Developing_reading_fluency_and_comprehension_using_repeated_reading_Evidence_from_longitudinal_student_reports</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Developing reading fluency and comprehension...Fluent readers are accurate and fast in their ability to recognize words, and in th...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nexus.aimpa.org  
    Title: Automaticity & Fluency  
-   Link: <a href="https://nexus.aimpa.org/skill-overviews/automaticity-and-fluency/" target="_blank" rel="noopener noreferrer nofollow">https://nexus.aimpa.org/skill-overviews/automaticity-and-fluency/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AIM NexusRepeated oral reading is a fluency practice where students read the same passage aloud multiple times. A comprehensive, step-by...</p></details>
+   Link:<a href="https://nexus.aimpa.org/skill-overviews/automaticity-and-fluency/" target="_blank" rel="noopener noreferrer nofollow">https://nexus.aimpa.org/skill-overviews/automaticity-and-fluency/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AIM NexusRepeated oral reading is a fluency practice where students read the same passage aloud multiple times. A comprehensive, step-by...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/249134643_A_Review_of_the_National_Reading_Panel%27s_Studies_on_Fluency_The_Role_of_Text" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/249134643_A_Review_of_the_National_Reading_Panel%27s_Studies_on_Fluency_The_Role_of_Text</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ing comprehension, the role of texts is rarely, if ever, discussed (NRP, 2000;...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/249134643_A_Review_of_the_National_Reading_Panel%27s_Studies_on_Fluency_The_Role_of_Text" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/249134643_A_Review_of_the_National_Reading_Panel%27s_Studies_on_Fluency_The_Role_of_Text</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ing comprehension, the role of texts is rarely, if ever, discussed (NRP, 2000;...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/post/What-is-the-the-effect-of-fluency-and-reading-comprehension-gains-as-a-result-of-repeated-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/post/What-is-the-the-effect-of-fluency-and-reading-comprehension-gains-as-a-result-of-repeated-reading</a>  
+   Link:<a href="https://www.researchgate.net/post/What-is-the-the-effect-of-fluency-and-reading-comprehension-gains-as-a-result-of-repeated-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/post/What-is-the-the-effect-of-fluency-and-reading-comprehension-gains-as-a-result-of-repeated-reading</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/288360019_The_National_Reading_Panel_Guidepost_A_Review_of_Reading_Outcome_Measures_for_Students_With_Emotional_and_Behavioral_Disorders" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/288360019_The_National_Reading_Panel_Guidepost_A_Review_of_Reading_Outcome_Measures_for_Students_With_Emotional_and_Behavioral_Disorders</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>studies for students with emotional and behavioral disorders before and after...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/288360019_The_National_Reading_Panel_Guidepost_A_Review_of_Reading_Outcome_Measures_for_Students_With_Emotional_and_Behavioral_Disorders" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/288360019_The_National_Reading_Panel_Guidepost_A_Review_of_Reading_Outcome_Measures_for_Students_With_Emotional_and_Behavioral_Disorders</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>studies for students with emotional and behavioral disorders before and after...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/226101570_Word_reading_fluency_A_transfer_appropriate_processing_account_of_fluency_transfer" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/226101570_Word_reading_fluency_A_transfer_appropriate_processing_account_of_fluency_transfer</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Word reading fluency: A transfer appropriate processing...This study compared the effects of context training and isolated word training...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/226101570_Word_reading_fluency_A_transfer_appropriate_processing_account_of_fluency_transfer" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/226101570_Word_reading_fluency_A_transfer_appropriate_processing_account_of_fluency_transfer</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Word reading fluency: A transfer appropriate processing...This study compared the effects of context training and isolated word training...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3320221/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3320221/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>fluency intervention are transferrable and generalizable to unpracticed passages and have a positive effect for comprehension and word re...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3320221/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3320221/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>fluency intervention are transferrable and generalizable to unpracticed passages and have a positive effect for comprehension and word re...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: readingrockets.org  
    Title: everything you wanted know about repeated reading  
-   Link: <a href="https://www.readingrockets.org/blogs/shanahan-on-literacy/everything-you-wanted-know-about-repeated-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/blogs/shanahan-on-literacy/everything-you-wanted-know-about-repeated-reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>has been found to improve oral reading fluencyFluency is the ability to read a...</p></details>
+   Link:<a href="https://www.readingrockets.org/blogs/shanahan-on-literacy/everything-you-wanted-know-about-repeated-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/blogs/shanahan-on-literacy/everything-you-wanted-know-about-repeated-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>has been found to improve oral reading fluencyFluency is the ability to read a...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/topics/fluency/articles/developing-fluent-readers" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/fluency/articles/developing-fluent-readers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Developing Fluent ReadersResearch over the past two decades has identified repeated reading as the key strategy for improving students&#x27; f...</p></details>
+   Link:<a href="https://www.readingrockets.org/topics/fluency/articles/developing-fluent-readers" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/fluency/articles/developing-fluent-readers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Developing Fluent ReadersResearch over the past two decades has identified repeated reading as the key strategy for improving students&#x27; f...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/07419325040250040801" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/07419325040250040801</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The author conducted a meta-analysis to ascertain...Read more...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/07419325040250040801" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/07419325040250040801</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The author conducted a meta-analysis to ascertain...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11219671/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11219671/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Repeated Reading on Reading Fluency for Adults...by M Halkowski · 2024 · Cited by 4 — In a meta-analysis, Lee and Yoon (2017) assesse...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11219671/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11219671/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Repeated Reading on Reading Fluency for Adults...by M Halkowski · 2024 · Cited by 4 — In a meta-analysis, Lee and Yoon (2017) assesse...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8500173/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8500173/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Interventions for Struggling Readers in Grades 6 to 12by PK Steinle · 2021 · Cited by 46 — In 2017, Lee and Yoon conducted a meta-analysi...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8500173/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8500173/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Interventions for Struggling Readers in Grades 6 to 12by PK Steinle · 2021 · Cited by 46 — In 2017, Lee and Yoon conducted a meta-analysi...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: thereadingleague.org  
    Title: National Reading Panel  
-   Link: <a href="https://www.thereadingleague.org/wp-content/uploads/2018/09/NRP-Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.thereadingleague.org/wp-content/uploads/2018/09/NRP-Report.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Marilyn Adams. Ed Bouchard.Read more...</p></details>
+   Link:<a href="https://www.thereadingleague.org/wp-content/uploads/2018/09/NRP-Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.thereadingleague.org/wp-content/uploads/2018/09/NRP-Report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Marilyn Adams. Ed Bouchard.Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ies.ed.gov  
    Title: wwc repeatedreading 051314  
-   Link: <a href="https://ies.ed.gov/ncee/wwc/Docs/InterventionReports/wwc_repeatedreading_051314.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ies.ed.gov/ncee/wwc/Docs/InterventionReports/wwc_repeatedreading_051314.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading - Institute of Education SciencesProgram Description1. Repeated reading is an academic practice that aims to increase oral readin...</p></details>
+   Link:<a href="https://ies.ed.gov/ncee/wwc/Docs/InterventionReports/wwc_repeatedreading_051314.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ies.ed.gov/ncee/wwc/Docs/InterventionReports/wwc_repeatedreading_051314.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading - Institute of Education SciencesProgram Description1. Repeated reading is an academic practice that aims to increase oral readin...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: ldatschool.ca  
    Title: reading fluency  
-   Link: <a href="https://www.ldatschool.ca/reading-fluency/" target="_blank" rel="noopener noreferrer nofollow">https://www.ldatschool.ca/reading-fluency/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Improving Reading Fluency: Which Interventions are the...by C Boudreau · 2015 — This article describes two approaches for improving read...</p></details>
+   Link:<a href="https://www.ldatschool.ca/reading-fluency/" target="_blank" rel="noopener noreferrer nofollow">https://www.ldatschool.ca/reading-fluency/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Improving Reading Fluency: Which Interventions are the...by C Boudreau · 2015 — This article describes two approaches for improving read...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
    Title: The National  
-   Link: <a href="https://it.wikipedia.org/wiki/The_National" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/The_National</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The NationalI The National sono un gruppo musicale indie rock statunitense formatosi a Cincinnati e attivo dal 1999. La band è formata...</p></details>
+   Link:<a href="https://it.wikipedia.org/wiki/The_National" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/The_National</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The NationalI The National sono un gruppo musicale indie rock statunitense formatosi a Cincinnati e attivo dal 1999. La band è formata...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/topics/curriculum-and-instruction/articles/findings-national-reading-panel" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/curriculum-and-instruction/articles/findings-national-reading-panel</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Findings of the National Reading PanelHere again, the evidence was so strong that the Panel concluded that systematic phonics instruction...</p></details>
+   Link:<a href="https://www.readingrockets.org/topics/curriculum-and-instruction/articles/findings-national-reading-panel" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/curriculum-and-instruction/articles/findings-national-reading-panel</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Findings of the National Reading PanelHere again, the evidence was so strong that the Panel concluded that systematic phonics instruction...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: teachingbyscience.com  
    Title: repeated reading  
-   Link: <a href="https://www.teachingbyscience.com/repeated-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.teachingbyscience.com/repeated-reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Teaching By Science20 May 2022 — Repeated Reading specifically, works by having students read the same text, (typically a paragraph or pa...</p></details>
+   Link:<a href="https://www.teachingbyscience.com/repeated-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.teachingbyscience.com/repeated-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Teaching By Science20 May 2022 — Repeated Reading specifically, works by having students read the same text, (typically a paragraph or pa...</p></details>
    Published: May 2022  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: The National  
-   Link: <a href="https://www.youtube.com/watch?v=u23WFNBNylM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=u23WFNBNylM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rome (Full Album Fan Video)Collated from contributions by fans across the last 25 years of The National touring, enjoy the new live album...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=u23WFNBNylM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=u23WFNBNylM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rome (Full Album Fan Video)Collated from contributions by fans across the last 25 years of The National touring, enjoy the new live album...</p></details>
 
 ### Additional References
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: readnaturally.com  
-   Link: <a href="https://www.readnaturally.com/research/5-components-of-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.readnaturally.com/research/5-components-of-reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Five (5) Components of ReadingThe National Reading Panel&#x27;s research findings concluded that guided oral reading and repeated oral reading...</p></details>
+   Link:<a href="https://www.readnaturally.com/research/5-components-of-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.readnaturally.com/research/5-components-of-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Five (5) Components of ReadingThe National Reading Panel&#x27;s research findings concluded that guided oral reading and repeated oral reading...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: onlit.org  
-   Link: <a href="https://onlit.org/wp-content/uploads/2024/03/Stollar-Repeated-Reading.pdf" target="_blank" rel="noopener noreferrer nofollow">https://onlit.org/wp-content/uploads/2024/03/Stollar-Repeated-Reading.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Repeated Reading Implementation GuideResults suggested that repeated reading improves fluency and comprehension of familiar texts and may...</p></details>
+   Link:<a href="https://onlit.org/wp-content/uploads/2024/03/Stollar-Repeated-Reading.pdf" target="_blank" rel="noopener noreferrer nofollow">https://onlit.org/wp-content/uploads/2024/03/Stollar-Repeated-Reading.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Repeated Reading Implementation GuideResults suggested that repeated reading improves fluency and comprehension of familiar texts and may...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: greatleaps.com  
-   Link: <a href="https://greatleaps.com/pages/research?srsltid=AfmBOopMioEBRualdqaIQfDtDnKrpVU7ce96IDaDXjLALBq0CdhflOHR" target="_blank" rel="noopener noreferrer nofollow">https://greatleaps.com/pages/research?srsltid=AfmBOopMioEBRualdqaIQfDtDnKrpVU7ce96IDaDXjLALBq0CdhflOHR</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchThis study investigated whether improved fluency and comprehension across different stories in repeated reading depend on the deg...</p></details>
+   Link:<a href="https://greatleaps.com/pages/research?srsltid=AfmBOopMioEBRualdqaIQfDtDnKrpVU7ce96IDaDXjLALBq0CdhflOHR" target="_blank" rel="noopener noreferrer nofollow">https://greatleaps.com/pages/research?srsltid=AfmBOopMioEBRualdqaIQfDtDnKrpVU7ce96IDaDXjLALBq0CdhflOHR</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchThis study investigated whether improved fluency and comprehension across different stories in repeated reading depend on the deg...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: mempowered.com  
-   Link: <a href="https://www.mempowered.com/children/nrp" target="_blank" rel="noopener noreferrer nofollow">https://www.mempowered.com/children/nrp</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Research from the National Reading PanelA review of the research also found that guided repeated oral reading procedures had a significan...</p></details>
+   Link:<a href="https://www.mempowered.com/children/nrp" target="_blank" rel="noopener noreferrer nofollow">https://www.mempowered.com/children/nrp</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Research from the National Reading PanelA review of the research also found that guided repeated oral reading procedures had a significan...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: campbellcreatesreaders.com  
-   Link: <a href="https://www.campbellcreatesreaders.com/blog/nrpfluency" target="_blank" rel="noopener noreferrer nofollow">https://www.campbellcreatesreaders.com/blog/nrpfluency</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What the National Reading Panel Says About: FluencyFor the National Reading Panel, their focus was really two questions: does repeated re...</p></details>
+   Link:<a href="https://www.campbellcreatesreaders.com/blog/nrpfluency" target="_blank" rel="noopener noreferrer nofollow">https://www.campbellcreatesreaders.com/blog/nrpfluency</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What the National Reading Panel Says About: FluencyFor the National Reading Panel, their focus was really two questions: does repeated re...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: flowfluency.com  
-   Link: <a href="https://flowfluency.com/blog/automaticity-and-repeated-reading-unlocking-the-key-to-fluency/" target="_blank" rel="noopener noreferrer nofollow">https://flowfluency.com/blog/automaticity-and-repeated-reading-unlocking-the-key-to-fluency/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>hey make greater gains in fluency than peers who practice with new text each time.Read more...</p></details>
+   Link:<a href="https://flowfluency.com/blog/automaticity-and-repeated-reading-unlocking-the-key-to-fluency/" target="_blank" rel="noopener noreferrer nofollow">https://flowfluency.com/blog/automaticity-and-repeated-reading-unlocking-the-key-to-fluency/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>hey make greater gains in fluency than peers who practice with new text each time.Read more...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: shanahanonliteracy.com  
    Title: everything you wanted to know about repeated reading  
-   Link: <a href="https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shanahan on LiteracyEverything You Wanted to Know about Repeated ReadingNote that a meta-analysis from Therrien (2004) suggests that RR l...</p></details>
+   Link:<a href="https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shanahan on LiteracyEverything You Wanted to Know about Repeated ReadingNote that a meta-analysis from Therrien (2004) suggests that RR l...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: nationalcar.it  
-   Link: <a href="https://www.nationalcar.it/it/home.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalcar.it/it/home.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>, Europa, America Latina, Caraibi, Asia-Pacifico, Africa e Australia...</p></details>
+   Link:<a href="https://www.nationalcar.it/it/home.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalcar.it/it/home.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>, Europa, America Latina, Caraibi, Asia-Pacifico, Africa e Australia...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/583877594/repetead-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/583877594/repetead-reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>at improving reading fluency and comprehension.Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/583877594/repetead-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/583877594/repetead-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>at improving reading fluency and comprehension.Read more...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: reallygreatreading.com  
-   Link: <a href="https://www.reallygreatreading.com/blog/what-history-national-reading-panel?srsltid=AfmBOoq6T1khCkjXbO3wL5qaKsRsID25kDXp2rDAYVn_a6OJi7DR7Lfe" target="_blank" rel="noopener noreferrer nofollow">https://www.reallygreatreading.com/blog/what-history-national-reading-panel?srsltid=AfmBOoq6T1khCkjXbO3wL5qaKsRsID25kDXp2rDAYVn_a6OJi7DR7Lfe</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>best ways of teaching children to read.Read more...</p></details>
+   Link:<a href="https://www.reallygreatreading.com/blog/what-history-national-reading-panel?srsltid=AfmBOoq6T1khCkjXbO3wL5qaKsRsID25kDXp2rDAYVn_a6OJi7DR7Lfe" target="_blank" rel="noopener noreferrer nofollow">https://www.reallygreatreading.com/blog/what-history-national-reading-panel?srsltid=AfmBOoq6T1khCkjXbO3wL5qaKsRsID25kDXp2rDAYVn_a6OJi7DR7Lfe</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>best ways of teaching children to read.Read more...</p></details>

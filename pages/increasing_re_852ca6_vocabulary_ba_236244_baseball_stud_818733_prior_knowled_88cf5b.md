@@ -269,19 +269,19 @@ image: /assets/images/increasing_re_852ca6_vocabulary_ba_236244_baseball_stud_81
 
 ## Introduction
 
-One of the most useful lessons from research on prior knowledge is that some reading-speed gains happen before reading begins. [Difficult texts]({{ 'difficult-text/' | relative_url }}) often feel slow not because the eyes move slowly across the page, but because the brain must constantly stop to build context, decode unfamiliar terms, and connect new ideas. When readers spend a few minutes acquiring basic [background]({{ 'expertise/' | relative_url }}) knowledge first, comprehension becomes smoother, memory improves, and reading feels less mentally crowded. Research on background knowledge consistently shows that what readers already know strongly influences how efficiently they understand new material. Taylor &amp; Francis Online+2American Federation of Teachers <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/02702711.2021.1888348" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[tandfonline.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">A critical review was conducted to determine the influence background knowledge has on the reading comprehension of primary school-aged c...</span></span></span>
+One of the most useful lessons from research on prior knowledge is that some reading-speed gains happen before reading begins. [Difficult texts]({{ 'difficult-text/' | relative_url }}) often feel slow not because the eyes move slowly across the page, but because the brain must constantly stop to build context, decode unfamiliar terms, and connect new ideas. When readers spend a few minutes acquiring basic [background]({{ 'expertise/' | relative_url }}) knowledge first, comprehension becomes smoother, memory improves, and reading feels less mentally crowded. Research on background knowledge consistently shows that what readers already know strongly influences how efficiently they understand new material. Taylor &amp; Francis Online+2American Federation of Teachers<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/02702711.2021.1888348" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[tandfonline.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">A critical review was conducted to determine the influence background knowledge has on the reading comprehension of primary school-aged c...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_vocabulary_ba_236244_baseball_stud_818733_prior_knowled_88cf5b-Illustration-1-dark.svg" | relative_url }}" alt="Before reading illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_vocabulary_ba_236244_baseball_stud_818733_prior_knowled_88cf5b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_vocabulary_ba_236244_baseball_stud_818733_prior_knowled_88cf5b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The famous [baseball study]({{ 'baseball-study/' | relative_url }}) highlighted this principle: readers who understood the subject matter often outperformed stronger readers who lacked relevant [knowledge]({{ 'knowledge/' | relative_url }}). The practical implication is not that reading skill does not matter, but that preparing for a difficult text can dramatically improve how quickly and accurately it is understood. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aft.org/ae/spring2006/willingham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aft.org">[American Federation of Teachers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aft.org</span><span class="citation-popover-snippet">By Daniel T. Willingham. &quot;Knowledge is Good.&quot; So read the motto of the mythical Faber...Read more...</span></span></span>
+The famous [baseball study]({{ 'baseball-study/' | relative_url }}) highlighted this principle: readers who understood the subject matter often outperformed stronger readers who lacked relevant [knowledge]({{ 'knowledge/' | relative_url }}). The practical implication is not that reading skill does not matter, but that preparing for a difficult text can dramatically improve how quickly and accurately it is understood.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aft.org/ae/spring2006/willingham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aft.org">[American Federation of Teachers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aft.org</span><span class="citation-popover-snippet">By Daniel T. Willingham. &quot;Knowledge is Good.&quot; So read the motto of the mythical Faber...Read more...</span></span></span>
 
 ## When Prior Knowledge Matters Most
 
 Prior knowledge becomes especially important when a text contains unfamiliar concepts, specialised vocabulary, dense explanations, or many unstated assumptions. Scientific papers, legal documents, historical analysis, [technical]({{ 'technical-texts/' | relative_url }}) manuals, and advanced textbooks often assume readers already possess a basic framework for understanding the topic.
 
-Cognitive researchers frequently describe this framework as a schema: an organised structure of knowledge that helps readers interpret new information. When relevant knowledge exists, readers do not need to construct meaning from scratch. Instead, they attach new facts to an existing mental model. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ebsco.com/research-starters/psychology/schema-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO+2Academy Publication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">Schema Theory &#124; Psychology &#124; Research StartersSchema Theory is a cognitive framework that explains how individuals organize and inte...</span></span></span>
+Cognitive researchers frequently describe this framework as a schema: an organised structure of knowledge that helps readers interpret new information. When relevant knowledge exists, readers do not need to construct meaning from scratch. Instead, they attach new facts to an existing mental model.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ebsco.com/research-starters/psychology/schema-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO+2Academy Publication]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">Schema Theory &#124; Psychology &#124; Research StartersSchema Theory is a cognitive framework that explains how individuals organize and inte...</span></span></span>
 
-This matters for reading speed because prior knowledge helps readers: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/02702711.2023.2253249" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[tandfonline.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-title">What&#x27;s Up With Words?</span><span class="citation-popover-snippet">A Systematic Review of Designs...by CK Black · 2024 · Cited by 27 — Both psycholinguistic and schema theories emphasize the role of lea...</span></span></span>
+This matters for reading speed because prior knowledge helps readers:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/02702711.2023.2253249" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[tandfonline.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-title">What&#x27;s Up With Words?</span><span class="citation-popover-snippet">A Systematic Review of Designs...by CK Black · 2024 · Cited by 27 — Both psycholinguistic and schema theories emphasize the role of lea...</span></span></span>
 
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
@@ -290,11 +290,11 @@ This matters for reading speed because prior knowledge helps readers: <span clas
 * Make accurate predictions about what comes next.
 * Understand specialised vocabulary in context.
 * Draw inferences without repeatedly rereading.
-* Reduce the burden on working memory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aft.org/ae/spring2006/willingham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aft.org">[American Federation of Teachers+2NWEA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aft.org</span><span class="citation-popover-snippet">By Daniel T. Willingham. &quot;Knowledge is Good.&quot; So read the motto of the mythical Faber...Read more...</span></span></span>
+* Reduce the burden on working memory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aft.org/ae/spring2006/willingham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aft.org">[American Federation of Teachers+2NWEA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aft.org</span><span class="citation-popover-snippet">By Daniel T. Willingham. &quot;Knowledge is Good.&quot; So read the motto of the mythical Faber...Read more...</span></span></span>
 
 </div>
 
-Studies have found that topic knowledge can improve not only comprehension but also fluency and reading accuracy. Readers who already understand a topic often make fewer errors and move through text more efficiently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3142886/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by SJ Priebe · 2011 · Cited by 157 — Prior knowledge of the passage topic was found to significantly increase fluency and reduce readi...</span></span></span>
+Studies have found that topic knowledge can improve not only comprehension but also fluency and reading accuracy. Readers who already understand a topic often make fewer errors and move through text more efficiently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3142886/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by SJ Priebe · 2011 · Cited by 157 — Prior knowledge of the passage topic was found to significantly increase fluency and reduce readi...</span></span></span>
 
 ## Simple Ways to Preview a New Subject
 
@@ -318,7 +318,7 @@ Before starting a difficult text, identify and learn a small set of essential te
 
 For example, a reader approaching an article on climate science would benefit from understanding terms such as greenhouse gases, radiative forcing, carbon sink, and mitigation before reading the main text.
 
-Vocabulary knowledge and background knowledge reinforce each other. Readers who know the language of a subject generally understand the subject more easily. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.doe.mass.edu/massliteracy/reading-difficulties/vocab-knowledge.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: doe.mass.edu">[Massachusetts DESE+2Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">doe.mass.edu</span><span class="citation-popover-title">achusetts DESEVocabulary and Knowledge</span><span class="citation-popover-snippet">achusetts DESEVocabulary and Knowledge - Evidence Based Early LiteracySep 30, 2021 — A child struggling with reading comprehension ma...</span></span></span>
+Vocabulary knowledge and background knowledge reinforce each other. Readers who know the language of a subject generally understand the subject more easily.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.doe.mass.edu/massliteracy/reading-difficulties/vocab-knowledge.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: doe.mass.edu">[Massachusetts DESE+2Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">doe.mass.edu</span><span class="citation-popover-title">achusetts DESEVocabulary and Knowledge</span><span class="citation-popover-snippet">achusetts DESEVocabulary and Knowledge - Evidence Based Early LiteracySep 30, 2021 — A child struggling with reading comprehension ma...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AQ6A2fCAlIE" title="Cognitive Load &amp; the Real Science of Reading with Natalie Wexler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AQ6A2fCAlIE" target="_blank" rel="noopener noreferrer">Cognitive Load &amp; the Real Science of Reading with Natalie Wexler</a></p><p class="youtube-embed-meta">Channel: Toddle &middot; Views: 1.1K &middot; Uploaded: June 2025 &middot; Length: 43 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AQ6A2fCAlIE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AQ6A2fCAlIE">Open on YouTube</a></p></div></div></div>
@@ -344,14 +344,14 @@ The [purpose]({{ 'purpose/' | relative_url }}) is not detailed learning. It is s
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* What is this topic about? <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.3102/00346543221148478" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[journals.sagepub.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsWhat the Research Says About Prior Knowledge Activationby C Hattan · 2024 · Cited by 110 — This systematic literature review...</span></span></span>
+* What is this topic about?<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.3102/00346543221148478" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[journals.sagepub.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsWhat the Research Says About Prior Knowledge Activationby C Hattan · 2024 · Cited by 110 — This systematic literature review...</span></span></span>
 * Why does it matter?
 * What are the main ideas?
 * What terms will appear repeatedly?
 
 </div>
 
-Research on knowledge activation suggests that even modest amounts of relevant information can improve later comprehension when readers encounter more complex texts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.3102/00346543221148478" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsWhat the Research Says About Prior Knowledge Activationby C Hattan · 2024 · Cited by 110 — This systematic literature review...</span></span></span>
+Research on knowledge activation suggests that even modest amounts of relevant information can improve later comprehension when readers encounter more complex texts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.3102/00346543221148478" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsWhat the Research Says About Prior Knowledge Activationby C Hattan · 2024 · Cited by 110 — This systematic literature review...</span></span></span>
 
 ### Examine Headings, Diagrams, and Visuals
 
@@ -392,7 +392,7 @@ For economics, identify:
 * Key actors.
 * Important mechanisms.
 
-Even a rough mental map gives incoming information somewhere to "attach", reducing the effort required to follow complex arguments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ebsco.com/research-starters/psychology/schema-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">Schema Theory &#124; Psychology &#124; Research StartersSchema Theory is a cognitive framework that explains how individuals organize and inte...</span></span></span>
+Even a rough mental map gives incoming information somewhere to "attach", reducing the effort required to follow complex arguments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ebsco.com/research-starters/psychology/schema-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">Schema Theory &#124; Psychology &#124; Research StartersSchema Theory is a cognitive framework that explains how individuals organize and inte...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_35VckDytCk" title="Episode 139: Knowledge and Comprehension with Daniel Willingham and Barbara Davidson" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_35VckDytCk" target="_blank" rel="noopener noreferrer">Episode 139: Knowledge and Comprehension with Daniel Willingham and Barbara Davidson</a></p><p class="youtube-embed-meta">Channel: Melissa &amp; Lori Love Literacy</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_35VckDytCk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_35VckDytCk">Open on YouTube</a></p></div></div></div>
@@ -427,7 +427,7 @@ A common mistake is to assume that a quick overview provides complete understand
 
 The purpose of preparation is to create a framework, not a conclusion. As you read, allow the text to revise or replace your initial understanding.
 
-Research on prior knowledge activation shows that activating relevant knowledge can aid comprehension, but the quality and accuracy of that knowledge matter. Incorrect assumptions can distort interpretation rather than improve it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.3102/00346543221148478" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsWhat the Research Says About Prior Knowledge Activationby C Hattan · 2024 · Cited by 110 — This systematic literature review...</span></span></span>
+Research on prior knowledge activation shows that activating relevant knowledge can aid comprehension, but the quality and accuracy of that knowledge matter. Incorrect assumptions can distort interpretation rather than improve it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.3102/00346543221148478" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsWhat the Research Says About Prior Knowledge Activationby C Hattan · 2024 · Cited by 110 — This systematic literature review...</span></span></span>
 
 ### Separate Familiar Words from Technical Meanings
 
@@ -458,7 +458,7 @@ When new information conflicts with expectations:
 
 * Pause briefly.
 * Identify the conflict.
-* Adjust the existing framework. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebsco.com/research-starters/psychology/schema-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[ebsco.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">Schema Theory &#124; Psychology &#124; Research StartersSchema Theory is a cognitive framework that explains how individuals organize and inte...</span></span></span>
+* Adjust the existing framework.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebsco.com/research-starters/psychology/schema-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[ebsco.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">Schema Theory &#124; Psychology &#124; Research StartersSchema Theory is a cognitive framework that explains how individuals organize and inte...</span></span></span>
 * Continue reading.
 
 This prevents background knowledge from becoming a source of bias.
@@ -467,183 +467,183 @@ This prevents background knowledge from becoming a source of bias.
 
 The connection between prior knowledge and reading speed is indirect but powerful. Preparation does not make the eyes move faster. Instead, it reduces the amount of mental effort required to understand each sentence.
 
-When readers already know the basic vocabulary, concepts, and context, they spend less time resolving confusion and more time integrating information. Cognitive load decreases, comprehension improves, and reading feels more fluent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/377081451_The_effects_of_segmentation_on_cognitive_load_vocabulary_learning_and_retention_and_reading_comprehension_in_a_multimedia_learning_environment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net+2AS Proceedings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">abulary learning, comprehension, and retention...</span></span></span>
+When readers already know the basic vocabulary, concepts, and context, they spend less time resolving confusion and more time integrating information. Cognitive load decreases, comprehension improves, and reading feels more fluent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/377081451_The_effects_of_segmentation_on_cognitive_load_vocabulary_learning_and_retention_and_reading_comprehension_in_a_multimedia_learning_environment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net+2AS Proceedings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">abulary learning, comprehension, and retention...</span></span></span>
 
-The broader lesson from the baseball study and related research is straightforward: faster reading is not always achieved by changing how you read. Sometimes it is achieved by changing what you know before you start. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aft.org/ae/spring2006/willingham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aft.org">[American Federation of Teachers+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aft.org</span><span class="citation-popover-snippet">By Daniel T. Willingham. &quot;Knowledge is Good.&quot; So read the motto of the mythical Faber...Read more...</span></span></span>
+The broader lesson from the baseball study and related research is straightforward: faster reading is not always achieved by changing how you read. Sometimes it is achieved by changing what you know before you start.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aft.org/ae/spring2006/willingham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aft.org">[American Federation of Teachers+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aft.org</span><span class="citation-popover-snippet">By Daniel T. Willingham. &quot;Knowledge is Good.&quot; So read the motto of the mythical Faber...Read more...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How to Prepare Your Brain Before Reading. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How to Prepare Your Brain Before Reading. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Directly teaches preparation, inspectional reading, and building context before deeper reading.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Directly teaches preparation, inspectional reading, and building context before deeper reading.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-        </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+</h4>
+<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Shows how knowledge structures improve understanding and retention.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how knowledge structures improve understanding and retention.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Don&#x27;t Students Like School? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kuEmEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Don&#x27;t Students Like School?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
-        </h4>
-        <p class="fr-book-author">By Daniel T. Willingham</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Don&#x27;t Students Like School? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kuEmEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Don&#x27;t Students Like School?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
+</h4>
+<p class="fr-book-author">By Daniel T. Willingham</p>
         
-        <p class="fr-book-desc">Highlights the importance of knowledge and schema in comprehension.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights the importance of knowledge and schema in comprehension.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Knowledge+GAP+Natalie+Wexler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Knowledge GAP on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8771746-M.jpg" alt="Cover for The Knowledge GAP" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Knowledge+GAP+Natalie+Wexler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Knowledge GAP">The Knowledge GAP</a>
-        </h4>
-        <p class="fr-book-author">By Natalie Wexler</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Knowledge+GAP+Natalie+Wexler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Knowledge GAP on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8771746-M.jpg" alt="Cover for The Knowledge GAP" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Knowledge+GAP+Natalie+Wexler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Knowledge GAP">The Knowledge GAP</a>
+</h4>
+<p class="fr-book-author">By Natalie Wexler</p>
         
-        <p class="fr-book-desc">First published 2019. Subjects: Language arts (elementary), Education, elementary, curricula, Educational change, Children with social di...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Knowledge+GAP+Natalie+Wexler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2019. Subjects: Language arts (elementary), Education, elementary, curricula, Educational change, Children with social di...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Knowledge+GAP+Natalie+Wexler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Don&#x27;t Students Like School?</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Don&#x27;t Students Like School?</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-reading-how-to-prepare-your-brain-before-reading-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="before-reading-how-to-prepare-your-brain-before-reading-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for OSCO Bamboo Desk Organiser | 6 Compartments | 1 Drawer | Office Tidy | Stationer"><img src="{{ '/assets/images/marketplace-covers/acce59ee37094e6800bd.jpg' | relative_url }}" alt="Listing image for OSCO Bamboo Desk Organiser | 6 Compartments | 1 Drawer | Office Tidy | Stationer" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-reading-how-to-prepare-your-brain-before-reading-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="before-reading-how-to-prepare-your-brain-before-reading-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">OSCO Bamboo Desk Organiser | 6 Compartments | 1 Drawer | Office Tidy | Stationer</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-reading-how-to-prepare-your-brain-before-reading-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="before-reading-how-to-prepare-your-brain-before-reading-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-reading-how-to-prepare-your-brain-before-reading-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="before-reading-how-to-prepare-your-brain-before-reading-increasing-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-reading-how-to-prepare-your-brain-before-reading-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="before-reading-how-to-prepare-your-brain-before-reading-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for OSCO Bamboo Desk Organiser | 6 Compartments | 1 Drawer | Office Tidy | Stationer"><img src="{{ '/assets/images/marketplace-covers/acce59ee37094e6800bd.jpg' | relative_url }}" alt="Listing image for OSCO Bamboo Desk Organiser | 6 Compartments | 1 Drawer | Office Tidy | Stationer" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-reading-how-to-prepare-your-brain-before-reading-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="before-reading-how-to-prepare-your-brain-before-reading-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">OSCO Bamboo Desk Organiser | 6 Compartments | 1 Drawer | Office Tidy | Stationer</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-reading-how-to-prepare-your-brain-before-reading-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="before-reading-how-to-prepare-your-brain-before-reading-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-reading-how-to-prepare-your-brain-before-reading-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="before-reading-how-to-prepare-your-brain-before-reading-increasing-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-reading-how-to-prepare-your-brain-before-reading-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="before-reading-how-to-prepare-your-brain-before-reading-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage Office Home"><img src="{{ '/assets/images/marketplace-covers/c4ba66d9ac362939999e.jpg' | relative_url }}" alt="Listing image for Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage Office Home" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-reading-how-to-prepare-your-brain-before-reading-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="before-reading-how-to-prepare-your-brain-before-reading-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage Office Home</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-reading-how-to-prepare-your-brain-before-reading-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="before-reading-how-to-prepare-your-brain-before-reading-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-reading-how-to-prepare-your-brain-before-reading-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="before-reading-how-to-prepare-your-brain-before-reading-increasing-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-reading-how-to-prepare-your-brain-before-reading-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="before-reading-how-to-prepare-your-brain-before-reading-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage Office Home"><img src="{{ '/assets/images/marketplace-covers/c4ba66d9ac362939999e.jpg' | relative_url }}" alt="Listing image for Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage Office Home" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-reading-how-to-prepare-your-brain-before-reading-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="before-reading-how-to-prepare-your-brain-before-reading-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage Office Home</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-reading-how-to-prepare-your-brain-before-reading-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="before-reading-how-to-prepare-your-brain-before-reading-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-reading-how-to-prepare-your-brain-before-reading-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="before-reading-how-to-prepare-your-brain-before-reading-increasing-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-reading-how-to-prepare-your-brain-before-reading-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="before-reading-how-to-prepare-your-brain-before-reading-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Office Study Desk Organizer Table Box Tidy Case Wooden Pen Pencil Storage Holder"><img src="{{ '/assets/images/marketplace-covers/ed40463974a57f4e909b.jpg' | relative_url }}" alt="Listing image for Office Study Desk Organizer Table Box Tidy Case Wooden Pen Pencil Storage Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-reading-how-to-prepare-your-brain-before-reading-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="before-reading-how-to-prepare-your-brain-before-reading-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Office Study Desk Organizer Table Box Tidy Case Wooden Pen Pencil Storage Holder</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-reading-how-to-prepare-your-brain-before-reading-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="before-reading-how-to-prepare-your-brain-before-reading-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-reading-how-to-prepare-your-brain-before-reading-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="before-reading-how-to-prepare-your-brain-before-reading-increasing-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-reading-how-to-prepare-your-brain-before-reading-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="before-reading-how-to-prepare-your-brain-before-reading-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-reading-how-to-prepare-your-brain-before-reading-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="before-reading-how-to-prepare-your-brain-before-reading-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Office Study Desk Organizer Table Box Tidy Case Wooden Pen Pencil Storage Holder"><img src="{{ '/assets/images/marketplace-covers/ed40463974a57f4e909b.jpg' | relative_url }}" alt="Listing image for Office Study Desk Organizer Table Box Tidy Case Wooden Pen Pencil Storage Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-reading-how-to-prepare-your-brain-before-reading-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="before-reading-how-to-prepare-your-brain-before-reading-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Office Study Desk Organizer Table Box Tidy Case Wooden Pen Pencil Storage Holder</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-reading-how-to-prepare-your-brain-before-reading-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="before-reading-how-to-prepare-your-brain-before-reading-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-reading-how-to-prepare-your-brain-before-reading-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="before-reading-how-to-prepare-your-brain-before-reading-increasing-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=before-reading-how-to-prepare-your-brain-before-reading-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="before-reading-how-to-prepare-your-brain-before-reading-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -659,7 +659,7 @@ The broader lesson from the baseball study and related research is straightforwa
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -679,7 +679,7 @@ The broader lesson from the baseball study and related research is straightforwa
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -711,7 +711,7 @@ The broader lesson from the baseball study and related research is straightforwa
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -763,7 +763,7 @@ The broader lesson from the baseball study and related research is straightforwa
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -808,7 +808,7 @@ The broader lesson from the baseball study and related research is straightforwa
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -849,171 +849,171 @@ The broader lesson from the baseball study and related research is straightforwa
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ebsco.com  
-   Link: <a href="https://www.ebsco.com/research-starters/psychology/schema-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/psychology/schema-theory</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Schema Theory | Psychology | Research StartersSchema Theory is a cognitive framework that explains how individuals organize and inte...</p></details>
+   Link:<a href="https://www.ebsco.com/research-starters/psychology/schema-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/psychology/schema-theory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Schema Theory | Psychology | Research StartersSchema Theory is a cognitive framework that explains how individuals organize and inte...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nwea.org  
    Title: what is background knowledge in reading  
-   Link: <a href="https://www.nwea.org/blog/2026/what-is-background-knowledge-in-reading/" target="_blank" rel="noopener noreferrer nofollow">https://www.nwea.org/blog/2026/what-is-background-knowledge-in-reading/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What is background knowledge in reading?Mar 31, 2026 — As Daniel Willingham explains in “How knowledge helps,” background knowledge s...</p></details>
+   Link:<a href="https://www.nwea.org/blog/2026/what-is-background-knowledge-in-reading/" target="_blank" rel="noopener noreferrer nofollow">https://www.nwea.org/blog/2026/what-is-background-knowledge-in-reading/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is background knowledge in reading?Mar 31, 2026 — As Daniel Willingham explains in “How knowledge helps,” background knowledge s...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3142886/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3142886/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by SJ Priebe · 2011 · Cited by 157 — Prior knowledge of the passage topic was found to significantly increase fluency and reduce readi...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3142886/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3142886/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by SJ Priebe · 2011 · Cited by 157 — Prior knowledge of the passage topic was found to significantly increase fluency and reduce readi...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: doe.mass.edu  
    Title: achusetts DESEVocabulary and Knowledge  
-   Link: <a href="https://www.doe.mass.edu/massliteracy/reading-difficulties/vocab-knowledge.html" target="_blank" rel="noopener noreferrer nofollow">https://www.doe.mass.edu/massliteracy/reading-difficulties/vocab-knowledge.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>achusetts DESEVocabulary and Knowledge - Evidence Based Early LiteracySep 30, 2021 — A child struggling with reading comprehension ma...</p></details>
+   Link:<a href="https://www.doe.mass.edu/massliteracy/reading-difficulties/vocab-knowledge.html" target="_blank" rel="noopener noreferrer nofollow">https://www.doe.mass.edu/massliteracy/reading-difficulties/vocab-knowledge.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>achusetts DESEVocabulary and Knowledge - Evidence Based Early LiteracySep 30, 2021 — A child struggling with reading comprehension ma...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/377081451_The_effects_of_segmentation_on_cognitive_load_vocabulary_learning_and_retention_and_reading_comprehension_in_a_multimedia_learning_environment" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/377081451_The_effects_of_segmentation_on_cognitive_load_vocabulary_learning_and_retention_and_reading_comprehension_in_a_multimedia_learning_environment</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>abulary learning, comprehension, and retention...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/377081451_The_effects_of_segmentation_on_cognitive_load_vocabulary_learning_and_retention_and_reading_comprehension_in_a_multimedia_learning_environment" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/377081451_The_effects_of_segmentation_on_cognitive_load_vocabulary_learning_and_retention_and_reading_comprehension_in_a_multimedia_learning_environment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>abulary learning, comprehension, and retention...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
    Title: 393055348 Use of Schema Theory in the Teaching of Reading Comprehension  
-   Link: <a href="https://www.researchgate.net/publication/393055348_Use_of_Schema_Theory_in_the_Teaching_of_Reading_Comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/393055348_Use_of_Schema_Theory_in_the_Teaching_of_Reading_Comprehension</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Use of Schema Theory in the Teaching of Reading...26 June 2025 — It proposes specific English reading instruction methods and stra...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/393055348_Use_of_Schema_Theory_in_the_Teaching_of_Reading_Comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/393055348_Use_of_Schema_Theory_in_the_Teaching_of_Reading_Comprehension</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Use of Schema Theory in the Teaching of Reading...26 June 2025 — It proposes specific English reading instruction methods and stra...</p></details>
    Published: June 2025  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/390096904_Use_of_Schema_Theory_in_the_Teaching_of_Reading_Comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/390096904_Use_of_Schema_Theory_in_the_Teaching_of_Reading_Comprehension</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The study aims to provide a comprehensive understanding of Schema Theory.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/390096904_Use_of_Schema_Theory_in_the_Teaching_of_Reading_Comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/390096904_Use_of_Schema_Theory_in_the_Teaching_of_Reading_Comprehension</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The study aims to provide a comprehensive understanding of Schema Theory.Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/379204241_The_Use_of_Schema_Theory_in_the_Teaching_of_Reading_Comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/379204241_The_Use_of_Schema_Theory_in_the_Teaching_of_Reading_Comprehension</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>age in reading teaching to help students activate the original schemas and...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/379204241_The_Use_of_Schema_Theory_in_the_Teaching_of_Reading_Comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/379204241_The_Use_of_Schema_Theory_in_the_Teaching_of_Reading_Comprehension</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>age in reading teaching to help students activate the original schemas and...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/349506620_The_Role_of_Background_Knowledge_in_Reading_Comprehension_A_Critical_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/349506620_The_Role_of_Background_Knowledge_in_Reading_Comprehension_A_Critical_Review</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Role of Background Knowledge in Reading...Feb 22, 2021 — A critical review was conducted to determine the influence background...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/349506620_The_Role_of_Background_Knowledge_in_Reading_Comprehension_A_Critical_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/349506620_The_Role_of_Background_Knowledge_in_Reading_Comprehension_A_Critical_Review</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Role of Background Knowledge in Reading...Feb 22, 2021 — A critical review was conducted to determine the influence background...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: vocabulary.com  
-   Link: <a href="https://www.vocabulary.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.vocabulary.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Learn Words - English DictionaryVocabulary.com helps you learn new words, play games that improve your vocabulary, and explore language...</p></details>
+   Link:<a href="https://www.vocabulary.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.vocabulary.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Learn Words - English DictionaryVocabulary.com helps you learn new words, play games that improve your vocabulary, and explore language...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reading.com  
-   Link: <a href="https://www.reading.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.reading.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Teach Your Child To Read Early, Step by StepReading.com helps your child learn to read with a proven, step-by-step program. Start today a...</p></details>
+   Link:<a href="https://www.reading.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.reading.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Teach Your Child To Read Early, Step by StepReading.com helps your child learn to read with a proven, step-by-step program. Start today a...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/02702711.2021.1888348" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/02702711.2021.1888348</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A critical review was conducted to determine the influence background knowledge has on the reading comprehension of primary school-aged c...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/02702711.2021.1888348" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/02702711.2021.1888348</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A critical review was conducted to determine the influence background knowledge has on the reading comprehension of primary school-aged c...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aft.org  
-   Link: <a href="https://www.aft.org/ae/spring2006/willingham" target="_blank" rel="noopener noreferrer nofollow">https://www.aft.org/ae/spring2006/willingham</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>By Daniel T. Willingham. &quot;Knowledge is Good.&quot; So read the motto of the mythical Faber...Read more...</p></details>
+   Link:<a href="https://www.aft.org/ae/spring2006/willingham" target="_blank" rel="noopener noreferrer nofollow">https://www.aft.org/ae/spring2006/willingham</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>By Daniel T. Willingham. &quot;Knowledge is Good.&quot; So read the motto of the mythical Faber...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: academypublication.com  
-   Link: <a href="https://www.academypublication.com/issues/past/tpls/vol03/01/19.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.academypublication.com/issues/past/tpls/vol03/01/19.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Schema Theory in ReadingSchema theory is an explanation of how readers use prior knowledge to comprehend and learn from text (Rumelhart...</p></details>
+   Link:<a href="https://www.academypublication.com/issues/past/tpls/vol03/01/19.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.academypublication.com/issues/past/tpls/vol03/01/19.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Schema Theory in ReadingSchema theory is an explanation of how readers use prior knowledge to comprehend and learn from text (Rumelhart...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: as-proceeding.com  
-   Link: <a href="https://as-proceeding.com/index.php/ijanser/article/download/1802/1746/3392" target="_blank" rel="noopener noreferrer nofollow">https://as-proceeding.com/index.php/ijanser/article/download/1802/1746/3392</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Processes in Reading ComprehensionIn reading comprehension, cognitive load theory highlights the role of intrinsic, extraneous...</p></details>
+   Link:<a href="https://as-proceeding.com/index.php/ijanser/article/download/1802/1746/3392" target="_blank" rel="noopener noreferrer nofollow">https://as-proceeding.com/index.php/ijanser/article/download/1802/1746/3392</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Processes in Reading ComprehensionIn reading comprehension, cognitive load theory highlights the role of intrinsic, extraneous...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/10534512241255330" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/10534512241255330</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsStrategies to Build the Vocabulary and Background...by ZT Barnes · 2024 · Cited by 4 — The purpose of this paper is to prov...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/abs/10.1177/10534512241255330" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/10534512241255330</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsStrategies to Build the Vocabulary and Background...by ZT Barnes · 2024 · Cited by 4 — The purpose of this paper is to prov...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.3102/00346543221148478" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.3102/00346543221148478</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsWhat the Research Says About Prior Knowledge Activationby C Hattan · 2024 · Cited by 110 — This systematic literature review...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.3102/00346543221148478" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.3102/00346543221148478</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsWhat the Research Says About Prior Knowledge Activationby C Hattan · 2024 · Cited by 110 — This systematic literature review...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Reading" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ReadingReading is the process of taking in the sense or meaning of symbols, often specifically those of a written language, by means o...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Reading" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ReadingReading is the process of taking in the sense or meaning of symbols, often specifically those of a written language, by means o...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12461752/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12461752/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Cognitive Correlates Underlying Inferencing...by AE Barth · 2025 — Reading component skills such as background knowledge, vocabulary...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12461752/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12461752/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Cognitive Correlates Underlying Inferencing...by AE Barth · 2025 — Reading component skills such as background knowledge, vocabulary...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6455959/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6455959/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Influence of Text Complexity and Question...by M Spencer · 2018 · Cited by 97 — In the current study, we examined how student charac...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6455959/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6455959/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Influence of Text Complexity and Question...by M Spencer · 2018 · Cited by 97 — In the current study, we examined how student charac...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: aft.org  
-   Link: <a href="https://www.aft.org/ae/spring2006/willingham_sb" target="_blank" rel="noopener noreferrer nofollow">https://www.aft.org/ae/spring2006/willingham_sb</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Knowledge in the ClassroomKnowledge in the Classroom. By Daniel T. Willingham. One sometimes hears that the real goal of education is &quot;le...</p></details>
+   Link:<a href="https://www.aft.org/ae/spring2006/willingham_sb" target="_blank" rel="noopener noreferrer nofollow">https://www.aft.org/ae/spring2006/willingham_sb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Knowledge in the ClassroomKnowledge in the Classroom. By Daniel T. Willingham. One sometimes hears that the real goal of education is &quot;le...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: tandfonline.com  
    Title: What's Up With Words?  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/02702711.2023.2253249" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/02702711.2023.2253249</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Systematic Review of Designs...by CK Black · 2024 · Cited by 27 — Both psycholinguistic and schema theories emphasize the role of lea...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/02702711.2023.2253249" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/02702711.2023.2253249</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Systematic Review of Designs...by CK Black · 2024 · Cited by 27 — Both psycholinguistic and schema theories emphasize the role of lea...</p></details>
 
 ### Additional References
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/topics/background-knowledge/articles/building-background-knowledge" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/background-knowledge/articles/building-background-knowledge</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Building Background KnowledgeThis article offers practical classroom strategies to build background knowledge such as using contrasts and...</p></details>
+   Link:<a href="https://www.readingrockets.org/topics/background-knowledge/articles/building-background-knowledge" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/background-knowledge/articles/building-background-knowledge</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Building Background KnowledgeThis article offers practical classroom strategies to build background knowledge such as using contrasts and...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/inspired-ideas-prek-12/how-knowledge-supports-reading-comprehension-a4069a4f1541" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/inspired-ideas-prek-12/how-knowledge-supports-reading-comprehension-a4069a4f1541</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Knowledge Supports Reading ComprehensionExperts argue that if students have some knowledge about the contents of a text before they r...</p></details>
+   Link:<a href="https://medium.com/inspired-ideas-prek-12/how-knowledge-supports-reading-comprehension-a4069a4f1541" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/inspired-ideas-prek-12/how-knowledge-supports-reading-comprehension-a4069a4f1541</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Knowledge Supports Reading ComprehensionExperts argue that if students have some knowledge about the contents of a text before they r...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Rockets: Launching Young ReadersReading Rockets offers a rich library of evidence-based classroom strategies to help young childr...</p></details>
+   Link:<a href="https://www.readingrockets.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Rockets: Launching Young ReadersReading Rockets offers a rich library of evidence-based classroom strategies to help young childr...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: thereadingleague.org  
-   Link: <a href="https://www.thereadingleague.org/what-is-the-science-of-reading/" target="_blank" rel="noopener noreferrer nofollow">https://www.thereadingleague.org/what-is-the-science-of-reading/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is the Science of ReadingThe science of reading is a vast, interdisciplinary body of scientifically-based research about reading and...</p></details>
+   Link:<a href="https://www.thereadingleague.org/what-is-the-science-of-reading/" target="_blank" rel="noopener noreferrer nofollow">https://www.thereadingleague.org/what-is-the-science-of-reading/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is the Science of ReadingThe science of reading is a vast, interdisciplinary body of scientifically-based research about reading and...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: amplify.com  
-   Link: <a href="https://amplify.com/episode/science-of-reading-the-podcast/season-9/special-episode-unlocking-reading-comprehension-strategies-vs-knowledge-building-with-daniel-willingham-ph-d/" target="_blank" rel="noopener noreferrer nofollow">https://amplify.com/episode/science-of-reading-the-podcast/season-9/special-episode-unlocking-reading-comprehension-strategies-vs-knowledge-building-with-daniel-willingham-ph-d/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unlocking reading: Comprehension strategies vs....Jun 18, 2025 — Hear Daniel Willingham discuss the research behind developing reading s...</p></details>
+   Link:<a href="https://amplify.com/episode/science-of-reading-the-podcast/season-9/special-episode-unlocking-reading-comprehension-strategies-vs-knowledge-building-with-daniel-willingham-ph-d/" target="_blank" rel="noopener noreferrer nofollow">https://amplify.com/episode/science-of-reading-the-podcast/season-9/special-episode-unlocking-reading-comprehension-strategies-vs-knowledge-building-with-daniel-willingham-ph-d/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unlocking reading: Comprehension strategies vs....Jun 18, 2025 — Hear Daniel Willingham discuss the research behind developing reading s...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: gssrjournal.com  
-   Link: <a href="https://www.gssrjournal.com/article/unlocking-the-power-of-schema-theory-based-prereading-activities-enhancing-reading-comprehension-at-the-intermediate-level" target="_blank" rel="noopener noreferrer nofollow">https://www.gssrjournal.com/article/unlocking-the-power-of-schema-theory-based-prereading-activities-enhancing-reading-comprehension-at-the-intermediate-level</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The study evaluated the efficacy of schema theory-based pre-reading activities in enhancing intermediate-level reading comprehension.Read...</p></details>
+   Link:<a href="https://www.gssrjournal.com/article/unlocking-the-power-of-schema-theory-based-prereading-activities-enhancing-reading-comprehension-at-the-intermediate-level" target="_blank" rel="noopener noreferrer nofollow">https://www.gssrjournal.com/article/unlocking-the-power-of-schema-theory-based-prereading-activities-enhancing-reading-comprehension-at-the-intermediate-level</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The study evaluated the efficacy of schema theory-based pre-reading activities in enhancing intermediate-level reading comprehension.Read...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: readingeggs.com  
-   Link: <a href="https://readingeggs.com/" target="_blank" rel="noopener noreferrer nofollow">https://readingeggs.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Eggs makes learning to read interesting and engaging for kids, with great online reading games and activities.Read more...</p></details>
+   Link:<a href="https://readingeggs.com/" target="_blank" rel="noopener noreferrer nofollow">https://readingeggs.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Eggs makes learning to read interesting and engaging for kids, with great online reading games and activities.Read more...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: educationendowmentfoundation.org.uk  
    Title: eef blog reading comprehension strategies for building background knowledge  
-   Link: <a href="https://educationendowmentfoundation.org.uk/news/eef-blog-reading-comprehension-strategies-for-building-background-knowledge" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/eef-blog-reading-comprehension-strategies-for-building-background-knowledge</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EEF blog: Reading Comprehension: Strategies for building…8 Jun 2023 — Professor Dan Willingham suggests that teaching our pupils strategi...</p></details>
+   Link:<a href="https://educationendowmentfoundation.org.uk/news/eef-blog-reading-comprehension-strategies-for-building-background-knowledge" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/eef-blog-reading-comprehension-strategies-for-building-background-knowledge</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EEF blog: Reading Comprehension: Strategies for building…8 Jun 2023 — Professor Dan Willingham suggests that teaching our pupils strategi...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: knowledgematterscampaign.org  
-   Link: <a href="https://knowledgematterscampaign.org/wp-content/uploads/2016/05/Willingham-brief.pdf" target="_blank" rel="noopener noreferrer nofollow">https://knowledgematterscampaign.org/wp-content/uploads/2016/05/Willingham-brief.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Classroom,” which Willingham wrote for the spring 2006 issue of American Educator. Knowledge Matters Pg. 7 www...Read more...</p></details>
+   Link:<a href="https://knowledgematterscampaign.org/wp-content/uploads/2016/05/Willingham-brief.pdf" target="_blank" rel="noopener noreferrer nofollow">https://knowledgematterscampaign.org/wp-content/uploads/2016/05/Willingham-brief.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Classroom,” which Willingham wrote for the spring 2006 issue of American Educator. Knowledge Matters Pg. 7 www...Read more...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: greatminds.org  
    Title: the science of reading what is prior knowledge and why is it important  
-   Link: <a href="https://greatminds.org/english/blog/witwisdom/the-science-of-reading-what-is-prior-knowledge-and-why-is-it-important" target="_blank" rel="noopener noreferrer nofollow">https://greatminds.org/english/blog/witwisdom/the-science-of-reading-what-is-prior-knowledge-and-why-is-it-important</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Reading: What is prior knowledge and why...24 Feb 2022 — Numerous studies show that background knowledge affects students...</p></details>
+   Link:<a href="https://greatminds.org/english/blog/witwisdom/the-science-of-reading-what-is-prior-knowledge-and-why-is-it-important" target="_blank" rel="noopener noreferrer nofollow">https://greatminds.org/english/blog/witwisdom/the-science-of-reading-what-is-prior-knowledge-and-why-is-it-important</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Reading: What is prior knowledge and why...24 Feb 2022 — Numerous studies show that background knowledge affects students...</p></details>

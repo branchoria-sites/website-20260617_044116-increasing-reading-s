@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /increasing-re-852ca6-dense-materia/
 description: Focused pages that expand on Dense Texts.
-date: '2026-06-16'
+date: '2026'
 layout: default
 parent_basename: increasing_re_852ca6_dense_materia_3cc00e
 parent_title: Dense Texts
@@ -16,7 +16,7 @@ parent_permalink: /dense-texts/
 
 # Explore Topics in Dense Texts
 
-The following pages expand on the main **[Dense Texts]({{ '/dense-texts/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Dense Texts]({{ '/dense-texts/' | relative_url }})** page and cover its key branches in.
 
 - [Expertise]({{ '/expertise/' | relative_url }})
 - [Legalese]({{ '/legalese/' | relative_url }})

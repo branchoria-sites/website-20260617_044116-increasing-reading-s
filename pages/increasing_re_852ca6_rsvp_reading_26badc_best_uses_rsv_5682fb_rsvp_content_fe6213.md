@@ -275,11 +275,11 @@ image: /assets/images/increasing_re_852ca6_rsvp_reading_26badc_best_uses_rsv_568
 
 ## Introduction
 
-Many people do not need to read faster so much as decide faster. Inboxes, newsletters, news alerts, internal updates, and daily headlines can easily exceed the amount of content that can be read carefully in a day. In this context, Rapid Serial Visual Presentation (RSVP) is often most valuable as a filtering tool rather than a deep-reading tool. Research suggests that RSVP can maintain comprehension reasonably well for short texts at moderate speeds, making it useful for identifying the [purpose]({{ 'purpose/' | relative_url }}), urgency, and relevance of messages before deciding whether they deserve closer attention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/307946947_Exploring_the_Effects_of_Text_Length_and_Difficulty_on_RSVP_Reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Exploring the Effects of Text Length and Difficulty on RSVP</span><span class="citation-popover-snippet">Exploring the Effects of Text Length and Difficulty on RSVP...September 1, 2016 — 9 Feb 2026 — In line with previous studies...</span><span class="citation-popover-meta">Published: September 1, 2016</span></span></span>
+Many people do not need to read faster so much as decide faster. Inboxes, newsletters, news alerts, internal updates, and daily headlines can easily exceed the amount of content that can be read carefully in a day. In this context, Rapid Serial Visual Presentation (RSVP) is often most valuable as a filtering tool rather than a deep-reading tool. Research suggests that RSVP can maintain comprehension reasonably well for short texts at moderate speeds, making it useful for identifying the [purpose]({{ 'purpose/' | relative_url }}), urgency, and relevance of messages before deciding whether they deserve closer attention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/307946947_Exploring_the_Effects_of_Text_Length_and_Difficulty_on_RSVP_Reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Exploring the Effects of Text Length and Difficulty on RSVP</span><span class="citation-popover-snippet">Exploring the Effects of Text Length and Difficulty on RSVP...September 1, 2016 — 9 Feb 2026 — In line with previous studies...</span><span class="citation-popover-meta">Published: September 1, 2016</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_rsvp_reading_26badc_best_uses_rsv_5682fb_rsvp_content_fe6213-Illustration-1-dark.svg" | relative_url }}" alt="Content Triage illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_rsvp_reading_26badc_best_uses_rsv_5682fb_rsvp_content_fe6213-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_rsvp_reading_26badc_best_uses_rsv_5682fb_rsvp_content_fe6213-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction matters. The strongest practical use case for RSVP is not reading every article at extreme speed. It is rapidly sorting information into categories such as “read now”, “save for later”, “ignore”, or “requires action”. When used that way, RSVP can help reduce information overload without demanding that every piece of content be fully understood on the first pass. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/307946947_Exploring_the_Effects_of_Text_Length_and_Difficulty_on_RSVP_Reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Exploring the Effects of Text Length and Difficulty on RSVP</span><span class="citation-popover-snippet">Exploring the Effects of Text Length and Difficulty on RSVP...September 1, 2016 — 9 Feb 2026 — In line with previous studies...</span><span class="citation-popover-meta">Published: September 1, 2016</span></span></span>
+This distinction matters. The strongest practical use case for RSVP is not reading every article at extreme speed. It is rapidly sorting information into categories such as “read now”, “save for later”, “ignore”, or “requires action”. When used that way, RSVP can help reduce information overload without demanding that every piece of content be fully understood on the first pass.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/307946947_Exploring_the_Effects_of_Text_Length_and_Difficulty_on_RSVP_Reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Exploring the Effects of Text Length and Difficulty on RSVP</span><span class="citation-popover-snippet">Exploring the Effects of Text Length and Difficulty on RSVP...September 1, 2016 — 9 Feb 2026 — In line with previous studies...</span><span class="citation-popover-meta">Published: September 1, 2016</span></span></span>
 
 ## Which Short Content Works Best?
 
@@ -300,9 +300,9 @@ Examples include:
 
 </div>
 
-Research examining RSVP and text length has repeatedly found that the technique is better suited to shorter material than to lengthy documents. Studies comparing RSVP with conventional text presentation found little difference in comprehension at normal reading speeds for shorter passages, while longer texts create greater cognitive demands because readers cannot easily revisit earlier sections. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/307946947_Exploring_the_Effects_of_Text_Length_and_Difficulty_on_RSVP_Reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Exploring the Effects of Text Length and Difficulty on RSVP</span><span class="citation-popover-snippet">Exploring the Effects of Text Length and Difficulty on RSVP...September 1, 2016 — 9 Feb 2026 — In line with previous studies...</span><span class="citation-popover-meta">Published: September 1, 2016</span></span></span>
+Research examining RSVP and text length has repeatedly found that the technique is better suited to shorter material than to lengthy documents. Studies comparing RSVP with conventional text presentation found little difference in comprehension at normal reading speeds for shorter passages, while longer texts create greater cognitive demands because readers cannot easily revisit earlier sections.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/307946947_Exploring_the_Effects_of_Text_Length_and_Difficulty_on_RSVP_Reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Exploring the Effects of Text Length and Difficulty on RSVP</span><span class="citation-popover-snippet">Exploring the Effects of Text Length and Difficulty on RSVP...September 1, 2016 — 9 Feb 2026 — In line with previous studies...</span><span class="citation-popover-meta">Published: September 1, 2016</span></span></span>
 
-Small-screen environments strengthen this advantage. RSVP was investigated for smart watches and notification displays partly because it allows information to be consumed without scrolling or line tracking. For a user checking updates while commuting or between meetings, the ability to process short messages rapidly can be more valuable than maximising comprehension of every sentence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pure.mpg.de/rest/items/item_2567078_1/component/file_2567077/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.mpg.de">[MPG.PuRe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.mpg.de</span><span class="citation-popover-snippet">Subjective data indicate that Traditional is...Read more...</span></span></span>
+Small-screen environments strengthen this advantage. RSVP was investigated for smart watches and notification displays partly because it allows information to be consumed without scrolling or line tracking. For a user checking updates while commuting or between meetings, the ability to process short messages rapidly can be more valuable than maximising comprehension of every sentence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pure.mpg.de/rest/items/item_2567078_1/component/file_2567077/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.mpg.de">[MPG.PuRe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.mpg.de</span><span class="citation-popover-snippet">Subjective data indicate that Traditional is...Read more...</span></span></span>
 
 A useful rule is that RSVP performs best when the key question is: “What is this about?” rather than “What does every detail mean?”
 
@@ -354,7 +354,7 @@ A practical strategy is:
 
 </div>
 
-This mirrors how experienced researchers and analysts often approach large information flows. The objective is not to master every document immediately but to prioritise limited attention. Information triage becomes more important as content volume increases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://erickimphotography.com/the-landscape-of-fast-reading-science-technology-education-and-field-applications/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: erickimphotography.com">[ERIC KIM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">erickimphotography.com</span><span class="citation-popover-snippet">Speed reading in academia is thus a means of triage and prioritization in the face of information overload.Read more...</span></span></span>
+This mirrors how experienced researchers and analysts often approach large information flows. The objective is not to master every document immediately but to prioritise limited attention. Information triage becomes more important as content volume increases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://erickimphotography.com/the-landscape-of-fast-reading-science-technology-education-and-field-applications/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: erickimphotography.com">[ERIC KIM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">erickimphotography.com</span><span class="citation-popover-snippet">Speed reading in academia is thus a means of triage and prioritization in the face of information overload.Read more...</span></span></span>
 
 For example, someone following technology, finance, politics, and industry news may encounter hundreds of articles weekly. Most can be classified quickly as:
 
@@ -363,7 +363,7 @@ For example, someone following technology, finance, politics, and industry news 
 * Useful [background]({{ 'expertise/' | relative_url }}).
 * Requires detailed reading.
 
-RSVP can speed up this classification process by presenting the essential text rapidly while maintaining enough comprehension to support a decision. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/307946947_Exploring_the_Effects_of_Text_Length_and_Difficulty_on_RSVP_Reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Exploring the Effects of Text Length and Difficulty on RSVP</span><span class="citation-popover-snippet">Exploring the Effects of Text Length and Difficulty on RSVP...September 1, 2016 — 9 Feb 2026 — In line with previous studies...</span><span class="citation-popover-meta">Published: September 1, 2016</span></span></span>
+RSVP can speed up this classification process by presenting the essential text rapidly while maintaining enough comprehension to support a decision.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/307946947_Exploring_the_Effects_of_Text_Length_and_Difficulty_on_RSVP_Reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Exploring the Effects of Text Length and Difficulty on RSVP</span><span class="citation-popover-snippet">Exploring the Effects of Text Length and Difficulty on RSVP...September 1, 2016 — 9 Feb 2026 — In line with previous studies...</span><span class="citation-popover-meta">Published: September 1, 2016</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_rsvp_reading_26badc_best_uses_rsv_5682fb_rsvp_content_fe6213-Illustration-2-dark.svg" | relative_url }}" alt="Content Triage illustration 2" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_rsvp_reading_26badc_best_uses_rsv_5682fb_rsvp_content_fe6213-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_rsvp_reading_26badc_best_uses_rsv_5682fb_rsvp_content_fe6213-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -383,7 +383,7 @@ RSVP can reveal that action is needed, but [careful reading]({{ 'careful-reading
 
 Long investigations, [technical]({{ 'technical-texts/' | relative_url }}) reports, legal documents, research papers, and nuanced opinion pieces generally benefit from traditional reading.
 
-These texts often require comparison of ideas across paragraphs, reflection on evidence, and occasional rereading. RSVP limits those behaviours. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://today.ucsd.edu/story/dont_believe_what_you_read_only_once_speed_reading_apps_may_impair_reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: today.ucsd.edu">[UC San Diego Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">today.ucsd.edu</span><span class="citation-popover-title">dont believe what you read only once speed reading apps may impair reading</span><span class="citation-popover-snippet">UC San Diego TodaySpeed-Reading Apps May Impair Reading Comprehension22 Apr 2014 — “Our findings show that eye movements are a crucial pa...</span></span></span>
+These texts often require comparison of ideas across paragraphs, reflection on evidence, and occasional rereading. RSVP limits those behaviours.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://today.ucsd.edu/story/dont_believe_what_you_read_only_once_speed_reading_apps_may_impair_reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: today.ucsd.edu">[UC San Diego Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">today.ucsd.edu</span><span class="citation-popover-title">dont believe what you read only once speed reading apps may impair reading</span><span class="citation-popover-snippet">UC San Diego TodaySpeed-Reading Apps May Impair Reading Comprehension22 Apr 2014 — “Our findings show that eye movements are a crucial pa...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sYIDxH9KBaE" title="Spritz: Teaching the world to speed read" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sYIDxH9KBaE" target="_blank" rel="noopener noreferrer">Spritz: Teaching the world to speed read</a></p><p class="youtube-embed-meta">Channel: CBS News &middot; Views: 1.4K &middot; Uploaded: March 2014 &middot; Length: 1 minute 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sYIDxH9KBaE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sYIDxH9KBaE">Open on YouTube</a></p></div></div></div>
@@ -392,7 +392,7 @@ These texts often require comparison of ideas across paragraphs, reflection on e
 
 Some content only needs recognition in the moment. Other content must be remembered accurately days or weeks later.
 
-If future recall matters, slowing down and reading conventionally is often the better choice. Research examining RSVP at higher presentation speeds has found that comprehension and memory can suffer as reading rates increase. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/29461715/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Tom Stafford Substack]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Modern Speed-Reading Apps Do Not Foster...by D Acklin · 2017 · Cited by 25 — The current study explored variables that may affect...</span></span></span>
+If future recall matters, slowing down and reading conventionally is often the better choice. Research examining RSVP at higher presentation speeds has found that comprehension and memory can suffer as reading rates increase.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/29461715/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Tom Stafford Substack]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Modern Speed-Reading Apps Do Not Foster...by D Acklin · 2017 · Cited by 25 — The current study explored variables that may affect...</span></span></span>
 
 ## Common Mistakes When Filtering Quickly
 
@@ -400,7 +400,7 @@ The biggest errors occur when users confuse triage with understanding.
 
 ### Treating Every Article as a Candidate for Speed Reading
 
-RSVP is strongest as a screening tool. Using it for all reading can create problems because readers lose the ability to jump backwards, compare sections, and review confusing passages. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://today.ucsd.edu/story/dont_believe_what_you_read_only_once_speed_reading_apps_may_impair_reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: today.ucsd.edu">[UC San Diego Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">today.ucsd.edu</span><span class="citation-popover-title">dont believe what you read only once speed reading apps may impair reading</span><span class="citation-popover-snippet">UC San Diego TodaySpeed-Reading Apps May Impair Reading Comprehension22 Apr 2014 — “Our findings show that eye movements are a crucial pa...</span></span></span>
+RSVP is strongest as a screening tool. Using it for all reading can create problems because readers lose the ability to jump backwards, compare sections, and review confusing passages.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://today.ucsd.edu/story/dont_believe_what_you_read_only_once_speed_reading_apps_may_impair_reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: today.ucsd.edu">[UC San Diego Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">today.ucsd.edu</span><span class="citation-popover-title">dont believe what you read only once speed reading apps may impair reading</span><span class="citation-popover-snippet">UC San Diego TodaySpeed-Reading Apps May Impair Reading Comprehension22 Apr 2014 — “Our findings show that eye movements are a crucial pa...</span></span></span>
 
 An investigative article, research paper, or strategic report usually requires more than rapid [exposure]({{ 'exposure/' | relative_url }}) to words.
 
@@ -408,7 +408,7 @@ An investigative article, research paper, or strategic report usually requires m
 <img src="{{ "/assets/images/increasing_re_852ca6_rsvp_reading_26badc_best_uses_rsv_5682fb_rsvp_content_fe6213-Illustration-3-dark.svg" | relative_url }}" alt="Content Triage illustration 3" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_rsvp_reading_26badc_best_uses_rsv_5682fb_rsvp_content_fe6213-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_rsvp_reading_26badc_best_uses_rsv_5682fb_rsvp_content_fe6213-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Running the Speed Too High
 
-Many commercial apps advertise very high words-per-minute rates. However, research consistently finds that comprehension becomes more difficult as speed increases, especially for challenging material. Moderate settings are generally more effective for triage than extreme settings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/29461715/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Tom Stafford Substack]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Modern Speed-Reading Apps Do Not Foster...by D Acklin · 2017 · Cited by 25 — The current study explored variables that may affect...</span></span></span>
+Many commercial apps advertise very high words-per-minute rates. However, research consistently finds that comprehension becomes more difficult as speed increases, especially for challenging material. Moderate settings are generally more effective for triage than extreme settings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/29461715/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Tom Stafford Substack]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Modern Speed-Reading Apps Do Not Foster...by D Acklin · 2017 · Cited by 25 — The current study explored variables that may affect...</span></span></span>
 
 For email and news filtering, the goal is accurate categorisation, not record-breaking speed.
 
@@ -416,180 +416,180 @@ For email and news filtering, the goal is accurate categorisation, not record-br
 
 One advantage of conventional reading is the ability to pause naturally when something becomes difficult.
 
-When using RSVP, readers should deliberately stop if they notice uncertainty. Continuing at speed through confusing content often creates an illusion of understanding rather than genuine comprehension. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://today.ucsd.edu/story/dont_believe_what_you_read_only_once_speed_reading_apps_may_impair_reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: today.ucsd.edu">[UC San Diego Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">today.ucsd.edu</span><span class="citation-popover-title">dont believe what you read only once speed reading apps may impair reading</span><span class="citation-popover-snippet">UC San Diego TodaySpeed-Reading Apps May Impair Reading Comprehension22 Apr 2014 — “Our findings show that eye movements are a crucial pa...</span></span></span>
+When using RSVP, readers should deliberately stop if they notice uncertainty. Continuing at speed through confusing content often creates an illusion of understanding rather than genuine comprehension.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://today.ucsd.edu/story/dont_believe_what_you_read_only_once_speed_reading_apps_may_impair_reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: today.ucsd.edu">[UC San Diego Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">today.ucsd.edu</span><span class="citation-popover-title">dont believe what you read only once speed reading apps may impair reading</span><span class="citation-popover-snippet">UC San Diego TodaySpeed-Reading Apps May Impair Reading Comprehension22 Apr 2014 — “Our findings show that eye movements are a crucial pa...</span></span></span>
 
 ### Using RSVP for Content That Requires Comparison
 
 Many news stories and professional communications require comparing numbers, dates, names, or multiple viewpoints.
 
-Because RSVP presents information sequentially, it can make these comparisons harder. When cross-referencing becomes important, conventional reading is usually the better choice. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/270650767_Rapid_serial_visual_presentation_in_reading_The_case_of_Spritz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Rapid serial visual presentation in reading: The case of Spritz</span><span class="citation-popover-snippet">RSVP is not better than traditional reading for increasing reading speed or comprehension.Read more...</span></span></span>
+Because RSVP presents information sequentially, it can make these comparisons harder. When cross-referencing becomes important, conventional reading is usually the better choice.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/270650767_Rapid_serial_visual_presentation_in_reading_The_case_of_Spritz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Rapid serial visual presentation in reading: The case of Spritz</span><span class="citation-popover-snippet">RSVP is not better than traditional reading for increasing reading speed or comprehension.Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cTHl99zsrPs" title="Focus your reading with Readwise Reader filtered views" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cTHl99zsrPs" target="_blank" rel="noopener noreferrer">Focus your reading with Readwise Reader filtered views</a></p><p class="youtube-embed-meta">Channel: Effective</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cTHl99zsrPs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cTHl99zsrPs">Open on YouTube</a></p></div></div></div>
 
 ## Where RSVP Delivers the Most Value
 
-The evidence does not support the idea that RSVP transforms people into universally faster readers. What it does support is a narrower and more practical benefit: helping readers process large volumes of short content efficiently. For inboxes, newsletters, notifications, and news summaries, RSVP can accelerate the decision-making process that determines what deserves attention and what can safely be ignored. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/307946947_Exploring_the_Effects_of_Text_Length_and_Difficulty_on_RSVP_Reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Exploring the Effects of Text Length and Difficulty on RSVP</span><span class="citation-popover-snippet">Exploring the Effects of Text Length and Difficulty on RSVP...September 1, 2016 — 9 Feb 2026 — In line with previous studies...</span><span class="citation-popover-meta">Published: September 1, 2016</span></span></span>
+The evidence does not support the idea that RSVP transforms people into universally faster readers. What it does support is a narrower and more practical benefit: helping readers process large volumes of short content efficiently. For inboxes, newsletters, notifications, and news summaries, RSVP can accelerate the decision-making process that determines what deserves attention and what can safely be ignored.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/307946947_Exploring_the_Effects_of_Text_Length_and_Difficulty_on_RSVP_Reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Exploring the Effects of Text Length and Difficulty on RSVP</span><span class="citation-popover-snippet">Exploring the Effects of Text Length and Difficulty on RSVP...September 1, 2016 — 9 Feb 2026 — In line with previous studies...</span><span class="citation-popover-meta">Published: September 1, 2016</span></span></span>
 
-Used this way, RSVP becomes less a [speed-reading]({{ 'myths/' | relative_url }}) system and more an attention-management tool. Its greatest strength is not replacing careful reading, but protecting careful reading for the information that truly warrants it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://erickimphotography.com/the-landscape-of-fast-reading-science-technology-education-and-field-applications/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: erickimphotography.com">[ERIC KIM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">erickimphotography.com</span><span class="citation-popover-snippet">Speed reading in academia is thus a means of triage and prioritization in the face of information overload.Read more...</span></span></span>
+Used this way, RSVP becomes less a [speed-reading]({{ 'myths/' | relative_url }}) system and more an attention-management tool. Its greatest strength is not replacing careful reading, but protecting careful reading for the information that truly warrants it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://erickimphotography.com/the-landscape-of-fast-reading-science-technology-education-and-field-applications/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: erickimphotography.com">[ERIC KIM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">erickimphotography.com</span><span class="citation-popover-snippet">Speed reading in academia is thus a means of triage and prioritization in the face of information overload.Read more...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can RSVP Help You Clear Information Overload Faster?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can RSVP Help You Clear Information Overload Faster?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Organized+Mind+by+Daniel+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Organized Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=F78cBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Organized Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Organized+Mind+by+Daniel+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Organized Mind">The Organized Mind</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Levitin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Organized+Mind+by+Daniel+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Organized Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=F78cBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Organized Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Organized+Mind+by+Daniel+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Organized Mind">The Organized Mind</a>
+</h4>
+<p class="fr-book-author">By Daniel Levitin</p>
         
-        <p class="fr-book-desc">Matches the article&#x27;s core theme of filtering, prioritizing, and managing large volumes of incoming information.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Organized+Mind+by+Daniel+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches the article&#x27;s core theme of filtering, prioritizing, and managing large volumes of incoming information.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Organized+Mind+by+Daniel+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Fits the article&#x27;s theme of choosing the right reading method for the task rather than blindly maximizing speed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Fits the article&#x27;s theme of choosing the right reading method for the task rather than blindly maximizing speed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Work on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lZpFCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Work" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Work">Deep Work</a>
-        </h4>
-        <p class="fr-book-author">By Cal Newport</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Work on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lZpFCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Work" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Work">Deep Work</a>
+</h4>
+<p class="fr-book-author">By Cal Newport</p>
         
-        <p class="fr-book-desc">Helps readers decide what deserves sustained attention after rapid filtering and triage.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers decide what deserves sustained attention after rapid filtering and triage.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Shallows+by+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Shallows on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1KayoVl3OTMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Shallows" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Shallows+by+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Shallows">The Shallows</a>
-        </h4>
-        <p class="fr-book-author">By Nicholas Carr</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Shallows+by+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Shallows on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1KayoVl3OTMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Shallows" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Shallows+by+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Shallows">The Shallows</a>
+</h4>
+<p class="fr-book-author">By Nicholas Carr</p>
         
-        <p class="fr-book-desc">Provides broader context on how online information consumption affects reading, comprehension, and focus.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Shallows+by+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader context on how online information consumption affects reading, comprehension, and focus.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Shallows+by+Nicholas+Carr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Organized+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Organized Mind</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Work&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Work</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Organized+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Organized Mind</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Work&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Work</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=e+reader+cover&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=content-triage-can-rsvp-help-you-clear-information-overload-faster-increasing-e-reader-cover&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="e reader cover" data-ebay-reference="content-triage-can-rsvp-help-you-clear-information-overload-faster-increasing-e-reader-cover" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for For Amazon Kindle 10th Gen 2019 6&quot; e-Reader Leather Smart Case Cover UK"><img src="{{ '/assets/images/marketplace-covers/353f5b17d7f49eef1697.jpg' | relative_url }}" alt="Listing image for For Amazon Kindle 10th Gen 2019 6&quot; e-Reader Leather Smart Case Cover UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=e+reader+cover&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=content-triage-can-rsvp-help-you-clear-information-overload-faster-increasing-e-reader-cover&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="e reader cover" data-ebay-reference="content-triage-can-rsvp-help-you-clear-information-overload-faster-increasing-e-reader-cover" target="_blank" rel="sponsored noopener noreferrer">For Amazon Kindle 10th Gen 2019 6&quot; e-Reader Leather Smart Case Cover UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=e+reader+cover&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=content-triage-can-rsvp-help-you-clear-information-overload-faster-increasing-e-reader-cover&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="e reader cover" data-ebay-reference="content-triage-can-rsvp-help-you-clear-information-overload-faster-increasing-e-reader-cover" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for e reader cover">Search <span data-ebay-domain-label>eBay.co.uk</span>: e reader cover</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=e+reader+cover&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=content-triage-can-rsvp-help-you-clear-information-overload-faster-increasing-e-reader-cover&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="e reader cover" data-ebay-reference="content-triage-can-rsvp-help-you-clear-information-overload-faster-increasing-e-reader-cover" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=e+reader+cover&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=content-triage-can-rsvp-help-you-clear-information-overload-faster-increasing-e-reader-cover&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="e reader cover" data-ebay-reference="content-triage-can-rsvp-help-you-clear-information-overload-faster-increasing-e-reader-cover" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for For Amazon Kindle 10th Gen 2019 6&quot; e-Reader Leather Smart Case Cover UK"><img src="{{ '/assets/images/marketplace-covers/353f5b17d7f49eef1697.jpg' | relative_url }}" alt="Listing image for For Amazon Kindle 10th Gen 2019 6&quot; e-Reader Leather Smart Case Cover UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=e+reader+cover&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=content-triage-can-rsvp-help-you-clear-information-overload-faster-increasing-e-reader-cover&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="e reader cover" data-ebay-reference="content-triage-can-rsvp-help-you-clear-information-overload-faster-increasing-e-reader-cover" target="_blank" rel="sponsored noopener noreferrer">For Amazon Kindle 10th Gen 2019 6&quot; e-Reader Leather Smart Case Cover UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=e+reader+cover&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=content-triage-can-rsvp-help-you-clear-information-overload-faster-increasing-e-reader-cover&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="e reader cover" data-ebay-reference="content-triage-can-rsvp-help-you-clear-information-overload-faster-increasing-e-reader-cover" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for e reader cover">Search<span data-ebay-domain-label>eBay.co.uk</span>: e reader cover</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=e+reader+cover&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=content-triage-can-rsvp-help-you-clear-information-overload-faster-increasing-e-reader-cover&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="e reader cover" data-ebay-reference="content-triage-can-rsvp-help-you-clear-information-overload-faster-increasing-e-reader-cover" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=e+reader+cover&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=content-triage-can-rsvp-help-you-clear-information-overload-faster-increasing-e-reader-cover&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="e reader cover" data-ebay-reference="content-triage-can-rsvp-help-you-clear-information-overload-faster-increasing-e-reader-cover" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6 6.8 7 inch e-Reader Case Folio Cover Protective Shell Smart Funda For Kindle"><img src="{{ '/assets/images/marketplace-covers/cbf5da97c44c8791f0ba.jpg' | relative_url }}" alt="Listing image for 6 6.8 7 inch e-Reader Case Folio Cover Protective Shell Smart Funda For Kindle" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=e+reader+cover&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=content-triage-can-rsvp-help-you-clear-information-overload-faster-increasing-e-reader-cover&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="e reader cover" data-ebay-reference="content-triage-can-rsvp-help-you-clear-information-overload-faster-increasing-e-reader-cover" target="_blank" rel="sponsored noopener noreferrer">6 6.8 7 inch e-Reader Case Folio Cover Protective Shell Smart Funda For Kindle</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=e+reader+cover&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=content-triage-can-rsvp-help-you-clear-information-overload-faster-increasing-e-reader-cover&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="e reader cover" data-ebay-reference="content-triage-can-rsvp-help-you-clear-information-overload-faster-increasing-e-reader-cover" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for e reader cover">Search <span data-ebay-domain-label>eBay.co.uk</span>: e reader cover</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=e+reader+cover&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=content-triage-can-rsvp-help-you-clear-information-overload-faster-increasing-e-reader-cover&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="e reader cover" data-ebay-reference="content-triage-can-rsvp-help-you-clear-information-overload-faster-increasing-e-reader-cover" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=e+reader+cover&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=content-triage-can-rsvp-help-you-clear-information-overload-faster-increasing-e-reader-cover&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="e reader cover" data-ebay-reference="content-triage-can-rsvp-help-you-clear-information-overload-faster-increasing-e-reader-cover" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=e+reader+cover&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=content-triage-can-rsvp-help-you-clear-information-overload-faster-increasing-e-reader-cover&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="e reader cover" data-ebay-reference="content-triage-can-rsvp-help-you-clear-information-overload-faster-increasing-e-reader-cover" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6 6.8 7 inch e-Reader Case Folio Cover Protective Shell Smart Funda For Kindle"><img src="{{ '/assets/images/marketplace-covers/cbf5da97c44c8791f0ba.jpg' | relative_url }}" alt="Listing image for 6 6.8 7 inch e-Reader Case Folio Cover Protective Shell Smart Funda For Kindle" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=e+reader+cover&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=content-triage-can-rsvp-help-you-clear-information-overload-faster-increasing-e-reader-cover&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="e reader cover" data-ebay-reference="content-triage-can-rsvp-help-you-clear-information-overload-faster-increasing-e-reader-cover" target="_blank" rel="sponsored noopener noreferrer">6 6.8 7 inch e-Reader Case Folio Cover Protective Shell Smart Funda For Kindle</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=e+reader+cover&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=content-triage-can-rsvp-help-you-clear-information-overload-faster-increasing-e-reader-cover&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="e reader cover" data-ebay-reference="content-triage-can-rsvp-help-you-clear-information-overload-faster-increasing-e-reader-cover" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for e reader cover">Search<span data-ebay-domain-label>eBay.co.uk</span>: e reader cover</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=e+reader+cover&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=content-triage-can-rsvp-help-you-clear-information-overload-faster-increasing-e-reader-cover&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="e reader cover" data-ebay-reference="content-triage-can-rsvp-help-you-clear-information-overload-faster-increasing-e-reader-cover" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=e+reader+cover&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=content-triage-can-rsvp-help-you-clear-information-overload-faster-increasing-e-reader-cover&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="e reader cover" data-ebay-reference="content-triage-can-rsvp-help-you-clear-information-overload-faster-increasing-e-reader-cover" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -605,7 +605,7 @@ Used this way, RSVP becomes less a [speed-reading]({{ 'myths/' | relative_url }}
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -625,7 +625,7 @@ Used this way, RSVP becomes less a [speed-reading]({{ 'myths/' | relative_url }}
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -657,7 +657,7 @@ Used this way, RSVP becomes less a [speed-reading]({{ 'myths/' | relative_url }}
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -709,7 +709,7 @@ Used this way, RSVP becomes less a [speed-reading]({{ 'myths/' | relative_url }}
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -754,7 +754,7 @@ Used this way, RSVP becomes less a [speed-reading]({{ 'myths/' | relative_url }}
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -795,101 +795,101 @@ Used this way, RSVP becomes less a [speed-reading]({{ 'myths/' | relative_url }}
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: researchgate.net  
    Title: Research Gate Exploring the Effects of Text Length and Difficulty on RSVP  
-   Link: <a href="https://www.researchgate.net/publication/307946947_Exploring_the_Effects_of_Text_Length_and_Difficulty_on_RSVP_Reading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/307946947_Exploring_the_Effects_of_Text_Length_and_Difficulty_on_RSVP_Reading</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the Effects of Text Length and Difficulty on RSVP...September 1, 2016 — 9 Feb 2026 — In line with previous studies...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/307946947_Exploring_the_Effects_of_Text_Length_and_Difficulty_on_RSVP_Reading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/307946947_Exploring_the_Effects_of_Text_Length_and_Difficulty_on_RSVP_Reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the Effects of Text Length and Difficulty on RSVP...September 1, 2016 — 9 Feb 2026 — In line with previous studies...</p></details>
    Published: September 1, 2016  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pure.mpg.de  
-   Link: <a href="https://pure.mpg.de/rest/items/item_2567078_1/component/file_2567077/content" target="_blank" rel="noopener noreferrer nofollow">https://pure.mpg.de/rest/items/item_2567078_1/component/file_2567077/content</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Subjective data indicate that Traditional is...Read more...</p></details>
+   Link:<a href="https://pure.mpg.de/rest/items/item_2567078_1/component/file_2567077/content" target="_blank" rel="noopener noreferrer nofollow">https://pure.mpg.de/rest/items/item_2567078_1/component/file_2567077/content</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Subjective data indicate that Traditional is...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: erickimphotography.com  
-   Link: <a href="https://erickimphotography.com/the-landscape-of-fast-reading-science-technology-education-and-field-applications/" target="_blank" rel="noopener noreferrer nofollow">https://erickimphotography.com/the-landscape-of-fast-reading-science-technology-education-and-field-applications/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Speed reading in academia is thus a means of triage and prioritization in the face of information overload.Read more...</p></details>
+   Link:<a href="https://erickimphotography.com/the-landscape-of-fast-reading-science-technology-education-and-field-applications/" target="_blank" rel="noopener noreferrer nofollow">https://erickimphotography.com/the-landscape-of-fast-reading-science-technology-education-and-field-applications/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Speed reading in academia is thus a means of triage and prioritization in the face of information overload.Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: tomstafford.substack.com  
-   Link: <a href="https://tomstafford.substack.com/p/quick-facts-on-speed-reading" target="_blank" rel="noopener noreferrer nofollow">https://tomstafford.substack.com/p/quick-facts-on-speed-reading</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tom Stafford SubstackQuick facts on speed readingOne study which directly compared RSVP with reading static text showed that people had t...</p></details>
+   Link:<a href="https://tomstafford.substack.com/p/quick-facts-on-speed-reading" target="_blank" rel="noopener noreferrer nofollow">https://tomstafford.substack.com/p/quick-facts-on-speed-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tom Stafford SubstackQuick facts on speed readingOne study which directly compared RSVP with reading static text showed that people had t...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
    Title: Research Gate Rapid serial visual presentation in reading: The case of Spritz  
-   Link: <a href="https://www.researchgate.net/publication/270650767_Rapid_serial_visual_presentation_in_reading_The_case_of_Spritz" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/270650767_Rapid_serial_visual_presentation_in_reading_The_case_of_Spritz</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RSVP is not better than traditional reading for [increasing](&amp;#123;&amp;#123; &#x27;increasing/&#x27; | relative_url &amp;#125;&amp;#125;) reading speed or comprehension.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/270650767_Rapid_serial_visual_presentation_in_reading_The_case_of_Spritz" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/270650767_Rapid_serial_visual_presentation_in_reading_The_case_of_Spritz</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RSVP is not better than traditional reading for [increasing](&amp;#123;&amp;#123; &#x27;increasing/&#x27; | relative_url &amp;#125;&amp;#125;) reading speed or comprehension.Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: today.ucsd.edu  
    Title: dont believe what you read only once speed reading apps may impair reading  
-   Link: <a href="https://today.ucsd.edu/story/dont_believe_what_you_read_only_once_speed_reading_apps_may_impair_reading" target="_blank" rel="noopener noreferrer nofollow">https://today.ucsd.edu/story/dont_believe_what_you_read_only_once_speed_reading_apps_may_impair_reading</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UC San Diego TodaySpeed-Reading Apps May Impair Reading Comprehension22 Apr 2014 — “Our findings show that eye movements are a crucial pa...</p></details>
+   Link:<a href="https://today.ucsd.edu/story/dont_believe_what_you_read_only_once_speed_reading_apps_may_impair_reading" target="_blank" rel="noopener noreferrer nofollow">https://today.ucsd.edu/story/dont_believe_what_you_read_only_once_speed_reading_apps_may_impair_reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UC San Diego TodaySpeed-Reading Apps May Impair Reading Comprehension22 Apr 2014 — “Our findings show that eye movements are a crucial pa...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/29461715/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29461715/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Modern Speed-Reading Apps Do Not Foster...by D Acklin · 2017 · Cited by 25 — The current study explored variables that may affect...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/29461715/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29461715/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Modern Speed-Reading Apps Do Not Foster...by D Acklin · 2017 · Cited by 25 — The current study explored variables that may affect...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4835101/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4835101/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rapid Serial Visual Presentation (RSVP)...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4835101/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4835101/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rapid Serial Visual Presentation (RSVP)...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nottingham-repository.worktribe.com  
-   Link: <a href="https://nottingham-repository.worktribe.com/output/765223/the-impact-of-rapid-serial-visual-presentation-rsvp-on-reading-by-nonnative-speakers" target="_blank" rel="noopener noreferrer nofollow">https://nottingham-repository.worktribe.com/output/765223/the-impact-of-rapid-serial-visual-presentation-rsvp-on-reading-by-nonnative-speakers</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>impact of Rapid Serial Visual Presentation (RSVP) on...by Z Boo · Cited by 11 — To address this, the current study explores the impact o...</p></details>
+   Link:<a href="https://nottingham-repository.worktribe.com/output/765223/the-impact-of-rapid-serial-visual-presentation-rsvp-on-reading-by-nonnative-speakers" target="_blank" rel="noopener noreferrer nofollow">https://nottingham-repository.worktribe.com/output/765223/the-impact-of-rapid-serial-visual-presentation-rsvp-on-reading-by-nonnative-speakers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>impact of Rapid Serial Visual Presentation (RSVP) on...by Z Boo · Cited by 11 — To address this, the current study explores the impact o...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/books/comments/1yvvam/software_that_speeds_up_your_reading_to_500_words/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/books/comments/1yvvam/software_that_speeds_up_your_reading_to_500_words/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(RSVP) and it has some significant disadvantages due to the...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/books/comments/1yvvam/software_that_speeds_up_your_reading_to_500_words/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/books/comments/1yvvam/software_that_speeds_up_your_reading_to_500_words/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(RSVP) and it has some significant disadvantages due to the...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: dl.acm.org  
-   Link: <a href="https://dl.acm.org/doi/10.1145/3726986.3727002" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/10.1145/3726986.3727002</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Confirming previous works, participants preferred reading...Read more...</p></details>
+   Link:<a href="https://dl.acm.org/doi/10.1145/3726986.3727002" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/10.1145/3726986.3727002</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Confirming previous works, participants preferred reading...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: readlite.in  
-   Link: <a href="https://readlite.in/concepts/rsvp-reading" target="_blank" rel="noopener noreferrer nofollow">https://readlite.in/concepts/rsvp-reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RSVP Reading: Does One-Word-at-a-Time Display Work?A meta-analysis of RSVP studies found comprehension drops of 20-40% compared to tradit...</p></details>
+   Link:<a href="https://readlite.in/concepts/rsvp-reading" target="_blank" rel="noopener noreferrer nofollow">https://readlite.in/concepts/rsvp-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RSVP Reading: Does One-Word-at-a-Time Display Work?A meta-analysis of RSVP studies found comprehension drops of 20-40% compared to tradit...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Build a Zero-Inbox Reading System with Readwise Reader (Auto-Sync to Obsidian)  
-   Link: <a href="http://www.youtube.com/watch?v=cL-rl02zvPE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=cL-rl02zvPE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Do Speed Reading Apps &amp; Techniques Really Work? - College Info Geek...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=cL-rl02zvPE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=cL-rl02zvPE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Do Speed Reading Apps &amp; Techniques Really Work? - College Info Geek...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Do Speed Reading Apps & Techniques Really Work?  
-   Link: <a href="http://www.youtube.com/watch?v=JL4WMHyUhdc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=JL4WMHyUhdc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Use Squirt.io to Start Reading at Upto 950 Words per Minute...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=JL4WMHyUhdc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=JL4WMHyUhdc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Use Squirt.io to Start Reading at Upto 950 Words per Minute...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Focus your reading with Readwise Reader filtered views  
-   Link: <a href="http://www.youtube.com/watch?v=cTHl99zsrPs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=cTHl99zsrPs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Spritz&quot; &quot;email&quot; speed reading Spritz: Teaching the world to speed read CBS News...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=cTHl99zsrPs" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=cTHl99zsrPs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Spritz&quot; &quot;email&quot; speed reading Spritz: Teaching the world to speed read CBS News...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: sciencespot.co.uk  
-   Link: <a href="https://sciencespot.co.uk/the-limits-on-speed-reading-by-rsvp.html" target="_blank" rel="noopener noreferrer nofollow">https://sciencespot.co.uk/the-limits-on-speed-reading-by-rsvp.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The limits on speed reading by RSVP - Science Spot16 Sept 2020 — They tested readers&#x27; comprehension of a short piece of text when they us...</p></details>
+   Link:<a href="https://sciencespot.co.uk/the-limits-on-speed-reading-by-rsvp.html" target="_blank" rel="noopener noreferrer nofollow">https://sciencespot.co.uk/the-limits-on-speed-reading-by-rsvp.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The limits on speed reading by RSVP - Science Spot16 Sept 2020 — They tested readers&#x27; comprehension of a short piece of text when they us...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: apps.apple.com  
-   Link: <a href="https://apps.apple.com/in/app/speedy-read-rsvp-speed-reader/id6757832936" target="_blank" rel="noopener noreferrer nofollow">https://apps.apple.com/in/app/speedy-read-rsvp-speed-reader/id6757832936</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RSVP allows your brain to process text without the physical limitations of eye movement. WHAT MAKES SPEEDY READER DIFFERENT Speedy Reader...</p></details>
+   Link:<a href="https://apps.apple.com/in/app/speedy-read-rsvp-speed-reader/id6757832936" target="_blank" rel="noopener noreferrer nofollow">https://apps.apple.com/in/app/speedy-read-rsvp-speed-reader/id6757832936</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RSVP allows your brain to process text without the physical limitations of eye movement. WHAT MAKES SPEEDY READER DIFFERENT Speedy Reader...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: apps.apple.com  
-   Link: <a href="https://apps.apple.com/no/app/rsvp-reader-speed-reading-app/id6757968737" target="_blank" rel="noopener noreferrer nofollow">https://apps.apple.com/no/app/rsvp-reader-speed-reading-app/id6757968737</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reader: Speed Reading App - App Store - Apple6 days ago — Read faster. Understand more. Finish that reading list. RSVP Reader uses scient...</p></details>
+   Link:<a href="https://apps.apple.com/no/app/rsvp-reader-speed-reading-app/id6757968737" target="_blank" rel="noopener noreferrer nofollow">https://apps.apple.com/no/app/rsvp-reader-speed-reading-app/id6757968737</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reader: Speed Reading App - App Store - Apple6 days ago — Read faster. Understand more. Finish that reading list. RSVP Reader uses scient...</p></details>

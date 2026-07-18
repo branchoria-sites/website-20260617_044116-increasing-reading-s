@@ -269,7 +269,7 @@ image: /assets/images/increasing_re_852ca6_repeated_read_e09228_adult_repeate_cb
 
 ## Introduction
 
-Rereading is often recommended to increase reading speed, but it only works when it addresses the real bottleneck. For many adults in workplace training, professional reading, or study programmes, [slow reading]({{ 'slow-reading/' | relative_url }}) is caused by hesitations in word recognition, awkward phrasing, or frequent pauses rather than confusion about the underlying ideas. In those cases, rereading can improve fluency substantially. However, if the reader does not understand the vocabulary, lacks [background]({{ 'expertise/' | relative_url }}) knowledge, or cannot follow the argument, rereading the same passage may make it feel more familiar without meaningfully improving comprehension. Research on reading fluency consistently distinguishes between automatic word processing and language understanding; both matter, but they are not the same skill. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shanahanonliteracy.com">[Shanahan on Literacy+2Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shanahanonliteracy.com</span><span class="citation-popover-snippet">Shanahan on LiteracyEverything You Wanted to Know about Repeated ReadingRepeated reading is a particular method proposed by S. Jay Samuel...</span></span></span>
+Rereading is often recommended to increase reading speed, but it only works when it addresses the real bottleneck. For many adults in workplace training, professional reading, or study programmes, [slow reading]({{ 'slow-reading/' | relative_url }}) is caused by hesitations in word recognition, awkward phrasing, or frequent pauses rather than confusion about the underlying ideas. In those cases, rereading can improve fluency substantially. However, if the reader does not understand the vocabulary, lacks [background]({{ 'expertise/' | relative_url }}) knowledge, or cannot follow the argument, rereading the same passage may make it feel more familiar without meaningfully improving comprehension. Research on reading fluency consistently distinguishes between automatic word processing and language understanding; both matter, but they are not the same skill.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shanahanonliteracy.com">[Shanahan on Literacy+2Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shanahanonliteracy.com</span><span class="citation-popover-snippet">Shanahan on LiteracyEverything You Wanted to Know about Repeated ReadingRepeated reading is a particular method proposed by S. Jay Samuel...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_repeated_read_e09228_adult_repeate_cb8ff6_fluency_not_c_049a29-Illustration-1-dark.svg" | relative_url }}" alt="Fluency check illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_repeated_read_e09228_adult_repeate_cb8ff6_fluency_not_c_049a29-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_repeated_read_e09228_adult_repeate_cb8ff6_fluency_not_c_049a29-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -281,7 +281,7 @@ The simplest test is to separate understanding from reading delivery.
 
 Imagine an adult employee reading a procedure manual. On the first pass, they stumble over terminology, pause often, and read in a choppy rhythm. Afterwards, however, they can explain the procedure accurately in their own words. That pattern points to a fluency problem. The ideas were understood, but the reading process itself was inefficient.
 
-Now consider a different reader who moves through the text slowly and, when asked to explain it, cannot identify the main point, key terms, or sequence of steps. In this case, the issue is not merely fluency. The reader is struggling to build meaning from the text. Repeating the same passage may increase familiarity with its appearance without solving the underlying comprehension barrier. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsFluency: In DepthFluency is the ability to read a text accurately, at a good pace, and with proper expression and comprehe...</span></span></span>
+Now consider a different reader who moves through the text slowly and, when asked to explain it, cannot identify the main point, key terms, or sequence of steps. In this case, the issue is not merely fluency. The reader is struggling to build meaning from the text. Repeating the same passage may increase familiarity with its appearance without solving the underlying comprehension barrier.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsFluency: In DepthFluency is the ability to read a text accurately, at a good pace, and with proper expression and comprehe...</span></span></span>
 
 A useful self-check is:
 
@@ -297,15 +297,15 @@ If understanding is already present and only the delivery improves, rereading is
 
 ## Why rereading helps fluent processing
 
-Repeated reading was originally developed to improve automaticity: the ability to recognise and process words rapidly and with little conscious effort. When recognition becomes more automatic, the brain spends less effort on decoding and more on understanding, evaluation, and memory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shanahanonliteracy.com">[Academy Publication+3Shanahan on Literacy+3PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shanahanonliteracy.com</span><span class="citation-popover-snippet">Shanahan on LiteracyEverything You Wanted to Know about Repeated ReadingRepeated reading is a particular method proposed by S. Jay Samuel...</span></span></span>
+Repeated reading was originally developed to improve automaticity: the ability to recognise and process words rapidly and with little conscious effort. When recognition becomes more automatic, the brain spends less effort on decoding and more on understanding, evaluation, and memory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shanahanonliteracy.com">[Academy Publication+3Shanahan on Literacy+3PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shanahanonliteracy.com</span><span class="citation-popover-snippet">Shanahan on LiteracyEverything You Wanted to Know about Repeated ReadingRepeated reading is a particular method proposed by S. Jay Samuel...</span></span></span>
 
 For adults, this often appears as:
 
 * Fewer regressions back to earlier lines.
 * Reduced hesitation on technical terms already encountered.
-* Better phrasing across long sentences. * More natural reading rhythm. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nichd.nih.gov">[nichd.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nichd.nih.gov</span><span class="citation-popover-snippet">National Reading Panel - Reports of the Subgroups - FluencyThe effect of repeated readings on reading rate, speech pauses, and word...</span></span></span> * Increased reading rate with maintained accuracy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nichd.nih.gov">[nichd.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nichd.nih.gov</span><span class="citation-popover-snippet">National Reading Panel - Reports of the Subgroups - FluencyThe effect of repeated readings on reading rate, speech pauses, and word...</span></span></span>
+* Better phrasing across long sentences. * More natural reading rhythm.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nichd.nih.gov">[nichd.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nichd.nih.gov</span><span class="citation-popover-snippet">National Reading Panel - Reports of the Subgroups - FluencyThe effect of repeated readings on reading rate, speech pauses, and word...</span></span></span> * Increased reading rate with maintained accuracy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nichd.nih.gov">[nichd.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nichd.nih.gov</span><span class="citation-popover-snippet">National Reading Panel - Reports of the Subgroups - FluencyThe effect of repeated readings on reading rate, speech pauses, and word...</span></span></span>
 
-The important point is that rereading strengthens access to information that is already available to the reader. It reduces friction. It does not automatically create missing knowledge. Research on fluency instruction repeatedly finds benefits for reading rate, accuracy, and automaticity, particularly when readers struggle with efficient word processing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nichd.nih.gov">[NICHD+2Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nichd.nih.gov</span><span class="citation-popover-snippet">National Reading Panel - Reports of the Subgroups - FluencyThe effect of repeated readings on reading rate, speech pauses, and word...</span></span></span>
+The important point is that rereading strengthens access to information that is already available to the reader. It reduces friction. It does not automatically create missing knowledge. Research on fluency instruction repeatedly finds benefits for reading rate, accuracy, and automaticity, particularly when readers struggle with efficient word processing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nichd.nih.gov">[NICHD+2Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nichd.nih.gov</span><span class="citation-popover-snippet">National Reading Panel - Reports of the Subgroups - FluencyThe effect of repeated readings on reading rate, speech pauses, and word...</span></span></span>
 
 This is why rereading can be highly effective for a university student reviewing a familiar research article before an exam or an employee practising a compliance document that they already understand conceptually.
 
@@ -315,7 +315,7 @@ This is why rereading can be highly effective for a university student reviewing
 
 One of the biggest risks is mistaking a vocabulary problem for a fluency problem.
 
-Suppose a finance trainee reads a report containing unfamiliar terms such as "amortisation", "duration risk", and "counterparty [exposure]({{ 'exposure/' | relative_url }})". Reading the report three times may make those words look more familiar, but familiarity is not the same as understanding. Unless the meanings are learned, comprehension remains limited. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.il.nesinc.com/TestView.aspx?f=HTML_FRAG%2FFlex%2Fvocabulary-and-knowledge.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: il.nesinc.com">[Illinois Licensure Testing System]</a><span class="citation-popover" role="note"><span class="citation-popover-source">il.nesinc.com</span><span class="citation-popover-snippet">Difficulties with reading comprehension can stem from different underlying causes.Read more...</span></span></span>
+Suppose a finance trainee reads a report containing unfamiliar terms such as "amortisation", "duration risk", and "counterparty [exposure]({{ 'exposure/' | relative_url }})". Reading the report three times may make those words look more familiar, but familiarity is not the same as understanding. Unless the meanings are learned, comprehension remains limited.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.il.nesinc.com/TestView.aspx?f=HTML_FRAG%2FFlex%2Fvocabulary-and-knowledge.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: il.nesinc.com">[Illinois Licensure Testing System]</a><span class="citation-popover" role="note"><span class="citation-popover-source">il.nesinc.com</span><span class="citation-popover-snippet">Difficulties with reading comprehension can stem from different underlying causes.Read more...</span></span></span>
 
 The same issue occurs with specialised workplace language, academic jargon, legal terminology, and dense technical writing. Readers sometimes report that a passage feels easier after several readings while still being unable to explain its content accurately. The improvement comes from recognition, not from deeper understanding.
 
@@ -332,7 +332,7 @@ When vocabulary is the obstacle, better interventions include:
 
 </div>
 
-Research on comprehension consistently identifies vocabulary and knowledge as major foundations of understanding. When those foundations are weak, fluency practice alone has limited impact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.il.nesinc.com/TestView.aspx?f=HTML_FRAG%2FFlex%2Fvocabulary-and-knowledge.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: il.nesinc.com">[Illinois Licensure Testing System]</a><span class="citation-popover" role="note"><span class="citation-popover-source">il.nesinc.com</span><span class="citation-popover-snippet">Difficulties with reading comprehension can stem from different underlying causes.Read more...</span></span></span>
+Research on comprehension consistently identifies vocabulary and knowledge as major foundations of understanding. When those foundations are weak, fluency practice alone has limited impact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.il.nesinc.com/TestView.aspx?f=HTML_FRAG%2FFlex%2Fvocabulary-and-knowledge.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: il.nesinc.com">[Illinois Licensure Testing System]</a><span class="citation-popover" role="note"><span class="citation-popover-source">il.nesinc.com</span><span class="citation-popover-snippet">Difficulties with reading comprehension can stem from different underlying causes.Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/i0cQu7vnDzs" title="Reading Fluency: Speed, Accuracy, and Expression" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=i0cQu7vnDzs" target="_blank" rel="noopener noreferrer">Reading Fluency: Speed, Accuracy, and Expression</a></p><p class="youtube-embed-meta">Channel: Growing Primary &middot; Views: 122.7K &middot; Uploaded: September 2023 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=i0cQu7vnDzs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=i0cQu7vnDzs">Open on YouTube</a></p></div></div></div>
@@ -366,214 +366,214 @@ If performance improves only while looking at the text, comprehension may still 
 
 Not all slow reading is a fluency issue. Several [warning signs]({{ 'warning-signs/' | relative_url }}) suggest that rereading is unlikely to be the primary solution.
 
-**Persistent vocabulary confusion.** If unfamiliar words appear on nearly every page, knowledge-building is likely more important than fluency practice. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.il.nesinc.com/TestView.aspx?f=HTML_FRAG%2FFlex%2Fvocabulary-and-knowledge.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: il.nesinc.com">[Illinois Licensure Testing System]</a><span class="citation-popover" role="note"><span class="citation-popover-source">il.nesinc.com</span><span class="citation-popover-snippet">Difficulties with reading comprehension can stem from different underlying causes.Read more...</span></span></span>
+**Persistent vocabulary confusion.** If unfamiliar words appear on nearly every page, knowledge-building is likely more important than fluency practice.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.il.nesinc.com/TestView.aspx?f=HTML_FRAG%2FFlex%2Fvocabulary-and-knowledge.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: il.nesinc.com">[Illinois Licensure Testing System]</a><span class="citation-popover" role="note"><span class="citation-popover-source">il.nesinc.com</span><span class="citation-popover-snippet">Difficulties with reading comprehension can stem from different underlying causes.Read more...</span></span></span>
 
-**Difficulty explaining the main idea.** Readers who cannot identify the central argument after multiple readings may need comprehension strategies rather than repeated exposure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsFluency: In DepthFluency is the ability to read a text accurately, at a good pace, and with proper expression and comprehe...</span></span></span>
+**Difficulty explaining the main idea.** Readers who cannot identify the central argument after multiple readings may need comprehension strategies rather than repeated exposure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsFluency: In DepthFluency is the ability to read a text accurately, at a good pace, and with proper expression and comprehe...</span></span></span>
 
-**Text that is far above current reading level.** Research on fluency instruction emphasises that rereading works best with text that is challenging but manageable. Material that remains overwhelmingly difficult often prevents meaningful fluency gains. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsFluency: In DepthFluency is the ability to read a text accurately, at a good pace, and with proper expression and comprehe...</span></span></span>
+**Text that is far above current reading level.** Research on fluency instruction emphasises that rereading works best with text that is challenging but manageable. Material that remains overwhelmingly difficult often prevents meaningful fluency gains.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsFluency: In DepthFluency is the ability to read a text accurately, at a good pace, and with proper expression and comprehe...</span></span></span>
 
 **Visual strain or fatigue.** Blurred text, headaches, excessive eye fatigue, or concentration problems can slow reading independently of fluency.
 
-**Large differences between topics.** Someone who reads novels comfortably but struggles with a specialist engineering document may be facing a knowledge issue rather than a general fluency weakness. Reading experts note that even skilled readers slow dramatically when vocabulary and subject matter become unfamiliar. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsFluency: In DepthFluency is the ability to read a text accurately, at a good pace, and with proper expression and comprehe...</span></span></span>
+**Large differences between topics.** Someone who reads novels comfortably but struggles with a specialist engineering document may be facing a knowledge issue rather than a general fluency weakness. Reading experts note that even skilled readers slow dramatically when vocabulary and subject matter become unfamiliar.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-snippet">Reading RocketsFluency: In DepthFluency is the ability to read a text accurately, at a good pace, and with proper expression and comprehe...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/R2BpAL5IEeg" title="The Reading Secret: Why Fluency is the Key to Better Comprehension" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=R2BpAL5IEeg" target="_blank" rel="noopener noreferrer">The Reading Secret: Why Fluency is the Key to Better Comprehension</a></p><p class="youtube-embed-meta">Channel: Reading Rebels - Village</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=R2BpAL5IEeg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=R2BpAL5IEeg">Open on YouTube</a></p></div></div></div>
 
 ## The practical takeaway for adults seeking faster reading
 
-For adults trying to increase reading speed, rereading is most useful when understanding is already present but reading remains hesitant. In that situation, repeated exposure can improve automaticity, reduce pauses, and make reading smoother and faster. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shanahanonliteracy.com">[Shanahan on Literacy+2Read Naturally]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shanahanonliteracy.com</span><span class="citation-popover-snippet">Shanahan on LiteracyEverything You Wanted to Know about Repeated ReadingRepeated reading is a particular method proposed by S. Jay Samuel...</span></span></span>
+For adults trying to increase reading speed, rereading is most useful when understanding is already present but reading remains hesitant. In that situation, repeated exposure can improve automaticity, reduce pauses, and make reading smoother and faster.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shanahanonliteracy.com">[Shanahan on Literacy+2Read Naturally]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shanahanonliteracy.com</span><span class="citation-popover-snippet">Shanahan on LiteracyEverything You Wanted to Know about Repeated ReadingRepeated reading is a particular method proposed by S. Jay Samuel...</span></span></span>
 
 However, rereading is not a universal remedy. If the text is slow because the vocabulary is unfamiliar, the concepts are unclear, the topic knowledge is missing, or fatigue and visual issues interfere with reading, fluency practice treats the symptom rather than the cause. The key question is not simply "Am I reading slowly?" but "Why am I reading slowly?" Once that distinction is clear, rereading becomes a targeted tool rather than a default habit.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Is slow reading a fluency problem?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Is slow reading a fluency problem?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The fluent reader on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/277217-M.jpg" alt="Cover for The fluent reader" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fluent reader">The fluent reader</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The fluent reader on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/277217-M.jpg" alt="Cover for The fluent reader" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fluent reader">The fluent reader</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Directly addresses fluency versus comprehension issues.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses fluency versus comprehension issues.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-        </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+</h4>
+<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Supports accurate diagnosis of learning challenges through effective practice.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports accurate diagnosis of learning challenges through effective practice.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Proust and the Squid on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4940484-M.jpg" alt="Cover for Proust and the Squid" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Proust and the Squid">Proust and the Squid</a>
-        </h4>
-        <p class="fr-book-author">By Maryanne Wolf</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Proust and the Squid on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4940484-M.jpg" alt="Cover for Proust and the Squid" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Proust and the Squid">Proust and the Squid</a>
+</h4>
+<p class="fr-book-author">By Maryanne Wolf</p>
         
-        <p class="fr-book-desc">First published 2007. Subjects: Brain, Evolution, Reading history, Neurophysiology, Reading comprehension.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2007. Subjects: Brain, Evolution, Reading history, Neurophysiology, Reading comprehension.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Proust+and+the+Squid+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Overcoming+Dyslexia+Sally+E.+Shaywitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Overcoming Dyslexia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1468261-M.jpg" alt="Cover for Overcoming Dyslexia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Overcoming+Dyslexia+Sally+E.+Shaywitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Overcoming Dyslexia">Overcoming Dyslexia</a>
-        </h4>
-        <p class="fr-book-author">By Sally E. Shaywitz</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Overcoming+Dyslexia+Sally+E.+Shaywitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Overcoming Dyslexia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1468261-M.jpg" alt="Cover for Overcoming Dyslexia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Overcoming+Dyslexia+Sally+E.+Shaywitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Overcoming Dyslexia">Overcoming Dyslexia</a>
+</h4>
+<p class="fr-book-author">By Sally E. Shaywitz</p>
         
-        <p class="fr-book-desc">First published 2003. Subjects: Reading disability, Remedial teaching, Education, Dyslexia, Dyslexic children.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Overcoming+Dyslexia+Sally+E.+Shaywitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2003. Subjects: Reading disability, Remedial teaching, Education, Dyslexia, Dyslexic children.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Overcoming+Dyslexia+Sally+E.+Shaywitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The fluent reader</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Proust+and+the+Squid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Proust and the Squid</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The fluent reader</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Proust+and+the+Squid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Proust and the Squid</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading poster -book -books -dvd" data-ebay-reference="fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Reading Girl Coffee Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6b4c64229e303a66b900.jpg' | relative_url }}" alt="Listing image for Reading Girl Coffee Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading poster -book -books -dvd" data-ebay-reference="fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Reading Girl Coffee Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading poster -book -books -dvd" data-ebay-reference="fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: reading poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading poster -book -books -dvd" data-ebay-reference="fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading poster -book -books -dvd" data-ebay-reference="fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Reading Girl Coffee Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6b4c64229e303a66b900.jpg' | relative_url }}" alt="Listing image for Reading Girl Coffee Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading poster -book -books -dvd" data-ebay-reference="fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Reading Girl Coffee Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading poster -book -books -dvd" data-ebay-reference="fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: reading poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading poster -book -books -dvd" data-ebay-reference="fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading poster -book -books -dvd" data-ebay-reference="fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Reading Room Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a9902398d7c3d13646e1.jpg' | relative_url }}" alt="Listing image for Reading Room Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading poster -book -books -dvd" data-ebay-reference="fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Reading Room Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading poster -book -books -dvd" data-ebay-reference="fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: reading poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading poster -book -books -dvd" data-ebay-reference="fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading poster -book -books -dvd" data-ebay-reference="fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Reading Room Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a9902398d7c3d13646e1.jpg' | relative_url }}" alt="Listing image for Reading Room Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading poster -book -books -dvd" data-ebay-reference="fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Reading Room Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading poster -book -books -dvd" data-ebay-reference="fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: reading poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading poster -book -books -dvd" data-ebay-reference="fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading poster -book -books -dvd" data-ebay-reference="fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moral Tales: Reading The 1980s - Original Tate Liverpool Poster, 1994, Thatcher"><img src="{{ '/assets/images/marketplace-covers/097a83ff559f22d36aa7.jpg' | relative_url }}" alt="Listing image for Moral Tales: Reading The 1980s - Original Tate Liverpool Poster, 1994, Thatcher" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading poster -book -books -dvd" data-ebay-reference="fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Moral Tales: Reading The 1980s - Original Tate Liverpool Poster, 1994, Thatcher</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading poster -book -books -dvd" data-ebay-reference="fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: reading poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading poster -book -books -dvd" data-ebay-reference="fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading poster -book -books -dvd" data-ebay-reference="fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moral Tales: Reading The 1980s - Original Tate Liverpool Poster, 1994, Thatcher"><img src="{{ '/assets/images/marketplace-covers/097a83ff559f22d36aa7.jpg' | relative_url }}" alt="Listing image for Moral Tales: Reading The 1980s - Original Tate Liverpool Poster, 1994, Thatcher" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading poster -book -books -dvd" data-ebay-reference="fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Moral Tales: Reading The 1980s - Original Tate Liverpool Poster, 1994, Thatcher</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading poster -book -books -dvd" data-ebay-reference="fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: reading poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading poster -book -books -dvd" data-ebay-reference="fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading poster -book -books -dvd" data-ebay-reference="fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Stage 3 Phonics Reading A2 Learning Educational Poster , Sounds Pictures, New"><img src="{{ '/assets/images/marketplace-covers/62c70e702a500ef92834.jpg' | relative_url }}" alt="Listing image for Stage 3 Phonics Reading A2 Learning Educational Poster , Sounds Pictures, New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading poster -book -books -dvd" data-ebay-reference="fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Stage 3 Phonics Reading A2 Learning Educational Poster , Sounds Pictures, New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading poster -book -books -dvd" data-ebay-reference="fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: reading poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading poster -book -books -dvd" data-ebay-reference="fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading poster -book -books -dvd" data-ebay-reference="fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading poster -book -books -dvd" data-ebay-reference="fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Stage 3 Phonics Reading A2 Learning Educational Poster , Sounds Pictures, New"><img src="{{ '/assets/images/marketplace-covers/62c70e702a500ef92834.jpg' | relative_url }}" alt="Listing image for Stage 3 Phonics Reading A2 Learning Educational Poster , Sounds Pictures, New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading poster -book -books -dvd" data-ebay-reference="fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Stage 3 Phonics Reading A2 Learning Educational Poster , Sounds Pictures, New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading poster -book -books -dvd" data-ebay-reference="fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: reading poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading poster -book -books -dvd" data-ebay-reference="fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading poster -book -books -dvd" data-ebay-reference="fluency-check-is-slow-reading-a-fluency-problem-increasing-reading-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -589,7 +589,7 @@ However, rereading is not a universal remedy. If the text is slow because the vo
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -609,7 +609,7 @@ However, rereading is not a universal remedy. If the text is slow because the vo
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -641,7 +641,7 @@ However, rereading is not a universal remedy. If the text is slow because the vo
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -693,7 +693,7 @@ However, rereading is not a universal remedy. If the text is slow because the vo
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -738,7 +738,7 @@ However, rereading is not a universal remedy. If the text is slow because the vo
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -779,113 +779,113 @@ However, rereading is not a universal remedy. If the text is slow because the vo
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8559868/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8559868/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>One reason for this might be a lack of automaticity in word-level lexical processes...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8559868/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8559868/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>One reason for this might be a lack of automaticity in word-level lexical processes...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nichd.nih.gov  
-   Link: <a href="https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Reading Panel - [Reports](&amp;#123;&amp;#123; &#x27;reports/&#x27; | relative_url &amp;#125;&amp;#125;) of the Subgroups - FluencyThe effect of repeated readings on reading rate, speech pauses, and word...</p></details>
+   Link:<a href="https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Reading Panel - [Reports](&amp;#123;&amp;#123; &#x27;reports/&#x27; | relative_url &amp;#125;&amp;#125;) of the Subgroups - FluencyThe effect of repeated readings on reading rate, speech pauses, and word...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: shanahanonliteracy.com  
-   Link: <a href="https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Shanahan on LiteracyEverything You Wanted to Know about Repeated ReadingRepeated reading is a particular method proposed by S. Jay Samuel...</p></details>
+   Link:<a href="https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shanahan on LiteracyEverything You Wanted to Know about Repeated ReadingRepeated reading is a particular method proposed by S. Jay Samuel...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsFluency: In DepthFluency is the ability to read a text accurately, at a good pace, and with proper expression and comprehe...</p></details>
+   Link:<a href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsFluency: In DepthFluency is the ability to read a text accurately, at a good pace, and with proper expression and comprehe...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: il.nesinc.com  
-   Link: <a href="https://www.il.nesinc.com/TestView.aspx?f=HTML_FRAG%2FFlex%2Fvocabulary-and-knowledge.html" target="_blank" rel="noopener noreferrer nofollow">https://www.il.nesinc.com/TestView.aspx?f=HTML_FRAG%2FFlex%2Fvocabulary-and-knowledge.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Difficulties with reading comprehension can stem from different underlying causes.Read more...</p></details>
+   Link:<a href="https://www.il.nesinc.com/TestView.aspx?f=HTML_FRAG%2FFlex%2Fvocabulary-and-knowledge.html" target="_blank" rel="noopener noreferrer nofollow">https://www.il.nesinc.com/TestView.aspx?f=HTML_FRAG%2FFlex%2Fvocabulary-and-knowledge.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Difficulties with reading comprehension can stem from different underlying causes.Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: academypublication.com  
-   Link: <a href="https://www.academypublication.com/issues2/tpls/vol10/04/05.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.academypublication.com/issues2/tpls/vol10/04/05.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Academy PublicationTheories and Research on [Oral Reading](&amp;#123;&amp;#123; &#x27;reading-aloud/&#x27; | relative_url &amp;#125;&amp;#125;) FluencyAutomaticity, on the other hand, refers to recognising and decoding words...</p></details>
+   Link:<a href="https://www.academypublication.com/issues2/tpls/vol10/04/05.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.academypublication.com/issues2/tpls/vol10/04/05.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Academy PublicationTheories and Research on [Oral Reading](&amp;#123;&amp;#123; &#x27;reading-aloud/&#x27; | relative_url &amp;#125;&amp;#125;) FluencyAutomaticity, on the other hand, refers to recognising and decoding words...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/01632787241257450" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/01632787241257450</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsAnalyzing the Effects of a Repeated Reading Intervention...11 Dec 2024 — The results presented by GLMMs showed that repeate...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/01632787241257450" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/01632787241257450</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsAnalyzing the Effects of a Repeated Reading Intervention...11 Dec 2024 — The results presented by GLMMs showed that repeate...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: readnaturally.com  
-   Link: <a href="https://www.readnaturally.com/research/5-components-of-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.readnaturally.com/research/5-components-of-reading</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Five (5) Components of ReadingOur programs develop the National Reading Panel &#x27;s five (5) components of reading: phonemic awareness, phon...</p></details>
+   Link:<a href="https://www.readnaturally.com/research/5-components-of-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.readnaturally.com/research/5-components-of-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Five (5) Components of ReadingOur programs develop the National Reading Panel &#x27;s five (5) components of reading: phonemic awareness, phon...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: readingrockets.org  
    Title: everything you wanted know about repeated reading  
-   Link: <a href="https://www.readingrockets.org/blogs/shanahan-on-literacy/everything-you-wanted-know-about-repeated-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/blogs/shanahan-on-literacy/everything-you-wanted-know-about-repeated-reading</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Everything You Wanted to Know about Repeated ReadingAug 4, 2017 — Repeated reading is a particular method proposed by S. Jay Samuels to d...</p></details>
+   Link:<a href="https://www.readingrockets.org/blogs/shanahan-on-literacy/everything-you-wanted-know-about-repeated-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/blogs/shanahan-on-literacy/everything-you-wanted-know-about-repeated-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Everything You Wanted to Know about Repeated ReadingAug 4, 2017 — Repeated reading is a particular method proposed by S. Jay Samuels to d...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/topics/curriculum-and-instruction/articles/findings-national-reading-panel" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/curriculum-and-instruction/articles/findings-national-reading-panel</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Findings of the National Reading PanelThe National Reading Panel found that certain instructional methods are better than others, and tha...</p></details>
+   Link:<a href="https://www.readingrockets.org/topics/curriculum-and-instruction/articles/findings-national-reading-panel" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/curriculum-and-instruction/articles/findings-national-reading-panel</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Findings of the National Reading PanelThe National Reading Panel found that certain instructional methods are better than others, and tha...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ut.nesinc.com  
    Title: Test View.aspx  
-   Link: <a href="https://www.ut.nesinc.com/TestView.aspx?f=HTML_FRAG%2Fflex%2Fautomaticity-and-fluency.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ut.nesinc.com/TestView.aspx?f=HTML_FRAG%2Fflex%2Fautomaticity-and-fluency.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Fluency Can Be Underlying Causes of...Problems with automatic word recognition can contribute to difficulties with fluency, and in t...</p></details>
+   Link:<a href="https://www.ut.nesinc.com/TestView.aspx?f=HTML_FRAG%2Fflex%2Fautomaticity-and-fluency.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ut.nesinc.com/TestView.aspx?f=HTML_FRAG%2Fflex%2Fautomaticity-and-fluency.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Fluency Can Be Underlying Causes of...Problems with automatic word recognition can contribute to difficulties with fluency, and in t...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ndl.go.jp  
-   Link: <a href="https://www.ndl.go.jp/en/" target="_blank" rel="noopener noreferrer nofollow">https://www.ndl.go.jp/en/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Diet LibraryThe official website of the National Diet Library. The Library collects and conserves materials and information both...</p></details>
+   Link:<a href="https://www.ndl.go.jp/en/" target="_blank" rel="noopener noreferrer nofollow">https://www.ndl.go.jp/en/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Diet LibraryThe official website of the National Diet Library. The Library collects and conserves materials and information both...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: phonicshero.com  
-   Link: <a href="https://phonicshero.com/automaticity-in-reading/" target="_blank" rel="noopener noreferrer nofollow">https://phonicshero.com/automaticity-in-reading/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Phonics HeroDeveloping Automaticity in ReadingAutomaticity is the ability to rapidly, effortlessly and accurately recognise or decode wor...</p></details>
+   Link:<a href="https://phonicshero.com/automaticity-in-reading/" target="_blank" rel="noopener noreferrer nofollow">https://phonicshero.com/automaticity-in-reading/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Phonics HeroDeveloping Automaticity in ReadingAutomaticity is the ability to rapidly, effortlessly and accurately recognise or decode wor...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: greatleaps.com  
-   Link: <a href="https://greatleaps.com/pages/research?srsltid=AfmBOorPtEuicR8hrvz5x9o6VbAywQD4W4TlCm33Sv03nrpBBsZnAKkh" target="_blank" rel="noopener noreferrer nofollow">https://greatleaps.com/pages/research?srsltid=AfmBOorPtEuicR8hrvz5x9o6VbAywQD4W4TlCm33Sv03nrpBBsZnAKkh</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchThree key elements of reading fluency are accuracy in word decoding, automaticity in recognizing words, and appropriate use of pr...</p></details>
+   Link:<a href="https://greatleaps.com/pages/research?srsltid=AfmBOorPtEuicR8hrvz5x9o6VbAywQD4W4TlCm33Sv03nrpBBsZnAKkh" target="_blank" rel="noopener noreferrer nofollow">https://greatleaps.com/pages/research?srsltid=AfmBOorPtEuicR8hrvz5x9o6VbAywQD4W4TlCm33Sv03nrpBBsZnAKkh</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchThree key elements of reading fluency are accuracy in word decoding, automaticity in recognizing words, and appropriate use of pr...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: irrc.education.uiowa.edu  
    Title: two buckets same well relationship between reading and writing automaticity  
-   Link: <a href="https://irrc.education.uiowa.edu/blog/2026/03/two-buckets-same-well-relationship-between-reading-and-writing-automaticity" target="_blank" rel="noopener noreferrer nofollow">https://irrc.education.uiowa.edu/blog/2026/03/two-buckets-same-well-relationship-between-reading-and-writing-automaticity</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Relationship Between Reading...10 Mar 2026 — Research shows that reading and writing automaticity are associated in upper-elementary...</p></details>
+   Link:<a href="https://irrc.education.uiowa.edu/blog/2026/03/two-buckets-same-well-relationship-between-reading-and-writing-automaticity" target="_blank" rel="noopener noreferrer nofollow">https://irrc.education.uiowa.edu/blog/2026/03/two-buckets-same-well-relationship-between-reading-and-writing-automaticity</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Relationship Between Reading...10 Mar 2026 — Research shows that reading and writing automaticity are associated in upper-elementary...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: panasonic.jp  
-   Link: <a href="https://panasonic.jp/" target="_blank" rel="noopener noreferrer nofollow">https://panasonic.jp/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>パナソニック商品情報パナソニックが提供する、個人のお客様向け商品情報サイトのトップページです。パナソニックのAVC商品、生活家電、美容・健康商品や、カーナビ、パソコン、住宅設備、...</p></details>
+   Link:<a href="https://panasonic.jp/" target="_blank" rel="noopener noreferrer nofollow">https://panasonic.jp/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>パナソニック商品情報パナソニックが提供する、個人のお客様向け商品情報サイトのトップページです。パナソニックのAVC商品、生活家電、美容・健康商品や、カーナビ、パソコン、住宅設備、...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: campbellcreatesreaders.com  
-   Link: <a href="https://www.campbellcreatesreaders.com/blog/nrpfluency" target="_blank" rel="noopener noreferrer nofollow">https://www.campbellcreatesreaders.com/blog/nrpfluency</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>For the National Reading Panel, their focus was really two questions: does repeated...Read more...</p></details>
+   Link:<a href="https://www.campbellcreatesreaders.com/blog/nrpfluency" target="_blank" rel="noopener noreferrer nofollow">https://www.campbellcreatesreaders.com/blog/nrpfluency</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>For the National Reading Panel, their focus was really two questions: does repeated...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/249134643_A_Review_of_the_National_Reading_Panel%27s_Studies_on_Fluency_The_Role_of_Text" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/249134643_A_Review_of_the_National_Reading_Panel%27s_Studies_on_Fluency_The_Role_of_Text</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>test degree of generalization when instructional materials were matched to the...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/249134643_A_Review_of_the_National_Reading_Panel%27s_Studies_on_Fluency_The_Role_of_Text" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/249134643_A_Review_of_the_National_Reading_Panel%27s_Studies_on_Fluency_The_Role_of_Text</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>test degree of generalization when instructional materials were matched to the...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: fcrr.org  
    Title: Florida Center for Reading Research Components of Reading  
-   Link: <a href="https://fcrr.org/reading-success/components" target="_blank" rel="noopener noreferrer nofollow">https://fcrr.org/reading-success/components</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Florida Center for Reading ResearchComponents of Reading - ResourcesThe components of reading are oral language, phonological awareness...</p></details>
+   Link:<a href="https://fcrr.org/reading-success/components" target="_blank" rel="noopener noreferrer nofollow">https://fcrr.org/reading-success/components</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Florida Center for Reading ResearchComponents of Reading - ResourcesThe components of reading are oral language, phonological awareness...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/230301809_Repeated_reading_and_vocabulary-previewing_interventions_to_improve_fluency_and_comprehension_for_struggling_high-school_readers" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/230301809_Repeated_reading_and_vocabulary-previewing_interventions_to_improve_fluency_and_comprehension_for_struggling_high-school_readers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>he same text multiple times to improve both speed and accuracy, and...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/230301809_Repeated_reading_and_vocabulary-previewing_interventions_to_improve_fluency_and_comprehension_for_struggling_high-school_readers" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/230301809_Repeated_reading_and_vocabulary-previewing_interventions_to_improve_fluency_and_comprehension_for_struggling_high-school_readers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>he same text multiple times to improve both speed and accuracy, and...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DZGTCM0EUQx/?img_index=2" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZGTCM0EUQx/?img_index=2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Literacy skills–such as reading comprehension, vocabulary...IOWA Reading Research Center Why Literacy Matters in Every Subject...</p></details>
+   Link:<a href="https://www.instagram.com/p/DZGTCM0EUQx/?img_index=2" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DZGTCM0EUQx/?img_index=2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Literacy skills–such as reading comprehension, vocabulary...IOWA Reading Research Center Why Literacy Matters in Every Subject...</p></details>

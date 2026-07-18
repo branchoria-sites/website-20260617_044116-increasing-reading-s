@@ -273,7 +273,7 @@ One of the most common mistakes in [speed-reading]({{ 'myths/' | relative_url }}
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_inner_voice_r_589d88_text_difficul_4f941d_legal_clauses_6dce4f-Illustration-1-dark.svg" | relative_url }}" alt="Legal wording illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_inner_voice_r_589d88_text_difficul_4f941d_legal_clauses_6dce4f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_inner_voice_r_589d88_text_difficul_4f941d_legal_clauses_6dce4f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The reason is simple: legal meaning frequently depends not on the general message of a paragraph but on the exact relationship between words such as “if”, “unless”, “except”, “subject to”, and “notwithstanding”. Courts routinely interpret agreements by examining precise wording, and disputes often arise when language is ambiguous or misunderstood. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/388316266_Interpreting_Contracts_The_Importance_of_Language_Precision" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2Ashurst]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">388316266 Interpreting Contracts The Importance of Language Precision</span><span class="citation-popover-snippet">ResearchGate(PDF) Interpreting Contracts: The Importance of Language...23 Jan 2025 — This paper examines the critical role of language p...</span></span></span>
+The reason is simple: legal meaning frequently depends not on the general message of a paragraph but on the exact relationship between words such as “if”, “unless”, “except”, “subject to”, and “notwithstanding”. Courts routinely interpret agreements by examining precise wording, and disputes often arise when language is ambiguous or misunderstood.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/388316266_Interpreting_Contracts_The_Importance_of_Language_Precision" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2Ashurst]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">388316266 Interpreting Contracts The Importance of Language Precision</span><span class="citation-popover-snippet">ResearchGate(PDF) Interpreting Contracts: The Importance of Language...23 Jan 2025 — This paper examines the critical role of language p...</span></span></span>
 
 ## When a Small Word Changes Everything
 
@@ -285,9 +285,9 @@ Consider these common legal signals:
 * **Unless** creates an exception.
 * **Except** removes something from a general rule.
 * **Subject to** makes one provision subordinate to another.
-* **Notwithstanding** often indicates that a provision prevails over conflicting language elsewhere in the document. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://jm919846758.wordpress.com/wp-content/uploads/2020/09/rlilt.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jm919846758.wordpress.com">[JM+2OsgoodePD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jm919846758.wordpress.com</span><span class="citation-popover-title">JMReading Law: The Interpretation of Legal Texts</span><span class="citation-popover-snippet">March 21, 2019 — by CJFH Easterbrook — Subordinating language (signaled by subject to) or superordinating language (signaled by notwithst...</span><span class="citation-popover-meta">Published: March 21, 2019</span></span></span>
+* **Notwithstanding** often indicates that a provision prevails over conflicting language elsewhere in the document.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://jm919846758.wordpress.com/wp-content/uploads/2020/09/rlilt.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jm919846758.wordpress.com">[JM+2OsgoodePD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jm919846758.wordpress.com</span><span class="citation-popover-title">JMReading Law: The Interpretation of Legal Texts</span><span class="citation-popover-snippet">March 21, 2019 — by CJFH Easterbrook — Subordinating language (signaled by subject to) or superordinating language (signaled by notwithst...</span><span class="citation-popover-meta">Published: March 21, 2019</span></span></span>
 
-A reader moving too quickly may understand the overall topic correctly while missing the actual legal effect. For example, a clause that appears to grant a right may immediately take it away through a later exception. The difference between “you may terminate the agreement” and “you may terminate the agreement only if certain conditions are met” is not a minor detail; it is the core meaning of the clause. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.adamsdrafting.com/shall-not-unless-versus-may-only-if/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adamsdrafting.com">[Adams on Contract Drafting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adamsdrafting.com</span><span class="citation-popover-title">Adams on Contract Drafting&quot;Shall Not</span><span class="citation-popover-snippet">Unless&quot; Versus &quot;May... Only If&quot; (Updated!)Dec 9, 2014 — You know already that MSCD recommends using “shall not” instead of “may not.” So...</span></span></span>
+A reader moving too quickly may understand the overall topic correctly while missing the actual legal effect. For example, a clause that appears to grant a right may immediately take it away through a later exception. The difference between “you may terminate the agreement” and “you may terminate the agreement only if certain conditions are met” is not a minor detail; it is the core meaning of the clause.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.adamsdrafting.com/shall-not-unless-versus-may-only-if/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adamsdrafting.com">[Adams on Contract Drafting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adamsdrafting.com</span><span class="citation-popover-title">Adams on Contract Drafting&quot;Shall Not</span><span class="citation-popover-snippet">Unless&quot; Versus &quot;May... Only If&quot; (Updated!)Dec 9, 2014 — You know already that MSCD recommends using “shall not” instead of “may not.” So...</span></span></span>
 
 This is where a stronger inner voice can help. Mentally hearing the sentence structure makes it easier to track qualifications, [exceptions]({{ 'exceptions/' | relative_url }}), and logical dependencies that are easy to skip visually.
 
@@ -308,7 +308,7 @@ But the full provision could continue:
 
 The practical meaning lies in the exceptions, not merely the opening rule.
 
-Contract-drafting specialists regularly warn that terms such as “unless”, “provided that”, and “except to the extent” require careful logical analysis because they alter how the main clause operates. Even experienced lawyers debate the interpretation of these constructions when drafting is unclear. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://osgoodepd.ca/blog/unless-clauses-and-other-insights-into-contract-drafting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osgoodepd.ca">[OsgoodePD+2Adams on Contract Drafting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osgoodepd.ca</span><span class="citation-popover-snippet">OsgoodePD&quot;Unless&quot; Clauses and Other Insights into Contract DraftingJan 29, 2016 — The version using unless is a simplified version of the...</span></span></span>
+Contract-drafting specialists regularly warn that terms such as “unless”, “provided that”, and “except to the extent” require careful logical analysis because they alter how the main clause operates. Even experienced lawyers debate the interpretation of these constructions when drafting is unclear.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://osgoodepd.ca/blog/unless-clauses-and-other-insights-into-contract-drafting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osgoodepd.ca">[OsgoodePD+2Adams on Contract Drafting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osgoodepd.ca</span><span class="citation-popover-snippet">OsgoodePD&quot;Unless&quot; Clauses and Other Insights into Contract DraftingJan 29, 2016 — The version using unless is a simplified version of the...</span></span></span>
 
 For readers trying to increase reading speed, this creates an important distinction:
 
@@ -330,17 +330,17 @@ Words that speed readers might normally skim include:
 
 * not
 * unless
-* except <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.adamsdrafting.com/except-to-the-extent-prohibited-by-law-redundant-or-not/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adamsdrafting.com">[adamsdrafting.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adamsdrafting.com</span><span class="citation-popover-title">except to the extent prohibited by law redundant or not</span><span class="citation-popover-snippet">Adams on Contract Drafting&quot;Except to the Extent Prohibited by Law&quot;: Redundant or Not?Mar 24, 2022 — This phrase is the obverse of except...</span></span></span>
+* except<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.adamsdrafting.com/except-to-the-extent-prohibited-by-law-redundant-or-not/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adamsdrafting.com">[adamsdrafting.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adamsdrafting.com</span><span class="citation-popover-title">except to the extent prohibited by law redundant or not</span><span class="citation-popover-snippet">Adams on Contract Drafting&quot;Except to the Extent Prohibited by Law&quot;: Redundant or Not?Mar 24, 2022 — This phrase is the obverse of except...</span></span></span>
 * only
 * subject to
-* provided that <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.adamsdrafting.com/provided-that/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adamsdrafting.com">[adamsdrafting.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adamsdrafting.com</span><span class="citation-popover-title">provided that</span><span class="citation-popover-snippet">Adams on Contract DraftingProvided That23 Aug 2008 — In legal contracts, exceptions (ie. “unless”) impose a logical rigour, encapsulation...</span></span></span>
+* provided that<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.adamsdrafting.com/provided-that/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adamsdrafting.com">[adamsdrafting.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adamsdrafting.com</span><span class="citation-popover-title">provided that</span><span class="citation-popover-snippet">Adams on Contract DraftingProvided That23 Aug 2008 — In legal contracts, exceptions (ie. “unless”) impose a logical rigour, encapsulation...</span></span></span>
 * notwithstanding
 
 </div>
 
-These words often determine the logical relationship between clauses. Research and professional guidance on contract interpretation repeatedly emphasise that agreements must be read as integrated documents rather than isolated snippets because meaning often emerges from how provisions interact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pressbooks.lib.vt.edu/constructioncontracting/chapter/common-rules-of-contract-interpretation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pressbooks.lib.vt.edu">[Pressbooks Virginia Tech+2Ashurst]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pressbooks.lib.vt.edu</span><span class="citation-popover-title">Pressbooks Virginia Tech20</span><span class="citation-popover-snippet">Common Rules of Contract Interpretationby SH Bartholomew · 2022 · Cited by 1 — First, and most important, the contract must be read as a...</span></span></span>
+These words often determine the logical relationship between clauses. Research and professional guidance on contract interpretation repeatedly emphasise that agreements must be read as integrated documents rather than isolated snippets because meaning often emerges from how provisions interact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pressbooks.lib.vt.edu/constructioncontracting/chapter/common-rules-of-contract-interpretation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pressbooks.lib.vt.edu">[Pressbooks Virginia Tech+2Ashurst]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pressbooks.lib.vt.edu</span><span class="citation-popover-title">Pressbooks Virginia Tech20</span><span class="citation-popover-snippet">Common Rules of Contract Interpretationby SH Bartholomew · 2022 · Cited by 1 — First, and most important, the contract must be read as a...</span></span></span>
 
-Another challenge is cross-referencing. Contracts frequently direct readers to other sections, schedules, appendices, or [definitions]({{ 'definitions/' | relative_url }}). A sentence that seems straightforward may contain a defined term with a specialised meaning elsewhere in the document. Cross-references increase reading difficulty because readers must repeatedly connect separate parts of the text to understand a single provision. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://obiter.mandela.ac.za/article/download/12339/17312" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: obiter.mandela.ac.za">[Obiter+2Washington State Bar News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">obiter.mandela.ac.za</span><span class="citation-popover-snippet">Open source on mandela.ac.za.</span></span></span>
+Another challenge is cross-referencing. Contracts frequently direct readers to other sections, schedules, appendices, or [definitions]({{ 'definitions/' | relative_url }}). A sentence that seems straightforward may contain a defined term with a specialised meaning elsewhere in the document. Cross-references increase reading difficulty because readers must repeatedly connect separate parts of the text to understand a single provision.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://obiter.mandela.ac.za/article/download/12339/17312" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: obiter.mandela.ac.za">[Obiter+2Washington State Bar News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">obiter.mandela.ac.za</span><span class="citation-popover-snippet">Open source on mandela.ac.za.</span></span></span>
 
 This structure rewards deliberate reading rather than rapid visual scanning.
 
@@ -351,7 +351,7 @@ This structure rewards deliberate reading rather than rapid visual scanning.
 
 Many contracts devote substantial space to definitions. To a hurried reader, these sections can appear tedious and repetitive. Yet definitions are often where legal precision is established.
 
-A seemingly ordinary word may have a specialised contractual meaning. Terms such as “Business Day”, “Confidential Information”, “Material Breach”, or “Affiliate” can determine how the rest of the agreement functions. Defined terms exist precisely because ordinary language is not always precise enough for legal purposes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://weagree.com/clm/contracts/contract-clauses-explained/definitions-in-contracts-22-best-practice-rules/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weagree.com">[weagree.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weagree.com</span><span class="citation-popover-title">Definitions in contracts – 22 best practice rules</span><span class="citation-popover-snippet">At the same time, it is a contract drafting discipline.Read more...</span></span></span>
+A seemingly ordinary word may have a specialised contractual meaning. Terms such as “Business Day”, “Confidential Information”, “Material Breach”, or “Affiliate” can determine how the rest of the agreement functions. Defined terms exist precisely because ordinary language is not always precise enough for legal purposes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://weagree.com/clm/contracts/contract-clauses-explained/definitions-in-contracts-22-best-practice-rules/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weagree.com">[weagree.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weagree.com</span><span class="citation-popover-title">Definitions in contracts – 22 best practice rules</span><span class="citation-popover-snippet">At the same time, it is a contract drafting discipline.Read more...</span></span></span>
 
 A reader who skips definitions may believe they understand a clause while unknowingly applying the wrong meaning to a key term. This is another situation where slowing down improves efficiency. Spending thirty seconds verifying a definition can prevent a major misunderstanding later.
 
@@ -373,7 +373,7 @@ A practical approach is to perform a targeted close-reading pass whenever a clau
 * Contains multiple exceptions.
 * Includes cross-references to other sections.
 * Uses override language such as “subject to” or “notwithstanding”.
-* Depends heavily on defined terms. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://jm919846758.wordpress.com/wp-content/uploads/2020/09/rlilt.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jm919846758.wordpress.com">[JM+2Pressbooks Virginia Tech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jm919846758.wordpress.com</span><span class="citation-popover-title">JMReading Law: The Interpretation of Legal Texts</span><span class="citation-popover-snippet">March 21, 2019 — by CJFH Easterbrook — Subordinating language (signaled by subject to) or superordinating language (signaled by notwithst...</span><span class="citation-popover-meta">Published: March 21, 2019</span></span></span>
+* Depends heavily on defined terms.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://jm919846758.wordpress.com/wp-content/uploads/2020/09/rlilt.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jm919846758.wordpress.com">[JM+2Pressbooks Virginia Tech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jm919846758.wordpress.com</span><span class="citation-popover-title">JMReading Law: The Interpretation of Legal Texts</span><span class="citation-popover-snippet">March 21, 2019 — by CJFH Easterbrook — Subordinating language (signaled by subject to) or superordinating language (signaled by notwithst...</span><span class="citation-popover-meta">Published: March 21, 2019</span></span></span>
 
 </div>
 
@@ -385,185 +385,185 @@ The objective is not maximum speed. It is maximum accuracy where accuracy matter
 <img src="{{ "/assets/images/increasing_re_852ca6_inner_voice_r_589d88_text_difficul_4f941d_legal_clauses_6dce4f-Illustration-3-dark.svg" | relative_url }}" alt="Legal wording illustration 3" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_inner_voice_r_589d88_text_difficul_4f941d_legal_clauses_6dce4f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_inner_voice_r_589d88_text_difficul_4f941d_legal_clauses_6dce4f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Slowing Down Can Be the Faster Choice
 
-Contracts exist because precise wording has consequences. Courts commonly begin interpretation by examining the actual language chosen by the parties, and disputes frequently arise when wording is vague or capable of multiple interpretations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ashurst.com/en/insights/quickguide-interpretation-of-contracts-under-english-law/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ashurst.com">[Ashurst+2Association of Corporate Counsel (ACC)]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ashurst.com</span><span class="citation-popover-snippet">Quickguide - Interpretation of contracts under English law4 Feb 2025 — This guide summarises the general approach taken by the Eng...</span></span></span>
+Contracts exist because precise wording has consequences. Courts commonly begin interpretation by examining the actual language chosen by the parties, and disputes frequently arise when wording is vague or capable of multiple interpretations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ashurst.com/en/insights/quickguide-interpretation-of-contracts-under-english-law/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ashurst.com">[Ashurst+2Association of Corporate Counsel (ACC)]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ashurst.com</span><span class="citation-popover-snippet">Quickguide - Interpretation of contracts under English law4 Feb 2025 — This guide summarises the general approach taken by the Eng...</span></span></span>
 
 For that reason, legal text sits at the opposite end of the spectrum from material designed for quick consumption. While many forms of reading allow the inner voice to fade into the [background]({{ 'expertise/' | relative_url }}), legal clauses often reward bringing it back to the foreground. The extra attention helps readers notice conditions, exceptions, definitions, and logical relationships that determine what the text really says.
 
 In the context of increasing reading speed, the lesson is not that legal documents must always be read slowly. It is that legal wording is one of the clearest examples of a situation where precision outweighs pace. Missing a qualifier can cost far more time than slowing down long enough to understand it correctly the first time.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When one clause is worth slowing down for. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When one clause is worth slowing down for. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Provides general close-reading methods applicable to legal texts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Provides general close-reading methods applicable to legal texts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Legal+writing+in+plain+English+Bryan+A.+Garner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Legal writing in plain English on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13173529-M.jpg" alt="Cover for Legal writing in plain English" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Legal+writing+in+plain+English+Bryan+A.+Garner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Legal writing in plain English">Legal writing in plain English</a>
-        </h4>
-        <p class="fr-book-author">By Bryan A. Garner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Legal+writing+in+plain+English+Bryan+A.+Garner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Legal writing in plain English on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13173529-M.jpg" alt="Cover for Legal writing in plain English" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Legal+writing+in+plain+English+Bryan+A.+Garner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Legal writing in plain English">Legal writing in plain English</a>
+</h4>
+<p class="fr-book-author">By Bryan A. Garner</p>
         
-        <p class="fr-book-desc">First published 2001. Subjects: Legal composition, Englisch, Englischunterricht.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Legal+writing+in+plain+English+Bryan+A.+Garner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2001. Subjects: Legal composition, Englisch, Englischunterricht.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Legal+writing+in+plain+English+Bryan+A.+Garner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Curmudgeon%27s+Guide+to+Practicing+Law+Mark+Herrmann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Curmudgeon&#x27;s Guide to Practicing Law on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/859849-M.jpg" alt="Cover for The Curmudgeon&#x27;s Guide to Practicing Law" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Curmudgeon%27s+Guide+to+Practicing+Law+Mark+Herrmann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Curmudgeon&#x27;s Guide to Practicing Law">The Curmudgeon&#x27;s Guide to Practicing Law</a>
-        </h4>
-        <p class="fr-book-author">By Mark  Herrmann</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Curmudgeon%27s+Guide+to+Practicing+Law+Mark+Herrmann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Curmudgeon&#x27;s Guide to Practicing Law on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/859849-M.jpg" alt="Cover for The Curmudgeon&#x27;s Guide to Practicing Law" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Curmudgeon%27s+Guide+to+Practicing+Law+Mark+Herrmann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Curmudgeon&#x27;s Guide to Practicing Law">The Curmudgeon&#x27;s Guide to Practicing Law</a>
+</h4>
+<p class="fr-book-author">By Mark  Herrmann</p>
         
-        <p class="fr-book-desc">First published 2006. Subjects: Practice of law, Lawyers, Lawyers, united states, Practice of law -- United States, Lawyers -- United Sta...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Curmudgeon%27s+Guide+to+Practicing+Law+Mark+Herrmann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2006. Subjects: Practice of law, Lawyers, Lawyers, united states, Practice of law -- United States, Lawyers -- United Sta...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Curmudgeon%27s+Guide+to+Practicing+Law+Mark+Herrmann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Reading+Law+Antonin+Scalia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading Law on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7144607-M.jpg" alt="Cover for Reading Law" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Reading+Law+Antonin+Scalia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading Law">Reading Law</a>
-        </h4>
-        <p class="fr-book-author">By Antonin Scalia, Bryan A. Garner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Reading+Law+Antonin+Scalia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading Law on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7144607-M.jpg" alt="Cover for Reading Law" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Reading+Law+Antonin+Scalia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading Law">Reading Law</a>
+</h4>
+<p class="fr-book-author">By Antonin Scalia, Bryan A. Garner</p>
         
-        <p class="fr-book-desc">First published 2012. Subjects: Judicial process, Law, Jurisprudence, Statutes, Philosophy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Reading+Law+Antonin+Scalia&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2012. Subjects: Judicial process, Law, Jurisprudence, Statutes, Philosophy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Reading+Law+Antonin+Scalia&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Legal+writing+in+plain+English&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Legal writing in plain English</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Curmudgeon%27s+to+Practicing+Law+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Curmudgeon&#x27;s to Practicing Law books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Legal+writing+in+plain+English&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Legal writing in plain English</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Curmudgeon%27s+to+Practicing+Law+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Curmudgeon&#x27;s to Practicing Law books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=poetry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-wording-when-one-clause-is-worth-slowing-down-for-increasing-poetry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="poetry wall art" data-ebay-reference="legal-wording-when-one-clause-is-worth-slowing-down-for-increasing-poetry-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Persian calligraphy poetry wall art canvas Jesus painting 40 x 50 cm"><img src="{{ '/assets/images/marketplace-covers/4b8c273328f7db634e96.jpg' | relative_url }}" alt="Listing image for Persian calligraphy poetry wall art canvas Jesus painting 40 x 50 cm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=poetry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-wording-when-one-clause-is-worth-slowing-down-for-increasing-poetry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="poetry wall art" data-ebay-reference="legal-wording-when-one-clause-is-worth-slowing-down-for-increasing-poetry-wall-art" target="_blank" rel="sponsored noopener noreferrer">Persian calligraphy poetry wall art canvas Jesus painting 40 x 50 cm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=poetry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-wording-when-one-clause-is-worth-slowing-down-for-increasing-poetry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="poetry wall art" data-ebay-reference="legal-wording-when-one-clause-is-worth-slowing-down-for-increasing-poetry-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for poetry wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: poetry wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=poetry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-wording-when-one-clause-is-worth-slowing-down-for-increasing-poetry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="poetry wall art" data-ebay-reference="legal-wording-when-one-clause-is-worth-slowing-down-for-increasing-poetry-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=poetry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-wording-when-one-clause-is-worth-slowing-down-for-increasing-poetry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="poetry wall art" data-ebay-reference="legal-wording-when-one-clause-is-worth-slowing-down-for-increasing-poetry-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Persian calligraphy poetry wall art canvas Jesus painting 40 x 50 cm"><img src="{{ '/assets/images/marketplace-covers/4b8c273328f7db634e96.jpg' | relative_url }}" alt="Listing image for Persian calligraphy poetry wall art canvas Jesus painting 40 x 50 cm" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=poetry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-wording-when-one-clause-is-worth-slowing-down-for-increasing-poetry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="poetry wall art" data-ebay-reference="legal-wording-when-one-clause-is-worth-slowing-down-for-increasing-poetry-wall-art" target="_blank" rel="sponsored noopener noreferrer">Persian calligraphy poetry wall art canvas Jesus painting 40 x 50 cm</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=poetry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-wording-when-one-clause-is-worth-slowing-down-for-increasing-poetry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="poetry wall art" data-ebay-reference="legal-wording-when-one-clause-is-worth-slowing-down-for-increasing-poetry-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for poetry wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: poetry wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=poetry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-wording-when-one-clause-is-worth-slowing-down-for-increasing-poetry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="poetry wall art" data-ebay-reference="legal-wording-when-one-clause-is-worth-slowing-down-for-increasing-poetry-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=poetry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-wording-when-one-clause-is-worth-slowing-down-for-increasing-poetry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="poetry wall art" data-ebay-reference="legal-wording-when-one-clause-is-worth-slowing-down-for-increasing-poetry-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Persian calligraphy poetry wall art canvas painting 30 x 40 cm"><img src="{{ '/assets/images/marketplace-covers/96decc8760c13e4771f1.jpg' | relative_url }}" alt="Listing image for Persian calligraphy poetry wall art canvas painting 30 x 40 cm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=poetry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-wording-when-one-clause-is-worth-slowing-down-for-increasing-poetry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="poetry wall art" data-ebay-reference="legal-wording-when-one-clause-is-worth-slowing-down-for-increasing-poetry-wall-art" target="_blank" rel="sponsored noopener noreferrer">Persian calligraphy poetry wall art canvas painting 30 x 40 cm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=poetry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-wording-when-one-clause-is-worth-slowing-down-for-increasing-poetry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="poetry wall art" data-ebay-reference="legal-wording-when-one-clause-is-worth-slowing-down-for-increasing-poetry-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for poetry wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: poetry wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=poetry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-wording-when-one-clause-is-worth-slowing-down-for-increasing-poetry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="poetry wall art" data-ebay-reference="legal-wording-when-one-clause-is-worth-slowing-down-for-increasing-poetry-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=poetry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-wording-when-one-clause-is-worth-slowing-down-for-increasing-poetry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="poetry wall art" data-ebay-reference="legal-wording-when-one-clause-is-worth-slowing-down-for-increasing-poetry-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Persian calligraphy poetry wall art canvas painting 30 x 40 cm"><img src="{{ '/assets/images/marketplace-covers/96decc8760c13e4771f1.jpg' | relative_url }}" alt="Listing image for Persian calligraphy poetry wall art canvas painting 30 x 40 cm" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=poetry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-wording-when-one-clause-is-worth-slowing-down-for-increasing-poetry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="poetry wall art" data-ebay-reference="legal-wording-when-one-clause-is-worth-slowing-down-for-increasing-poetry-wall-art" target="_blank" rel="sponsored noopener noreferrer">Persian calligraphy poetry wall art canvas painting 30 x 40 cm</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=poetry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-wording-when-one-clause-is-worth-slowing-down-for-increasing-poetry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="poetry wall art" data-ebay-reference="legal-wording-when-one-clause-is-worth-slowing-down-for-increasing-poetry-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for poetry wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: poetry wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=poetry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-wording-when-one-clause-is-worth-slowing-down-for-increasing-poetry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="poetry wall art" data-ebay-reference="legal-wording-when-one-clause-is-worth-slowing-down-for-increasing-poetry-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=poetry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-wording-when-one-clause-is-worth-slowing-down-for-increasing-poetry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="poetry wall art" data-ebay-reference="legal-wording-when-one-clause-is-worth-slowing-down-for-increasing-poetry-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WINE IS BOTTLED POETRY WALL ART STICKER, DECAL - Kitchen, Bar, Pub, Restaurant"><img src="{{ '/assets/images/marketplace-covers/54d951aad65931c4f270.jpg' | relative_url }}" alt="Listing image for WINE IS BOTTLED POETRY WALL ART STICKER, DECAL - Kitchen, Bar, Pub, Restaurant" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=poetry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-wording-when-one-clause-is-worth-slowing-down-for-increasing-poetry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="poetry wall art" data-ebay-reference="legal-wording-when-one-clause-is-worth-slowing-down-for-increasing-poetry-wall-art" target="_blank" rel="sponsored noopener noreferrer">WINE IS BOTTLED POETRY WALL ART STICKER, DECAL - Kitchen, Bar, Pub, Restaurant</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=poetry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-wording-when-one-clause-is-worth-slowing-down-for-increasing-poetry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="poetry wall art" data-ebay-reference="legal-wording-when-one-clause-is-worth-slowing-down-for-increasing-poetry-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for poetry wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: poetry wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=poetry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-wording-when-one-clause-is-worth-slowing-down-for-increasing-poetry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="poetry wall art" data-ebay-reference="legal-wording-when-one-clause-is-worth-slowing-down-for-increasing-poetry-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=poetry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-wording-when-one-clause-is-worth-slowing-down-for-increasing-poetry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="poetry wall art" data-ebay-reference="legal-wording-when-one-clause-is-worth-slowing-down-for-increasing-poetry-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=poetry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-wording-when-one-clause-is-worth-slowing-down-for-increasing-poetry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="poetry wall art" data-ebay-reference="legal-wording-when-one-clause-is-worth-slowing-down-for-increasing-poetry-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WINE IS BOTTLED POETRY WALL ART STICKER, DECAL - Kitchen, Bar, Pub, Restaurant"><img src="{{ '/assets/images/marketplace-covers/54d951aad65931c4f270.jpg' | relative_url }}" alt="Listing image for WINE IS BOTTLED POETRY WALL ART STICKER, DECAL - Kitchen, Bar, Pub, Restaurant" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=poetry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-wording-when-one-clause-is-worth-slowing-down-for-increasing-poetry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="poetry wall art" data-ebay-reference="legal-wording-when-one-clause-is-worth-slowing-down-for-increasing-poetry-wall-art" target="_blank" rel="sponsored noopener noreferrer">WINE IS BOTTLED POETRY WALL ART STICKER, DECAL - Kitchen, Bar, Pub, Restaurant</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=poetry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-wording-when-one-clause-is-worth-slowing-down-for-increasing-poetry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="poetry wall art" data-ebay-reference="legal-wording-when-one-clause-is-worth-slowing-down-for-increasing-poetry-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for poetry wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: poetry wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=poetry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-wording-when-one-clause-is-worth-slowing-down-for-increasing-poetry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="poetry wall art" data-ebay-reference="legal-wording-when-one-clause-is-worth-slowing-down-for-increasing-poetry-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=poetry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-wording-when-one-clause-is-worth-slowing-down-for-increasing-poetry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="poetry wall art" data-ebay-reference="legal-wording-when-one-clause-is-worth-slowing-down-for-increasing-poetry-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -579,7 +579,7 @@ In the context of increasing reading speed, the lesson is not that legal documen
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -599,7 +599,7 @@ In the context of increasing reading speed, the lesson is not that legal documen
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -631,7 +631,7 @@ In the context of increasing reading speed, the lesson is not that legal documen
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -683,7 +683,7 @@ In the context of increasing reading speed, the lesson is not that legal documen
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -728,7 +728,7 @@ In the context of increasing reading speed, the lesson is not that legal documen
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -769,133 +769,133 @@ In the context of increasing reading speed, the lesson is not that legal documen
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: researchgate.net  
    Title: 388316266 Interpreting Contracts The Importance of Language Precision  
-   Link: <a href="https://www.researchgate.net/publication/388316266_Interpreting_Contracts_The_Importance_of_Language_Precision" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388316266_Interpreting_Contracts_The_Importance_of_Language_Precision</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Interpreting Contracts: The Importance of Language...23 Jan 2025 — This paper examines the critical role of language p...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/388316266_Interpreting_Contracts_The_Importance_of_Language_Precision" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388316266_Interpreting_Contracts_The_Importance_of_Language_Precision</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Interpreting Contracts: The Importance of Language...23 Jan 2025 — This paper examines the critical role of language p...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ashurst.com  
-   Link: <a href="https://www.ashurst.com/en/insights/quickguide-interpretation-of-contracts-under-english-law/" target="_blank" rel="noopener noreferrer nofollow">https://www.ashurst.com/en/insights/quickguide-interpretation-of-contracts-under-english-law/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Quickguide - Interpretation of contracts under English law4 Feb 2025 — This guide summarises the general approach taken by the Eng...</p></details>
+   Link:<a href="https://www.ashurst.com/en/insights/quickguide-interpretation-of-contracts-under-english-law/" target="_blank" rel="noopener noreferrer nofollow">https://www.ashurst.com/en/insights/quickguide-interpretation-of-contracts-under-english-law/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Quickguide - Interpretation of contracts under English law4 Feb 2025 — This guide summarises the general approach taken by the Eng...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: acc.com  
    Title: Contract language is not.Read more  
-   Link: <a href="https://www.acc.com/sites/default/files/resources/vl/membersonly/Article/1446359_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.acc.com/sites/default/files/resources/vl/membersonly/Article/1446359_1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Association of Corporate Counsel (ACC)A GUIDE TO CONTRACT INTERPRETATIONby VR Martorana · 2014 · Cited by 13 — Unless there is ambiguity...</p></details>
+   Link:<a href="https://www.acc.com/sites/default/files/resources/vl/membersonly/Article/1446359_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.acc.com/sites/default/files/resources/vl/membersonly/Article/1446359_1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Association of Corporate Counsel (ACC)A GUIDE TO CONTRACT INTERPRETATIONby VR Martorana · 2014 · Cited by 13 — Unless there is ambiguity...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: osgoodepd.ca  
-   Link: <a href="https://osgoodepd.ca/blog/unless-clauses-and-other-insights-into-contract-drafting/" target="_blank" rel="noopener noreferrer nofollow">https://osgoodepd.ca/blog/unless-clauses-and-other-insights-into-contract-drafting/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OsgoodePD&quot;Unless&quot; Clauses and Other Insights into Contract DraftingJan 29, 2016 — The version using unless is a simplified version of the...</p></details>
+   Link:<a href="https://osgoodepd.ca/blog/unless-clauses-and-other-insights-into-contract-drafting/" target="_blank" rel="noopener noreferrer nofollow">https://osgoodepd.ca/blog/unless-clauses-and-other-insights-into-contract-drafting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OsgoodePD&quot;Unless&quot; Clauses and Other Insights into Contract DraftingJan 29, 2016 — The version using unless is a simplified version of the...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: weagree.com  
    Title: Definitions in contracts – 22 best [practice](&#123;&#123; 'practice/' | relative_url &#125;&#125;) rules  
-   Link: <a href="https://weagree.com/clm/contracts/contract-clauses-explained/definitions-in-contracts-22-best-practice-rules/" target="_blank" rel="noopener noreferrer nofollow">https://weagree.com/clm/contracts/contract-clauses-explained/definitions-in-contracts-22-best-practice-rules/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>At the same time, it is a contract drafting discipline.Read more...</p></details>
+   Link:<a href="https://weagree.com/clm/contracts/contract-clauses-explained/definitions-in-contracts-22-best-practice-rules/" target="_blank" rel="noopener noreferrer nofollow">https://weagree.com/clm/contracts/contract-clauses-explained/definitions-in-contracts-22-best-practice-rules/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>At the same time, it is a contract drafting discipline.Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: weagree.com  
-   Link: <a href="https://weagree.com/clm/contracts/contract-drafting-principles/plain-english-in-contracts/" target="_blank" rel="noopener noreferrer nofollow">https://weagree.com/clm/contracts/contract-drafting-principles/plain-english-in-contracts/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Plain English in contracts: how to keep it simple and clearA contract should be in plain English, meaning that the contract language used...</p></details>
+   Link:<a href="https://weagree.com/clm/contracts/contract-drafting-principles/plain-english-in-contracts/" target="_blank" rel="noopener noreferrer nofollow">https://weagree.com/clm/contracts/contract-drafting-principles/plain-english-in-contracts/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Plain English in contracts: how to keep it simple and clearA contract should be in plain English, meaning that the contract language used...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: weagree.com  
-   Link: <a href="https://weagree.com/clm/contracts/contract-structure-and-presentation/articles-sections-clause-numbering/" target="_blank" rel="noopener noreferrer nofollow">https://weagree.com/clm/contracts/contract-structure-and-presentation/articles-sections-clause-numbering/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Contract articles, sections and contract clause numberingThe division of a contract into articles, sections and subsections, and contract...</p></details>
+   Link:<a href="https://weagree.com/clm/contracts/contract-structure-and-presentation/articles-sections-clause-numbering/" target="_blank" rel="noopener noreferrer nofollow">https://weagree.com/clm/contracts/contract-structure-and-presentation/articles-sections-clause-numbering/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Contract articles, sections and contract clause numberingThe division of a contract into articles, sections and subsections, and contract...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: jm919846758.wordpress.com  
    Title: JMReading Law: The Interpretation of Legal Texts  
-   Link: <a href="https://jm919846758.wordpress.com/wp-content/uploads/2020/09/rlilt.pdf" target="_blank" rel="noopener noreferrer nofollow">https://jm919846758.wordpress.com/wp-content/uploads/2020/09/rlilt.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>March 21, 2019 — by CJFH Easterbrook — Subordinating language (signaled by subject to) or superordinating language (signaled by notwithst...</p></details>
+   Link:<a href="https://jm919846758.wordpress.com/wp-content/uploads/2020/09/rlilt.pdf" target="_blank" rel="noopener noreferrer nofollow">https://jm919846758.wordpress.com/wp-content/uploads/2020/09/rlilt.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 21, 2019 — by CJFH Easterbrook — Subordinating language (signaled by subject to) or superordinating language (signaled by notwithst...</p></details>
    Published: March 21, 2019  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: adamsdrafting.com  
    Title: provided that  
-   Link: <a href="https://www.adamsdrafting.com/provided-that/" target="_blank" rel="noopener noreferrer nofollow">https://www.adamsdrafting.com/provided-that/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Adams on Contract DraftingProvided That23 Aug 2008 — In legal contracts, exceptions (ie. “unless”) impose a logical rigour, encapsulation...</p></details>
+   Link:<a href="https://www.adamsdrafting.com/provided-that/" target="_blank" rel="noopener noreferrer nofollow">https://www.adamsdrafting.com/provided-that/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Adams on Contract DraftingProvided That23 Aug 2008 — In legal contracts, exceptions (ie. “unless”) impose a logical rigour, encapsulation...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: adamsdrafting.com  
    Title: Adams on Contract Drafting"Shall Not  
-   Link: <a href="https://www.adamsdrafting.com/shall-not-unless-versus-may-only-if/" target="_blank" rel="noopener noreferrer nofollow">https://www.adamsdrafting.com/shall-not-unless-versus-may-only-if/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unless&quot; Versus &quot;May... Only If&quot; (Updated!)Dec 9, 2014 — You know already that MSCD recommends using “shall not” instead of “may not.” So...</p></details>
+   Link:<a href="https://www.adamsdrafting.com/shall-not-unless-versus-may-only-if/" target="_blank" rel="noopener noreferrer nofollow">https://www.adamsdrafting.com/shall-not-unless-versus-may-only-if/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unless&quot; Versus &quot;May... Only If&quot; (Updated!)Dec 9, 2014 — You know already that MSCD recommends using “shall not” instead of “may not.” So...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: adamsdrafting.com  
    Title: except to the extent prohibited by law redundant or not  
-   Link: <a href="https://www.adamsdrafting.com/except-to-the-extent-prohibited-by-law-redundant-or-not/" target="_blank" rel="noopener noreferrer nofollow">https://www.adamsdrafting.com/except-to-the-extent-prohibited-by-law-redundant-or-not/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Adams on Contract Drafting&quot;Except to the Extent Prohibited by Law&quot;: Redundant or Not?Mar 24, 2022 — This phrase is the obverse of except...</p></details>
+   Link:<a href="https://www.adamsdrafting.com/except-to-the-extent-prohibited-by-law-redundant-or-not/" target="_blank" rel="noopener noreferrer nofollow">https://www.adamsdrafting.com/except-to-the-extent-prohibited-by-law-redundant-or-not/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Adams on Contract Drafting&quot;Except to the Extent Prohibited by Law&quot;: Redundant or Not?Mar 24, 2022 — This phrase is the obverse of except...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pressbooks.lib.vt.edu  
    Title: Pressbooks Virginia Tech20  
-   Link: <a href="https://pressbooks.lib.vt.edu/constructioncontracting/chapter/common-rules-of-contract-interpretation/" target="_blank" rel="noopener noreferrer nofollow">https://pressbooks.lib.vt.edu/constructioncontracting/chapter/common-rules-of-contract-interpretation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Common Rules of Contract Interpretationby SH Bartholomew · 2022 · Cited by 1 — First, and most important, the contract must be read as a...</p></details>
+   Link:<a href="https://pressbooks.lib.vt.edu/constructioncontracting/chapter/common-rules-of-contract-interpretation/" target="_blank" rel="noopener noreferrer nofollow">https://pressbooks.lib.vt.edu/constructioncontracting/chapter/common-rules-of-contract-interpretation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Common Rules of Contract Interpretationby SH Bartholomew · 2022 · Cited by 1 — First, and most important, the contract must be read as a...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: obiter.mandela.ac.za  
-   Link: <a href="https://obiter.mandela.ac.za/article/download/12339/17312" target="_blank" rel="noopener noreferrer nofollow">https://obiter.mandela.ac.za/article/download/12339/17312</a>  
+   Link:<a href="https://obiter.mandela.ac.za/article/download/12339/17312" target="_blank" rel="noopener noreferrer nofollow">https://obiter.mandela.ac.za/article/download/12339/17312</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: wabarnews.org  
-   Link: <a href="https://wabarnews.org/2024/10/08/drafting-transactional-documents-and-avoiding-ambiguity/" target="_blank" rel="noopener noreferrer nofollow">https://wabarnews.org/2024/10/08/drafting-transactional-documents-and-avoiding-ambiguity/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Washington State Bar NewsDrafting Transactional Documents and Avoiding Ambiguity8 Oct 2024 — Definite, concrete, everyday words: Use plai...</p></details>
+   Link:<a href="https://wabarnews.org/2024/10/08/drafting-transactional-documents-and-avoiding-ambiguity/" target="_blank" rel="noopener noreferrer nofollow">https://wabarnews.org/2024/10/08/drafting-transactional-documents-and-avoiding-ambiguity/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Washington State Bar NewsDrafting Transactional Documents and Avoiding Ambiguity8 Oct 2024 — Definite, concrete, everyday words: Use plai...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: shopdata.giuffre.it  
-   Link: <a href="https://shopdata.giuffre.it/media/Indice/INDICE_000530690.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shopdata.giuffre.it/media/Indice/INDICE_000530690.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drafting Legal Documents in Plain EnglishPlain and Ordinary Meaning of Express Terms............... 103. 2. Four Corners R...</p></details>
+   Link:<a href="https://shopdata.giuffre.it/media/Indice/INDICE_000530690.pdf" target="_blank" rel="noopener noreferrer nofollow">https://shopdata.giuffre.it/media/Indice/INDICE_000530690.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Drafting Legal Documents in Plain EnglishPlain and Ordinary Meaning of Express Terms............... 103. 2. Four Corners R...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/LifeProTips/comments/1qcgatr/lpt_when_reading_long_documents_contracts/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/LifeProTips/comments/1qcgatr/lpt_when_reading_long_documents_contracts/</a>  
+   Link:<a href="https://www.reddit.com/r/LifeProTips/comments/1qcgatr/lpt_when_reading_long_documents_contracts/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/LifeProTips/comments/1qcgatr/lpt_when_reading_long_documents_contracts/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: grimlaw.com  
-   Link: <a href="https://grimlaw.com/articles-of-interest/plain-language-law-contract-simple/" target="_blank" rel="noopener noreferrer nofollow">https://grimlaw.com/articles-of-interest/plain-language-law-contract-simple/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pennsylvania Plain Language LawThe objective of this Act is to protect consumers from making contracts that they do not understand, a...</p></details>
+   Link:<a href="https://grimlaw.com/articles-of-interest/plain-language-law-contract-simple/" target="_blank" rel="noopener noreferrer nofollow">https://grimlaw.com/articles-of-interest/plain-language-law-contract-simple/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Pennsylvania Plain Language LawThe objective of this Act is to protect consumers from making contracts that they do not understand, a...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: legalaid.nsw.gov.au  
-   Link: <a href="https://www.legalaid.nsw.gov.au/ways-to-get-help/representing-myself/reading-and-writing-legal-documents" target="_blank" rel="noopener noreferrer nofollow">https://www.legalaid.nsw.gov.au/ways-to-get-help/representing-myself/reading-and-writing-legal-documents</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and writing legal documentsRead the documents that relate to your case. Before you start to write your document, you should read all the...</p></details>
+   Link:<a href="https://www.legalaid.nsw.gov.au/ways-to-get-help/representing-myself/reading-and-writing-legal-documents" target="_blank" rel="noopener noreferrer nofollow">https://www.legalaid.nsw.gov.au/ways-to-get-help/representing-myself/reading-and-writing-legal-documents</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and writing legal documentsRead the documents that relate to your case. Before you start to write your document, you should read all the...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: lawsociety.org.uk  
-   Link: <a href="https://www.lawsociety.org.uk/topics/in-house/do-not-forget-your-commas-the-importance-of-language-and-grammar-in-contract-drafting" target="_blank" rel="noopener noreferrer nofollow">https://www.lawsociety.org.uk/topics/in-house/do-not-forget-your-commas-the-importance-of-language-and-grammar-in-contract-drafting</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why clear language makes for strong contracts26 Jul 2023 — Daniela Licciardo explains why grammar and language are so important for you...</p></details>
+   Link:<a href="https://www.lawsociety.org.uk/topics/in-house/do-not-forget-your-commas-the-importance-of-language-and-grammar-in-contract-drafting" target="_blank" rel="noopener noreferrer nofollow">https://www.lawsociety.org.uk/topics/in-house/do-not-forget-your-commas-the-importance-of-language-and-grammar-in-contract-drafting</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why clear language makes for strong contracts26 Jul 2023 — Daniela Licciardo explains why grammar and language are so important for you...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: bclawreview.bc.edu  
-   Link: <a href="https://bclawreview.bc.edu/articles/320/files/63a92425205eb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bclawreview.bc.edu/articles/320/files/63a92425205eb.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DUTY TO READ THE UNREADABLEby U Benoliel · 2019 · Cited by 277 — Abstract: The duty to read doctrine is a well-recognized building block...</p></details>
+   Link:<a href="https://bclawreview.bc.edu/articles/320/files/63a92425205eb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bclawreview.bc.edu/articles/320/files/63a92425205eb.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DUTY TO READ THE UNREADABLEby U Benoliel · 2019 · Cited by 277 — Abstract: The duty to read doctrine is a well-recognized building block...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: contractnerds.com  
    Title: 10 Ways to Integrate Plain Language into Contracts & Advice  
-   Link: <a href="https://contractnerds.com/10-ways-to-integrate-plain-language-into-contracts-advice/" target="_blank" rel="noopener noreferrer nofollow">https://contractnerds.com/10-ways-to-integrate-plain-language-into-contracts-advice/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 14, 2024 — Mastering plain language writing can accelerate contract negotiation, avoid disputes, aid consumer law compliance, and mak...</p></details>
+   Link:<a href="https://contractnerds.com/10-ways-to-integrate-plain-language-into-contracts-advice/" target="_blank" rel="noopener noreferrer nofollow">https://contractnerds.com/10-ways-to-integrate-plain-language-into-contracts-advice/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 14, 2024 — Mastering plain language writing can accelerate contract negotiation, avoid disputes, aid consumer law compliance, and mak...</p></details>
    Published: May 14, 2024  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: michbar.org  
-   Link: <a href="https://www.michbar.org/file/generalinfo/plainenglish/pdfs/99_feb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.michbar.org/file/generalinfo/plainenglish/pdfs/99_feb.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Phrases Not to Use in a Contract- A Lesson from Dr...When you refer to your contract, use the words &quot;this contract&quot; (not defined)...</p></details>
+   Link:<a href="https://www.michbar.org/file/generalinfo/plainenglish/pdfs/99_feb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.michbar.org/file/generalinfo/plainenglish/pdfs/99_feb.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Phrases Not to Use in a Contract- A Lesson from Dr...When you refer to your contract, use the words &quot;this contract&quot; (not defined)...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/laurafredericklaw_thecontractstruggleisreal-howtocontract-activity-7215709265234132993-Z8x9" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/laurafredericklaw_thecontractstruggleisreal-howtocontract-activity-7215709265234132993-Z8x9</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e parties have told the court which clause prevails if there is...Read more...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/laurafredericklaw_thecontractstruggleisreal-howtocontract-activity-7215709265234132993-Z8x9" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/laurafredericklaw_thecontractstruggleisreal-howtocontract-activity-7215709265234132993-Z8x9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e parties have told the court which clause prevails if there is...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: juro.com  
-   Link: <a href="https://juro.com/learn/plain-language-contracts" target="_blank" rel="noopener noreferrer nofollow">https://juro.com/learn/plain-language-contracts</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>what they are and how to draft a plain language contract in this explainer...</p></details>
+   Link:<a href="https://juro.com/learn/plain-language-contracts" target="_blank" rel="noopener noreferrer nofollow">https://juro.com/learn/plain-language-contracts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>what they are and how to draft a plain language contract in this explainer...</p></details>

@@ -273,20 +273,20 @@ A contract can contain strong promises, detailed warranties, and clear service c
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_purpose_based_25e5d2_contract_hidd_523e05_liability_cap_93a921-Illustration-1-dark.svg" | relative_url }}" alt="Liability caps illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_purpose_based_25e5d2_contract_hidd_523e05_liability_cap_93a921-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_purpose_based_25e5d2_contract_hidd_523e05_liability_cap_93a921-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For readers trying to increase contract-reading speed, liability clauses deserve immediate attention because they can change the practical value of the entire agreement. A supplier may agree to extensive obligations but cap its total liability at the amount paid under the contract. A warranty may exist, but the only remedy may be repair or replacement. A claim that appears substantial may become unrecoverable because the contract excludes certain categories of loss. These clauses are widely used as risk-allocation tools in commercial contracts and are generally enforceable when drafted clearly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ashurst.com/en/insights/quickguide-limiting-and-excluding-liability/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ashurst.com">[Ashurst]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ashurst.com</span><span class="citation-popover-title">quickguide limiting and excluding liability</span><span class="citation-popover-snippet">Quickguide Limiting and excluding liability10 Jan 2025 — This guide sets out the principles to be considered when drafting these c...</span></span></span>
+For readers trying to increase contract-reading speed, liability clauses deserve immediate attention because they can change the practical value of the entire agreement. A supplier may agree to extensive obligations but cap its total liability at the amount paid under the contract. A warranty may exist, but the only remedy may be repair or replacement. A claim that appears substantial may become unrecoverable because the contract excludes certain categories of loss. These clauses are widely used as risk-allocation tools in commercial contracts and are generally enforceable when drafted clearly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ashurst.com/en/insights/quickguide-limiting-and-excluding-liability/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ashurst.com">[Ashurst]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ashurst.com</span><span class="citation-popover-title">quickguide limiting and excluding liability</span><span class="citation-popover-snippet">Quickguide Limiting and excluding liability10 Jan 2025 — This guide sets out the principles to be considered when drafting these c...</span></span></span>
 
 ## What a liability cap actually does
 
-A liability cap places a ceiling on the amount one party can recover from the other following a breach. Without a contractual [limitation]({{ 'reading-limits/' | relative_url }}), damages can potentially extend to the full recoverable loss caused by the breach. A cap changes that calculation by imposing a maximum amount regardless of the actual harm suffered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.haynesboone.com/news/alerts/limitation-of-liability-a-general-overview-under-english-law" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: haynesboone.com">[Haynes Boone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">haynesboone.com</span><span class="citation-popover-snippet">Haynes BooneLimitation of Liability: A General Overview under English LawOct 3, 2022 — Limitation of liability provisions are a key aspec...</span></span></span>
+A liability cap places a ceiling on the amount one party can recover from the other following a breach. Without a contractual [limitation]({{ 'reading-limits/' | relative_url }}), damages can potentially extend to the full recoverable loss caused by the breach. A cap changes that calculation by imposing a maximum amount regardless of the actual harm suffered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.haynesboone.com/news/alerts/limitation-of-liability-a-general-overview-under-english-law" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: haynesboone.com">[Haynes Boone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">haynesboone.com</span><span class="citation-popover-snippet">Haynes BooneLimitation of Liability: A General Overview under English LawOct 3, 2022 — Limitation of liability provisions are a key aspec...</span></span></span>
 
-The fastest way to assess a liability clause is to ask: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.icertis.com/contracting-basics/limitation-of-liability-clause/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icertis.com">[icertis.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icertis.com</span><span class="citation-popover-title">limitation of liability clause</span><span class="citation-popover-snippet">A Comprehensive Guide19 Mar 2025 — A limitation of liability clause is a provision within a contract that caps the amount of damages one...</span></span></span>
+The fastest way to assess a liability clause is to ask:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.icertis.com/contracting-basics/limitation-of-liability-clause/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icertis.com">[icertis.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icertis.com</span><span class="citation-popover-title">limitation of liability clause</span><span class="citation-popover-snippet">A Comprehensive Guide19 Mar 2025 — A limitation of liability clause is a provision within a contract that caps the amount of damages one...</span></span></span>
 
 * What is the cap amount?
 * Does the cap apply per claim or in aggregate?
 * Does it apply to all breaches or only certain types?
 * Are there [exceptions]({{ 'exceptions/' | relative_url }}) that bypass the cap?
 
-A clause limiting liability to fees paid during the previous twelve months can dramatically reduce recovery in a long-term relationship. A software failure causing millions in disruption may still produce only a relatively small contractual recovery if the cap is tied to subscription fees rather than actual losses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bclplaw.com/a/web/72395/ironclad-or-leaky-sieve.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bclplaw.com">[BCLP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bclplaw.com</span><span class="citation-popover-title">BCLPIronclad or Leaky Sieve?</span><span class="citation-popover-snippet">April 20, 2015 — Everything seems fair and balanced until you stop sud- denly at the limitation of liability (LoL) clause.... exclusive...</span><span class="citation-popover-meta">Published: April 20, 2015</span></span></span>
+A clause limiting liability to fees paid during the previous twelve months can dramatically reduce recovery in a long-term relationship. A software failure causing millions in disruption may still produce only a relatively small contractual recovery if the cap is tied to subscription fees rather than actual losses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bclplaw.com/a/web/72395/ironclad-or-leaky-sieve.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bclplaw.com">[BCLP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bclplaw.com</span><span class="citation-popover-title">BCLPIronclad or Leaky Sieve?</span><span class="citation-popover-snippet">April 20, 2015 — Everything seems fair and balanced until you stop sud- denly at the limitation of liability (LoL) clause.... exclusive...</span><span class="citation-popover-meta">Published: April 20, 2015</span></span></span>
 
 This is why experienced contract reviewers often locate the liability section before spending time evaluating the strength of warranties. A warranty with a tiny cap may be worth far less than it first appears.
 
@@ -297,23 +297,23 @@ This is why experienced contract reviewers often locate the liability section be
 
 Liability limitations often work through a combination of caps and exclusions.
 
-A cap restricts the amount recoverable. An exclusion removes entire categories of losses from recovery altogether. Many contracts exclude indirect or consequential losses because those losses can be difficult to predict and potentially very large. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cms.law/en/gbr/legal-updates/exclusion-of-liability-for-indirect-or-consequential-losses" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cms.law">[CMS Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cms.law</span><span class="citation-popover-snippet">Exclusion of liability for “indirect or consequential” lossesThe reason for wishing to exclude liability for “indirect or consequential”...</span></span></span>
+A cap restricts the amount recoverable. An exclusion removes entire categories of losses from recovery altogether. Many contracts exclude indirect or consequential losses because those losses can be difficult to predict and potentially very large.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cms.law/en/gbr/legal-updates/exclusion-of-liability-for-indirect-or-consequential-losses" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cms.law">[CMS Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cms.law</span><span class="citation-popover-snippet">Exclusion of liability for “indirect or consequential” lossesThe reason for wishing to exclude liability for “indirect or consequential”...</span></span></span>
 
 Common exclusions include:
 
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
-* Loss of profit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ashurst.com/-/media/ashurst/documents/news-and-insights/legal-updates/2015/jul/commercial-contracts-newsletter-july-2015.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ashurst.com">[ashurst.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ashurst.com</span><span class="citation-popover-title">commercial contracts newsletter july 2015</span><span class="citation-popover-snippet">Contracts: recent developments in brief9 Jul 2015 — The supplier excluded all liability for &quot;loss of profit, loss of business, loss of go...</span><span class="citation-popover-meta">Published: july 2015</span></span></span>
+* Loss of profit.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ashurst.com/-/media/ashurst/documents/news-and-insights/legal-updates/2015/jul/commercial-contracts-newsletter-july-2015.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ashurst.com">[ashurst.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ashurst.com</span><span class="citation-popover-title">commercial contracts newsletter july 2015</span><span class="citation-popover-snippet">Contracts: recent developments in brief9 Jul 2015 — The supplier excluded all liability for &quot;loss of profit, loss of business, loss of go...</span><span class="citation-popover-meta">Published: july 2015</span></span></span>
 * Loss of revenue.
-* Loss of business opportunity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ashurst.com/-/media/ashurst/documents/news-and-insights/legal-updates/2015/jul/commercial-contracts-newsletter-july-2015.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ashurst.com">[ashurst.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ashurst.com</span><span class="citation-popover-title">commercial contracts newsletter july 2015</span><span class="citation-popover-snippet">Contracts: recent developments in brief9 Jul 2015 — The supplier excluded all liability for &quot;loss of profit, loss of business, loss of go...</span><span class="citation-popover-meta">Published: july 2015</span></span></span>
+* Loss of business opportunity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ashurst.com/-/media/ashurst/documents/news-and-insights/legal-updates/2015/jul/commercial-contracts-newsletter-july-2015.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ashurst.com">[ashurst.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ashurst.com</span><span class="citation-popover-title">commercial contracts newsletter july 2015</span><span class="citation-popover-snippet">Contracts: recent developments in brief9 Jul 2015 — The supplier excluded all liability for &quot;loss of profit, loss of business, loss of go...</span><span class="citation-popover-meta">Published: july 2015</span></span></span>
 * Loss of goodwill.
-* Indirect or consequential loss. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cms.law/en/gbr/legal-updates/exclusion-of-liability-for-indirect-or-consequential-losses" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cms.law">[cms.law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cms.law</span><span class="citation-popover-snippet">Exclusion of liability for “indirect or consequential” lossesThe reason for wishing to exclude liability for “indirect or consequential”...</span></span></span>
-* Special or punitive damages. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uk.practicallaw.thomsonreuters.com/7-507-5628?contextData=%28sc.Default%29&amp;transitionType=Default" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uk.practicallaw.thomsonreuters.com">[Practical Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uk.practicallaw.thomsonreuters.com</span><span class="citation-popover-title">Practical Law General Contract Clauses: Limitation of Liability</span><span class="citation-popover-snippet">Practical LawGeneral Contract Clauses: Limitation of Liability - Practical LawThese Standard Clauses detail the Limitation of Liability p...</span></span></span>
+* Indirect or consequential loss.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cms.law/en/gbr/legal-updates/exclusion-of-liability-for-indirect-or-consequential-losses" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cms.law">[cms.law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cms.law</span><span class="citation-popover-snippet">Exclusion of liability for “indirect or consequential” lossesThe reason for wishing to exclude liability for “indirect or consequential”...</span></span></span>
+* Special or punitive damages.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uk.practicallaw.thomsonreuters.com/7-507-5628?contextData=%28sc.Default%29&amp;transitionType=Default" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uk.practicallaw.thomsonreuters.com">[Practical Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uk.practicallaw.thomsonreuters.com</span><span class="citation-popover-title">Practical Law General Contract Clauses: Limitation of Liability</span><span class="citation-popover-snippet">Practical LawGeneral Contract Clauses: Limitation of Liability - Practical LawThese Standard Clauses detail the Limitation of Liability p...</span></span></span>
 
 </div>
 
-The practical effect can be substantial. Imagine a supplier misses a critical delivery deadline. The customer may lose a major sales opportunity. If the contract excludes lost profits and business interruption losses, the most economically significant damage may fall outside the recoverable claim even though the breach itself is clear. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://legalvision.co.uk/commercial-contracts/consequential-losses/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legalvision.co.uk">[LegalVision UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legalvision.co.uk</span><span class="citation-popover-title">nsequential losses</span><span class="citation-popover-snippet">LegalVision UKConsequential Losses: Legal Perspectives for Small...31 Mar 2025 — A limitation of liability clause protects your business...</span></span></span>
+The practical effect can be substantial. Imagine a supplier misses a critical delivery deadline. The customer may lose a major sales opportunity. If the contract excludes lost profits and business interruption losses, the most economically significant damage may fall outside the recoverable claim even though the breach itself is clear.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://legalvision.co.uk/commercial-contracts/consequential-losses/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legalvision.co.uk">[LegalVision UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legalvision.co.uk</span><span class="citation-popover-title">nsequential losses</span><span class="citation-popover-snippet">LegalVision UKConsequential Losses: Legal Perspectives for Small...31 Mar 2025 — A limitation of liability clause protects your business...</span></span></span>
 
 A useful [speed-reading]({{ 'myths/' | relative_url }}) shortcut is to ignore the legal jargon initially and focus on the question: “Which losses would matter most if this deal failed?” Then check whether those losses appear in the exclusion list. If they do, the headline obligations may provide less protection than expected.
 
@@ -324,7 +324,7 @@ A useful [speed-reading]({{ 'myths/' | relative_url }}) shortcut is to ignore th
 
 Many readers assume that all serious financial harm will be recoverable after a breach. Contracts often say otherwise.
 
-English-law contracts frequently exclude “indirect” or “consequential” loss. The problem is that these terms have [technical]({{ 'technical-texts/' | relative_url }}) legal meanings that do not always match everyday language. Courts have spent decades analysing where direct losses end and consequential losses begin, and the distinction can significantly affect recoverable damages. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stevens-bolton.com/insights/102ktw4/limiting-liability-in-commercial-contracts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stevens-bolton.com">[Stevens &amp; Bolton LLP+2Hill Dickinson]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stevens-bolton.com</span><span class="citation-popover-snippet">Stevens &amp; Bolton LLPLimiting liability in commercial contractsCase law shows that it can be difficult to know whether a loss is “conseque...</span></span></span>
+English-law contracts frequently exclude “indirect” or “consequential” loss. The problem is that these terms have [technical]({{ 'technical-texts/' | relative_url }}) legal meanings that do not always match everyday language. Courts have spent decades analysing where direct losses end and consequential losses begin, and the distinction can significantly affect recoverable damages.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.stevens-bolton.com/insights/102ktw4/limiting-liability-in-commercial-contracts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stevens-bolton.com">[Stevens &amp; Bolton LLP+2Hill Dickinson]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stevens-bolton.com</span><span class="citation-popover-snippet">Stevens &amp; Bolton LLPLimiting liability in commercial contractsCase law shows that it can be difficult to know whether a loss is “conseque...</span></span></span>
 
 When reviewing quickly, do not assume that an exclusion of consequential loss is harmless boilerplate. It may remove recovery for some of the losses that would matter most in a real-world failure.
 
@@ -332,7 +332,7 @@ When reviewing quickly, do not assume that an exclusion of consequential loss is
 
 Another clause that can shrink remedies is the exclusive-remedy provision.
 
-An exclusive-remedy clause states that if a specified problem occurs, the injured party must use the remedy identified in the contract and cannot pursue broader contractual remedies. These clauses are common in technology, manufacturing, construction, and supply agreements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ppp.worldbank.org/sites/default/files/2024-09/exclusiveremedies.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ppp.worldbank.org">[World Bank PPP Resource Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ppp.worldbank.org</span><span class="citation-popover-snippet">World Bank PPP Resource CenterExclusive Remedies Clauses – Note and Sample WordingAn exclusive remedies clause limits the owner&#x27;s right t...</span></span></span>
+An exclusive-remedy clause states that if a specified problem occurs, the injured party must use the remedy identified in the contract and cannot pursue broader contractual remedies. These clauses are common in technology, manufacturing, construction, and supply agreements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ppp.worldbank.org/sites/default/files/2024-09/exclusiveremedies.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ppp.worldbank.org">[World Bank PPP Resource Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ppp.worldbank.org</span><span class="citation-popover-snippet">World Bank PPP Resource CenterExclusive Remedies Clauses – Note and Sample WordingAn exclusive remedies clause limits the owner&#x27;s right t...</span></span></span>
 
 A warranty might sound generous:
 
@@ -345,7 +345,7 @@ A warranty might sound generous:
 
 </div>
 
-But a later clause may state that repair, replacement, re-performance, or service credits are the “sole and exclusive remedy” for breach. In [practice]({{ 'practice/' | relative_url }}), that language can prevent a claimant from pursuing wider damages claims that might otherwise be available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ppp.worldbank.org/sites/default/files/2024-09/exclusiveremedies.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ppp.worldbank.org">[World Bank PPP Resource Center+2Ashurst]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ppp.worldbank.org</span><span class="citation-popover-snippet">World Bank PPP Resource CenterExclusive Remedies Clauses – Note and Sample WordingAn exclusive remedies clause limits the owner&#x27;s right t...</span></span></span>
+But a later clause may state that repair, replacement, re-performance, or service credits are the “sole and exclusive remedy” for breach. In [practice]({{ 'practice/' | relative_url }}), that language can prevent a claimant from pursuing wider damages claims that might otherwise be available.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ppp.worldbank.org/sites/default/files/2024-09/exclusiveremedies.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ppp.worldbank.org">[World Bank PPP Resource Center+2Ashurst]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ppp.worldbank.org</span><span class="citation-popover-snippet">World Bank PPP Resource CenterExclusive Remedies Clauses – Note and Sample WordingAn exclusive remedies clause limits the owner&#x27;s right t...</span></span></span>
 
 For rapid contract review, search specifically for [phrases]({{ 'phrases/' | relative_url }}) such as:
 
@@ -355,7 +355,7 @@ For rapid contract review, search specifically for [phrases]({{ 'phrases/' | rel
 * “sole remedy”
 * “exclusive remedy”
 * “exclusive recourse”
-* “customer's sole and exclusive remedy” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/posts/starlit-contracts_%F0%9D%90%92%F0%9D%90%A8%F0%9D%90%A5%F0%9D%90%9E-%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9D-%F0%9D%90%84%F0%9D%90%B1%F0%9D%90%9C%F0%9D%90%A5%F0%9D%90%AE%F0%9D%90%AC%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E-%F0%9D%90%91%F0%9D%90%9E-activity-7404369283608399872-1mab" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[linkedin.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">Sole and Exclusive Remedies Clause ExplainedSuch clauses typically limit the remedies that a customer is entitled to when there&#x27;s some wr...</span></span></span>
+* “customer's sole and exclusive remedy”<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/posts/starlit-contracts_%F0%9D%90%92%F0%9D%90%A8%F0%9D%90%A5%F0%9D%90%9E-%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9D-%F0%9D%90%84%F0%9D%90%B1%F0%9D%90%9C%F0%9D%90%A5%F0%9D%90%AE%F0%9D%90%AC%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E-%F0%9D%90%91%F0%9D%90%9E-activity-7404369283608399872-1mab" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[linkedin.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">Sole and Exclusive Remedies Clause ExplainedSuch clauses typically limit the remedies that a customer is entitled to when there&#x27;s some wr...</span></span></span>
 
 </div>
 
@@ -367,7 +367,7 @@ A common mistake is reading the warranty and stopping there. The more important 
 <img src="{{ "/assets/images/increasing_re_852ca6_purpose_based_25e5d2_contract_hidd_523e05_liability_cap_93a921-Illustration-2-dark.svg" | relative_url }}" alt="Liability caps illustration 2" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_purpose_based_25e5d2_contract_hidd_523e05_liability_cap_93a921-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_purpose_based_25e5d2_contract_hidd_523e05_liability_cap_93a921-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Indemnities, exceptions, and the hidden carve-outs
 
-Not every liability limitation applies universally. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.icertis.com/contracting-basics/limitation-of-liability-clause/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icertis.com">[icertis.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icertis.com</span><span class="citation-popover-title">limitation of liability clause</span><span class="citation-popover-snippet">A Comprehensive Guide19 Mar 2025 — A limitation of liability clause is a provision within a contract that caps the amount of damages one...</span></span></span>
+Not every liability limitation applies universally.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.icertis.com/contracting-basics/limitation-of-liability-clause/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: icertis.com">[icertis.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">icertis.com</span><span class="citation-popover-title">limitation of liability clause</span><span class="citation-popover-snippet">A Comprehensive Guide19 Mar 2025 — A limitation of liability clause is a provision within a contract that caps the amount of damages one...</span></span></span>
 
 Commercial contracts often contain carve-outs that preserve broader liability for specific categories of conduct. Common exceptions include:
 
@@ -379,15 +379,15 @@ Commercial contracts often contain carve-outs that preserve broader liability fo
 * Certain indemnity obligations.
 * Breaches of confidentiality.
 * Intellectual-property infringement claims.
-* Liabilities that cannot legally be excluded. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cms.law/en/gbr/legal-updates/exclusions-and-limitation-of-liability-part-ii" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cms.law">[Ashurst+3CMS Law+3CMS Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cms.law</span><span class="citation-popover-snippet">Exclusions and Limitation of Liability Part IITypically, the exclusion clause may be amended by the party not attempting to rely on it to...</span></span></span>
+* Liabilities that cannot legally be excluded.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cms.law/en/gbr/legal-updates/exclusions-and-limitation-of-liability-part-ii" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cms.law">[Ashurst+3CMS Law+3CMS Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cms.law</span><span class="citation-popover-snippet">Exclusions and Limitation of Liability Part IITypically, the exclusion clause may be amended by the party not attempting to rely on it to...</span></span></span>
 
 </div>
 
 These carve-outs can be just as important as the cap itself.
 
-For example, a contract might cap ordinary breach claims at £100,000 but leave intellectual-property indemnities uncapped. In that situation, two claims arising from the same relationship may have radically different financial outcomes depending on how the claim is characterised. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uk.practicallaw.thomsonreuters.com/6-608-5207?contextData=%28sc.Default%29&amp;transitionType=Default" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uk.practicallaw.thomsonreuters.com">[Practical Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uk.practicallaw.thomsonreuters.com</span><span class="citation-popover-title">Practical Law General Contract Clauses: Limitation of Liability</span><span class="citation-popover-snippet">Practical LawGeneral Contract Clauses: Limitation of Liability - Practical LawThis resource addresses the exclusion of consequential dama...</span></span></span>
+For example, a contract might cap ordinary breach claims at £100,000 but leave intellectual-property indemnities uncapped. In that situation, two claims arising from the same relationship may have radically different financial outcomes depending on how the claim is characterised.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uk.practicallaw.thomsonreuters.com/6-608-5207?contextData=%28sc.Default%29&amp;transitionType=Default" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uk.practicallaw.thomsonreuters.com">[Practical Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uk.practicallaw.thomsonreuters.com</span><span class="citation-popover-title">Practical Law General Contract Clauses: Limitation of Liability</span><span class="citation-popover-snippet">Practical LawGeneral Contract Clauses: Limitation of Liability - Practical LawThis resource addresses the exclusion of consequential dama...</span></span></span>
 
-Indemnities deserve special attention because they sometimes operate differently from ordinary damages provisions. The interaction between indemnities, exclusions, and liability caps can create outcomes that are not obvious from reading any single clause in isolation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uk.practicallaw.thomsonreuters.com/a-018-2003?contextData=%28sc.Default%29&amp;transitionType=Default" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uk.practicallaw.thomsonreuters.com">[Practical Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uk.practicallaw.thomsonreuters.com</span><span class="citation-popover-snippet">Practical LawIf an indemnity is in place, but the limitation of liability excludes...1 Jul 2015 — If an indemnity is in place, but the l...</span></span></span>
+Indemnities deserve special attention because they sometimes operate differently from ordinary damages provisions. The interaction between indemnities, exclusions, and liability caps can create outcomes that are not obvious from reading any single clause in isolation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uk.practicallaw.thomsonreuters.com/a-018-2003?contextData=%28sc.Default%29&amp;transitionType=Default" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uk.practicallaw.thomsonreuters.com">[Practical Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uk.practicallaw.thomsonreuters.com</span><span class="citation-popover-snippet">Practical LawIf an indemnity is in place, but the limitation of liability excludes...1 Jul 2015 — If an indemnity is in place, but the l...</span></span></span>
 
 When speed-reading, mark every reference to:
 
@@ -411,7 +411,7 @@ Those phrases often reveal where the real risk allocation sits.
 
 Many readers assume liability issues disappear once a contract ends. Often they do not.
 
-Contracts frequently include survival provisions stating that certain clauses continue after termination or expiry. Confidentiality obligations, indemnities, limitation provisions, dispute-resolution clauses, and claim-notification requirements commonly survive the end of the commercial relationship. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ashurst.com/en/insights/quickguide-terminating-contracts-under-english-law/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ashurst.com">[Ashurst]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ashurst.com</span><span class="citation-popover-snippet">Quickguide - Terminating contracts under English lawThis guide provides a summary of the legal options and remedies available for...</span></span></span>
+Contracts frequently include survival provisions stating that certain clauses continue after termination or expiry. Confidentiality obligations, indemnities, limitation provisions, dispute-resolution clauses, and claim-notification requirements commonly survive the end of the commercial relationship.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ashurst.com/en/insights/quickguide-terminating-contracts-under-english-law/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ashurst.com">[Ashurst]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ashurst.com</span><span class="citation-popover-snippet">Quickguide - Terminating contracts under English lawThis guide provides a summary of the legal options and remedies available for...</span></span></span>
 
 This can become important when a dispute emerges months or years after the contract has ended. The rights and limitations governing the claim may still be active even though the operational relationship has finished.
 
@@ -436,181 +436,181 @@ When time is limited, focus on five questions:
 
 Those five answers often provide a more accurate picture of contractual risk than pages of operational obligations.
 
-The central lesson is simple: a promise is only as valuable as the remedy available when the promise is broken. In many contracts, the most important language is not the commitment itself but the clause that limits what happens when that commitment fails. Liability caps, exclusions, exclusive remedies, and carve-outs can quietly transform a seemingly strong agreement into one with much narrower practical protection. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ashurst.com/en/insights/quickguide-limiting-and-excluding-liability/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ashurst.com">[Ashurst+2Haynes Boone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ashurst.com</span><span class="citation-popover-title">quickguide limiting and excluding liability</span><span class="citation-popover-snippet">Quickguide Limiting and excluding liability10 Jan 2025 — This guide sets out the principles to be considered when drafting these c...</span></span></span>
+The central lesson is simple: a promise is only as valuable as the remedy available when the promise is broken. In many contracts, the most important language is not the commitment itself but the clause that limits what happens when that commitment fails. Liability caps, exclusions, exclusive remedies, and carve-outs can quietly transform a seemingly strong agreement into one with much narrower practical protection.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ashurst.com/en/insights/quickguide-limiting-and-excluding-liability/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ashurst.com">[Ashurst+2Haynes Boone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ashurst.com</span><span class="citation-popover-title">quickguide limiting and excluding liability</span><span class="citation-popover-snippet">Quickguide Limiting and excluding liability10 Jan 2025 — This guide sets out the principles to be considered when drafting these c...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What happens when the promise breaks. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What happens when the promise breaks. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Directly addresses different reading goals and speeds.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Directly addresses different reading goals and speeds.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Getting+to+yes+by+Roger+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Getting to yes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7zh50AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Getting to yes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Getting+to+yes+by+Roger+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Getting to yes">Getting to yes</a>
-        </h4>
-        <p class="fr-book-author">By Roger Fisher</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Getting+to+yes+by+Roger+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Getting to yes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7zh50AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Getting to yes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Getting+to+yes+by+Roger+Fisher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Getting to yes">Getting to yes</a>
+</h4>
+<p class="fr-book-author">By Roger Fisher</p>
         
-        <p class="fr-book-desc">Useful for understanding how liability caps, indemnities, and risk allocation are negotiated before contracts are signed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Getting+to+yes+by+Roger+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how liability caps, indemnities, and risk allocation are negotiated before contracts are signed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Getting+to+yes+by+Roger+Fisher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Manual+of+Style+for+Contract+Drafting+Kenneth+A.+Adams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Manual of Style for Contract Drafting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/859826-M.jpg" alt="Cover for A Manual of Style for Contract Drafting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Manual+of+Style+for+Contract+Drafting+Kenneth+A.+Adams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Manual of Style for Contract Drafting">A Manual of Style for Contract Drafting</a>
-        </h4>
-        <p class="fr-book-author">By Kenneth A. Adams</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Manual+of+Style+for+Contract+Drafting+Kenneth+A.+Adams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Manual of Style for Contract Drafting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/859826-M.jpg" alt="Cover for A Manual of Style for Contract Drafting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Manual+of+Style+for+Contract+Drafting+Kenneth+A.+Adams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Manual of Style for Contract Drafting">A Manual of Style for Contract Drafting</a>
+</h4>
+<p class="fr-book-author">By Kenneth A. Adams</p>
         
-        <p class="fr-book-desc">First published 2005. Subjects: Contracts, Legal composition, Language, Contracts, united states, Interpretation and construction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Manual+of+Style+for+Contract+Drafting+Kenneth+A.+Adams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2005. Subjects: Contracts, Legal composition, Language, Contracts, united states, Interpretation and construction.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Manual+of+Style+for+Contract+Drafting+Kenneth+A.+Adams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+tech+contracts+handbook+David+W.+Tollen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The tech contracts handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12425442-M.jpg" alt="Cover for The tech contracts handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+tech+contracts+handbook+David+W.+Tollen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The tech contracts handbook">The tech contracts handbook</a>
-        </h4>
-        <p class="fr-book-author">By David W. Tollen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+tech+contracts+handbook+David+W.+Tollen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The tech contracts handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12425442-M.jpg" alt="Cover for The tech contracts handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+tech+contracts+handbook+David+W.+Tollen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The tech contracts handbook">The tech contracts handbook</a>
+</h4>
+<p class="fr-book-author">By David W. Tollen</p>
         
-        <p class="fr-book-desc">First published 2010. Subjects: Copyright, Computer programs, Licenses, Technology transfer, Law and legislation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+tech+contracts+handbook+David+W.+Tollen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2010. Subjects: Copyright, Computer programs, Licenses, Technology transfer, Law and legislation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+tech+contracts+handbook+David+W.+Tollen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Getting+to+yes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Getting to yes</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Manual+of+Style+for+Contract+Drafting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Manual of Style for Contract Drafting</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Getting+to+yes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Getting to yes</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Manual+of+Style+for+Contract+Drafting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Manual of Style for Contract Drafting</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=law+office+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=liability-caps-what-happens-when-the-promise-breaks-increasing-law-office-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="law office wall art" data-ebay-reference="liability-caps-what-happens-when-the-promise-breaks-increasing-law-office-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Law Office Of Adrian Chase - Always Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/145bee1e3e421f5072bc.jpg' | relative_url }}" alt="Listing image for Law Office Of Adrian Chase - Always Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=law+office+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=liability-caps-what-happens-when-the-promise-breaks-increasing-law-office-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="law office wall art" data-ebay-reference="liability-caps-what-happens-when-the-promise-breaks-increasing-law-office-wall-art" target="_blank" rel="sponsored noopener noreferrer">Law Office Of Adrian Chase - Always Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=law+office+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=liability-caps-what-happens-when-the-promise-breaks-increasing-law-office-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="law office wall art" data-ebay-reference="liability-caps-what-happens-when-the-promise-breaks-increasing-law-office-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for law office wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: law office wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=law+office+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=liability-caps-what-happens-when-the-promise-breaks-increasing-law-office-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="law office wall art" data-ebay-reference="liability-caps-what-happens-when-the-promise-breaks-increasing-law-office-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=law+office+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=liability-caps-what-happens-when-the-promise-breaks-increasing-law-office-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="law office wall art" data-ebay-reference="liability-caps-what-happens-when-the-promise-breaks-increasing-law-office-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Law Office Of Adrian Chase - Always Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/145bee1e3e421f5072bc.jpg' | relative_url }}" alt="Listing image for Law Office Of Adrian Chase - Always Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=law+office+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=liability-caps-what-happens-when-the-promise-breaks-increasing-law-office-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="law office wall art" data-ebay-reference="liability-caps-what-happens-when-the-promise-breaks-increasing-law-office-wall-art" target="_blank" rel="sponsored noopener noreferrer">Law Office Of Adrian Chase - Always Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=law+office+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=liability-caps-what-happens-when-the-promise-breaks-increasing-law-office-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="law office wall art" data-ebay-reference="liability-caps-what-happens-when-the-promise-breaks-increasing-law-office-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for law office wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: law office wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=law+office+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=liability-caps-what-happens-when-the-promise-breaks-increasing-law-office-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="law office wall art" data-ebay-reference="liability-caps-what-happens-when-the-promise-breaks-increasing-law-office-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=law+office+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=liability-caps-what-happens-when-the-promise-breaks-increasing-law-office-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="law office wall art" data-ebay-reference="liability-caps-what-happens-when-the-promise-breaks-increasing-law-office-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Police Codes Knowledge Poster, Law Officer Education Poster Print Wall Decor"><img src="{{ '/assets/images/marketplace-covers/5ca5b3a31d102675ba5f.jpg' | relative_url }}" alt="Listing image for Police Codes Knowledge Poster, Law Officer Education Poster Print Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=law+office+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=liability-caps-what-happens-when-the-promise-breaks-increasing-law-office-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="law office wall art" data-ebay-reference="liability-caps-what-happens-when-the-promise-breaks-increasing-law-office-wall-art" target="_blank" rel="sponsored noopener noreferrer">Police Codes Knowledge Poster, Law Officer Education Poster Print Wall Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=law+office+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=liability-caps-what-happens-when-the-promise-breaks-increasing-law-office-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="law office wall art" data-ebay-reference="liability-caps-what-happens-when-the-promise-breaks-increasing-law-office-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for law office wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: law office wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=law+office+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=liability-caps-what-happens-when-the-promise-breaks-increasing-law-office-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="law office wall art" data-ebay-reference="liability-caps-what-happens-when-the-promise-breaks-increasing-law-office-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=law+office+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=liability-caps-what-happens-when-the-promise-breaks-increasing-law-office-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="law office wall art" data-ebay-reference="liability-caps-what-happens-when-the-promise-breaks-increasing-law-office-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Police Codes Knowledge Poster, Law Officer Education Poster Print Wall Decor"><img src="{{ '/assets/images/marketplace-covers/5ca5b3a31d102675ba5f.jpg' | relative_url }}" alt="Listing image for Police Codes Knowledge Poster, Law Officer Education Poster Print Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=law+office+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=liability-caps-what-happens-when-the-promise-breaks-increasing-law-office-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="law office wall art" data-ebay-reference="liability-caps-what-happens-when-the-promise-breaks-increasing-law-office-wall-art" target="_blank" rel="sponsored noopener noreferrer">Police Codes Knowledge Poster, Law Officer Education Poster Print Wall Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=law+office+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=liability-caps-what-happens-when-the-promise-breaks-increasing-law-office-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="law office wall art" data-ebay-reference="liability-caps-what-happens-when-the-promise-breaks-increasing-law-office-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for law office wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: law office wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=law+office+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=liability-caps-what-happens-when-the-promise-breaks-increasing-law-office-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="law office wall art" data-ebay-reference="liability-caps-what-happens-when-the-promise-breaks-increasing-law-office-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=law+office+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=liability-caps-what-happens-when-the-promise-breaks-increasing-law-office-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="law office wall art" data-ebay-reference="liability-caps-what-happens-when-the-promise-breaks-increasing-law-office-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Law Office Of Adrian Chase - Always Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/59bbf85c60970a7c0fa6.jpg' | relative_url }}" alt="Listing image for Law Office Of Adrian Chase - Always Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=law+office+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=liability-caps-what-happens-when-the-promise-breaks-increasing-law-office-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="law office wall art" data-ebay-reference="liability-caps-what-happens-when-the-promise-breaks-increasing-law-office-wall-art" target="_blank" rel="sponsored noopener noreferrer">Law Office Of Adrian Chase - Always Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=law+office+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=liability-caps-what-happens-when-the-promise-breaks-increasing-law-office-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="law office wall art" data-ebay-reference="liability-caps-what-happens-when-the-promise-breaks-increasing-law-office-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for law office wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: law office wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=law+office+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=liability-caps-what-happens-when-the-promise-breaks-increasing-law-office-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="law office wall art" data-ebay-reference="liability-caps-what-happens-when-the-promise-breaks-increasing-law-office-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=law+office+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=liability-caps-what-happens-when-the-promise-breaks-increasing-law-office-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="law office wall art" data-ebay-reference="liability-caps-what-happens-when-the-promise-breaks-increasing-law-office-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=law+office+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=liability-caps-what-happens-when-the-promise-breaks-increasing-law-office-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="law office wall art" data-ebay-reference="liability-caps-what-happens-when-the-promise-breaks-increasing-law-office-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Law Office Of Adrian Chase - Always Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/59bbf85c60970a7c0fa6.jpg' | relative_url }}" alt="Listing image for Law Office Of Adrian Chase - Always Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=law+office+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=liability-caps-what-happens-when-the-promise-breaks-increasing-law-office-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="law office wall art" data-ebay-reference="liability-caps-what-happens-when-the-promise-breaks-increasing-law-office-wall-art" target="_blank" rel="sponsored noopener noreferrer">Law Office Of Adrian Chase - Always Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=law+office+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=liability-caps-what-happens-when-the-promise-breaks-increasing-law-office-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="law office wall art" data-ebay-reference="liability-caps-what-happens-when-the-promise-breaks-increasing-law-office-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for law office wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: law office wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=law+office+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=liability-caps-what-happens-when-the-promise-breaks-increasing-law-office-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="law office wall art" data-ebay-reference="liability-caps-what-happens-when-the-promise-breaks-increasing-law-office-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=law+office+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=liability-caps-what-happens-when-the-promise-breaks-increasing-law-office-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="law office wall art" data-ebay-reference="liability-caps-what-happens-when-the-promise-breaks-increasing-law-office-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -626,7 +626,7 @@ The central lesson is simple: a promise is only as valuable as the remedy availa
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -646,7 +646,7 @@ The central lesson is simple: a promise is only as valuable as the remedy availa
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -678,7 +678,7 @@ The central lesson is simple: a promise is only as valuable as the remedy availa
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -730,7 +730,7 @@ The central lesson is simple: a promise is only as valuable as the remedy availa
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -775,7 +775,7 @@ The central lesson is simple: a promise is only as valuable as the remedy availa
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -816,228 +816,228 @@ The central lesson is simple: a promise is only as valuable as the remedy availa
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ashurst.com  
    Title: quickguide limiting and excluding liability  
-   Link: <a href="https://www.ashurst.com/en/insights/quickguide-limiting-and-excluding-liability/" target="_blank" rel="noopener noreferrer nofollow">https://www.ashurst.com/en/insights/quickguide-limiting-and-excluding-liability/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Quickguide Limiting and excluding liability10 Jan 2025 — This guide sets out the principles to be considered when drafting these c...</p></details>
+   Link:<a href="https://www.ashurst.com/en/insights/quickguide-limiting-and-excluding-liability/" target="_blank" rel="noopener noreferrer nofollow">https://www.ashurst.com/en/insights/quickguide-limiting-and-excluding-liability/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Quickguide Limiting and excluding liability10 Jan 2025 — This guide sets out the principles to be considered when drafting these c...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: bclplaw.com  
    Title: BCLPIronclad or Leaky Sieve?  
-   Link: <a href="https://www.bclplaw.com/a/web/72395/ironclad-or-leaky-sieve.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bclplaw.com/a/web/72395/ironclad-or-leaky-sieve.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>April 20, 2015 — Everything seems fair and balanced until you stop sud- denly at the limitation of liability (LoL) clause.... exclusive...</p></details>
+   Link:<a href="https://www.bclplaw.com/a/web/72395/ironclad-or-leaky-sieve.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bclplaw.com/a/web/72395/ironclad-or-leaky-sieve.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 20, 2015 — Everything seems fair and balanced until you stop sud- denly at the limitation of liability (LoL) clause.... exclusive...</p></details>
    Published: April 20, 2015  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cms.law  
-   Link: <a href="https://cms.law/en/gbr/legal-updates/exclusion-of-liability-for-indirect-or-consequential-losses" target="_blank" rel="noopener noreferrer nofollow">https://cms.law/en/gbr/legal-updates/exclusion-of-liability-for-indirect-or-consequential-losses</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Exclusion of liability for “indirect or consequential” lossesThe reason for wishing to exclude liability for “indirect or consequential”...</p></details>
+   Link:<a href="https://cms.law/en/gbr/legal-updates/exclusion-of-liability-for-indirect-or-consequential-losses" target="_blank" rel="noopener noreferrer nofollow">https://cms.law/en/gbr/legal-updates/exclusion-of-liability-for-indirect-or-consequential-losses</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exclusion of liability for “indirect or consequential” lossesThe reason for wishing to exclude liability for “indirect or consequential”...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ashurst.com  
    Title: commercial contracts newsletter july 2015  
-   Link: <a href="https://www.ashurst.com/-/media/ashurst/documents/news-and-insights/legal-updates/2015/jul/commercial-contracts-newsletter-july-2015.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ashurst.com/-/media/ashurst/documents/news-and-insights/legal-updates/2015/jul/commercial-contracts-newsletter-july-2015.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Contracts: recent developments in brief9 Jul 2015 — The supplier excluded all liability for &quot;loss of profit, loss of business, loss of go...</p></details>
+   Link:<a href="https://www.ashurst.com/-/media/ashurst/documents/news-and-insights/legal-updates/2015/jul/commercial-contracts-newsletter-july-2015.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ashurst.com/-/media/ashurst/documents/news-and-insights/legal-updates/2015/jul/commercial-contracts-newsletter-july-2015.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Contracts: recent developments in brief9 Jul 2015 — The supplier excluded all liability for &quot;loss of profit, loss of business, loss of go...</p></details>
    Published: july 2015  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: stevens-bolton.com  
-   Link: <a href="https://www.stevens-bolton.com/insights/102ktw4/limiting-liability-in-commercial-contracts/" target="_blank" rel="noopener noreferrer nofollow">https://www.stevens-bolton.com/insights/102ktw4/limiting-liability-in-commercial-contracts/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stevens &amp; Bolton LLPLimiting liability in commercial contractsCase law shows that it can be difficult to know whether a loss is “conseque...</p></details>
+   Link:<a href="https://www.stevens-bolton.com/insights/102ktw4/limiting-liability-in-commercial-contracts/" target="_blank" rel="noopener noreferrer nofollow">https://www.stevens-bolton.com/insights/102ktw4/limiting-liability-in-commercial-contracts/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stevens &amp; Bolton LLPLimiting liability in commercial contractsCase law shows that it can be difficult to know whether a loss is “conseque...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ashurst.com  
    Title: blue screen of death global crowdstrike outage is a call to action  
-   Link: <a href="https://www.ashurst.com/en/insights/blue-screen-of-death-global-crowdstrike-outage-is-a-call-to-action/" target="_blank" rel="noopener noreferrer nofollow">https://www.ashurst.com/en/insights/blue-screen-of-death-global-crowdstrike-outage-is-a-call-to-action/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Screen of Death: Global CrowdStrike outage is a call...25 Jul 2024 — Understand service credits and liquidated damages to which you...</p></details>
+   Link:<a href="https://www.ashurst.com/en/insights/blue-screen-of-death-global-crowdstrike-outage-is-a-call-to-action/" target="_blank" rel="noopener noreferrer nofollow">https://www.ashurst.com/en/insights/blue-screen-of-death-global-crowdstrike-outage-is-a-call-to-action/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Screen of Death: Global CrowdStrike outage is a call...25 Jul 2024 — Understand service credits and liquidated damages to which you...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cms.law  
-   Link: <a href="https://cms.law/en/gbr/legal-updates/exclusions-and-limitation-of-liability-part-ii" target="_blank" rel="noopener noreferrer nofollow">https://cms.law/en/gbr/legal-updates/exclusions-and-limitation-of-liability-part-ii</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Exclusions and Limitation of Liability Part IITypically, the exclusion clause may be amended by the party not attempting to rely on it to...</p></details>
+   Link:<a href="https://cms.law/en/gbr/legal-updates/exclusions-and-limitation-of-liability-part-ii" target="_blank" rel="noopener noreferrer nofollow">https://cms.law/en/gbr/legal-updates/exclusions-and-limitation-of-liability-part-ii</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exclusions and Limitation of Liability Part IITypically, the exclusion clause may be amended by the party not attempting to rely on it to...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cms.law  
-   Link: <a href="https://cms.law/en/gbr/legal-updates/exclusions-and-limitation-of-liability-part-i" target="_blank" rel="noopener noreferrer nofollow">https://cms.law/en/gbr/legal-updates/exclusions-and-limitation-of-liability-part-i</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>If the “carve-out” is improperly drafted the...Read more...</p></details>
+   Link:<a href="https://cms.law/en/gbr/legal-updates/exclusions-and-limitation-of-liability-part-i" target="_blank" rel="noopener noreferrer nofollow">https://cms.law/en/gbr/legal-updates/exclusions-and-limitation-of-liability-part-i</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>If the “carve-out” is improperly drafted the...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ashurst.com  
    Title: contract law update  
-   Link: <a href="https://www.ashurst.com/en/insights/contract-law-update/" target="_blank" rel="noopener noreferrer nofollow">https://www.ashurst.com/en/insights/contract-law-update/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>12 Jul 2023 — Exclusion clauses are ineffective: Parties to a contract cannot contract out of liability for misleading or deceptive condu...</p></details>
+   Link:<a href="https://www.ashurst.com/en/insights/contract-law-update/" target="_blank" rel="noopener noreferrer nofollow">https://www.ashurst.com/en/insights/contract-law-update/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>12 Jul 2023 — Exclusion clauses are ineffective: Parties to a contract cannot contract out of liability for misleading or deceptive condu...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ashurst.com  
-   Link: <a href="https://www.ashurst.com/en/insights/quickguide-warranties-and-indemnities/" target="_blank" rel="noopener noreferrer nofollow">https://www.ashurst.com/en/insights/quickguide-warranties-and-indemnities/</a>  
+   Link:<a href="https://www.ashurst.com/en/insights/quickguide-warranties-and-indemnities/" target="_blank" rel="noopener noreferrer nofollow">https://www.ashurst.com/en/insights/quickguide-warranties-and-indemnities/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ashurst.com  
-   Link: <a href="https://www.ashurst.com/en/insights/quickguide-terminating-contracts-under-english-law/" target="_blank" rel="noopener noreferrer nofollow">https://www.ashurst.com/en/insights/quickguide-terminating-contracts-under-english-law/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Quickguide - Terminating contracts under English lawThis guide provides a summary of the legal options and remedies available for...</p></details>
+   Link:<a href="https://www.ashurst.com/en/insights/quickguide-terminating-contracts-under-english-law/" target="_blank" rel="noopener noreferrer nofollow">https://www.ashurst.com/en/insights/quickguide-terminating-contracts-under-english-law/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Quickguide - Terminating contracts under English lawThis guide provides a summary of the legal options and remedies available for...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ashurst.com  
-   Link: <a href="https://www.ashurst.com/en/insights/tech-ma-mind-the-gap-bridging-uk-and-us-market-practice-in-ma/" target="_blank" rel="noopener noreferrer nofollow">https://www.ashurst.com/en/insights/tech-ma-mind-the-gap-bridging-uk-and-us-market-practice-in-ma/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mind the Gap - Bridging UK and US market practice in M&amp;AMay 29, 2025 — Increasingly common, however less prevalent than in the UK...</p></details>
+   Link:<a href="https://www.ashurst.com/en/insights/tech-ma-mind-the-gap-bridging-uk-and-us-market-practice-in-ma/" target="_blank" rel="noopener noreferrer nofollow">https://www.ashurst.com/en/insights/tech-ma-mind-the-gap-bridging-uk-and-us-market-practice-in-ma/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mind the Gap - Bridging UK and US market practice in M&amp;AMay 29, 2025 — Increasingly common, however less prevalent than in the UK...</p></details>
    Published: May 29, 2025  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ashurst.com  
    Title: negotiating spas under english or french law does it matter  
-   Link: <a href="https://www.ashurst.com/en/insights/negotiating-spas-under-english-or-french-law-does-it-matter/" target="_blank" rel="noopener noreferrer nofollow">https://www.ashurst.com/en/insights/negotiating-spas-under-english-or-french-law-does-it-matter/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>7 Oct 2022 — This article focuses on some of the key points where French law (and French market practice) deviate from English law (and L...</p></details>
+   Link:<a href="https://www.ashurst.com/en/insights/negotiating-spas-under-english-or-french-law-does-it-matter/" target="_blank" rel="noopener noreferrer nofollow">https://www.ashurst.com/en/insights/negotiating-spas-under-english-or-french-law-does-it-matter/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>7 Oct 2022 — This article focuses on some of the key points where French law (and French market practice) deviate from English law (and L...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ashurst.com  
    Title: ashurst and practical law update q1 2023  
-   Link: <a href="https://www.ashurst.com/en/insights/ashurst-and-practical-law-update-q1-2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.ashurst.com/en/insights/ashurst-and-practical-law-update-q1-2023/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Apr 2023 — The High Court has held that a buyer&#x27;s notice of claim for breach of warranty against the seller of a company was ineffecti...</p></details>
+   Link:<a href="https://www.ashurst.com/en/insights/ashurst-and-practical-law-update-q1-2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.ashurst.com/en/insights/ashurst-and-practical-law-update-q1-2023/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>18 Apr 2023 — The High Court has held that a buyer&#x27;s notice of claim for breach of warranty against the seller of a company was ineffecti...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ashurst.com  
-   Link: <a href="https://www.ashurst.com/en/insights/quickguide-litigation-funding/" target="_blank" rel="noopener noreferrer nofollow">https://www.ashurst.com/en/insights/quickguide-litigation-funding/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Litigation fundingThis guide provides a broad overview of the litigation funding options available and when they may be appropriate...</p></details>
+   Link:<a href="https://www.ashurst.com/en/insights/quickguide-litigation-funding/" target="_blank" rel="noopener noreferrer nofollow">https://www.ashurst.com/en/insights/quickguide-litigation-funding/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Litigation fundingThis guide provides a broad overview of the litigation funding options available and when they may be appropriate...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ashurst.com  
    Title: high court rules on privity of contract is there another way through  
-   Link: <a href="https://www.ashurst.com/en/insights/high-court-rules-on-privity-of-contract-is-there-another-way-through/" target="_blank" rel="noopener noreferrer nofollow">https://www.ashurst.com/en/insights/high-court-rules-on-privity-of-contract-is-there-another-way-through/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>High Court rules on privity of contract Is there another way...9 Mar 2022 — The High Court today delivered an important decision about a...</p></details>
+   Link:<a href="https://www.ashurst.com/en/insights/high-court-rules-on-privity-of-contract-is-there-another-way-through/" target="_blank" rel="noopener noreferrer nofollow">https://www.ashurst.com/en/insights/high-court-rules-on-privity-of-contract-is-there-another-way-through/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High Court rules on privity of contract Is there another way...9 Mar 2022 — The High Court today delivered an important decision about a...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ashurst.com  
    Title: competition newsletter nov 18  
-   Link: <a href="https://www.ashurst.com/-/media/ashurst/documents/news-and-insights/legal-updates/2018/nov/competition-newsletter-nov-18.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ashurst.com/-/media/ashurst/documents/news-and-insights/legal-updates/2018/nov/competition-newsletter-nov-18.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>petition law newsletter22 Nov 2018 — This edition includes a comparative guide to how regulators around the world treat compliance progra...</p></details>
+   Link:<a href="https://www.ashurst.com/-/media/ashurst/documents/news-and-insights/legal-updates/2018/nov/competition-newsletter-nov-18.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ashurst.com/-/media/ashurst/documents/news-and-insights/legal-updates/2018/nov/competition-newsletter-nov-18.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>petition law newsletter22 Nov 2018 — This edition includes a comparative guide to how regulators around the world treat compliance progra...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ashurst.com  
    Title: competition newsletter april 2019  
-   Link: <a href="https://www.ashurst.com/-/media/ashurst/documents/news-and-insights/legal-updates/2019/apr/competition-newsletter-april-2019.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ashurst.com/-/media/ashurst/documents/news-and-insights/legal-updates/2019/apr/competition-newsletter-april-2019.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>petition law newsletter – April 201910 Apr 2019 — This April issue of Ashurst&#x27;s competition law newsletter features a round-up of a numbe...</p></details>
+   Link:<a href="https://www.ashurst.com/-/media/ashurst/documents/news-and-insights/legal-updates/2019/apr/competition-newsletter-april-2019.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ashurst.com/-/media/ashurst/documents/news-and-insights/legal-updates/2019/apr/competition-newsletter-april-2019.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>petition law newsletter – April 201910 Apr 2019 — This April issue of Ashurst&#x27;s competition law newsletter features a round-up of a numbe...</p></details>
    Published: april 2019  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ashurst.com  
-   Link: <a href="https://www.ashurst.com/-/media/ashurst/documents/news-and-insights/insights/2019/jul/infraread-13-july-2019.pdf?sc_lang=en" target="_blank" rel="noopener noreferrer nofollow">https://www.ashurst.com/-/media/ashurst/documents/news-and-insights/insights/2019/jul/infraread-13-july-2019.pdf?sc_lang=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>coal, iron ore and LNG portsIt is likely that to the extent permitted by law, each Port will seek to exclude and to limit liability for a...</p></details>
+   Link:<a href="https://www.ashurst.com/-/media/ashurst/documents/news-and-insights/insights/2019/jul/infraread-13-july-2019.pdf?sc_lang=en" target="_blank" rel="noopener noreferrer nofollow">https://www.ashurst.com/-/media/ashurst/documents/news-and-insights/insights/2019/jul/infraread-13-july-2019.pdf?sc_lang=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>coal, iron ore and LNG portsIt is likely that to the extent permitted by law, each Port will seek to exclude and to limit liability for a...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ashurst.com  
    Title: top competition issues in financial services in 2022  
-   Link: <a href="https://www.ashurst.com/en/insights/top-competition-issues-in-financial-services-in-2022/" target="_blank" rel="noopener noreferrer nofollow">https://www.ashurst.com/en/insights/top-competition-issues-in-financial-services-in-2022/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>23 Feb 2022 — We outline the top competition issues in financial services in 2022 and draw on our international experience to identify em...</p></details>
+   Link:<a href="https://www.ashurst.com/en/insights/top-competition-issues-in-financial-services-in-2022/" target="_blank" rel="noopener noreferrer nofollow">https://www.ashurst.com/en/insights/top-competition-issues-in-financial-services-in-2022/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>23 Feb 2022 — We outline the top competition issues in financial services in 2022 and draw on our international experience to identify em...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: haynesboone.com  
-   Link: <a href="https://www.haynesboone.com/news/alerts/limitation-of-liability-a-general-overview-under-english-law" target="_blank" rel="noopener noreferrer nofollow">https://www.haynesboone.com/news/alerts/limitation-of-liability-a-general-overview-under-english-law</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Haynes BooneLimitation of Liability: A General Overview under English LawOct 3, 2022 — Limitation of liability provisions are a key aspec...</p></details>
+   Link:<a href="https://www.haynesboone.com/news/alerts/limitation-of-liability-a-general-overview-under-english-law" target="_blank" rel="noopener noreferrer nofollow">https://www.haynesboone.com/news/alerts/limitation-of-liability-a-general-overview-under-english-law</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Haynes BooneLimitation of Liability: A General Overview under English LawOct 3, 2022 — Limitation of liability provisions are a key aspec...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: icertis.com  
    Title: limitation of liability clause  
-   Link: <a href="https://www.icertis.com/contracting-basics/limitation-of-liability-clause/" target="_blank" rel="noopener noreferrer nofollow">https://www.icertis.com/contracting-basics/limitation-of-liability-clause/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Comprehensive Guide19 Mar 2025 — A limitation of liability clause is a provision within a contract that caps the amount of damages one...</p></details>
+   Link:<a href="https://www.icertis.com/contracting-basics/limitation-of-liability-clause/" target="_blank" rel="noopener noreferrer nofollow">https://www.icertis.com/contracting-basics/limitation-of-liability-clause/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Comprehensive Guide19 Mar 2025 — A limitation of liability clause is a provision within a contract that caps the amount of damages one...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: hilldickinson.com  
    Title: what are consequential losses and how do you exclude them  
-   Link: <a href="https://www.hilldickinson.com/our-view/articles/what-are-consequential-losses-and-how-do-you-exclude-them/" target="_blank" rel="noopener noreferrer nofollow">https://www.hilldickinson.com/our-view/articles/what-are-consequential-losses-and-how-do-you-exclude-them/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Consequential Losses and Exclusion Clauses20 Jun 2022 — Consequential losses, also called indirect losses, are losses not naturally resul...</p></details>
+   Link:<a href="https://www.hilldickinson.com/our-view/articles/what-are-consequential-losses-and-how-do-you-exclude-them/" target="_blank" rel="noopener noreferrer nofollow">https://www.hilldickinson.com/our-view/articles/what-are-consequential-losses-and-how-do-you-exclude-them/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Consequential Losses and Exclusion Clauses20 Jun 2022 — Consequential losses, also called indirect losses, are losses not naturally resul...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: uk.practicallaw.thomsonreuters.com  
    Title: Practical Law General Contract Clauses: Limitation of Liability  
-   Link: <a href="https://uk.practicallaw.thomsonreuters.com/7-507-5628?contextData=%28sc.Default%29&amp;transitionType=Default" target="_blank" rel="noopener noreferrer nofollow">https://uk.practicallaw.thomsonreuters.com/7-507-5628?contextData=%28sc.Default%29&amp;transitionType=Default</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Practical LawGeneral Contract Clauses: Limitation of Liability - Practical LawThese Standard Clauses detail the Limitation of Liability p...</p></details>
+   Link:<a href="https://uk.practicallaw.thomsonreuters.com/7-507-5628?contextData=%28sc.Default%29&amp;transitionType=Default" target="_blank" rel="noopener noreferrer nofollow">https://uk.practicallaw.thomsonreuters.com/7-507-5628?contextData=%28sc.Default%29&amp;transitionType=Default</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Practical LawGeneral Contract Clauses: Limitation of Liability - Practical LawThese Standard Clauses detail the Limitation of Liability p...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: legalvision.co.uk  
    Title: nsequential losses  
-   Link: <a href="https://legalvision.co.uk/commercial-contracts/consequential-losses/" target="_blank" rel="noopener noreferrer nofollow">https://legalvision.co.uk/commercial-contracts/consequential-losses/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LegalVision UKConsequential Losses: Legal Perspectives for Small...31 Mar 2025 — A limitation of liability clause protects your business...</p></details>
+   Link:<a href="https://legalvision.co.uk/commercial-contracts/consequential-losses/" target="_blank" rel="noopener noreferrer nofollow">https://legalvision.co.uk/commercial-contracts/consequential-losses/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LegalVision UKConsequential Losses: Legal Perspectives for Small...31 Mar 2025 — A limitation of liability clause protects your business...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: ppp.worldbank.org  
-   Link: <a href="https://ppp.worldbank.org/sites/default/files/2024-09/exclusiveremedies.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ppp.worldbank.org/sites/default/files/2024-09/exclusiveremedies.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>World Bank PPP Resource CenterExclusive Remedies Clauses – Note and Sample WordingAn exclusive remedies clause limits the owner&#x27;s right t...</p></details>
+   Link:<a href="https://ppp.worldbank.org/sites/default/files/2024-09/exclusiveremedies.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ppp.worldbank.org/sites/default/files/2024-09/exclusiveremedies.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World Bank PPP Resource CenterExclusive Remedies Clauses – Note and Sample WordingAn exclusive remedies clause limits the owner&#x27;s right t...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: uk.practicallaw.thomsonreuters.com  
    Title: Practical Law General Contract Clauses: Limitation of Liability  
-   Link: <a href="https://uk.practicallaw.thomsonreuters.com/6-608-5207?contextData=%28sc.Default%29&amp;transitionType=Default" target="_blank" rel="noopener noreferrer nofollow">https://uk.practicallaw.thomsonreuters.com/6-608-5207?contextData=%28sc.Default%29&amp;transitionType=Default</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Practical LawGeneral Contract Clauses: Limitation of Liability - Practical LawThis resource addresses the exclusion of consequential dama...</p></details>
+   Link:<a href="https://uk.practicallaw.thomsonreuters.com/6-608-5207?contextData=%28sc.Default%29&amp;transitionType=Default" target="_blank" rel="noopener noreferrer nofollow">https://uk.practicallaw.thomsonreuters.com/6-608-5207?contextData=%28sc.Default%29&amp;transitionType=Default</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Practical LawGeneral Contract Clauses: Limitation of Liability - Practical LawThis resource addresses the exclusion of consequential dama...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: uk.practicallaw.thomsonreuters.com  
-   Link: <a href="https://uk.practicallaw.thomsonreuters.com/a-018-2003?contextData=%28sc.Default%29&amp;transitionType=Default" target="_blank" rel="noopener noreferrer nofollow">https://uk.practicallaw.thomsonreuters.com/a-018-2003?contextData=%28sc.Default%29&amp;transitionType=Default</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Practical LawIf an indemnity is in place, but the limitation of liability excludes...1 Jul 2015 — If an indemnity is in place, but the l...</p></details>
+   Link:<a href="https://uk.practicallaw.thomsonreuters.com/a-018-2003?contextData=%28sc.Default%29&amp;transitionType=Default" target="_blank" rel="noopener noreferrer nofollow">https://uk.practicallaw.thomsonreuters.com/a-018-2003?contextData=%28sc.Default%29&amp;transitionType=Default</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Practical LawIf an indemnity is in place, but the limitation of liability excludes...1 Jul 2015 — If an indemnity is in place, but the l...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: uk.practicallaw.thomsonreuters.com  
-   Link: <a href="https://uk.practicallaw.thomsonreuters.com/w-001-4919?contextData=%28sc.Default%29&amp;transitionType=Default" target="_blank" rel="noopener noreferrer nofollow">https://uk.practicallaw.thomsonreuters.com/w-001-4919?contextData=%28sc.Default%29&amp;transitionType=Default</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Contract Clauses: Cumulative Remedies (with...It provides critical guidance on managing remedies for a breach of contract and addresses...</p></details>
+   Link:<a href="https://uk.practicallaw.thomsonreuters.com/w-001-4919?contextData=%28sc.Default%29&amp;transitionType=Default" target="_blank" rel="noopener noreferrer nofollow">https://uk.practicallaw.thomsonreuters.com/w-001-4919?contextData=%28sc.Default%29&amp;transitionType=Default</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Contract Clauses: Cumulative Remedies (with...It provides critical guidance on managing remedies for a breach of contract and addresses...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: uk.practicallaw.thomsonreuters.com  
-   Link: <a href="https://uk.practicallaw.thomsonreuters.com/w-023-8234?contextData=%28sc.Default%29&amp;transitionType=Default" target="_blank" rel="noopener noreferrer nofollow">https://uk.practicallaw.thomsonreuters.com/w-023-8234?contextData=%28sc.Default%29&amp;transitionType=Default</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Damages Waivers: Consequential, Incidental...It explains the different types of damages for breach of contract, including direct, incide...</p></details>
+   Link:<a href="https://uk.practicallaw.thomsonreuters.com/w-023-8234?contextData=%28sc.Default%29&amp;transitionType=Default" target="_blank" rel="noopener noreferrer nofollow">https://uk.practicallaw.thomsonreuters.com/w-023-8234?contextData=%28sc.Default%29&amp;transitionType=Default</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Damages Waivers: Consequential, Incidental...It explains the different types of damages for breach of contract, including direct, incide...</p></details>
 
 ### Additional References
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: taylorwessing.com  
-   Link: <a href="https://www.taylorwessing.com/en/insights-and-events/insights/2023/06/uc-interpretation-of-limitation-of-liability-clauses" target="_blank" rel="noopener noreferrer nofollow">https://www.taylorwessing.com/en/insights-and-events/insights/2023/06/uc-interpretation-of-limitation-of-liability-clauses</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Interpretation of Limitation of liability clausesLimitation of liability clauses are an important tool for balancing risk in all contract...</p></details>
+   Link:<a href="https://www.taylorwessing.com/en/insights-and-events/insights/2023/06/uc-interpretation-of-limitation-of-liability-clauses" target="_blank" rel="noopener noreferrer nofollow">https://www.taylorwessing.com/en/insights-and-events/insights/2023/06/uc-interpretation-of-limitation-of-liability-clauses</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Interpretation of Limitation of liability clausesLimitation of liability clauses are an important tool for balancing risk in all contract...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/starlit-contracts_%F0%9D%90%92%F0%9D%90%A8%F0%9D%90%A5%F0%9D%90%9E-%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9D-%F0%9D%90%84%F0%9D%90%B1%F0%9D%90%9C%F0%9D%90%A5%F0%9D%90%AE%F0%9D%90%AC%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E-%F0%9D%90%91%F0%9D%90%9E-activity-7404369283608399872-1mab" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/starlit-contracts_%F0%9D%90%92%F0%9D%90%A8%F0%9D%90%A5%F0%9D%90%9E-%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9D-%F0%9D%90%84%F0%9D%90%B1%F0%9D%90%9C%F0%9D%90%A5%F0%9D%90%AE%F0%9D%90%AC%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E-%F0%9D%90%91%F0%9D%90%9E-activity-7404369283608399872-1mab</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sole and Exclusive Remedies Clause ExplainedSuch clauses typically limit the remedies that a customer is entitled to when there&#x27;s some wr...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/starlit-contracts_%F0%9D%90%92%F0%9D%90%A8%F0%9D%90%A5%F0%9D%90%9E-%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9D-%F0%9D%90%84%F0%9D%90%B1%F0%9D%90%9C%F0%9D%90%A5%F0%9D%90%AE%F0%9D%90%AC%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E-%F0%9D%90%91%F0%9D%90%9E-activity-7404369283608399872-1mab" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/starlit-contracts_%F0%9D%90%92%F0%9D%90%A8%F0%9D%90%A5%F0%9D%90%9E-%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9D-%F0%9D%90%84%F0%9D%90%B1%F0%9D%90%9C%F0%9D%90%A5%F0%9D%90%AE%F0%9D%90%AC%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E-%F0%9D%90%91%F0%9D%90%9E-activity-7404369283608399872-1mab</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sole and Exclusive Remedies Clause ExplainedSuch clauses typically limit the remedies that a customer is entitled to when there&#x27;s some wr...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: stephens-scown.co.uk  
-   Link: <a href="https://www.stephens-scown.co.uk/corporate-commercial/uncategorisedthe-meaning-of-indirect-and-consequential-losses-in-limitation-of-liability-clauses/" target="_blank" rel="noopener noreferrer nofollow">https://www.stephens-scown.co.uk/corporate-commercial/uncategorisedthe-meaning-of-indirect-and-consequential-losses-in-limitation-of-liability-clauses/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The meaning of indirect and consequential losses in...10 Jan 2017 — This considers, in context of liability losses, risks that can arise...</p></details>
+   Link:<a href="https://www.stephens-scown.co.uk/corporate-commercial/uncategorisedthe-meaning-of-indirect-and-consequential-losses-in-limitation-of-liability-clauses/" target="_blank" rel="noopener noreferrer nofollow">https://www.stephens-scown.co.uk/corporate-commercial/uncategorisedthe-meaning-of-indirect-and-consequential-losses-in-limitation-of-liability-clauses/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The meaning of indirect and consequential losses in...10 Jan 2017 — This considers, in context of liability losses, risks that can arise...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: mayerbrown.com  
-   Link: <a href="https://www.mayerbrown.com/en/insights/podcasts/2022/03/limitations-on-liability-exceptions-interplay-between-contract-terms-and-legal-principles" target="_blank" rel="noopener noreferrer nofollow">https://www.mayerbrown.com/en/insights/podcasts/2022/03/limitations-on-liability-exceptions-interplay-between-contract-terms-and-legal-principles</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Limitations on Liability Exceptions – Interplay between...3 Mar 2022 — While limitation on liability clauses usually are enforceable und...</p></details>
+   Link:<a href="https://www.mayerbrown.com/en/insights/podcasts/2022/03/limitations-on-liability-exceptions-interplay-between-contract-terms-and-legal-principles" target="_blank" rel="noopener noreferrer nofollow">https://www.mayerbrown.com/en/insights/podcasts/2022/03/limitations-on-liability-exceptions-interplay-between-contract-terms-and-legal-principles</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Limitations on Liability Exceptions – Interplay between...3 Mar 2022 — While limitation on liability clauses usually are enforceable und...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: content.next.westlaw.com  
-   Link: <a href="https://content.next.westlaw.com/practical-law/document/Iab34321ff1e411e598dc8b09b4f043e0/General-Contract-Clauses-Cumulative-Remedies-with-Exclusive-Remedies-Carve-Out-OH?contextData=%28sc.Default%29&amp;transitionType=Default&amp;viewType=FullText" target="_blank" rel="noopener noreferrer nofollow">https://content.next.westlaw.com/practical-law/document/Iab34321ff1e411e598dc8b09b4f043e0/General-Contract-Clauses-Cumulative-Remedies-with-Exclusive-Remedies-Carve-Out-OH?contextData=%28sc.Default%29&amp;transitionType=Default&amp;viewType=FullText</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It addresses how to manage remedies for a breach of contract and the potential conflicts that can arise between cumulative remedie...</p></details>
+   Link:<a href="https://content.next.westlaw.com/practical-law/document/Iab34321ff1e411e598dc8b09b4f043e0/General-Contract-Clauses-Cumulative-Remedies-with-Exclusive-Remedies-Carve-Out-OH?contextData=%28sc.Default%29&amp;transitionType=Default&amp;viewType=FullText" target="_blank" rel="noopener noreferrer nofollow">https://content.next.westlaw.com/practical-law/document/Iab34321ff1e411e598dc8b09b4f043e0/General-Contract-Clauses-Cumulative-Remedies-with-Exclusive-Remedies-Carve-Out-OH?contextData=%28sc.Default%29&amp;transitionType=Default&amp;viewType=FullText</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It addresses how to manage remedies for a breach of contract and the potential conflicts that can arise between cumulative remedie...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: ashfords.co.uk  
    Title: wide exclusion of liability considered as reasonable under ucta  
-   Link: <a href="https://www.ashfords.co.uk/insights/articles/wide-exclusion-of-liability-considered-as-reasonable-under-ucta" target="_blank" rel="noopener noreferrer nofollow">https://www.ashfords.co.uk/insights/articles/wide-exclusion-of-liability-considered-as-reasonable-under-ucta</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wide exclusion of liability considered as reasonable under...17 Jul 2018 — UCTA contains a non-exhaustive list of guidelines in assessin...</p></details>
+   Link:<a href="https://www.ashfords.co.uk/insights/articles/wide-exclusion-of-liability-considered-as-reasonable-under-ucta" target="_blank" rel="noopener noreferrer nofollow">https://www.ashfords.co.uk/insights/articles/wide-exclusion-of-liability-considered-as-reasonable-under-ucta</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wide exclusion of liability considered as reasonable under...17 Jul 2018 — UCTA contains a non-exhaustive list of guidelines in assessin...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: legal500.com  
    Title: exclusion clauses in contracts barring a claim for damages  
-   Link: <a href="https://www.legal500.com/developments/thought-leadership/exclusion-clauses-in-contracts-barring-a-claim-for-damages/" target="_blank" rel="noopener noreferrer nofollow">https://www.legal500.com/developments/thought-leadership/exclusion-clauses-in-contracts-barring-a-claim-for-damages/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EXCLUSION CLAUSES IN CONTRACTS BARRING A...Aug 16, 2024 — In this case, a clause in a consignment note limited the liability of the cour...</p></details>
+   Link:<a href="https://www.legal500.com/developments/thought-leadership/exclusion-clauses-in-contracts-barring-a-claim-for-damages/" target="_blank" rel="noopener noreferrer nofollow">https://www.legal500.com/developments/thought-leadership/exclusion-clauses-in-contracts-barring-a-claim-for-damages/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EXCLUSION CLAUSES IN CONTRACTS BARRING A...Aug 16, 2024 — In this case, a clause in a consignment note limited the liability of the cour...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: scholarship.law.cornell.edu  
    Title: Seller's breach of contract to repaired or replaced goods  
-   Link: <a href="https://scholarship.law.cornell.edu/cgi/viewcontent.cgi?article=3407&amp;context=clr" target="_blank" rel="noopener noreferrer nofollow">https://scholarship.law.cornell.edu/cgi/viewcontent.cgi?article=3407&amp;context=clr</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Section 2-719: Limited Remedies and Consequential...by KI Murtagh · 1989 · Cited by 23 — Contracts with both limited -remedy and consequ...</p></details>
+   Link:<a href="https://scholarship.law.cornell.edu/cgi/viewcontent.cgi?article=3407&amp;context=clr" target="_blank" rel="noopener noreferrer nofollow">https://scholarship.law.cornell.edu/cgi/viewcontent.cgi?article=3407&amp;context=clr</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Section 2-719: Limited Remedies and Consequential...by KI Murtagh · 1989 · Cited by 23 — Contracts with both limited -remedy and consequ...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: holmes-hills.co.uk  
    Title: limiting liability within standard terms and conditions  
-   Link: <a href="https://www.holmes-hills.co.uk/news/2018/december/limiting-liability-within-standard-terms-and-conditions/" target="_blank" rel="noopener noreferrer nofollow">https://www.holmes-hills.co.uk/news/2018/december/limiting-liability-within-standard-terms-and-conditions/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Limiting Liability in T&amp;Cs | Holmes &amp; Hills Solicitors10 Dec 2018 — In this article we consider a few of the important points when consid...</p></details>
+   Link:<a href="https://www.holmes-hills.co.uk/news/2018/december/limiting-liability-within-standard-terms-and-conditions/" target="_blank" rel="noopener noreferrer nofollow">https://www.holmes-hills.co.uk/news/2018/december/limiting-liability-within-standard-terms-and-conditions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Limiting Liability in T&amp;Cs | Holmes &amp; Hills Solicitors10 Dec 2018 — In this article we consider a few of the important points when consid...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: merriam-webster.com  
    Title: LIMITATIO N Definition & Meaning7 days ago — 1  
-   Link: <a href="https://www.merriam-webster.com/dictionary/limitation" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/limitation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>an act or instance of limiting 2. the quality or state of being limited 3. something that limits: restraint 4. a certain period limited...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/limitation" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/limitation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>an act or instance of limiting 2. the quality or state of being limited 3. something that limits: restraint 4. a certain period limited...</p></details>

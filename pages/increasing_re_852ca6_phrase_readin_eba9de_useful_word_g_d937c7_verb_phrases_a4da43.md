@@ -273,7 +273,7 @@ One of the fastest ways to improve reading speed without sacrificing understandi
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_useful_word_g_d937c7_verb_phrases_a4da43-Illustration-1-dark.svg" | relative_url }}" alt="Verb Phrases illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_useful_word_g_d937c7_verb_phrases_a4da43-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_useful_word_g_d937c7_verb_phrases_a4da43-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This skill sits at the centre of fluent reading because fluent readers process language in meaningful chunks. Research on phrase-cued reading and prosody shows that recognising natural phrase boundaries supports smoother reading and stronger comprehension. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/full/10.1111/1467-9817.70002" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library+2Intervention Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Pairing phrase‐cued text with readers theatre: Effects on reading</span><span class="citation-popover-snippet">Wiley Online LibraryPairing phrase‐cued text with readers theatre: Effects on reading...March 12, 2025 — We examine effects on oral read...</span><span class="citation-popover-meta">Published: March 12, 2025</span></span></span>
+This skill sits at the centre of fluent reading because fluent readers process language in meaningful chunks. Research on phrase-cued reading and prosody shows that recognising natural phrase boundaries supports smoother reading and stronger comprehension.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/full/10.1111/1467-9817.70002" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library+2Intervention Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Pairing phrase‐cued text with readers theatre: Effects on reading</span><span class="citation-popover-snippet">Wiley Online LibraryPairing phrase‐cued text with readers theatre: Effects on reading...March 12, 2025 — We examine effects on oral read...</span><span class="citation-popover-meta">Published: March 12, 2025</span></span></span>
 
 ## Why the action is more than one verb
 
@@ -302,7 +302,7 @@ A slow reader may process:
 
 *has* → *been* → *improving*
 
-A fluent reader sees: <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2748352/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCBecoming a Fluent Reader: Reading Skill and Prosodic</span><span class="citation-popover-snippet">by PJ Schwanenflugel · 2004 · Cited by 731 — Prosodic reading, or reading with expression, is considered one of the hallmarks of fluen...</span></span></span>
+A fluent reader sees:<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2748352/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCBecoming a Fluent Reader: Reading Skill and Prosodic</span><span class="citation-popover-snippet">by PJ Schwanenflugel · 2004 · Cited by 731 — Prosodic reading, or reading with expression, is considered one of the hallmarks of fluen...</span></span></span>
 
 **has been improving**
 
@@ -310,7 +310,7 @@ as one action unit.
 
 The difference matters because every extra pause requires the brain to hold partial information while waiting for the rest of the meaning. Grouping the complete verb phrase reduces this burden and allows attention to stay on the message rather than the mechanics of the sentence.
 
-Studies of phrase-cued reading show that readers become more fluent when they learn to recognise meaningful syntactic units rather than reading word by word. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://literacy.virginia.edu/sites/literacy/files/2023-05/the_reading_sourcebook_phrase_cued_reading_1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: literacy.virginia.edu">[Virginia Literacy Partnerships+2Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">literacy.virginia.edu</span><span class="citation-popover-title">Literacy Partnerships[PDF] Phrase-Cued Reading</span><span class="citation-popover-snippet">Virginia Literacy Partnerships[PDF] Phrase-Cued Reading - Virginia Literacy PartnershipsMark short pauses, such as phrase boundaries with...</span></span></span>
+Studies of phrase-cued reading show that readers become more fluent when they learn to recognise meaningful syntactic units rather than reading word by word.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://literacy.virginia.edu/sites/literacy/files/2023-05/the_reading_sourcebook_phrase_cued_reading_1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: literacy.virginia.edu">[Virginia Literacy Partnerships+2Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">literacy.virginia.edu</span><span class="citation-popover-title">Literacy Partnerships[PDF] Phrase-Cued Reading</span><span class="citation-popover-snippet">Virginia Literacy Partnerships[PDF] Phrase-Cued Reading - Virginia Literacy PartnershipsMark short pauses, such as phrase boundaries with...</span></span></span>
 
 ## How tense and timing live inside verb phrases
 
@@ -477,7 +477,7 @@ The complete action is:
 
 With practice, readers begin to recognise these structures automatically. The eye starts treating them as familiar patterns rather than separate words.
 
-Research on reading fluency consistently shows that appropriate phrasing and recognition of meaningful language units contribute to smoother reading and better comprehension. Readers who group words according to natural syntactic structure make fewer disruptive pauses and process meaning more efficiently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2805245/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A Longitudinal Study of the Development of Reading Prosody...by J Miller · 2008 · Cited by 521 — The purpose of this study was to exa...</span></span></span>
+Research on reading fluency consistently shows that appropriate phrasing and recognition of meaningful language units contribute to smoother reading and better comprehension. Readers who group words according to natural syntactic structure make fewer disruptive pauses and process meaning more efficiently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2805245/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A Longitudinal Study of the Development of Reading Prosody...by J Miller · 2008 · Cited by 521 — The purpose of this study was to exa...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mMej4PNoP8c" title="Improving Reading Fluency: Tips for phrase cued reading for new intervention teachers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mMej4PNoP8c" target="_blank" rel="noopener noreferrer">Improving Reading Fluency: Tips for phrase cued reading for new intervention teachers</a></p><p class="youtube-embed-meta">Channel: Emily Muccianti &middot; Views: 2.9K &middot; Uploaded: March 2023 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mMej4PNoP8c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mMej4PNoP8c">Open on YouTube</a></p></div></div></div>
@@ -499,181 +499,181 @@ When readers capture **has been growing**, **will be announced**, or **might hav
 
 </div>
 
-This aligns with broader findings on reading fluency, where effective readers process phrases and thought units rather than isolated words. Appropriate phrasing supports both speed and understanding because meaning is carried by groups of words working together. keystoliteracy.com+3Wiley Online Library+3naset.com <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/full/10.1111/1467-9817.70002" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[onlinelibrary.wiley.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Pairing phrase‐cued text with readers theatre: Effects on reading</span><span class="citation-popover-snippet">Wiley Online LibraryPairing phrase‐cued text with readers theatre: Effects on reading...March 12, 2025 — We examine effects on oral read...</span><span class="citation-popover-meta">Published: March 12, 2025</span></span></span>
+This aligns with broader findings on reading fluency, where effective readers process phrases and thought units rather than isolated words. Appropriate phrasing supports both speed and understanding because meaning is carried by groups of words working together. keystoliteracy.com+3Wiley Online Library+3naset.com<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/full/10.1111/1467-9817.70002" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[onlinelibrary.wiley.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Pairing phrase‐cued text with readers theatre: Effects on reading</span><span class="citation-popover-snippet">Wiley Online LibraryPairing phrase‐cued text with readers theatre: Effects on reading...March 12, 2025 — We examine effects on oral read...</span><span class="citation-popover-meta">Published: March 12, 2025</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How verb groups reveal the real action. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How verb groups reveal the real action. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=English+Grammar+in+Use+Book+with+Answers%3A+A+Self-study+Reference+and+Practice+Book+for+Intermediate+Learners+of+English&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open English Grammar in Use Book with Answers: A Self-study Reference and Practice Book for Intermediate Learners of English on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8665352-M.jpg" alt="Cover for English Grammar in Use Book with Answers: A Self-study Reference and Practice Book for Intermediate Learners of English" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=English+Grammar+in+Use+Book+with+Answers%3A+A+Self-study+Reference+and+Practice+Book+for+Intermediate+Learners+of+English&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="English Grammar in Use Book with Answers: A Self-study Reference and Practice Book for Intermediate Learners of English">English Grammar in Use Book with Answers: A Self-study Refere...</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=English+Grammar+in+Use+Book+with+Answers%3A+A+Self-study+Reference+and+Practice+Book+for+Intermediate+Learners+of+English&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open English Grammar in Use Book with Answers: A Self-study Reference and Practice Book for Intermediate Learners of English on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8665352-M.jpg" alt="Cover for English Grammar in Use Book with Answers: A Self-study Reference and Practice Book for Intermediate Learners of English" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=English+Grammar+in+Use+Book+with+Answers%3A+A+Self-study+Reference+and+Practice+Book+for+Intermediate+Learners+of+English&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="English Grammar in Use Book with Answers: A Self-study Reference and Practice Book for Intermediate Learners of English">English Grammar in Use Book with Answers: A Self-study Refere...</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Covers verb phrases, tenses, auxiliaries, and multi-word verb constructions that readers must recognise as single action units.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=English+Grammar+in+Use+Book+with+Answers%3A+A+Self-study+Reference+and+Practice+Book+for+Intermediate+Learners+of+English&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers verb phrases, tenses, auxiliaries, and multi-word verb constructions that readers must recognise as single action units.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=English+Grammar+in+Use+Book+with+Answers%3A+A+Self-study+Reference+and+Practice+Book+for+Intermediate+Learners+of+English&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Blue+Book+of+Grammar+and+Punctuation+Jane+Straus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Blue Book of Grammar and Punctuation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/731880-M.jpg" alt="Cover for The Blue Book of Grammar and Punctuation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Blue+Book+of+Grammar+and+Punctuation+Jane+Straus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Blue Book of Grammar and Punctuation">The Blue Book of Grammar and Punctuation</a>
-        </h4>
-        <p class="fr-book-author">By Jane Straus</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Blue+Book+of+Grammar+and+Punctuation+Jane+Straus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Blue Book of Grammar and Punctuation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/731880-M.jpg" alt="Cover for The Blue Book of Grammar and Punctuation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Blue+Book+of+Grammar+and+Punctuation+Jane+Straus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Blue Book of Grammar and Punctuation">The Blue Book of Grammar and Punctuation</a>
+</h4>
+<p class="fr-book-author">By Jane Straus</p>
         
-        <p class="fr-book-desc">First published 1997. Subjects: Problems, exercises, Grammar, Punctuation, English language, Nonfiction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Blue+Book+of+Grammar+and+Punctuation+Jane+Straus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1997. Subjects: Problems, exercises, Grammar, Punctuation, English language, Nonfiction.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Blue+Book+of+Grammar+and+Punctuation+Jane+Straus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Practical+English+Usage+Michael+Swan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Practical English Usage on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5295458-M.jpg" alt="Cover for Practical English Usage" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Practical+English+Usage+Michael+Swan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical English Usage">Practical English Usage</a>
-        </h4>
-        <p class="fr-book-author">By Michael Swan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Practical+English+Usage+Michael+Swan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Practical English Usage on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5295458-M.jpg" alt="Cover for Practical English Usage" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Practical+English+Usage+Michael+Swan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical English Usage">Practical English Usage</a>
+</h4>
+<p class="fr-book-author">By Michael Swan</p>
         
-        <p class="fr-book-desc">First published 1980. Subjects: English language, Grammar, Textbooks for foreign speakers, Usage, Podre ·czniki dla obcoje ·zycznych.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Practical+English+Usage+Michael+Swan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1980. Subjects: English language, Grammar, Textbooks for foreign speakers, Usage, Podre ·czniki dla obcoje ·zycznych.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Practical+English+Usage+Michael+Swan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Natural+Grammar+Scott+Thornbury&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Natural Grammar on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1123936-M.jpg" alt="Cover for Natural Grammar" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Natural+Grammar+Scott+Thornbury&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Natural Grammar">Natural Grammar</a>
-        </h4>
-        <p class="fr-book-author">By Scott Thornbury</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Natural+Grammar+Scott+Thornbury&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Natural Grammar on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1123936-M.jpg" alt="Cover for Natural Grammar" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Natural+Grammar+Scott+Thornbury&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Natural Grammar">Natural Grammar</a>
+</h4>
+<p class="fr-book-author">By Scott Thornbury</p>
         
-        <p class="fr-book-desc">First published 2004. Subjects: English language, textbooks for foreign speakers, English language, grammar, English language, Problems,...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Natural+Grammar+Scott+Thornbury&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2004. Subjects: English language, textbooks for foreign speakers, English language, grammar, English language, Problems,...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Natural+Grammar+Scott+Thornbury&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=English+Grammar+in+Use+Book+with+Answers%3A+A+Self+study+and+Practice+Book+for+Intermediate+Learners+of+English+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">English Grammar in Use Book with Answers: A Self study and Practice Book for Intermediate Learners of English books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Blue+Book+of+Grammar+and+Punctuation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Blue Book of Grammar and Punctuation</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Practical+English+Usage&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Practical English Usage</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=English+Grammar+in+Use+Book+with+Answers%3A+A+Self+study+and+Practice+Book+for+Intermediate+Learners+of+English+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">English Grammar in Use Book with Answers: A Self study and Practice Book for Intermediate Learners of English books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Blue+Book+of+Grammar+and+Punctuation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Blue Book of Grammar and Punctuation</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Practical+English+Usage&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Practical English Usage</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=language+arts+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verb-phrases-how-verb-groups-reveal-the-real-action-increasing-language-arts-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language arts poster -book -books" data-ebay-reference="verb-phrases-how-verb-groups-reveal-the-real-action-increasing-language-arts-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 13 English Phonics Poster Language Arts Charts for Kids Toddler Learning Vowe..."><img src="{{ '/assets/images/marketplace-covers/a2d913d44ba8087cdfc6.jpg' | relative_url }}" alt="Listing image for 13 English Phonics Poster Language Arts Charts for Kids Toddler Learning Vowe..." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=language+arts+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verb-phrases-how-verb-groups-reveal-the-real-action-increasing-language-arts-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language arts poster -book -books" data-ebay-reference="verb-phrases-how-verb-groups-reveal-the-real-action-increasing-language-arts-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">13 English Phonics Poster Language Arts Charts for Kids Toddler Learning Vowe...</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=language+arts+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verb-phrases-how-verb-groups-reveal-the-real-action-increasing-language-arts-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language arts poster -book -books" data-ebay-reference="verb-phrases-how-verb-groups-reveal-the-real-action-increasing-language-arts-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for language arts poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: language arts poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=language+arts+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verb-phrases-how-verb-groups-reveal-the-real-action-increasing-language-arts-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language arts poster -book -books" data-ebay-reference="verb-phrases-how-verb-groups-reveal-the-real-action-increasing-language-arts-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=language+arts+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verb-phrases-how-verb-groups-reveal-the-real-action-increasing-language-arts-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language arts poster -book -books" data-ebay-reference="verb-phrases-how-verb-groups-reveal-the-real-action-increasing-language-arts-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 13 English Phonics Poster Language Arts Charts for Kids Toddler Learning Vowe..."><img src="{{ '/assets/images/marketplace-covers/a2d913d44ba8087cdfc6.jpg' | relative_url }}" alt="Listing image for 13 English Phonics Poster Language Arts Charts for Kids Toddler Learning Vowe..." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=language+arts+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verb-phrases-how-verb-groups-reveal-the-real-action-increasing-language-arts-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language arts poster -book -books" data-ebay-reference="verb-phrases-how-verb-groups-reveal-the-real-action-increasing-language-arts-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">13 English Phonics Poster Language Arts Charts for Kids Toddler Learning Vowe...</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=language+arts+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verb-phrases-how-verb-groups-reveal-the-real-action-increasing-language-arts-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language arts poster -book -books" data-ebay-reference="verb-phrases-how-verb-groups-reveal-the-real-action-increasing-language-arts-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for language arts poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: language arts poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=language+arts+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verb-phrases-how-verb-groups-reveal-the-real-action-increasing-language-arts-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language arts poster -book -books" data-ebay-reference="verb-phrases-how-verb-groups-reveal-the-real-action-increasing-language-arts-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=language+arts+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verb-phrases-how-verb-groups-reveal-the-real-action-increasing-language-arts-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language arts poster -book -books" data-ebay-reference="verb-phrases-how-verb-groups-reveal-the-real-action-increasing-language-arts-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NEW LANGUAGE ARTS POSTER - Comma Punctuation - Educational Classroom School"><img src="{{ '/assets/images/marketplace-covers/086be8bfce37af490a4e.jpg' | relative_url }}" alt="Listing image for NEW LANGUAGE ARTS POSTER - Comma Punctuation - Educational Classroom School" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=language+arts+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verb-phrases-how-verb-groups-reveal-the-real-action-increasing-language-arts-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language arts poster -book -books" data-ebay-reference="verb-phrases-how-verb-groups-reveal-the-real-action-increasing-language-arts-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">NEW LANGUAGE ARTS POSTER - Comma Punctuation - Educational Classroom School</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=language+arts+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verb-phrases-how-verb-groups-reveal-the-real-action-increasing-language-arts-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language arts poster -book -books" data-ebay-reference="verb-phrases-how-verb-groups-reveal-the-real-action-increasing-language-arts-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for language arts poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: language arts poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=language+arts+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verb-phrases-how-verb-groups-reveal-the-real-action-increasing-language-arts-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language arts poster -book -books" data-ebay-reference="verb-phrases-how-verb-groups-reveal-the-real-action-increasing-language-arts-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=language+arts+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verb-phrases-how-verb-groups-reveal-the-real-action-increasing-language-arts-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language arts poster -book -books" data-ebay-reference="verb-phrases-how-verb-groups-reveal-the-real-action-increasing-language-arts-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NEW LANGUAGE ARTS POSTER - Comma Punctuation - Educational Classroom School"><img src="{{ '/assets/images/marketplace-covers/086be8bfce37af490a4e.jpg' | relative_url }}" alt="Listing image for NEW LANGUAGE ARTS POSTER - Comma Punctuation - Educational Classroom School" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=language+arts+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verb-phrases-how-verb-groups-reveal-the-real-action-increasing-language-arts-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language arts poster -book -books" data-ebay-reference="verb-phrases-how-verb-groups-reveal-the-real-action-increasing-language-arts-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">NEW LANGUAGE ARTS POSTER - Comma Punctuation - Educational Classroom School</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=language+arts+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verb-phrases-how-verb-groups-reveal-the-real-action-increasing-language-arts-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language arts poster -book -books" data-ebay-reference="verb-phrases-how-verb-groups-reveal-the-real-action-increasing-language-arts-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for language arts poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: language arts poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=language+arts+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verb-phrases-how-verb-groups-reveal-the-real-action-increasing-language-arts-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language arts poster -book -books" data-ebay-reference="verb-phrases-how-verb-groups-reveal-the-real-action-increasing-language-arts-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=language+arts+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verb-phrases-how-verb-groups-reveal-the-real-action-increasing-language-arts-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language arts poster -book -books" data-ebay-reference="verb-phrases-how-verb-groups-reveal-the-real-action-increasing-language-arts-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1967 School Classroom Poster Mid Century Illustrations Language Arts"><img src="{{ '/assets/images/marketplace-covers/47d0d6f4cdd6081460f3.jpg' | relative_url }}" alt="Listing image for Vintage 1967 School Classroom Poster Mid Century Illustrations Language Arts" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=language+arts+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verb-phrases-how-verb-groups-reveal-the-real-action-increasing-language-arts-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language arts poster -book -books" data-ebay-reference="verb-phrases-how-verb-groups-reveal-the-real-action-increasing-language-arts-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage 1967 School Classroom Poster Mid Century Illustrations Language Arts</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=language+arts+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verb-phrases-how-verb-groups-reveal-the-real-action-increasing-language-arts-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language arts poster -book -books" data-ebay-reference="verb-phrases-how-verb-groups-reveal-the-real-action-increasing-language-arts-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for language arts poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: language arts poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=language+arts+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verb-phrases-how-verb-groups-reveal-the-real-action-increasing-language-arts-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language arts poster -book -books" data-ebay-reference="verb-phrases-how-verb-groups-reveal-the-real-action-increasing-language-arts-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=language+arts+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verb-phrases-how-verb-groups-reveal-the-real-action-increasing-language-arts-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language arts poster -book -books" data-ebay-reference="verb-phrases-how-verb-groups-reveal-the-real-action-increasing-language-arts-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=language+arts+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verb-phrases-how-verb-groups-reveal-the-real-action-increasing-language-arts-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language arts poster -book -books" data-ebay-reference="verb-phrases-how-verb-groups-reveal-the-real-action-increasing-language-arts-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1967 School Classroom Poster Mid Century Illustrations Language Arts"><img src="{{ '/assets/images/marketplace-covers/47d0d6f4cdd6081460f3.jpg' | relative_url }}" alt="Listing image for Vintage 1967 School Classroom Poster Mid Century Illustrations Language Arts" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=language+arts+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verb-phrases-how-verb-groups-reveal-the-real-action-increasing-language-arts-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language arts poster -book -books" data-ebay-reference="verb-phrases-how-verb-groups-reveal-the-real-action-increasing-language-arts-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage 1967 School Classroom Poster Mid Century Illustrations Language Arts</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=language+arts+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verb-phrases-how-verb-groups-reveal-the-real-action-increasing-language-arts-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language arts poster -book -books" data-ebay-reference="verb-phrases-how-verb-groups-reveal-the-real-action-increasing-language-arts-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for language arts poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: language arts poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=language+arts+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verb-phrases-how-verb-groups-reveal-the-real-action-increasing-language-arts-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language arts poster -book -books" data-ebay-reference="verb-phrases-how-verb-groups-reveal-the-real-action-increasing-language-arts-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=language+arts+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=verb-phrases-how-verb-groups-reveal-the-real-action-increasing-language-arts-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language arts poster -book -books" data-ebay-reference="verb-phrases-how-verb-groups-reveal-the-real-action-increasing-language-arts-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -689,7 +689,7 @@ This aligns with broader findings on reading fluency, where effective readers pr
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -709,7 +709,7 @@ This aligns with broader findings on reading fluency, where effective readers pr
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -741,7 +741,7 @@ This aligns with broader findings on reading fluency, where effective readers pr
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -793,7 +793,7 @@ This aligns with broader findings on reading fluency, where effective readers pr
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -838,7 +838,7 @@ This aligns with broader findings on reading fluency, where effective readers pr
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -879,118 +879,118 @@ This aligns with broader findings on reading fluency, where effective readers pr
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: onlinelibrary.wiley.com  
    Title: Online Library Pairing phrase‐[cued text](&#123;&#123; 'cued-text/' | relative_url &#125;&#125;) with readers theatre: Effects on reading  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/1467-9817.70002" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1111/1467-9817.70002</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryPairing phrase‐cued text with readers theatre: Effects on reading...March 12, 2025 — We examine effects on oral read...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/1467-9817.70002" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1111/1467-9817.70002</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryPairing phrase‐cued text with readers theatre: Effects on reading...March 12, 2025 — We examine effects on oral read...</p></details>
    Published: March 12, 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: literacy.virginia.edu  
    Title: Literacy Partnerships[PDF] Phrase-Cued Reading  
-   Link: <a href="https://literacy.virginia.edu/sites/literacy/files/2023-05/the_reading_sourcebook_phrase_cued_reading_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://literacy.virginia.edu/sites/literacy/files/2023-05/the_reading_sourcebook_phrase_cued_reading_1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Virginia Literacy Partnerships[PDF] Phrase-Cued Reading - Virginia Literacy PartnershipsMark short pauses, such as phrase boundaries with...</p></details>
+   Link:<a href="https://literacy.virginia.edu/sites/literacy/files/2023-05/the_reading_sourcebook_phrase_cued_reading_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://literacy.virginia.edu/sites/literacy/files/2023-05/the_reading_sourcebook_phrase_cued_reading_1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Virginia Literacy Partnerships[PDF] Phrase-Cued Reading - Virginia Literacy PartnershipsMark short pauses, such as phrase boundaries with...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCBecoming a Fluent Reader: Reading Skill and Prosodic  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2748352/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2748352/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by PJ Schwanenflugel · 2004 · Cited by 731 — Prosodic reading, or reading with expression, is considered one of the hallmarks of fluen...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2748352/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2748352/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by PJ Schwanenflugel · 2004 · Cited by 731 — Prosodic reading, or reading with expression, is considered one of the hallmarks of fluen...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: naset.com  
-   Link: <a href="https://www.naset.com/publications/the-practical-teacher/the-brain-prosody-and-reading-fluency/" target="_blank" rel="noopener noreferrer nofollow">https://www.naset.com/publications/the-practical-teacher/the-brain-prosody-and-reading-fluency/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>y. Also, they help students who have difficulty grouping words...</p></details>
+   Link:<a href="https://www.naset.com/publications/the-practical-teacher/the-brain-prosody-and-reading-fluency/" target="_blank" rel="noopener noreferrer nofollow">https://www.naset.com/publications/the-practical-teacher/the-brain-prosody-and-reading-fluency/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>y. Also, they help students who have difficulty grouping words...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: keystoliteracy.com  
    Title: the importance of teaching prosody as part of reading fluency  
-   Link: <a href="https://keystoliteracy.com/blog/the-importance-of-teaching-prosody-as-part-of-reading-fluency/" target="_blank" rel="noopener noreferrer nofollow">https://keystoliteracy.com/blog/the-importance-of-teaching-prosody-as-part-of-reading-fluency/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It helps readers identify word boundaries, syntactic structures, and word meanings...</p></details>
+   Link:<a href="https://keystoliteracy.com/blog/the-importance-of-teaching-prosody-as-part-of-reading-fluency/" target="_blank" rel="noopener noreferrer nofollow">https://keystoliteracy.com/blog/the-importance-of-teaching-prosody-as-part-of-reading-fluency/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It helps readers identify word boundaries, syntactic structures, and word meanings...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: interventioncentral.org  
    Title: Intervention Central Phrase-Cued Text Lessons  
-   Link: <a href="https://www.interventioncentral.org/academic-interventions/reading-comprehension/phrase-cued-text-lessons" target="_blank" rel="noopener noreferrer nofollow">https://www.interventioncentral.org/academic-interventions/reading-comprehension/phrase-cued-text-lessons</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Phrase-Cued Text Lessons - Intervention CentralDESCRIPTION: Phrase-cued texts are a means to train students to recognize the natural paus...</p></details>
+   Link:<a href="https://www.interventioncentral.org/academic-interventions/reading-comprehension/phrase-cued-text-lessons" target="_blank" rel="noopener noreferrer nofollow">https://www.interventioncentral.org/academic-interventions/reading-comprehension/phrase-cued-text-lessons</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Phrase-Cued Text Lessons - Intervention CentralDESCRIPTION: Phrase-cued texts are a means to train students to recognize the natural paus...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/105345129402900307" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/105345129402900307</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsDeveloping Syntactic Sensitivity in Reading Through...Highlights the benefits of developing students&#x27; skills in grouping te...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/105345129402900307" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/105345129402900307</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsDeveloping Syntactic Sensitivity in Reading Through...Highlights the benefits of developing students&#x27; skills in grouping te...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2805245/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2805245/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Longitudinal Study of the Development of Reading Prosody...by J Miller · 2008 · Cited by 521 — The [purpose](&amp;#123;&amp;#123; &#x27;purpose/&#x27; | relative_url &amp;#125;&amp;#125;) of this study was to exa...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2805245/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2805245/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Longitudinal Study of the Development of Reading Prosody...by J Miller · 2008 · Cited by 521 — The [purpose](&amp;#123;&amp;#123; &#x27;purpose/&#x27; | relative_url &amp;#125;&amp;#125;) of this study was to exa...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/1525740119825616" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1525740119825616</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsPhrase-Reading Mediates Between Words and Syntax in...3 Feb 2019 — We studied 70 adolescent readers including delayed reade...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/1525740119825616" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1525740119825616</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsPhrase-Reading Mediates Between Words and Syntax in...3 Feb 2019 — We studied 70 adolescent readers including delayed reade...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4949254/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4949254/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Prosodic Fluency Predicts Reading Comprehension...by M Breen · 2016 · Cited by 56 — As described above, speakers cue syntactic phrase bo...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4949254/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4949254/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Prosodic Fluency Predicts Reading Comprehension...by M Breen · 2016 · Cited by 56 — As described above, speakers cue syntactic phrase bo...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Reading" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ReadingReading is the process of taking in the sense or meaning of symbols, often specifically those of a written language, by means o...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Reading" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ReadingReading is the process of taking in the sense or meaning of symbols, often specifically those of a written language, by means o...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: teacherspayteachers.com  
-   Link: <a href="https://www.teacherspayteachers.com/browse/free?search=fluency+phrasing+activities" target="_blank" rel="noopener noreferrer nofollow">https://www.teacherspayteachers.com/browse/free?search=fluency+phrasing+activities</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fluency Phrasing ActivitiesFREE FLUENCY PRACTICE-FOCUS ON PHRASING STRATEGY: FOCUS ON PHRASING How to use PHRASE-CUED TEXT to help studen...</p></details>
+   Link:<a href="https://www.teacherspayteachers.com/browse/free?search=fluency+phrasing+activities" target="_blank" rel="noopener noreferrer nofollow">https://www.teacherspayteachers.com/browse/free?search=fluency+phrasing+activities</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fluency Phrasing ActivitiesFREE FLUENCY PRACTICE-FOCUS ON PHRASING STRATEGY: FOCUS ON PHRASING How to use PHRASE-CUED TEXT to help studen...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/389791217_Pairing_phrase-cued_text_with_readers_theatre_Effects_on_reading_prosody_and_automaticity" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/389791217_Pairing_phrase-cued_text_with_readers_theatre_Effects_on_reading_prosody_and_automaticity</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pairing phrase‐cued text with readers theatreConclusions Adding text with highlighted phrase boundaries enhanced the effect of readers th...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/389791217_Pairing_phrase-cued_text_with_readers_theatre_Effects_on_reading_prosody_and_automaticity" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/389791217_Pairing_phrase-cued_text_with_readers_theatre_Effects_on_reading_prosody_and_automaticity</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pairing phrase‐cued text with readers theatreConclusions Adding text with highlighted phrase boundaries enhanced the effect of readers th...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: sortools.com  
-   Link: <a href="https://sortools.com/phrase_cue.html" target="_blank" rel="noopener noreferrer nofollow">https://sortools.com/phrase_cue.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Phrase-Cued Text GeneratorPhrase-cued text is a strategy for teaching reading fluency. Cues, or dashes, are inserted after punctuation ma...</p></details>
+   Link:<a href="https://sortools.com/phrase_cue.html" target="_blank" rel="noopener noreferrer nofollow">https://sortools.com/phrase_cue.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Phrase-Cued Text GeneratorPhrase-cued text is a strategy for teaching reading fluency. Cues, or dashes, are inserted after punctuation ma...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: sarahsnippets.com  
-   Link: <a href="https://sarahsnippets.com/fluency-phrased-reading-scooping/" target="_blank" rel="noopener noreferrer nofollow">https://sarahsnippets.com/fluency-phrased-reading-scooping/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Phrased Reading (Scooping Phrases): Reading Fluency FoundationDiscover the benefits of phrased reading. Help students group words meaning...</p></details>
+   Link:<a href="https://sarahsnippets.com/fluency-phrased-reading-scooping/" target="_blank" rel="noopener noreferrer nofollow">https://sarahsnippets.com/fluency-phrased-reading-scooping/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Phrased Reading (Scooping Phrases): Reading Fluency FoundationDiscover the benefits of phrased reading. Help students group words meaning...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: fivefromfive.com.au  
-   Link: <a href="https://fivefromfive.com.au/fluency/components-of-fluency/" target="_blank" rel="noopener noreferrer nofollow">https://fivefromfive.com.au/fluency/components-of-fluency/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ponents of fluencyText or passage reading fluency is generally defined as having three components: accuracy, rate, and prosody (or exp...</p></details>
+   Link:<a href="https://fivefromfive.com.au/fluency/components-of-fluency/" target="_blank" rel="noopener noreferrer nofollow">https://fivefromfive.com.au/fluency/components-of-fluency/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ponents of fluencyText or passage reading fluency is generally defined as having three components: accuracy, rate, and prosody (or exp...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: linkedin.com  
    Title: It's where we help the students to learn how to chunk of text so that they can  
-   Link: <a href="https://www.linkedin.com/posts/jennifer-throndsen-phd-1b833261_do-your-students-struggle-with-reading-fluency-activity-7417422921456996352--T9x" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/jennifer-throndsen-phd-1b833261_do-your-students-struggle-with-reading-fluency-activity-7417422921456996352--T9x</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Boost Reading Fluency with Evidence-Based Phrase-Cued ReadingJanuary 14, 2026 — And that strategy is phrase text reading, also known as c...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/jennifer-throndsen-phd-1b833261_do-your-students-struggle-with-reading-fluency-activity-7417422921456996352--T9x" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/jennifer-throndsen-phd-1b833261_do-your-students-struggle-with-reading-fluency-activity-7417422921456996352--T9x</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Boost Reading Fluency with Evidence-Based Phrase-Cued ReadingJanuary 14, 2026 — And that strategy is phrase text reading, also known as c...</p></details>
    Published: January 14, 2026  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nwea.org  
    Title: Part of reading passages with fluency involves communicating that meaning, both  
-   Link: <a href="https://www.nwea.org/blog/2025/supporting-fluency-and-comprehension-using-practices-grounded-in-the-science-of-reading/" target="_blank" rel="noopener noreferrer nofollow">https://www.nwea.org/blog/2025/supporting-fluency-and-comprehension-using-practices-grounded-in-the-science-of-reading/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Supporting fluency and comprehension using practices...Apr 3, 2025 — prosody is about interpretive reading of phrases and sentences...</p></details>
+   Link:<a href="https://www.nwea.org/blog/2025/supporting-fluency-and-comprehension-using-practices-grounded-in-the-science-of-reading/" target="_blank" rel="noopener noreferrer nofollow">https://www.nwea.org/blog/2025/supporting-fluency-and-comprehension-using-practices-grounded-in-the-science-of-reading/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Supporting fluency and comprehension using practices...Apr 3, 2025 — prosody is about interpretive reading of phrases and sentences...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/262152107_The_role_of_speech_prosody_and_text_reading_prosody_in_children%27s_reading_comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/262152107_The_role_of_speech_prosody_and_text_reading_prosody_in_children%27s_reading_comprehension</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When added in consecutive order, phrasing in speech added 5% variance to phrasing...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/262152107_The_role_of_speech_prosody_and_text_reading_prosody_in_children%27s_reading_comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/262152107_The_role_of_speech_prosody_and_text_reading_prosody_in_children%27s_reading_comprehension</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When added in consecutive order, phrasing in speech added 5% variance to phrasing...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: shanahanonliteracy.com  
-   Link: <a href="https://www.shanahanonliteracy.com/blog/can-we-really-teach-prosody-and-why-would-we-want-to" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/can-we-really-teach-prosody-and-why-would-we-want-to</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>?8 Jul 2023 — We are told that [oral reading](&amp;#123;&amp;#123; &#x27;reading-aloud/&#x27; | relative_url &amp;#125;&amp;#125;) fluency consists of accuracy, rate, and prosody, but our monitoring tests only consider accur...</p></details>
+   Link:<a href="https://www.shanahanonliteracy.com/blog/can-we-really-teach-prosody-and-why-would-we-want-to" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/can-we-really-teach-prosody-and-why-would-we-want-to</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?8 Jul 2023 — We are told that [oral reading](&amp;#123;&amp;#123; &#x27;reading-aloud/&#x27; | relative_url &amp;#125;&amp;#125;) fluency consists of accuracy, rate, and prosody, but our monitoring tests only consider accur...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/397287122_The_Effects_of_Phrase-Cued_Reading_on_Reading_Fluency_and_Comprehension_in_Children_with_Borderline_Intellectual_Functioning" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397287122_The_Effects_of_Phrase-Cued_Reading_on_Reading_Fluency_and_Comprehension_in_Children_with_Borderline_Intellectual_Functioning</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>structional strategy for supporting reading development in this population...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/397287122_The_Effects_of_Phrase-Cued_Reading_on_Reading_Fluency_and_Comprehension_in_Children_with_Borderline_Intellectual_Functioning" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397287122_The_Effects_of_Phrase-Cued_Reading_on_Reading_Fluency_and_Comprehension_in_Children_with_Borderline_Intellectual_Functioning</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>structional strategy for supporting reading development in this population...</p></details>

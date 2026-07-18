@@ -269,7 +269,7 @@ image: /assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_argument_sign_35
 
 ## Introduction
 
-Fast reading only works when readers preserve the author's level of certainty. One of the most common failures in [skimming]({{ 'skimming/' | relative_url }}) is turning a tentative finding into a strong conclusion by overlooking hedges such as *may*, *might*, *appears*, *suggests*, *some*, *often*, and *in certain cases*. These words are not filler. They tell readers exactly how much confidence the evidence can support and how widely a claim applies. Academic writing guides consistently describe hedging as a way of matching claims to evidence, avoiding overstatement, and signalling uncertainty where certainty is not justified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://writingcenter.gmu.edu/writing-resources/research-based-writing/hedges-softening-claims-in-academic-writing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.gmu.edu">[The Writing Center+2Oxford Lifelong Learning]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.gmu.edu</span><span class="citation-popover-title">hedges softening claims in academic writing</span><span class="citation-popover-snippet">The Writing CenterHedges: Softening Claims in Academic WritingOct 17, 2020 — With the help of the special language, called “hedges”, writ...</span></span></span>
+Fast reading only works when readers preserve the author's level of certainty. One of the most common failures in [skimming]({{ 'skimming/' | relative_url }}) is turning a tentative finding into a strong conclusion by overlooking hedges such as *may*, *might*, *appears*, *suggests*, *some*, *often*, and *in certain cases*. These words are not filler. They tell readers exactly how much confidence the evidence can support and how widely a claim applies. Academic writing guides consistently describe hedging as a way of matching claims to evidence, avoiding overstatement, and signalling uncertainty where certainty is not justified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://writingcenter.gmu.edu/writing-resources/research-based-writing/hedges-softening-claims-in-academic-writing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.gmu.edu">[The Writing Center+2Oxford Lifelong Learning]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.gmu.edu</span><span class="citation-popover-title">hedges softening claims in academic writing</span><span class="citation-popover-snippet">The Writing CenterHedges: Softening Claims in Academic WritingOct 17, 2020 — With the help of the special language, called “hedges”, writ...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_argument_sign_3561fb_hedges_overst_f713be-Illustration-1-dark.svg" | relative_url }}" alt="Hedges illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_argument_sign_3561fb_hedges_overst_f713be-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_argument_sign_3561fb_hedges_overst_f713be-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -292,7 +292,7 @@ Compare these statements:
 
 All three discuss the same subject. However, they make very different claims about certainty and scope.
 
-The first sentence presents the effect as established. The second signals uncertainty. The third adds a [limitation]({{ 'reading-limits/' | relative_url }}) on who may benefit. Academic writing resources emphasise that hedging helps writers express appropriate levels of confidence and reflect the limits of available evidence rather than claiming more than the data can support. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://lifelong-learning.ox.ac.uk/about/hedging" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lifelong-learning.ox.ac.uk">[Oxford Lifelong Learning+2Enago]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lifelong-learning.ox.ac.uk</span><span class="citation-popover-title">Oxford Lifelong Learning Hedging</span><span class="citation-popover-snippet">It allows writers to show appropriate levels of certainty...Read more...</span></span></span>
+The first sentence presents the effect as established. The second signals uncertainty. The third adds a [limitation]({{ 'reading-limits/' | relative_url }}) on who may benefit. Academic writing resources emphasise that hedging helps writers express appropriate levels of confidence and reflect the limits of available evidence rather than claiming more than the data can support.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://lifelong-learning.ox.ac.uk/about/hedging" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lifelong-learning.ox.ac.uk">[Oxford Lifelong Learning+2Enago]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lifelong-learning.ox.ac.uk</span><span class="citation-popover-title">Oxford Lifelong Learning Hedging</span><span class="citation-popover-snippet">It allows writers to show appropriate levels of certainty...Read more...</span></span></span>
 
 When skimmers ignore these qualifiers, they often remember only the strongest possible version. A finding that *may* exist becomes a finding that *does* exist. A result observed in *some participants* becomes a result that applies to everyone.
 
@@ -309,7 +309,7 @@ Different hedges perform different jobs.
 * seems to
 * suggests
 
-These indicate that the evidence supports a possibility or interpretation rather than a settled fact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.monash.edu/student-academic-success/improve-your-academic-english/strategies-for-writing-academic-english/express-uncertainty-in-writing/how-to-use-hedging-to-make-nuanced-claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: monash.edu">[Monash University+2Grammarly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">monash.edu</span><span class="citation-popover-snippet">Monash UniversityHow to use hedging to make nuanced claimsTo express a nuanced claim, you need to draw on a range of hedging devices. Gen...</span></span></span>
+These indicate that the evidence supports a possibility or interpretation rather than a settled fact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.monash.edu/student-academic-success/improve-your-academic-english/strategies-for-writing-academic-english/express-uncertainty-in-writing/how-to-use-hedging-to-make-nuanced-claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: monash.edu">[Monash University+2Grammarly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">monash.edu</span><span class="citation-popover-snippet">Monash UniversityHow to use hedging to make nuanced claimsTo express a nuanced claim, you need to draw on a range of hedging devices. Gen...</span></span></span>
 
 **Scope hedges** limit how broadly a claim applies:
 
@@ -324,7 +324,7 @@ These indicate that the evidence supports a possibility or interpretation rather
 
 </div>
 
-These prevent readers from treating a local finding as a universal rule. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ielts.idp.com/vietnam/about/news-and-articles/article-hedging-language/en-gb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ielts.idp.com">[IDP IELTS Poland+2UEfAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ielts.idp.com</span><span class="citation-popover-snippet">IDP IELTS PolandHedging Language in IELTS Writing Task 2Dec 18, 2024 — Hedging language is a cautious way of expressing ideas without mak...</span></span></span>
+These prevent readers from treating a local finding as a universal rule.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ielts.idp.com/vietnam/about/news-and-articles/article-hedging-language/en-gb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ielts.idp.com">[IDP IELTS Poland+2UEfAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ielts.idp.com</span><span class="citation-popover-snippet">IDP IELTS PolandHedging Language in IELTS Writing Task 2Dec 18, 2024 — Hedging language is a cautious way of expressing ideas without mak...</span></span></span>
 
 A useful reading shortcut is to ask two questions whenever you encounter a hedge:
 
@@ -352,7 +352,7 @@ can easily become:
 
 The topic remains unchanged, but the evidence claim becomes much stronger than the author intended.
 
-This matters because researchers often hedge precisely when evidence is preliminary, samples are limited, measurements are imperfect, or alternative explanations remain plausible. Studies of scientific and academic writing note that hedges are frequently used to reflect these evidence limitations rather than to weaken arguments unnecessarily. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.eric.ed.gov/fulltext/ED390258.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.eric.ed.gov">[ERIC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.eric.ed.gov</span><span class="citation-popover-title">ERICHedging Scientific Writing</span><span class="citation-popover-snippet">REPORT NO ISS - ERICby K Hyland · 1995 · Cited by 316 — In science writers may hedge in this way because of preliminary results, small sa...</span></span></span>
+This matters because researchers often hedge precisely when evidence is preliminary, samples are limited, measurements are imperfect, or alternative explanations remain plausible. Studies of scientific and academic writing note that hedges are frequently used to reflect these evidence limitations rather than to weaken arguments unnecessarily.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.eric.ed.gov/fulltext/ED390258.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.eric.ed.gov">[ERIC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.eric.ed.gov</span><span class="citation-popover-title">ERICHedging Scientific Writing</span><span class="citation-popover-snippet">REPORT NO ISS - ERICby K Hyland · 1995 · Cited by 316 — In science writers may hedge in this way because of preliminary results, small sa...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_argument_sign_3561fb_hedges_overst_f713be-Illustration-2-dark.svg" | relative_url }}" alt="Hedges illustration 2" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_argument_sign_3561fb_hedges_overst_f713be-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_argument_sign_3561fb_hedges_overst_f713be-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -370,7 +370,7 @@ A rushed summary may become:
 
 The second statement applies to everyone. The original does not.
 
-Academic guidance on hedging repeatedly highlights that qualifiers help avoid overgeneralisation by restricting claims to the populations and situations actually supported by evidence. IDP IELTS Poland+2University of Pretoria Library <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ielts.idp.com/vietnam/about/news-and-articles/article-hedging-language/en-gb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ielts.idp.com">[ielts.idp.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ielts.idp.com</span><span class="citation-popover-snippet">IDP IELTS PolandHedging Language in IELTS Writing Task 2Dec 18, 2024 — Hedging language is a cautious way of expressing ideas without mak...</span></span></span>
+Academic guidance on hedging repeatedly highlights that qualifiers help avoid overgeneralisation by restricting claims to the populations and situations actually supported by evidence. IDP IELTS Poland+2University of Pretoria Library<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ielts.idp.com/vietnam/about/news-and-articles/article-hedging-language/en-gb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ielts.idp.com">[ielts.idp.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ielts.idp.com</span><span class="citation-popover-snippet">IDP IELTS PolandHedging Language in IELTS Writing Task 2Dec 18, 2024 — Hedging language is a cautious way of expressing ideas without mak...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kajoEOfT8w4" title="Hedging (cautious language) in Academic Writing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kajoEOfT8w4" target="_blank" rel="noopener noreferrer">Hedging (cautious language) in Academic Writing</a></p><p class="youtube-embed-meta">Channel: EAPFoundation.com</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kajoEOfT8w4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kajoEOfT8w4">Open on YouTube</a></p></div></div></div>
@@ -387,7 +387,7 @@ is not equivalent to:
 
 > “The pattern proves improved comprehension.”
 
-The hedge signals that competing interpretations may still exist. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.monash.edu/student-academic-success/improve-your-academic-english/strategies-for-writing-academic-english/express-uncertainty-in-writing/how-to-use-hedging-to-make-nuanced-claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: monash.edu">[Monash University+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">monash.edu</span><span class="citation-popover-snippet">Monash UniversityHow to use hedging to make nuanced claimsTo express a nuanced claim, you need to draw on a range of hedging devices. Gen...</span></span></span>
+The hedge signals that competing interpretations may still exist.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.monash.edu/student-academic-success/improve-your-academic-english/strategies-for-writing-academic-english/express-uncertainty-in-writing/how-to-use-hedging-to-make-nuanced-claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: monash.edu">[Monash University+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">monash.edu</span><span class="citation-popover-snippet">Monash UniversityHow to use hedging to make nuanced claimsTo express a nuanced claim, you need to draw on a range of hedging devices. Gen...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_argument_sign_3561fb_hedges_overst_f713be-Illustration-3-dark.svg" | relative_url }}" alt="Hedges illustration 3" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_argument_sign_3561fb_hedges_overst_f713be-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_argument_sign_3561fb_hedges_overst_f713be-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -395,9 +395,9 @@ The hedge signals that competing interpretations may still exist. <span class="c
 
 Some readers mistake hedging for weakness. In evidence-based writing, it is usually the opposite.
 
-A claim becomes more credible when its certainty matches the evidence behind it. Writing specialists note that hedging protects credibility because it prevents authors from making claims stronger than their data justify. It also acknowledges that complex questions rarely produce absolute answers. University of Pretoria Library+2The Writing Center <span class="citation-link-wrap"><a class="citation-inline-link" href="https://library.up.ac.za/c.php?g=1505780&amp;p=11264954" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.up.ac.za">[library.up.ac.za]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.up.ac.za</span><span class="citation-popover-title">Functions of Hedging:.Read more</span><span class="citation-popover-snippet">University of Pretoria LibraryUsing Hedging Language - Academic Writing - UP LibraryMar 5, 2026 — It protects your credibility by ensurin...</span></span></span>
+A claim becomes more credible when its certainty matches the evidence behind it. Writing specialists note that hedging protects credibility because it prevents authors from making claims stronger than their data justify. It also acknowledges that complex questions rarely produce absolute answers. University of Pretoria Library+2The Writing Center<span class="citation-link-wrap"><a class="citation-inline-link" href="https://library.up.ac.za/c.php?g=1505780&amp;p=11264954" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: library.up.ac.za">[library.up.ac.za]</a><span class="citation-popover" role="note"><span class="citation-popover-source">library.up.ac.za</span><span class="citation-popover-title">Functions of Hedging:.Read more</span><span class="citation-popover-snippet">University of Pretoria LibraryUsing Hedging Language - Academic Writing - UP LibraryMar 5, 2026 — It protects your credibility by ensurin...</span></span></span>
 
-This is particularly important in research summaries, reviews, and policy discussions. Evidence often points toward a conclusion without fully proving it. In such cases, a hedge is not a warning sign that the research is poor. It is often a sign that the writer is accurately representing what the evidence can and cannot establish. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12584097/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Enago]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExploring Hedging Devices in Scientific Research Papers</span><span class="citation-popover-snippet">by H Hamidi · 2025 — Hedging generally serves several important rhetorical and epistemic purposes in academic writing, allowing author...</span></span></span>
+This is particularly important in research summaries, reviews, and policy discussions. Evidence often points toward a conclusion without fully proving it. In such cases, a hedge is not a warning sign that the research is poor. It is often a sign that the writer is accurately representing what the evidence can and cannot establish.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12584097/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Enago]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExploring Hedging Devices in Scientific Research Papers</span><span class="citation-popover-snippet">by H Hamidi · 2025 — Hedging generally serves several important rhetorical and epistemic purposes in academic writing, allowing author...</span></span></span>
 
 For fast readers, recognising this distinction prevents a common mistake: assuming that cautious language means unimportant findings. The real message is often that the finding is meaningful but not absolute.
 
@@ -425,162 +425,162 @@ For readers seeking greater speed without sacrificing accuracy, hedges are among
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why may is not a throwaway word. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why may is not a throwaway word. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Shows why cautious wording often matters more than headlines.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows why cautious wording often matters more than headlines.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Critical Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Xg4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Critical Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Critical Thinking">Critical Thinking</a>
-        </h4>
-        <p class="fr-book-author">By Tom Chatfield</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Critical Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Xg4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Critical Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Critical Thinking">Critical Thinking</a>
+</h4>
+<p class="fr-book-author">By Tom Chatfield</p>
         
-        <p class="fr-book-desc">Addresses uncertainty, evidence, and evaluating claim strength.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses uncertainty, evidence, and evaluating claim strength.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains why people naturally turn tentative claims into certainties.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why people naturally turn tentative claims into certainties.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Encourages attentive reading of qualifications and limits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Encourages attentive reading of qualifications and limits.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Critical+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Critical+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hedges-why-may-is-not-a-throwaway-word-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="hedges-why-may-is-not-a-throwaway-word-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Office Study Desk Organizer Table Box Tidy Case Display Stationaries Pen Holder"><img src="{{ '/assets/images/marketplace-covers/5c9ca9153eac647ccfb2.jpg' | relative_url }}" alt="Listing image for Office Study Desk Organizer Table Box Tidy Case Display Stationaries Pen Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hedges-why-may-is-not-a-throwaway-word-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="hedges-why-may-is-not-a-throwaway-word-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Office Study Desk Organizer Table Box Tidy Case Display Stationaries Pen Holder</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hedges-why-may-is-not-a-throwaway-word-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="hedges-why-may-is-not-a-throwaway-word-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: study desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hedges-why-may-is-not-a-throwaway-word-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="hedges-why-may-is-not-a-throwaway-word-increasing-study-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hedges-why-may-is-not-a-throwaway-word-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="hedges-why-may-is-not-a-throwaway-word-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Office Study Desk Organizer Table Box Tidy Case Display Stationaries Pen Holder"><img src="{{ '/assets/images/marketplace-covers/5c9ca9153eac647ccfb2.jpg' | relative_url }}" alt="Listing image for Office Study Desk Organizer Table Box Tidy Case Display Stationaries Pen Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hedges-why-may-is-not-a-throwaway-word-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="hedges-why-may-is-not-a-throwaway-word-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Office Study Desk Organizer Table Box Tidy Case Display Stationaries Pen Holder</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hedges-why-may-is-not-a-throwaway-word-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="hedges-why-may-is-not-a-throwaway-word-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: study desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hedges-why-may-is-not-a-throwaway-word-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="hedges-why-may-is-not-a-throwaway-word-increasing-study-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hedges-why-may-is-not-a-throwaway-word-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="hedges-why-may-is-not-a-throwaway-word-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Under Desk Drawers Study Table Drawer Tray Pencil Storage Organizer Box Holder"><img src="{{ '/assets/images/marketplace-covers/33486c199d5fa156bbf4.jpg' | relative_url }}" alt="Listing image for Under Desk Drawers Study Table Drawer Tray Pencil Storage Organizer Box Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hedges-why-may-is-not-a-throwaway-word-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="hedges-why-may-is-not-a-throwaway-word-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Under Desk Drawers Study Table Drawer Tray Pencil Storage Organizer Box Holder</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hedges-why-may-is-not-a-throwaway-word-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="hedges-why-may-is-not-a-throwaway-word-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: study desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hedges-why-may-is-not-a-throwaway-word-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="hedges-why-may-is-not-a-throwaway-word-increasing-study-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hedges-why-may-is-not-a-throwaway-word-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="hedges-why-may-is-not-a-throwaway-word-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hedges-why-may-is-not-a-throwaway-word-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="hedges-why-may-is-not-a-throwaway-word-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Under Desk Drawers Study Table Drawer Tray Pencil Storage Organizer Box Holder"><img src="{{ '/assets/images/marketplace-covers/33486c199d5fa156bbf4.jpg' | relative_url }}" alt="Listing image for Under Desk Drawers Study Table Drawer Tray Pencil Storage Organizer Box Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hedges-why-may-is-not-a-throwaway-word-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="hedges-why-may-is-not-a-throwaway-word-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Under Desk Drawers Study Table Drawer Tray Pencil Storage Organizer Box Holder</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hedges-why-may-is-not-a-throwaway-word-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="hedges-why-may-is-not-a-throwaway-word-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: study desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hedges-why-may-is-not-a-throwaway-word-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="hedges-why-may-is-not-a-throwaway-word-increasing-study-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hedges-why-may-is-not-a-throwaway-word-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="hedges-why-may-is-not-a-throwaway-word-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -596,7 +596,7 @@ For readers seeking greater speed without sacrificing accuracy, hedges are among
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -616,7 +616,7 @@ For readers seeking greater speed without sacrificing accuracy, hedges are among
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -648,7 +648,7 @@ For readers seeking greater speed without sacrificing accuracy, hedges are among
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -700,7 +700,7 @@ For readers seeking greater speed without sacrificing accuracy, hedges are among
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -745,7 +745,7 @@ For readers seeking greater speed without sacrificing accuracy, hedges are among
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -786,142 +786,142 @@ For readers seeking greater speed without sacrificing accuracy, hedges are among
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: enago.com  
    Title: What Is Hedging in Academic Writing?  
-   Link: <a href="https://www.enago.com/academy/hedging-in-academic-writing/" target="_blank" rel="noopener noreferrer nofollow">https://www.enago.com/academy/hedging-in-academic-writing/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Enago AcademyHedging is the use of linguistic devices to express hesitation or uncertainty as well as to demonstrate politeness and indir...</p></details>
+   Link:<a href="https://www.enago.com/academy/hedging-in-academic-writing/" target="_blank" rel="noopener noreferrer nofollow">https://www.enago.com/academy/hedging-in-academic-writing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enago AcademyHedging is the use of linguistic devices to express hesitation or uncertainty as well as to demonstrate politeness and indir...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: monash.edu  
-   Link: <a href="https://www.monash.edu/student-academic-success/improve-your-academic-english/strategies-for-writing-academic-english/express-uncertainty-in-writing/how-to-use-hedging-to-make-nuanced-claims" target="_blank" rel="noopener noreferrer nofollow">https://www.monash.edu/student-academic-success/improve-your-academic-english/strategies-for-writing-academic-english/express-uncertainty-in-writing/how-to-use-hedging-to-make-nuanced-claims</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Monash UniversityHow to use hedging to make nuanced claimsTo express a nuanced claim, you need to draw on a range of hedging devices. Gen...</p></details>
+   Link:<a href="https://www.monash.edu/student-academic-success/improve-your-academic-english/strategies-for-writing-academic-english/express-uncertainty-in-writing/how-to-use-hedging-to-make-nuanced-claims" target="_blank" rel="noopener noreferrer nofollow">https://www.monash.edu/student-academic-success/improve-your-academic-english/strategies-for-writing-academic-english/express-uncertainty-in-writing/how-to-use-hedging-to-make-nuanced-claims</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Monash UniversityHow to use hedging to make nuanced claimsTo express a nuanced claim, you need to draw on a range of hedging devices. Gen...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: grammarly.com  
    Title: hedging language  
-   Link: <a href="https://www.grammarly.com/blog/writing-techniques/hedging-language/" target="_blank" rel="noopener noreferrer nofollow">https://www.grammarly.com/blog/writing-techniques/hedging-language/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What Is Hedging Language? When to Use and Avoid ItMar 12, 2026 — Hedging language is most effective when writers need to express...</p></details>
+   Link:<a href="https://www.grammarly.com/blog/writing-techniques/hedging-language/" target="_blank" rel="noopener noreferrer nofollow">https://www.grammarly.com/blog/writing-techniques/hedging-language/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Is Hedging Language? When to Use and Avoid ItMar 12, 2026 — Hedging language is most effective when writers need to express...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe use of tentative language in scientific publications  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11586534/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11586534/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>use of tentative language in scientific publications - PMCby RA LeCouteur · 2024 · Cited by 3 — Words like “presumptive,” “probable,” “po...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11586534/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11586534/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>use of tentative language in scientific publications - PMCby RA LeCouteur · 2024 · Cited by 3 — Words like “presumptive,” “probable,” “po...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ielts.idp.com  
-   Link: <a href="https://ielts.idp.com/vietnam/about/news-and-articles/article-hedging-language/en-gb" target="_blank" rel="noopener noreferrer nofollow">https://ielts.idp.com/vietnam/about/news-and-articles/article-hedging-language/en-gb</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IDP IELTS PolandHedging Language in IELTS Writing Task 2Dec 18, 2024 — Hedging language is a cautious way of expressing ideas without mak...</p></details>
+   Link:<a href="https://ielts.idp.com/vietnam/about/news-and-articles/article-hedging-language/en-gb" target="_blank" rel="noopener noreferrer nofollow">https://ielts.idp.com/vietnam/about/news-and-articles/article-hedging-language/en-gb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IDP IELTS PolandHedging Language in IELTS Writing Task 2Dec 18, 2024 — Hedging language is a cautious way of expressing ideas without mak...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: uefap.org  
-   Link: <a href="https://www.uefap.org/writing-features-hedging/" target="_blank" rel="noopener noreferrer nofollow">https://www.uefap.org/writing-features-hedging/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Writing Features:HedgingHowever it is now recognised that an important feature of academic writing is the concept of cautious language, o...</p></details>
+   Link:<a href="https://www.uefap.org/writing-features-hedging/" target="_blank" rel="noopener noreferrer nofollow">https://www.uefap.org/writing-features-hedging/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Writing Features:HedgingHowever it is now recognised that an important feature of academic writing is the concept of cautious language, o...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: files.eric.ed.gov  
    Title: ERICHedging Scientific Writing  
-   Link: <a href="https://files.eric.ed.gov/fulltext/ED390258.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/ED390258.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>REPORT NO ISS - ERICby K Hyland · 1995 · Cited by 316 — In science writers may hedge in this way because of preliminary results, small sa...</p></details>
+   Link:<a href="https://files.eric.ed.gov/fulltext/ED390258.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/ED390258.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>REPORT NO ISS - ERICby K Hyland · 1995 · Cited by 316 — In science writers may hedge in this way because of preliminary results, small sa...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCExploring Hedging Devices in Scientific Research Papers  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12584097/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12584097/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by H Hamidi · 2025 — Hedging generally serves several important rhetorical and epistemic purposes in academic writing, allowing author...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12584097/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12584097/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by H Hamidi · 2025 — Hedging generally serves several important rhetorical and epistemic purposes in academic writing, allowing author...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Hedging (cautious language) in Academic Writing  
-   Link: <a href="https://www.youtube.com/watch?v=kajoEOfT8w4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kajoEOfT8w4</a>  
+   Link:<a href="https://www.youtube.com/watch?v=kajoEOfT8w4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kajoEOfT8w4</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=_ZpzA1ieSHY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_ZpzA1ieSHY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Certainty &amp; Uncertainty in thesis &amp; research writing: Hedges and Boosters...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_ZpzA1ieSHY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_ZpzA1ieSHY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Certainty &amp; Uncertainty in thesis &amp; research writing: Hedges and Boosters...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: writingcenter.gmu.edu  
    Title: hedges softening claims in academic writing  
-   Link: <a href="https://writingcenter.gmu.edu/writing-resources/research-based-writing/hedges-softening-claims-in-academic-writing" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.gmu.edu/writing-resources/research-based-writing/hedges-softening-claims-in-academic-writing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Writing CenterHedges: Softening Claims in Academic WritingOct 17, 2020 — With the help of the special language, called “hedges”, writ...</p></details>
+   Link:<a href="https://writingcenter.gmu.edu/writing-resources/research-based-writing/hedges-softening-claims-in-academic-writing" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.gmu.edu/writing-resources/research-based-writing/hedges-softening-claims-in-academic-writing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Writing CenterHedges: Softening Claims in Academic WritingOct 17, 2020 — With the help of the special language, called “hedges”, writ...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: lifelong-learning.ox.ac.uk  
    Title: Oxford Lifelong Learning Hedging  
-   Link: <a href="https://lifelong-learning.ox.ac.uk/about/hedging" target="_blank" rel="noopener noreferrer nofollow">https://lifelong-learning.ox.ac.uk/about/hedging</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It allows writers to show appropriate levels of certainty...Read more...</p></details>
+   Link:<a href="https://lifelong-learning.ox.ac.uk/about/hedging" target="_blank" rel="noopener noreferrer nofollow">https://lifelong-learning.ox.ac.uk/about/hedging</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It allows writers to show appropriate levels of certainty...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: library.up.ac.za  
    Title: Functions of Hedging:.Read more  
-   Link: <a href="https://library.up.ac.za/c.php?g=1505780&amp;p=11264954" target="_blank" rel="noopener noreferrer nofollow">https://library.up.ac.za/c.php?g=1505780&amp;p=11264954</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>University of Pretoria LibraryUsing Hedging Language - Academic Writing - UP LibraryMar 5, 2026 — It protects your credibility by ensurin...</p></details>
+   Link:<a href="https://library.up.ac.za/c.php?g=1505780&amp;p=11264954" target="_blank" rel="noopener noreferrer nofollow">https://library.up.ac.za/c.php?g=1505780&amp;p=11264954</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of Pretoria LibraryUsing Hedging Language - Academic Writing - UP LibraryMar 5, 2026 — It protects your credibility by ensurin...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: elc.polyu.edu.hk  
    Title: English Language Centre Hedging  
-   Link: <a href="https://elc.polyu.edu.hk/cill/eap/hedging.aspx" target="_blank" rel="noopener noreferrer nofollow">https://elc.polyu.edu.hk/cill/eap/hedging.aspx</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>English Language Centre - PolyUMar 23, 2012 — Aim: This page will help you to improve your academic essay writing style by using hedging...</p></details>
+   Link:<a href="https://elc.polyu.edu.hk/cill/eap/hedging.aspx" target="_blank" rel="noopener noreferrer nofollow">https://elc.polyu.edu.hk/cill/eap/hedging.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English Language Centre - PolyUMar 23, 2012 — Aim: This page will help you to improve your academic essay writing style by using hedging...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: uts.edu.au  
    Title: uts library academic writing guide 3  
-   Link: <a href="https://www.uts.edu.au/globalassets/sites/default/files/2021-02/uts-library-academic-writing-guide_3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.uts.edu.au/globalassets/sites/default/files/2021-02/uts-library-academic-writing-guide_3.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Academic Writing5 Feb 2013 — Reading narrowly helps to confirm your initial, maybe tentative, position. When you start your research, you...</p></details>
+   Link:<a href="https://www.uts.edu.au/globalassets/sites/default/files/2021-02/uts-library-academic-writing-guide_3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.uts.edu.au/globalassets/sites/default/files/2021-02/uts-library-academic-writing-guide_3.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Academic Writing5 Feb 2013 — Reading narrowly helps to confirm your initial, maybe tentative, position. When you start your research, you...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/47237471/Hedging_in_Academic_Writing_and_EAP_Textbooks" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/47237471/Hedging_in_Academic_Writing_and_EAP_Textbooks</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(DOC) Hedging in Academic Writing and EAP TextbooksThis paper discusses the importance, functions and expression of epistemic modality in...</p></details>
+   Link:<a href="https://www.academia.edu/47237471/Hedging_in_Academic_Writing_and_EAP_Textbooks" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/47237471/Hedging_in_Academic_Writing_and_EAP_Textbooks</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(DOC) Hedging in Academic Writing and EAP TextbooksThis paper discusses the importance, functions and expression of epistemic modality in...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/337816920_Hedging_in_Academic_Discourse" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/337816920_Hedging_in_Academic_Discourse</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Hedging in Academic DiscourseThe paper will discuss ways in which the term “hedge” has been understood and defined in the literatur...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/337816920_Hedging_in_Academic_Discourse" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/337816920_Hedging_in_Academic_Discourse</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Hedging in Academic DiscourseThe paper will discuss ways in which the term “hedge” has been understood and defined in the literatur...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/358342181_Hedging_Strategies_in_Research_Articles_A_Comparative_Analysis_of_Indonesian_Male_and_Female_English_Students" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/358342181_Hedging_Strategies_in_Research_Articles_A_Comparative_Analysis_of_Indonesian_Male_and_Female_English_Students</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Hedging Strategies in Research Articles21 May 2026 — The results will provide important insights about using tentative language str...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/358342181_Hedging_Strategies_in_Research_Articles_A_Comparative_Analysis_of_Indonesian_Male_and_Female_English_Students" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/358342181_Hedging_Strategies_in_Research_Articles_A_Comparative_Analysis_of_Indonesian_Male_and_Female_English_Students</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Hedging Strategies in Research Articles21 May 2026 — The results will provide important insights about using tentative language str...</p></details>
    Published: May 2026  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: asociatia-alpha.ro  
-   Link: <a href="https://www.asociatia-alpha.ro/Jrls/016-2019/Jrls-016-217.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.asociatia-alpha.ro/Jrls/016-2019/Jrls-016-217.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEXICAL HEDGES IN WRITTEN ACADEMIC DISCOURSEby MM Marta · Cited by 2 — As already mentioned, hedging is a predominantly lexical phenomeno...</p></details>
+   Link:<a href="https://www.asociatia-alpha.ro/Jrls/016-2019/Jrls-016-217.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.asociatia-alpha.ro/Jrls/016-2019/Jrls-016-217.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEXICAL HEDGES IN WRITTEN ACADEMIC DISCOURSEby MM Marta · Cited by 2 — As already mentioned, hedging is a predominantly lexical phenomeno...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: regent.edu  
-   Link: <a href="https://www.regent.edu/wp-content/uploads/2024/07/Regent-University-Writing-Lab-Making-Claims-and-Using-Hedges.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.regent.edu/wp-content/uploads/2024/07/Regent-University-Writing-Lab-Making-Claims-and-Using-Hedges.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Making Claims and Using HedgesWhen writing, your claims must be clear, precise, and provable. Sometimes, however, you may need to provide...</p></details>
+   Link:<a href="https://www.regent.edu/wp-content/uploads/2024/07/Regent-University-Writing-Lab-Making-Claims-and-Using-Hedges.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.regent.edu/wp-content/uploads/2024/07/Regent-University-Writing-Lab-Making-Claims-and-Using-Hedges.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Making Claims and Using HedgesWhen writing, your claims must be clear, precise, and provable. Sometimes, however, you may need to provide...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: yonsei.ac.kr  
-   Link: <a href="https://www.yonsei.ac.kr/" target="_blank" rel="noopener noreferrer nofollow">https://www.yonsei.ac.kr/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>YONSEI University, Seoul, KoreaExplore our diverse undergraduate programs designed to inspire curiosity, foster innovation, and prepare y...</p></details>
+   Link:<a href="https://www.yonsei.ac.kr/" target="_blank" rel="noopener noreferrer nofollow">https://www.yonsei.ac.kr/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>YONSEI University, Seoul, KoreaExplore our diverse undergraduate programs designed to inspire curiosity, foster innovation, and prepare y...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: ricl.aelinco.es  
-   Link: <a href="https://ricl.aelinco.es/index.php/ricl/article/download/11/4/4" target="_blank" rel="noopener noreferrer nofollow">https://ricl.aelinco.es/index.php/ricl/article/download/11/4/4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>expressions used in academic written feedbackHedging is also considered as a softening feature which mitigates a proposition by making it...</p></details>
+   Link:<a href="https://ricl.aelinco.es/index.php/ricl/article/download/11/4/4" target="_blank" rel="noopener noreferrer nofollow">https://ricl.aelinco.es/index.php/ricl/article/download/11/4/4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>expressions used in academic written feedbackHedging is also considered as a softening feature which mitigates a proposition by making it...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/shorts/gv8ZLO_fh5E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/gv8ZLO_fh5E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Qualifiers (Hedges &amp; Boosters) in Academic WritingHow to Write a Great Sentence | Writing Tips from an English Professor. Qualifiers (Hed...</p></details>
+   Link:<a href="https://www.youtube.com/shorts/gv8ZLO_fh5E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/gv8ZLO_fh5E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Qualifiers (Hedges &amp; Boosters) in Academic WritingHow to Write a Great Sentence | Writing Tips from an English Professor. Qualifiers (Hed...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/84675182/Hedging_an_exploratory_study_of_authors_and_readers_identification_of_toning_down_in_scientific_texts" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/84675182/Hedging_an_exploratory_study_of_authors_and_readers_identification_of_toning_down_in_scientific_texts</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hedging: an exploratory study of authors&#x27; and readers&#x27;...This article represents a very tentative attempt to explore this conceptual space...</p></details>
+   Link:<a href="https://www.academia.edu/84675182/Hedging_an_exploratory_study_of_authors_and_readers_identification_of_toning_down_in_scientific_texts" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/84675182/Hedging_an_exploratory_study_of_authors_and_readers_identification_of_toning_down_in_scientific_texts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hedging: an exploratory study of authors&#x27; and readers&#x27;...This article represents a very tentative attempt to explore this conceptual space...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: researchgate.net  
    Title: (PDF) Expressing claim: Hedges in English language  
-   Link: <a href="https://www.researchgate.net/publication/275829055_Expressing_claim_Hedges_in_English_language_learners%27_writing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/275829055_Expressing_claim_Hedges_in_English_language_learners%27_writing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 4, 2015 — This article presents a quantitative corpus-based comparative study of hedges used in academic essays written in English by...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/275829055_Expressing_claim_Hedges_in_English_language_learners%27_writing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/275829055_Expressing_claim_Hedges_in_English_language_learners%27_writing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 4, 2015 — This article presents a quantitative corpus-based comparative study of hedges used in academic essays written in English by...</p></details>
    Published: May 4, 2015  

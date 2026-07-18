@@ -273,13 +273,13 @@ Many readers assume that [slow reading]({{ 'slow-reading/' | relative_url }}) me
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_rereading_reg_828352_anxious_rerea_153532_anxious_rerea_546e15-Illustration-1-dark.svg" | relative_url }}" alt="Warning Signs illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_rereading_reg_828352_anxious_rerea_153532_anxious_rerea_546e15-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_rereading_reg_828352_anxious_rerea_153532_anxious_rerea_546e15-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Spotting this pattern early matters because speed is usually lost long before a reader notices a problem. A few unnecessary [regressions]({{ 'lookbacks/' | relative_url }}) become a habit, attention fragments, and progress slows without a corresponding gain in understanding. Research on metacognitive monitoring—the ability to judge what you do and do not understand—shows that confidence and comprehension do not always move together. People can understand material while feeling uncertain, or feel certain while misunderstanding it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ideals.illinois.edu/items/17988/bitstreams/64436/data.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideals.illinois.edu">[IDEALS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideals.illinois.edu</span><span class="citation-popover-title">In addition,</span><span class="citation-popover-snippet">Comprehension monitoring - IDEALSMarch 28, 2008 — by L Baker · 1979 · Cited by 508 — Thus, readers who monitor their comprehension...</span><span class="citation-popover-meta">Published: March 28, 2008</span></span></span>
+Spotting this pattern early matters because speed is usually lost long before a reader notices a problem. A few unnecessary [regressions]({{ 'lookbacks/' | relative_url }}) become a habit, attention fragments, and progress slows without a corresponding gain in understanding. Research on metacognitive monitoring—the ability to judge what you do and do not understand—shows that confidence and comprehension do not always move together. People can understand material while feeling uncertain, or feel certain while misunderstanding it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ideals.illinois.edu/items/17988/bitstreams/64436/data.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideals.illinois.edu">[IDEALS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideals.illinois.edu</span><span class="citation-popover-title">In addition,</span><span class="citation-popover-snippet">Comprehension monitoring - IDEALSMarch 28, 2008 — by L Baker · 1979 · Cited by 508 — Thus, readers who monitor their comprehension...</span><span class="citation-popover-meta">Published: March 28, 2008</span></span></span>
 
 ## Are You Rereading for Understanding or Reassurance?
 
 The most useful question is not whether you reread. Effective readers reread all the time. The question is why.
 
-When rereading serves comprehension, there is usually a specific target. Perhaps a pronoun has an unclear reference, an argument contains a missing step, or a [technical]({{ 'technical-texts/' | relative_url }}) term was unfamiliar. The reader can identify the problem and explain what information is being recovered. Comprehension monitoring research describes this as adaptive regulation: recognising a concrete breakdown and taking corrective action. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://my.chartered.college/research-hub/metacognition-and-reading/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: my.chartered.college">[My College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">my.chartered.college</span><span class="citation-popover-snippet">My CollegeMetacognition and readingFor example, through monitoring you realise you&#x27;re not understanding aspects of what you&#x27;re reading. Y...</span></span></span>
+When rereading serves comprehension, there is usually a specific target. Perhaps a pronoun has an unclear reference, an argument contains a missing step, or a [technical]({{ 'technical-texts/' | relative_url }}) term was unfamiliar. The reader can identify the problem and explain what information is being recovered. Comprehension monitoring research describes this as adaptive regulation: recognising a concrete breakdown and taking corrective action.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://my.chartered.college/research-hub/metacognition-and-reading/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: my.chartered.college">[My College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">my.chartered.college</span><span class="citation-popover-snippet">My CollegeMetacognition and readingFor example, through monitoring you realise you&#x27;re not understanding aspects of what you&#x27;re reading. Y...</span></span></span>
 
 Anxious rereading feels different. The trigger is often difficult to describe. Instead of thinking, “I missed the author's point,” the reader thinks, “Something feels uncertain.” The urge is not tied to a particular gap in understanding. It is tied to discomfort.
 
@@ -334,7 +334,7 @@ The reader experiences uncertainty without a clear target:
 
 </div>
 
-Notice how these thoughts focus on certainty rather than comprehension. The goal shifts from understanding the text to eliminating doubt. That distinction matters because complete certainty is rarely available in real reading. Complex material often requires moving forward with partial confidence and allowing understanding to develop across several paragraphs or pages. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ideals.illinois.edu/items/17988/bitstreams/64436/data.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideals.illinois.edu">[IDEALS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideals.illinois.edu</span><span class="citation-popover-title">In addition,</span><span class="citation-popover-snippet">Comprehension monitoring - IDEALSMarch 28, 2008 — by L Baker · 1979 · Cited by 508 — Thus, readers who monitor their comprehension...</span><span class="citation-popover-meta">Published: March 28, 2008</span></span></span>
+Notice how these thoughts focus on certainty rather than comprehension. The goal shifts from understanding the text to eliminating doubt. That distinction matters because complete certainty is rarely available in real reading. Complex material often requires moving forward with partial confidence and allowing understanding to develop across several paragraphs or pages.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ideals.illinois.edu/items/17988/bitstreams/64436/data.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideals.illinois.edu">[IDEALS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideals.illinois.edu</span><span class="citation-popover-title">In addition,</span><span class="citation-popover-snippet">Comprehension monitoring - IDEALSMarch 28, 2008 — by L Baker · 1979 · Cited by 508 — Thus, readers who monitor their comprehension...</span><span class="citation-popover-meta">Published: March 28, 2008</span></span></span>
 
 ## Repeated Rereading Without New Information
 
@@ -357,7 +357,7 @@ Ask yourself:
 
 When repeated passes fail to generate new understanding, the activity may have shifted from learning to checking.
 
-Research on checking behaviour shows that repeated verification can become self-reinforcing. The immediate reduction in uncertainty feels rewarding, which encourages another round of checking later, even when no new evidence is being collected. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12126976/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Etiology, Assessment and Treatment of Compulsive...by S Guo · 2025 · Cited by 4 — Research shows that anxiety, uncertainty and in...</span></span></span>
+Research on checking behaviour shows that repeated verification can become self-reinforcing. The immediate reduction in uncertainty feels rewarding, which encourages another round of checking later, even when no new evidence is being collected.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12126976/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The Etiology, Assessment and Treatment of Compulsive...by S Guo · 2025 · Cited by 4 — Research shows that anxiety, uncertainty and in...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_rereading_reg_828352_anxious_rerea_153532_anxious_rerea_546e15-Illustration-2-dark.svg" | relative_url }}" alt="Warning Signs illustration 2" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_rereading_reg_828352_anxious_rerea_153532_anxious_rerea_546e15-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_rereading_reg_828352_anxious_rerea_153532_anxious_rerea_546e15-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -365,7 +365,7 @@ Research on checking behaviour shows that repeated verification can become self-
 
 One reason anxious rereading is difficult to detect is that people naturally use feelings as evidence.
 
-If a passage feels uncertain, it seems logical to assume it was not understood. Yet metacognitive research consistently shows that subjective confidence is an imperfect guide to actual comprehension. People are not always accurate judges of what they know. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13027792/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCMetacognitive Monitoring in Reading Comprehension</span><span class="citation-popover-snippet">by V Markovich · 2026 — This study examined associations between vocabulary knowledge, reading fluency, cognitive flexibility, and met...</span></span></span>
+If a passage feels uncertain, it seems logical to assume it was not understood. Yet metacognitive research consistently shows that subjective confidence is an imperfect guide to actual comprehension. People are not always accurate judges of what they know.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13027792/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCMetacognitive Monitoring in Reading Comprehension</span><span class="citation-popover-snippet">by V Markovich · 2026 — This study examined associations between vocabulary knowledge, reading fluency, cognitive flexibility, and met...</span></span></span>
 
 This creates an important trap:
 
@@ -374,7 +374,7 @@ This creates an important trap:
 
 Those questions sound similar but are not identical.
 
-A reader may correctly grasp a paragraph while still feeling uneasy. Conversely, familiarity can create a feeling of certainty that exceeds genuine understanding. Studies of metacomprehension show that readers often rely on cues that are only loosely connected to actual learning and performance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/11105526/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">In Experiments 1 and 2, the participants read texts either once or twice, rated their...Read more...</span></span></span>
+A reader may correctly grasp a paragraph while still feeling uneasy. Conversely, familiarity can create a feeling of certainty that exceeds genuine understanding. Studies of metacomprehension show that readers often rely on cues that are only loosely connected to actual learning and performance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/11105526/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">In Experiments 1 and 2, the participants read texts either once or twice, rated their...Read more...</span></span></span>
 
 For reading speed, the consequence is significant. If every feeling of uncertainty triggers a return to the text, progress becomes dependent on emotional reassurance rather than on evidence of misunderstanding.
 
@@ -397,7 +397,7 @@ Watch for these patterns:
 
 **No stopping rule.** There is no clear condition under which the rereading will end. The reader continues until uncertainty fades rather than until a specific question is resolved.
 
-These behaviours are especially costly because they interrupt reading flow. Comprehension often emerges across larger units of meaning, but constant backward movement prevents that broader integration from taking place. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ideals.illinois.edu/items/17988/bitstreams/64436/data.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideals.illinois.edu">[IDEALS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideals.illinois.edu</span><span class="citation-popover-title">In addition,</span><span class="citation-popover-snippet">Comprehension monitoring - IDEALSMarch 28, 2008 — by L Baker · 1979 · Cited by 508 — Thus, readers who monitor their comprehension...</span><span class="citation-popover-meta">Published: March 28, 2008</span></span></span>
+These behaviours are especially costly because they interrupt reading flow. Comprehension often emerges across larger units of meaning, but constant backward movement prevents that broader integration from taking place.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ideals.illinois.edu/items/17988/bitstreams/64436/data.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideals.illinois.edu">[IDEALS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideals.illinois.edu</span><span class="citation-popover-title">In addition,</span><span class="citation-popover-snippet">Comprehension monitoring - IDEALSMarch 28, 2008 — by L Baker · 1979 · Cited by 508 — Thus, readers who monitor their comprehension...</span><span class="citation-popover-meta">Published: March 28, 2008</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_rereading_reg_828352_anxious_rerea_153532_anxious_rerea_546e15-Illustration-3-dark.svg" | relative_url }}" alt="Warning Signs illustration 3" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_rereading_reg_828352_anxious_rerea_153532_anxious_rerea_546e15-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_rereading_reg_828352_anxious_rerea_153532_anxious_rerea_546e15-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -411,165 +411,165 @@ If you can identify missing information, rereading is probably justified.
 
 If the answer is only a feeling—“I just want to be certain”—you may be seeing the start of anxious rereading.
 
-The distinction is small but powerful. Readers who increase speed successfully do not eliminate rereading altogether. Instead, they learn to distinguish corrective rereading from reassurance-seeking rereading. One repairs understanding; the other repeatedly checks understanding that may already be there. Recognising that difference early prevents the [checking loop]({{ 'checking-loop/' | relative_url }}) from quietly consuming both time and reading momentum. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://my.chartered.college/research-hub/metacognition-and-reading/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: my.chartered.college">[My College+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">my.chartered.college</span><span class="citation-popover-snippet">My CollegeMetacognition and readingFor example, through monitoring you realise you&#x27;re not understanding aspects of what you&#x27;re reading. Y...</span></span></span>
+The distinction is small but powerful. Readers who increase speed successfully do not eliminate rereading altogether. Instead, they learn to distinguish corrective rereading from reassurance-seeking rereading. One repairs understanding; the other repeatedly checks understanding that may already be there. Recognising that difference early prevents the [checking loop]({{ 'checking-loop/' | relative_url }}) from quietly consuming both time and reading momentum.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://my.chartered.college/research-hub/metacognition-and-reading/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: my.chartered.college">[My College+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">my.chartered.college</span><span class="citation-popover-snippet">My CollegeMetacognition and readingFor example, through monitoring you realise you&#x27;re not understanding aspects of what you&#x27;re reading. Y...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Are You Rereading for Understanding or Reassurance?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Are You Rereading for Understanding or Reassurance?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Provides structured approaches that reduce uncertainty-driven rereading.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Provides structured approaches that reduce uncertainty-driven rereading.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains why confidence and accuracy can diverge.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why confidence and accuracy can diverge.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Brain+Lock+Jeffrey+M.+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Brain Lock on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/42795-M.jpg" alt="Cover for Brain Lock" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Brain+Lock+Jeffrey+M.+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brain Lock">Brain Lock</a>
-        </h4>
-        <p class="fr-book-author">By Jeffrey M. Schwartz</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Brain+Lock+Jeffrey+M.+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Brain Lock on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/42795-M.jpg" alt="Cover for Brain Lock" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Brain+Lock+Jeffrey+M.+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brain Lock">Brain Lock</a>
+</h4>
+<p class="fr-book-author">By Jeffrey M. Schwartz</p>
         
-        <p class="fr-book-desc">First published 1997. Subjects: Nonfiction, Psychology, Compulsive behavior, Obsessive-compulsive disorder.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Brain+Lock+Jeffrey+M.+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1997. Subjects: Nonfiction, Psychology, Compulsive behavior, Obsessive-compulsive disorder.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Brain+Lock+Jeffrey+M.+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Reading+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading Mind on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Reading+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading Mind">Reading Mind</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Reading+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading Mind on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Reading+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading Mind">Reading Mind</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Connects comprehension, metacognition, and reading performance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Reading+Mind&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects comprehension, metacognition, and reading performance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Reading+Mind&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Brain+Lock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Brain Lock</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Brain+Lock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Brain Lock</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=warning-signs-are-you-rereading-for-understanding-or-reassurance-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="warning-signs-are-you-rereading-for-understanding-or-reassurance-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Under Desk Drawers Study Table Drawer Tray Pencil Storage Organizer Box Holder"><img src="{{ '/assets/images/marketplace-covers/33486c199d5fa156bbf4.jpg' | relative_url }}" alt="Listing image for Under Desk Drawers Study Table Drawer Tray Pencil Storage Organizer Box Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=warning-signs-are-you-rereading-for-understanding-or-reassurance-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="warning-signs-are-you-rereading-for-understanding-or-reassurance-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Under Desk Drawers Study Table Drawer Tray Pencil Storage Organizer Box Holder</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=warning-signs-are-you-rereading-for-understanding-or-reassurance-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="warning-signs-are-you-rereading-for-understanding-or-reassurance-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: study desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=warning-signs-are-you-rereading-for-understanding-or-reassurance-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="warning-signs-are-you-rereading-for-understanding-or-reassurance-increasing-study-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=warning-signs-are-you-rereading-for-understanding-or-reassurance-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="warning-signs-are-you-rereading-for-understanding-or-reassurance-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Under Desk Drawers Study Table Drawer Tray Pencil Storage Organizer Box Holder"><img src="{{ '/assets/images/marketplace-covers/33486c199d5fa156bbf4.jpg' | relative_url }}" alt="Listing image for Under Desk Drawers Study Table Drawer Tray Pencil Storage Organizer Box Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=warning-signs-are-you-rereading-for-understanding-or-reassurance-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="warning-signs-are-you-rereading-for-understanding-or-reassurance-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Under Desk Drawers Study Table Drawer Tray Pencil Storage Organizer Box Holder</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=warning-signs-are-you-rereading-for-understanding-or-reassurance-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="warning-signs-are-you-rereading-for-understanding-or-reassurance-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: study desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=warning-signs-are-you-rereading-for-understanding-or-reassurance-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="warning-signs-are-you-rereading-for-understanding-or-reassurance-increasing-study-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=warning-signs-are-you-rereading-for-understanding-or-reassurance-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="warning-signs-are-you-rereading-for-understanding-or-reassurance-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Office Study Desk Organizer Table Box Tidy Case Display Stationaries Pen Holder"><img src="{{ '/assets/images/marketplace-covers/5c9ca9153eac647ccfb2.jpg' | relative_url }}" alt="Listing image for Office Study Desk Organizer Table Box Tidy Case Display Stationaries Pen Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=warning-signs-are-you-rereading-for-understanding-or-reassurance-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="warning-signs-are-you-rereading-for-understanding-or-reassurance-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Office Study Desk Organizer Table Box Tidy Case Display Stationaries Pen Holder</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=warning-signs-are-you-rereading-for-understanding-or-reassurance-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="warning-signs-are-you-rereading-for-understanding-or-reassurance-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: study desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=warning-signs-are-you-rereading-for-understanding-or-reassurance-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="warning-signs-are-you-rereading-for-understanding-or-reassurance-increasing-study-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=warning-signs-are-you-rereading-for-understanding-or-reassurance-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="warning-signs-are-you-rereading-for-understanding-or-reassurance-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=warning-signs-are-you-rereading-for-understanding-or-reassurance-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="warning-signs-are-you-rereading-for-understanding-or-reassurance-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Office Study Desk Organizer Table Box Tidy Case Display Stationaries Pen Holder"><img src="{{ '/assets/images/marketplace-covers/5c9ca9153eac647ccfb2.jpg' | relative_url }}" alt="Listing image for Office Study Desk Organizer Table Box Tidy Case Display Stationaries Pen Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=warning-signs-are-you-rereading-for-understanding-or-reassurance-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="warning-signs-are-you-rereading-for-understanding-or-reassurance-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Office Study Desk Organizer Table Box Tidy Case Display Stationaries Pen Holder</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=warning-signs-are-you-rereading-for-understanding-or-reassurance-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="warning-signs-are-you-rereading-for-understanding-or-reassurance-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: study desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=warning-signs-are-you-rereading-for-understanding-or-reassurance-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="warning-signs-are-you-rereading-for-understanding-or-reassurance-increasing-study-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=warning-signs-are-you-rereading-for-understanding-or-reassurance-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="warning-signs-are-you-rereading-for-understanding-or-reassurance-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -585,7 +585,7 @@ The distinction is small but powerful. Readers who increase speed successfully d
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -605,7 +605,7 @@ The distinction is small but powerful. Readers who increase speed successfully d
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -637,7 +637,7 @@ The distinction is small but powerful. Readers who increase speed successfully d
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -689,7 +689,7 @@ The distinction is small but powerful. Readers who increase speed successfully d
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -734,7 +734,7 @@ The distinction is small but powerful. Readers who increase speed successfully d
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -775,114 +775,114 @@ The distinction is small but powerful. Readers who increase speed successfully d
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ideals.illinois.edu  
    Title: In addition,  
-   Link: <a href="https://www.ideals.illinois.edu/items/17988/bitstreams/64436/data.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ideals.illinois.edu/items/17988/bitstreams/64436/data.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Comprehension monitoring - IDEALSMarch 28, 2008 — by L Baker · 1979 · Cited by 508 — Thus, readers who monitor their comprehension...</p></details>
+   Link:<a href="https://www.ideals.illinois.edu/items/17988/bitstreams/64436/data.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ideals.illinois.edu/items/17988/bitstreams/64436/data.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Comprehension monitoring - IDEALSMarch 28, 2008 — by L Baker · 1979 · Cited by 508 — Thus, readers who monitor their comprehension...</p></details>
    Published: March 28, 2008  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCMetacognitive Monitoring in Reading Comprehension  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13027792/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC13027792/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by V Markovich · 2026 — This study examined associations between [vocabulary](&amp;#123;&amp;#123; &#x27;knowledge/&#x27; | relative_url &amp;#125;&amp;#125;) knowledge, reading fluency, cognitive flexibility, and met...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13027792/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC13027792/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by V Markovich · 2026 — This study examined associations between [vocabulary](&amp;#123;&amp;#123; &#x27;knowledge/&#x27; | relative_url &amp;#125;&amp;#125;) knowledge, reading fluency, cognitive flexibility, and met...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12126976/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12126976/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Etiology, Assessment and Treatment of Compulsive...by S Guo · 2025 · Cited by 4 — Research shows that anxiety, uncertainty and in...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12126976/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12126976/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Etiology, Assessment and Treatment of Compulsive...by S Guo · 2025 · Cited by 4 — Research shows that anxiety, uncertainty and in...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s41811-024-00220-5" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s41811-024-00220-5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Low Memory Confidence Drive Excessive Reassurance...by SM Champion · 2024 · Cited by 2 — We investigated whether low memory confidence...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s41811-024-00220-5" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s41811-024-00220-5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Low Memory Confidence Drive Excessive Reassurance...by SM Champion · 2024 · Cited by 2 — We investigated whether low memory confidence...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: link.springer.com  
    Title: How often are thoughts metacognitive?  
-   Link: <a href="https://link.springer.com/article/10.3758/s13423-018-1490-1" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13423-018-1490-1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Findings from...by ML Jordano · 2018 · Cited by 71 — Metacognitive monitoring refers to how people evaluate their cognitive performance...</p></details>
+   Link:<a href="https://link.springer.com/article/10.3758/s13423" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13423</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Findings from...by ML Jordano · 2018 · Cited by 71 — Metacognitive monitoring refers to how people evaluate their cognitive performance...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: eric.ed.gov  
    Title: ERICMetacomprehension and Regressions during Reading  
-   Link: <a href="https://eric.ed.gov/?id=EJ1331905" target="_blank" rel="noopener noreferrer nofollow">https://eric.ed.gov/?id=EJ1331905</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by AY Wong · 2022 · Cited by 4 — The findings suggest that the rereading effect is related to usage of metacomprehension cues related...</p></details>
+   Link:<a href="https://eric.ed.gov/?id=EJ1331905" target="_blank" rel="noopener noreferrer nofollow">https://eric.ed.gov/?id=EJ1331905</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by AY Wong · 2022 · Cited by 4 — The findings suggest that the rereading effect is related to usage of metacomprehension cues related...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: my.chartered.college  
-   Link: <a href="https://my.chartered.college/research-hub/metacognition-and-reading/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/research-hub/metacognition-and-reading/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>My CollegeMetacognition and readingFor example, through monitoring you realise you&#x27;re not understanding aspects of what you&#x27;re reading. Y...</p></details>
+   Link:<a href="https://my.chartered.college/research-hub/metacognition-and-reading/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/research-hub/metacognition-and-reading/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>My CollegeMetacognition and readingFor example, through monitoring you realise you&#x27;re not understanding aspects of what you&#x27;re reading. Y...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.02253/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.02253/full</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Metacognitive Monitoring of Text Comprehensionby C Mirandola · 2018 · Cited by 29 — The current study was aimed at investigating metacogn...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.02253/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.02253/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Metacognitive Monitoring of Text Comprehensionby C Mirandola · 2018 · Cited by 29 — The current study was aimed at investigating metacogn...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/11105526/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/11105526/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In Experiments 1 and 2, the participants read texts either once or twice, rated their...Read more...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/11105526/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/11105526/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In Experiments 1 and 2, the participants read texts either once or twice, rated their...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cci.health.wa.gov.au  
    Title: We will also  
-   Link: <a href="https://www.cci.health.wa.gov.au/~/media/CCI/Consumer-Modules/Helping-Health-Anxiety/Helping-Health-Anxiety---06---Reducing-Checking-and-Reassurance-Seeking.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cci.health.wa.gov.au/~/media/CCI/Consumer-Modules/Helping-Health-Anxiety/Helping-Health-Anxiety---06---Reducing-Checking-and-Reassurance-Seeking.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>6: Reducing Checking and Reassurance SeekingThroughout this module we will explore the different types of checking and reassurance seekin...</p></details>
+   Link:<a href="https://www.cci.health.wa.gov.au/~/media/CCI/Consumer-Modules/Helping-Health-Anxiety/Helping-Health-Anxiety---06---Reducing-Checking-and-Reassurance-Seeking.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cci.health.wa.gov.au/~/media/CCI/Consumer-Modules/Helping-Health-Anxiety/Helping-Health-Anxiety---06---Reducing-Checking-and-Reassurance-Seeking.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>6: Reducing Checking and Reassurance SeekingThroughout this module we will explore the different types of checking and reassurance seekin...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ncsall.net  
-   Link: <a href="https://www.ncsall.net/fileadmin/resources/ann_rev/rall_v5_ch7_supp.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsall.net/fileadmin/resources/ann_rev/rall_v5_ch7_supp.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ability to monitor one&#x27;s own thinking during reading (metacognitive monitoring) and strategies that can be taught to...</p></details>
+   Link:<a href="https://www.ncsall.net/fileadmin/resources/ann_rev/rall_v5_ch7_supp.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsall.net/fileadmin/resources/ann_rev/rall_v5_ch7_supp.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ability to monitor one&#x27;s own thinking during reading (metacognitive monitoring) and strategies that can be taught to...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=f9GTuM9qxoA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=f9GTuM9qxoA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Classroom Strategies for Re-readingMary Kathleen Norris, LPC, talks about strategies that teachers can use with anxious students who re-r...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=f9GTuM9qxoA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=f9GTuM9qxoA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Classroom Strategies for Re-readingMary Kathleen Norris, LPC, talks about strategies that teachers can use with anxious students who re-r...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.5127/jep.011110" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.5127/jep.011110</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An investigation of factors involved in compulsive behaviour in OCD and depression. Journal of Anxiety...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.5127/jep.011110" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.5127/jep.011110</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An investigation of factors involved in compulsive behaviour in OCD and depression. Journal of Anxiety...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: asu.elsevierpure.com  
    Title: reading comprehension and metacognition the importance of inferen  
-   Link: <a href="https://asu.elsevierpure.com/en/publications/reading-comprehension-and-metacognition-the-importance-of-inferen/" target="_blank" rel="noopener noreferrer nofollow">https://asu.elsevierpure.com/en/publications/reading-comprehension-and-metacognition-the-importance-of-inferen/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>comprehension and metacognitionby C Soto · 2019 · Cited by 208 — We explored relations between reading comprehension performance and self...</p></details>
+   Link:<a href="https://asu.elsevierpure.com/en/publications/reading-comprehension-and-metacognition-the-importance-of-inferen/" target="_blank" rel="noopener noreferrer nofollow">https://asu.elsevierpure.com/en/publications/reading-comprehension-and-metacognition-the-importance-of-inferen/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>comprehension and metacognitionby C Soto · 2019 · Cited by 208 — We explored relations between reading comprehension performance and self...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: shanahanonliteracy.com  
-   Link: <a href="https://www.shanahanonliteracy.com/blog/dont-confuse-reading-comprehension-and-learning-to-read-and-to-reread" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/dont-confuse-reading-comprehension-and-learning-to-read-and-to-reread</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ense to reread a text in its entirety or to reread specific parts of a text.Read more...</p></details>
+   Link:<a href="https://www.shanahanonliteracy.com/blog/dont-confuse-reading-comprehension-and-learning-to-read-and-to-reread" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/dont-confuse-reading-comprehension-and-learning-to-read-and-to-reread</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ense to reread a text in its entirety or to reread specific parts of a text.Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: scispace.com  
-   Link: <a href="https://scispace.com/pdf/an-experimental-investigation-of-factors-involved-in-2np4c1tich.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/an-experimental-investigation-of-factors-involved-in-2np4c1tich.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>anxiety, urges to check and urges to seek reassurance), perceived responsibility did not influence participants&#x27; urges to seek reassuranc...</p></details>
+   Link:<a href="https://scispace.com/pdf/an-experimental-investigation-of-factors-involved-in-2np4c1tich.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/an-experimental-investigation-of-factors-involved-in-2np4c1tich.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>anxiety, urges to check and urges to seek reassurance), perceived responsibility did not influence participants&#x27; urges to seek reassuranc...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: structural-learning.com  
    Title: metacognitive strategies in reading comprehension  
-   Link: <a href="https://www.structural-learning.com/post/metacognitive-strategies-in-reading-comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/metacognitive-strategies-in-reading-comprehension</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Structural LearningMetacognitive Strategies in Reading Comprehensionby P Main — Metacognitive regulation means learners plan, monitor and...</p></details>
+   Link:<a href="https://www.structural-learning.com/post/metacognitive-strategies-in-reading-comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/metacognitive-strategies-in-reading-comprehension</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Structural LearningMetacognitive Strategies in Reading Comprehensionby P Main — Metacognitive regulation means learners plan, monitor and...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/234707511_An_Experimental_Investigation_of_Responsibility_and_Reassurance_Relationships_with_Compulsive_Checking" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/234707511_An_Experimental_Investigation_of_Responsibility_and_Reassurance_Relationships_with_Compulsive_Checking</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>g and checking have comparable short-term outcomes in reducing anxiety...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/234707511_An_Experimental_Investigation_of_Responsibility_and_Reassurance_Relationships_with_Compulsive_Checking" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/234707511_An_Experimental_Investigation_of_Responsibility_and_Reassurance_Relationships_with_Compulsive_Checking</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>g and checking have comparable short-term outcomes in reducing anxiety...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: diligencecareplus.com  
    Title: ocd reassurance seeking how to stop the cycle  
-   Link: <a href="https://diligencecareplus.com/ocd-reassurance-seeking-how-to-stop-the-cycle/" target="_blank" rel="noopener noreferrer nofollow">https://diligencecareplus.com/ocd-reassurance-seeking-how-to-stop-the-cycle/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OCD Reassurance Seeking: How to Stop the Cycle29 Nov 2025 — OCD reassurance seeking occurs when people repeatedly ask the same questions...</p></details>
+   Link:<a href="https://diligencecareplus.com/ocd-reassurance-seeking-how-to-stop-the-cycle/" target="_blank" rel="noopener noreferrer nofollow">https://diligencecareplus.com/ocd-reassurance-seeking-how-to-stop-the-cycle/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OCD Reassurance Seeking: How to Stop the Cycle29 Nov 2025 — OCD reassurance seeking occurs when people repeatedly ask the same questions...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: How to Think About Thinking — The Metacognition Explained  
-   Link: <a href="https://www.youtube.com/watch?v=tn2jyKgwHMg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tn2jyKgwHMg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Relevant video: Your Brain Isn&#x27;t Built for Rereading. This video provides concrete insight into why habitual, repetitive reading fails as...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tn2jyKgwHMg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tn2jyKgwHMg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Relevant video: Your Brain Isn&#x27;t Built for Rereading. This video provides concrete insight into why habitual, repetitive reading fails as...</p></details>

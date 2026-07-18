@@ -269,7 +269,7 @@ image: /assets/images/increasing_re_852ca6_rsvp_reading_26badc_rereading_in_b830
 
 ## Introduction
 
-One reason rereading matters in Rapid Serial Visual Presentation (RSVP) reading is that some words cannot be fully understood when they first appear. Pronouns such as *he*, *she*, *they*, *it*, and *them* often depend on information that arrives earlier or later in the sentence. Readers may initially hold more than one possible interpretation in mind and then perform a quick backward glance once enough information becomes available to identify the correct referent. In ordinary reading, this repair process is usually fast and effortless. In RSVP, where words disappear as new ones arrive, the same ambiguity can force readers to rely on memory rather than direct inspection of the text. Research on [eye movements]({{ 'eye-tradeoff/' | relative_url }}), pronoun resolution, and [regressions]({{ 'lookbacks/' | relative_url }}) suggests that these brief returns to earlier words are a normal part of comprehension and become especially valuable when references are temporarily unclear. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 134 — The most obvious explanation is that re...</span></span></span>
+One reason rereading matters in Rapid Serial Visual Presentation (RSVP) reading is that some words cannot be fully understood when they first appear. Pronouns such as *he*, *she*, *they*, *it*, and *them* often depend on information that arrives earlier or later in the sentence. Readers may initially hold more than one possible interpretation in mind and then perform a quick backward glance once enough information becomes available to identify the correct referent. In ordinary reading, this repair process is usually fast and effortless. In RSVP, where words disappear as new ones arrive, the same ambiguity can force readers to rely on memory rather than direct inspection of the text. Research on [eye movements]({{ 'eye-tradeoff/' | relative_url }}), pronoun resolution, and [regressions]({{ 'lookbacks/' | relative_url }}) suggests that these brief returns to earlier words are a normal part of comprehension and become especially valuable when references are temporarily unclear.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 134 — The most obvious explanation is that re...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_rsvp_reading_26badc_rereading_in_b830a4_pronoun_ambig_f17f02-Illustration-1-dark.svg" | relative_url }}" alt="Ambiguity illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_rsvp_reading_26badc_rereading_in_b830a4_pronoun_ambig_f17f02-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_rsvp_reading_26badc_rereading_in_b830a4_pronoun_ambig_f17f02-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -283,22 +283,22 @@ Consider a sentence such as:
 
 When the word *she* appears, more than one interpretation is possible. The reader may briefly consider both Emma and Sarah as potential referents. Only later information may make the intended meaning obvious.
 
-This kind of temporary uncertainty is not unusual. Studies of pronoun processing show that readers continuously evaluate possible referents using cues such as grammatical role, word order, discourse prominence, and gender information. When those cues do not immediately converge on a single answer, processing becomes more demanding and reading times increase. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4073625/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2eScholarship]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Immediate sensitivity to structural constraints in pronoun...by WY Chow · 2014 · Cited by 99 — A previous eye-tracking study by Ehrli...</span></span></span>
+This kind of temporary uncertainty is not unusual. Studies of pronoun processing show that readers continuously evaluate possible referents using cues such as grammatical role, word order, discourse prominence, and gender information. When those cues do not immediately converge on a single answer, processing becomes more demanding and reading times increase.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4073625/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2eScholarship]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Immediate sensitivity to structural constraints in pronoun...by WY Chow · 2014 · Cited by 99 — A previous eye-tracking study by Ehrli...</span></span></span>
 
-Importantly, ambiguity is often detected only after additional words appear. A reader may think an interpretation is correct, encounter a later phrase that conflicts with it, and then need to verify an earlier reference. That is exactly the kind of situation in which regressions commonly occur during normal reading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 134 — The most obvious explanation is that re...</span></span></span>
+Importantly, ambiguity is often detected only after additional words appear. A reader may think an interpretation is correct, encounter a later phrase that conflicts with it, and then need to verify an earlier reference. That is exactly the kind of situation in which regressions commonly occur during normal reading.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 134 — The most obvious explanation is that re...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jv2BdHXRD3Q" title="The Science Behind Reading Speed - College Info Geek" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jv2BdHXRD3Q" target="_blank" rel="noopener noreferrer">The Science Behind Reading Speed - College Info Geek</a></p><p class="youtube-embed-meta">Channel: Thomas Frank &middot; Views: 815.0K &middot; Uploaded: September 2015 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jv2BdHXRD3Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jv2BdHXRD3Q">Open on YouTube</a></p></div></div></div>
 
 ## Why ordinary reading supports rapid reference checks
 
-[Eye-tracking]({{ 'eye-tracking/' | relative_url }}) research shows that reading is not a perfectly linear process. Skilled readers routinely make backward eye movements, known as regressions, when they need to confirm meaning, resolve uncertainty, or reconnect information across a sentence. These movements are typically brief and highly targeted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 134 — The most obvious explanation is that re...</span></span></span>
+[Eye-tracking]({{ 'eye-tracking/' | relative_url }}) research shows that reading is not a perfectly linear process. Skilled readers routinely make backward eye movements, known as regressions, when they need to confirm meaning, resolve uncertainty, or reconnect information across a sentence. These movements are typically brief and highly targeted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 134 — The most obvious explanation is that re...</span></span></span>
 
 When a pronoun creates uncertainty, a reader can quickly return to a nearby name, noun phrase, or earlier clause. The important feature is precision. The eyes can move directly to the suspected source of confusion rather than restarting the entire sentence.
 
 For example, if a reader reaches the end of a sentence and becomes unsure who *she* refers to, a regression can land almost exactly on the relevant names. The reader does not need to reconstruct those names from memory because they remain visible on the page.
 
-Research examining comprehension monitoring has found that regressions are often associated with targeted reanalysis. Readers use them when incoming information signals that an earlier interpretation may need revision. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ora.ox.ac.uk/objects/uuid%3Aa16f42e2-529d-47ae-ba51-50b75dd43899/files/rkh04dp70d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ora.ox.ac.uk">[ORA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ora.ox.ac.uk</span><span class="citation-popover-snippet">Comprehension monitoring during reading: an eye-tracking...by AK Hessel · 2020 · Cited by 51 — We chose to use regression-in probabil...</span></span></span>
+Research examining comprehension monitoring has found that regressions are often associated with targeted reanalysis. Readers use them when incoming information signals that an earlier interpretation may need revision.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ora.ox.ac.uk/objects/uuid%3Aa16f42e2-529d-47ae-ba51-50b75dd43899/files/rkh04dp70d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ora.ox.ac.uk">[ORA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ora.ox.ac.uk</span><span class="citation-popover-snippet">Comprehension monitoring during reading: an eye-tracking...by AK Hessel · 2020 · Cited by 51 — We chose to use regression-in probabil...</span></span></span>
 
 The result is a highly efficient repair mechanism. Instead of maintaining uncertainty for several seconds, readers can resolve it almost immediately.
 
@@ -319,7 +319,7 @@ The burden becomes greater when:
 * The sentence contains interruptions or [embedded clauses]({{ 'embedded-clauses/' | relative_url }}).
 * The correct interpretation depends on information that arrives much later.
 
-In these situations, RSVP shifts effort from visual verification to memory maintenance. The reader is no longer asking, “What did that earlier phrase say?” while looking at it. Instead, the reader must remember the phrase accurately enough to evaluate competing interpretations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4384810/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Working Memory and the Revision of Syntactic and Discourse...by WS Evans · 2014 · Cited by 20 — The results provide evidence that wor...</span></span></span>
+In these situations, RSVP shifts effort from visual verification to memory maintenance. The reader is no longer asking, “What did that earlier phrase say?” while looking at it. Instead, the reader must remember the phrase accurately enough to evaluate competing interpretations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4384810/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Working Memory and the Revision of Syntactic and Discourse...by WS Evans · 2014 · Cited by 20 — The results provide evidence that wor...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wQ1IVqyUjYc" title="Speed Reading Is USELESS, Practice This Instead" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wQ1IVqyUjYc" target="_blank" rel="noopener noreferrer">Speed Reading Is USELESS, Practice This Instead</a></p><p class="youtube-embed-meta">Channel: Robin Waldun &middot; Views: 21.4K &middot; Uploaded: August 2025 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wQ1IVqyUjYc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wQ1IVqyUjYc">Open on YouTube</a></p></div></div></div>
@@ -328,7 +328,7 @@ In these situations, RSVP shifts effort from visual verification to memory maint
 
 A common misconception is that readers know immediately when a sentence is confusing. In reality, comprehension problems frequently emerge after the triggering word has already been processed.
 
-Pronoun resolution research shows that readers use expectations and predictions while reading. They often form an early guess about who a pronoun refers to and then revise that guess if later information conflicts with it. Eye-movement studies indicate that such revision can be reflected in rereading behaviour and regressions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5290069/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCan We &#x27;Read&#x27; the Eye-Movement Patterns of Readers</span><span class="citation-popover-snippet">by A Koornneef · 2016 · Cited by 30 — In the present study readers that displayed long saccades and many regressions were more incline...</span></span></span>
+Pronoun resolution research shows that readers use expectations and predictions while reading. They often form an early guess about who a pronoun refers to and then revise that guess if later information conflicts with it. Eye-movement studies indicate that such revision can be reflected in rereading behaviour and regressions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5290069/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCCan We &#x27;Read&#x27; the Eye-Movement Patterns of Readers</span><span class="citation-popover-snippet">by A Koornneef · 2016 · Cited by 30 — In the present study readers that displayed long saccades and many regressions were more incline...</span></span></span>
 
 This [timing]({{ 'timing/' | relative_url }}) matters for RSVP. If the need for [correction]({{ 'corrections/' | relative_url }}) arises only after several additional words have appeared, the critical noun or name may no longer be visible. The reader discovers the ambiguity too late to perform the quick check that ordinary reading allows.
 
@@ -342,7 +342,7 @@ Some RSVP systems attempt to compensate by providing rewind functions. These con
 
 A normal regression is usually immediate, local, and highly precise. The reader's eyes move directly to the relevant location and then continue reading. A rewind control requires the reader to recognise the problem consciously, interrupt the reading stream, activate a control, and relocate the exact point that needs inspection.
 
-Research that experimentally restricted rereading has shown that preventing regressions can reduce comprehension, highlighting the importance of these natural corrective movements. Studies comparing RSVP-like conditions with ordinary reading similarly suggest that eliminating access to previously viewed text changes how readers resolve uncertainty. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/261761989_Don%27t_Believe_What_You_Read_Only_Once_Comprehension_Is_Supported_by_Regressions_During_Reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2USF Faculty]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Don&#x27;t Believe What You Read (Only Once</span><span class="citation-popover-snippet">ResearchGate(PDF) Don&#x27;t Believe What You Read (Only Once)April 18, 2014 — This manipulation created a scenario similar to RSVP: The reade...</span><span class="citation-popover-meta">Published: April 18, 2014</span></span></span>
+Research that experimentally restricted rereading has shown that preventing regressions can reduce comprehension, highlighting the importance of these natural corrective movements. Studies comparing RSVP-like conditions with ordinary reading similarly suggest that eliminating access to previously viewed text changes how readers resolve uncertainty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/261761989_Don%27t_Believe_What_You_Read_Only_Once_Comprehension_Is_Supported_by_Regressions_During_Reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2USF Faculty]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Don&#x27;t Believe What You Read (Only Once</span><span class="citation-popover-snippet">ResearchGate(PDF) Don&#x27;t Believe What You Read (Only Once)April 18, 2014 — This manipulation created a scenario similar to RSVP: The reade...</span><span class="citation-popover-meta">Published: April 18, 2014</span></span></span>
 
 For pronoun ambiguity, the difference is especially important because the reader often needs only a fraction of a second and only a few words of context. Natural regressions provide exactly that level of precision.
 
@@ -353,183 +353,183 @@ For pronoun ambiguity, the difference is especially important because the reader
 
 Pronoun ambiguity illustrates a broader challenge for attempts to increase reading speed by removing eye movements. Reading is not simply the rapid intake of individual words. It is an ongoing process of building, testing, and sometimes revising interpretations.
 
-When references become unclear, readers frequently solve the problem by glancing back at earlier text. Eye-tracking research suggests that such regressions are not merely symptoms of difficulty; they are part of the mechanism that allows comprehension to recover when uncertainty arises. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2ORA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 134 — The most obvious explanation is that re...</span></span></span>
+When references become unclear, readers frequently solve the problem by glancing back at earlier text. Eye-tracking research suggests that such regressions are not merely symptoms of difficulty; they are part of the mechanism that allows comprehension to recover when uncertainty arises.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2ORA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 134 — The most obvious explanation is that re...</span></span></span>
 
-RSVP can increase presentation speed, but ambiguous pronouns expose one of its central limitations. The faster stream may remove a behaviour that readers depend on precisely when language becomes temporarily unclear. In those moments, a brief backward glance is often not wasted effort. It is how the correct meaning is established in the first place. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 134 — The most obvious explanation is that re...</span></span></span>
+RSVP can increase presentation speed, but ambiguous pronouns expose one of its central limitations. The faster stream may remove a behaviour that readers depend on precisely when language becomes temporarily unclear. In those moments, a brief backward glance is often not wasted effort. It is how the correct meaning is established in the first place.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 134 — The most obvious explanation is that re...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When one unclear word needs a second look. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When one unclear word needs a second look. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+language+instinct&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The language instinct on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10105054-M.jpg" alt="Cover for The language instinct" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+language+instinct&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The language instinct">The language instinct</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+language+instinct&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The language instinct on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10105054-M.jpg" alt="Cover for The language instinct" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+language+instinct&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The language instinct">The language instinct</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Explains how humans process language, ambiguity, reference, and comprehension, providing accessible context for pronoun resolution and re...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+language+instinct&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how humans process language, ambiguity, reference, and comprehension, providing accessible context for pronoun resolution and re...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+language+instinct&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Promotes active, recursive reading practices that align with the article&#x27;s argument that effective reading is not purely linear.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Promotes active, recursive reading practices that align with the article&#x27;s argument that effective reading is not purely linear.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+the+mind+works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How the mind works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6740762-M.jpg" alt="Cover for How the mind works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+the+mind+works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How the mind works">How the mind works</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+the+mind+works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How the mind works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6740762-M.jpg" alt="Cover for How the mind works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+the+mind+works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How the mind works">How the mind works</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Provides background on attention, memory, and cognitive processing that helps explain why rereading can support comprehension under RSVP...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+the+mind+works&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides background on attention, memory, and cognitive processing that helps explain why rereading can support comprehension under RSVP...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+the+mind+works&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Language+in+Mind+Julie+Sedivy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Language in Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9409185-M.jpg" alt="Cover for Language in Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Language+in+Mind+Julie+Sedivy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Language in Mind">Language in Mind</a>
-        </h4>
-        <p class="fr-book-author">By Julie Sedivy</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Language+in+Mind+Julie+Sedivy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Language in Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9409185-M.jpg" alt="Cover for Language in Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Language+in+Mind+Julie+Sedivy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Language in Mind">Language in Mind</a>
+</h4>
+<p class="fr-book-author">By Julie Sedivy</p>
         
-        <p class="fr-book-desc">First published 2014. Subjects: Psycholinguistics, Cognition.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Language+in+Mind+Julie+Sedivy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2014. Subjects: Psycholinguistics, Cognition.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Language+in+Mind+Julie+Sedivy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+language+instinct&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The language instinct</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+the+mind+works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How the mind works</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+language+instinct&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The language instinct</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+the+mind+works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How the mind works</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=eye+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambiguity-when-one-unclear-word-needs-a-second-look-increasing-eye-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="eye tracker" data-ebay-reference="ambiguity-when-one-unclear-word-needs-a-second-look-increasing-eye-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for eye tracker MyGaze. assitive eye tracking device.great working condition !!!"><img src="{{ '/assets/images/marketplace-covers/0b57d00d886f88d76504.jpg' | relative_url }}" alt="Listing image for eye tracker MyGaze. assitive eye tracking device.great working condition !!!" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=eye+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambiguity-when-one-unclear-word-needs-a-second-look-increasing-eye-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="eye tracker" data-ebay-reference="ambiguity-when-one-unclear-word-needs-a-second-look-increasing-eye-tracker" target="_blank" rel="sponsored noopener noreferrer">eye tracker MyGaze. assitive eye tracking device.great working condition !!!</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=eye+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambiguity-when-one-unclear-word-needs-a-second-look-increasing-eye-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="eye tracker" data-ebay-reference="ambiguity-when-one-unclear-word-needs-a-second-look-increasing-eye-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for eye tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: eye tracker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=eye+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambiguity-when-one-unclear-word-needs-a-second-look-increasing-eye-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="eye tracker" data-ebay-reference="ambiguity-when-one-unclear-word-needs-a-second-look-increasing-eye-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=eye+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambiguity-when-one-unclear-word-needs-a-second-look-increasing-eye-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="eye tracker" data-ebay-reference="ambiguity-when-one-unclear-word-needs-a-second-look-increasing-eye-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for eye tracker MyGaze. assitive eye tracking device.great working condition !!!"><img src="{{ '/assets/images/marketplace-covers/0b57d00d886f88d76504.jpg' | relative_url }}" alt="Listing image for eye tracker MyGaze. assitive eye tracking device.great working condition !!!" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=eye+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambiguity-when-one-unclear-word-needs-a-second-look-increasing-eye-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="eye tracker" data-ebay-reference="ambiguity-when-one-unclear-word-needs-a-second-look-increasing-eye-tracker" target="_blank" rel="sponsored noopener noreferrer">eye tracker MyGaze. assitive eye tracking device.great working condition !!!</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=eye+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambiguity-when-one-unclear-word-needs-a-second-look-increasing-eye-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="eye tracker" data-ebay-reference="ambiguity-when-one-unclear-word-needs-a-second-look-increasing-eye-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for eye tracker">Search<span data-ebay-domain-label>eBay.co.uk</span>: eye tracker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=eye+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambiguity-when-one-unclear-word-needs-a-second-look-increasing-eye-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="eye tracker" data-ebay-reference="ambiguity-when-one-unclear-word-needs-a-second-look-increasing-eye-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=eye+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambiguity-when-one-unclear-word-needs-a-second-look-increasing-eye-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="eye tracker" data-ebay-reference="ambiguity-when-one-unclear-word-needs-a-second-look-increasing-eye-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gaming Eye Tracker Mounting Kit - Flex Mount and Metal Plate Mounts"><img src="{{ '/assets/images/marketplace-covers/0ebfb2fe6db42a290a7b.jpg' | relative_url }}" alt="Listing image for Gaming Eye Tracker Mounting Kit - Flex Mount and Metal Plate Mounts" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=eye+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambiguity-when-one-unclear-word-needs-a-second-look-increasing-eye-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="eye tracker" data-ebay-reference="ambiguity-when-one-unclear-word-needs-a-second-look-increasing-eye-tracker" target="_blank" rel="sponsored noopener noreferrer">Gaming Eye Tracker Mounting Kit - Flex Mount and Metal Plate Mounts</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=eye+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambiguity-when-one-unclear-word-needs-a-second-look-increasing-eye-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="eye tracker" data-ebay-reference="ambiguity-when-one-unclear-word-needs-a-second-look-increasing-eye-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for eye tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: eye tracker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=eye+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambiguity-when-one-unclear-word-needs-a-second-look-increasing-eye-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="eye tracker" data-ebay-reference="ambiguity-when-one-unclear-word-needs-a-second-look-increasing-eye-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=eye+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambiguity-when-one-unclear-word-needs-a-second-look-increasing-eye-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="eye tracker" data-ebay-reference="ambiguity-when-one-unclear-word-needs-a-second-look-increasing-eye-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gaming Eye Tracker Mounting Kit - Flex Mount and Metal Plate Mounts"><img src="{{ '/assets/images/marketplace-covers/0ebfb2fe6db42a290a7b.jpg' | relative_url }}" alt="Listing image for Gaming Eye Tracker Mounting Kit - Flex Mount and Metal Plate Mounts" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=eye+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambiguity-when-one-unclear-word-needs-a-second-look-increasing-eye-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="eye tracker" data-ebay-reference="ambiguity-when-one-unclear-word-needs-a-second-look-increasing-eye-tracker" target="_blank" rel="sponsored noopener noreferrer">Gaming Eye Tracker Mounting Kit - Flex Mount and Metal Plate Mounts</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=eye+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambiguity-when-one-unclear-word-needs-a-second-look-increasing-eye-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="eye tracker" data-ebay-reference="ambiguity-when-one-unclear-word-needs-a-second-look-increasing-eye-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for eye tracker">Search<span data-ebay-domain-label>eBay.co.uk</span>: eye tracker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=eye+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambiguity-when-one-unclear-word-needs-a-second-look-increasing-eye-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="eye tracker" data-ebay-reference="ambiguity-when-one-unclear-word-needs-a-second-look-increasing-eye-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=eye+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambiguity-when-one-unclear-word-needs-a-second-look-increasing-eye-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="eye tracker" data-ebay-reference="ambiguity-when-one-unclear-word-needs-a-second-look-increasing-eye-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tobii Eye Tracker 4C Eye &amp; Head Tracking Videogame Streaming Extension Black"><img src="{{ '/assets/images/marketplace-covers/d900fcbb6591d82953e4.jpg' | relative_url }}" alt="Listing image for Tobii Eye Tracker 4C Eye &amp; Head Tracking Videogame Streaming Extension Black" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=eye+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambiguity-when-one-unclear-word-needs-a-second-look-increasing-eye-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="eye tracker" data-ebay-reference="ambiguity-when-one-unclear-word-needs-a-second-look-increasing-eye-tracker" target="_blank" rel="sponsored noopener noreferrer">Tobii Eye Tracker 4C Eye &amp; Head Tracking Videogame Streaming Extension Black</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=eye+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambiguity-when-one-unclear-word-needs-a-second-look-increasing-eye-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="eye tracker" data-ebay-reference="ambiguity-when-one-unclear-word-needs-a-second-look-increasing-eye-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for eye tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: eye tracker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=eye+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambiguity-when-one-unclear-word-needs-a-second-look-increasing-eye-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="eye tracker" data-ebay-reference="ambiguity-when-one-unclear-word-needs-a-second-look-increasing-eye-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=eye+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambiguity-when-one-unclear-word-needs-a-second-look-increasing-eye-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="eye tracker" data-ebay-reference="ambiguity-when-one-unclear-word-needs-a-second-look-increasing-eye-tracker" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=eye+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambiguity-when-one-unclear-word-needs-a-second-look-increasing-eye-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="eye tracker" data-ebay-reference="ambiguity-when-one-unclear-word-needs-a-second-look-increasing-eye-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tobii Eye Tracker 4C Eye &amp; Head Tracking Videogame Streaming Extension Black"><img src="{{ '/assets/images/marketplace-covers/d900fcbb6591d82953e4.jpg' | relative_url }}" alt="Listing image for Tobii Eye Tracker 4C Eye &amp; Head Tracking Videogame Streaming Extension Black" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=eye+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambiguity-when-one-unclear-word-needs-a-second-look-increasing-eye-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="eye tracker" data-ebay-reference="ambiguity-when-one-unclear-word-needs-a-second-look-increasing-eye-tracker" target="_blank" rel="sponsored noopener noreferrer">Tobii Eye Tracker 4C Eye &amp; Head Tracking Videogame Streaming Extension Black</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=eye+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambiguity-when-one-unclear-word-needs-a-second-look-increasing-eye-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="eye tracker" data-ebay-reference="ambiguity-when-one-unclear-word-needs-a-second-look-increasing-eye-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for eye tracker">Search<span data-ebay-domain-label>eBay.co.uk</span>: eye tracker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=eye+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambiguity-when-one-unclear-word-needs-a-second-look-increasing-eye-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="eye tracker" data-ebay-reference="ambiguity-when-one-unclear-word-needs-a-second-look-increasing-eye-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=eye+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ambiguity-when-one-unclear-word-needs-a-second-look-increasing-eye-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="eye tracker" data-ebay-reference="ambiguity-when-one-unclear-word-needs-a-second-look-increasing-eye-tracker" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -545,7 +545,7 @@ RSVP can increase presentation speed, but ambiguous pronouns expose one of its c
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -565,7 +565,7 @@ RSVP can increase presentation speed, but ambiguous pronouns expose one of its c
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -597,7 +597,7 @@ RSVP can increase presentation speed, but ambiguous pronouns expose one of its c
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -649,7 +649,7 @@ RSVP can increase presentation speed, but ambiguous pronouns expose one of its c
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -694,7 +694,7 @@ RSVP can increase presentation speed, but ambiguous pronouns expose one of its c
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -735,126 +735,126 @@ RSVP can increase presentation speed, but ambiguous pronouns expose one of its c
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4073625/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4073625/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Immediate sensitivity to structural constraints in pronoun...by WY Chow · 2014 · Cited by 99 — A previous eye-tracking study by Ehrli...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4073625/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4073625/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Immediate sensitivity to structural constraints in pronoun...by WY Chow · 2014 · Cited by 99 — A previous eye-tracking study by Ehrli...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: escholarship.org  
-   Link: <a href="https://escholarship.org/uc/item/0bv8k263" target="_blank" rel="noopener noreferrer nofollow">https://escholarship.org/uc/item/0bv8k263</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The study quantifies evidence of...Read mo...</p></details>
+   Link:<a href="https://escholarship.org/uc/item/0bv8k263" target="_blank" rel="noopener noreferrer nofollow">https://escholarship.org/uc/item/0bv8k263</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The study quantifies evidence of...Read mo...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/12496101_The_rapid_use_of_gender_information_Evidence_of_the_time_course_of_pronoun_resolution_from_eyetracking" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/12496101_The_rapid_use_of_gender_information_Evidence_of_the_time_course_of_pronoun_resolution_from_eyetracking</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence of the time course of pronoun resolution from...Eye movements of listeners were monitored to investigate how gender information...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/12496101_The_rapid_use_of_gender_information_Evidence_of_the_time_course_of_pronoun_resolution_from_eyetracking" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/12496101_The_rapid_use_of_gender_information_Evidence_of_the_time_course_of_pronoun_resolution_from_eyetracking</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence of the time course of pronoun resolution from...Eye movements of listeners were monitored to investigate how gender information...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ora.ox.ac.uk  
-   Link: <a href="https://ora.ox.ac.uk/objects/uuid%3Aa16f42e2-529d-47ae-ba51-50b75dd43899/files/rkh04dp70d" target="_blank" rel="noopener noreferrer nofollow">https://ora.ox.ac.uk/objects/uuid%3Aa16f42e2-529d-47ae-ba51-50b75dd43899/files/rkh04dp70d</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Comprehension monitoring during reading: an eye-tracking...by AK Hessel · 2020 · Cited by 51 — We chose to use regression-in probabil...</p></details>
+   Link:<a href="https://ora.ox.ac.uk/objects/uuid%3Aa16f42e2-529d-47ae-ba51-50b75dd43899/files/rkh04dp70d" target="_blank" rel="noopener noreferrer nofollow">https://ora.ox.ac.uk/objects/uuid%3Aa16f42e2-529d-47ae-ba51-50b75dd43899/files/rkh04dp70d</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Comprehension monitoring during reading: an eye-tracking...by AK Hessel · 2020 · Cited by 51 — We chose to use regression-in probabil...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4384810/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4384810/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Working Memory and the Revision of Syntactic and Discourse...by WS Evans · 2014 · Cited by 20 — The results provide evidence that wor...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4384810/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4384810/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Working Memory and the Revision of Syntactic and Discourse...by WS Evans · 2014 · Cited by 20 — The results provide evidence that wor...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCCan We 'Read' the Eye-Movement Patterns of Readers  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5290069/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5290069/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by A Koornneef · 2016 · Cited by 30 — In the present study readers that displayed long saccades and many regressions were more incline...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5290069/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5290069/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by A Koornneef · 2016 · Cited by 30 — In the present study readers that displayed long saccades and many regressions were more incline...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) Don't Believe What You Read (Only Once)  
-   Link: <a href="https://www.researchgate.net/publication/261761989_Don%27t_Believe_What_You_Read_Only_Once_Comprehension_Is_Supported_by_Regressions_During_Reading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/261761989_Don%27t_Believe_What_You_Read_Only_Once_Comprehension_Is_Supported_by_Regressions_During_Reading</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Don&#x27;t Believe What You Read (Only Once)April 18, 2014 — This manipulation created a scenario similar to RSVP: The reade...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/261761989_Don%27t_Believe_What_You_Read_Only_Once_Comprehension_Is_Supported_by_Regressions_During_Reading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/261761989_Don%27t_Believe_What_You_Read_Only_Once_Comprehension_Is_Supported_by_Regressions_During_Reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Don&#x27;t Believe What You Read (Only Once)April 18, 2014 — This manipulation created a scenario similar to RSVP: The reade...</p></details>
    Published: April 18, 2014  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: faculty.cas.usf.edu  
-   Link: <a href="https://faculty.cas.usf.edu/eschotter/papers/Schotter_Tran_Rayner_2014_PsychSci.pdf" target="_blank" rel="noopener noreferrer nofollow">https://faculty.cas.usf.edu/eschotter/papers/Schotter_Tran_Rayner_2014_PsychSci.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>USF FacultyPsychological Science-2014-Schotter-1218-26by ER Schotter · 2014 · Cited by 277 — This manipulation created a scenario similar...</p></details>
+   Link:<a href="https://faculty.cas.usf.edu/eschotter/papers/Schotter_Tran_Rayner_2014_PsychSci.pdf" target="_blank" rel="noopener noreferrer nofollow">https://faculty.cas.usf.edu/eschotter/papers/Schotter_Tran_Rayner_2014_PsychSci.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USF FacultyPsychological Science-2014-Schotter-1218-26by ER Schotter · 2014 · Cited by 277 — This manipulation created a scenario similar...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/304624103_An_investigation_into_pronoun_resolution_of_Turkish_learners_of_English_by_eye-tracking_technique" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/304624103_An_investigation_into_pronoun_resolution_of_Turkish_learners_of_English_by_eye-tracking_technique</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) An investigation into pronoun resolution of Turkish...30 Jun 2016 — In the experiments, native English speakers and EFL learners h...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/304624103_An_investigation_into_pronoun_resolution_of_Turkish_learners_of_English_by_eye-tracking_technique" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/304624103_An_investigation_into_pronoun_resolution_of_Turkish_learners_of_English_by_eye-tracking_technique</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) An investigation into pronoun resolution of Turkish...30 Jun 2016 — In the experiments, native English speakers and EFL learners h...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22886737/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 134 — The most obvious explanation is that re...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22886737/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 134 — The most obvious explanation is that re...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/23273798.2016.1155718" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/23273798.2016.1155718</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This raises the question whether the processing of an object...Read mor...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/23273798.2016.1155718" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/23273798.2016.1155718</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This raises the question whether the processing of an object...Read mor...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ouci.dntb.gov.ua  
-   Link: <a href="https://ouci.dntb.gov.ua/en/works/9ZLWqmr4/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/en/works/9ZLWqmr4/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>movements and on-line comprehension processesThis article first examines the characteristics of eye movements during reading, and then lo...</p></details>
+   Link:<a href="https://ouci.dntb.gov.ua/en/works/9ZLWqmr4/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/en/works/9ZLWqmr4/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>movements and on-line comprehension processesThis article first examines the characteristics of eye movements during reading, and then lo...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: We presented texts that included either a personal perspective (you) or  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7477769/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7477769/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>your emotions: An eye-tracking study on reader&#x27;s...by S Child · 2020 · Cited by 19 — An eye-tracking study explored perspective effects...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7477769/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7477769/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>your emotions: An eye-tracking study on reader&#x27;s...by S Child · 2020 · Cited by 19 — An eye-tracking study explored perspective effects...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: sr-research.com  
-   Link: <a href="https://www.sr-research.com/reading-language-publications/" target="_blank" rel="noopener noreferrer nofollow">https://www.sr-research.com/reading-language-publications/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading and Language Eye-Tracking PublicationsComprehensive list of reading and language research peer-reviewed journal article publicati...</p></details>
+   Link:<a href="https://www.sr-research.com/reading-language-publications/" target="_blank" rel="noopener noreferrer nofollow">https://www.sr-research.com/reading-language-publications/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading and Language Eye-Tracking PublicationsComprehensive list of reading and language research peer-reviewed journal article publicati...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: tmalsburg.github.io  
-   Link: <a href="https://tmalsburg.github.io/MeziereEtAl2021MS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tmalsburg.github.io/MeziereEtAl2021MS.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rns and reading comprehension suggests that more efficient eye-movement...Read more...</p></details>
+   Link:<a href="https://tmalsburg.github.io/MeziereEtAl2021MS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tmalsburg.github.io/MeziereEtAl2021MS.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rns and reading comprehension suggests that more efficient eye-movement...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: allgemeinepsychologie.uni-wuppertal.de  
    Title: Vorstius Radach Lonigan Silent Oral Readig VC 2014 01  
-   Link: <a href="https://allgemeinepsychologie.uni-wuppertal.de/fileadmin/psychologie/allgemeinepsychologie/Artikel/Artikel_Radach/Vorstius_Radach_Lonigan_Silent_Oral_Readig_VC_2014_01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://allgemeinepsychologie.uni-wuppertal.de/fileadmin/psychologie/allgemeinepsychologie/Artikel/Artikel_Radach/Vorstius_Radach_Lonigan_Silent_Oral_Readig_VC_2014_01.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>movements in developing readers: A comparison of silent...by C Vorstius · 2014 · Cited by 174 — We present sentence reading data from a...</p></details>
+   Link:<a href="https://allgemeinepsychologie.uni-wuppertal.de/fileadmin/psychologie/allgemeinepsychologie/Artikel/Artikel_Radach/Vorstius_Radach_Lonigan_Silent_Oral_Readig_VC_2014_01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://allgemeinepsychologie.uni-wuppertal.de/fileadmin/psychologie/allgemeinepsychologie/Artikel/Artikel_Radach/Vorstius_Radach_Lonigan_Silent_Oral_Readig_VC_2014_01.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>movements in developing readers: A comparison of silent...by C Vorstius · 2014 · Cited by 174 — We present sentence reading data from a...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: aclanthology.org  
    Title: 2024.emnlp main.198  
-   Link: <a href="https://aclanthology.org/2024.emnlp-main.198.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aclanthology.org/2024.emnlp-main.198.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fine-Grained Prediction of Reading Comprehension from...by O Shubi · 2024 · Cited by 12 — This line of work suggests that in some cases...</p></details>
+   Link:<a href="https://aclanthology.org/2024.emnlp-main.198.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aclanthology.org/2024.emnlp-main.198.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fine-Grained Prediction of Reading Comprehension from...by O Shubi · 2024 · Cited by 12 — This line of work suggests that in some cases...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s10936-025-10189-7" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10936-025-10189-7</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Null and Overt Pronouns in Catalanby A Bel · 2026 — This study investigates subject pronoun resolution in Catalan, a null-subject lang...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s10936-025-10189-7" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10936-025-10189-7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Null and Overt Pronouns in Catalanby A Bel · 2026 — This study investigates subject pronoun resolution in Catalan, a null-subject lang...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: [Speed Reading](&#123;&#123; 'myths/' | relative_url &#125;&#125;) Is USELESS, [Practice](&#123;&#123; 'practice/' | relative_url &#125;&#125;) This Instead  
-   Link: <a href="https://www.youtube.com/watch?v=wQ1IVqyUjYc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wQ1IVqyUjYc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Milliseconds Matter: Understanding How We Read with Eye-Tracking Research...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=wQ1IVqyUjYc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wQ1IVqyUjYc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Milliseconds Matter: Understanding How We Read with Eye-Tracking Research...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ila.onlinelibrary.wiley.com  
-   Link: <a href="https://ila.onlinelibrary.wiley.com/doi/full/10.1002/rrq.70023" target="_blank" rel="noopener noreferrer nofollow">https://ila.onlinelibrary.wiley.com/doi/full/10.1002/rrq.70023</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eye Movements From a “Read‐Only” Task to Predict...by DC Mézière · 2025 · Cited by 5 — In sum, findings from the previous eye-tracking s...</p></details>
+   Link:<a href="https://ila.onlinelibrary.wiley.com/doi/full/10.1002/rrq.70023" target="_blank" rel="noopener noreferrer nofollow">https://ila.onlinelibrary.wiley.com/doi/full/10.1002/rrq.70023</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eye Movements From a “Read‐Only” Task to Predict...by DC Mézière · 2025 · Cited by 5 — In sum, findings from the previous eye-tracking s...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: researchers.mq.edu.au  
-   Link: <a href="https://researchers.mq.edu.au/files/440419655/440208019.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchers.mq.edu.au/files/440419655/440208019.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eye Movements From a “Read‐Only” Task to Predict...by DC Mézière · 2025 · Cited by 4 — In this study, we examined the usefulness of eye...</p></details>
+   Link:<a href="https://researchers.mq.edu.au/files/440419655/440208019.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchers.mq.edu.au/files/440419655/440208019.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eye Movements From a “Read‐Only” Task to Predict...by DC Mézière · 2025 · Cited by 4 — In this study, we examined the usefulness of eye...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: acuresearchbank.acu.edu.au  
-   Link: <a href="https://acuresearchbank.acu.edu.au/bitstreams/3bd4da9e-7f9c-4b18-96dd-6256ad2aab28/download" target="_blank" rel="noopener noreferrer nofollow">https://acuresearchbank.acu.edu.au/bitstreams/3bd4da9e-7f9c-4b18-96dd-6256ad2aab28/download</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This study examined the potential of eye- tracking as a tool for assessing reading comprehension. We administered three widely used readi...</p></details>
+   Link:<a href="https://acuresearchbank.acu.edu.au/bitstreams/3bd4da9e-7f9c-4b18-96dd-6256ad2aab28/download" target="_blank" rel="noopener noreferrer nofollow">https://acuresearchbank.acu.edu.au/bitstreams/3bd4da9e-7f9c-4b18-96dd-6256ad2aab28/download</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This study examined the potential of eye- tracking as a tool for assessing reading comprehension. We administered three widely used readi...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: utupub.fi  
-   Link: <a href="https://www.utupub.fi/server/api/core/bitstreams/fb7fccfb-099c-4c62-9e09-888a457aff6e/content" target="_blank" rel="noopener noreferrer nofollow">https://www.utupub.fi/server/api/core/bitstreams/fb7fccfb-099c-4c62-9e09-888a457aff6e/content</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Using Eye Movements From a “Read‐Only” Task to Predict...by DC Mézière · 2025 · Cited by 5 — Using artificial neural networks, the autho...</p></details>
+   Link:<a href="https://www.utupub.fi/server/api/core/bitstreams/fb7fccfb-099c-4c62-9e09-888a457aff6e/content" target="_blank" rel="noopener noreferrer nofollow">https://www.utupub.fi/server/api/core/bitstreams/fb7fccfb-099c-4c62-9e09-888a457aff6e/content</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Using Eye Movements From a “Read‐Only” Task to Predict...by DC Mézière · 2025 · Cited by 5 — Using artificial neural networks, the autho...</p></details>

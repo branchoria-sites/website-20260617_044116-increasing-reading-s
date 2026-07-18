@@ -273,7 +273,7 @@ image: /assets/images/increasing_re_852ca6_speed_reading_71e807_skimming_high_0c
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_speed_reading_71e807_skimming_high_0ce38c_research_abst_811ad9-Illustration-1-dark.svg" | relative_url }}" alt="Abstracts illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_speed_reading_71e807_skimming_high_0ce38c_research_abst_811ad9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_speed_reading_71e807_skimming_high_0ce38c_research_abst_811ad9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The problem is that an abstract is not designed to carry every detail needed to judge how reliable, generalisable, or important a finding really is. Word limits force authors to compress complex research into a brief overview, and many of the [caveats]({{ 'caveats/' | relative_url }}) that determine whether a result applies to a particular situation appear elsewhere in the paper. As a result, skimmers can come away with an accurate summary of a study's headline finding while still misunderstanding what the evidence actually supports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://wordvice.com/blog/how-to-decrease-the-length-of-a-research-abstract/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wordvice.com">[Wordvice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wordvice.com</span><span class="citation-popover-snippet">Word Count &amp; LengthOctober 15, 2022 — 15 Oct 2022 — The abstract may also be the only part of your paper that has a word limit. Most word...</span><span class="citation-popover-meta">Published: October 15, 2022</span></span></span>
+The problem is that an abstract is not designed to carry every detail needed to judge how reliable, generalisable, or important a finding really is. Word limits force authors to compress complex research into a brief overview, and many of the [caveats]({{ 'caveats/' | relative_url }}) that determine whether a result applies to a particular situation appear elsewhere in the paper. As a result, skimmers can come away with an accurate summary of a study's headline finding while still misunderstanding what the evidence actually supports.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://wordvice.com/blog/how-to-decrease-the-length-of-a-research-abstract/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wordvice.com">[Wordvice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wordvice.com</span><span class="citation-popover-snippet">Word Count &amp; LengthOctober 15, 2022 — 15 Oct 2022 — The abstract may also be the only part of your paper that has a word limit. Most word...</span><span class="citation-popover-meta">Published: October 15, 2022</span></span></span>
 
 ## What Abstracts Leave Out
 
@@ -294,7 +294,7 @@ Many abstracts provide only abbreviated descriptions of:
 
 </div>
 
-Reporting guidelines such as CONSORT were created partly because incomplete abstracts can make it difficult for readers to assess the validity and applicability of research findings. Researchers behind these guidelines argue that readers cannot properly judge reliability without transparent reporting of methods and results. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosmedicine/article%3Fid%3D10.1371/journal.pmed.0050020" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS+2BMJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">CONSORT for Reporting Randomized Controlled Trials in...by S Hopewell · 2008 · Cited by 844 — CONSORT for Abstracts aims to improve...</span></span></span>
+Reporting guidelines such as CONSORT were created partly because incomplete abstracts can make it difficult for readers to assess the validity and applicability of research findings. Researchers behind these guidelines argue that readers cannot properly judge reliability without transparent reporting of methods and results.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosmedicine/article%3Fid%3D10.1371/journal.pmed.0050020" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS+2BMJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">CONSORT for Reporting Randomized Controlled Trials in...by S Hopewell · 2008 · Cited by 844 — CONSORT for Abstracts aims to improve...</span></span></span>
 
 The issue is not usually that abstracts are deliberately inaccurate. Rather, they are compressed summaries. A study involving a narrowly defined population, a short follow-up period, or a specific laboratory setting may still have an abstract that reads as if the conclusion applies broadly. The restrictions often become clear only in the methods, results, or discussion sections.
 
@@ -327,7 +327,7 @@ For example, a paper might report improved performance, better health, or increa
 
 ### Alternative Analytical Choices
 
-Research often involves numerous decisions about data collection, processing, modelling, and statistical analysis. Studies of scientific workflows have shown that different analytical choices can sometimes lead to different conclusions from the same underlying data. These decision paths are rarely visible in an abstract. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1910.13602" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Paths Explored, Paths Omitted, Paths Obscured: Decision Points &amp; Selective Reporting in End-to-End Data AnalysisOctober 30, 2019...</span><span class="citation-popover-meta">Published: October 30, 2019</span></span></span>
+Research often involves numerous decisions about data collection, processing, modelling, and statistical analysis. Studies of scientific workflows have shown that different analytical choices can sometimes lead to different conclusions from the same underlying data. These decision paths are rarely visible in an abstract.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1910.13602" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Paths Explored, Paths Omitted, Paths Obscured: Decision Points &amp; Selective Reporting in End-to-End Data AnalysisOctober 30, 2019...</span><span class="citation-popover-meta">Published: October 30, 2019</span></span></span>
 
 A [skimming]({{ 'skimming/' | relative_url }}) reader may therefore see only the final conclusion and miss the methodological context that determines how robust that conclusion is.
 
@@ -337,7 +337,7 @@ A [skimming]({{ 'skimming/' | relative_url }}) reader may therefore see only the
 
 Another reason abstracts can mislead is that they sometimes emphasise the most positive interpretation of the findings.
 
-Reporting researchers have documented concerns about "spin" in scientific abstracts and summaries. This does not necessarily mean fabrication or fraud. More commonly, it refers to presenting results in a way that sounds stronger, more definitive, or more favourable than a [careful reading]({{ 'careful-reading/' | relative_url }}) of the full paper would support. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.consort-spirit.org/item1b-structuredsummary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consort-spirit.org">[consort-spirit.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consort-spirit.org</span><span class="citation-popover-title">Item 1b: Structured</span><span class="citation-popover-snippet">SummaryAuthors should avoid selectively reporting only statistically significant secondary outcomes or subgroup analyses. Conversely, omi...</span></span></span>
+Reporting researchers have documented concerns about "spin" in scientific abstracts and summaries. This does not necessarily mean fabrication or fraud. More commonly, it refers to presenting results in a way that sounds stronger, more definitive, or more favourable than a [careful reading]({{ 'careful-reading/' | relative_url }}) of the full paper would support.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.consort-spirit.org/item1b-structuredsummary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consort-spirit.org">[consort-spirit.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consort-spirit.org</span><span class="citation-popover-title">Item 1b: Structured</span><span class="citation-popover-snippet">SummaryAuthors should avoid selectively reporting only statistically significant secondary outcomes or subgroup analyses. Conversely, omi...</span></span></span>
 
 Examples include:
 
@@ -379,7 +379,7 @@ A deeper reading might reveal:
 
 The abstract may have accurately summarised the paper, yet the practical meaning of the finding changes considerably once the limitations are considered.
 
-This is why experienced researchers often treat abstracts as navigation tools rather than final evidence. Guidance on reading scientific literature commonly recommends using the abstract to identify relevance and then examining methods, results, and discussion sections before accepting conclusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7392212/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Paperpile]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTen simple rules for reading a scientific paper</span><span class="citation-popover-snippet">NIHby MA Carey · 2020 · Cited by 44 — We present 10 simple rules, relevant to novices and seasoned scientists alike, to teach our s...</span></span></span>
+This is why experienced researchers often treat abstracts as navigation tools rather than final evidence. Guidance on reading scientific literature commonly recommends using the abstract to identify relevance and then examining methods, results, and discussion sections before accepting conclusions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7392212/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Paperpile]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTen simple rules for reading a scientific paper</span><span class="citation-popover-snippet">NIHby MA Carey · 2020 · Cited by 44 — We present 10 simple rules, relevant to novices and seasoned scientists alike, to teach our s...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_speed_reading_71e807_skimming_high_0ce38c_research_abst_811ad9-Illustration-3-dark.svg" | relative_url }}" alt="Abstracts illustration 3" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_speed_reading_71e807_skimming_high_0ce38c_research_abst_811ad9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_speed_reading_71e807_skimming_high_0ce38c_research_abst_811ad9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -410,224 +410,224 @@ This approach preserves much of the efficiency of skimming while reducing one of
 
 The most effective readers do not view abstracts as substitutes for the paper. They use them as filters.
 
-An abstract is excellent for deciding whether a study deserves attention. It is far less reliable for deciding how much confidence to place in a finding. The details that determine reliability, validity, and applicability frequently live in the methods, results, and limitations sections rather than in the summary at the front. Reporting standards exist precisely because those details matter to interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosmedicine/article%3Fid%3D10.1371/journal.pmed.0050020" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS+2EQUATOR Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">CONSORT for Reporting Randomized Controlled Trials in...by S Hopewell · 2008 · Cited by 844 — CONSORT for Abstracts aims to improve...</span></span></span>
+An abstract is excellent for deciding whether a study deserves attention. It is far less reliable for deciding how much confidence to place in a finding. The details that determine reliability, validity, and applicability frequently live in the methods, results, and limitations sections rather than in the summary at the front. Reporting standards exist precisely because those details matter to interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosmedicine/article%3Fid%3D10.1371/journal.pmed.0050020" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS+2EQUATOR Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">CONSORT for Reporting Randomized Controlled Trials in...by S Hopewell · 2008 · Cited by 844 — CONSORT for Abstracts aims to improve...</span></span></span>
 
 For anyone trying to read faster, this distinction is crucial. Speed comes from avoiding unnecessary reading, not from skipping the sections that determine whether a conclusion is actually supported by the evidence.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Abstracts Are Not Enough. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Abstracts Are Not Enough. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Directly addresses different levels of reading, including inspectional reading versus careful analysis.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Directly addresses different levels of reading, including inspectional reading versus careful analysis.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Paper+by+Trisha+M.+Greenhalgh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Paper on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=L_YvEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Paper" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Paper+by+Trisha+M.+Greenhalgh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Paper">How to Read a Paper</a>
-        </h4>
-        <p class="fr-book-author">By Trisha M. Greenhalgh, Paul Dijkstra</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Paper+by+Trisha+M.+Greenhalgh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Paper on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=L_YvEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Paper" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Paper+by+Trisha+M.+Greenhalgh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Paper">How to Read a Paper</a>
+</h4>
+<p class="fr-book-author">By Trisha M. Greenhalgh, Paul Dijkstra</p>
         
-        <p class="fr-book-desc">Directly teaches readers to go beyond abstracts and assess methods, results, and limitations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Paper+by+Trisha+M.+Greenhalgh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly teaches readers to go beyond abstracts and assess methods, results, and limitations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Paper+by+Trisha+M.+Greenhalgh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
-        </h4>
-        <p class="fr-book-author">By Ben Goldacre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
+</h4>
+<p class="fr-book-author">By Ben Goldacre</p>
         
-        <p class="fr-book-desc">Demonstrates how headline findings can mislead without examining underlying evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates how headline findings can mislead without examining underlying evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains cognitive shortcuts that encourage overreliance on simplified summaries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains cognitive shortcuts that encourage overreliance on simplified summaries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Paper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Paper</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Paper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Paper</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: wordvice.com  
-   Link: <a href="https://wordvice.com/blog/how-to-decrease-the-length-of-a-research-abstract/" target="_blank" rel="noopener noreferrer nofollow">https://wordvice.com/blog/how-to-decrease-the-length-of-a-research-abstract/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Word Count &amp; LengthOctober 15, 2022 — 15 Oct 2022 — The abstract may also be the only part of your paper that has a word limit. Most word...</p></details>
+   Link:<a href="https://wordvice.com/blog/how-to-decrease-the-length-of-a-research-abstract/" target="_blank" rel="noopener noreferrer nofollow">https://wordvice.com/blog/how-to-decrease-the-length-of-a-research-abstract/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Word Count &amp; LengthOctober 15, 2022 — 15 Oct 2022 — The abstract may also be the only part of your paper that has a word limit. Most word...</p></details>
    Published: October 15, 2022  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: journals.plos.org  
-   Link: <a href="https://journals.plos.org/plosmedicine/article%3Fid%3D10.1371/journal.pmed.0050020" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosmedicine/article%3Fid%3D10.1371/journal.pmed.0050020</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CONSORT for Reporting Randomized Controlled Trials in...by S Hopewell · 2008 · Cited by 844 — CONSORT for Abstracts aims to improve...</p></details>
+   Link:<a href="https://journals.plos.org/plosmedicine/article%3Fid%3D10.1371/journal.pmed.0050020" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosmedicine/article%3Fid%3D10.1371/journal.pmed.0050020</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CONSORT for Reporting Randomized Controlled Trials in...by S Hopewell · 2008 · Cited by 844 — CONSORT for Abstracts aims to improve...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: bmj.com  
    Title: bmj 2024 081124  
-   Link: <a href="https://www.bmj.com/content/389/bmj-2024-081124" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/389/bmj-2024-081124</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CONSORT 2025 explanation and elaborationby S Hopewell · 2025 · Cited by 235 — Without transparent reporting of the methods and results, r...</p></details>
+   Link:<a href="https://www.bmj.com/content/389/bmj-2024-081124" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/389/bmj-2024-081124</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CONSORT 2025 explanation and elaborationby S Hopewell · 2025 · Cited by 235 — Without transparent reporting of the methods and results, r...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1910.13602" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1910.13602</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Paths Explored, Paths Omitted, Paths Obscured: Decision Points &amp; Selective Reporting in End-to-End Data AnalysisOctober 30, 2019...</p></details>
+   Link:<a href="https://arxiv.org/abs/1910.13602" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1910.13602</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Paths Explored, Paths Omitted, Paths Obscured: Decision Points &amp; Selective Reporting in End-to-End Data AnalysisOctober 30, 2019...</p></details>
    Published: October 30, 2019  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: consort-spirit.org  
    Title: Item 1b: Structured  
-   Link: <a href="https://www.consort-spirit.org/item1b-structuredsummary" target="_blank" rel="noopener noreferrer nofollow">https://www.consort-spirit.org/item1b-structuredsummary</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SummaryAuthors should avoid selectively reporting only statistically significant secondary outcomes or subgroup analyses. Conversely, omi...</p></details>
+   Link:<a href="https://www.consort-spirit.org/item1b-structuredsummary" target="_blank" rel="noopener noreferrer nofollow">https://www.consort-spirit.org/item1b-structuredsummary</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SummaryAuthors should avoid selectively reporting only statistically significant secondary outcomes or subgroup analyses. Conversely, omi...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCTen simple rules for reading a scientific paper  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7392212/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7392212/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby MA Carey · 2020 · Cited by 44 — We present 10 simple rules, relevant to novices and seasoned scientists alike, to teach our s...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7392212/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7392212/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby MA Carey · 2020 · Cited by 44 — We present 10 simple rules, relevant to novices and seasoned scientists alike, to teach our s...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: paperpile.com  
    Title: How to read a scientific paper [3 steps  
-   Link: <a href="https://paperpile.com/g/read-scientific-paper/" target="_blank" rel="noopener noreferrer nofollow">https://paperpile.com/g/read-scientific-paper/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2025]In this guide, we&#x27;ll show you how to read a scientific paper in 3 steps. You will learn all about the scientific paper format, how t...</p></details>
+   Link:<a href="https://paperpile.com/g/read-scientific-paper/" target="_blank" rel="noopener noreferrer nofollow">https://paperpile.com/g/read-scientific-paper/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2025]In this guide, we&#x27;ll show you how to read a scientific paper in 3 steps. You will learn all about the scientific paper format, how t...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: equator-network.org  
-   Link: <a href="https://www.equator-network.org/reporting-guidelines/consort/" target="_blank" rel="noopener noreferrer nofollow">https://www.equator-network.org/reporting-guidelines/consort/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2025 Statement - Reporting guideline27 Jan 2026 — CONSORT 2025 Statement: updated guideline for reporting randomised trials. Reporting gu...</p></details>
+   Link:<a href="https://www.equator-network.org/reporting-guidelines/consort/" target="_blank" rel="noopener noreferrer nofollow">https://www.equator-network.org/reporting-guidelines/consort/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2025 Statement - Reporting guideline27 Jan 2026 — CONSORT 2025 Statement: updated guideline for reporting randomised trials. Reporting gu...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2506.21634v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.21634v1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Observe and quantify deficiencies. Suggest guidelines for writing...Read more...</p></details>
+   Link:<a href="https://arxiv.org/html/2506.21634v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.21634v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Observe and quantify deficiencies. Suggest guidelines for writing...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: A recent extension to the CONSORT  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2844943/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2844943/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CONSORT 2010 Explanation and Elaboration - PMCby D Moher · 2010 · Cited by 12818 — Conversely, omitting important harms from the abstr...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2844943/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2844943/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CONSORT 2010 Explanation and Elaboration - PMCby D Moher · 2010 · Cited by 12818 — Conversely, omitting important harms from the abstr...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4247631/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4247631/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of adding a limitations section to abstracts of systematic...by A Yavchitz · 2014 · Cited by 18 — In conclusion, adding a limitations se...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4247631/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4247631/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of adding a limitations section to abstracts of systematic...by A Yavchitz · 2014 · Cited by 18 — In conclusion, adding a limitations se...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2211558/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2211558/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>for Reporting Randomized Controlled Trials in...by S Hopewell · 2008 · Cited by 844 — CONSORT for Abstracts aims to improve reporting of...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2211558/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2211558/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>for Reporting Randomized Controlled Trials in...by S Hopewell · 2008 · Cited by 844 — CONSORT for Abstracts aims to improve reporting of...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cwauthors.com  
-   Link: <a href="https://www.cwauthors.com/article/what-to-include-and-exclude-in-an-abstract" target="_blank" rel="noopener noreferrer nofollow">https://www.cwauthors.com/article/what-to-include-and-exclude-in-an-abstract</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>abstract | CW Authors8 Apr 2022 — Because the abstract is essentially a summary of the main paper, it should not present any information...</p></details>
+   Link:<a href="https://www.cwauthors.com/article/what-to-include-and-exclude-in-an-abstract" target="_blank" rel="noopener noreferrer nofollow">https://www.cwauthors.com/article/what-to-include-and-exclude-in-an-abstract</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>abstract | CW Authors8 Apr 2022 — Because the abstract is essentially a summary of the main paper, it should not present any information...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: linkedin.com  
    Title: How to read a research paper effectively: A step-by  
-   Link: <a href="https://www.linkedin.com/posts/tathagata-ghosh-2219b711_how-to-read-a-research-paper-effectively-activity-7352691339655876609-ugV2" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/tathagata-ghosh-2219b711_how-to-read-a-research-paper-effectively-activity-7352691339655876609-ugV2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Abstract - A brief summary of the research paper, including the research question, methods, results, and conclusions.... limitations. 8...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/tathagata-ghosh-2219b711_how-to-read-a-research-paper-effectively-activity-7352691339655876609-ugV2" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/tathagata-ghosh-2219b711_how-to-read-a-research-paper-effectively-activity-7352691339655876609-ugV2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Abstract - A brief summary of the research paper, including the research question, methods, results, and conclusions.... limitations. 8...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/390792212_CONSORT_2025_explanation_and_elaboration_updated_guideline_for_reporting_randomised_trials" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/390792212_CONSORT_2025_explanation_and_elaboration_updated_guideline_for_reporting_randomised_trials</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) CONSORT 2025 explanation and elaboration15 Apr 2025 — The CONSORT (Consolidated Standards of Reporting Trials) statement aims to im...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/390792212_CONSORT_2025_explanation_and_elaboration_updated_guideline_for_reporting_randomised_trials" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/390792212_CONSORT_2025_explanation_and_elaboration_updated_guideline_for_reporting_randomised_trials</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) CONSORT 2025 explanation and elaboration15 Apr 2025 — The CONSORT (Consolidated Standards of Reporting Trials) statement aims to im...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: elearning.uniroma1.it  
-   Link: <a href="https://elearning.uniroma1.it/pluginfile.php/1624702/mod_resource/content/1/Lezione%207_2026_How%20to%20read_write%20a%20paper%20%281%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://elearning.uniroma1.it/pluginfile.php/1624702/mod_resource/content/1/Lezione%207_2026_How%20to%20read_write%20a%20paper%20%281%29.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific Papers go straight to the source. Try to distinguish first-hand from second-hand information. To get the real.Read more...</p></details>
+   Link:<a href="https://elearning.uniroma1.it/pluginfile.php/1624702/mod_resource/content/1/Lezione%207_2026_How%20to%20read_write%20a%20paper%20%281%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://elearning.uniroma1.it/pluginfile.php/1624702/mod_resource/content/1/Lezione%207_2026_How%20to%20read_write%20a%20paper%20%281%29.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific Papers go straight to the source. Try to distinguish first-hand from second-hand information. To get the real.Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/738098637595658/posts/1825386795533498/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/738098637595658/posts/1825386795533498/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4. Evaluate Relevance to your research? Are methods valid? Are results significant and reproducible? 5...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/738098637595658/posts/1825386795533498/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/738098637595658/posts/1825386795533498/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4. Evaluate Relevance to your research? Are methods valid? Are results significant and reproducible? 5...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=l1brryR5z_U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l1brryR5z_U</a>  
+   Link:<a href="https://www.youtube.com/watch?v=l1brryR5z_U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l1brryR5z_U</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: instatext.io  
-   Link: <a href="https://instatext.io/abstract-writing-common-mistakes-and-tips/" target="_blank" rel="noopener noreferrer nofollow">https://instatext.io/abstract-writing-common-mistakes-and-tips/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Abstract writing: Common mistakes and tipsLearn the most common abstract writing mistakes and see how InstaText improves clarity, readabi...</p></details>
+   Link:<a href="https://instatext.io/abstract-writing-common-mistakes-and-tips/" target="_blank" rel="noopener noreferrer nofollow">https://instatext.io/abstract-writing-common-mistakes-and-tips/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Abstract writing: Common mistakes and tipsLearn the most common abstract writing mistakes and see how InstaText improves clarity, readabi...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/AskScienceDiscussion/comments/zvrkm8/apparently_most_researchers_just_read_abstracts/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskScienceDiscussion/comments/zvrkm8/apparently_most_researchers_just_read_abstracts/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>abstract good? in a way that covered the bulk of the paper...</p></details>
+   Link:<a href="https://www.reddit.com/r/AskScienceDiscussion/comments/zvrkm8/apparently_most_researchers_just_read_abstracts/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskScienceDiscussion/comments/zvrkm8/apparently_most_researchers_just_read_abstracts/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>abstract good? in a way that covered the bulk of the paper...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=WVv2jWXW0K4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WVv2jWXW0K4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s often aim to grasp the main points swiftly. -Identify your [purpose](&amp;#123;&amp;#123; &#x27;purpose/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WVv2jWXW0K4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WVv2jWXW0K4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s often aim to grasp the main points swiftly. -Identify your [purpose](&amp;#123;&amp;#123; &#x27;purpose/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: writing.wisc.edu  
-   Link: <a href="https://writing.wisc.edu/handbook/assignments/writing-an-abstract-for-your-research-paper/" target="_blank" rel="noopener noreferrer nofollow">https://writing.wisc.edu/handbook/assignments/writing-an-abstract-for-your-research-paper/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Writing CenterWriting an Abstract for Your Research PaperAn abstract is a short summary of your (published or unpublished) research paper...</p></details>
+   Link:<a href="https://writing.wisc.edu/handbook/assignments/writing-an-abstract-for-your-research-paper/" target="_blank" rel="noopener noreferrer nofollow">https://writing.wisc.edu/handbook/assignments/writing-an-abstract-for-your-research-paper/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Writing CenterWriting an Abstract for Your Research PaperAn abstract is a short summary of your (published or unpublished) research paper...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/post/What-are-the-information-we-have-to-include-in-the-abstract-and-conclusion-while-writing-research-articles" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/post/What-are-the-information-we-have-to-include-in-the-abstract-and-conclusion-while-writing-research-articles</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Specifically I expect what are the information we have to include in the abstract and conclusion...</p></details>
+   Link:<a href="https://www.researchgate.net/post/What-are-the-information-we-have-to-include-in-the-abstract-and-conclusion-while-writing-research-articles" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/post/What-are-the-information-we-have-to-include-in-the-abstract-and-conclusion-while-writing-research-articles</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Specifically I expect what are the information we have to include in the abstract and conclusion...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: researchgate.net  
    Title: 380129336 How to read a research paper more effectively  
-   Link: <a href="https://www.researchgate.net/publication/380129336_How_to_read_a_research_paper_more_effectively" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/380129336_How_to_read_a_research_paper_more_effectively</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scholars employ numerous methodologies, but I present the most...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/380129336_How_to_read_a_research_paper_more_effectively" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/380129336_How_to_read_a_research_paper_more_effectively</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scholars employ numerous methodologies, but I present the most...Read more...</p></details>

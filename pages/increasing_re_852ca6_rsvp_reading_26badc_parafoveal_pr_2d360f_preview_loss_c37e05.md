@@ -269,7 +269,7 @@ image: /assets/images/increasing_re_852ca6_rsvp_reading_26badc_parafoveal_pr_2d3
 
 ## Introduction
 
-Parafoveal preview loss is not equally damaging across all reading. When text is familiar, predictable and straightforward, readers can often maintain reasonable comprehension even if upcoming words are hidden until the last moment. The problem becomes much more apparent when passages are dense, technical, syntactically complex or conceptually unfamiliar. In these situations, readers rely more heavily on seeing ahead, adjusting their pace and occasionally revisiting earlier words. Removing preview in one-word-at-a-time RSVP (Rapid Serial Visual Presentation) systems strips away exactly those supports. Research on [eye movements]({{ 'eye-tradeoff/' | relative_url }}), parafoveal processing and [speed-reading]({{ 'myths/' | relative_url }}) interfaces consistently suggests that the costs of preview loss become larger as linguistic and cognitive demands increase. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/1529100615623267" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsSo Much to Read, So Little Time - Keith Rayner, Elizabeth...by K Rayner · 2016 · Cited by 519 — Another concern about apps...</span></span></span>
+Parafoveal preview loss is not equally damaging across all reading. When text is familiar, predictable and straightforward, readers can often maintain reasonable comprehension even if upcoming words are hidden until the last moment. The problem becomes much more apparent when passages are dense, technical, syntactically complex or conceptually unfamiliar. In these situations, readers rely more heavily on seeing ahead, adjusting their pace and occasionally revisiting earlier words. Removing preview in one-word-at-a-time RSVP (Rapid Serial Visual Presentation) systems strips away exactly those supports. Research on [eye movements]({{ 'eye-tradeoff/' | relative_url }}), parafoveal processing and [speed-reading]({{ 'myths/' | relative_url }}) interfaces consistently suggests that the costs of preview loss become larger as linguistic and cognitive demands increase.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/1529100615623267" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsSo Much to Read, So Little Time - Keith Rayner, Elizabeth...by K Rayner · 2016 · Cited by 519 — Another concern about apps...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_rsvp_reading_26badc_parafoveal_pr_2d360f_preview_loss_c37e05-Illustration-1-dark.svg" | relative_url }}" alt="Difficult text illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_rsvp_reading_26badc_parafoveal_pr_2d360f_preview_loss_c37e05-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_rsvp_reading_26badc_parafoveal_pr_2d360f_preview_loss_c37e05-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -277,7 +277,7 @@ This helps explain why some readers report impressive speeds on simple material 
 
 ## Why easy text can mask preview loss
 
-Easy passages provide many opportunities for prediction. Common vocabulary, familiar sentence structures and highly expected word sequences allow readers to anticipate upcoming content before it arrives. When expectations are accurate, the absence of parafoveal preview is less noticeable because the brain already has a strong idea of what comes next. Research on predictability and preview shows that contextual expectations and advance visual information work together during reading, reducing recognition effort when upcoming words are relatively predictable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://eprints.gla.ac.uk/354723/1/354723.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eprints.gla.ac.uk">[Enlighten Publications+2ORA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eprints.gla.ac.uk</span><span class="citation-popover-title">Enlighten Publications Parafoveal preview benefits magnified</span><span class="citation-popover-snippet">Enlighten PublicationsParafoveal preview benefits magnifiedApril 24, 2025 — by B Yao · 2025 · Cited by 2 — This study investigated the im...</span><span class="citation-popover-meta">Published: April 24, 2025</span></span></span>
+Easy passages provide many opportunities for prediction. Common vocabulary, familiar sentence structures and highly expected word sequences allow readers to anticipate upcoming content before it arrives. When expectations are accurate, the absence of parafoveal preview is less noticeable because the brain already has a strong idea of what comes next. Research on predictability and preview shows that contextual expectations and advance visual information work together during reading, reducing recognition effort when upcoming words are relatively predictable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://eprints.gla.ac.uk/354723/1/354723.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eprints.gla.ac.uk">[Enlighten Publications+2ORA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eprints.gla.ac.uk</span><span class="citation-popover-title">Enlighten Publications Parafoveal preview benefits magnified</span><span class="citation-popover-snippet">Enlighten PublicationsParafoveal preview benefits magnifiedApril 24, 2025 — by B Yao · 2025 · Cited by 2 — This study investigated the im...</span><span class="citation-popover-meta">Published: April 24, 2025</span></span></span>
 
 Consider a sentence such as:
 
@@ -297,7 +297,7 @@ This can create a misleading impression of RSVP performance. Readers may achieve
 
 </div>
 
-Yet these successes do not necessarily [transfer]({{ 'transfer/' | relative_url }}) to material where prediction becomes unreliable. Studies reviewing speed-reading applications have repeatedly noted that performance on relatively simple text does not guarantee effective comprehension under more demanding reading conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/1529100615623267" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals+2ACM Digital Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsSo Much to Read, So Little Time - Keith Rayner, Elizabeth...by K Rayner · 2016 · Cited by 519 — Another concern about apps...</span></span></span>
+Yet these successes do not necessarily [transfer]({{ 'transfer/' | relative_url }}) to material where prediction becomes unreliable. Studies reviewing speed-reading applications have repeatedly noted that performance on relatively simple text does not guarantee effective comprehension under more demanding reading conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/1529100615623267" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals+2ACM Digital Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsSo Much to Read, So Little Time - Keith Rayner, Elizabeth...by K Rayner · 2016 · Cited by 519 — Another concern about apps...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YAlifBqOaU0" title="Webinar - Implementing the Invisible Boundary Crossing Paradigm in Experiment Builder" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YAlifBqOaU0" target="_blank" rel="noopener noreferrer">Webinar - Implementing the Invisible Boundary Crossing Paradigm in Experiment Builder</a></p><p class="youtube-embed-meta">Channel: SR Research &middot; Views: 964 &middot; Uploaded: April 2021 &middot; Length: 51 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YAlifBqOaU0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YAlifBqOaU0">Open on YouTube</a></p></div></div></div>
@@ -319,11 +319,11 @@ Academic writing, technical documentation and legal prose frequently contain:
 
 </div>
 
-In normal reading, parafoveal preview helps readers prepare for these structures. While processing one word, readers gather partial information about upcoming words and use it to guide interpretation. This overlap between current processing and future processing makes comprehension more efficient. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/287365707_Foveal_and_parafoveal_processing_during_reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Foveal and parafoveal processing during readingEye movement studies on foveal and parafoveal word processing in reading are r...</span></span></span>
+In normal reading, parafoveal preview helps readers prepare for these structures. While processing one word, readers gather partial information about upcoming words and use it to guide interpretation. This overlap between current processing and future processing makes comprehension more efficient.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/287365707_Foveal_and_parafoveal_processing_during_reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Foveal and parafoveal processing during readingEye movement studies on foveal and parafoveal word processing in reading are r...</span></span></span>
 
-When preview disappears, processing becomes strictly serial. Each word arrives without advance preparation. The reader must identify, interpret and integrate it before the next word appears. The cognitive burden accumulates because there is no opportunity to begin work on forthcoming information during the current fixation. Reviews of parafoveal processing describe this preview benefit as a core component of fluent reading rather than a minor optimisation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/1529100615623267" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsSo Much to Read, So Little Time - Keith Rayner, Elizabeth...by K Rayner · 2016 · Cited by 519 — Another concern about apps...</span></span></span>
+When preview disappears, processing becomes strictly serial. Each word arrives without advance preparation. The reader must identify, interpret and integrate it before the next word appears. The cognitive burden accumulates because there is no opportunity to begin work on forthcoming information during the current fixation. Reviews of parafoveal processing describe this preview benefit as a core component of fluent reading rather than a minor optimisation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/1529100615623267" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsSo Much to Read, So Little Time - Keith Rayner, Elizabeth...by K Rayner · 2016 · Cited by 519 — Another concern about apps...</span></span></span>
 
-Research on linguistic complexity and eye movements shows that more complex lexical and syntactic structures generate longer processing times and altered eye-movement behaviour, reflecting the additional effort required to construct meaning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3097123/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCLexical and Post-Lexical Complexity Effects on Eye</span><span class="citation-popover-snippet">by T Warren · 2011 · Cited by 18 — The current study investigated how a post-lexical complexity manipulation followed by a lexical com...</span></span></span>
+Research on linguistic complexity and eye movements shows that more complex lexical and syntactic structures generate longer processing times and altered eye-movement behaviour, reflecting the additional effort required to construct meaning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3097123/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCLexical and Post-Lexical Complexity Effects on Eye</span><span class="citation-popover-snippet">by T Warren · 2011 · Cited by 18 — The current study investigated how a post-lexical complexity manipulation followed by a lexical com...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_rsvp_reading_26badc_parafoveal_pr_2d360f_preview_loss_c37e05-Illustration-2-dark.svg" | relative_url }}" alt="Difficult text illustration 2" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_rsvp_reading_26badc_parafoveal_pr_2d360f_preview_loss_c37e05-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_rsvp_reading_26badc_parafoveal_pr_2d360f_preview_loss_c37e05-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -343,9 +343,9 @@ In ordinary reading, parafoveal vision can provide advance information about:
 
 </div>
 
-This preliminary information gives difficult words a head start before direct fixation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/287365707_Foveal_and_parafoveal_processing_during_reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Foveal and parafoveal processing during readingEye movement studies on foveal and parafoveal word processing in reading are r...</span></span></span>
+This preliminary information gives difficult words a head start before direct fixation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/287365707_Foveal_and_parafoveal_processing_during_reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Foveal and parafoveal processing during readingEye movement studies on foveal and parafoveal word processing in reading are r...</span></span></span>
 
-Recent work suggests that enhanced parafoveal access particularly benefits less predictable and more challenging words. The gains from advance information are not distributed evenly; they become more visible when readers cannot rely on strong contextual expectations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://eprints.gla.ac.uk/354723/1/354723.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eprints.gla.ac.uk">[Enlighten Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eprints.gla.ac.uk</span><span class="citation-popover-title">Enlighten Publications Parafoveal preview benefits magnified</span><span class="citation-popover-snippet">Enlighten PublicationsParafoveal preview benefits magnifiedApril 24, 2025 — by B Yao · 2025 · Cited by 2 — This study investigated the im...</span><span class="citation-popover-meta">Published: April 24, 2025</span></span></span>
+Recent work suggests that enhanced parafoveal access particularly benefits less predictable and more challenging words. The gains from advance information are not distributed evenly; they become more visible when readers cannot rely on strong contextual expectations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://eprints.gla.ac.uk/354723/1/354723.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eprints.gla.ac.uk">[Enlighten Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eprints.gla.ac.uk</span><span class="citation-popover-title">Enlighten Publications Parafoveal preview benefits magnified</span><span class="citation-popover-snippet">Enlighten PublicationsParafoveal preview benefits magnifiedApril 24, 2025 — by B Yao · 2025 · Cited by 2 — This study investigated the im...</span><span class="citation-popover-meta">Published: April 24, 2025</span></span></span>
 
 This matters because difficult passages contain exactly the kinds of words that resist prediction. Scientific terminology, specialised vocabulary and unfamiliar names force readers to perform genuine recognition rather than simple confirmation. Under RSVP conditions, each of these words arrives without advance preparation, [increasing]({{ 'increasing/' | relative_url }}) recognition difficulty and slowing integration into the developing meaning of the text.
 
@@ -356,11 +356,11 @@ This matters because difficult passages contain exactly the kinds of words that 
 
 One reason hard passages expose RSVP limitations is that preview and rereading normally function as complementary systems.
 
-Skilled readers do not move through text in a perfectly linear fashion. Eye-tracking studies show that regressions—brief movements back to earlier text—are a normal part of comprehension. Readers use them to resolve ambiguity, verify interpretations and reconnect information across a sentence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://faculty.cas.usf.edu/eschotter/papers/Schotter_Tran_Rayner_2014_PsychSci.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faculty.cas.usf.edu">[USF Faculty]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faculty.cas.usf.edu</span><span class="citation-popover-title">Schotter Tran Rayner 2014 PsychSci</span><span class="citation-popover-snippet">USF FacultyPsychological Science-2014-Schotter-1218-26by ER Schotter · 2014 · Cited by 266 — These data suggest that regressions contribu...</span></span></span>
+Skilled readers do not move through text in a perfectly linear fashion. Eye-tracking studies show that regressions—brief movements back to earlier text—are a normal part of comprehension. Readers use them to resolve ambiguity, verify interpretations and reconnect information across a sentence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://faculty.cas.usf.edu/eschotter/papers/Schotter_Tran_Rayner_2014_PsychSci.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faculty.cas.usf.edu">[USF Faculty]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faculty.cas.usf.edu</span><span class="citation-popover-title">Schotter Tran Rayner 2014 PsychSci</span><span class="citation-popover-snippet">USF FacultyPsychological Science-2014-Schotter-1218-26by ER Schotter · 2014 · Cited by 266 — These data suggest that regressions contribu...</span></span></span>
 
 Difficult text generates more situations where this flexibility matters. A reader may initially interpret a sentence one way and then revise that interpretation when a later clause changes the meaning. In ordinary reading, the page remains visible, preview remains available and the reader can instantly move backwards if needed.
 
-RSVP systems eliminate much of this flexibility. Not only is future text hidden, but past text is often inaccessible without explicit controls. Research examining reading when regressions are prevented found measurable comprehension costs, leading researchers to question the suitability of reading systems that remove normal eye-movement behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://faculty.cas.usf.edu/eschotter/papers/Schotter_Tran_Rayner_2014_PsychSci.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faculty.cas.usf.edu">[USF Faculty]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faculty.cas.usf.edu</span><span class="citation-popover-title">Schotter Tran Rayner 2014 PsychSci</span><span class="citation-popover-snippet">USF FacultyPsychological Science-2014-Schotter-1218-26by ER Schotter · 2014 · Cited by 266 — These data suggest that regressions contribu...</span></span></span>
+RSVP systems eliminate much of this flexibility. Not only is future text hidden, but past text is often inaccessible without explicit controls. Research examining reading when regressions are prevented found measurable comprehension costs, leading researchers to question the suitability of reading systems that remove normal eye-movement behaviour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://faculty.cas.usf.edu/eschotter/papers/Schotter_Tran_Rayner_2014_PsychSci.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faculty.cas.usf.edu">[USF Faculty]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faculty.cas.usf.edu</span><span class="citation-popover-title">Schotter Tran Rayner 2014 PsychSci</span><span class="citation-popover-snippet">USF FacultyPsychological Science-2014-Schotter-1218-26by ER Schotter · 2014 · Cited by 266 — These data suggest that regressions contribu...</span></span></span>
 
 The interaction is important. Preview reduces the need for repair by helping readers anticipate upcoming structure, while regressions provide a recovery mechanism when anticipation fails. Difficult text benefits from both simultaneously. Removing both places a greater burden on working memory and immediate processing.
 
@@ -383,9 +383,9 @@ Normal reading provides several overlapping aids:
 
 </div>
 
-RSVP removes or restricts many of these aids at once. On easy material, readers may compensate through prediction and prior knowledge. On demanding material, compensation becomes harder because the text itself offers fewer shortcuts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/1529100615623267" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsSo Much to Read, So Little Time - Keith Rayner, Elizabeth...by K Rayner · 2016 · Cited by 519 — Another concern about apps...</span></span></span>
+RSVP removes or restricts many of these aids at once. On easy material, readers may compensate through prediction and prior knowledge. On demanding material, compensation becomes harder because the text itself offers fewer shortcuts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/1529100615623267" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsSo Much to Read, So Little Time - Keith Rayner, Elizabeth...by K Rayner · 2016 · Cited by 519 — Another concern about apps...</span></span></span>
 
-This pattern is reflected in broader critiques of commercial speed-reading systems. Researchers have argued that eliminating eye movements may remove mechanisms that contribute directly to comprehension rather than merely consuming time. As text complexity increases, those mechanisms become more valuable, not less. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/1529100615623267" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals+2TSW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsSo Much to Read, So Little Time - Keith Rayner, Elizabeth...by K Rayner · 2016 · Cited by 519 — Another concern about apps...</span></span></span>
+This pattern is reflected in broader critiques of commercial speed-reading systems. Researchers have argued that eliminating eye movements may remove mechanisms that contribute directly to comprehension rather than merely consuming time. As text complexity increases, those mechanisms become more valuable, not less.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/1529100615623267" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals+2TSW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsSo Much to Read, So Little Time - Keith Rayner, Elizabeth...by K Rayner · 2016 · Cited by 519 — Another concern about apps...</span></span></span>
 
 A practical consequence is that one-word displays can create an illusion of robust speed gains when tested on simple prose, while their weaknesses emerge on material that demands careful reasoning, integration and verification. Dense passages expose the hidden contribution of parafoveal preview because they reduce the reader's ability to rely on prediction alone.
 
@@ -393,245 +393,245 @@ A practical consequence is that one-word displays can create an illusion of robu
 
 For readers seeking greater speed, the key lesson is not that all acceleration techniques fail, but that difficult material changes the trade-off. When comprehension requirements are low, removing preview may seem relatively harmless. As vocabulary becomes specialised, sentences become denser and interpretation becomes more demanding, the costs rise.
 
-The very texts that professionals, students and researchers most need to understand accurately are often the texts that depend most heavily on advance visual information and flexible eye-movement control. In those situations, parafoveal preview is not merely a convenience. It is part of the mechanism that allows readers to maintain both speed and understanding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/1529100615623267" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals+2USF Faculty]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsSo Much to Read, So Little Time - Keith Rayner, Elizabeth...by K Rayner · 2016 · Cited by 519 — Another concern about apps...</span></span></span>
+The very texts that professionals, students and researchers most need to understand accurately are often the texts that depend most heavily on advance visual information and flexible eye-movement control. In those situations, parafoveal preview is not merely a convenience. It is part of the mechanism that allows readers to maintain both speed and understanding.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/1529100615623267" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals+2USF Faculty]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsSo Much to Read, So Little Time - Keith Rayner, Elizabeth...by K Rayner · 2016 · Cited by 519 — Another concern about apps...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5yddeRrd0hA" title="Can you keep up? Speed Reading and RSVP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5yddeRrd0hA" target="_blank" rel="noopener noreferrer">Can you keep up? Speed Reading and RSVP</a></p><p class="youtube-embed-meta">Channel: MindfulThinks</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5yddeRrd0hA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5yddeRrd0hA">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why hard passages expose RSVP limits. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why hard passages expose RSVP limits. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Proust+and+the+squid+%3A+the+story+and+science+of+the+reading+brain+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Proust and the squid : the story and science of the reading brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6370342-M.jpg" alt="Cover for Proust and the squid : the story and science of the reading brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Proust+and+the+squid+%3A+the+story+and+science+of+the+reading+brain+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Proust and the squid : the story and science of the reading brain">Proust and the squid : the story and science of the reading b...</a>
-        </h4>
-        <p class="fr-book-author">By Maryanne Wolf</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Proust+and+the+squid+%3A+the+story+and+science+of+the+reading+brain+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Proust and the squid : the story and science of the reading brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6370342-M.jpg" alt="Cover for Proust and the squid : the story and science of the reading brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Proust+and+the+squid+%3A+the+story+and+science+of+the+reading+brain+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Proust and the squid : the story and science of the reading brain">Proust and the squid : the story and science of the reading b...</a>
+</h4>
+<p class="fr-book-author">By Maryanne Wolf</p>
         
-        <p class="fr-book-desc">First published 2008. Subjects: Brain, Evolution, Neurophysiology, Reading comprehension, Reading.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Proust+and+the+squid+%3A+the+story+and+science+of+the+reading+brain+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2008. Subjects: Brain, Evolution, Neurophysiology, Reading comprehension, Reading.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Proust+and+the+squid+%3A+the+story+and+science+of+the+reading+brain+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Psychology+of+Reading+Keith+Rayner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Psychology of Reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4979530-M.jpg" alt="Cover for Psychology of Reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Psychology+of+Reading+Keith+Rayner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Psychology of Reading">Psychology of Reading</a>
-        </h4>
-        <p class="fr-book-author">By Keith Rayner, Alexander Pollatsek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Psychology+of+Reading+Keith+Rayner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Psychology of Reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4979530-M.jpg" alt="Cover for Psychology of Reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Psychology+of+Reading+Keith+Rayner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Psychology of Reading">Psychology of Reading</a>
+</h4>
+<p class="fr-book-author">By Keith Rayner, Alexander Pollatsek</p>
         
-        <p class="fr-book-desc">First published 1994. Subjects: Reading, physiological aspects, Psychology of Reading, Reading, Lezen, Psychologische aspecten.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Psychology+of+Reading+Keith+Rayner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1994. Subjects: Reading, physiological aspects, Psychology of Reading, Reading, Lezen, Psychologische aspecten.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Psychology+of+Reading+Keith+Rayner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Reader%2C+Come+Home+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reader, Come Home on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10170090-M.jpg" alt="Cover for Reader, Come Home" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Reader%2C+Come+Home+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reader, Come Home">Reader, Come Home</a>
-        </h4>
-        <p class="fr-book-author">By Maryanne Wolf</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Reader%2C+Come+Home+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reader, Come Home on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10170090-M.jpg" alt="Cover for Reader, Come Home" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Reader%2C+Come+Home+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reader, Come Home">Reader, Come Home</a>
+</h4>
+<p class="fr-book-author">By Maryanne Wolf</p>
         
-        <p class="fr-book-desc">First published 2018. Subjects: Books and reading, Technological innovations, Psychology of Reading, Psychological aspects, Reading compr...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Reader%2C+Come+Home+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2018. Subjects: Books and reading, Technological innovations, Psychology of Reading, Psychological aspects, Reading compr...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Reader%2C+Come+Home+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Eye+movements+in+reading+Keith+Rayner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Eye movements in reading on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Eye+movements+in+reading+Keith+Rayner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Eye movements in reading">Eye movements in reading</a>
-        </h4>
-        <p class="fr-book-author">By Keith Rayner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Eye+movements+in+reading+Keith+Rayner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Eye movements in reading on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Eye+movements+in+reading+Keith+Rayner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Eye movements in reading">Eye movements in reading</a>
+</h4>
+<p class="fr-book-author">By Keith Rayner</p>
         
-        <p class="fr-book-desc">First published 1983. Subjects: Congresses, Reading, Visual perception, Eye, Movements.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Eye+movements+in+reading+Keith+Rayner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1983. Subjects: Congresses, Reading, Visual perception, Eye, Movements.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Eye+movements+in+reading+Keith+Rayner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Proust+and+the+squid+%3A+the+story+and+science+of+the+reading+brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Proust and the squid : the story and science of the reading brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Psychology+of+Reading&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Psychology of Reading</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Reader%2C+Come+Home&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Reader, Come Home</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Proust+and+the+squid+%3A+the+story+and+science+of+the+reading+brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Proust and the squid : the story and science of the reading brain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Psychology+of+Reading&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Psychology of Reading</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Reader%2C+Come+Home&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Reader, Come Home</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCLexical and Post-Lexical Complexity Effects on Eye  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3097123/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3097123/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by T Warren · 2011 · Cited by 18 — The current study investigated how a post-lexical complexity manipulation followed by a lexical com...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3097123/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3097123/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by T Warren · 2011 · Cited by 18 — The current study investigated how a post-lexical complexity manipulation followed by a lexical com...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: tsw.it  
    Title: Rapid serial visual presentation in reading The case of Spritz 1  
-   Link: <a href="https://www.tsw.it/wp-content/uploads/Rapid-serial-visual-presentation-in-reading-The-case-of-Spritz-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.tsw.it/wp-content/uploads/Rapid-serial-visual-presentation-in-reading-The-case-of-Spritz-1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>rereadings of words) negatively affected literal comprehension. Furthermore, the...Read more...</p></details>
+   Link:<a href="https://www.tsw.it/wp-content/uploads/Rapid-serial-visual-presentation-in-reading-The-case-of-Spritz-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.tsw.it/wp-content/uploads/Rapid-serial-visual-presentation-in-reading-The-case-of-Spritz-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rereadings of words) negatively affected literal comprehension. Furthermore, the...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ora.ox.ac.uk  
-   Link: <a href="https://ora.ox.ac.uk/objects/uuid%3A731abe40-ee76-40ad-b9eb-a35264ef9d61/files/m43b7bd2799179650bd571955f1ed427d" target="_blank" rel="noopener noreferrer nofollow">https://ora.ox.ac.uk/objects/uuid%3A731abe40-ee76-40ad-b9eb-a35264ef9d61/files/m43b7bd2799179650bd571955f1ed427d</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>effects during reading in the absence of...by A Parker · 2017 · Cited by 50 — The lack of parafoveal preview may only be part of the eff...</p></details>
+   Link:<a href="https://ora.ox.ac.uk/objects/uuid%3A731abe40-ee76-40ad-b9eb-a35264ef9d61/files/m43b7bd2799179650bd571955f1ed427d" target="_blank" rel="noopener noreferrer nofollow">https://ora.ox.ac.uk/objects/uuid%3A731abe40-ee76-40ad-b9eb-a35264ef9d61/files/m43b7bd2799179650bd571955f1ed427d</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>effects during reading in the absence of...by A Parker · 2017 · Cited by 50 — The lack of parafoveal preview may only be part of the eff...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/287365707_Foveal_and_parafoveal_processing_during_reading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/287365707_Foveal_and_parafoveal_processing_during_reading</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Foveal and parafoveal processing during readingEye movement studies on foveal and parafoveal word processing in reading are r...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/287365707_Foveal_and_parafoveal_processing_during_reading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/287365707_Foveal_and_parafoveal_processing_during_reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Foveal and parafoveal processing during readingEye movement studies on foveal and parafoveal word processing in reading are r...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: dl.acm.org  
-   Link: <a href="https://dl.acm.org/doi/abs/10.1016/j.chb.2014.12.043" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/abs/10.1016/j.chb.2014.12.043</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spritz) on comprehension and visual...Read more...</p></details>
+   Link:<a href="https://dl.acm.org/doi/abs/10.1016/j.chb.2014.12.043" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/abs/10.1016/j.chb.2014.12.043</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spritz) on comprehension and visual...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/316499956_Modern_Speed-Reading_Apps_Do_Not_Foster_Reading_Comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/316499956_Modern_Speed-Reading_Apps_Do_Not_Foster_Reading_Comprehension</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Modern Speed-[Reading Apps](&amp;#123;&amp;#123; &#x27;reading-apps/&#x27; | relative_url &amp;#125;&amp;#125;) Do Not Foster...Instead, comprehension was most affected by reading speed: Static text was associated wi...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/316499956_Modern_Speed-Reading_Apps_Do_Not_Foster_Reading_Comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/316499956_Modern_Speed-Reading_Apps_Do_Not_Foster_Reading_Comprehension</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Modern Speed-[Reading Apps](&amp;#123;&amp;#123; &#x27;reading-apps/&#x27; | relative_url &amp;#125;&amp;#125;) Do Not Foster...Instead, comprehension was most affected by reading speed: Static text was associated wi...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3140553/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3140553/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>preview during reading: Effects of sentence positionby SJ White · 2011 · Cited by 22 — Two experiments examined parafoveal preview for wo...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3140553/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3140553/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>preview during reading: Effects of sentence positionby SJ White · 2011 · Cited by 22 — Two experiments examined parafoveal preview for wo...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: faculty.cas.usf.edu  
    Title: Schotter Tran Rayner 2014 PsychSci  
-   Link: <a href="https://faculty.cas.usf.edu/eschotter/papers/Schotter_Tran_Rayner_2014_PsychSci.pdf" target="_blank" rel="noopener noreferrer nofollow">https://faculty.cas.usf.edu/eschotter/papers/Schotter_Tran_Rayner_2014_PsychSci.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>USF FacultyPsychological Science-2014-Schotter-1218-26by ER Schotter · 2014 · Cited by 266 — These data suggest that regressions contribu...</p></details>
+   Link:<a href="https://faculty.cas.usf.edu/eschotter/papers/Schotter_Tran_Rayner_2014_PsychSci.pdf" target="_blank" rel="noopener noreferrer nofollow">https://faculty.cas.usf.edu/eschotter/papers/Schotter_Tran_Rayner_2014_PsychSci.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USF FacultyPsychological Science-2014-Schotter-1218-26by ER Schotter · 2014 · Cited by 266 — These data suggest that regressions contribu...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/261761989_Don%27t_Believe_What_You_Read_Only_Once_Comprehension_Is_Supported_by_Regressions_During_Reading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/261761989_Don%27t_Believe_What_You_Read_Only_Once_Comprehension_Is_Supported_by_Regressions_During_Reading</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Don&#x27;t Believe What You Read (Only Once)These data suggest that regressions contribute to the ability to understand what one has rea...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/261761989_Don%27t_Believe_What_You_Read_Only_Once_Comprehension_Is_Supported_by_Regressions_During_Reading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/261761989_Don%27t_Believe_What_You_Read_Only_Once_Comprehension_Is_Supported_by_Regressions_During_Reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Don&#x27;t Believe What You Read (Only Once)These data suggest that regressions contribute to the ability to understand what one has rea...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
    Title: 316539516 Parafoveal preview effects in reading unspaced text  
-   Link: <a href="https://www.researchgate.net/publication/316539516_Parafoveal_preview_effects_in_reading_unspaced_text" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/316539516_Parafoveal_preview_effects_in_reading_unspaced_text</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Parafoveal Preview Effects in Reading Unspaced TextIn an eye tracking experiment, we examined the impact of removing spaces on parafoveal...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/316539516_Parafoveal_preview_effects_in_reading_unspaced_text" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/316539516_Parafoveal_preview_effects_in_reading_unspaced_text</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Parafoveal Preview Effects in Reading Unspaced TextIn an eye tracking experiment, we examined the impact of removing spaces on parafoveal...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/1529100615623267" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1529100615623267</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsSo Much to Read, So Little Time - Keith Rayner, Elizabeth...by K Rayner · 2016 · Cited by 519 — Another concern about apps...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/1529100615623267" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1529100615623267</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsSo Much to Read, So Little Time - Keith Rayner, Elizabeth...by K Rayner · 2016 · Cited by 519 — Another concern about apps...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: eprints.gla.ac.uk  
    Title: Enlighten Publications Parafoveal preview benefits magnified  
-   Link: <a href="https://eprints.gla.ac.uk/354723/1/354723.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.gla.ac.uk/354723/1/354723.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Enlighten PublicationsParafoveal preview benefits magnifiedApril 24, 2025 — by B Yao · 2025 · Cited by 2 — This study investigated the im...</p></details>
+   Link:<a href="https://eprints.gla.ac.uk/354723/1/354723.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.gla.ac.uk/354723/1/354723.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enlighten PublicationsParafoveal preview benefits magnifiedApril 24, 2025 — by B Yao · 2025 · Cited by 2 — This study investigated the im...</p></details>
    Published: April 24, 2025  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: elifesciences.org  
-   Link: <a href="https://elifesciences.org/reviewed-preprints/91327v2/pdf" target="_blank" rel="noopener noreferrer nofollow">https://elifesciences.org/reviewed-preprints/91327v2/pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Early parafoveal semantic integration in natural readingby Y Pan · 2024 · Cited by 22 — We investigated parafoveal processing during natu...</p></details>
+   Link:<a href="https://elifesciences.org/reviewed-preprints/91327v2/pdf" target="_blank" rel="noopener noreferrer nofollow">https://elifesciences.org/reviewed-preprints/91327v2/pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Early parafoveal semantic integration in natural readingby Y Pan · 2024 · Cited by 22 — We investigated parafoveal processing during natu...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8590178/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8590178/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>comparison of reading, in people with simulated and actual...by F Akthar · 2021 · Cited by 11 — Comprehension was better overall with sc...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8590178/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8590178/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>comparison of reading, in people with simulated and actual...by F Akthar · 2021 · Cited by 11 — Comprehension was better overall with sc...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pure.mpg.de  
-   Link: <a href="https://pure.mpg.de/rest/items/item_2567078_1/component/file_2567077/content" target="_blank" rel="noopener noreferrer nofollow">https://pure.mpg.de/rest/items/item_2567078_1/component/file_2567077/content</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Subjective data indicate that Traditional...Read mo...</p></details>
+   Link:<a href="https://pure.mpg.de/rest/items/item_2567078_1/component/file_2567077/content" target="_blank" rel="noopener noreferrer nofollow">https://pure.mpg.de/rest/items/item_2567078_1/component/file_2567077/content</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Subjective data indicate that Traditional...Read mo...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: doi.org  
-   Link: <a href="https://doi.org/10.1037/xhp0000441?urlappend=%3Futm_source%3Dresearchgate.net%26utm_medium%3Darticle" target="_blank" rel="noopener noreferrer nofollow">https://doi.org/10.1037/xhp0000441?urlappend=%3Futm_source%3Dresearchgate.net%26utm_medium%3Darticle</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>get word observed when the preview was the correct target word compared...</p></details>
+   Link:<a href="https://doi.org/10.1037/xhp0000441?urlappend=%3Futm_source%3Dresearchgate.net%26utm_medium%3Darticle" target="_blank" rel="noopener noreferrer nofollow">https://doi.org/10.1037/xhp0000441?urlappend=%3Futm_source%3Dresearchgate.net%26utm_medium%3Darticle</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>get word observed when the preview was the correct target word compared...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Rapid serial visual presentation  
-   Link: <a href="https://en.wikipedia.org/wiki/Rapid_serial_visual_presentation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rapid_serial_visual_presentation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rapid serial visual presentationRapid serial visual presentation (RSVP) is a scientific method for studying the timing of vision. In R...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Rapid_serial_visual_presentation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rapid_serial_visual_presentation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rapid serial visual presentationRapid serial visual presentation (RSVP) is a scientific method for studying the timing of vision. In R...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: sr-research.com  
-   Link: <a href="https://www.sr-research.com/reading-language-publications/" target="_blank" rel="noopener noreferrer nofollow">https://www.sr-research.com/reading-language-publications/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading and Language Eye-Tracking PublicationsComprehensive list of reading and language research peer-reviewed journal article publicati...</p></details>
+   Link:<a href="https://www.sr-research.com/reading-language-publications/" target="_blank" rel="noopener noreferrer nofollow">https://www.sr-research.com/reading-language-publications/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading and Language Eye-Tracking PublicationsComprehensive list of reading and language research peer-reviewed journal article publicati...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: eprints.soton.ac.uk  
    Title: Movements and Fixation-Related Potentials. Journal of Experimental Psychology  
-   Link: <a href="https://eprints.soton.ac.uk/454168/1/Drieghe_Chan_Seem_in_press_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.soton.ac.uk/454168/1/Drieghe_Chan_Seem_in_press_.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>processing of repeated words during readingby D Drieghe · 2022 · Cited by 14 — Parafoveal Previews and Lexical Frequency in Natural Readi...</p></details>
+   Link:<a href="https://eprints.soton.ac.uk/454168/1/Drieghe_Chan_Seem_in_press_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.soton.ac.uk/454168/1/Drieghe_Chan_Seem_in_press_.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>processing of repeated words during readingby D Drieghe · 2022 · Cited by 14 — Parafoveal Previews and Lexical Frequency in Natural Readi...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ferreiralab.faculty.ucdavis.edu  
    Title: Henderson Ferreira 1993 FovealProcessingDifficulty Canadian J of Exp Psych  
-   Link: <a href="https://ferreiralab.faculty.ucdavis.edu/wp-content/uploads/sites/222/2015/05/Henderson-Ferreira-1993_FovealProcessingDifficulty_Canadian-J-of-Exp-Psych.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ferreiralab.faculty.ucdavis.edu/wp-content/uploads/sites/222/2015/05/Henderson-Ferreira-1993_FovealProcessingDifficulty_Canadian-J-of-Exp-Psych.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Movement Control During Reading: Fixation Measures...by JM HENDERSON · 1993 · Cited by 219 — Abstract The main [purpose](&amp;#123;&amp;#123; &#x27;purpose/&#x27; | relative_url &amp;#125;&amp;#125;) of this study was...</p></details>
+   Link:<a href="https://ferreiralab.faculty.ucdavis.edu/wp-content/uploads/sites/222/2015/05/Henderson-Ferreira-1993_FovealProcessingDifficulty_Canadian-J-of-Exp-Psych.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ferreiralab.faculty.ucdavis.edu/wp-content/uploads/sites/222/2015/05/Henderson-Ferreira-1993_FovealProcessingDifficulty_Canadian-J-of-Exp-Psych.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Movement Control During Reading: Fixation Measures...by JM HENDERSON · 1993 · Cited by 219 — Abstract The main [purpose](&amp;#123;&amp;#123; &#x27;purpose/&#x27; | relative_url &amp;#125;&amp;#125;) of this study was...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: clok.uclan.ac.uk  
    Title: Lack of semantic parafoveal preview benefit in reading revisited  
-   Link: <a href="https://clok.uclan.ac.uk/26495/1/26495%20RaynerJML_July_23_CLEAN_FinalText.pdf" target="_blank" rel="noopener noreferrer nofollow">https://clok.uclan.ac.uk/26495/1/26495%20RaynerJML_July_23_CLEAN_FinalText.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eye movements in reading and information processingby C Jr Clifton · 2016 · Cited by 360 — Semantic preview benefit in eye movements duri...</p></details>
+   Link:<a href="https://clok.uclan.ac.uk/26495/1/26495%20RaynerJML_July_23_CLEAN_FinalText.pdf" target="_blank" rel="noopener noreferrer nofollow">https://clok.uclan.ac.uk/26495/1/26495%20RaynerJML_July_23_CLEAN_FinalText.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eye movements in reading and information processingby C Jr Clifton · 2016 · Cited by 360 — Semantic preview benefit in eye movements duri...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/journals/studies-in-second-language-acquisition/article/modeling-effects-of-linguistic-complexity-on-l2-processing-effort-the-case-of-eye-movement-in-text-reading/4A1B056E69EA1469AE33E1C96DC250D7" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/studies-in-second-language-acquisition/article/modeling-effects-of-linguistic-complexity-on-l2-processing-effort-the-case-of-eye-movement-in-text-reading/4A1B056E69EA1469AE33E1C96DC250D7</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentModeling effects of linguistic complexity on L2 processing...by X Zhang · 2024 · Cited by 17 — Th...</p></details>
+   Link:<a href="https://www.cambridge.org/core/journals/studies-in-second-language-acquisition/article/modeling-effects-of-linguistic-complexity-on-l2-processing-effort-the-case-of-eye-movement-in-text-reading/4A1B056E69EA1469AE33E1C96DC250D7" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/studies-in-second-language-acquisition/article/modeling-effects-of-linguistic-complexity-on-l2-processing-effort-the-case-of-eye-movement-in-text-reading/4A1B056E69EA1469AE33E1C96DC250D7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentModeling effects of linguistic complexity on L2 processing...by X Zhang · 2024 · Cited by 17 — Th...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=YAlifBqOaU0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YAlifBqOaU0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 16 – Eye-Movement Control in Reading #psycholinguistics...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=YAlifBqOaU0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YAlifBqOaU0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 16 – Eye-Movement Control in Reading #psycholinguistics...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: Can you keep up? Speed Reading and RSVP  
-   Link: <a href="https://www.youtube.com/watch?v=5yddeRrd0hA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5yddeRrd0hA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Fast Can You Read? - Speed Reading Challenge - YouTube How Fast Can You Read? - Speed Reading Challenge - YouTube...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5yddeRrd0hA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5yddeRrd0hA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Fast Can You Read? - Speed Reading Challenge - YouTube How Fast Can You Read? - Speed Reading Challenge - YouTube...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: Neural evidence for lexical parafoveal processing  
-   Link: <a href="https://www.youtube.com/watch?v=215x5NysGLE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=215x5NysGLE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Webinar - Implementing the Invisible Boundary Crossing Paradigm in Experiment Builder...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=215x5NysGLE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=215x5NysGLE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Webinar - Implementing the Invisible Boundary Crossing Paradigm in Experiment Builder...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: jov.arvojournals.org  
-   Link: <a href="https://jov.arvojournals.org/article.aspx?articleid=2811512" target="_blank" rel="noopener noreferrer nofollow">https://jov.arvojournals.org/article.aspx?articleid=2811512</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>preview differentially modulates word frequency...by SC Sereno · 2026 — We explored the simultaneous effects of word frequency (lower, h...</p></details>
+   Link:<a href="https://jov.arvojournals.org/article.aspx?articleid=2811512" target="_blank" rel="noopener noreferrer nofollow">https://jov.arvojournals.org/article.aspx?articleid=2811512</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>preview differentially modulates word frequency...by SC Sereno · 2026 — We explored the simultaneous effects of word frequency (lower, h...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: figshare.le.ac.uk  
-   Link: <a href="https://figshare.le.ac.uk/articles/journal_contribution/Effects_of_Word_Predictability_on_Eye_Movements_during_Arabic_Reading/16553418/2/files/37373233.pdf" target="_blank" rel="noopener noreferrer nofollow">https://figshare.le.ac.uk/articles/journal_contribution/Effects_of_Word_Predictability_on_Eye_Movements_during_Arabic_Reading/16553418/2/files/37373233.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of word predictability on eye movements during...by AJ Maryam · 2022 — Readers therefore might not benefit from a parafoveal preview of...</p></details>
+   Link:<a href="https://figshare.le.ac.uk/articles/journal_contribution/Effects_of_Word_Predictability_on_Eye_Movements_during_Arabic_Reading/16553418/2/files/37373233.pdf" target="_blank" rel="noopener noreferrer nofollow">https://figshare.le.ac.uk/articles/journal_contribution/Effects_of_Word_Predictability_on_Eye_Movements_during_Arabic_Reading/16553418/2/files/37373233.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of word predictability on eye movements during...by AJ Maryam · 2022 — Readers therefore might not benefit from a parafoveal preview of...</p></details>

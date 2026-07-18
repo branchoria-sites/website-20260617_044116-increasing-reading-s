@@ -269,7 +269,7 @@ image: /assets/images/increasing_re_852ca6_purpose_based_25e5d2_contract_hidd_52
 
 ## Introduction
 
-When reading contracts for speed, auto-renewal clauses deserve far more attention than their length suggests. A contract that appears to last for one year, six months, or the duration of a project may continue automatically unless a party acts within a specific notice window. In [practice]({{ 'practice/' | relative_url }}), many costly contract surprises arise not from pricing or service levels but from missed deadlines, overlooked renewal terms, or cancellation procedures hidden in routine language. Auto-renewal provisions are common in software subscriptions, maintenance agreements, telecommunications services, professional memberships, facilities contracts, and many business-to-business arrangements. Regulators in several jurisdictions have increasingly focused on these provisions because consumers and businesses often discover the renewal only after another billing cycle or contractual commitment has begun. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.whitecase.com/insight-alert/click-cancel-uks-new-subscription-contract-regime" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whitecase.com">[White &amp; Case+2Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whitecase.com</span><span class="citation-popover-snippet">White &amp; CaseClick to cancel: The UK&#x27;s new subscription contract regime7 days ago — The new rules will introduce &quot;renewal&quot; cooling off per...</span></span></span>
+When reading contracts for speed, auto-renewal clauses deserve far more attention than their length suggests. A contract that appears to last for one year, six months, or the duration of a project may continue automatically unless a party acts within a specific notice window. In [practice]({{ 'practice/' | relative_url }}), many costly contract surprises arise not from pricing or service levels but from missed deadlines, overlooked renewal terms, or cancellation procedures hidden in routine language. Auto-renewal provisions are common in software subscriptions, maintenance agreements, telecommunications services, professional memberships, facilities contracts, and many business-to-business arrangements. Regulators in several jurisdictions have increasingly focused on these provisions because consumers and businesses often discover the renewal only after another billing cycle or contractual commitment has begun.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.whitecase.com/insight-alert/click-cancel-uks-new-subscription-contract-regime" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whitecase.com">[White &amp; Case+2Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whitecase.com</span><span class="citation-popover-snippet">White &amp; CaseClick to cancel: The UK&#x27;s new subscription contract regime7 days ago — The new rules will introduce &quot;renewal&quot; cooling off per...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_purpose_based_25e5d2_contract_hidd_523e05_auto_renewal_37d52b-Illustration-1-dark.svg" | relative_url }}" alt="Auto renewals illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_purpose_based_25e5d2_contract_hidd_523e05_auto_renewal_37d52b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_purpose_based_25e5d2_contract_hidd_523e05_auto_renewal_37d52b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -277,7 +277,7 @@ For a fast contract review, one of the highest-value questions is simple: “Exa
 
 ## Initial term, renewal term, and notice window
 
-An auto-renewal clause usually contains three separate timing elements: <span class="citation-chip-wrap"><a class="citation-chip" href="https://legalvision.co.uk/uncategorised/automatic-renewal-clause-contract/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legalvision.co.uk">[legalvision.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legalvision.co.uk</span><span class="citation-popover-title">automatic renewal clause contract</span><span class="citation-popover-snippet">LegalVision UKWhat Is an Automatic Renewal Clause in a Contract?8 Aug 2024 — An automatic renewal clause is a term within a contract that...</span></span></span>
+An auto-renewal clause usually contains three separate timing elements:<span class="citation-chip-wrap"><a class="citation-chip" href="https://legalvision.co.uk/uncategorised/automatic-renewal-clause-contract/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legalvision.co.uk">[legalvision.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legalvision.co.uk</span><span class="citation-popover-title">automatic renewal clause contract</span><span class="citation-popover-snippet">LegalVision UKWhat Is an Automatic Renewal Clause in a Contract?8 Aug 2024 — An automatic renewal clause is a term within a contract that...</span></span></span>
 
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
@@ -290,16 +290,16 @@ An auto-renewal clause usually contains three separate timing elements: <span cl
 
 Readers often identify the first element and miss the other two.
 
-A contract might state that the initial term is twelve months. Many readers stop there and assume the agreement ends after a year. The more important question is what happens on day 366. An auto-renewal provision may extend the contract automatically for another year, another month, or even multiple years unless notice is given before a specified deadline. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://legalvision.co.uk/uncategorised/automatic-renewal-clause-contract/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legalvision.co.uk">[LegalVision UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legalvision.co.uk</span><span class="citation-popover-title">automatic renewal clause contract</span><span class="citation-popover-snippet">LegalVision UKWhat Is an Automatic Renewal Clause in a Contract?8 Aug 2024 — An automatic renewal clause is a term within a contract that...</span></span></span>
+A contract might state that the initial term is twelve months. Many readers stop there and assume the agreement ends after a year. The more important question is what happens on day 366. An auto-renewal provision may extend the contract automatically for another year, another month, or even multiple years unless notice is given before a specified deadline.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://legalvision.co.uk/uncategorised/automatic-renewal-clause-contract/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legalvision.co.uk">[LegalVision UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legalvision.co.uk</span><span class="citation-popover-title">automatic renewal clause contract</span><span class="citation-popover-snippet">LegalVision UKWhat Is an Automatic Renewal Clause in a Contract?8 Aug 2024 — An automatic renewal clause is a term within a contract that...</span></span></span>
 
 Consider a common pattern:
 
-* Initial term: 12 months. <span class="citation-chip-wrap"><a class="citation-chip" href="https://legalvision.co.uk/uncategorised/automatic-renewal-clause-contract/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legalvision.co.uk">[legalvision.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legalvision.co.uk</span><span class="citation-popover-title">automatic renewal clause contract</span><span class="citation-popover-snippet">LegalVision UKWhat Is an Automatic Renewal Clause in a Contract?8 Aug 2024 — An automatic renewal clause is a term within a contract that...</span></span></span> * Renewal term: 12 months. <span class="citation-chip-wrap"><a class="citation-chip" href="https://legalvision.co.uk/uncategorised/automatic-renewal-clause-contract/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legalvision.co.uk">[legalvision.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legalvision.co.uk</span><span class="citation-popover-title">automatic renewal clause contract</span><span class="citation-popover-snippet">LegalVision UKWhat Is an Automatic Renewal Clause in a Contract?8 Aug 2024 — An automatic renewal clause is a term within a contract that...</span></span></span>
+* Initial term: 12 months.<span class="citation-chip-wrap"><a class="citation-chip" href="https://legalvision.co.uk/uncategorised/automatic-renewal-clause-contract/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legalvision.co.uk">[legalvision.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legalvision.co.uk</span><span class="citation-popover-title">automatic renewal clause contract</span><span class="citation-popover-snippet">LegalVision UKWhat Is an Automatic Renewal Clause in a Contract?8 Aug 2024 — An automatic renewal clause is a term within a contract that...</span></span></span> * Renewal term: 12 months.<span class="citation-chip-wrap"><a class="citation-chip" href="https://legalvision.co.uk/uncategorised/automatic-renewal-clause-contract/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legalvision.co.uk">[legalvision.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legalvision.co.uk</span><span class="citation-popover-title">automatic renewal clause contract</span><span class="citation-popover-snippet">LegalVision UKWhat Is an Automatic Renewal Clause in a Contract?8 Aug 2024 — An automatic renewal clause is a term within a contract that...</span></span></span>
 * Notice required: 60 days before expiry.
 
 In that structure, the practical cancellation deadline is not the final day of the contract. It is approximately ten months into the first year. Missing the notice window by a single day can trigger an entire additional term.
 
-This [timing]({{ 'timing/' | relative_url }}) issue explains why renewal clauses often create disputes. The commercial impact comes from the interaction of multiple dates rather than from the existence of renewal itself. Courts and lawyers frequently focus on the precise wording of renewal provisions because a few words can determine whether a contract continues or expires. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://uk.practicallaw.thomsonreuters.com/6-622-5967?contextData=%28sc.Default%29&amp;transitionType=Default" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uk.practicallaw.thomsonreuters.com">[Practical Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uk.practicallaw.thomsonreuters.com</span><span class="citation-popover-title">It also contains practical tips parties</span><span class="citation-popover-snippet">Practical LawContract Renewals No Simple Matter: Recent Court Cases of...3 Feb 2016 — This Legal Update summarizes two recent court deci...</span></span></span>
+This [timing]({{ 'timing/' | relative_url }}) issue explains why renewal clauses often create disputes. The commercial impact comes from the interaction of multiple dates rather than from the existence of renewal itself. Courts and lawyers frequently focus on the precise wording of renewal provisions because a few words can determine whether a contract continues or expires.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://uk.practicallaw.thomsonreuters.com/6-622-5967?contextData=%28sc.Default%29&amp;transitionType=Default" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uk.practicallaw.thomsonreuters.com">[Practical Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uk.practicallaw.thomsonreuters.com</span><span class="citation-popover-title">It also contains practical tips parties</span><span class="citation-popover-snippet">Practical LawContract Renewals No Simple Matter: Recent Court Cases of...3 Feb 2016 — This Legal Update summarizes two recent court deci...</span></span></span>
 
 ### Why the notice window is easy to miss
 
@@ -311,7 +311,7 @@ Several drafting practices make notice periods difficult to spot:
 * The clause appears near the end of the agreement.
 * The renewal language is embedded in a termination section.
 * The notice period is expressed as a minimum rather than a fixed date.
-* The renewal term differs from the initial term. <span class="citation-chip-wrap"><a class="citation-chip" href="https://legalvision.co.uk/uncategorised/automatic-renewal-clause-contract/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legalvision.co.uk">[legalvision.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legalvision.co.uk</span><span class="citation-popover-title">automatic renewal clause contract</span><span class="citation-popover-snippet">LegalVision UKWhat Is an Automatic Renewal Clause in a Contract?8 Aug 2024 — An automatic renewal clause is a term within a contract that...</span></span></span>
+* The renewal term differs from the initial term.<span class="citation-chip-wrap"><a class="citation-chip" href="https://legalvision.co.uk/uncategorised/automatic-renewal-clause-contract/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legalvision.co.uk">[legalvision.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legalvision.co.uk</span><span class="citation-popover-title">automatic renewal clause contract</span><span class="citation-popover-snippet">LegalVision UKWhat Is an Automatic Renewal Clause in a Contract?8 Aug 2024 — An automatic renewal clause is a term within a contract that...</span></span></span>
 * Cross-references send the reader to another section.
 
 </div>
@@ -342,7 +342,7 @@ The practical risk is that a party may communicate its intention to leave but fa
 
 For example, a customer might tell an account manager during a meeting that the service will not be renewed. If the contract requires formal written notice to a legal or contract-administration address, that conversation may not satisfy the contractual requirement.
 
-Regulators increasingly scrutinise situations in which cancellation procedures are significantly harder than sign-up procedures. Recent subscription-law reforms and enforcement initiatives have focused on making cancellation mechanisms more transparent and accessible, particularly where recurring payments and automatic renewals are involved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/news-events/news/press-releases/2024/10/federal-trade-commission-announces-final-click-cancel-rule-making-it-easier-consumers-end-recurring" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission+2Wiley Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Federal Trade CommissionFederal Trade Commission Announces Final “Click-to-...16 Oct 2024 — Federal Trade Commission Announces Final “Cl...</span></span></span>
+Regulators increasingly scrutinise situations in which cancellation procedures are significantly harder than sign-up procedures. Recent subscription-law reforms and enforcement initiatives have focused on making cancellation mechanisms more transparent and accessible, particularly where recurring payments and automatic renewals are involved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ftc.gov/news-events/news/press-releases/2024/10/federal-trade-commission-announces-final-click-cancel-rule-making-it-easier-consumers-end-recurring" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission+2Wiley Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Federal Trade CommissionFederal Trade Commission Announces Final “Click-to-...16 Oct 2024 — Federal Trade Commission Announces Final “Cl...</span></span></span>
 
 The reason is straightforward: a cancellation right has limited practical value if the required process is difficult to find, difficult to complete, or disclosed only after the customer is committed.
 
@@ -365,7 +365,7 @@ The consequences of late notice vary by contract, but common outcomes include:
 
 A missed notice deadline can therefore transform what appears to be a short-term commitment into a much longer commercial obligation.
 
-Some disputes arise because parties assume a reminder will be provided before renewal. Unless the contract or applicable law requires a reminder, relying on one can be risky. The safer approach is to identify contractual dates independently and track them from the moment the agreement is signed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jpcreditsolutions.co.uk/resources/blog/are-auto-renewal-clauses-enforceable/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jpcreditsolutions.co.uk">[jpcreditsolutions.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jpcreditsolutions.co.uk</span><span class="citation-popover-title">are auto renewal clauses enforceable</span><span class="citation-popover-snippet">Are Auto-Renewal Clauses Enforceable?15 Mar 2022 — However, the auto-renewal of the contract can be avoided if you provide the supplier c...</span></span></span>
+Some disputes arise because parties assume a reminder will be provided before renewal. Unless the contract or applicable law requires a reminder, relying on one can be risky. The safer approach is to identify contractual dates independently and track them from the moment the agreement is signed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jpcreditsolutions.co.uk/resources/blog/are-auto-renewal-clauses-enforceable/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jpcreditsolutions.co.uk">[jpcreditsolutions.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jpcreditsolutions.co.uk</span><span class="citation-popover-title">are auto renewal clauses enforceable</span><span class="citation-popover-snippet">Are Auto-Renewal Clauses Enforceable?15 Mar 2022 — However, the auto-renewal of the contract can be avoided if you provide the supplier c...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/R9gsQlpyU_o" title="Vestis Cancel Automatic Contract Renewal Letter - Evergreen Clause" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=R9gsQlpyU_o" target="_blank" rel="noopener noreferrer">Vestis Cancel Automatic Contract Renewal Letter - Evergreen Clause</a></p><p class="youtube-embed-meta">Channel: Uniform Bright</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=R9gsQlpyU_o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=R9gsQlpyU_o">Open on YouTube</a></p></div></div></div>
@@ -425,183 +425,183 @@ A contract that renews monthly after an annual term presents a very different ri
 
 The key lesson is that renewal risk is usually a timing problem rather than a legal-complexity problem. A reader can skim many operational provisions without immediate danger, but overlooking a renewal clause can create obligations that last months or years beyond what was expected.
 
-Recent regulatory attention to subscription contracts reflects a broader recognition that consumers and businesses often underestimate these timing mechanics. Rules and proposed reforms in the United Kingdom and enforcement initiatives in the United States have increasingly focused on transparency, renewal disclosures, cooling-off protections, and straightforward cancellation mechanisms. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.whitecase.com/insight-alert/click-cancel-uks-new-subscription-contract-regime" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whitecase.com">[Reuters+3White &amp; Case+3GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whitecase.com</span><span class="citation-popover-snippet">White &amp; CaseClick to cancel: The UK&#x27;s new subscription contract regime7 days ago — The new rules will introduce &quot;renewal&quot; cooling off per...</span></span></span>
+Recent regulatory attention to subscription contracts reflects a broader recognition that consumers and businesses often underestimate these timing mechanics. Rules and proposed reforms in the United Kingdom and enforcement initiatives in the United States have increasingly focused on transparency, renewal disclosures, cooling-off protections, and straightforward cancellation mechanisms.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.whitecase.com/insight-alert/click-cancel-uks-new-subscription-contract-regime" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whitecase.com">[Reuters+3White &amp; Case+3GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whitecase.com</span><span class="citation-popover-snippet">White &amp; CaseClick to cancel: The UK&#x27;s new subscription contract regime7 days ago — The new rules will introduce &quot;renewal&quot; cooling off per...</span></span></span>
 
 For anyone trying to increase contract-reading speed, the most efficient habit is not reading every sentence more slowly. It is identifying the handful of clauses where a missed date can outweigh dozens of pages of routine terms. Auto-renewal provisions are among the clearest examples. A two-paragraph renewal clause can have greater financial impact than an entire section describing the service itself.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When a contract renews before you notice. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When a contract renews before you notice. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Directly addresses different reading goals and speeds.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Directly addresses different reading goals and speeds.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Manual+of+Style+for+Contract+Drafting+Kenneth+A.+Adams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Manual of Style for Contract Drafting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/859826-M.jpg" alt="Cover for A Manual of Style for Contract Drafting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Manual+of+Style+for+Contract+Drafting+Kenneth+A.+Adams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Manual of Style for Contract Drafting">A Manual of Style for Contract Drafting</a>
-        </h4>
-        <p class="fr-book-author">By Kenneth A. Adams</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Manual+of+Style+for+Contract+Drafting+Kenneth+A.+Adams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Manual of Style for Contract Drafting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/859826-M.jpg" alt="Cover for A Manual of Style for Contract Drafting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Manual+of+Style+for+Contract+Drafting+Kenneth+A.+Adams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Manual of Style for Contract Drafting">A Manual of Style for Contract Drafting</a>
+</h4>
+<p class="fr-book-author">By Kenneth A. Adams</p>
         
-        <p class="fr-book-desc">First published 2005. Subjects: Contracts, Legal composition, Language, Contracts, united states, Interpretation and construction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Manual+of+Style+for+Contract+Drafting+Kenneth+A.+Adams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2005. Subjects: Contracts, Legal composition, Language, Contracts, united states, Interpretation and construction.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Manual+of+Style+for+Contract+Drafting+Kenneth+A.+Adams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Breakthrough rapid reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/84360-M.jpg" alt="Cover for Breakthrough rapid reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breakthrough rapid reading">Breakthrough rapid reading</a>
-        </h4>
-        <p class="fr-book-author">By Peter Kump</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Breakthrough rapid reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/84360-M.jpg" alt="Cover for Breakthrough rapid reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breakthrough rapid reading">Breakthrough rapid reading</a>
+</h4>
+<p class="fr-book-author">By Peter Kump</p>
         
-        <p class="fr-book-desc">First published 1979. Subjects: Speed reading, Rapid reading, Du shu fang fa.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1979. Subjects: Speed reading, Rapid reading, Du shu fang fa.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Working+with+contracts+Charles+M.+Fox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Working with contracts on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/751372-M.jpg" alt="Cover for Working with contracts" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Working+with+contracts+Charles+M.+Fox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Working with contracts">Working with contracts</a>
-        </h4>
-        <p class="fr-book-author">By Charles M. Fox</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Working+with+contracts+Charles+M.+Fox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Working with contracts on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/751372-M.jpg" alt="Cover for Working with contracts" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Working+with+contracts+Charles+M.+Fox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Working with contracts">Working with contracts</a>
+</h4>
+<p class="fr-book-author">By Charles M. Fox</p>
         
-        <p class="fr-book-desc">First published 2002. Subjects: Contracts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Working+with+contracts+Charles+M.+Fox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2002. Subjects: Contracts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Working+with+contracts+Charles+M.+Fox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Manual+of+Style+for+Contract+Drafting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Manual of Style for Contract Drafting</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Breakthrough rapid reading</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Manual+of+Style+for+Contract+Drafting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Manual of Style for Contract Drafting</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Breakthrough rapid reading</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=auto-renewals-when-a-contract-renews-before-you-notice-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="auto-renewals-when-a-contract-renews-before-you-notice-increasing-document-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 13 Pockets A4 Expanding File Document Organiser Multicolour Foolscap Folder"><img src="{{ '/assets/images/marketplace-covers/f9be1abb56b39fc2313d.jpg' | relative_url }}" alt="Listing image for 13 Pockets A4 Expanding File Document Organiser Multicolour Foolscap Folder" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=auto-renewals-when-a-contract-renews-before-you-notice-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="auto-renewals-when-a-contract-renews-before-you-notice-increasing-document-organizer" target="_blank" rel="sponsored noopener noreferrer">13 Pockets A4 Expanding File Document Organiser Multicolour Foolscap Folder</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=auto-renewals-when-a-contract-renews-before-you-notice-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="auto-renewals-when-a-contract-renews-before-you-notice-increasing-document-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for document organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: document organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=auto-renewals-when-a-contract-renews-before-you-notice-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="auto-renewals-when-a-contract-renews-before-you-notice-increasing-document-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=auto-renewals-when-a-contract-renews-before-you-notice-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="auto-renewals-when-a-contract-renews-before-you-notice-increasing-document-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 13 Pockets A4 Expanding File Document Organiser Multicolour Foolscap Folder"><img src="{{ '/assets/images/marketplace-covers/f9be1abb56b39fc2313d.jpg' | relative_url }}" alt="Listing image for 13 Pockets A4 Expanding File Document Organiser Multicolour Foolscap Folder" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=auto-renewals-when-a-contract-renews-before-you-notice-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="auto-renewals-when-a-contract-renews-before-you-notice-increasing-document-organizer" target="_blank" rel="sponsored noopener noreferrer">13 Pockets A4 Expanding File Document Organiser Multicolour Foolscap Folder</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=auto-renewals-when-a-contract-renews-before-you-notice-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="auto-renewals-when-a-contract-renews-before-you-notice-increasing-document-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for document organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: document organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=auto-renewals-when-a-contract-renews-before-you-notice-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="auto-renewals-when-a-contract-renews-before-you-notice-increasing-document-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=auto-renewals-when-a-contract-renews-before-you-notice-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="auto-renewals-when-a-contract-renews-before-you-notice-increasing-document-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Life Book Document Organizer In Case I Go Missing Binder Folio File Folder"><img src="{{ '/assets/images/marketplace-covers/dd46836add13c87a3844.jpg' | relative_url }}" alt="Listing image for The Life Book Document Organizer In Case I Go Missing Binder Folio File Folder" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=auto-renewals-when-a-contract-renews-before-you-notice-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="auto-renewals-when-a-contract-renews-before-you-notice-increasing-document-organizer" target="_blank" rel="sponsored noopener noreferrer">The Life Book Document Organizer In Case I Go Missing Binder Folio File Folder</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=auto-renewals-when-a-contract-renews-before-you-notice-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="auto-renewals-when-a-contract-renews-before-you-notice-increasing-document-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for document organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: document organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=auto-renewals-when-a-contract-renews-before-you-notice-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="auto-renewals-when-a-contract-renews-before-you-notice-increasing-document-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=auto-renewals-when-a-contract-renews-before-you-notice-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="auto-renewals-when-a-contract-renews-before-you-notice-increasing-document-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Life Book Document Organizer In Case I Go Missing Binder Folio File Folder"><img src="{{ '/assets/images/marketplace-covers/dd46836add13c87a3844.jpg' | relative_url }}" alt="Listing image for The Life Book Document Organizer In Case I Go Missing Binder Folio File Folder" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=auto-renewals-when-a-contract-renews-before-you-notice-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="auto-renewals-when-a-contract-renews-before-you-notice-increasing-document-organizer" target="_blank" rel="sponsored noopener noreferrer">The Life Book Document Organizer In Case I Go Missing Binder Folio File Folder</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=auto-renewals-when-a-contract-renews-before-you-notice-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="auto-renewals-when-a-contract-renews-before-you-notice-increasing-document-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for document organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: document organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=auto-renewals-when-a-contract-renews-before-you-notice-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="auto-renewals-when-a-contract-renews-before-you-notice-increasing-document-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=auto-renewals-when-a-contract-renews-before-you-notice-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="auto-renewals-when-a-contract-renews-before-you-notice-increasing-document-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 FILE DIVIDERS (1-20) DOCUMENT FILING FOLDER SUBJECT ORGANISER INSERTS ANY QTY"><img src="{{ '/assets/images/marketplace-covers/3658e87f5922f026cc76.jpg' | relative_url }}" alt="Listing image for A4 FILE DIVIDERS (1-20) DOCUMENT FILING FOLDER SUBJECT ORGANISER INSERTS ANY QTY" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=auto-renewals-when-a-contract-renews-before-you-notice-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="auto-renewals-when-a-contract-renews-before-you-notice-increasing-document-organizer" target="_blank" rel="sponsored noopener noreferrer">A4 FILE DIVIDERS (1-20) DOCUMENT FILING FOLDER SUBJECT ORGANISER INSERTS ANY QTY</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=auto-renewals-when-a-contract-renews-before-you-notice-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="auto-renewals-when-a-contract-renews-before-you-notice-increasing-document-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for document organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: document organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=auto-renewals-when-a-contract-renews-before-you-notice-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="auto-renewals-when-a-contract-renews-before-you-notice-increasing-document-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=auto-renewals-when-a-contract-renews-before-you-notice-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="auto-renewals-when-a-contract-renews-before-you-notice-increasing-document-organizer" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=auto-renewals-when-a-contract-renews-before-you-notice-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="auto-renewals-when-a-contract-renews-before-you-notice-increasing-document-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 FILE DIVIDERS (1-20) DOCUMENT FILING FOLDER SUBJECT ORGANISER INSERTS ANY QTY"><img src="{{ '/assets/images/marketplace-covers/3658e87f5922f026cc76.jpg' | relative_url }}" alt="Listing image for A4 FILE DIVIDERS (1-20) DOCUMENT FILING FOLDER SUBJECT ORGANISER INSERTS ANY QTY" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=auto-renewals-when-a-contract-renews-before-you-notice-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="auto-renewals-when-a-contract-renews-before-you-notice-increasing-document-organizer" target="_blank" rel="sponsored noopener noreferrer">A4 FILE DIVIDERS (1-20) DOCUMENT FILING FOLDER SUBJECT ORGANISER INSERTS ANY QTY</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=auto-renewals-when-a-contract-renews-before-you-notice-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="auto-renewals-when-a-contract-renews-before-you-notice-increasing-document-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for document organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: document organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=auto-renewals-when-a-contract-renews-before-you-notice-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="auto-renewals-when-a-contract-renews-before-you-notice-increasing-document-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=auto-renewals-when-a-contract-renews-before-you-notice-increasing-document-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer" data-ebay-reference="auto-renewals-when-a-contract-renews-before-you-notice-increasing-document-organizer" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -617,7 +617,7 @@ For anyone trying to increase contract-reading speed, the most efficient habit i
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -637,7 +637,7 @@ For anyone trying to increase contract-reading speed, the most efficient habit i
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -669,7 +669,7 @@ For anyone trying to increase contract-reading speed, the most efficient habit i
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -721,7 +721,7 @@ For anyone trying to increase contract-reading speed, the most efficient habit i
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -766,7 +766,7 @@ For anyone trying to increase contract-reading speed, the most efficient habit i
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -807,149 +807,149 @@ For anyone trying to increase contract-reading speed, the most efficient habit i
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: wiley.law  
-   Link: <a href="https://www.wiley.law/alert-FTC-Adopts-Final-Click-to-Cancel-Rule-with-Requirements-for-Recurring-Subscriptions" target="_blank" rel="noopener noreferrer nofollow">https://www.wiley.law/alert-FTC-Adopts-Final-Click-to-Cancel-Rule-with-Requirements-for-Recurring-Subscriptions</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Adopts Final “Click-to-Cancel” Rule with...18 Oct 2024 — The Rule requires companies to make cancellation methods for subscription s...</p></details>
+   Link:<a href="https://www.wiley.law/alert-FTC-Adopts-Final-Click-to-Cancel-Rule-with-Requirements-for-Recurring-Subscriptions" target="_blank" rel="noopener noreferrer nofollow">https://www.wiley.law/alert-FTC-Adopts-Final-Click-to-Cancel-Rule-with-Requirements-for-Recurring-Subscriptions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Adopts Final “Click-to-Cancel” Rule with...18 Oct 2024 — The Rule requires companies to make cancellation methods for subscription s...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: jpcreditsolutions.co.uk  
    Title: are auto renewal clauses enforceable  
-   Link: <a href="https://www.jpcreditsolutions.co.uk/resources/blog/are-auto-renewal-clauses-enforceable/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpcreditsolutions.co.uk/resources/blog/are-auto-renewal-clauses-enforceable/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Are Auto-Renewal Clauses Enforceable?15 Mar 2022 — However, the auto-renewal of the contract can be avoided if you provide the supplier c...</p></details>
+   Link:<a href="https://www.jpcreditsolutions.co.uk/resources/blog/are-auto-renewal-clauses-enforceable/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpcreditsolutions.co.uk/resources/blog/are-auto-renewal-clauses-enforceable/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Are Auto-Renewal Clauses Enforceable?15 Mar 2022 — However, the auto-renewal of the contract can be avoided if you provide the supplier c...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/consultations/consultation-on-the-implementation-of-the-new-subscription-contracts-regime/outcome/government-response-to-consultation-on-the-implementation-of-the-new-subscription-contracts-regime-web-accessible-version" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/consultations/consultation-on-the-implementation-of-the-new-subscription-contracts-regime/outcome/government-response-to-consultation-on-the-implementation-of-the-new-subscription-contracts-regime-web-accessible-version</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>response to consultation on the...2 Apr 2026 — We will ensure that for contracts covered by the new rules, consumers have 14 days after...</p></details>
+   Link:<a href="https://www.gov.uk/government/consultations/consultation-on-the-implementation-of-the-new-subscription-contracts-regime/outcome/government-response-to-consultation-on-the-implementation-of-the-new-subscription-contracts-regime-web-accessible-version" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/consultations/consultation-on-the-implementation-of-the-new-subscription-contracts-regime/outcome/government-response-to-consultation-on-the-implementation-of-the-new-subscription-contracts-regime-web-accessible-version</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>response to consultation on the...2 Apr 2026 — We will ensure that for contracts covered by the new rules, consumers have 14 days after...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reuters.com  
    Title: FTC takes on subscription traps with 'click to cancel' rule The U.S  
-   Link: <a href="https://www.reuters.com/world/us/ftc-takes-subscription-traps-with-click-cancel-rule-2024-10-16/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/ftc-takes-subscription-traps-with-click-cancel-rule-2024-10-16/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade Commission (FTC) has introduced the &quot;click to cancel&quot; rule, making it as easy for consumers to cancel subscriptions and mem...</p></details>
+   Link:<a href="https://www.reuters.com/world/us/ftc-takes-subscription-traps-with-click-cancel-rule-2024-10-16/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/us/ftc-takes-subscription-traps-with-click-cancel-rule-2024-10-16/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade Commission (FTC) has introduced the &quot;click to cancel&quot; rule, making it as easy for consumers to cancel subscriptions and mem...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/browse/business" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/browse/business</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>and self-employedTopics · Start your business. Plan, set up and register a business · Business tax and returns. Understand, file and pay...</p></details>
+   Link:<a href="https://www.gov.uk/browse/business" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/browse/business</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and self-employedTopics · Start your business. Plan, set up and register a business · Business tax and returns. Understand, file and pay...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/fixed-term-contracts/renewing-or-ending-a-fixedterm-contract" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/fixed-term-contracts/renewing-or-ending-a-fixedterm-contract</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>www.gov.ukFixed-term employment contracts: Renewing or ending a...Fixed-term contracts will normally end automatically when they reach t...</p></details>
+   Link:<a href="https://www.gov.uk/fixed-term-contracts/renewing-or-ending-a-fixedterm-contract" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/fixed-term-contracts/renewing-or-ending-a-fixedterm-contract</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>www.gov.ukFixed-term employment contracts: Renewing or ending a...Fixed-term contracts will normally end automatically when they reach t...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: business.gov.uk  
-   Link: <a href="https://www.business.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.business.gov.uk/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Find the right support for your businessGuidance, services and contacts to help you run and grow your business...</p></details>
+   Link:<a href="https://www.business.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.business.gov.uk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Find the right support for your businessGuidance, services and contacts to help you run and grow your business...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: assets.publishing.service.gov.uk  
    Title: Automatically.Read more  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5d38668940f0b604e3774f0a/UCT_09_Subscriptions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5d38668940f0b604e3774f0a/UCT_09_Subscriptions.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>and automatic rolloversIf you wish to cancel at any time, you must give us 6 months&#x27; notice and continue your monthly payments up until t...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5d38668940f0b604e3774f0a/UCT_09_Subscriptions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5d38668940f0b604e3774f0a/UCT_09_Subscriptions.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and automatic rolloversIf you wish to cancel at any time, you must give us 6 months&#x27; notice and continue your monthly payments up until t...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: whitecase.com  
-   Link: <a href="https://www.whitecase.com/insight-alert/click-cancel-uks-new-subscription-contract-regime" target="_blank" rel="noopener noreferrer nofollow">https://www.whitecase.com/insight-alert/click-cancel-uks-new-subscription-contract-regime</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>White &amp; CaseClick to cancel: The UK&#x27;s new subscription contract regime7 days ago — The new rules will introduce &quot;renewal&quot; cooling off per...</p></details>
+   Link:<a href="https://www.whitecase.com/insight-alert/click-cancel-uks-new-subscription-contract-regime" target="_blank" rel="noopener noreferrer nofollow">https://www.whitecase.com/insight-alert/click-cancel-uks-new-subscription-contract-regime</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>White &amp; CaseClick to cancel: The UK&#x27;s new subscription contract regime7 days ago — The new rules will introduce &quot;renewal&quot; cooling off per...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/news-events/news/press-releases/2024/10/federal-trade-commission-announces-final-click-cancel-rule-making-it-easier-consumers-end-recurring" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/news/press-releases/2024/10/federal-trade-commission-announces-final-click-cancel-rule-making-it-easier-consumers-end-recurring</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFederal Trade Commission Announces Final “Click-to-...16 Oct 2024 — Federal Trade Commission Announces Final “Cl...</p></details>
+   Link:<a href="https://www.ftc.gov/news-events/news/press-releases/2024/10/federal-trade-commission-announces-final-click-cancel-rule-making-it-easier-consumers-end-recurring" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/news/press-releases/2024/10/federal-trade-commission-announces-final-click-cancel-rule-making-it-easier-consumers-end-recurring</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFederal Trade Commission Announces Final “Click-to-...16 Oct 2024 — Federal Trade Commission Announces Final “Cl...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: legalvision.co.uk  
    Title: automatic renewal clause contract  
-   Link: <a href="https://legalvision.co.uk/uncategorised/automatic-renewal-clause-contract/" target="_blank" rel="noopener noreferrer nofollow">https://legalvision.co.uk/uncategorised/automatic-renewal-clause-contract/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LegalVision UKWhat Is an Automatic Renewal Clause in a Contract?8 Aug 2024 — An automatic renewal clause is a term within a contract that...</p></details>
+   Link:<a href="https://legalvision.co.uk/uncategorised/automatic-renewal-clause-contract/" target="_blank" rel="noopener noreferrer nofollow">https://legalvision.co.uk/uncategorised/automatic-renewal-clause-contract/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LegalVision UKWhat Is an Automatic Renewal Clause in a Contract?8 Aug 2024 — An automatic renewal clause is a term within a contract that...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: uk.practicallaw.thomsonreuters.com  
    Title: It also contains practical tips parties  
-   Link: <a href="https://uk.practicallaw.thomsonreuters.com/6-622-5967?contextData=%28sc.Default%29&amp;transitionType=Default" target="_blank" rel="noopener noreferrer nofollow">https://uk.practicallaw.thomsonreuters.com/6-622-5967?contextData=%28sc.Default%29&amp;transitionType=Default</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Practical LawContract Renewals No Simple Matter: Recent Court Cases of...3 Feb 2016 — This Legal Update summarizes two recent court deci...</p></details>
+   Link:<a href="https://uk.practicallaw.thomsonreuters.com/6-622-5967?contextData=%28sc.Default%29&amp;transitionType=Default" target="_blank" rel="noopener noreferrer nofollow">https://uk.practicallaw.thomsonreuters.com/6-622-5967?contextData=%28sc.Default%29&amp;transitionType=Default</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Practical LawContract Renewals No Simple Matter: Recent Court Cases of...3 Feb 2016 — This Legal Update summarizes two recent court deci...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Business" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Business</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BusinessBusiness is the practice of making one&#x27;s living or making money by producing or buying and selling products (such as goods and...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Business" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Business</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BusinessBusiness is the practice of making one&#x27;s living or making money by producing or buying and selling products (such as goods and...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/legal-library/browse/rules/negative-option-rule" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/legal-library/browse/rules/negative-option-rule</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Negative Option RuleFederal Trade Commission Proposes Rule Provision Making it Easier for Consumers to “Click to Cancel” Recurring Subscr...</p></details>
+   Link:<a href="https://www.ftc.gov/legal-library/browse/rules/negative-option-rule" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/legal-library/browse/rules/negative-option-rule</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Negative Option RuleFederal Trade Commission Proposes Rule Provision Making it Easier for Consumers to “Click to Cancel” Recurring Subscr...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: consumer.ftc.gov  
    Title: getting and out free trials auto renewals and negative option subscriptions  
-   Link: <a href="https://consumer.ftc.gov/articles/getting-and-out-free-trials-auto-renewals-and-negative-option-subscriptions" target="_blank" rel="noopener noreferrer nofollow">https://consumer.ftc.gov/articles/getting-and-out-free-trials-auto-renewals-and-negative-option-subscriptions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>If the company has instructions on how to cancel, follow those. Keep a copy of your...Read more...</p></details>
+   Link:<a href="https://consumer.ftc.gov/articles/getting-and-out-free-trials-auto-renewals-and-negative-option-subscriptions" target="_blank" rel="noopener noreferrer nofollow">https://consumer.ftc.gov/articles/getting-and-out-free-trials-auto-renewals-and-negative-option-subscriptions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>If the company has instructions on how to cancel, follow those. Keep a copy of your...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ftc.gov  
    Title: click cancel ftcs amended negative option rule what it means your business  
-   Link: <a href="https://www.ftc.gov/business-guidance/blog/2024/10/click-cancel-ftcs-amended-negative-option-rule-what-it-means-your-business" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/blog/2024/10/click-cancel-ftcs-amended-negative-option-rule-what-it-means-your-business</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Click to Cancel: The FTC&#x27;s amended Negative Option Rule...16 Oct 2024 — The FTC&#x27;s Click to Cancel Rule is helping the FTC get money back...</p></details>
+   Link:<a href="https://www.ftc.gov/business-guidance/blog/2024/10/click-cancel-ftcs-amended-negative-option-rule-what-it-means-your-business" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/business-guidance/blog/2024/10/click-cancel-ftcs-amended-negative-option-rule-what-it-means-your-business</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Click to Cancel: The FTC&#x27;s amended Negative Option Rule...16 Oct 2024 — The FTC&#x27;s Click to Cancel Rule is helping the FTC get money back...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: uk.practicallaw.thomsonreuters.com  
-   Link: <a href="https://uk.practicallaw.thomsonreuters.com/w-009-0672?contextData=%28sc.Default%29&amp;transitionType=Default" target="_blank" rel="noopener noreferrer nofollow">https://uk.practicallaw.thomsonreuters.com/w-009-0672?contextData=%28sc.Default%29&amp;transitionType=Default</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Clause | Practical Law - Thomson ReutersA clause that is automatically extended without amendment, year over year, unless one of the part...</p></details>
+   Link:<a href="https://uk.practicallaw.thomsonreuters.com/w-009-0672?contextData=%28sc.Default%29&amp;transitionType=Default" target="_blank" rel="noopener noreferrer nofollow">https://uk.practicallaw.thomsonreuters.com/w-009-0672?contextData=%28sc.Default%29&amp;transitionType=Default</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Clause | Practical Law - Thomson ReutersA clause that is automatically extended without amendment, year over year, unless one of the part...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: loeb.com  
-   Link: <a href="https://www.loeb.com/en/insights/publications/2024/10/click-to-cancel-ftc-releases-final-rule-for-subscriptions" target="_blank" rel="noopener noreferrer nofollow">https://www.loeb.com/en/insights/publications/2024/10/click-to-cancel-ftc-releases-final-rule-for-subscriptions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Loeb &amp; Loeb&#x27;Click to Cancel&#x27; – FTC Releases Final Rule for SubscriptionsThe new rule requires sellers to provide a simple mechanism for a...</p></details>
+   Link:<a href="https://www.loeb.com/en/insights/publications/2024/10/click-to-cancel-ftc-releases-final-rule-for-subscriptions" target="_blank" rel="noopener noreferrer nofollow">https://www.loeb.com/en/insights/publications/2024/10/click-to-cancel-ftc-releases-final-rule-for-subscriptions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Loeb &amp; Loeb&#x27;Click to Cancel&#x27; – FTC Releases Final Rule for SubscriptionsThe new rule requires sellers to provide a simple mechanism for a...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: forbes.com  
-   Link: <a href="https://www.forbes.com/business/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/business/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BusinessForbes is a leading source for reliable news and updated analysis on Business. Read the breaking Business coverage and top headli...</p></details>
+   Link:<a href="https://www.forbes.com/business/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/business/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BusinessForbes is a leading source for reliable news and updated analysis on Business. Read the breaking Business coverage and top headli...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: taulersmith.com  
-   Link: <a href="https://taulersmith.com/ftc-rule-proposal-automatic-renewals" target="_blank" rel="noopener noreferrer nofollow">https://taulersmith.com/ftc-rule-proposal-automatic-renewals</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Rule Proposal on Automatic RenewalsThe FTC rule proposal on automatic renewals would impose strict requirements on companies that off...</p></details>
+   Link:<a href="https://taulersmith.com/ftc-rule-proposal-automatic-renewals" target="_blank" rel="noopener noreferrer nofollow">https://taulersmith.com/ftc-rule-proposal-automatic-renewals</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Rule Proposal on Automatic RenewalsThe FTC rule proposal on automatic renewals would impose strict requirements on companies that off...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: dglaw.com  
-   Link: <a href="https://www.dglaw.com/wp-content/uploads/2022/01/Negative-Option-Marketing.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dglaw.com/wp-content/uploads/2022/01/Negative-Option-Marketing.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Negative Option MarketingFor automatic renewal offers that include a free gift, trial, or promotional pricing, sellers must notify consum...</p></details>
+   Link:<a href="https://www.dglaw.com/wp-content/uploads/2022/01/Negative-Option-Marketing.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dglaw.com/wp-content/uploads/2022/01/Negative-Option-Marketing.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Negative Option MarketingFor automatic renewal offers that include a free gift, trial, or promotional pricing, sellers must notify consum...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/itvnews/posts/starting-early-next-year-new-government-rules-will-make-it-much-harder-for-compa/1356465426516129/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/itvnews/posts/starting-early-next-year-new-government-rules-will-make-it-much-harder-for-compa/1356465426516129/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Starting early next year, new government rules will make it...NEW: The FTC has finalized its “Click to Cancel” rule – which will require...</p></details>
+   Link:<a href="https://www.facebook.com/itvnews/posts/starting-early-next-year-new-government-rules-will-make-it-much-harder-for-compa/1356465426516129/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/itvnews/posts/starting-early-next-year-new-government-rules-will-make-it-much-harder-for-compa/1356465426516129/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Starting early next year, new government rules will make it...NEW: The FTC has finalized its “Click to Cancel” rule – which will require...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: privacyanddatasecurityinsight.com  
-   Link: <a href="https://www.privacyanddatasecurityinsight.com/2025/04/click-click-hooray-what-businesses-need-to-know-about-autorenewal-laws-and-subscription-cancellation-requirements/" target="_blank" rel="noopener noreferrer nofollow">https://www.privacyanddatasecurityinsight.com/2025/04/click-click-hooray-what-businesses-need-to-know-about-autorenewal-laws-and-subscription-cancellation-requirements/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Businesses Need to Know about Autorenewal Laws and...11 Apr 2025 — Under CARL and the FTC Rule, businesses must allow consumers to...</p></details>
+   Link:<a href="https://www.privacyanddatasecurityinsight.com/2025/04/click-click-hooray-what-businesses-need-to-know-about-autorenewal-laws-and-subscription-cancellation-requirements/" target="_blank" rel="noopener noreferrer nofollow">https://www.privacyanddatasecurityinsight.com/2025/04/click-click-hooray-what-businesses-need-to-know-about-autorenewal-laws-and-subscription-cancellation-requirements/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Businesses Need to Know about Autorenewal Laws and...11 Apr 2025 — Under CARL and the FTC Rule, businesses must allow consumers to...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: orrick.com  
-   Link: <a href="https://www.orrick.com/en/Insights/2025/07/Navigating-Federal-and-California-Negative-Option-Rules-Key-Insights-for-Businesses" target="_blank" rel="noopener noreferrer nofollow">https://www.orrick.com/en/Insights/2025/07/Navigating-Federal-and-California-Negative-Option-Rules-Key-Insights-for-Businesses</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Navigating Federal and California Negative Option Rules1 Jul 2025 — We break down key compliance takeaways from the FTC&#x27;s new “Click-to-C...</p></details>
+   Link:<a href="https://www.orrick.com/en/Insights/2025/07/Navigating-Federal-and-California-Negative-Option-Rules-Key-Insights-for-Businesses" target="_blank" rel="noopener noreferrer nofollow">https://www.orrick.com/en/Insights/2025/07/Navigating-Federal-and-California-Negative-Option-Rules-Key-Insights-for-Businesses</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Navigating Federal and California Negative Option Rules1 Jul 2025 — We break down key compliance takeaways from the FTC&#x27;s new “Click-to-C...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: crowell.com  
-   Link: <a href="https://www.crowell.com/en/insights/client-alerts/clicking-all-the-right-boxes-ftc-moves-to-revive-click-to-cancel-rule-following-eighth-circuit-vacatur" target="_blank" rel="noopener noreferrer nofollow">https://www.crowell.com/en/insights/client-alerts/clicking-all-the-right-boxes-ftc-moves-to-revive-click-to-cancel-rule-following-eighth-circuit-vacatur</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Court of Appeals for the Eighth Circuit vacated the Federal Trade Commission&#x27;s (FTC) Rule Concerning Subscriptions and...</p></details>
+   Link:<a href="https://www.crowell.com/en/insights/client-alerts/clicking-all-the-right-boxes-ftc-moves-to-revive-click-to-cancel-rule-following-eighth-circuit-vacatur" target="_blank" rel="noopener noreferrer nofollow">https://www.crowell.com/en/insights/client-alerts/clicking-all-the-right-boxes-ftc-moves-to-revive-click-to-cancel-rule-following-eighth-circuit-vacatur</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Court of Appeals for the Eighth Circuit vacated the Federal Trade Commission&#x27;s (FTC) Rule Concerning Subscriptions and...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: sprintlaw.co.uk  
    Title: are auto renew contracts legal in the uk what small businesses need to know  
-   Link: <a href="https://sprintlaw.co.uk/articles/are-auto-renew-contracts-legal-in-the-uk-what-small-businesses-need-to-know/" target="_blank" rel="noopener noreferrer nofollow">https://sprintlaw.co.uk/articles/are-auto-renew-contracts-legal-in-the-uk-what-small-businesses-need-to-know/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Are Auto-Renew Contracts Legal for UK Small Businesses?14 Aug 2025 — Auto-renew contracts are legal in the UK but must follow rules on tr...</p></details>
+   Link:<a href="https://sprintlaw.co.uk/articles/are-auto-renew-contracts-legal-in-the-uk-what-small-businesses-need-to-know/" target="_blank" rel="noopener noreferrer nofollow">https://sprintlaw.co.uk/articles/are-auto-renew-contracts-legal-in-the-uk-what-small-businesses-need-to-know/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Are Auto-Renew Contracts Legal for UK Small Businesses?14 Aug 2025 — Auto-renew contracts are legal in the UK but must follow rules on tr...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: mayerbrown.com  
    Title: ftc postpones enforcement of click to cancel subscription rule for 60 days  
-   Link: <a href="https://www.mayerbrown.com/en/insights/publications/2025/05/ftc-postpones-enforcement-of-click-to-cancel-subscription-rule-for-60-days" target="_blank" rel="noopener noreferrer nofollow">https://www.mayerbrown.com/en/insights/publications/2025/05/ftc-postpones-enforcement-of-click-to-cancel-subscription-rule-for-60-days</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Postpones Enforcement of “Click-to-Cancel...13 May 2025 — Federal Trade Commission postpones enforcement of its revised Negative Opt...</p></details>
+   Link:<a href="https://www.mayerbrown.com/en/insights/publications/2025/05/ftc-postpones-enforcement-of-click-to-cancel-subscription-rule-for-60-days" target="_blank" rel="noopener noreferrer nofollow">https://www.mayerbrown.com/en/insights/publications/2025/05/ftc-postpones-enforcement-of-click-to-cancel-subscription-rule-for-60-days</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FTC Postpones Enforcement of “Click-to-Cancel...13 May 2025 — Federal Trade Commission postpones enforcement of its revised Negative Opt...</p></details>
    Published: May 2025  

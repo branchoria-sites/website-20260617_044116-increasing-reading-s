@@ -269,7 +269,7 @@ image: /assets/images/increasing_re_852ca6_dense_materia_3cc00e_legalese_comp_aa
 
 ## Introduction
 
-Centre-embedded clauses are one of the most reliable ways to make a legal sentence harder to read. They occur when a writer inserts a qualification, definition, exception, or subordinate clause into the middle of a sentence before the main idea has been completed. Readers must keep the unfinished sentence in mind while processing the interruption, then reconnect the pieces afterwards. In legal documents, where multiple qualifications are often inserted before the main verb or obligation appears, this structure can significantly slow comprehension and increase rereading. Research from MIT and psycholinguistics has identified centre embedding as a major contributor to the difficulty of legal language, not because the concepts are necessarily more complex, but because the sentence structure places unusually heavy demands on working memory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.mit.edu/2022/legal-writing-understanding-0307" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.mit.edu">[MIT News+2DSpace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.mit.edu</span><span class="citation-popover-title">legal writing understanding 0307</span><span class="citation-popover-snippet">MIT NewsObjection: No one can understand what you&#x27;re saying7 Mar 2022 — “Using center-embedded clauses is standard writing practice in le...</span></span></span>
+Centre-embedded clauses are one of the most reliable ways to make a legal sentence harder to read. They occur when a writer inserts a qualification, definition, exception, or subordinate clause into the middle of a sentence before the main idea has been completed. Readers must keep the unfinished sentence in mind while processing the interruption, then reconnect the pieces afterwards. In legal documents, where multiple qualifications are often inserted before the main verb or obligation appears, this structure can significantly slow comprehension and increase rereading. Research from MIT and psycholinguistics has identified centre embedding as a major contributor to the difficulty of legal language, not because the concepts are necessarily more complex, but because the sentence structure places unusually heavy demands on working memory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.mit.edu/2022/legal-writing-understanding-0307" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.mit.edu">[MIT News+2DSpace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.mit.edu</span><span class="citation-popover-title">legal writing understanding 0307</span><span class="citation-popover-snippet">MIT NewsObjection: No one can understand what you&#x27;re saying7 Mar 2022 — “Using center-embedded clauses is standard writing practice in le...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_dense_materia_3cc00e_legalese_comp_aa793a_center_embedd_e098af-Illustration-1-dark.svg" | relative_url }}" alt="Embedded Clauses illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_dense_materia_3cc00e_legalese_comp_aa793a_center_embedd_e098af-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_dense_materia_3cc00e_legalese_comp_aa793a_center_embedd_e098af-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -289,7 +289,7 @@ Now compare it with a centre-embedded version:
 
 The legal meaning may be similar, but the reader cannot immediately connect “tenant” with “must obtain”. Instead, the mind must temporarily store the beginning of the sentence while processing intervening material.
 
-Psycholinguists have long argued that centre-embedded structures are difficult because they require readers to maintain incomplete linguistic relationships in working memory. Each interruption increases the amount of information that must be retained until the sentence can be resolved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2239011/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2DSpace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Computational principles of working memory in sentence...by RL Lewis · 2006 · Cited by 1118 — Our focus on the memory processes under...</span></span></span>
+Psycholinguists have long argued that centre-embedded structures are difficult because they require readers to maintain incomplete linguistic relationships in working memory. Each interruption increases the amount of information that must be retained until the sentence can be resolved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2239011/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2DSpace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Computational principles of working memory in sentence...by RL Lewis · 2006 · Cited by 1118 — Our focus on the memory processes under...</span></span></span>
 
 This creates three specific problems:
 
@@ -302,7 +302,7 @@ This creates three specific problems:
 
 </div>
 
-The result is slower reading, greater cognitive effort, and a higher likelihood of losing track of the sentence's structure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.mit.edu/2022/legal-writing-understanding-0307" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.mit.edu">[MIT News+2MIT News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.mit.edu</span><span class="citation-popover-title">legal writing understanding 0307</span><span class="citation-popover-snippet">MIT NewsObjection: No one can understand what you&#x27;re saying7 Mar 2022 — “Using center-embedded clauses is standard writing practice in le...</span></span></span>
+The result is slower reading, greater cognitive effort, and a higher likelihood of losing track of the sentence's structure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.mit.edu/2022/legal-writing-understanding-0307" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.mit.edu">[MIT News+2MIT News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.mit.edu</span><span class="citation-popover-title">legal writing understanding 0307</span><span class="citation-popover-snippet">MIT NewsObjection: No one can understand what you&#x27;re saying7 Mar 2022 — “Using center-embedded clauses is standard writing practice in le...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/H1KjKEr1vIw" title="SENTENCE: COMPREHENSION AND MEMORY (PSYCHOLINGUISTICS)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=H1KjKEr1vIw" target="_blank" rel="noopener noreferrer">SENTENCE: COMPREHENSION AND MEMORY (PSYCHOLINGUISTICS)</a></p><p class="youtube-embed-meta">Channel: Meiliana Putri</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=H1KjKEr1vIw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=H1KjKEr1vIw">Open on YouTube</a></p></div></div></div>
@@ -311,7 +311,7 @@ The result is slower reading, greater cognitive effort, and a higher likelihood 
 
 Legal drafting frequently inserts material into the middle of sentences because lawyers want qualifications to appear close to the words they modify. [Definitions]({{ 'definitions/' | relative_url }}), [exceptions]({{ 'exceptions/' | relative_url }}), cross-references, and limiting conditions are often embedded directly into a clause rather than placed in separate sentences.
 
-MIT researchers analysing legal documents found that centre-embedded constructions appear far more frequently in legal writing than in ordinary English. Their work identified long inserted definitions and qualifications as a distinctive feature of [legalese]({{ 'legalese/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.mit.edu/2024/mit-study-explains-laws-incomprehensible-writing-style-0819" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.mit.edu">[MIT News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.mit.edu</span><span class="citation-popover-title">mit study explains laws incomprehensible writing style 0819</span><span class="citation-popover-snippet">MIT NewsMIT study explains why laws are written in an...19 Aug 2024 — legal documents frequently have long definitions inserted in the m...</span></span></span>
+MIT researchers analysing legal documents found that centre-embedded constructions appear far more frequently in legal writing than in ordinary English. Their work identified long inserted definitions and qualifications as a distinctive feature of [legalese]({{ 'legalese/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.mit.edu/2024/mit-study-explains-laws-incomprehensible-writing-style-0819" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.mit.edu">[MIT News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.mit.edu</span><span class="citation-popover-title">mit study explains laws incomprehensible writing style 0819</span><span class="citation-popover-snippet">MIT NewsMIT study explains why laws are written in an...19 Aug 2024 — legal documents frequently have long definitions inserted in the m...</span></span></span>
 
 From a drafting perspective, this can seem logical. Writers may believe that placing every qualification immediately beside the relevant term reduces ambiguity. The trade-off is that readers must process the qualification before they have fully understood the main proposition.
 
@@ -321,15 +321,15 @@ The key mechanism is working memory: the limited mental workspace used to hold a
 
 When reading a centre-embedded sentence, the brain must retain unresolved elements while processing new material. For example, if a sentence begins with a subject and then introduces several embedded clauses, readers must remember the original subject until they finally encounter the main verb.
 
-Linguistic research has repeatedly linked difficulty with centre embedding to these memory constraints. Sentences with multiple layers of embedding are often grammatically correct but difficult to understand because readers must store several incomplete relationships simultaneously. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Center_embedding" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Center embedding</span><span class="citation-popover-snippet">Center embedding</span></span></span>
+Linguistic research has repeatedly linked difficulty with centre embedding to these memory constraints. Sentences with multiple layers of embedding are often grammatically correct but difficult to understand because readers must store several incomplete relationships simultaneously.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Center_embedding" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Center embedding</span><span class="citation-popover-snippet">Center embedding</span></span></span>
 
 A classic illustration is:
 
 > The man that the woman that the child knew loved smiled.
 
-The sentence is grammatical, but many readers struggle because they must keep track of several nested relationships before reaching the main action. Additional layers rapidly become difficult even for highly educated readers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Center_embedding" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Center embedding</span><span class="citation-popover-snippet">Center embedding</span></span></span>
+The sentence is grammatical, but many readers struggle because they must keep track of several nested relationships before reaching the main action. Additional layers rapidly become difficult even for highly educated readers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Center_embedding" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Center embedding</span><span class="citation-popover-snippet">Center embedding</span></span></span>
 
-Legal documents often create a milder version of the same problem. Instead of nesting multiple relative clauses, they insert definitions, exceptions, and references into the centre of otherwise straightforward obligations. The memory burden is lower than in extreme linguistic examples but remains substantial enough to [slow reading]({{ 'slow-reading/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.mit.edu/2024/mit-study-explains-laws-incomprehensible-writing-style-0819" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.mit.edu">[MIT News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.mit.edu</span><span class="citation-popover-title">mit study explains laws incomprehensible writing style 0819</span><span class="citation-popover-snippet">MIT NewsMIT study explains why laws are written in an...19 Aug 2024 — legal documents frequently have long definitions inserted in the m...</span></span></span>
+Legal documents often create a milder version of the same problem. Instead of nesting multiple relative clauses, they insert definitions, exceptions, and references into the centre of otherwise straightforward obligations. The memory burden is lower than in extreme linguistic examples but remains substantial enough to [slow reading]({{ 'slow-reading/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.mit.edu/2024/mit-study-explains-laws-incomprehensible-writing-style-0819" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.mit.edu">[MIT News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.mit.edu</span><span class="citation-popover-title">mit study explains laws incomprehensible writing style 0819</span><span class="citation-popover-snippet">MIT NewsMIT study explains why laws are written in an...19 Aug 2024 — legal documents frequently have long definitions inserted in the m...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_dense_materia_3cc00e_legalese_comp_aa793a_center_embedd_e098af-Illustration-2-dark.svg" | relative_url }}" alt="Embedded Clauses illustration 2" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_dense_materia_3cc00e_legalese_comp_aa793a_center_embedd_e098af-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_dense_materia_3cc00e_legalese_comp_aa793a_center_embedd_e098af-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -361,7 +361,7 @@ The same principle applies to definitions:
 
 The legal content is substantially similar, but readers no longer have to interrupt one idea to process another.
 
-Research comparing traditional legal drafting with simplified alternatives found that both lawyers and non-lawyers understood and recalled information more effectively when unnecessary complexity was removed. Lawyers also rated simplified versions as easier to understand without viewing them as less enforceable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.2302672120" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Even lawyers do not like legaleseby E Martínez · 2023 · Cited by 24 — Experiment 1 revealed that lawyers, like laypeople, were less a...</span></span></span>
+Research comparing traditional legal drafting with simplified alternatives found that both lawyers and non-lawyers understood and recalled information more effectively when unnecessary complexity was removed. Lawyers also rated simplified versions as easier to understand without viewing them as less enforceable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.2302672120" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Even lawyers do not like legaleseby E Martínez · 2023 · Cited by 24 — Experiment 1 revealed that lawyers, like laypeople, were less a...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HwJuDzkO4Mk" title="Multiple center embedding, the pumping lemma, and limitations of finite-state automata" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HwJuDzkO4Mk" target="_blank" rel="noopener noreferrer">Multiple center embedding, the pumping lemma, and limitations of finite-state automata</a></p><p class="youtube-embed-meta">Channel: MIT Computational Psycholinguistics Laboratory</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HwJuDzkO4Mk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HwJuDzkO4Mk">Open on YouTube</a></p></div></div></div>
@@ -395,187 +395,187 @@ The practical goal is not to eliminate qualification but to avoid forcing reader
 
 Centre-embedded clauses illustrate an important distinction between word difficulty and structural difficulty. A sentence can contain familiar vocabulary and still be hard to read if its structure overloads working memory.
 
-For readers, recognising centre embedding helps explain why some legal passages feel unusually slow. The slowdown is not necessarily a failure of concentration or vocabulary knowledge. Often the sentence itself requires the reader to keep multiple unresolved pieces of information active at once. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.mit.edu/2022/legal-writing-understanding-0307" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.mit.edu">[MIT News+2DSpace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.mit.edu</span><span class="citation-popover-title">legal writing understanding 0307</span><span class="citation-popover-snippet">MIT NewsObjection: No one can understand what you&#x27;re saying7 Mar 2022 — “Using center-embedded clauses is standard writing practice in le...</span></span></span>
+For readers, recognising centre embedding helps explain why some legal passages feel unusually slow. The slowdown is not necessarily a failure of concentration or vocabulary knowledge. Often the sentence itself requires the reader to keep multiple unresolved pieces of information active at once.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://news.mit.edu/2022/legal-writing-understanding-0307" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.mit.edu">[MIT News+2DSpace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.mit.edu</span><span class="citation-popover-title">legal writing understanding 0307</span><span class="citation-popover-snippet">MIT NewsObjection: No one can understand what you&#x27;re saying7 Mar 2022 — “Using center-embedded clauses is standard writing practice in le...</span></span></span>
 
-For writers seeking clearer legal communication, the lesson is equally important. When qualifications, definitions, and exceptions are moved to the edges of sentences or broken into separate statements, readers can grasp the main idea sooner, retain more of what they read, and progress through the document with fewer pauses. Research suggests that this improvement benefits experts and non-experts alike. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.2302672120" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS+2MIT Brain and Cognitive Sciences]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Even lawyers do not like legaleseby E Martínez · 2023 · Cited by 24 — Experiment 1 revealed that lawyers, like laypeople, were less a...</span></span></span>
+For writers seeking clearer legal communication, the lesson is equally important. When qualifications, definitions, and exceptions are moved to the edges of sentences or broken into separate statements, readers can grasp the main idea sooner, retain more of what they read, and progress through the document with fewer pauses. Research suggests that this improvement benefits experts and non-experts alike.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.2302672120" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS+2MIT Brain and Cognitive Sciences]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Even lawyers do not like legaleseby E Martínez · 2023 · Cited by 24 — Experiment 1 revealed that lawyers, like laypeople, were less a...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/N1UXYBvM7y0" title="Syntax module in psycholinguistics. Garden path sentences" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=N1UXYBvM7y0" target="_blank" rel="noopener noreferrer">Syntax module in psycholinguistics. Garden path sentences</a></p><p class="youtube-embed-meta">Channel: subhani jawhar</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=N1UXYBvM7y0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=N1UXYBvM7y0">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why One Legal Sentence Can Overload Memory. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why One Legal Sentence Can Overload Memory. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Legal+Writing+in+Plain+English%2C+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Legal Writing in Plain English, Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13192604-M.jpg" alt="Cover for Legal Writing in Plain English, Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Legal+Writing+in+Plain+English%2C+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Legal Writing in Plain English, Third Edition">Legal Writing in Plain English, Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Legal+Writing+in+Plain+English%2C+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Legal Writing in Plain English, Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13192604-M.jpg" alt="Cover for Legal Writing in Plain English, Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Legal+Writing+in+Plain+English%2C+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Legal Writing in Plain English, Third Edition">Legal Writing in Plain English, Third Edition</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Directly addresses legal readability, sentence structure, clarity, and reducing unnecessary complexity in legal prose.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Legal+Writing+in+Plain+English%2C+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses legal readability, sentence structure, clarity, and reducing unnecessary complexity in legal prose.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Legal+Writing+in+Plain+English%2C+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains cognitive load and mental processing limits that help readers understand why dense, interrupted sentences are harder to comprehend.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains cognitive load and mental processing limits that help readers understand why dense, interrupted sentences are harder to comprehend.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Plain+English+for+lawyers+Richard+C.+Wydick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Plain English for lawyers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/687971-M.jpg" alt="Cover for Plain English for lawyers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Plain+English+for+lawyers+Richard+C.+Wydick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Plain English for lawyers">Plain English for lawyers</a>
-        </h4>
-        <p class="fr-book-author">By Richard C. Wydick</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Plain+English+for+lawyers+Richard+C.+Wydick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Plain English for lawyers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/687971-M.jpg" alt="Cover for Plain English for lawyers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Plain+English+for+lawyers+Richard+C.+Wydick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Plain English for lawyers">Plain English for lawyers</a>
+</h4>
+<p class="fr-book-author">By Richard C. Wydick</p>
         
-        <p class="fr-book-desc">First published 1978. Subjects: Legal composition, English language, dictionaries, Law, dictionaries, Law, terminology, Kf250 .w9 2005.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Plain+English+for+lawyers+Richard+C.+Wydick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1978. Subjects: Legal composition, English language, dictionaries, Law, dictionaries, Law, terminology, Kf250 .w9 2005.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Plain+English+for+lawyers+Richard+C.+Wydick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Clarity+for+Lawyers%3A+Effective+Legal+Language+Mark+Adler+and+Daphne+Perry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Clarity for Lawyers: Effective Legal Language on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Clarity+for+Lawyers%3A+Effective+Legal+Language+Mark+Adler+and+Daphne+Perry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Clarity for Lawyers: Effective Legal Language">Clarity for Lawyers: Effective Legal Language</a>
-        </h4>
-        <p class="fr-book-author">By Mark Adler and Daphne Perry</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Clarity+for+Lawyers%3A+Effective+Legal+Language+Mark+Adler+and+Daphne+Perry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Clarity for Lawyers: Effective Legal Language on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Clarity+for+Lawyers%3A+Effective+Legal+Language+Mark+Adler+and+Daphne+Perry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Clarity for Lawyers: Effective Legal Language">Clarity for Lawyers: Effective Legal Language</a>
+</h4>
+<p class="fr-book-author">By Mark Adler and Daphne Perry</p>
         
-        <p class="fr-book-desc">Specifically addresses misunderstandings caused by legal drafting choices and shows how to make legal text easier to process.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Clarity+for+Lawyers%3A+Effective+Legal+Language+Mark+Adler+and+Daphne+Perry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Specifically addresses misunderstandings caused by legal drafting choices and shows how to make legal text easier to process.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Clarity+for+Lawyers%3A+Effective+Legal+Language+Mark+Adler+and+Daphne+Perry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Legal+Writing+in+Plain+English%2C+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Legal Writing in Plain English, Third Edition</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Plain+English+for+lawyers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Plain English for lawyers</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Legal+Writing+in+Plain+English%2C+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Legal Writing in Plain English, Third Edition</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Plain+English+for+lawyers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Plain English for lawyers</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=law+office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=embedded-clauses-why-one-legal-sentence-can-overload-memory-increasing-law-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="law office desk sign" data-ebay-reference="embedded-clauses-why-one-legal-sentence-can-overload-memory-increasing-law-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Signs ByLITA #1 Law Adventurer Gold Frame Lawyer Gifts Desk Sign (2x8&quot;)"><img src="{{ '/assets/images/marketplace-covers/9a32be9e848ba75411d2.jpg' | relative_url }}" alt="Listing image for Signs ByLITA #1 Law Adventurer Gold Frame Lawyer Gifts Desk Sign (2x8&quot;)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=law+office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=embedded-clauses-why-one-legal-sentence-can-overload-memory-increasing-law-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="law office desk sign" data-ebay-reference="embedded-clauses-why-one-legal-sentence-can-overload-memory-increasing-law-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer">Signs ByLITA #1 Law Adventurer Gold Frame Lawyer Gifts Desk Sign (2x8&quot;)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=law+office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=embedded-clauses-why-one-legal-sentence-can-overload-memory-increasing-law-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="law office desk sign" data-ebay-reference="embedded-clauses-why-one-legal-sentence-can-overload-memory-increasing-law-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for law office desk sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: law office desk sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=law+office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=embedded-clauses-why-one-legal-sentence-can-overload-memory-increasing-law-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="law office desk sign" data-ebay-reference="embedded-clauses-why-one-legal-sentence-can-overload-memory-increasing-law-office-desk-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=law+office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=embedded-clauses-why-one-legal-sentence-can-overload-memory-increasing-law-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="law office desk sign" data-ebay-reference="embedded-clauses-why-one-legal-sentence-can-overload-memory-increasing-law-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Signs ByLITA #1 Law Adventurer Gold Frame Lawyer Gifts Desk Sign (2x8&quot;)"><img src="{{ '/assets/images/marketplace-covers/9a32be9e848ba75411d2.jpg' | relative_url }}" alt="Listing image for Signs ByLITA #1 Law Adventurer Gold Frame Lawyer Gifts Desk Sign (2x8&quot;)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=law+office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=embedded-clauses-why-one-legal-sentence-can-overload-memory-increasing-law-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="law office desk sign" data-ebay-reference="embedded-clauses-why-one-legal-sentence-can-overload-memory-increasing-law-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer">Signs ByLITA #1 Law Adventurer Gold Frame Lawyer Gifts Desk Sign (2x8&quot;)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=law+office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=embedded-clauses-why-one-legal-sentence-can-overload-memory-increasing-law-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="law office desk sign" data-ebay-reference="embedded-clauses-why-one-legal-sentence-can-overload-memory-increasing-law-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for law office desk sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: law office desk sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=law+office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=embedded-clauses-why-one-legal-sentence-can-overload-memory-increasing-law-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="law office desk sign" data-ebay-reference="embedded-clauses-why-one-legal-sentence-can-overload-memory-increasing-law-office-desk-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=law+office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=embedded-clauses-why-one-legal-sentence-can-overload-memory-increasing-law-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="law office desk sign" data-ebay-reference="embedded-clauses-why-one-legal-sentence-can-overload-memory-increasing-law-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lawyer School Office Decoration Desk Sign (2x8&quot;)"><img src="{{ '/assets/images/marketplace-covers/07a0c17f3307fa8b61b7.jpg' | relative_url }}" alt="Listing image for Lawyer School Office Decoration Desk Sign (2x8&quot;)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=law+office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=embedded-clauses-why-one-legal-sentence-can-overload-memory-increasing-law-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="law office desk sign" data-ebay-reference="embedded-clauses-why-one-legal-sentence-can-overload-memory-increasing-law-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer">Lawyer School Office Decoration Desk Sign (2x8&quot;)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=law+office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=embedded-clauses-why-one-legal-sentence-can-overload-memory-increasing-law-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="law office desk sign" data-ebay-reference="embedded-clauses-why-one-legal-sentence-can-overload-memory-increasing-law-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for law office desk sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: law office desk sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=law+office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=embedded-clauses-why-one-legal-sentence-can-overload-memory-increasing-law-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="law office desk sign" data-ebay-reference="embedded-clauses-why-one-legal-sentence-can-overload-memory-increasing-law-office-desk-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=law+office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=embedded-clauses-why-one-legal-sentence-can-overload-memory-increasing-law-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="law office desk sign" data-ebay-reference="embedded-clauses-why-one-legal-sentence-can-overload-memory-increasing-law-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lawyer School Office Decoration Desk Sign (2x8&quot;)"><img src="{{ '/assets/images/marketplace-covers/07a0c17f3307fa8b61b7.jpg' | relative_url }}" alt="Listing image for Lawyer School Office Decoration Desk Sign (2x8&quot;)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=law+office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=embedded-clauses-why-one-legal-sentence-can-overload-memory-increasing-law-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="law office desk sign" data-ebay-reference="embedded-clauses-why-one-legal-sentence-can-overload-memory-increasing-law-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer">Lawyer School Office Decoration Desk Sign (2x8&quot;)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=law+office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=embedded-clauses-why-one-legal-sentence-can-overload-memory-increasing-law-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="law office desk sign" data-ebay-reference="embedded-clauses-why-one-legal-sentence-can-overload-memory-increasing-law-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for law office desk sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: law office desk sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=law+office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=embedded-clauses-why-one-legal-sentence-can-overload-memory-increasing-law-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="law office desk sign" data-ebay-reference="embedded-clauses-why-one-legal-sentence-can-overload-memory-increasing-law-office-desk-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=law+office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=embedded-clauses-why-one-legal-sentence-can-overload-memory-increasing-law-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="law office desk sign" data-ebay-reference="embedded-clauses-why-one-legal-sentence-can-overload-memory-increasing-law-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mother in Law Birthday Gift Plaque Sign for Step Mum Home Office Desk Decor Tha"><img src="{{ '/assets/images/marketplace-covers/76e05d6ebd65b45f1f2f.jpg' | relative_url }}" alt="Listing image for Mother in Law Birthday Gift Plaque Sign for Step Mum Home Office Desk Decor Tha" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=law+office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=embedded-clauses-why-one-legal-sentence-can-overload-memory-increasing-law-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="law office desk sign" data-ebay-reference="embedded-clauses-why-one-legal-sentence-can-overload-memory-increasing-law-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer">Mother in Law Birthday Gift Plaque Sign for Step Mum Home Office Desk Decor Tha</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=law+office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=embedded-clauses-why-one-legal-sentence-can-overload-memory-increasing-law-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="law office desk sign" data-ebay-reference="embedded-clauses-why-one-legal-sentence-can-overload-memory-increasing-law-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for law office desk sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: law office desk sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=law+office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=embedded-clauses-why-one-legal-sentence-can-overload-memory-increasing-law-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="law office desk sign" data-ebay-reference="embedded-clauses-why-one-legal-sentence-can-overload-memory-increasing-law-office-desk-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=law+office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=embedded-clauses-why-one-legal-sentence-can-overload-memory-increasing-law-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="law office desk sign" data-ebay-reference="embedded-clauses-why-one-legal-sentence-can-overload-memory-increasing-law-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=law+office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=embedded-clauses-why-one-legal-sentence-can-overload-memory-increasing-law-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="law office desk sign" data-ebay-reference="embedded-clauses-why-one-legal-sentence-can-overload-memory-increasing-law-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mother in Law Birthday Gift Plaque Sign for Step Mum Home Office Desk Decor Tha"><img src="{{ '/assets/images/marketplace-covers/76e05d6ebd65b45f1f2f.jpg' | relative_url }}" alt="Listing image for Mother in Law Birthday Gift Plaque Sign for Step Mum Home Office Desk Decor Tha" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=law+office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=embedded-clauses-why-one-legal-sentence-can-overload-memory-increasing-law-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="law office desk sign" data-ebay-reference="embedded-clauses-why-one-legal-sentence-can-overload-memory-increasing-law-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer">Mother in Law Birthday Gift Plaque Sign for Step Mum Home Office Desk Decor Tha</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=law+office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=embedded-clauses-why-one-legal-sentence-can-overload-memory-increasing-law-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="law office desk sign" data-ebay-reference="embedded-clauses-why-one-legal-sentence-can-overload-memory-increasing-law-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for law office desk sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: law office desk sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=law+office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=embedded-clauses-why-one-legal-sentence-can-overload-memory-increasing-law-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="law office desk sign" data-ebay-reference="embedded-clauses-why-one-legal-sentence-can-overload-memory-increasing-law-office-desk-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=law+office+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=embedded-clauses-why-one-legal-sentence-can-overload-memory-increasing-law-office-desk-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="law office desk sign" data-ebay-reference="embedded-clauses-why-one-legal-sentence-can-overload-memory-increasing-law-office-desk-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -591,7 +591,7 @@ For writers seeking clearer legal communication, the lesson is equally important
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -611,7 +611,7 @@ For writers seeking clearer legal communication, the lesson is equally important
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -643,7 +643,7 @@ For writers seeking clearer legal communication, the lesson is equally important
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -695,7 +695,7 @@ For writers seeking clearer legal communication, the lesson is equally important
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -740,7 +740,7 @@ For writers seeking clearer legal communication, the lesson is equally important
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -781,111 +781,111 @@ For writers seeking clearer legal communication, the lesson is equally important
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: news.mit.edu  
    Title: legal writing understanding 0307  
-   Link: <a href="https://news.mit.edu/2022/legal-writing-understanding-0307" target="_blank" rel="noopener noreferrer nofollow">https://news.mit.edu/2022/legal-writing-understanding-0307</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT NewsObjection: No one can understand what you&#x27;re saying7 Mar 2022 — “Using center-embedded clauses is standard writing [practice](&amp;#123;&amp;#123; &#x27;practice/&#x27; | relative_url &amp;#125;&amp;#125;) in le...</p></details>
+   Link:<a href="https://news.mit.edu/2022/legal-writing-understanding-0307" target="_blank" rel="noopener noreferrer nofollow">https://news.mit.edu/2022/legal-writing-understanding-0307</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MIT NewsObjection: No one can understand what you&#x27;re saying7 Mar 2022 — “Using center-embedded clauses is standard writing [practice](&amp;#123;&amp;#123; &#x27;practice/&#x27; | relative_url &amp;#125;&amp;#125;) in le...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: dspace.mit.edu  
-   Link: <a href="https://dspace.mit.edu/bitstream/handle/1721.1/148805/1-s2.0-S0010027722000580-main.pdf?isAllowed=y&amp;sequence=2" target="_blank" rel="noopener noreferrer nofollow">https://dspace.mit.edu/bitstream/handle/1721.1/148805/1-s2.0-S0010027722000580-main.pdf?isAllowed=y&amp;sequence=2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>writing, not specialized concepts, drives processing...by E Martínez · 2022 · Cited by 87 — center-embedded clauses are difficult to pro...</p></details>
+   Link:<a href="https://dspace.mit.edu/bitstream/handle/1721.1/148805/1-s2.0-S0010027722000580-main.pdf?isAllowed=y&amp;sequence=2" target="_blank" rel="noopener noreferrer nofollow">https://dspace.mit.edu/bitstream/handle/1721.1/148805/1-s2.0-S0010027722000580-main.pdf?isAllowed=y&amp;sequence=2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>writing, not specialized concepts, drives processing...by E Martínez · 2022 · Cited by 87 — center-embedded clauses are difficult to pro...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: news.mit.edu  
    Title: mit study explains laws incomprehensible writing style 0819  
-   Link: <a href="https://news.mit.edu/2024/mit-study-explains-laws-incomprehensible-writing-style-0819" target="_blank" rel="noopener noreferrer nofollow">https://news.mit.edu/2024/mit-study-explains-laws-incomprehensible-writing-style-0819</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT NewsMIT study explains why laws are written in an...19 Aug 2024 — legal documents frequently have long definitions inserted in the m...</p></details>
+   Link:<a href="https://news.mit.edu/2024/mit-study-explains-laws-incomprehensible-writing-style-0819" target="_blank" rel="noopener noreferrer nofollow">https://news.mit.edu/2024/mit-study-explains-laws-incomprehensible-writing-style-0819</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MIT NewsMIT study explains why laws are written in an...19 Aug 2024 — legal documents frequently have long definitions inserted in the m...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2239011/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2239011/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Computational principles of working memory in sentence...by RL Lewis · 2006 · Cited by 1118 — Our focus on the memory processes under...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2239011/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2239011/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Computational principles of working memory in sentence...by RL Lewis · 2006 · Cited by 1118 — Our focus on the memory processes under...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Center embedding  
-   Link: <a href="https://en.wikipedia.org/wiki/Center_embedding" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Center_embedding</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Center_embedding" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Center_embedding</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pnas.org  
-   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.2302672120" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2302672120</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Even lawyers do not like legaleseby E Martínez · 2023 · Cited by 24 — Experiment 1 revealed that lawyers, like laypeople, were less a...</p></details>
+   Link:<a href="https://www.pnas.org/doi/10.1073/pnas.2302672120" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2302672120</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Even lawyers do not like legaleseby E Martínez · 2023 · Cited by 24 — Experiment 1 revealed that lawyers, like laypeople, were less a...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: bcs.mit.edu  
    Title: even lawyers dont legalese  
-   Link: <a href="https://bcs.mit.edu/news/even-lawyers-dont-legalese" target="_blank" rel="noopener noreferrer nofollow">https://bcs.mit.edu/news/even-lawyers-dont-legalese</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT Brain and Cognitive SciencesEven lawyers don&#x27;t like legalese29 May 2023 — A new study shows lawyers find simplified legal documents e...</p></details>
+   Link:<a href="https://bcs.mit.edu/news/even-lawyers-dont-legalese" target="_blank" rel="noopener noreferrer nofollow">https://bcs.mit.edu/news/even-lawyers-dont-legalese</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MIT Brain and Cognitive SciencesEven lawyers don&#x27;t like legalese29 May 2023 — A new study shows lawyers find simplified legal documents e...</p></details>
    Published: May 2023  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/37253008/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/37253008/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>lawyers do not like legaleseby E Martínez · 2023 · Cited by 24 — Experiment 1 revealed that lawyers, like laypeople, were less able to re...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/37253008/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/37253008/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lawyers do not like legaleseby E Martínez · 2023 · Cited by 24 — Experiment 1 revealed that lawyers, like laypeople, were less able to re...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10078164/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10078164/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In... The matrix verb as a source of comprehension difficulty in object relative...Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10078164/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10078164/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In... The matrix verb as a source of comprehension difficulty in object relative...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7226570/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7226570/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Comprehension of Relative Clauses and Center...by KH Cheon · 2020 · Cited by 5 — Our study provides a valuable insight into how the pure...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7226570/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7226570/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Comprehension of Relative Clauses and Center...by KH Cheon · 2020 · Cited by 5 — Our study provides a valuable insight into how the pure...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: johnjohnw.github.io  
-   Link: <a href="https://johnjohnw.github.io/center_embedding_in_legalese/" target="_blank" rel="noopener noreferrer nofollow">https://johnjohnw.github.io/center_embedding_in_legalese/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Center Embedding in LegaleseCenter embedding occurs when a sentence contains a clause within another clause. This syntactic complexity si...</p></details>
+   Link:<a href="https://johnjohnw.github.io/center_embedding_in_legalese/" target="_blank" rel="noopener noreferrer nofollow">https://johnjohnw.github.io/center_embedding_in_legalese/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Center Embedding in LegaleseCenter embedding occurs when a sentence contains a clause within another clause. This syntactic complexity si...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/science/comments/1exa6as/mit_study_explains_why_laws_are_written_in_an/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/science/comments/1exa6as/mit_study_explains_why_laws_are_written_in_an/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT study explains why laws are written in an...The convoluted “legalese” used in legal documents helps lawyers convey a special sense o...</p></details>
+   Link:<a href="https://www.reddit.com/r/science/comments/1exa6as/mit_study_explains_why_laws_are_written_in_an/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/science/comments/1exa6as/mit_study_explains_why_laws_are_written_in_an/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MIT study explains why laws are written in an...The convoluted “legalese” used in legal documents helps lawyers convey a special sense o...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: adamsdrafting.com  
-   Link: <a href="https://www.adamsdrafting.com/lawyer-attitudes-to-contracts-legalese-my-critique-of-a-new-study-featured-in-the-economist/" target="_blank" rel="noopener noreferrer nofollow">https://www.adamsdrafting.com/lawyer-attitudes-to-contracts-legalese-my-critique-of-a-new-study-featured-in-the-economist/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lawyer Attitudes to Contracts Legalese: My Critique of a...19 Jun 2023 — The false comparison between legal gibberish and more conventio...</p></details>
+   Link:<a href="https://www.adamsdrafting.com/lawyer-attitudes-to-contracts-legalese-my-critique-of-a-new-study-featured-in-the-economist/" target="_blank" rel="noopener noreferrer nofollow">https://www.adamsdrafting.com/lawyer-attitudes-to-contracts-legalese-my-critique-of-a-new-study-featured-in-the-economist/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lawyer Attitudes to Contracts Legalese: My Critique of a...19 Jun 2023 — The false comparison between legal gibberish and more conventio...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/23190459_Complex_Sentence_Comprehension_and_Working_Memory_in_Children_With_Specific_Language_Impairment" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/23190459_Complex_Sentence_Comprehension_and_Working_Memory_in_Children_With_Specific_Language_Impairment</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2002; 23:247–268. Roberts R, Gibson E. Individual differences in sentence memory. Journal of Psycholinguistic. Research. 2002...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/23190459_Complex_Sentence_Comprehension_and_Working_Memory_in_Children_With_Specific_Language_Impairment" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/23190459_Complex_Sentence_Comprehension_and_Working_Memory_in_Children_With_Specific_Language_Impairment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2002; 23:247–268. Roberts R, Gibson E. Individual differences in sentence memory. Journal of Psycholinguistic. Research. 2002...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ssl2.cms.fu-berlin.de  
-   Link: <a href="https://ssl2.cms.fu-berlin.de/geisteswissenschaften/v/brainlang/PM_Intranet/Neurobiology-of-Language/Caplan2016HBNBL_workingmemorysentencecomprehension.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ssl2.cms.fu-berlin.de/geisteswissenschaften/v/brainlang/PM_Intranet/Neurobiology-of-Language/Caplan2016HBNBL_workingmemorysentencecomprehension.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>12. It was the... Memory and levels of proces- · sing in a psycholinguistic context. Journal of...Read more...</p></details>
+   Link:<a href="https://ssl2.cms.fu-berlin.de/geisteswissenschaften/v/brainlang/PM_Intranet/Neurobiology-of-Language/Caplan2016HBNBL_workingmemorysentencecomprehension.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ssl2.cms.fu-berlin.de/geisteswissenschaften/v/brainlang/PM_Intranet/Neurobiology-of-Language/Caplan2016HBNBL_workingmemorysentencecomprehension.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>12. It was the... Memory and levels of proces- · sing in a psycholinguistic context. Journal of...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
    Title: lawyers and nonlawyers alike prefer contracts written in plain english  
-   Link: <a href="https://www.facebook.com/ScientificAmerican/posts/lawyers-and-nonlawyers-alike-prefer-contracts-written-in-plain-english/679480314050244/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ScientificAmerican/posts/lawyers-and-nonlawyers-alike-prefer-contracts-written-in-plain-english/679480314050244/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lawyers and nonlawyers alike prefer contracts written in...In a follow-up study published in 2023, the researchers found that legalese a...</p></details>
+   Link:<a href="https://www.facebook.com/ScientificAmerican/posts/lawyers-and-nonlawyers-alike-prefer-contracts-written-in-plain-english/679480314050244/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ScientificAmerican/posts/lawyers-and-nonlawyers-alike-prefer-contracts-written-in-plain-english/679480314050244/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lawyers and nonlawyers alike prefer contracts written in...In a follow-up study published in 2023, the researchers found that legalese a...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: adamsdrafting.com  
    Title: another misleading attempt to explain why legalese is the way it is  
-   Link: <a href="https://www.adamsdrafting.com/another-misleading-attempt-to-explain-why-legalese-is-the-way-it-is/" target="_blank" rel="noopener noreferrer nofollow">https://www.adamsdrafting.com/another-misleading-attempt-to-explain-why-legalese-is-the-way-it-is/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Another Misleading Attempt to Explain Why Legalese Is the...26 Aug 2024 — The first article offers as an example of center-embedded clau...</p></details>
+   Link:<a href="https://www.adamsdrafting.com/another-misleading-attempt-to-explain-why-legalese-is-the-way-it-is/" target="_blank" rel="noopener noreferrer nofollow">https://www.adamsdrafting.com/another-misleading-attempt-to-explain-why-legalese-is-the-way-it-is/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Another Misleading Attempt to Explain Why Legalese Is the...26 Aug 2024 — The first article offers as an example of center-embedded clau...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: capstan.be  
-   Link: <a href="https://www.capstan.be/research-by-mit-cognitive-scientists-sheds-light-on-the-features-that-make-legalese-so-difficult-to-understand-for-lay-people/" target="_blank" rel="noopener noreferrer nofollow">https://www.capstan.be/research-by-mit-cognitive-scientists-sheds-light-on-the-features-that-make-legalese-so-difficult-to-understand-for-lay-people/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>23 Nov 2022 — Their research has pinpointed several features that distinguish legal from nonlegal texts, including center-embedded...</p></details>
+   Link:<a href="https://www.capstan.be/research-by-mit-cognitive-scientists-sheds-light-on-the-features-that-make-legalese-so-difficult-to-understand-for-lay-people/" target="_blank" rel="noopener noreferrer nofollow">https://www.capstan.be/research-by-mit-cognitive-scientists-sheds-light-on-the-features-that-make-legalese-so-difficult-to-understand-for-lay-people/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>23 Nov 2022 — Their research has pinpointed several features that distinguish legal from nonlegal texts, including center-embedded...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/6575933_Relational_processing_and_working_memory_capacity_in_comprehension_of_relative_clause_sentences" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/6575933_Relational_processing_and_working_memory_capacity_in_comprehension_of_relative_clause_sentences</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>sing of subject-and object-relative clauses has been conducted on typically...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/6575933_Relational_processing_and_working_memory_capacity_in_comprehension_of_relative_clause_sentences" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/6575933_Relational_processing_and_working_memory_capacity_in_comprehension_of_relative_clause_sentences</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sing of subject-and object-relative clauses has been conducted on typically...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: centaur.reading.ac.uk  
    Title: reading.ac.uk Working memory and L2 sentence processing  
-   Link: <a href="https://centaur.reading.ac.uk/106198/1/Working%20Memory%20and%20L2%20Sentence%20Processing%20-%20Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centaur.reading.ac.uk/106198/1/Working%20Memory%20and%20L2%20Sentence%20Processing%20-%20Final.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>memory and L2 sentence processing - CentAURby I Cunnings · 2022 · Cited by 11 — This includes both the tasks used to [measure](&amp;#123;&amp;#123; &#x27;measure/&#x27; | relative_url &amp;#125;&amp;#125;) memory capac...</p></details>
+   Link:<a href="https://centaur.reading.ac.uk/106198/1/Working%20Memory%20and%20L2%20Sentence%20Processing%20-%20Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centaur.reading.ac.uk/106198/1/Working%20Memory%20and%20L2%20Sentence%20Processing%20-%20Final.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>memory and L2 sentence processing - CentAURby I Cunnings · 2022 · Cited by 11 — This includes both the tasks used to [measure](&amp;#123;&amp;#123; &#x27;measure/&#x27; | relative_url &amp;#125;&amp;#125;) memory capac...</p></details>

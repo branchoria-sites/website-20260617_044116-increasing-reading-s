@@ -273,7 +273,7 @@ One of the simplest ways to break an anxiety-driven rereading habit is to delay 
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_rereading_reg_828352_anxious_rerea_153532_delayed_verif_cee97d-Illustration-1-dark.svg" | relative_url }}" alt="Delay Check illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_rereading_reg_828352_anxious_rerea_153532_delayed_verif_cee97d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_rereading_reg_828352_anxious_rerea_153532_delayed_verif_cee97d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For readers trying to increase reading speed, delayed verification matters because immediate checking interrupts flow and encourages repeated [regressions]({{ 'lookbacks/' | relative_url }}) into already-read text. Research on metacognitive monitoring shows that readers are not always accurate judges of their own understanding in the moment, while studies of rereading suggest that familiarity can create misleading feelings of certainty. Waiting briefly before checking helps separate real comprehension problems from temporary discomfort. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.02253/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers+2ejop.psychopen.eu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Frontiers Metacognitive Monitoring of Text Comprehension</span><span class="citation-popover-snippet">FrontiersMetacognitive Monitoring of Text ComprehensionNovember 20, 2018 — by C Mirandola · 2018 · Cited by 30 — The ability to assess an...</span><span class="citation-popover-meta">Published: November 20, 2018</span></span></span>
+For readers trying to increase reading speed, delayed verification matters because immediate checking interrupts flow and encourages repeated [regressions]({{ 'lookbacks/' | relative_url }}) into already-read text. Research on metacognitive monitoring shows that readers are not always accurate judges of their own understanding in the moment, while studies of rereading suggest that familiarity can create misleading feelings of certainty. Waiting briefly before checking helps separate real comprehension problems from temporary discomfort.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.02253/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers+2ejop.psychopen.eu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Frontiers Metacognitive Monitoring of Text Comprehension</span><span class="citation-popover-snippet">FrontiersMetacognitive Monitoring of Text ComprehensionNovember 20, 2018 — by C Mirandola · 2018 · Cited by 30 — The ability to assess an...</span><span class="citation-popover-meta">Published: November 20, 2018</span></span></span>
 
 ## How Delayed Checking Tests Real Comprehension
 
@@ -303,7 +303,7 @@ Many rereading impulses occur before the text has finished explaining itself.
 
 Consider a paragraph that begins by introducing an unfamiliar concept. The first sentence may seem vague because important [definitions]({{ 'definitions/' | relative_url }}) arrive later. A reader who immediately returns to the opening line may repeatedly inspect incomplete information. A reader who waits until the paragraph ends receives the missing context before deciding whether verification is needed.
 
-This pattern reflects a broader finding from reading research: comprehension depends heavily on integration across phrases, sentences, and larger discourse structures rather than on perfect understanding of every word at first encounter. [Eye-movement]({{ 'eye-tradeoff/' | relative_url }}) studies show that regressions can serve a useful role when integration fails, but not every moment of difficulty requires an immediate backward movement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.3758/s13421-012-0244-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">The function of regressions in reading: Backward eye...by RW Booth · 2013 · Cited by 134 — These results suggest that readers us...</span></span></span>
+This pattern reflects a broader finding from reading research: comprehension depends heavily on integration across phrases, sentences, and larger discourse structures rather than on perfect understanding of every word at first encounter. [Eye-movement]({{ 'eye-tradeoff/' | relative_url }}) studies show that regressions can serve a useful role when integration fails, but not every moment of difficulty requires an immediate backward movement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.3758/s13421-012-0244-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">The function of regressions in reading: Backward eye...by RW Booth · 2013 · Cited by 134 — These results suggest that readers us...</span></span></span>
 
 In practice, context often resolves uncertainty through:
 
@@ -326,9 +326,9 @@ The delayed verification rule allows these normal comprehension processes to ope
 
 The urge to reread often feels rational because uncertainty is unpleasant. However, feelings of uncertainty and actual comprehension are not identical.
 
-Research on metacognition has repeatedly found that people can misjudge what they know. Familiarity and processing fluency can create illusions of understanding, while temporary difficulty can create the opposite illusion—feeling lost despite adequate comprehension. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ejop.psychopen.eu/index.php/ejop/article/view/1418/1418.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ejop.psychopen.eu">[ejop.psychopen.eu+2Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ejop.psychopen.eu</span><span class="citation-popover-snippet">Paper presented at the Annual Meeting of the Eastern...Read more...</span></span></span>
+Research on metacognition has repeatedly found that people can misjudge what they know. Familiarity and processing fluency can create illusions of understanding, while temporary difficulty can create the opposite illusion—feeling lost despite adequate comprehension.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ejop.psychopen.eu/index.php/ejop/article/view/1418/1418.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ejop.psychopen.eu">[ejop.psychopen.eu+2Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ejop.psychopen.eu</span><span class="citation-popover-snippet">Paper presented at the Annual Meeting of the Eastern...Read more...</span></span></span>
 
-Immediate rereading is particularly vulnerable to this problem. Returning to a sentence makes it look more familiar, which can produce a reassuring sense of clarity. Yet that feeling may reflect repeated exposure rather than additional understanding. Studies examining rereading and metacomprehension have found that rereading can alter confidence judgements, sometimes [increasing]({{ 'increasing/' | relative_url }}) confidence more than actual knowledge warrants. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s11251-024-09686-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Comparing the effectiveness of multiple text reading and...by P Seban · 2025 · Cited by 10 — Regarding metacognitive monitoring...</span></span></span>
+Immediate rereading is particularly vulnerable to this problem. Returning to a sentence makes it look more familiar, which can produce a reassuring sense of clarity. Yet that feeling may reflect repeated exposure rather than additional understanding. Studies examining rereading and metacomprehension have found that rereading can alter confidence judgements, sometimes [increasing]({{ 'increasing/' | relative_url }}) confidence more than actual knowledge warrants.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s11251-024-09686-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Comparing the effectiveness of multiple text reading and...by P Seban · 2025 · Cited by 10 — Regarding metacognitive monitoring...</span></span></span>
 
 Delayed verification changes the decision criterion. Instead of asking, “Do I feel completely certain right now?”, the reader asks, “Can I still explain the paragraph after finishing it?” The second question is usually a better indicator of real comprehension.
 
@@ -410,178 +410,178 @@ The goal is not perfect certainty. The goal is accurate comprehension with fewer
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Paragraph Test for Breaking Rereading Loops. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Paragraph Test for Breaking Rereading Loops. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Checklist+Manifesto+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Checklist Manifesto on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7GJi0fsSmUoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Checklist Manifesto" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Checklist+Manifesto+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Checklist Manifesto">The Checklist Manifesto</a>
-        </h4>
-        <p class="fr-book-author">By Atul Gawande</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Checklist+Manifesto+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Checklist Manifesto on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7GJi0fsSmUoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Checklist Manifesto" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Checklist+Manifesto+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Checklist Manifesto">The Checklist Manifesto</a>
+</h4>
+<p class="fr-book-author">By Atul Gawande</p>
         
-        <p class="fr-book-desc">Supports delayed verification and structured checking rather than impulsive checking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Checklist+Manifesto+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports delayed verification and structured checking rather than impulsive checking.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Checklist+Manifesto+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Provides structured approaches that reduce uncertainty-driven rereading.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Provides structured approaches that reduce uncertainty-driven rereading.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Shows why immediate feelings of uncertainty can be misleading.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows why immediate feelings of uncertainty can be misleading.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mSiOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mSiOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
         
-        <p class="fr-book-desc">Provides practical methods for breaking repetitive habits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides practical methods for breaking repetitive habits.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Checklist+Manifesto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Checklist Manifesto</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Checklist+Manifesto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Checklist Manifesto</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-check-the-paragraph-test-for-breaking-rereading-loops-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="delay-check-the-paragraph-test-for-breaking-rereading-loops-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desk Organiser Tray Organiser Office File Organiser Engineered wood vidaXL"><img src="{{ '/assets/images/marketplace-covers/509c5226465c913ad15d.jpg' | relative_url }}" alt="Listing image for Desk Organiser Tray Organiser Office File Organiser Engineered wood vidaXL" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-check-the-paragraph-test-for-breaking-rereading-loops-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="delay-check-the-paragraph-test-for-breaking-rereading-loops-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Desk Organiser Tray Organiser Office File Organiser Engineered wood vidaXL</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-check-the-paragraph-test-for-breaking-rereading-loops-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="delay-check-the-paragraph-test-for-breaking-rereading-loops-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: study desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-check-the-paragraph-test-for-breaking-rereading-loops-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="delay-check-the-paragraph-test-for-breaking-rereading-loops-increasing-study-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-check-the-paragraph-test-for-breaking-rereading-loops-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="delay-check-the-paragraph-test-for-breaking-rereading-loops-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desk Organiser Tray Organiser Office File Organiser Engineered wood vidaXL"><img src="{{ '/assets/images/marketplace-covers/509c5226465c913ad15d.jpg' | relative_url }}" alt="Listing image for Desk Organiser Tray Organiser Office File Organiser Engineered wood vidaXL" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-check-the-paragraph-test-for-breaking-rereading-loops-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="delay-check-the-paragraph-test-for-breaking-rereading-loops-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Desk Organiser Tray Organiser Office File Organiser Engineered wood vidaXL</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-check-the-paragraph-test-for-breaking-rereading-loops-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="delay-check-the-paragraph-test-for-breaking-rereading-loops-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: study desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-check-the-paragraph-test-for-breaking-rereading-loops-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="delay-check-the-paragraph-test-for-breaking-rereading-loops-increasing-study-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-check-the-paragraph-test-for-breaking-rereading-loops-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="delay-check-the-paragraph-test-for-breaking-rereading-loops-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Office Study Desk Organizer Table Box Tidy Case Display Stationaries Pen Holder"><img src="{{ '/assets/images/marketplace-covers/5c9ca9153eac647ccfb2.jpg' | relative_url }}" alt="Listing image for Office Study Desk Organizer Table Box Tidy Case Display Stationaries Pen Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-check-the-paragraph-test-for-breaking-rereading-loops-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="delay-check-the-paragraph-test-for-breaking-rereading-loops-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Office Study Desk Organizer Table Box Tidy Case Display Stationaries Pen Holder</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-check-the-paragraph-test-for-breaking-rereading-loops-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="delay-check-the-paragraph-test-for-breaking-rereading-loops-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: study desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-check-the-paragraph-test-for-breaking-rereading-loops-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="delay-check-the-paragraph-test-for-breaking-rereading-loops-increasing-study-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-check-the-paragraph-test-for-breaking-rereading-loops-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="delay-check-the-paragraph-test-for-breaking-rereading-loops-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Office Study Desk Organizer Table Box Tidy Case Display Stationaries Pen Holder"><img src="{{ '/assets/images/marketplace-covers/5c9ca9153eac647ccfb2.jpg' | relative_url }}" alt="Listing image for Office Study Desk Organizer Table Box Tidy Case Display Stationaries Pen Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-check-the-paragraph-test-for-breaking-rereading-loops-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="delay-check-the-paragraph-test-for-breaking-rereading-loops-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Office Study Desk Organizer Table Box Tidy Case Display Stationaries Pen Holder</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-check-the-paragraph-test-for-breaking-rereading-loops-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="delay-check-the-paragraph-test-for-breaking-rereading-loops-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: study desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-check-the-paragraph-test-for-breaking-rereading-loops-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="delay-check-the-paragraph-test-for-breaking-rereading-loops-increasing-study-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-check-the-paragraph-test-for-breaking-rereading-loops-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="delay-check-the-paragraph-test-for-breaking-rereading-loops-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Under Desk Drawers Study Table Drawer Tray Pencil Storage Organizer Box Holder"><img src="{{ '/assets/images/marketplace-covers/33486c199d5fa156bbf4.jpg' | relative_url }}" alt="Listing image for Under Desk Drawers Study Table Drawer Tray Pencil Storage Organizer Box Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-check-the-paragraph-test-for-breaking-rereading-loops-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="delay-check-the-paragraph-test-for-breaking-rereading-loops-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Under Desk Drawers Study Table Drawer Tray Pencil Storage Organizer Box Holder</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-check-the-paragraph-test-for-breaking-rereading-loops-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="delay-check-the-paragraph-test-for-breaking-rereading-loops-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: study desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-check-the-paragraph-test-for-breaking-rereading-loops-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="delay-check-the-paragraph-test-for-breaking-rereading-loops-increasing-study-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-check-the-paragraph-test-for-breaking-rereading-loops-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="delay-check-the-paragraph-test-for-breaking-rereading-loops-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-check-the-paragraph-test-for-breaking-rereading-loops-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="delay-check-the-paragraph-test-for-breaking-rereading-loops-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Under Desk Drawers Study Table Drawer Tray Pencil Storage Organizer Box Holder"><img src="{{ '/assets/images/marketplace-covers/33486c199d5fa156bbf4.jpg' | relative_url }}" alt="Listing image for Under Desk Drawers Study Table Drawer Tray Pencil Storage Organizer Box Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-check-the-paragraph-test-for-breaking-rereading-loops-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="delay-check-the-paragraph-test-for-breaking-rereading-loops-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Under Desk Drawers Study Table Drawer Tray Pencil Storage Organizer Box Holder</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-check-the-paragraph-test-for-breaking-rereading-loops-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="delay-check-the-paragraph-test-for-breaking-rereading-loops-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: study desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-check-the-paragraph-test-for-breaking-rereading-loops-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="delay-check-the-paragraph-test-for-breaking-rereading-loops-increasing-study-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-check-the-paragraph-test-for-breaking-rereading-loops-increasing-study-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study desk organizer" data-ebay-reference="delay-check-the-paragraph-test-for-breaking-rereading-loops-increasing-study-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -597,7 +597,7 @@ The goal is not perfect certainty. The goal is accurate comprehension with fewer
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -617,7 +617,7 @@ The goal is not perfect certainty. The goal is accurate comprehension with fewer
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -649,7 +649,7 @@ The goal is not perfect certainty. The goal is accurate comprehension with fewer
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -701,7 +701,7 @@ The goal is not perfect certainty. The goal is accurate comprehension with fewer
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -746,7 +746,7 @@ The goal is not perfect certainty. The goal is accurate comprehension with fewer
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -787,113 +787,113 @@ The goal is not perfect certainty. The goal is accurate comprehension with fewer
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ejop.psychopen.eu  
-   Link: <a href="https://ejop.psychopen.eu/index.php/ejop/article/view/1418/1418.html" target="_blank" rel="noopener noreferrer nofollow">https://ejop.psychopen.eu/index.php/ejop/article/view/1418/1418.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Paper presented at the Annual Meeting of the Eastern...Read more...</p></details>
+   Link:<a href="https://ejop.psychopen.eu/index.php/ejop/article/view/1418/1418.html" target="_blank" rel="noopener noreferrer nofollow">https://ejop.psychopen.eu/index.php/ejop/article/view/1418/1418.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Paper presented at the Annual Meeting of the Eastern...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s11251-024-09686-4" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11251-024-09686-4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Comparing the effectiveness of multiple text reading and...by P Seban · 2025 · Cited by 10 — Regarding metacognitive monitoring...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s11251-024-09686-4" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11251-024-09686-4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Comparing the effectiveness of multiple text reading and...by P Seban · 2025 · Cited by 10 — Regarding metacognitive monitoring...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.3758/s13421-012-0244-y" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13421-012-0244-y</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The function of regressions in reading: Backward eye...by RW Booth · 2013 · Cited by 134 — These results suggest that readers us...</p></details>
+   Link:<a href="https://link.springer.com/article/10.3758/s13421-012-0244-y" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13421-012-0244-y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The function of regressions in reading: Backward eye...by RW Booth · 2013 · Cited by 134 — These results suggest that readers us...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
    Title: 334364752 Regressions during Reading  
-   Link: <a href="https://www.researchgate.net/publication/334364752_Regressions_during_Reading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/334364752_Regressions_during_Reading</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Regressions during Reading29 Oct 2025 — Readers occasionally move their eyes to prior text. We distinguish two types of these movem...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/334364752_Regressions_during_Reading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/334364752_Regressions_during_Reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Regressions during Reading29 Oct 2025 — Readers occasionally move their eyes to prior text. We distinguish two types of these movem...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/232527291_Why_Does_Rereading_Improve_Metacomprehension_Accuracy_Evaluating_the_Levels-of-Disruption_Hypothesis_for_the_Rereading_Effect" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232527291_Why_Does_Rereading_Improve_Metacomprehension_Accuracy_Evaluating_the_Levels-of-Disruption_Hypothesis_for_the_Rereading_Effect</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This research investigated this rereading effect by...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/232527291_Why_Does_Rereading_Improve_Metacomprehension_Accuracy_Evaluating_the_Levels-of-Disruption_Hypothesis_for_the_Rereading_Effect" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232527291_Why_Does_Rereading_Improve_Metacomprehension_Accuracy_Evaluating_the_Levels-of-Disruption_Hypothesis_for_the_Rereading_Effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This research investigated this rereading effect by...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/230658181_The_function_of_regressions_in_reading_Backward_eye_movements_allow_rereading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/230658181_The_function_of_regressions_in_reading_Backward_eye_movements_allow_rereading</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The function of regressions in reading: Backward...The most obvious explanation is that regressions allow for the rereading of pre...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/230658181_The_function_of_regressions_in_reading_Backward_eye_movements_allow_rereading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/230658181_The_function_of_regressions_in_reading_Backward_eye_movements_allow_rereading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The function of regressions in reading: Backward...The most obvious explanation is that regressions allow for the rereading of pre...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s11409-025-09440-2" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11409-025-09440-2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s11409-025-09440-2" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11409-025-09440-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: frontiersin.org  
    Title: Frontiers Metacognitive Monitoring of Text Comprehension  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.02253/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.02253/full</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersMetacognitive Monitoring of Text ComprehensionNovember 20, 2018 — by C Mirandola · 2018 · Cited by 30 — The ability to assess an...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.02253/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.02253/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersMetacognitive Monitoring of Text ComprehensionNovember 20, 2018 — by C Mirandola · 2018 · Cited by 30 — The ability to assess an...</p></details>
    Published: November 20, 2018  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22886737/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 131 — The most obvious explanation is that re...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/22886737/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22886737/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The function of regressions in reading: backward eye...by RW Booth · 2013 · Cited by 131 — The most obvious explanation is that re...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1576247/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1576247/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Assessing the rereading effect of digital reading through...by Y Xu · 2025 — The goal of this study is to investigate the differences in...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1576247/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1576247/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Assessing the rereading effect of digital reading through...by Y Xu · 2025 — The goal of this study is to investigate the differences in...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1077882/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1077882/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ultimately, knowledge of what can be gleaned from early readers&#x27; natural...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1077882/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2023.1077882/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ultimately, knowledge of what can be gleaned from early readers&#x27; natural...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: shanahanonliteracy.com  
-   Link: <a href="https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Everything You Wanted to Know about Repeated ReadingRepeated reading usually leads to better [oral reading](&amp;#123;&amp;#123; &#x27;reading-aloud/&#x27; | relative_url &amp;#125;&amp;#125;) performance and reading compreh...</p></details>
+   Link:<a href="https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Everything You Wanted to Know about Repeated ReadingRepeated reading usually leads to better [oral reading](&amp;#123;&amp;#123; &#x27;reading-aloud/&#x27; | relative_url &amp;#125;&amp;#125;) performance and reading compreh...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: utupub.fi  
-   Link: <a href="https://www.utupub.fi/bitstream/handle/10024/190693/Reading%20Research%20Quarterly%20-%202023%20-%20M%20zi%20re%20-%20Using%20Eye%20Tracking%20Measures%20to%20Predict%20Reading%20Comprehension.pdf?sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://www.utupub.fi/bitstream/handle/10024/190693/Reading%20Research%20Quarterly%20-%202023%20-%20M%20zi%20re%20-%20Using%20Eye%20Tracking%20Measures%20to%20Predict%20Reading%20Comprehension.pdf?sequence=1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This study examined the potential of eye- tracking as a tool for assessing reading comprehension. We administered three widely used readi...</p></details>
+   Link:<a href="https://www.utupub.fi/bitstream/handle/10024/190693/Reading%20Research%20Quarterly%20-%202023%20-%20M%20zi%20re%20-%20Using%20Eye%20Tracking%20Measures%20to%20Predict%20Reading%20Comprehension.pdf?sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://www.utupub.fi/bitstream/handle/10024/190693/Reading%20Research%20Quarterly%20-%202023%20-%20M%20zi%20re%20-%20Using%20Eye%20Tracking%20Measures%20to%20Predict%20Reading%20Comprehension.pdf?sequence=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This study examined the potential of eye- tracking as a tool for assessing reading comprehension. We administered three widely used readi...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: iris.unipa.it  
-   Link: <a href="https://iris.unipa.it/retrieve/handle/10447/544669/1312405/H0902033848.pdf" target="_blank" rel="noopener noreferrer nofollow">https://iris.unipa.it/retrieve/handle/10447/544669/1312405/H0902033848.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Metacomprehension and Metacognitive...by V Di Martino · Cited by 9 — The following is a brief review of studies utilizing both survey an...</p></details>
+   Link:<a href="https://iris.unipa.it/retrieve/handle/10447/544669/1312405/H0902033848.pdf" target="_blank" rel="noopener noreferrer nofollow">https://iris.unipa.it/retrieve/handle/10447/544669/1312405/H0902033848.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Metacomprehension and Metacognitive...by V Di Martino · Cited by 9 — The following is a brief review of studies utilizing both survey an...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: my.chartered.college  
-   Link: <a href="https://my.chartered.college/research-hub/metacognition-and-reading/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/research-hub/metacognition-and-reading/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and readingMetacognitive regulation: involves cognitive activities such as planning, monitoring, evaluating and revising strategies, and...</p></details>
+   Link:<a href="https://my.chartered.college/research-hub/metacognition-and-reading/" target="_blank" rel="noopener noreferrer nofollow">https://my.chartered.college/research-hub/metacognition-and-reading/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and readingMetacognitive regulation: involves cognitive activities such as planning, monitoring, evaluating and revising strategies, and...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: benchmarkeducation.com  
-   Link: <a href="https://www.benchmarkeducation.com/s2-ep003-a-360-view-of-literacy-metacognition-the-missing-link-in-reading-instruction" target="_blank" rel="noopener noreferrer nofollow">https://www.benchmarkeducation.com/s2-ep003-a-360-view-of-literacy-metacognition-the-missing-link-in-reading-instruction</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Metacognition—The Missing Link in Reading Instruction8 Sept 2023 — Peter Afflerbach highlights the critical role of metacognition in read...</p></details>
+   Link:<a href="https://www.benchmarkeducation.com/s2-ep003-a-360-view-of-literacy-metacognition-the-missing-link-in-reading-instruction" target="_blank" rel="noopener noreferrer nofollow">https://www.benchmarkeducation.com/s2-ep003-a-360-view-of-literacy-metacognition-the-missing-link-in-reading-instruction</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Metacognition—The Missing Link in Reading Instruction8 Sept 2023 — Peter Afflerbach highlights the critical role of metacognition in read...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: eric.ed.gov  
    Title: ERICMetacomprehension and Regressions during Reading  
-   Link: <a href="https://eric.ed.gov/?id=EJ1331905" target="_blank" rel="noopener noreferrer nofollow">https://eric.ed.gov/?id=EJ1331905</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by AY Wong · 2022 · Cited by 4 — Studies have found that metacomprehension accuracy tends to be poor, but there has also been evidenc...</p></details>
+   Link:<a href="https://eric.ed.gov/?id=EJ1331905" target="_blank" rel="noopener noreferrer nofollow">https://eric.ed.gov/?id=EJ1331905</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by AY Wong · 2022 · Cited by 4 — Studies have found that metacomprehension accuracy tends to be poor, but there has also been evidenc...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nko.nl  
-   Link: <a href="https://www.nko.nl/sites/nro/files/migrate/411-10-910-010-Proefschrift_Reijners.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nko.nl/sites/nro/files/migrate/411-10-910-010-Proefschrift_Reijners.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>expository text and to further investigate the direct and indirect effects...Read more...</p></details>
+   Link:<a href="https://www.nko.nl/sites/nro/files/migrate/411-10-910-010-Proefschrift_Reijners.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nko.nl/sites/nro/files/migrate/411-10-910-010-Proefschrift_Reijners.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>expository text and to further investigate the direct and indirect effects...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: structural-learning.com  
-   Link: <a href="https://www.structural-learning.com/post/metacognitive-monitoring-fixing-student" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/metacognitive-monitoring-fixing-student</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Structural LearningMetacognitive Monitoring: Fixing Learner Overconfidence4 Mar 2026 — Re-reading and highlighting feel productive but do...</p></details>
+   Link:<a href="https://www.structural-learning.com/post/metacognitive-monitoring-fixing-student" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/metacognitive-monitoring-fixing-student</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Structural LearningMetacognitive Monitoring: Fixing Learner Overconfidence4 Mar 2026 — Re-reading and highlighting feel productive but do...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: gemmlearning.com  
-   Link: <a href="https://www.gemmlearning.com/can-help/reading/info/metacognition/" target="_blank" rel="noopener noreferrer nofollow">https://www.gemmlearning.com/can-help/reading/info/metacognition/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rstanding this?” If not, they [slow down](&amp;#123;&amp;#123; &#x27;slow-down/&#x27; | relative_url &amp;#125;&amp;#125;), re-read or find other...Read more...</p></details>
+   Link:<a href="https://www.gemmlearning.com/can-help/reading/info/metacognition/" target="_blank" rel="noopener noreferrer nofollow">https://www.gemmlearning.com/can-help/reading/info/metacognition/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rstanding this?” If not, they [slow down](&amp;#123;&amp;#123; &#x27;slow-down/&#x27; | relative_url &amp;#125;&amp;#125;), re-read or find other...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: users.cecs.anu.edu.au  
-   Link: <a href="https://users.cecs.anu.edu.au/~Tom.Gedeon/pdfs/Measuring%20reading%20comprehension%20using%20eye%20movements.pdf" target="_blank" rel="noopener noreferrer nofollow">https://users.cecs.anu.edu.au/~Tom.Gedeon/pdfs/Measuring%20reading%20comprehension%20using%20eye%20movements.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This builds on previous work on factors affecting reading...Read more...</p></details>
+   Link:<a href="https://users.cecs.anu.edu.au/~Tom.Gedeon/pdfs/Measuring%20reading%20comprehension%20using%20eye%20movements.pdf" target="_blank" rel="noopener noreferrer nofollow">https://users.cecs.anu.edu.au/~Tom.Gedeon/pdfs/Measuring%20reading%20comprehension%20using%20eye%20movements.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This builds on previous work on factors affecting reading...Read more...</p></details>

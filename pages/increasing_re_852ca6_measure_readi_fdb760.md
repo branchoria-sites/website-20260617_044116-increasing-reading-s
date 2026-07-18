@@ -337,13 +337,13 @@ A reading speed test only helps if it measures what speed is for: getting meanin
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_measure_readi_fdb760-overview.webp" | relative_url }}" alt="Overview image for Measure" loading="eager" decoding="sync" fetchpriority="high">
-That matters because normal reading speed already varies by text type. A large review estimated average adult silent reading in English at about 238 words per minute for non-fiction and 260 for fiction, with many adults falling roughly between 175 and 300 words per minute for non-fiction. The same person may read a familiar blog post much faster than a legal clause or scientific explanation, without either result being a truer measure of ability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://biblio.ugent.be/publication/8647789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: biblio.ugent.be">[Biblio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">biblio.ugent.be</span><span class="citation-popover-title">Biblio How many words do we read per minute?</span><span class="citation-popover-snippet">A review and meta...by M Brysbaert · 2019 · Cited by 879 — The average oral reading rate (based on 77 studies and 5965 participants) is...</span></span></span>
+That matters because normal reading speed already varies by text type. A large review estimated average adult silent reading in English at about 238 words per minute for non-fiction and 260 for fiction, with many adults falling roughly between 175 and 300 words per minute for non-fiction. The same person may read a familiar blog post much faster than a legal clause or scientific explanation, without either result being a truer measure of ability.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://biblio.ugent.be/publication/8647789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: biblio.ugent.be">[Biblio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">biblio.ugent.be</span><span class="citation-popover-title">Biblio How many words do we read per minute?</span><span class="citation-popover-snippet">A review and meta...by M Brysbaert · 2019 · Cited by 879 — The average oral reading rate (based on 77 studies and 5965 participants) is...</span></span></span>
 
 ## Set a fair baseline before chasing speed
 
 A baseline is useful only when it reflects normal reading, not a one-off sprint. The simplest method is to choose a [fresh passage]({{ 'passage-banks/' | relative_url }}), read it at a pace that feels natural for good understanding, time the session, and calculate words per minute. Then add a short comprehension check before recording the result.
 
-The passage matters. [Speed-reading]({{ 'myths/' | relative_url }}) claims often become impressive by using simple, familiar, or skim-friendly text. Research on reading rate shows that estimates change with task, format, and text characteristics; Brysbaert’s review found different averages for fiction and non-fiction, partly because non-fiction tends to use longer words. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://gwern.net/doc/psychology/linguistics/2019-brysbaert.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gwern.net">[Gwern]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gwern.net</span><span class="citation-popover-title">How many words do we read per minute?</span><span class="citation-popover-snippet">A review and...August 9, 2019 — For silent reading of English non-fiction most adults fall in the range of 175–300 wpm; for fiction the...</span><span class="citation-popover-meta">Published: August 9, 2019</span></span></span> A fair baseline should therefore record at least four details:
+The passage matters. [Speed-reading]({{ 'myths/' | relative_url }}) claims often become impressive by using simple, familiar, or skim-friendly text. Research on reading rate shows that estimates change with task, format, and text characteristics; Brysbaert’s review found different averages for fiction and non-fiction, partly because non-fiction tends to use longer words.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://gwern.net/doc/psychology/linguistics/2019-brysbaert.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gwern.net">[Gwern]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gwern.net</span><span class="citation-popover-title">How many words do we read per minute?</span><span class="citation-popover-snippet">A review and...August 9, 2019 — For silent reading of English non-fiction most adults fall in the range of 175–300 wpm; for fiction the...</span><span class="citation-popover-meta">Published: August 9, 2019</span></span></span> A fair baseline should therefore record at least four details:
 
 * **Text type:** fiction, general non-fiction, academic, technical, professional, exam-style, or web article.
 * **Difficulty:** familiar, moderately challenging, or unfamiliar.
@@ -372,9 +372,9 @@ A practical recall check can be short:
 
 </div>
 
-This approach is closer to the real purpose of reading than a bare WPM score. The National Reading Panel described fluency as reading with speed, accuracy, and proper expression, and stressed that fluency matters because inefficient reading makes it harder to remember and connect ideas. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nichd.nih.gov/publications/pubs/nrp/findings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nichd.nih.gov">[NICHD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nichd.nih.gov</span><span class="citation-popover-title">NICHDReport of the National Reading Panel</span><span class="citation-popover-snippet">Fluency. Fluent readers are able to read orally with speed, accuracy, and proper expression. Fluency is one of several critical fact...</span></span></span> In school assessment, [oral reading]({{ 'reading-aloud/' | relative_url }}) fluency measures often combine rate and accuracy; some systems also add retelling because the end goal is meaning, not fast word calling. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://acadiencelearning.org/help-center/oral-reading-fluency-orf-and-retell/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acadiencelearning.org">[Acadience Learning]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acadiencelearning.org</span><span class="citation-popover-snippet">Acadience LearningOral Reading Fluency (ORF) and RetellOral Reading Fluency (ORF) is a measure of advanced phonics and word attack skills...</span></span></span>
+This approach is closer to the real purpose of reading than a bare WPM score. The National Reading Panel described fluency as reading with speed, accuracy, and proper expression, and stressed that fluency matters because inefficient reading makes it harder to remember and connect ideas.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nichd.nih.gov/publications/pubs/nrp/findings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nichd.nih.gov">[NICHD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nichd.nih.gov</span><span class="citation-popover-title">NICHDReport of the National Reading Panel</span><span class="citation-popover-snippet">Fluency. Fluent readers are able to read orally with speed, accuracy, and proper expression. Fluency is one of several critical fact...</span></span></span> In school assessment, [oral reading]({{ 'reading-aloud/' | relative_url }}) fluency measures often combine rate and accuracy; some systems also add retelling because the end goal is meaning, not fast word calling.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://acadiencelearning.org/help-center/oral-reading-fluency-orf-and-retell/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acadiencelearning.org">[Acadience Learning]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acadiencelearning.org</span><span class="citation-popover-snippet">Acadience LearningOral Reading Fluency (ORF) and RetellOral Reading Fluency (ORF) is a measure of advanced phonics and word attack skills...</span></span></span>
 
-Retelling is helpful, but it should not be treated as a perfect standalone measure. A meta-analysis on retell found a moderate relation between retell and other reading comprehension measures, and warned against using retell as the only indicator of comprehension. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.eric.ed.gov/fulltext/ED609876.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.eric.ed.gov">[ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.eric.ed.gov</span><span class="citation-popover-title">ERICIs retell a valid measure of reading comprehension?</span><span class="citation-popover-snippet">ERICDecember 17, 2020 — by Y Cao · 2021 · Cited by 78 — Retell is used widely as a measure of reading comprehension. In this meta-analysi...</span><span class="citation-popover-meta">Published: December 17, 2020</span></span></span> That is the right lesson for personal reading-speed tests: retell is valuable because it reveals whether meaning survived the speed increase, but it works best alongside targeted questions and occasional written summaries.
+Retelling is helpful, but it should not be treated as a perfect standalone measure. A meta-analysis on retell found a moderate relation between retell and other reading comprehension measures, and warned against using retell as the only indicator of comprehension.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.eric.ed.gov/fulltext/ED609876.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.eric.ed.gov">[ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.eric.ed.gov</span><span class="citation-popover-title">ERICIs retell a valid measure of reading comprehension?</span><span class="citation-popover-snippet">ERICDecember 17, 2020 — by Y Cao · 2021 · Cited by 78 — Retell is used widely as a measure of reading comprehension. In this meta-analysi...</span><span class="citation-popover-meta">Published: December 17, 2020</span></span></span> That is the right lesson for personal reading-speed tests: retell is valuable because it reveals whether meaning survived the speed increase, but it works best alongside targeted questions and occasional written summaries.
 
 A good rule is to count a speed gain only when comprehension stays roughly stable. For example, if a reader moves from 220 to 260 words per minute but can still give the main point, sequence the argument, and answer detail and inference questions, that is useful progress. If they move to 340 words per minute but can only offer a vague topic label, they have probably changed task from reading to skimming.
 
@@ -389,7 +389,7 @@ A simple tracking table can make this visible:
 
 Text typeWhat to recordGood progress looks likeGeneral non-fictionWPM, one-sentence summary, 3 key pointsFaster reading with the same quality of summaryDense non-fictionWPM, key terms explained, argument outlineBetter explanation, even if speed rises slowlyFictionWPM, scene summary, character or motive recallSmooth pace without losing plot, tone, or implicationTechnical or professional textWPM, definitions, risks, decisions, action pointsAccurate extraction of what matters, not maximum speedSkim-reading taskTime to locate relevant sections, accuracy of selectionFaster filtering with fewer missed important items
 
-This distinction also prevents unfair comparisons. A reader who tests at 320 words per minute on a familiar article and 170 on a dense research passage has not necessarily become inconsistent. They are doing different cognitive work. Research reviews of speed reading have repeatedly warned that very high speeds usually come with reduced comprehension, while skimming can be useful when the goal is only a general understanding or locating information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://faculty.cas.usf.edu/eschotter/papers/Rayner_Schotter_Masson_Potter_Treiman_2016_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faculty.cas.usf.edu">[USF Faculty]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faculty.cas.usf.edu</span><span class="citation-popover-title">Rayner Schotter Masson Potter Treiman 2016 PSPI</span><span class="citation-popover-snippet">USF FacultyHow Do We Read, and Can Speed Reading Help?by K Rayner · 2016 · Cited by 537 — The current article reviews what the scientific...</span></span></span>
+This distinction also prevents unfair comparisons. A reader who tests at 320 words per minute on a familiar article and 170 on a dense research passage has not necessarily become inconsistent. They are doing different cognitive work. Research reviews of speed reading have repeatedly warned that very high speeds usually come with reduced comprehension, while skimming can be useful when the goal is only a general understanding or locating information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://faculty.cas.usf.edu/eschotter/papers/Rayner_Schotter_Masson_Potter_Treiman_2016_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faculty.cas.usf.edu">[USF Faculty]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faculty.cas.usf.edu</span><span class="citation-popover-title">Rayner Schotter Masson Potter Treiman 2016 PSPI</span><span class="citation-popover-snippet">USF FacultyHow Do We Read, and Can Speed Reading Help?by K Rayner · 2016 · Cited by 537 — The current article reviews what the scientific...</span></span></span>
 
 For progress monitoring, the most helpful question is therefore not “What is my reading speed?” but “What is my reading speed when I still understand enough for this purpose?” The acceptable comprehension standard changes by task. Reading a novel for pleasure may allow a few missed details. Reading a medication leaflet, lease, exam text, or technical manual does not.
 
@@ -399,7 +399,7 @@ For progress monitoring, the most helpful question is therefore not “What is m
 
 A summary test is one of the best safeguards against false progress because it forces the reader to reconstruct meaning. Multiple-choice questions can be useful, but they sometimes cue recognition: the answer is visible among options, and a reader may guess or rely on fragments. A summary requires organisation.
 
-Research and assessment literature treats summarising, retelling, and question generation as meaningful comprehension tasks because they reveal whether the reader has built a coherent representation of the text. The National Reading Panel found strong evidence that question-generation instruction benefits comprehension, although effects are often stronger on experimenter-designed measures than on standardised tests. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch4-II.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nichd.nih.gov">[NICHD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nichd.nih.gov</span><span class="citation-popover-title">NICHDNational Reading Panel</span><span class="citation-popover-snippet">NICHDNational Reading Panel</span></span></span> Cambridge assessment work on testing reading through summary also highlights the importance of construct validity: a reading test should match the kind of understanding it claims to measure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridgeenglish.org/Images/735112-studies-in-language-testing-volume-39.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridgeenglish.org">[Cambridge English]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridgeenglish.org</span><span class="citation-popover-title">Cambridge English Testing Reading Through</span><span class="citation-popover-snippet">Cambridge English Testing Reading Through</span></span></span>
+Research and assessment literature treats summarising, retelling, and question generation as meaningful comprehension tasks because they reveal whether the reader has built a coherent representation of the text. The National Reading Panel found strong evidence that question-generation instruction benefits comprehension, although effects are often stronger on experimenter-designed measures than on standardised tests.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch4-II.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nichd.nih.gov">[NICHD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nichd.nih.gov</span><span class="citation-popover-title">NICHDNational Reading Panel</span><span class="citation-popover-snippet">NICHDNational Reading Panel</span></span></span> Cambridge assessment work on testing reading through summary also highlights the importance of construct validity: a reading test should match the kind of understanding it claims to measure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridgeenglish.org/Images/735112-studies-in-language-testing-volume-39.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridgeenglish.org">[Cambridge English]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridgeenglish.org</span><span class="citation-popover-title">Cambridge English Testing Reading Through</span><span class="citation-popover-snippet">Cambridge English Testing Reading Through</span></span></span>
 
 For personal progress checks, the summary does not need to be long. A useful format is:
 
@@ -430,13 +430,13 @@ A useful progress decision can use three categories:
 
 **False improvement:** WPM rises but recall becomes vague, summaries lose structure, or the reader cannot answer basic inference questions.
 
-This is why reading-speed targets should be modest and context-specific. The strongest reviews of speed-reading research do not support claims that readers can double or triple normal reading speed while maintaining full comprehension. They do support a more practical idea: readers can become more efficient by improving fluency, vocabulary, background knowledge, purpose-setting, and selective skimming. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://faculty.cas.usf.edu/eschotter/papers/Rayner_Schotter_Masson_Potter_Treiman_2016_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faculty.cas.usf.edu">[USF Faculty]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faculty.cas.usf.edu</span><span class="citation-popover-title">Rayner Schotter Masson Potter Treiman 2016 PSPI</span><span class="citation-popover-snippet">USF FacultyHow Do We Read, and Can Speed Reading Help?by K Rayner · 2016 · Cited by 537 — The current article reviews what the scientific...</span></span></span>
+This is why reading-speed targets should be modest and context-specific. The strongest reviews of speed-reading research do not support claims that readers can double or triple normal reading speed while maintaining full comprehension. They do support a more practical idea: readers can become more efficient by improving fluency, vocabulary, background knowledge, purpose-setting, and selective skimming.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://faculty.cas.usf.edu/eschotter/papers/Rayner_Schotter_Masson_Potter_Treiman_2016_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faculty.cas.usf.edu">[USF Faculty]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faculty.cas.usf.edu</span><span class="citation-popover-title">Rayner Schotter Masson Potter Treiman 2016 PSPI</span><span class="citation-popover-snippet">USF FacultyHow Do We Read, and Can Speed Reading Help?by K Rayner · 2016 · Cited by 537 — The current article reviews what the scientific...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_measure_readi_fdb760-Illustration-3-dark.svg" | relative_url }}" alt="Measure illustration 3" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_measure_readi_fdb760-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_measure_readi_fdb760-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A practical testing routine
 
-A comprehension-first reading-speed test can be done in about 15 minutes: <span class="citation-chip-wrap"><a class="citation-chip" href="https://readingspeedtest.net/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingspeedtest.net">[readingspeedtest.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingspeedtest.net</span><span class="citation-popover-title">Reading Speed Test</span><span class="citation-popover-snippet">Reading Speed Test</span></span></span>
+A comprehension-first reading-speed test can be done in about 15 minutes:<span class="citation-chip-wrap"><a class="citation-chip" href="https://readingspeedtest.net/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingspeedtest.net">[readingspeedtest.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingspeedtest.net</span><span class="citation-popover-title">Reading Speed Test</span><span class="citation-popover-snippet">Reading Speed Test</span></span></span>
 
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
@@ -444,7 +444,7 @@ A comprehension-first reading-speed test can be done in about 15 minutes: <span 
 1. Choose an unseen passage and record the text type.
 2. Count or estimate the number of words.
 3. Read at the fastest pace that still feels responsible for the task.
-4. Calculate words per minute. <span class="citation-chip-wrap"><a class="citation-chip" href="https://readingspeedtest.net/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingspeedtest.net">[readingspeedtest.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingspeedtest.net</span><span class="citation-popover-title">Reading Speed Test</span><span class="citation-popover-snippet">Reading Speed Test</span></span></span>
+4. Calculate words per minute.<span class="citation-chip-wrap"><a class="citation-chip" href="https://readingspeedtest.net/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingspeedtest.net">[readingspeedtest.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingspeedtest.net</span><span class="citation-popover-title">Reading Speed Test</span><span class="citation-popover-snippet">Reading Speed Test</span></span></span>
 5. Close the text and write a one-sentence summary.
 6. Add three to five key points in order.
 7. Answer two detail questions and one inference question.
@@ -462,194 +462,194 @@ The final score should look something like this: “245 WPM on general non-ficti
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Reading Speed Test That Actually Helps. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Reading Speed Test That Actually Helps. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Focuses on measuring reading success through understanding.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Focuses on measuring reading success through understanding.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-        </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+</h4>
+<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Supports the use of recall checks rather than speed alone.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports the use of recall checks rather than speed alone.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Speed+reading+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Speed reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/296299-M.jpg" alt="Cover for Speed reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Speed+reading+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Speed reading">Speed reading</a>
-        </h4>
-        <p class="fr-book-author">By Tony Buzan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Speed+reading+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Speed reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/296299-M.jpg" alt="Cover for Speed reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Speed+reading+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Speed reading">Speed reading</a>
+</h4>
+<p class="fr-book-author">By Tony Buzan</p>
         
-        <p class="fr-book-desc">First published 1971. Subjects: Speed reading, Rapid reading, English language, Lecture rapide.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Speed+reading+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1971. Subjects: Speed reading, Rapid reading, English language, Lecture rapide.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Speed+reading+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=10+days+to+faster+reading+Abby+Marks-Beale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 10 days to faster reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9453897-M.jpg" alt="Cover for 10 days to faster reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=10+days+to+faster+reading+Abby+Marks-Beale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="10 days to faster reading">10 days to faster reading</a>
-        </h4>
-        <p class="fr-book-author">By Abby Marks-Beale</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=10+days+to+faster+reading+Abby+Marks-Beale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 10 days to faster reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9453897-M.jpg" alt="Cover for 10 days to faster reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=10+days+to+faster+reading+Abby+Marks-Beale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="10 days to faster reading">10 days to faster reading</a>
+</h4>
+<p class="fr-book-author">By Abby Marks-Beale</p>
         
-        <p class="fr-book-desc">First published 2001. Subjects: Speed reading.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=10+days+to+faster+reading+Abby+Marks-Beale&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2001. Subjects: Speed reading.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=10+days+to+faster+reading+Abby+Marks-Beale&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Speed+reading&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Speed reading</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Speed+reading&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Speed reading</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sign Holder Stand Adjustable Floor Standing Poster Sign Stand for Book Shops"><img src="{{ '/assets/images/marketplace-covers/aef734c6c305c8e63724.jpg' | relative_url }}" alt="Listing image for Sign Holder Stand Adjustable Floor Standing Poster Sign Stand for Book Shops" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books" target="_blank" rel="sponsored noopener noreferrer">Sign Holder Stand Adjustable Floor Standing Poster Sign Stand for Book Shops</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for book stand poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: book stand poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sign Holder Stand Adjustable Floor Standing Poster Sign Stand for Book Shops"><img src="{{ '/assets/images/marketplace-covers/aef734c6c305c8e63724.jpg' | relative_url }}" alt="Listing image for Sign Holder Stand Adjustable Floor Standing Poster Sign Stand for Book Shops" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books" target="_blank" rel="sponsored noopener noreferrer">Sign Holder Stand Adjustable Floor Standing Poster Sign Stand for Book Shops</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for book stand poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: book stand poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Card Display Stand Portable Wood Shelf Poster Organizer for Book"><img src="{{ '/assets/images/marketplace-covers/52530d1c711a133838f1.jpg' | relative_url }}" alt="Listing image for Card Display Stand Portable Wood Shelf Poster Organizer for Book" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books" target="_blank" rel="sponsored noopener noreferrer">Card Display Stand Portable Wood Shelf Poster Organizer for Book</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for book stand poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: book stand poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Card Display Stand Portable Wood Shelf Poster Organizer for Book"><img src="{{ '/assets/images/marketplace-covers/52530d1c711a133838f1.jpg' | relative_url }}" alt="Listing image for Card Display Stand Portable Wood Shelf Poster Organizer for Book" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books" target="_blank" rel="sponsored noopener noreferrer">Card Display Stand Portable Wood Shelf Poster Organizer for Book</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for book stand poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: book stand poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Stand On the Book Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4e3e373366dca519519f.jpg' | relative_url }}" alt="Listing image for Stand On the Book Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books" target="_blank" rel="sponsored noopener noreferrer">Stand On the Book Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for book stand poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: book stand poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Stand On the Book Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4e3e373366dca519519f.jpg' | relative_url }}" alt="Listing image for Stand On the Book Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books" target="_blank" rel="sponsored noopener noreferrer">Stand On the Book Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for book stand poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: book stand poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Stand Poster Print Stephen King Book Art Final Battle Armageddon CHOOSE SIZE"><img src="{{ '/assets/images/marketplace-covers/65d8ec9a396202ee0a35.jpg' | relative_url }}" alt="Listing image for The Stand Poster Print Stephen King Book Art Final Battle Armageddon CHOOSE SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books" target="_blank" rel="sponsored noopener noreferrer">The Stand Poster Print Stephen King Book Art Final Battle Armageddon CHOOSE SIZE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for book stand poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: book stand poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Stand Poster Print Stephen King Book Art Final Battle Armageddon CHOOSE SIZE"><img src="{{ '/assets/images/marketplace-covers/65d8ec9a396202ee0a35.jpg' | relative_url }}" alt="Listing image for The Stand Poster Print Stephen King Book Art Final Battle Armageddon CHOOSE SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books" target="_blank" rel="sponsored noopener noreferrer">The Stand Poster Print Stephen King Book Art Final Battle Armageddon CHOOSE SIZE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for book stand poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: book stand poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="measure-the-reading-speed-test-that-actually-helps-increasing-book-stand-poster-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -665,7 +665,7 @@ The final score should look something like this: “245 WPM on general non-ficti
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -685,7 +685,7 @@ The final score should look something like this: “245 WPM on general non-ficti
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -717,7 +717,7 @@ The final score should look something like this: “245 WPM on general non-ficti
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -769,7 +769,7 @@ The final score should look something like this: “245 WPM on general non-ficti
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -814,7 +814,7 @@ The final score should look something like this: “245 WPM on general non-ficti
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -855,198 +855,198 @@ The final score should look something like this: “245 WPM on general non-ficti
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: gwern.net  
    Title: How many words do we read per minute?  
-   Link: <a href="https://gwern.net/doc/psychology/linguistics/2019-brysbaert.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gwern.net/doc/psychology/linguistics/2019-brysbaert.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A review and...August 9, 2019 — For silent reading of English non-fiction most adults fall in the range of 175–300 wpm; for fiction the...</p></details>
+   Link:<a href="https://gwern.net/doc/psychology/linguistics/2019-brysbaert.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gwern.net/doc/psychology/linguistics/2019-brysbaert.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A review and...August 9, 2019 — For silent reading of English non-fiction most adults fall in the range of 175–300 wpm; for fiction the...</p></details>
    Published: August 9, 2019  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nichd.nih.gov  
    Title: NICHDReport of the National Reading Panel  
-   Link: <a href="https://www.nichd.nih.gov/publications/pubs/nrp/findings" target="_blank" rel="noopener noreferrer nofollow">https://www.nichd.nih.gov/publications/pubs/nrp/findings</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fluency. Fluent readers are able to read orally with speed, accuracy, and proper expression. Fluency is one of several critical fact...</p></details>
+   Link:<a href="https://www.nichd.nih.gov/publications/pubs/nrp/findings" target="_blank" rel="noopener noreferrer nofollow">https://www.nichd.nih.gov/publications/pubs/nrp/findings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fluency. Fluent readers are able to read orally with speed, accuracy, and proper expression. Fluency is one of several critical fact...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: files.eric.ed.gov  
    Title: ERICIs retell a valid measure of reading comprehension?  
-   Link: <a href="https://files.eric.ed.gov/fulltext/ED609876.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/ED609876.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ERICDecember 17, 2020 — by Y Cao · 2021 · Cited by 78 — Retell is used widely as a measure of reading comprehension. In this meta-analysi...</p></details>
+   Link:<a href="https://files.eric.ed.gov/fulltext/ED609876.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/ED609876.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ERICDecember 17, 2020 — by Y Cao · 2021 · Cited by 78 — Retell is used widely as a measure of reading comprehension. In this meta-analysi...</p></details>
    Published: December 17, 2020  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: faculty.cas.usf.edu  
    Title: Rayner Schotter Masson Potter Treiman 2016 PSPI  
-   Link: <a href="https://faculty.cas.usf.edu/eschotter/papers/Rayner_Schotter_Masson_Potter_Treiman_2016_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://faculty.cas.usf.edu/eschotter/papers/Rayner_Schotter_Masson_Potter_Treiman_2016_PSPI.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>USF FacultyHow Do We Read, and Can Speed Reading Help?by K Rayner · 2016 · Cited by 537 — The current article reviews what the scientific...</p></details>
+   Link:<a href="https://faculty.cas.usf.edu/eschotter/papers/Rayner_Schotter_Masson_Potter_Treiman_2016_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://faculty.cas.usf.edu/eschotter/papers/Rayner_Schotter_Masson_Potter_Treiman_2016_PSPI.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USF FacultyHow Do We Read, and Can Speed Reading Help?by K Rayner · 2016 · Cited by 537 — The current article reviews what the scientific...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nichd.nih.gov  
    Title: NICHDNational Reading Panel  
-   Link: <a href="https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch4-II.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch4-II.pdf</a>  
+   Link:<a href="https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch4-II.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch4-II.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reading.com  
-   Link: <a href="https://www.reading.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.reading.com/</a>  
+   Link:<a href="https://www.reading.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.reading.com/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: fast.com  
-   Link: <a href="https://fast.com/" target="_blank" rel="noopener noreferrer nofollow">https://fast.com/</a>  
+   Link:<a href="https://fast.com/" target="_blank" rel="noopener noreferrer nofollow">https://fast.com/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/elt/resources/appliedlinguistics/testing/ReadingInA2ndLanguage_Sample_Ch17.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/elt/resources/appliedlinguistics/testing/ReadingInA2ndLanguage_Sample_Ch17.pdf</a>  
+   Link:<a href="https://www.cambridge.org/elt/resources/appliedlinguistics/testing/ReadingInA2ndLanguage_Sample_Ch17.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/elt/resources/appliedlinguistics/testing/ReadingInA2ndLanguage_Sample_Ch17.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: biblio.ugent.be  
    Title: Biblio How many words do we read per minute?  
-   Link: <a href="https://biblio.ugent.be/publication/8647789" target="_blank" rel="noopener noreferrer nofollow">https://biblio.ugent.be/publication/8647789</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A review and meta...by M Brysbaert · 2019 · Cited by 879 — The average oral reading rate (based on 77 studies and 5965 participants) is...</p></details>
+   Link:<a href="https://biblio.ugent.be/publication/8647789" target="_blank" rel="noopener noreferrer nofollow">https://biblio.ugent.be/publication/8647789</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A review and meta...by M Brysbaert · 2019 · Cited by 879 — The average oral reading rate (based on 77 studies and 5965 participants) is...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: acadiencelearning.org  
-   Link: <a href="https://acadiencelearning.org/help-center/oral-reading-fluency-orf-and-retell/" target="_blank" rel="noopener noreferrer nofollow">https://acadiencelearning.org/help-center/oral-reading-fluency-orf-and-retell/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Acadience LearningOral Reading Fluency (ORF) and RetellOral Reading Fluency (ORF) is a measure of advanced phonics and word attack skills...</p></details>
+   Link:<a href="https://acadiencelearning.org/help-center/oral-reading-fluency-orf-and-retell/" target="_blank" rel="noopener noreferrer nofollow">https://acadiencelearning.org/help-center/oral-reading-fluency-orf-and-retell/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Acadience LearningOral Reading Fluency (ORF) and RetellOral Reading Fluency (ORF) is a measure of advanced phonics and word attack skills...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: psychologicalscience.org  
    Title: speed reading  
-   Link: <a href="https://www.psychologicalscience.org/publications/speed_reading.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/publications/speed_reading.html</a>  
+   Link:<a href="https://www.psychologicalscience.org/publications/speed_reading.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/publications/speed_reading.html</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cambridgeenglish.org  
    Title: Cambridge English Testing Reading Through  
-   Link: <a href="https://www.cambridgeenglish.org/Images/735112-studies-in-language-testing-volume-39.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridgeenglish.org/Images/735112-studies-in-language-testing-volume-39.pdf</a>  
+   Link:<a href="https://www.cambridgeenglish.org/Images/735112-studies-in-language-testing-volume-39.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridgeenglish.org/Images/735112-studies-in-language-testing-volume-39.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4835101/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4835101/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4835101/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4835101/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12686063/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12686063/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12686063/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12686063/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10547134/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10547134/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10547134/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10547134/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2805245/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2805245/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2805245/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2805245/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3579520/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3579520/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3579520/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3579520/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26769745/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26769745/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11537031/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11537031/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11537031/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11537031/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5397470/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5397470/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5397470/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5397470/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: www1.nichd.nih.gov  
-   Link: <a href="https://www1.nichd.nih.gov/publications/pubs/nrp/Documents/report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www1.nichd.nih.gov/publications/pubs/nrp/Documents/report.pdf</a>  
+   Link:<a href="https://www1.nichd.nih.gov/publications/pubs/nrp/Documents/report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www1.nichd.nih.gov/publications/pubs/nrp/Documents/report.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/19083363/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/19083363/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/19083363/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/19083363/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3485692/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3485692/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3485692/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3485692/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: nces.ed.gov  
-   Link: <a href="https://nces.ed.gov/nationsreportcard/studies/orf/" target="_blank" rel="noopener noreferrer nofollow">https://nces.ed.gov/nationsreportcard/studies/orf/</a>  
+   Link:<a href="https://nces.ed.gov/nationsreportcard/studies/orf/" target="_blank" rel="noopener noreferrer nofollow">https://nces.ed.gov/nationsreportcard/studies/orf/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: files.eric.ed.gov  
-   Link: <a href="https://files.eric.ed.gov/fulltext/ED489535.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/ED489535.pdf</a>  
+   Link:<a href="https://files.eric.ed.gov/fulltext/ED489535.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/ED489535.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: readingspeedtest.net  
    Title: Reading Speed Test  
-   Link: <a href="https://readingspeedtest.net/" target="_blank" rel="noopener noreferrer nofollow">https://readingspeedtest.net/</a>  
+   Link:<a href="https://readingspeedtest.net/" target="_blank" rel="noopener noreferrer nofollow">https://readingspeedtest.net/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Oral" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Oral</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Oral" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Oral</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: Wikipedia  
    Title: Speed reading  
-   Link: <a href="https://en.wikipedia.org/wiki/Speed_reading" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Speed_reading</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Speed_reading" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Speed_reading</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/1000838" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/1000838</a>  
+   Link:<a href="https://www.jstor.org/stable/1000838" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/1000838</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/27540124" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/27540124</a>  
+   Link:<a href="https://www.jstor.org/stable/27540124" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/27540124</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: typingmaster.com  
    Title: Reading Speed Test  
-   Link: <a href="https://www.typingmaster.com/reading-speed-test/" target="_blank" rel="noopener noreferrer nofollow">https://www.typingmaster.com/reading-speed-test/</a>  
+   Link:<a href="https://www.typingmaster.com/reading-speed-test/" target="_blank" rel="noopener noreferrer nofollow">https://www.typingmaster.com/reading-speed-test/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: memletics.com  
-   Link: <a href="https://www.memletics.com/speed-reading-course" target="_blank" rel="noopener noreferrer nofollow">https://www.memletics.com/speed-reading-course</a>  
+   Link:<a href="https://www.memletics.com/speed-reading-course" target="_blank" rel="noopener noreferrer nofollow">https://www.memletics.com/speed-reading-course</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: scholarwithin.com  
    Title: reading speed test  
-   Link: <a href="https://scholarwithin.com/reading-speed-test?srsltid=AfmBOoo6gevQEUJFPmRq_1jrZC5WwpyR7skgbOisZnXkD1hQGPkqVPnV" target="_blank" rel="noopener noreferrer nofollow">https://scholarwithin.com/reading-speed-test?srsltid=AfmBOoo6gevQEUJFPmRq_1jrZC5WwpyR7skgbOisZnXkD1hQGPkqVPnV</a>  
+   Link:<a href="https://scholarwithin.com/reading-speed-test?srsltid=AfmBOoo6gevQEUJFPmRq_1jrZC5WwpyR7skgbOisZnXkD1hQGPkqVPnV" target="_blank" rel="noopener noreferrer nofollow">https://scholarwithin.com/reading-speed-test?srsltid=AfmBOoo6gevQEUJFPmRq_1jrZC5WwpyR7skgbOisZnXkD1hQGPkqVPnV</a>  
 
 ### Additional References
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: content.schoolinsites.com  
-   Link: <a href="https://content.schoolinsites.com/api/documents/054fa115a07947c1aa0e6e908ef2995a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://content.schoolinsites.com/api/documents/054fa115a07947c1aa0e6e908ef2995a.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DIBELS® NEXT ASSESSMENT ManualRetell is now included as a component of DIBELS Oral Reading Fluency to indicate that the end...</p></details>
+   Link:<a href="https://content.schoolinsites.com/api/documents/054fa115a07947c1aa0e6e908ef2995a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://content.schoolinsites.com/api/documents/054fa115a07947c1aa0e6e908ef2995a.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DIBELS® NEXT ASSESSMENT ManualRetell is now included as a component of DIBELS Oral Reading Fluency to indicate that the end...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: ies.ed.gov  
    Title: assessing reading comprehension verbal protocols and latent semantic analysis  
-   Link: <a href="https://ies.ed.gov/use-work/awards/assessing-reading-comprehension-verbal-protocols-and-latent-semantic-analysis" target="_blank" rel="noopener noreferrer nofollow">https://ies.ed.gov/use-work/awards/assessing-reading-comprehension-verbal-protocols-and-latent-semantic-analysis</a>  
+   Link:<a href="https://ies.ed.gov/use-work/awards/assessing-reading-comprehension-verbal-protocols-and-latent-semantic-analysis" target="_blank" rel="noopener noreferrer nofollow">https://ies.ed.gov/use-work/awards/assessing-reading-comprehension-verbal-protocols-and-latent-semantic-analysis</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/332380784_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/332380784_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate</a>  
+   Link:<a href="https://www.researchgate.net/publication/332380784_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/332380784_How_many_words_do_we_read_per_minute_A_review_and_meta-analysis_of_reading_rate</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/288360019_The_National_Reading_Panel_Guidepost_A_Review_of_Reading_Outcome_Measures_for_Students_With_Emotional_and_Behavioral_Disorders" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/288360019_The_National_Reading_Panel_Guidepost_A_Review_of_Reading_Outcome_Measures_for_Students_With_Emotional_and_Behavioral_Disorders</a>  
+   Link:<a href="https://www.researchgate.net/publication/288360019_The_National_Reading_Panel_Guidepost_A_Review_of_Reading_Outcome_Measures_for_Students_With_Emotional_and_Behavioral_Disorders" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/288360019_The_National_Reading_Panel_Guidepost_A_Review_of_Reading_Outcome_Measures_for_Students_With_Emotional_and_Behavioral_Disorders</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/290471702_Speed_Reading_You_Cant_Always_Get_What_You_Want_but_Can_You_Sometimes_Get_What_You_Need" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/290471702_Speed_Reading_You_Cant_Always_Get_What_You_Want_but_Can_You_Sometimes_Get_What_You_Need</a>  
+   Link:<a href="https://www.researchgate.net/publication/290471702_Speed_Reading_You_Cant_Always_Get_What_You_Want_but_Can_You_Sometimes_Get_What_You_Need" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/290471702_Speed_Reading_You_Cant_Always_Get_What_You_Want_but_Can_You_Sometimes_Get_What_You_Need</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/391430050_Validating_a_Reading_Comprehension_Assessment_for_College_Students_Preliminary_Findings" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391430050_Validating_a_Reading_Comprehension_Assessment_for_College_Students_Preliminary_Findings</a>  
+   Link:<a href="https://www.researchgate.net/publication/391430050_Validating_a_Reading_Comprehension_Assessment_for_College_Students_Preliminary_Findings" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391430050_Validating_a_Reading_Comprehension_Assessment_for_College_Students_Preliminary_Findings</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/399897944_Testing_the_Speed-Accuracy_Trade-Off_in_Reading_Effects_of_Reading_Speed_on_Comprehension_and_Eye_Movements" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399897944_Testing_the_Speed-Accuracy_Trade-Off_in_Reading_Effects_of_Reading_Speed_on_Comprehension_and_Eye_Movements</a>  
+   Link:<a href="https://www.researchgate.net/publication/399897944_Testing_the_Speed-Accuracy_Trade-Off_in_Reading_Effects_of_Reading_Speed_on_Comprehension_and_Eye_Movements" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399897944_Testing_the_Speed-Accuracy_Trade-Off_in_Reading_Effects_of_Reading_Speed_on_Comprehension_and_Eye_Movements</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: fivefromfive.com.au  
-   Link: <a href="https://fivefromfive.com.au/fluency/assessing-fluency/" target="_blank" rel="noopener noreferrer nofollow">https://fivefromfive.com.au/fluency/assessing-fluency/</a>  
+   Link:<a href="https://fivefromfive.com.au/fluency/assessing-fluency/" target="_blank" rel="noopener noreferrer nofollow">https://fivefromfive.com.au/fluency/assessing-fluency/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: shastacoe.org  
-   Link: <a href="https://www.shastacoe.org/uploaded/Dept/is/2016_3rd_Grade_Testing_Materials.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.shastacoe.org/uploaded/Dept/is/2016_3rd_Grade_Testing_Materials.pdf</a>  
+   Link:<a href="https://www.shastacoe.org/uploaded/Dept/is/2016_3rd_Grade_Testing_Materials.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.shastacoe.org/uploaded/Dept/is/2016_3rd_Grade_Testing_Materials.pdf</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: education-progress.org  
-   Link: <a href="https://www.education-progress.org/focus/24-readingspeed" target="_blank" rel="noopener noreferrer nofollow">https://www.education-progress.org/focus/24-readingspeed</a>  
+   Link:<a href="https://www.education-progress.org/focus/24-readingspeed" target="_blank" rel="noopener noreferrer nofollow">https://www.education-progress.org/focus/24-readingspeed</a>  

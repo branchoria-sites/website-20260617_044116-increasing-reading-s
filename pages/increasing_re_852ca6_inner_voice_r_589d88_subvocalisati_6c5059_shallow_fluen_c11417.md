@@ -275,7 +275,7 @@ image: /assets/images/increasing_re_852ca6_inner_voice_r_589d88_subvocalisati_6c
 
 ## Introduction
 
-One of the biggest risks in [increasing]({{ 'increasing/' | relative_url }}) reading speed is confusing a feeling of fluency with actual understanding. A fast pass through a text can feel smooth, effortless, and efficient, yet leave the reader unable to explain the author's argument, identify key relationships between ideas, or recall important qualifications. This gap between perceived understanding and real comprehension is well documented in research on processing fluency—the subjective sense that information is easy to process. People often use that feeling as a shortcut for judging how well they understand something, even when objective comprehension is weaker than they believe. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://psychology.northwestern.edu/documents/faculty-publications/molden-%20theory%20comprehension.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychology.northwestern.edu">[Northwestern Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychology.northwestern.edu</span><span class="citation-popover-snippet">Northwestern PsychologyNaive Theories of Intelligence and the Role of Processing...by DB Miele · Cited by 285 — Previous research overwh...</span></span></span>
+One of the biggest risks in [increasing]({{ 'increasing/' | relative_url }}) reading speed is confusing a feeling of fluency with actual understanding. A fast pass through a text can feel smooth, effortless, and efficient, yet leave the reader unable to explain the author's argument, identify key relationships between ideas, or recall important qualifications. This gap between perceived understanding and real comprehension is well documented in research on processing fluency—the subjective sense that information is easy to process. People often use that feeling as a shortcut for judging how well they understand something, even when objective comprehension is weaker than they believe.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://psychology.northwestern.edu/documents/faculty-publications/molden-%20theory%20comprehension.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychology.northwestern.edu">[Northwestern Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychology.northwestern.edu</span><span class="citation-popover-snippet">Northwestern PsychologyNaive Theories of Intelligence and the Role of Processing...by DB Miele · Cited by 285 — Previous research overwh...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_inner_voice_r_589d88_subvocalisati_6c5059_shallow_fluen_c11417-Illustration-1-dark.svg" | relative_url }}" alt="Shallow Fluency illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_inner_voice_r_589d88_subvocalisati_6c5059_shallow_fluen_c11417-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_inner_voice_r_589d88_subvocalisati_6c5059_shallow_fluen_c11417-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -283,13 +283,13 @@ This issue becomes especially relevant when readers attempt to suppress subvocal
 
 ## Why Speed Can Mask Weak Understanding
 
-The human brain does not directly [measure]({{ 'measure/' | relative_url }}) comprehension. Instead, it often relies on cues that correlate with comprehension most of the time. One of those cues is processing fluency: how easy the material feels to read and process. When reading feels effortless, people tend to conclude that they understand the content well. When it feels difficult, they often assume they understand less. Research on metacognition repeatedly shows that these judgments can be misleading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://psychology.northwestern.edu/documents/faculty-publications/molden-%20theory%20comprehension.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychology.northwestern.edu">[Northwestern Psychology+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychology.northwestern.edu</span><span class="citation-popover-snippet">Northwestern PsychologyNaive Theories of Intelligence and the Role of Processing...by DB Miele · Cited by 285 — Previous research overwh...</span></span></span>
+The human brain does not directly [measure]({{ 'measure/' | relative_url }}) comprehension. Instead, it often relies on cues that correlate with comprehension most of the time. One of those cues is processing fluency: how easy the material feels to read and process. When reading feels effortless, people tend to conclude that they understand the content well. When it feels difficult, they often assume they understand less. Research on metacognition repeatedly shows that these judgments can be misleading.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://psychology.northwestern.edu/documents/faculty-publications/molden-%20theory%20comprehension.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychology.northwestern.edu">[Northwestern Psychology+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychology.northwestern.edu</span><span class="citation-popover-snippet">Northwestern PsychologyNaive Theories of Intelligence and the Role of Processing...by DB Miele · Cited by 285 — Previous research overwh...</span></span></span>
 
-Fast reading methods can amplify this problem. Rapid [eye movements]({{ 'eye-tradeoff/' | relative_url }}), reduced regression to earlier sentences, and a diminished inner voice may make reading feel more efficient. The reader encounters more words per minute and experiences fewer pauses. Subjectively, that often feels like improved skill. However, the sensation of smooth processing does not guarantee that ideas are being connected into a coherent mental model. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://psychology.northwestern.edu/documents/faculty-publications/molden-%20theory%20comprehension.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychology.northwestern.edu">[Northwestern Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychology.northwestern.edu</span><span class="citation-popover-snippet">Northwestern PsychologyNaive Theories of Intelligence and the Role of Processing...by DB Miele · Cited by 285 — Previous research overwh...</span></span></span>
+Fast reading methods can amplify this problem. Rapid [eye movements]({{ 'eye-tradeoff/' | relative_url }}), reduced regression to earlier sentences, and a diminished inner voice may make reading feel more efficient. The reader encounters more words per minute and experiences fewer pauses. Subjectively, that often feels like improved skill. However, the sensation of smooth processing does not guarantee that ideas are being connected into a coherent mental model.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://psychology.northwestern.edu/documents/faculty-publications/molden-%20theory%20comprehension.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychology.northwestern.edu">[Northwestern Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychology.northwestern.edu</span><span class="citation-popover-snippet">Northwestern PsychologyNaive Theories of Intelligence and the Role of Processing...by DB Miele · Cited by 285 — Previous research overwh...</span></span></span>
 
-A useful distinction is the difference between recognising information and understanding relationships. Readers may easily recognise individual words, topics, or familiar concepts during a high-speed pass. The harder task is tracking causal chains, exceptions, comparisons, assumptions, and logical dependencies across multiple sentences. Those deeper forms of comprehension are often the first casualties when speed increases beyond a reader's processing capacity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPhonological coding during reading</span><span class="citation-popover-snippet">NIHby M Leinenger · 2014 · Cited by 170 — This two-stage model posits early activation of a word&#x27;s phonological code (assembled pho...</span></span></span>
+A useful distinction is the difference between recognising information and understanding relationships. Readers may easily recognise individual words, topics, or familiar concepts during a high-speed pass. The harder task is tracking causal chains, exceptions, comparisons, assumptions, and logical dependencies across multiple sentences. Those deeper forms of comprehension are often the first casualties when speed increases beyond a reader's processing capacity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPhonological coding during reading</span><span class="citation-popover-snippet">NIHby M Leinenger · 2014 · Cited by 170 — This two-stage model posits early activation of a word&#x27;s phonological code (assembled pho...</span></span></span>
 
-Research on phonological coding suggests that silent reading commonly involves sound-based representations, even when no audible speech occurs. These representations appear to support the maintenance and integration of information during comprehension. When reading strategies or experimental manipulations interfere with these processes, comprehension can suffer despite the appearance of fluent reading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPhonological coding during reading</span><span class="citation-popover-snippet">NIHby M Leinenger · 2014 · Cited by 170 — This two-stage model posits early activation of a word&#x27;s phonological code (assembled pho...</span></span></span>
+Research on phonological coding suggests that silent reading commonly involves sound-based representations, even when no audible speech occurs. These representations appear to support the maintenance and integration of information during comprehension. When reading strategies or experimental manipulations interfere with these processes, comprehension can suffer despite the appearance of fluent reading.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPhonological coding during reading</span><span class="citation-popover-snippet">NIHby M Leinenger · 2014 · Cited by 170 — This two-stage model posits early activation of a word&#x27;s phonological code (assembled pho...</span></span></span>
 
 ## The Specific Danger of Shallow Fluency
 
@@ -297,9 +297,9 @@ Shallow fluency occurs when text is processed smoothly enough to feel familiar b
 
 A reader may finish a chapter and confidently report that it was clear. Yet if asked to explain the author's central claim, reconstruct the argument, or identify supporting evidence, they struggle. The feeling of understanding survives, but the underlying knowledge does not.
 
-Educational psychology has identified similar effects in learning situations. Re-reading material often creates a strong sense of familiarity because the content becomes easier to process on subsequent exposures. However, this increased fluency can produce inflated judgments of learning that exceed actual mastery. Learners frequently believe they know more than they can later recall or apply. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.physiology.org/doi/10.1152/advan.00244.2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.physiology.org">[Physiology Journals+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.physiology.org</span><span class="citation-popover-snippet">Physiology JournalsThe illusion of learning: turning studying into thinkingby HL Lujan · 2026 · Cited by 3 — The very sense of fluency th...</span></span></span>
+Educational psychology has identified similar effects in learning situations. Re-reading material often creates a strong sense of familiarity because the content becomes easier to process on subsequent exposures. However, this increased fluency can produce inflated judgments of learning that exceed actual mastery. Learners frequently believe they know more than they can later recall or apply.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.physiology.org/doi/10.1152/advan.00244.2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.physiology.org">[Physiology Journals+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.physiology.org</span><span class="citation-popover-snippet">Physiology JournalsThe illusion of learning: turning studying into thinkingby HL Lujan · 2026 · Cited by 3 — The very sense of fluency th...</span></span></span>
 
-The same mechanism can appear during rapid reading: <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPhonological coding during reading</span><span class="citation-popover-snippet">NIHby M Leinenger · 2014 · Cited by 170 — This two-stage model posits early activation of a word&#x27;s phonological code (assembled pho...</span></span></span>
+The same mechanism can appear during rapid reading:<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPhonological coding during reading</span><span class="citation-popover-snippet">NIHby M Leinenger · 2014 · Cited by 170 — This two-stage model posits early activation of a word&#x27;s phonological code (assembled pho...</span></span></span>
 
 * Familiar words create a sense of competence.
 * Topic recognition is mistaken for argument comprehension.
@@ -327,7 +327,7 @@ Warning signs include:
 
 **Inability to transfer the information.** A reader may recognise the content when rereading it but struggle to explain it in new words or apply it to a different example.
 
-**False familiarity.** The text feels known because it was recently processed, yet specific content cannot be retrieved without looking back. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.physiology.org/doi/10.1152/advan.00244.2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.physiology.org">[Physiology Journals+2Journal of Cognition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.physiology.org</span><span class="citation-popover-snippet">Physiology JournalsThe illusion of learning: turning studying into thinkingby HL Lujan · 2026 · Cited by 3 — The very sense of fluency th...</span></span></span>
+**False familiarity.** The text feels known because it was recently processed, yet specific content cannot be retrieved without looking back.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.physiology.org/doi/10.1152/advan.00244.2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.physiology.org">[Physiology Journals+2Journal of Cognition]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.physiology.org</span><span class="citation-popover-snippet">Physiology JournalsThe illusion of learning: turning studying into thinkingby HL Lujan · 2026 · Cited by 3 — The very sense of fluency th...</span></span></span>
 
 These symptoms are particularly important when reading academic articles, [technical]({{ 'technical-texts/' | relative_url }}) documentation, legal texts, analytical essays, or any material where meaning depends on relationships among ideas rather than isolated facts.
 
@@ -339,7 +339,7 @@ One reason educators and researchers often use summaries to assess comprehension
 
 Recognition is relatively easy. When readers see a sentence again, they may feel they understand it because it looks familiar. Recall is harder. Producing a summary requires identifying the central ideas, selecting relevant information, and organising it into a coherent explanation.
 
-Research on reading-comprehension assessment increasingly treats learner summaries as valuable indicators of what was actually understood because summarisation requires integration of information rather than simple exposure to it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1906.07555" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Automatic learner</span><span class="citation-popover-snippet">Automatic learner summary assessment for reading comprehensionJune 18, 2019...</span><span class="citation-popover-meta">Published: June 18, 2019</span></span></span>
+Research on reading-comprehension assessment increasingly treats learner summaries as valuable indicators of what was actually understood because summarisation requires integration of information rather than simple exposure to it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1906.07555" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Automatic learner</span><span class="citation-popover-snippet">Automatic learner summary assessment for reading comprehensionJune 18, 2019...</span><span class="citation-popover-meta">Published: June 18, 2019</span></span></span>
 
 This is why many speed-reading demonstrations are less informative than they appear. Measuring pages per hour reveals how quickly text was scanned. Measuring summary quality reveals how much meaning survived the scan.
 
@@ -386,7 +386,7 @@ Understanding is usually stronger when readers can use a concept rather than mer
 
 Return after several hours or the next day and write down the key points without reopening the text.
 
-Processing fluency often produces immediate confidence. Delayed recall provides a more reliable measure of what was actually learned. Research on learning and metacognitive judgment consistently shows that subjective feelings of mastery can diverge sharply from later performance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.physiology.org/doi/10.1152/advan.00244.2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.physiology.org">[Physiology Journals+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.physiology.org</span><span class="citation-popover-snippet">Physiology JournalsThe illusion of learning: turning studying into thinkingby HL Lujan · 2026 · Cited by 3 — The very sense of fluency th...</span></span></span>
+Processing fluency often produces immediate confidence. Delayed recall provides a more reliable measure of what was actually learned. Research on learning and metacognitive judgment consistently shows that subjective feelings of mastery can diverge sharply from later performance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.physiology.org/doi/10.1152/advan.00244.2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.physiology.org">[Physiology Journals+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.physiology.org</span><span class="citation-popover-snippet">Physiology JournalsThe illusion of learning: turning studying into thinkingby HL Lujan · 2026 · Cited by 3 — The very sense of fluency th...</span></span></span>
 
 ## When Faster Reading Is Still Useful
 
@@ -396,201 +396,201 @@ The key question is whether comprehension remains adequate for the reader's [pur
 
 For news scanning, email triage, or locating relevant sections of a document, reduced subvocalisation and faster visual processing may be entirely appropriate. For dense reasoning, technical explanations, contracts, research papers, or unfamiliar subjects, comprehension checks become far more important.
 
-The practical lesson is simple: trust understanding more than sensation. A reading method should be judged by what the reader can later explain, recall, and use—not by how fluent the reading experience felt in the moment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://psychology.northwestern.edu/documents/faculty-publications/molden-%20theory%20comprehension.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychology.northwestern.edu">[Northwestern Psychology+2MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychology.northwestern.edu</span><span class="citation-popover-snippet">Northwestern PsychologyNaive Theories of Intelligence and the Role of Processing...by DB Miele · Cited by 285 — Previous research overwh...</span></span></span>
+The practical lesson is simple: trust understanding more than sensation. A reading method should be judged by what the reader can later explain, recall, and use—not by how fluent the reading experience felt in the moment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://psychology.northwestern.edu/documents/faculty-publications/molden-%20theory%20comprehension.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychology.northwestern.edu">[Northwestern Psychology+2MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychology.northwestern.edu</span><span class="citation-popover-snippet">Northwestern PsychologyNaive Theories of Intelligence and the Role of Processing...by DB Miele · Cited by 285 — Previous research overwh...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yDJuCWUC5P8" title="The Illusion of Explanatory Depth: You Don’t Understand It Like You Think" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yDJuCWUC5P8" target="_blank" rel="noopener noreferrer">The Illusion of Explanatory Depth: You Don’t Understand It Like You Think</a></p><p class="youtube-embed-meta">Channel: Bull and Thread</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yDJuCWUC5P8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yDJuCWUC5P8">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Fast Reading Only Feels Fluent. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Fast Reading Only Feels Fluent. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Directly relates to mistaken confidence and judgment errors.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relates to mistaken confidence and judgment errors.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-        </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+</h4>
+<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Distinguishes real learning from the illusion of learning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Distinguishes real learning from the illusion of learning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ultralearning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jyV2DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ultralearning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ultralearning">Ultralearning</a>
-        </h4>
-        <p class="fr-book-author">By Scott H. Young</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ultralearning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jyV2DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ultralearning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ultralearning">Ultralearning</a>
+</h4>
+<p class="fr-book-author">By Scott H. Young</p>
         
-        <p class="fr-book-desc">Emphasizes testing comprehension rather than trusting feelings of fluency.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes testing comprehension rather than trusting feelings of fluency.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Reader%2C+Come+Home+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reader, Come Home on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10170090-M.jpg" alt="Cover for Reader, Come Home" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Reader%2C+Come+Home+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reader, Come Home">Reader, Come Home</a>
-        </h4>
-        <p class="fr-book-author">By Maryanne Wolf</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Reader%2C+Come+Home+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reader, Come Home on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10170090-M.jpg" alt="Cover for Reader, Come Home" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Reader%2C+Come+Home+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reader, Come Home">Reader, Come Home</a>
+</h4>
+<p class="fr-book-author">By Maryanne Wolf</p>
         
-        <p class="fr-book-desc">First published 2018. Subjects: Books and reading, Technological innovations, Psychology of Reading, Psychological aspects, Reading compr...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Reader%2C+Come+Home+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2018. Subjects: Books and reading, Technological innovations, Psychology of Reading, Psychological aspects, Reading compr...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Reader%2C+Come+Home+Maryanne+Wolf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ultralearning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ultralearning</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ultralearning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ultralearning</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sign Holder Stand Adjustable Floor Standing Poster Sign Stand for Book"><img src="{{ '/assets/images/marketplace-covers/a6372b317276f8a24907.jpg' | relative_url }}" alt="Listing image for Sign Holder Stand Adjustable Floor Standing Poster Sign Stand for Book" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books" target="_blank" rel="sponsored noopener noreferrer">Sign Holder Stand Adjustable Floor Standing Poster Sign Stand for Book</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for book stand poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: book stand poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sign Holder Stand Adjustable Floor Standing Poster Sign Stand for Book"><img src="{{ '/assets/images/marketplace-covers/a6372b317276f8a24907.jpg' | relative_url }}" alt="Listing image for Sign Holder Stand Adjustable Floor Standing Poster Sign Stand for Book" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books" target="_blank" rel="sponsored noopener noreferrer">Sign Holder Stand Adjustable Floor Standing Poster Sign Stand for Book</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for book stand poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: book stand poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Card Display Stand Poster Organizer for Brochure Holder Book Table Cosmetics"><img src="{{ '/assets/images/marketplace-covers/7ff4e714c96336724424.jpg' | relative_url }}" alt="Listing image for Card Display Stand Poster Organizer for Brochure Holder Book Table Cosmetics" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books" target="_blank" rel="sponsored noopener noreferrer">Card Display Stand Poster Organizer for Brochure Holder Book Table Cosmetics</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for book stand poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: book stand poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Card Display Stand Poster Organizer for Brochure Holder Book Table Cosmetics"><img src="{{ '/assets/images/marketplace-covers/7ff4e714c96336724424.jpg' | relative_url }}" alt="Listing image for Card Display Stand Poster Organizer for Brochure Holder Book Table Cosmetics" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books" target="_blank" rel="sponsored noopener noreferrer">Card Display Stand Poster Organizer for Brochure Holder Book Table Cosmetics</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for book stand poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: book stand poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Stand On the Book Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4e3e373366dca519519f.jpg' | relative_url }}" alt="Listing image for Stand On the Book Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books" target="_blank" rel="sponsored noopener noreferrer">Stand On the Book Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for book stand poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: book stand poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Stand On the Book Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4e3e373366dca519519f.jpg' | relative_url }}" alt="Listing image for Stand On the Book Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books" target="_blank" rel="sponsored noopener noreferrer">Stand On the Book Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for book stand poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: book stand poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Stand Poster Print Stephen King Book Art Final Battle Armageddon CHOOSE SIZE"><img src="{{ '/assets/images/marketplace-covers/65d8ec9a396202ee0a35.jpg' | relative_url }}" alt="Listing image for The Stand Poster Print Stephen King Book Art Final Battle Armageddon CHOOSE SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books" target="_blank" rel="sponsored noopener noreferrer">The Stand Poster Print Stephen King Book Art Final Battle Armageddon CHOOSE SIZE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for book stand poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: book stand poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Stand Poster Print Stephen King Book Art Final Battle Armageddon CHOOSE SIZE"><img src="{{ '/assets/images/marketplace-covers/65d8ec9a396202ee0a35.jpg' | relative_url }}" alt="Listing image for The Stand Poster Print Stephen King Book Art Final Battle Armageddon CHOOSE SIZE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books" target="_blank" rel="sponsored noopener noreferrer">The Stand Poster Print Stephen King Book Art Final Battle Armageddon CHOOSE SIZE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for book stand poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: book stand poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+stand+poster+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book stand poster -books" data-ebay-reference="shallow-fluency-when-fast-reading-only-feels-fluent-increasing-book-stand-poster-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -606,7 +606,7 @@ The practical lesson is simple: trust understanding more than sensation. A readi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -626,7 +626,7 @@ The practical lesson is simple: trust understanding more than sensation. A readi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -658,7 +658,7 @@ The practical lesson is simple: trust understanding more than sensation. A readi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -710,7 +710,7 @@ The practical lesson is simple: trust understanding more than sensation. A readi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -755,7 +755,7 @@ The practical lesson is simple: trust understanding more than sensation. A readi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -796,160 +796,160 @@ The practical lesson is simple: trust understanding more than sensation. A readi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: psychology.northwestern.edu  
-   Link: <a href="https://psychology.northwestern.edu/documents/faculty-publications/molden-%20theory%20comprehension.pdf" target="_blank" rel="noopener noreferrer nofollow">https://psychology.northwestern.edu/documents/faculty-publications/molden-%20theory%20comprehension.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Northwestern PsychologyNaive Theories of Intelligence and the Role of Processing...by DB Miele · Cited by 285 — Previous research overwh...</p></details>
+   Link:<a href="https://psychology.northwestern.edu/documents/faculty-publications/molden-%20theory%20comprehension.pdf" target="_blank" rel="noopener noreferrer nofollow">https://psychology.northwestern.edu/documents/faculty-publications/molden-%20theory%20comprehension.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Northwestern PsychologyNaive Theories of Intelligence and the Role of Processing...by DB Miele · Cited by 285 — Previous research overwh...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/311730463_Processing_Fluency_in_Education_How_Metacognitive_Feelings_Shape_Learning_Belief_Formation_and_Affect" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/311730463_Processing_Fluency_in_Education_How_Metacognitive_Feelings_Shape_Learning_Belief_Formation_and_Affect</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Processing Fluency in Education: How Metacognitive...The present article reviews and integrates empirical evidence on processing fluency...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/311730463_Processing_Fluency_in_Education_How_Metacognitive_Feelings_Shape_Learning_Belief_Formation_and_Affect" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/311730463_Processing_Fluency_in_Education_How_Metacognitive_Feelings_Shape_Learning_Belief_Formation_and_Affect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Processing Fluency in Education: How Metacognitive...The present article reviews and integrates empirical evidence on processing fluency...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCMetacognitive Illusion in Category Learning  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7284536/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7284536/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Illusion in Category Learning - PMC - NIHby J Wang · 2019 · Cited by 18 — This study revealed that processing fluency and held beliefs we...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7284536/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7284536/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Illusion in Category Learning - PMC - NIHby J Wang · 2019 · Cited by 18 — This study revealed that processing fluency and held beliefs we...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2078-2489/17/3/299" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2078-2489/17/3/299</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fluency Illusion: A Review on Influence of ChatGPT in...by S Kumar · 2026 — Fluency illusion is grounded in a well-established body of c...</p></details>
+   Link:<a href="https://www.mdpi.com/2078-2489/17/3/299" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2078-2489/17/3/299</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fluency Illusion: A Review on Influence of ChatGPT in...by S Kumar · 2026 — Fluency illusion is grounded in a well-established body of c...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCPhonological coding during reading  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby M Leinenger · 2014 · Cited by 170 — This two-stage model posits early activation of a word&#x27;s phonological code (assembled pho...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4211933/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby M Leinenger · 2014 · Cited by 170 — This two-stage model posits early activation of a word&#x27;s phonological code (assembled pho...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/47532683_A_case_for_the_involvement_of_phonological_loop_in_sentence_comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/47532683_A_case_for_the_involvement_of_phonological_loop_in_sentence_comprehension</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A case for the involvement of phonological loop...The literature has shown that [articulatory](&amp;#123;&amp;#123; &#x27;suppression/&#x27; | relative_url &amp;#125;&amp;#125;) suppression exerts differential...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/47532683_A_case_for_the_involvement_of_phonological_loop_in_sentence_comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/47532683_A_case_for_the_involvement_of_phonological_loop_in_sentence_comprehension</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A case for the involvement of phonological loop...The literature has shown that [articulatory](&amp;#123;&amp;#123; &#x27;suppression/&#x27; | relative_url &amp;#125;&amp;#125;) suppression exerts differential...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: journals.physiology.org  
-   Link: <a href="https://journals.physiology.org/doi/10.1152/advan.00244.2025" target="_blank" rel="noopener noreferrer nofollow">https://journals.physiology.org/doi/10.1152/advan.00244.2025</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Physiology JournalsThe illusion of learning: turning studying into thinkingby HL Lujan · 2026 · Cited by 3 — The very sense of fluency th...</p></details>
+   Link:<a href="https://journals.physiology.org/doi/10.1152/advan.00244.2025" target="_blank" rel="noopener noreferrer nofollow">https://journals.physiology.org/doi/10.1152/advan.00244.2025</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Physiology JournalsThe illusion of learning: turning studying into thinkingby HL Lujan · 2026 · Cited by 3 — The very sense of fluency th...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
    Title: arXiv Automatic learner  
-   Link: <a href="https://arxiv.org/abs/1906.07555" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1906.07555</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Automatic learner summary assessment for reading comprehensionJune 18, 2019...</p></details>
+   Link:<a href="https://arxiv.org/abs/1906.07555" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1906.07555</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Automatic learner summary assessment for reading comprehensionJune 18, 2019...</p></details>
    Published: June 18, 2019  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: processing.org  
-   Link: <a href="https://processing.org/" target="_blank" rel="noopener noreferrer nofollow">https://processing.org/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Welcome to Processing! / Processing.orgDownload and open the &#x27;Processing&#x27; application. Select something from the Examples. Hit the Run bu...</p></details>
+   Link:<a href="https://processing.org/" target="_blank" rel="noopener noreferrer nofollow">https://processing.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Welcome to Processing! / Processing.orgDownload and open the &#x27;Processing&#x27; application. Select something from the Examples. Hit the Run bu...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/45460078_Naive_Theories_of_Intelligence_and_the_Role_of_Processing_Fluency_in_Perceived_Comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/45460078_Naive_Theories_of_Intelligence_and_the_Role_of_Processing_Fluency_in_Perceived_Comprehension</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Naive Theories of Intelligence and the Role of Processing...Oct 9, 2025 — PDF | Previous research overwhelmingly suggests that feelings...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/45460078_Naive_Theories_of_Intelligence_and_the_Role_of_Processing_Fluency_in_Perceived_Comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/45460078_Naive_Theories_of_Intelligence_and_the_Role_of_Processing_Fluency_in_Perceived_Comprehension</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Naive Theories of Intelligence and the Role of Processing...Oct 9, 2025 — PDF | Previous research overwhelmingly suggests that feelings...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
    Title: How Perceived Processing Fluency Influences the Illusion  
-   Link: <a href="https://www.researchgate.net/publication/329796398_How_Perceived_Processing_Fluency_Influences_the_Illusion_of_Knowing_in_Learning_From_TV_[Reports" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/329796398_How_Perceived_Processing_Fluency_Influences_the_Illusion_of_Knowing_in_Learning_From_TV_[Reports</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The present two-study work aims to contribute to an understanding of the causes and consequences of perceived processing fluency.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/329796398_How_Perceived_Processing_Fluency_Influences_the_Illusion_of_Knowing_in_Learning_From_TV_[Reports" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/329796398_How_Perceived_Processing_Fluency_Influences_the_Illusion_of_Knowing_in_Learning_From_TV_[Reports</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The present two-study work aims to contribute to an understanding of the causes and consequences of perceived processing fluency.Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
    Title: (PDF) Articulatory suppression during instruction encoding  
-   Link: <a href="https://www.researchgate.net/publication/360435914_Articulatory_suppression_during_instruction_encoding_impedes_performance_in_choice_reaction_time_tasks" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/360435914_Articulatory_suppression_during_instruction_encoding_impedes_performance_in_choice_reaction_time_tasks</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 6, 2022 — Participants (total N = 96) were required to learn a series of novel tasks, with each task consisting of six arbitrary stim...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/360435914_Articulatory_suppression_during_instruction_encoding_impedes_performance_in_choice_reaction_time_tasks" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/360435914_Articulatory_suppression_during_instruction_encoding_impedes_performance_in_choice_reaction_time_tasks</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 6, 2022 — Participants (total N = 96) were required to learn a series of novel tasks, with each task consisting of six arbitrary stim...</p></details>
    Published: May 6, 2022  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/285130501_A_general_model_of_fluency_effects_in_judgment_and_decision_making" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/285130501_A_general_model_of_fluency_effects_in_judgment_and_decision_making</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>hey can be easily processed (Reber &amp; Schwarz, 1999).Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/285130501_A_general_model_of_fluency_effects_in_judgment_and_decision_making" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/285130501_A_general_model_of_fluency_effects_in_judgment_and_decision_making</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>hey can be easily processed (Reber &amp; Schwarz, 1999).Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1080/14640749008401227" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1080/14640749008401227</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsArticulatory Suppression and Phonological Codes in...The aim of this study was to investigate whether the phonological code...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1080/14640749008401227" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1080/14640749008401227</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsArticulatory Suppression and Phonological Codes in...The aim of this study was to investigate whether the phonological code...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: journalofcognition.org  
-   Link: <a href="https://journalofcognition.org/articles/10.5334/joc.393" target="_blank" rel="noopener noreferrer nofollow">https://journalofcognition.org/articles/10.5334/joc.393</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Subjective Understanding is Reduced by Mechanistic...by JC Zemla · 2024 · Cited by 1 — In two experiments, we found that increasing the...</p></details>
+   Link:<a href="https://journalofcognition.org/articles/10.5334/joc.393" target="_blank" rel="noopener noreferrer nofollow">https://journalofcognition.org/articles/10.5334/joc.393</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Subjective Understanding is Reduced by Mechanistic...by JC Zemla · 2024 · Cited by 1 — In two experiments, we found that increasing the...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8655773/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8655773/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Influence of Articulatory Suppression on Reading Among...by X Li · 2021 · Cited by 2 — The study aimed to examine how the phonological l...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8655773/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8655773/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Influence of Articulatory Suppression on Reading Among...by X Li · 2021 · Cited by 2 — The study aimed to examine how the phonological l...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8821071/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8821071/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Affective and (meta-)cognitive... - PMCby A Stump · 2021 · Cited by 26 — According to Parks and Toth (2006), conceptual processing fluen...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8821071/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8821071/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Affective and (meta-)cognitive... - PMCby A Stump · 2021 · Cited by 26 — According to Parks and Toth (2006), conceptual processing fluen...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/subjects/processing-fluency" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/subjects/processing-fluency</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Published on 19 May 2026. Essentialist beliefs about accented speakers moderate the effect of processing fluency on employability ratings...</p></details>
+   Link:<a href="https://www.frontiersin.org/subjects/processing-fluency" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/subjects/processing-fluency</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Published on 19 May 2026. Essentialist beliefs about accented speakers moderate the effect of processing fluency on employability ratings...</p></details>
    Published: May 2026  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ecu.edu.au  
-   Link: <a href="https://www.ecu.edu.au/__data/assets/pdf_file/0009/663696/SA-DECS_-Understanding-the-Reading-Process.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ecu.edu.au/__data/assets/pdf_file/0009/663696/SA-DECS_-Understanding-the-Reading-Process.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s allows the reader to concentrate on the meaning of the text rather.Read more...</p></details>
+   Link:<a href="https://www.ecu.edu.au/__data/assets/pdf_file/0009/663696/SA-DECS_-Understanding-the-Reading-Process.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ecu.edu.au/__data/assets/pdf_file/0009/663696/SA-DECS_-Understanding-the-Reading-Process.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s allows the reader to concentrate on the meaning of the text rather.Read more...</p></details>
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: structural-learning.com  
-   Link: <a href="https://www.structural-learning.com/post/fluency-illusions-students-think-they-know" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/fluency-illusions-students-think-they-know</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fluency Illusions: Why Students Think They Know More6 days ago — Fluency illusions cause learners to confuse familiarity with genuine mas...</p></details>
+   Link:<a href="https://www.structural-learning.com/post/fluency-illusions-students-think-they-know" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/fluency-illusions-students-think-they-know</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fluency Illusions: Why Students Think They Know More6 days ago — Fluency illusions cause learners to confuse familiarity with genuine mas...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/topics/about-reading/articles/simple-view-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/about-reading/articles/simple-view-reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Simple View of ReadingResearch studies show that a student&#x27;s reading comprehension score can be predicted if decoding skills and lang...</p></details>
+   Link:<a href="https://www.readingrockets.org/topics/about-reading/articles/simple-view-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/about-reading/articles/simple-view-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Simple View of ReadingResearch studies show that a student&#x27;s reading comprehension score can be predicted if decoding skills and lang...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: sonar.rero.ch  
-   Link: <a href="https://sonar.rero.ch/global/documents/107972" target="_blank" rel="noopener noreferrer nofollow">https://sonar.rero.ch/global/documents/107972</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The present two-study work aims to contribute to an understanding of the causes and consequences of perceived processing fluency.Read more...</p></details>
+   Link:<a href="https://sonar.rero.ch/global/documents/107972" target="_blank" rel="noopener noreferrer nofollow">https://sonar.rero.ch/global/documents/107972</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The present two-study work aims to contribute to an understanding of the causes and consequences of perceived processing fluency.Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: nesslabs.com  
-   Link: <a href="https://nesslabs.com/illusion-of-clarity" target="_blank" rel="noopener noreferrer nofollow">https://nesslabs.com/illusion-of-clarity</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>, when in reality your grasp is full of gaps you&#x27;ve never noticed...</p></details>
+   Link:<a href="https://nesslabs.com/illusion-of-clarity" target="_blank" rel="noopener noreferrer nofollow">https://nesslabs.com/illusion-of-clarity</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>, when in reality your grasp is full of gaps you&#x27;ve never noticed...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/d0c2df5b7cd2d1a7309ff268081591b8d9565b9d" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/d0c2df5b7cd2d1a7309ff268081591b8d9565b9d</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Articulatory Suppression and Phonological Codes in...1 May 1990 — The aim of this study was to investigate whether the phonological code...</p></details>
+   Link:<a href="https://www.semanticscholar.org/paper/d0c2df5b7cd2d1a7309ff268081591b8d9565b9d" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/d0c2df5b7cd2d1a7309ff268081591b8d9565b9d</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Articulatory Suppression and Phonological Codes in...1 May 1990 — The aim of this study was to investigate whether the phonological code...</p></details>
    Published: May 1990  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: open.spotify.com  
-   Link: <a href="https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tell me something, girl. Are you happy in this modern world? Or do you need more? Is there something else you&#x27;re searchin&#x27; for? I&#x27;m falli...</p></details>
+   Link:<a href="https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tell me something, girl. Are you happy in this modern world? Or do you need more? Is there something else you&#x27;re searchin&#x27; for? I&#x27;m falli...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: open.spotify.com  
-   Link: <a href="https://open.spotify.com/album/708nDu1WADpksUOEGQ4Qny" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/album/708nDu1WADpksUOEGQ4Qny</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Single by Lady GagaListen to Shallow on Spotify · single · Lady Gaga · 2018 · 1 songs.... Shallow. Lady Gaga. 20181 song, 3 min 35 sec...</p></details>
+   Link:<a href="https://open.spotify.com/album/708nDu1WADpksUOEGQ4Qny" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/album/708nDu1WADpksUOEGQ4Qny</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Single by Lady GagaListen to Shallow on Spotify · single · Lady Gaga · 2018 · 1 songs.... Shallow. Lady Gaga. 20181 song, 3 min 35 sec...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: amalab.uta.edu  
    Title: ball et al. 2014 1  
-   Link: <a href="https://amalab.uta.edu/files/2021/12/ball-et-al.-2014-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://amalab.uta.edu/files/2021/12/ball-et-al.-2014-1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fluency Mediates the Influence of Perceptual...by BH Ball · Cited by 61 — Across several experiments JOLs were influenced by perceptual...</p></details>
+   Link:<a href="https://amalab.uta.edu/files/2021/12/ball-et-al.-2014-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://amalab.uta.edu/files/2021/12/ball-et-al.-2014-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fluency Mediates the Influence of Perceptual...by BH Ball · Cited by 61 — Across several experiments JOLs were influenced by perceptual...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41598-024-74719-4" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-024-74719-4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence of a metacognitive illusion in stimulus-specific...by GF Komar · 2024 · Cited by 4 — Two experiments served to examine how peop...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41598-024-74719-4" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-024-74719-4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence of a metacognitive illusion in stimulus-specific...by GF Komar · 2024 · Cited by 4 — Two experiments served to examine how peop...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: The Science Behind Reading Speed  
-   Link: <a href="https://www.youtube.com/watch?v=jv2BdHXRD3Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jv2BdHXRD3Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Illusion of Explanatory Depth: You Don&#x27;t Understand It Like You Think...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jv2BdHXRD3Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jv2BdHXRD3Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Illusion of Explanatory Depth: You Don&#x27;t Understand It Like You Think...</p></details>

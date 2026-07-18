@@ -337,7 +337,7 @@ Familiar topics often feel faster to read because the brain is not starting from
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_vocabulary_ba_236244-overview.webp" | relative_url }}" alt="Overview image for Knowledge" loading="eager" decoding="sync" fetchpriority="high">
-For [increasing]({{ 'increasing/' | relative_url }}) reading speed, this is one of the most reliable “slow routes to fast reading”. Instead of trying to force the eyes across the page at an artificial pace, the reader reduces the amount of mental work each line demands. Research on fluency, word recognition, vocabulary knowledge, prior knowledge and [eye movements]({{ 'eye-tradeoff/' | relative_url }}) all points in the same direction: speed improves when recognition and meaning-making become less effortful. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nichd.nih.gov">[NICHD+2Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nichd.nih.gov</span><span class="citation-popover-title">NICHDNational Reading Panel</span><span class="citation-popover-snippet">Reports of the Subgroups - Fluency - Chapter 3...</span></span></span>
+For [increasing]({{ 'increasing/' | relative_url }}) reading speed, this is one of the most reliable “slow routes to fast reading”. Instead of trying to force the eyes across the page at an artificial pace, the reader reduces the amount of mental work each line demands. Research on fluency, word recognition, vocabulary knowledge, prior knowledge and [eye movements]({{ 'eye-tradeoff/' | relative_url }}) all points in the same direction: speed improves when recognition and meaning-making become less effortful.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nichd.nih.gov">[NICHD+2Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nichd.nih.gov</span><span class="citation-popover-title">NICHDNational Reading Panel</span><span class="citation-popover-snippet">Reports of the Subgroups - Fluency - Chapter 3...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/j71qNZoHF2k" title="Learning Paper: Effect of Prior Knowledge (Recht 1988)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=j71qNZoHF2k" target="_blank" rel="noopener noreferrer">Learning Paper: Effect of Prior Knowledge (Recht 1988)</a></p><p class="youtube-embed-meta">Channel: Ahmni &middot; Views: 769 &middot; Uploaded: March 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=j71qNZoHF2k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=j71qNZoHF2k">Open on YouTube</a></p></div></div></div>
@@ -346,11 +346,11 @@ For [increasing]({{ 'increasing/' | relative_url }}) reading speed, this is one 
 
 A reader who knows a word well does not have to assemble it from scratch. Its spelling, sound, meaning, common uses and likely neighbours are already linked in memory. That is why a sentence full of familiar vocabulary can be read smoothly, while a sentence containing several new [technical]({{ 'technical-texts/' | relative_url }}) terms slows the reader even if the grammar is simple.
 
-Reading researchers often describe this as automatic word recognition. The National Reading Panel’s fluency review states that word recognition accuracy is not the endpoint: skilled readers read words “accurately, rapidly and efficiently”, while readers who do not develop fluency continue to read slowly and with effort. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nichd.nih.gov">[NICHD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nichd.nih.gov</span><span class="citation-popover-title">NICHDNational Reading Panel</span><span class="citation-popover-snippet">Reports of the Subgroups - Fluency - Chapter 3...</span></span></span> A 2023 [eye-tracking]({{ 'eye-tracking/' | relative_url }}) study in *Frontiers in Psychology* makes the same mechanism visible: familiar real words produced shorter dwell times and fewer fixations than unfamiliar pseudo-words, showing that the eyes linger when the brain has more work to do. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1052755/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers &#124; A developmental study of eye movements in Hebrew word reading: the effects of word familiarity, word length, and rea...</span></span></span>
+Reading researchers often describe this as automatic word recognition. The National Reading Panel’s fluency review states that word recognition accuracy is not the endpoint: skilled readers read words “accurately, rapidly and efficiently”, while readers who do not develop fluency continue to read slowly and with effort.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nichd.nih.gov">[NICHD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nichd.nih.gov</span><span class="citation-popover-title">NICHDNational Reading Panel</span><span class="citation-popover-snippet">Reports of the Subgroups - Fluency - Chapter 3...</span></span></span> A 2023 [eye-tracking]({{ 'eye-tracking/' | relative_url }}) study in *Frontiers in Psychology* makes the same mechanism visible: familiar real words produced shorter dwell times and fewer fixations than unfamiliar pseudo-words, showing that the eyes linger when the brain has more work to do.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1052755/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersFrontiers &#124; A developmental study of eye movements in Hebrew word reading: the effects of word familiarity, word length, and rea...</span></span></span>
 
 This matters because reading is not just seeing words; it is holding words in working memory long enough to build meaning. If too much attention is spent identifying vocabulary, less is available for inference, tone, structure and argument. A reader of medicine, law, finance or literary criticism may technically be able to pronounce every word, but still read slowly because key terms do not yet carry instant meaning.
 
-Vocabulary also has layers. Knowing that “margin” can mean a blank space at the edge of a page is not the same as recognising “profit margin”, “margin of error”, “marginal cost” and “margin call” quickly in context. Research on second-language reading is especially clear about this: a meta-analysis of more than 100 studies found a strong relationship between vocabulary knowledge and reading comprehension, with vocabulary knowledge accounting for a substantial share of variation in comprehension outcomes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fachportal-paedagogik.de/literatur/vollanzeige.html?FId=eric_ej1342379" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fachportal-paedagogik.de">[Fachportal Pädagogik]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fachportal-paedagogik.de</span><span class="citation-popover-snippet">Open source on fachportal-paedagogik.de.</span></span></span> For speed, the lesson is practical: breadth helps because fewer words are unknown; depth helps because familiar words become faster to interpret in specialised settings.
+Vocabulary also has layers. Knowing that “margin” can mean a blank space at the edge of a page is not the same as recognising “profit margin”, “margin of error”, “marginal cost” and “margin call” quickly in context. Research on second-language reading is especially clear about this: a meta-analysis of more than 100 studies found a strong relationship between vocabulary knowledge and reading comprehension, with vocabulary knowledge accounting for a substantial share of variation in comprehension outcomes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.fachportal-paedagogik.de/literatur/vollanzeige.html?FId=eric_ej1342379" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fachportal-paedagogik.de">[Fachportal Pädagogik]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fachportal-paedagogik.de</span><span class="citation-popover-snippet">Open source on fachportal-paedagogik.de.</span></span></span> For speed, the lesson is practical: breadth helps because fewer words are unknown; depth helps because familiar words become faster to interpret in specialised settings.
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_vocabulary_ba_236244-Illustration-1-dark.svg" | relative_url }}" alt="Knowledge illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_vocabulary_ba_236244-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_vocabulary_ba_236244-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -358,7 +358,7 @@ Vocabulary also has layers. Knowing that “margin” can mean a blank space at 
 
 [Background]({{ 'expertise/' | relative_url }}) knowledge speeds reading because it makes the text more predictable. A reader who already knows the basics of inflation, for example, expects references to interest rates, purchasing power, central banks, wages and prices. That reader is not guessing wildly; they are using a mental map. Each new sentence has a place to go.
 
-The classic classroom example is the Recht and Leslie baseball study. Seventh- and eighth-grade pupils read a passage about a baseball inning; those with greater baseball knowledge recalled and retained more, and the ERIC abstract reports that greater subject knowledge improved recall and retention without an interaction between prior knowledge and reading ability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://eric.ed.gov/?id=EJ384774" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eric.ed.gov">[ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eric.ed.gov</span><span class="citation-popover-snippet">EJ384774 - Effect of Prior Knowledge on Good and Poor Readers&#x27; Memory of Text., Journal of Educational Psychology, 1988...</span></span></span> The point for reading speed is not that baseball knowledge is special. It is that domain knowledge supplies ready-made structure: who is doing what, which details matter, and which events are routine rather than surprising.
+The classic classroom example is the Recht and Leslie baseball study. Seventh- and eighth-grade pupils read a passage about a baseball inning; those with greater baseball knowledge recalled and retained more, and the ERIC abstract reports that greater subject knowledge improved recall and retention without an interaction between prior knowledge and reading ability.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://eric.ed.gov/?id=EJ384774" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eric.ed.gov">[ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eric.ed.gov</span><span class="citation-popover-snippet">EJ384774 - Effect of Prior Knowledge on Good and Poor Readers&#x27; Memory of Text., Journal of Educational Psychology, 1988...</span></span></span> The point for reading speed is not that baseball knowledge is special. It is that domain knowledge supplies ready-made structure: who is doing what, which details matter, and which events are routine rather than surprising.
 
 That structure reduces the number of “micro-pauses” a reader experiences. In an unfamiliar field, the reader repeatedly has to ask: Is this term important? Is this claim ordinary or controversial? Is this paragraph giving background, evidence, exception or conclusion? In a familiar field, many of those decisions happen almost automatically. This is why a software developer may fly through a dense technical blog post but slow down on a short article about tax law, while a tax specialist may do the reverse.
 
@@ -371,7 +371,7 @@ Prior knowledge also helps readers fill gaps. Writers rarely explain every assum
 
 Background knowledge is a speed builder, not a substitute for reading. It can make comprehension easier, but it can also make a reader overconfident. A familiar topic encourages prediction; prediction is useful when it fits the text, but risky when the author is making a subtle distinction or challenging a common assumption.
 
-This is why the baseball study should not be stretched too far. Timothy Shanahan, a literacy researcher, notes that there is a substantial body of research showing that readers use prior knowledge to understand text, but also cautions that the baseball study was a one-off, used a single specially designed text, and does not prove that strategy instruction or other kinds of reading instruction should be abandoned. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.shanahanonliteracy.com/blog/prior-knowledge-or-he-isnt-going-to-pick-on-the-baseball-study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shanahanonliteracy.com">[Shanahan on Literacy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shanahanonliteracy.com</span><span class="citation-popover-snippet">Open source on shanahanonliteracy.com.</span></span></span> Alfie Kohn has made a sharper criticism, arguing that the study is small, focused on one distinctive topic, and often used to support instructional claims it did not actually test. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nepc.colorado.edu/blog/baseball-study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nepc.colorado.edu">[National Education Policy Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nepc.colorado.edu</span><span class="citation-popover-snippet">National Education Policy CenterAlfie Kohn: The *&amp;%$!#! Baseball Study: Why Are Fans of Fact-Focused Teaching Still Citing a Small, Uncon...</span></span></span>
+This is why the baseball study should not be stretched too far. Timothy Shanahan, a literacy researcher, notes that there is a substantial body of research showing that readers use prior knowledge to understand text, but also cautions that the baseball study was a one-off, used a single specially designed text, and does not prove that strategy instruction or other kinds of reading instruction should be abandoned.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.shanahanonliteracy.com/blog/prior-knowledge-or-he-isnt-going-to-pick-on-the-baseball-study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shanahanonliteracy.com">[Shanahan on Literacy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shanahanonliteracy.com</span><span class="citation-popover-snippet">Open source on shanahanonliteracy.com.</span></span></span> Alfie Kohn has made a sharper criticism, arguing that the study is small, focused on one distinctive topic, and often used to support instructional claims it did not actually test.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nepc.colorado.edu/blog/baseball-study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nepc.colorado.edu">[National Education Policy Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nepc.colorado.edu</span><span class="citation-popover-snippet">National Education Policy CenterAlfie Kohn: The *&amp;%$!#! Baseball Study: Why Are Fans of Fact-Focused Teaching Still Citing a Small, Uncon...</span></span></span>
 
 For adults trying to increase reading speed, the balanced takeaway is simple: use knowledge as a support, not as permission to stop checking the page. Familiarity should make reading smoother, but it should not turn into automatic agreement. The best readers notice when a text violates their expectations and slow down at that point.
 
@@ -409,7 +409,7 @@ A practical way to build this kind of speed is to move through a field in layers
 
 </div>
 
-This approach is consistent with the broader fluency evidence. The National Reading Panel found that repeated oral reading with feedback improved reading expertise, and the underlying principle applies beyond school contexts: repeated, meaningful encounters with text reduce effort and increase fluent recognition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nichd.nih.gov">[NICHD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nichd.nih.gov</span><span class="citation-popover-title">NICHDNational Reading Panel</span><span class="citation-popover-snippet">Reports of the Subgroups - Fluency - Chapter 3...</span></span></span> The Department for Education’s reading framework also emphasises that vocabulary is vital for comprehension and that pupils need fluency and comprehension alongside word reading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/664f600c05e5fe28788fc437/The_reading_framework_.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets The reading framework</span><span class="citation-popover-snippet">The reading framework...</span></span></span>
+This approach is consistent with the broader fluency evidence. The National Reading Panel found that repeated oral reading with feedback improved reading expertise, and the underlying principle applies beyond school contexts: repeated, meaningful encounters with text reduce effort and increase fluent recognition.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nichd.nih.gov">[NICHD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nichd.nih.gov</span><span class="citation-popover-title">NICHDNational Reading Panel</span><span class="citation-popover-snippet">Reports of the Subgroups - Fluency - Chapter 3...</span></span></span> The Department for Education’s reading framework also emphasises that vocabulary is vital for comprehension and that pupils need fluency and comprehension alongside word reading.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.publishing.service.gov.uk/media/664f600c05e5fe28788fc437/The_reading_framework_.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-title">UK Assets The reading framework</span><span class="citation-popover-snippet">The reading framework...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AQ6A2fCAlIE" title="Cognitive Load &amp; the Real Science of Reading with Natalie Wexler" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AQ6A2fCAlIE" target="_blank" rel="noopener noreferrer">Cognitive Load &amp; the Real Science of Reading with Natalie Wexler</a></p><p class="youtube-embed-meta">Channel: Toddle &middot; Views: 1.1K &middot; Uploaded: June 2025 &middot; Length: 43 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AQ6A2fCAlIE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AQ6A2fCAlIE">Open on YouTube</a></p></div></div></div>
@@ -426,194 +426,194 @@ For speed building, the strongest habit is therefore not racing the eyes. It is 
 <img src="{{ "/assets/images/increasing_re_852ca6_vocabulary_ba_236244-Illustration-3-dark.svg" | relative_url }}" alt="Knowledge illustration 3" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_vocabulary_ba_236244-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_vocabulary_ba_236244-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Familiar Topics Feel Faster to Read. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Familiar Topics Feel Faster to Read. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-        </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+</h4>
+<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Shows how knowledge accumulation improves learning efficiency.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how knowledge accumulation improves learning efficiency.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Improves reading effectiveness across domains.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Improves reading effectiveness across domains.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Knowledge+GAP+Natalie+Wexler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Knowledge GAP on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8771746-M.jpg" alt="Cover for The Knowledge GAP" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Knowledge+GAP+Natalie+Wexler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Knowledge GAP">The Knowledge GAP</a>
-        </h4>
-        <p class="fr-book-author">By Natalie Wexler</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Knowledge+GAP+Natalie+Wexler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Knowledge GAP on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8771746-M.jpg" alt="Cover for The Knowledge GAP" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Knowledge+GAP+Natalie+Wexler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Knowledge GAP">The Knowledge GAP</a>
+</h4>
+<p class="fr-book-author">By Natalie Wexler</p>
         
-        <p class="fr-book-desc">First published 2019. Subjects: Language arts (elementary), Education, elementary, curricula, Educational change, Children with social di...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Knowledge+GAP+Natalie+Wexler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2019. Subjects: Language arts (elementary), Education, elementary, curricula, Educational change, Children with social di...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Knowledge+GAP+Natalie+Wexler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+vocabulary+builder+workbook+Chris+Lele&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The vocabulary builder workbook on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+vocabulary+builder+workbook+Chris+Lele&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The vocabulary builder workbook">The vocabulary builder workbook</a>
-        </h4>
-        <p class="fr-book-author">By Chris Lele</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+vocabulary+builder+workbook+Chris+Lele&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The vocabulary builder workbook on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+vocabulary+builder+workbook+Chris+Lele&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The vocabulary builder workbook">The vocabulary builder workbook</a>
+</h4>
+<p class="fr-book-author">By Chris Lele</p>
         
-        <p class="fr-book-desc">First published 2018. Subjects: Textbooks, Vocabulary, Grammar, Self-instruction, English language.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+vocabulary+builder+workbook+Chris+Lele&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2018. Subjects: Textbooks, Vocabulary, Grammar, Self-instruction, English language.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+vocabulary+builder+workbook+Chris+Lele&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Knowledge+GAP&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Knowledge GAP</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Knowledge+GAP&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Knowledge GAP</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster -book -books" data-ebay-reference="knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Muscular System Body Educational Poster Skeletal Nervous Anatomy Chart"><img src="{{ '/assets/images/marketplace-covers/f3de2a2889d152054816.jpg' | relative_url }}" alt="Listing image for Human Muscular System Body Educational Poster Skeletal Nervous Anatomy Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster -book -books" data-ebay-reference="knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Human Muscular System Body Educational Poster Skeletal Nervous Anatomy Chart</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster -book -books" data-ebay-reference="knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster -book -books" data-ebay-reference="knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster -book -books" data-ebay-reference="knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Muscular System Body Educational Poster Skeletal Nervous Anatomy Chart"><img src="{{ '/assets/images/marketplace-covers/f3de2a2889d152054816.jpg' | relative_url }}" alt="Listing image for Human Muscular System Body Educational Poster Skeletal Nervous Anatomy Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster -book -books" data-ebay-reference="knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Human Muscular System Body Educational Poster Skeletal Nervous Anatomy Chart</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster -book -books" data-ebay-reference="knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: educational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster -book -books" data-ebay-reference="knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster -book -books" data-ebay-reference="knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Electronic ABC Learning Wall Chart Talking Alphabet 123 Educational Poster Large"><img src="{{ '/assets/images/marketplace-covers/8d54b8a1e09ac57a8c0b.jpg' | relative_url }}" alt="Listing image for Electronic ABC Learning Wall Chart Talking Alphabet 123 Educational Poster Large" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster -book -books" data-ebay-reference="knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Electronic ABC Learning Wall Chart Talking Alphabet 123 Educational Poster Large</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster -book -books" data-ebay-reference="knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster -book -books" data-ebay-reference="knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster -book -books" data-ebay-reference="knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Electronic ABC Learning Wall Chart Talking Alphabet 123 Educational Poster Large"><img src="{{ '/assets/images/marketplace-covers/8d54b8a1e09ac57a8c0b.jpg' | relative_url }}" alt="Listing image for Electronic ABC Learning Wall Chart Talking Alphabet 123 Educational Poster Large" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster -book -books" data-ebay-reference="knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Electronic ABC Learning Wall Chart Talking Alphabet 123 Educational Poster Large</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster -book -books" data-ebay-reference="knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: educational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster -book -books" data-ebay-reference="knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster -book -books" data-ebay-reference="knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for World Map Maps Educational Maxi Poster Print 61x91.5cm | 24x36 inches"><img src="{{ '/assets/images/marketplace-covers/841a3e8963cc1d168d2d.jpg' | relative_url }}" alt="Listing image for World Map Maps Educational Maxi Poster Print 61x91.5cm | 24x36 inches" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster -book -books" data-ebay-reference="knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">World Map Maps Educational Maxi Poster Print 61x91.5cm | 24x36 inches</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster -book -books" data-ebay-reference="knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster -book -books" data-ebay-reference="knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster -book -books" data-ebay-reference="knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for World Map Maps Educational Maxi Poster Print 61x91.5cm | 24x36 inches"><img src="{{ '/assets/images/marketplace-covers/841a3e8963cc1d168d2d.jpg' | relative_url }}" alt="Listing image for World Map Maps Educational Maxi Poster Print 61x91.5cm | 24x36 inches" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster -book -books" data-ebay-reference="knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">World Map Maps Educational Maxi Poster Print 61x91.5cm | 24x36 inches</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster -book -books" data-ebay-reference="knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: educational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster -book -books" data-ebay-reference="knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster -book -books" data-ebay-reference="knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster"><img src="{{ '/assets/images/marketplace-covers/fe6eac85e0cbd3115c4c.jpg' | relative_url }}" alt="Listing image for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster -book -books" data-ebay-reference="knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster -book -books" data-ebay-reference="knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster -book -books" data-ebay-reference="knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster -book -books" data-ebay-reference="knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster -book -books" data-ebay-reference="knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster"><img src="{{ '/assets/images/marketplace-covers/fe6eac85e0cbd3115c4c.jpg' | relative_url }}" alt="Listing image for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster -book -books" data-ebay-reference="knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster -book -books" data-ebay-reference="knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: educational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster -book -books" data-ebay-reference="knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational poster -book -books" data-ebay-reference="knowledge-why-familiar-topics-feel-faster-to-read-increasing-educational-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -629,7 +629,7 @@ For speed building, the strongest habit is therefore not racing the eyes. It is 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -649,7 +649,7 @@ For speed building, the strongest habit is therefore not racing the eyes. It is 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -681,7 +681,7 @@ For speed building, the strongest habit is therefore not racing the eyes. It is 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -733,7 +733,7 @@ For speed building, the strongest habit is therefore not racing the eyes. It is 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -778,7 +778,7 @@ For speed building, the strongest habit is therefore not racing the eyes. It is 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -819,184 +819,184 @@ For speed building, the strongest habit is therefore not racing the eyes. It is 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nichd.nih.gov  
    Title: NICHDNational Reading Panel  
-   Link: <a href="https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reports of the Subgroups - Fluency - Chapter 3...</p></details>
+   Link:<a href="https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/Documents/ch3.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reports of the Subgroups - Fluency - Chapter 3...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: assets.publishing.service.gov.uk  
    Title: UK Assets The reading framework  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/664f600c05e5fe28788fc437/The_reading_framework_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/664f600c05e5fe28788fc437/The_reading_framework_.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The reading framework...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/664f600c05e5fe28788fc437/The_reading_framework_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/664f600c05e5fe28788fc437/The_reading_framework_.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The reading framework...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nac.gov.sg  
-   Link: <a href="https://www.nac.gov.sg/" target="_blank" rel="noopener noreferrer nofollow">https://www.nac.gov.sg/</a>  
+   Link:<a href="https://www.nac.gov.sg/" target="_blank" rel="noopener noreferrer nofollow">https://www.nac.gov.sg/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nea.gov.sg  
-   Link: <a href="https://www.nea.gov.sg/" target="_blank" rel="noopener noreferrer nofollow">https://www.nea.gov.sg/</a>  
+   Link:<a href="https://www.nea.gov.sg/" target="_blank" rel="noopener noreferrer nofollow">https://www.nea.gov.sg/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nas.gov.sg  
-   Link: <a href="https://www.nas.gov.sg/archivesonline/" target="_blank" rel="noopener noreferrer nofollow">https://www.nas.gov.sg/archivesonline/</a>  
+   Link:<a href="https://www.nas.gov.sg/archivesonline/" target="_blank" rel="noopener noreferrer nofollow">https://www.nas.gov.sg/archivesonline/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nhb.gov.sg  
-   Link: <a href="https://www.nhb.gov.sg/nationalmuseum/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhb.gov.sg/nationalmuseum/</a>  
+   Link:<a href="https://www.nhb.gov.sg/nationalmuseum/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhb.gov.sg/nationalmuseum/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ns.gov.sg  
-   Link: <a href="https://www.ns.gov.sg/web" target="_blank" rel="noopener noreferrer nofollow">https://www.ns.gov.sg/web</a>  
+   Link:<a href="https://www.ns.gov.sg/web" target="_blank" rel="noopener noreferrer nofollow">https://www.ns.gov.sg/web</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1052755/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1052755/full</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersFrontiers | A developmental study of eye movements in Hebrew word reading: the effects of word familiarity, word length, and rea...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1052755/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1052755/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersFrontiers | A developmental study of eye movements in Hebrew word reading: the effects of word familiarity, word length, and rea...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: fachportal-paedagogik.de  
-   Link: <a href="https://www.fachportal-paedagogik.de/literatur/vollanzeige.html?FId=eric_ej1342379" target="_blank" rel="noopener noreferrer nofollow">https://www.fachportal-paedagogik.de/literatur/vollanzeige.html?FId=eric_ej1342379</a>  
+   Link:<a href="https://www.fachportal-paedagogik.de/literatur/vollanzeige.html?FId=eric_ej1342379" target="_blank" rel="noopener noreferrer nofollow">https://www.fachportal-paedagogik.de/literatur/vollanzeige.html?FId=eric_ej1342379</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: eric.ed.gov  
-   Link: <a href="https://eric.ed.gov/?id=EJ384774" target="_blank" rel="noopener noreferrer nofollow">https://eric.ed.gov/?id=EJ384774</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EJ384774 - Effect of Prior Knowledge on Good and Poor Readers&#x27; Memory of Text., Journal of Educational Psychology, 1988...</p></details>
+   Link:<a href="https://eric.ed.gov/?id=EJ384774" target="_blank" rel="noopener noreferrer nofollow">https://eric.ed.gov/?id=EJ384774</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EJ384774 - Effect of Prior Knowledge on Good and Poor Readers&#x27; Memory of Text., Journal of Educational Psychology, 1988...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: shanahanonliteracy.com  
-   Link: <a href="https://www.shanahanonliteracy.com/blog/prior-knowledge-or-he-isnt-going-to-pick-on-the-baseball-study" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/prior-knowledge-or-he-isnt-going-to-pick-on-the-baseball-study</a>  
+   Link:<a href="https://www.shanahanonliteracy.com/blog/prior-knowledge-or-he-isnt-going-to-pick-on-the-baseball-study" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/prior-knowledge-or-he-isnt-going-to-pick-on-the-baseball-study</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nepc.colorado.edu  
-   Link: <a href="https://nepc.colorado.edu/blog/baseball-study" target="_blank" rel="noopener noreferrer nofollow">https://nepc.colorado.edu/blog/baseball-study</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Education Policy CenterAlfie Kohn: The *&amp;%$!#! Baseball Study: Why Are Fans of Fact-Focused Teaching Still Citing a Small, Uncon...</p></details>
+   Link:<a href="https://nepc.colorado.edu/blog/baseball-study" target="_blank" rel="noopener noreferrer nofollow">https://nepc.colorado.edu/blog/baseball-study</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Education Policy CenterAlfie Kohn: The *&amp;%$!#! Baseball Study: Why Are Fans of Fact-Focused Teaching Still Citing a Small, Uncon...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: doe.mass.edu  
    Title: word recognition  
-   Link: <a href="https://www.doe.mass.edu/massliteracy/skilled-reading/fluent-word-reading/word-recognition.html" target="_blank" rel="noopener noreferrer nofollow">https://www.doe.mass.edu/massliteracy/skilled-reading/fluent-word-reading/word-recognition.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>for Early Reading: Automatic Word RecognitionDecember 18, 2020 — All fluent readers can instantly and automatically recognize a large num...</p></details>
+   Link:<a href="https://www.doe.mass.edu/massliteracy/skilled-reading/fluent-word-reading/word-recognition.html" target="_blank" rel="noopener noreferrer nofollow">https://www.doe.mass.edu/massliteracy/skilled-reading/fluent-word-reading/word-recognition.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>for Early Reading: Automatic Word RecognitionDecember 18, 2020 — All fluent readers can instantly and automatically recognize a large num...</p></details>
    Published: December 18, 2020  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.657573/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.657573/full</a>  
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.657573/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.657573/full</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Knowledge" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Knowledge</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Knowledge" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Knowledge</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Baseball Study  
-   Link: <a href="https://en.wikipedia.org/wiki/Baseball_Study" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Baseball_Study</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Baseball_Study" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Baseball_Study</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8559868/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8559868/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8559868/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8559868/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3142886/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3142886/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3142886/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3142886/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8012014/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8012014/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8012014/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8012014/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4331220/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4331220/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4331220/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4331220/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: www1.nichd.nih.gov  
-   Link: <a href="https://www1.nichd.nih.gov/publications/pubs/nrp/Documents/report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www1.nichd.nih.gov/publications/pubs/nrp/Documents/report.pdf</a>  
+   Link:<a href="https://www1.nichd.nih.gov/publications/pubs/nrp/Documents/report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www1.nichd.nih.gov/publications/pubs/nrp/Documents/report.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10497962/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10497962/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10497962/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10497962/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5510944/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5510944/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5510944/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5510944/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english-spanish/national" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english-spanish/national</a>  
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english-spanish/national" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english-spanish/national</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/national" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/national</a>  
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/national" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/national</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/knowledge" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/knowledge</a>  
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/knowledge" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/knowledge</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: users.cecs.anu.edu.au  
-   Link: <a href="https://users.cecs.anu.edu.au/~Tom.Gedeon/pdfs/The%20effect%20of%20subject%20familiarity%20on%20comprehension%20and%20eye%20movements%20during%20reading.pdf" target="_blank" rel="noopener noreferrer nofollow">https://users.cecs.anu.edu.au/~Tom.Gedeon/pdfs/The%20effect%20of%20subject%20familiarity%20on%20comprehension%20and%20eye%20movements%20during%20reading.pdf</a>  
+   Link:<a href="https://users.cecs.anu.edu.au/~Tom.Gedeon/pdfs/The%20effect%20of%20subject%20familiarity%20on%20comprehension%20and%20eye%20movements%20during%20reading.pdf" target="_blank" rel="noopener noreferrer nofollow">https://users.cecs.anu.edu.au/~Tom.Gedeon/pdfs/The%20effect%20of%20subject%20familiarity%20on%20comprehension%20and%20eye%20movements%20during%20reading.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: scholars.cityu.edu.hk  
-   Link: <a href="https://scholars.cityu.edu.hk/files/71199775/59733616.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scholars.cityu.edu.hk/files/71199775/59733616.pdf</a>  
+   Link:<a href="https://scholars.cityu.edu.hk/files/71199775/59733616.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scholars.cityu.edu.hk/files/71199775/59733616.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: epc.ntnu.edu.tw  
-   Link: <a href="https://www.epc.ntnu.edu.tw/File/Archive/BB-79-C7-E7-DB-C6-55-31-3C-08-C1-42-0B-0A-DB-47.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.epc.ntnu.edu.tw/File/Archive/BB-79-C7-E7-DB-C6-55-31-3C-08-C1-42-0B-0A-DB-47.pdf</a>  
+   Link:<a href="https://www.epc.ntnu.edu.tw/File/Archive/BB-79-C7-E7-DB-C6-55-31-3C-08-C1-42-0B-0A-DB-47.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.epc.ntnu.edu.tw/File/Archive/BB-79-C7-E7-DB-C6-55-31-3C-08-C1-42-0B-0A-DB-47.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: nus.edu.sg  
-   Link: <a href="https://nus.edu.sg/" target="_blank" rel="noopener noreferrer nofollow">https://nus.edu.sg/</a>  
+   Link:<a href="https://nus.edu.sg/" target="_blank" rel="noopener noreferrer nofollow">https://nus.edu.sg/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: nationaljc.moe.edu.sg  
-   Link: <a href="https://www.nationaljc.moe.edu.sg/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationaljc.moe.edu.sg/</a>  
+   Link:<a href="https://www.nationaljc.moe.edu.sg/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationaljc.moe.edu.sg/</a>  
 
 ### Additional References
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: thedyslexiaclassroom.com  
    Title: When students do not have to devote most of their attention to decoding  
-   Link: <a href="https://www.thedyslexiaclassroom.com/blog/from-effortful-decoding-to-automatic-word-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.thedyslexiaclassroom.com/blog/from-effortful-decoding-to-automatic-word-reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>From Effortful Decoding to Automatic Word ReadingFebruary 13, 2026 — Automatic word reading matters because it frees cognitive energy...</p></details>
+   Link:<a href="https://www.thedyslexiaclassroom.com/blog/from-effortful-decoding-to-automatic-word-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.thedyslexiaclassroom.com/blog/from-effortful-decoding-to-automatic-word-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From Effortful Decoding to Automatic Word ReadingFebruary 13, 2026 — Automatic word reading matters because it frees cognitive energy...</p></details>
    Published: February 13, 2026  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: The role of background knowledge in reading comprehension  
-   Link: <a href="https://www.youtube.com/watch?v=kLeUFzWTxO4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kLeUFzWTxO4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is Orthographic Mapping and How is it Built?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kLeUFzWTxO4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kLeUFzWTxO4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is Orthographic Mapping and How is it Built?...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/377081451_The_effects_of_segmentation_on_cognitive_load_vocabulary_learning_and_retention_and_reading_comprehension_in_a_multimedia_learning_environment" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/377081451_The_effects_of_segmentation_on_cognitive_load_vocabulary_learning_and_retention_and_reading_comprehension_in_a_multimedia_learning_environment</a>  
+   Link:<a href="https://www.researchgate.net/publication/377081451_The_effects_of_segmentation_on_cognitive_load_vocabulary_learning_and_retention_and_reading_comprehension_in_a_multimedia_learning_environment" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/377081451_The_effects_of_segmentation_on_cognitive_load_vocabulary_learning_and_retention_and_reading_comprehension_in_a_multimedia_learning_environment</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/260342627_What_oral_text_reading_fluency_can_reveal_about_reading_comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/260342627_What_oral_text_reading_fluency_can_reveal_about_reading_comprehension</a>  
+   Link:<a href="https://www.researchgate.net/publication/260342627_What_oral_text_reading_fluency_can_reveal_about_reading_comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/260342627_What_oral_text_reading_fluency_can_reveal_about_reading_comprehension</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/360155449_BREADTH_AND_DEPTH-VOCABULARY_KNOWLEDGE_AND_READING_COMPREHENSION_IN_AN_ENGLISH_FIRST_ADDITIONAL_LANGUAGE_CONTEXT" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/360155449_BREADTH_AND_DEPTH-VOCABULARY_KNOWLEDGE_AND_READING_COMPREHENSION_IN_AN_ENGLISH_FIRST_ADDITIONAL_LANGUAGE_CONTEXT</a>  
+   Link:<a href="https://www.researchgate.net/publication/360155449_BREADTH_AND_DEPTH-VOCABULARY_KNOWLEDGE_AND_READING_COMPREHENSION_IN_AN_ENGLISH_FIRST_ADDITIONAL_LANGUAGE_CONTEXT" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/360155449_BREADTH_AND_DEPTH-VOCABULARY_KNOWLEDGE_AND_READING_COMPREHENSION_IN_AN_ENGLISH_FIRST_ADDITIONAL_LANGUAGE_CONTEXT</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/360615911_Using_an_eye_tracker_to_examine_the_effect_of_prior_knowledge_on_reading_processes_while_reading_a_printed_scientific_text_with_multiple_representations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/360615911_Using_an_eye_tracker_to_examine_the_effect_of_prior_knowledge_on_reading_processes_while_reading_a_printed_scientific_text_with_multiple_representations</a>  
+   Link:<a href="https://www.researchgate.net/publication/360615911_Using_an_eye_tracker_to_examine_the_effect_of_prior_knowledge_on_reading_processes_while_reading_a_printed_scientific_text_with_multiple_representations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/360615911_Using_an_eye_tracker_to_examine_the_effect_of_prior_knowledge_on_reading_processes_while_reading_a_printed_scientific_text_with_multiple_representations</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/382334813_THE_RELATIONSHIP_BETWEEN_READING_FLUENCY_COMPONENTS_AND_COMPREHENSION_SKILLS_A_DESCRIPTIVE_CORRELATIONAL_STUDY" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/382334813_THE_RELATIONSHIP_BETWEEN_READING_FLUENCY_COMPONENTS_AND_COMPREHENSION_SKILLS_A_DESCRIPTIVE_CORRELATIONAL_STUDY</a>  
+   Link:<a href="https://www.researchgate.net/publication/382334813_THE_RELATIONSHIP_BETWEEN_READING_FLUENCY_COMPONENTS_AND_COMPREHENSION_SKILLS_A_DESCRIPTIVE_CORRELATIONAL_STUDY" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/382334813_THE_RELATIONSHIP_BETWEEN_READING_FLUENCY_COMPONENTS_AND_COMPREHENSION_SKILLS_A_DESCRIPTIVE_CORRELATIONAL_STUDY</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/249134643_A_Review_of_the_National_Reading_Panel%27s_Studies_on_Fluency_The_Role_of_Text" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/249134643_A_Review_of_the_National_Reading_Panel%27s_Studies_on_Fluency_The_Role_of_Text</a>  
+   Link:<a href="https://www.researchgate.net/publication/249134643_A_Review_of_the_National_Reading_Panel%27s_Studies_on_Fluency_The_Role_of_Text" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/249134643_A_Review_of_the_National_Reading_Panel%27s_Studies_on_Fluency_The_Role_of_Text</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: flowfluency.com  
-   Link: <a href="https://flowfluency.com/blog/automaticity-and-repeated-reading-unlocking-the-key-to-fluency/" target="_blank" rel="noopener noreferrer nofollow">https://flowfluency.com/blog/automaticity-and-repeated-reading-unlocking-the-key-to-fluency/</a>  
+   Link:<a href="https://flowfluency.com/blog/automaticity-and-repeated-reading-unlocking-the-key-to-fluency/" target="_blank" rel="noopener noreferrer nofollow">https://flowfluency.com/blog/automaticity-and-repeated-reading-unlocking-the-key-to-fluency/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/94664271/Automaticity_of_word_recognition_is_a_unique_predictor_of_reading_fluency_in_middle_school_students" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/94664271/Automaticity_of_word_recognition_is_a_unique_predictor_of_reading_fluency_in_middle_school_students</a>  
+   Link:<a href="https://www.academia.edu/94664271/Automaticity_of_word_recognition_is_a_unique_predictor_of_reading_fluency_in_middle_school_students" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/94664271/Automaticity_of_word_recognition_is_a_unique_predictor_of_reading_fluency_in_middle_school_students</a>  

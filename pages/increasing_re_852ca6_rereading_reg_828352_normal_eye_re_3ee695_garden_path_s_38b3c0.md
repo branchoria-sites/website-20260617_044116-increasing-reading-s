@@ -273,31 +273,31 @@ Some of the most common causes of rereading are not difficult words or unfamilia
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_rereading_reg_828352_normal_eye_re_3ee695_garden_path_s_38b3c0-Illustration-1-dark.svg" | relative_url }}" alt="Garden Paths illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_rereading_reg_828352_normal_eye_re_3ee695_garden_path_s_38b3c0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_rereading_reg_828352_normal_eye_re_3ee695_garden_path_s_38b3c0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For people interested in increasing reading speed, garden-path sentences are important because they show that not all [regressions]({{ 'lookbacks/' | relative_url }}) are signs of inefficient reading. In many cases, looking back is the normal repair mechanism used when the brain discovers that its first interpretation was incorrect. [Eye-tracking]({{ 'eye-tracking/' | relative_url }}) research consistently finds that garden-path constructions trigger longer reading times, increased regressions, and additional processing effort as readers revise their understanding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/27150840/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2UMass People]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Why reread?</span><span class="citation-popover-snippet">Evidence from garden-path and local...by K Christianson · 2017 · Cited by 92 — Two eye-tracking experiments were conducted to compare th...</span></span></span>
+For people interested in increasing reading speed, garden-path sentences are important because they show that not all [regressions]({{ 'lookbacks/' | relative_url }}) are signs of inefficient reading. In many cases, looking back is the normal repair mechanism used when the brain discovers that its first interpretation was incorrect. [Eye-tracking]({{ 'eye-tracking/' | relative_url }}) research consistently finds that garden-path constructions trigger longer reading times, increased regressions, and additional processing effort as readers revise their understanding.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/27150840/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2UMass People]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Why reread?</span><span class="citation-popover-snippet">Evidence from garden-path and local...by K Christianson · 2017 · Cited by 92 — Two eye-tracking experiments were conducted to compare th...</span></span></span>
 
 ## What Creates a Garden-Path Sentence?
 
-Reading is an incremental process. Readers do not wait until the end of a sentence before assigning meaning. Instead, they make rapid predictions about grammatical structure and meaning as each word arrives. This strategy is usually efficient, but it occasionally leads to errors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/23273798.2021.1922727" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineFull article: On the parsing of garden-path sentencesby H Fujita · 2021 · Cited by 29 — The present study reports...</span></span></span>
+Reading is an incremental process. Readers do not wait until the end of a sentence before assigning meaning. Instead, they make rapid predictions about grammatical structure and meaning as each word arrives. This strategy is usually efficient, but it occasionally leads to errors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/23273798.2021.1922727" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineFull article: On the parsing of garden-path sentencesby H Fujita · 2021 · Cited by 29 — The present study reports...</span></span></span>
 
 A garden-path sentence exploits this tendency. Early words support one interpretation, but later words force a different one.
 
 Consider the classic example:
 
-&gt; The horse raced past the barn fell. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=QdS4vB5pSvw" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Garden Path Sentence Explained: The horse raced past the barn fell</span><span class="citation-popover-snippet">How Do We Interpret Sentences? Parsing Strategies...</span></span></span>
+&gt; The horse raced past the barn fell.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=QdS4vB5pSvw" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Garden Path Sentence Explained: The horse raced past the barn fell</span><span class="citation-popover-snippet">How Do We Interpret Sentences? Parsing Strategies...</span></span></span>
 
 Most readers initially treat “raced” as the sentence’s main verb. When they reach “fell”, that interpretation becomes impossible. The sentence actually means:
 
-&gt; The horse that was raced past the barn fell. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=QdS4vB5pSvw" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Garden Path Sentence Explained: The horse raced past the barn fell</span><span class="citation-popover-snippet">How Do We Interpret Sentences? Parsing Strategies...</span></span></span>
+&gt; The horse that was raced past the barn fell.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=QdS4vB5pSvw" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Garden Path Sentence Explained: The horse raced past the barn fell</span><span class="citation-popover-snippet">How Do We Interpret Sentences? Parsing Strategies...</span></span></span>
 
-The reader must abandon the first analysis and build a new one. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Garden-path_sentence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Garden-path sentence</span><span class="citation-popover-snippet">Garden-path sentence</span></span></span>
+The reader must abandon the first analysis and build a new one.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Garden-path_sentence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Garden-path sentence</span><span class="citation-popover-snippet">Garden-path sentence</span></span></span>
 
 Another example is:
 
 > While Anna dressed the baby played in the cot.
 
-Readers often assume that “the baby” is the object of “dressed”. Later words reveal that “the baby” is actually the subject of a new clause. The sentence is grammatical, but the reader's first interpretation leads down the wrong path. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/23273798.2021.1922727" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineFull article: On the parsing of garden-path sentencesby H Fujita · 2021 · Cited by 29 — The present study reports...</span></span></span>
+Readers often assume that “the baby” is the object of “dressed”. Later words reveal that “the baby” is actually the subject of a new clause. The sentence is grammatical, but the reader's first interpretation leads down the wrong path.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/23273798.2021.1922727" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineFull article: On the parsing of garden-path sentencesby H Fujita · 2021 · Cited by 29 — The present study reports...</span></span></span>
 
-Researchers study these sentences because they provide a controlled way to observe how comprehension works in real time. The moment of confusion reveals the predictions readers make automatically during ordinary reading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/23273798.2021.1922727" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineFull article: On the parsing of garden-path sentencesby H Fujita · 2021 · Cited by 29 — The present study reports...</span></span></span>
+Researchers study these sentences because they provide a controlled way to observe how comprehension works in real time. The moment of confusion reveals the predictions readers make automatically during ordinary reading.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/23273798.2021.1922727" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineFull article: On the parsing of garden-path sentencesby H Fujita · 2021 · Cited by 29 — The present study reports...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QdS4vB5pSvw" title="Garden Path Sentence Explained: The horse raced past the barn fell" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QdS4vB5pSvw" target="_blank" rel="noopener noreferrer">Garden Path Sentence Explained: The horse raced past the barn fell</a></p><p class="youtube-embed-meta">Channel: suzyjstyles</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QdS4vB5pSvw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QdS4vB5pSvw">Open on YouTube</a></p></div></div></div>
@@ -306,7 +306,7 @@ Researchers study these sentences because they provide a controlled way to obser
 
 When later information contradicts an earlier interpretation, the reader faces a problem: continue with an incorrect mental representation or repair it.
 
-Eye-tracking studies show that readers frequently choose repair. They make regressions—backward [eye movements]({{ 'eye-tradeoff/' | relative_url }})—to earlier parts of the sentence. These regressions are especially common around the point where the sentence becomes unambiguous and the initial interpretation fails. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://people.umass.edu/~cec/CliftonStaubRaynerECEM.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.umass.edu">[UMass People+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.umass.edu</span><span class="citation-popover-title">Clifton Staub Rayner ECEM</span><span class="citation-popover-snippet">UMass PeopleEye Movements in Reading Words and Sentencesby C Clifton Jr · Cited by 820 — (2003) data did significant garden-path effects...</span></span></span>
+Eye-tracking studies show that readers frequently choose repair. They make regressions—backward [eye movements]({{ 'eye-tradeoff/' | relative_url }})—to earlier parts of the sentence. These regressions are especially common around the point where the sentence becomes unambiguous and the initial interpretation fails.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://people.umass.edu/~cec/CliftonStaubRaynerECEM.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.umass.edu">[UMass People+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.umass.edu</span><span class="citation-popover-title">Clifton Staub Rayner ECEM</span><span class="citation-popover-snippet">UMass PeopleEye Movements in Reading Words and Sentencesby C Clifton Jr · Cited by 820 — (2003) data did significant garden-path effects...</span></span></span>
 
 The repair process typically involves three stages:
 
@@ -319,9 +319,9 @@ The repair process typically involves three stages:
 
 </div>
 
-This sequence creates measurable reading costs. Readers spend longer on the disambiguating region, make more regressions, and often reread earlier words before continuing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://people.umass.edu/~cec/CliftonStaubRaynerECEM.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.umass.edu">[UMass People+2UCL Discovery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.umass.edu</span><span class="citation-popover-title">Clifton Staub Rayner ECEM</span><span class="citation-popover-snippet">UMass PeopleEye Movements in Reading Words and Sentencesby C Clifton Jr · Cited by 820 — (2003) data did significant garden-path effects...</span></span></span>
+This sequence creates measurable reading costs. Readers spend longer on the disambiguating region, make more regressions, and often reread earlier words before continuing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://people.umass.edu/~cec/CliftonStaubRaynerECEM.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.umass.edu">[UMass People+2UCL Discovery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.umass.edu</span><span class="citation-popover-title">Clifton Staub Rayner ECEM</span><span class="citation-popover-snippet">UMass PeopleEye Movements in Reading Words and Sentencesby C Clifton Jr · Cited by 820 — (2003) data did significant garden-path effects...</span></span></span>
 
-Importantly, the backward movement is not random. Research examining rereading behaviour in garden-path sentences has found evidence that readers often revisit regions that are most relevant to resolving the ambiguity rather than simply [scanning]({{ 'scanning-vs-reading/' | relative_url }}) backwards indiscriminately. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/41396621/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Selective rereading in Chinese garden path sentencesby H Chen · Cited by 2 — The results provide clear evidence of selective reread...</span></span></span>
+Importantly, the backward movement is not random. Research examining rereading behaviour in garden-path sentences has found evidence that readers often revisit regions that are most relevant to resolving the ambiguity rather than simply [scanning]({{ 'scanning-vs-reading/' | relative_url }}) backwards indiscriminately.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/41396621/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Selective rereading in Chinese garden path sentencesby H Chen · Cited by 2 — The results provide clear evidence of selective reread...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_rereading_reg_828352_normal_eye_re_3ee695_garden_path_s_38b3c0-Illustration-2-dark.svg" | relative_url }}" alt="Garden Paths illustration 2" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_rereading_reg_828352_normal_eye_re_3ee695_garden_path_s_38b3c0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_rereading_reg_828352_normal_eye_re_3ee695_garden_path_s_38b3c0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -329,11 +329,11 @@ Importantly, the backward movement is not random. Research examining rereading b
 
 A surprising finding from psycholinguistic research is that readers do not always fully recover from a garden path.
 
-Even after rereading and reaching the end of the sentence, traces of the original misunderstanding may remain. Studies by Fernanda Ferreira, Kiel Christianson, Thomas Slattery and colleagues have repeatedly shown that readers can answer comprehension questions in ways that reveal lingering influence from the incorrect initial interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ferreiralab.faculty.ucdavis.edu/wp-content/uploads/sites/222/2015/05/Slattery-et-al.-2013_GardenPathCompetingRepresentations_JML.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ferreiralab.faculty.ucdavis.edu">[Ferreira Lab+2PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ferreiralab.faculty.ucdavis.edu</span><span class="citation-popover-title">Slattery et al. 2013 GardenPathCompetingRepresentations JML</span><span class="citation-popover-snippet">Ferreira LabLingering misinterpretations of garden path sentences...by TJ Slattery · 2013 · Cited by 244 — Sentences containing temporar...</span></span></span>
+Even after rereading and reaching the end of the sentence, traces of the original misunderstanding may remain. Studies by Fernanda Ferreira, Kiel Christianson, Thomas Slattery and colleagues have repeatedly shown that readers can answer comprehension questions in ways that reveal lingering influence from the incorrect initial interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ferreiralab.faculty.ucdavis.edu/wp-content/uploads/sites/222/2015/05/Slattery-et-al.-2013_GardenPathCompetingRepresentations_JML.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ferreiralab.faculty.ucdavis.edu">[Ferreira Lab+2PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ferreiralab.faculty.ucdavis.edu</span><span class="citation-popover-title">Slattery et al. 2013 GardenPathCompetingRepresentations JML</span><span class="citation-popover-snippet">Ferreira LabLingering misinterpretations of garden path sentences...by TJ Slattery · 2013 · Cited by 244 — Sentences containing temporar...</span></span></span>
 
-For example, a reader may correctly identify the sentence's final grammatical structure while still retaining aspects of the earlier mistaken meaning. Rather than completely deleting the original interpretation, the mind may preserve competing representations simultaneously. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ferreiralab.faculty.ucdavis.edu/wp-content/uploads/sites/222/2015/05/Slattery-et-al.-2013_GardenPathCompetingRepresentations_JML.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ferreiralab.faculty.ucdavis.edu">[Ferreira Lab+2PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ferreiralab.faculty.ucdavis.edu</span><span class="citation-popover-title">Slattery et al. 2013 GardenPathCompetingRepresentations JML</span><span class="citation-popover-snippet">Ferreira LabLingering misinterpretations of garden path sentences...by TJ Slattery · 2013 · Cited by 244 — Sentences containing temporar...</span></span></span>
+For example, a reader may correctly identify the sentence's final grammatical structure while still retaining aspects of the earlier mistaken meaning. Rather than completely deleting the original interpretation, the mind may preserve competing representations simultaneously.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ferreiralab.faculty.ucdavis.edu/wp-content/uploads/sites/222/2015/05/Slattery-et-al.-2013_GardenPathCompetingRepresentations_JML.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ferreiralab.faculty.ucdavis.edu">[Ferreira Lab+2PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ferreiralab.faculty.ucdavis.edu</span><span class="citation-popover-title">Slattery et al. 2013 GardenPathCompetingRepresentations JML</span><span class="citation-popover-snippet">Ferreira LabLingering misinterpretations of garden path sentences...by TJ Slattery · 2013 · Cited by 244 — Sentences containing temporar...</span></span></span>
 
-Recent research suggests that the outcome of comprehension repair is often more varied than once assumed. Instead of producing a single perfectly revised representation, readers may end up with partially corrected interpretations that differ in accuracy and completeness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0288817" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Garden-path sentences and the diversity of their (mis...by M Ceháková · 2023 · Cited by 24 — We argue that resulting representations...</span></span></span>
+Recent research suggests that the outcome of comprehension repair is often more varied than once assumed. Instead of producing a single perfectly revised representation, readers may end up with partially corrected interpretations that differ in accuracy and completeness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0288817" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Garden-path sentences and the diversity of their (mis...by M Ceháková · 2023 · Cited by 24 — We argue that resulting representations...</span></span></span>
 
 This helps explain why some sentences continue to feel confusing even after they have been reread.
 
@@ -341,7 +341,7 @@ This helps explain why some sentences continue to feel confusing even after they
 <img src="{{ "/assets/images/increasing_re_852ca6_rereading_reg_828352_normal_eye_re_3ee695_garden_path_s_38b3c0-Illustration-3-dark.svg" | relative_url }}" alt="Garden Paths illustration 3" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_rereading_reg_828352_normal_eye_re_3ee695_garden_path_s_38b3c0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_rereading_reg_828352_normal_eye_re_3ee695_garden_path_s_38b3c0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Examples From Everyday Reading
 
-Laboratory examples are useful, but garden-path effects also appear in ordinary prose. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Garden-path_sentence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Garden-path sentence</span><span class="citation-popover-snippet">Garden-path sentence</span></span></span>
+Laboratory examples are useful, but garden-path effects also appear in ordinary prose.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Garden-path_sentence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Garden-path sentence</span><span class="citation-popover-snippet">Garden-path sentence</span></span></span>
 
 News writing, [technical]({{ 'technical-texts/' | relative_url }}) documentation, legal text, and poorly edited business communication sometimes contain structures that momentarily mislead readers.
 
@@ -355,14 +355,14 @@ Or:
 
 > After the meeting ended the report surprised everyone.
 
-Many readers initially attach “the report” to the first clause before discovering that it begins the second clause. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/23273798.2021.1922727" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineFull article: On the parsing of garden-path sentencesby H Fujita · 2021 · Cited by 29 — The present study reports...</span></span></span>
+Many readers initially attach “the report” to the first clause before discovering that it begins the second clause.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/23273798.2021.1922727" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineFull article: On the parsing of garden-path sentencesby H Fujita · 2021 · Cited by 29 — The present study reports...</span></span></span>
 
 Writers often remove these difficulties by adding punctuation or extra function words:
 
 * “The manager told **that** the employee was late.”
 * “After the meeting ended, the report surprised everyone.”
 
-Small changes can prevent readers from entering the wrong interpretive path in the first place. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/23273798.2021.1922727" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineFull article: On the parsing of garden-path sentencesby H Fujita · 2021 · Cited by 29 — The present study reports...</span></span></span>
+Small changes can prevent readers from entering the wrong interpretive path in the first place.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/23273798.2021.1922727" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineFull article: On the parsing of garden-path sentencesby H Fujita · 2021 · Cited by 29 — The present study reports...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/b8CpFypmCD0" title="Garden path sentence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=b8CpFypmCD0" target="_blank" rel="noopener noreferrer">Garden path sentence</a></p><p class="youtube-embed-meta">Channel: Audiopedia</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=b8CpFypmCD0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=b8CpFypmCD0">Open on YouTube</a></p></div></div></div>
@@ -371,189 +371,189 @@ Small changes can prevent readers from entering the wrong interpretive path in t
 
 Garden-path sentences demonstrate an important limit on [speed-reading]({{ 'myths/' | relative_url }}) assumptions. Faster reading is not simply a matter of suppressing regressions. Sometimes regressions are the direct consequence of efficient predictive comprehension.
 
-Skilled readers routinely anticipate meaning before a sentence is complete. Most of the time this strategy increases speed because predictions are correct. Garden-path sentences expose the cost of the occasional prediction error. The rereading that follows is not wasted effort; it is evidence that comprehension monitoring has detected a problem and initiated repair. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ora.ox.ac.uk/objects/uuid%3Aa16f42e2-529d-47ae-ba51-50b75dd43899/files/rkh04dp70d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ora.ox.ac.uk">[Oxford University Research Archive+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ora.ox.ac.uk</span><span class="citation-popover-snippet">ford University Research ArchiveComprehension monitoring during reading: an eye-tracking...by AK Hessel · 2020 · Cited by 51 — This me...</span></span></span>
+Skilled readers routinely anticipate meaning before a sentence is complete. Most of the time this strategy increases speed because predictions are correct. Garden-path sentences expose the cost of the occasional prediction error. The rereading that follows is not wasted effort; it is evidence that comprehension monitoring has detected a problem and initiated repair.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ora.ox.ac.uk/objects/uuid%3Aa16f42e2-529d-47ae-ba51-50b75dd43899/files/rkh04dp70d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ora.ox.ac.uk">[Oxford University Research Archive+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ora.ox.ac.uk</span><span class="citation-popover-snippet">ford University Research ArchiveComprehension monitoring during reading: an eye-tracking...by AK Hessel · 2020 · Cited by 51 — This me...</span></span></span>
 
-Research on rereading and garden-path processing also suggests that additional rereading does not always guarantee perfect recovery. Some regressions support successful reinterpretation, while others merely reflect ongoing uncertainty. The goal is therefore not to eliminate backward eye movements but to maintain enough comprehension monitoring to recognise when a sentence requires revision. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://experts.illinois.edu/en/publications/retracing-the-garden-path-nonselective-rereading-and-no-reanalysi/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experts.illinois.edu">[Illinois Experts+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experts.illinois.edu</span><span class="citation-popover-title">retracing the garden path nonselective rereading and no reanalysi</span><span class="citation-popover-snippet">Illinois ExpertsRetracing the garden-path: Nonselective rereading and no...by K Christianson · 2024 · Cited by 22 — The current study co...</span></span></span>
+Research on rereading and garden-path processing also suggests that additional rereading does not always guarantee perfect recovery. Some regressions support successful reinterpretation, while others merely reflect ongoing uncertainty. The goal is therefore not to eliminate backward eye movements but to maintain enough comprehension monitoring to recognise when a sentence requires revision.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://experts.illinois.edu/en/publications/retracing-the-garden-path-nonselective-rereading-and-no-reanalysi/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: experts.illinois.edu">[Illinois Experts+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">experts.illinois.edu</span><span class="citation-popover-title">retracing the garden path nonselective rereading and no reanalysi</span><span class="citation-popover-snippet">Illinois ExpertsRetracing the garden-path: Nonselective rereading and no...by K Christianson · 2024 · Cited by 22 — The current study co...</span></span></span>
 
-In the context of increasing reading speed, garden-path sentences highlight a key trade-off: efficient readers move forward rapidly when the text is clear, but they also possess the flexibility to pause, regress, and repair understanding when language temporarily leads them astray. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://discovery.ucl.ac.uk/10098047/1/LBlott_PhDThesis_POSTCORRECTIONS.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.ucl.ac.uk">[UCL Discovery+2UMass People]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.ucl.ac.uk</span><span class="citation-popover-snippet">UCL DiscoveryDown the garden-path and back againIn agreement with the literature on garden-path sentences, the five experiments reported...</span></span></span>
+In the context of increasing reading speed, garden-path sentences highlight a key trade-off: efficient readers move forward rapidly when the text is clear, but they also possess the flexibility to pause, regress, and repair understanding when language temporarily leads them astray.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://discovery.ucl.ac.uk/10098047/1/LBlott_PhDThesis_POSTCORRECTIONS.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.ucl.ac.uk">[UCL Discovery+2UMass People]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.ucl.ac.uk</span><span class="citation-popover-snippet">UCL DiscoveryDown the garden-path and back againIn agreement with the literature on garden-path sentences, the five experiments reported...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vzzeiR9heNA" title="🧠 Psycholinguistics: How Your Brain Understands Language" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vzzeiR9heNA" target="_blank" rel="noopener noreferrer">🧠 Psycholinguistics: How Your Brain Understands Language</a></p><p class="youtube-embed-meta">Channel: Roam and Remember</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vzzeiR9heNA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vzzeiR9heNA">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Some Sentences Trick You Into Rereading. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Some Sentences Trick You Into Rereading. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Useful for readers learning to recover from misunderstanding and reread effectively.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Useful for readers learning to recover from misunderstanding and reread effectively.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Because+Internet+by+Gretchen+McCulloch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Because Internet on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xn2pDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Because Internet" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Because+Internet+by+Gretchen+McCulloch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Because Internet">Because Internet</a>
-        </h4>
-        <p class="fr-book-author">By Gretchen McCulloch</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Because+Internet+by+Gretchen+McCulloch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Because Internet on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xn2pDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Because Internet" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Because+Internet+by+Gretchen+McCulloch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Because Internet">Because Internet</a>
+</h4>
+<p class="fr-book-author">By Gretchen McCulloch</p>
         
-        <p class="fr-book-desc">Explores language interpretation and how readers derive meaning from text.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Because+Internet+by+Gretchen+McCulloch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores language interpretation and how readers derive meaning from text.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Because+Internet+by+Gretchen+McCulloch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Language+Instinct+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Language Instinct on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1406725-M.jpg" alt="Cover for The Language Instinct" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Language+Instinct+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Language Instinct">The Language Instinct</a>
-        </h4>
-        <p class="fr-book-author">By Steven Pinker, Garikoitz Knörr de Santiago</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Language+Instinct+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Language Instinct on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1406725-M.jpg" alt="Cover for The Language Instinct" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Language+Instinct+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Language Instinct">The Language Instinct</a>
+</h4>
+<p class="fr-book-author">By Steven Pinker, Garikoitz Knörr de Santiago</p>
         
-        <p class="fr-book-desc">First published 1994. Subjects: Long Now Manual for Civilization, Biolinguistics, Language and languages, Psycholinguistcs, Philosophy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Language+Instinct+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1994. Subjects: Long Now Manual for Civilization, Biolinguistics, Language and languages, Psycholinguistcs, Philosophy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Language+Instinct+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Sense+of+Style+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Sense of Style on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7366712-M.jpg" alt="Cover for The Sense of Style" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Sense+of+Style+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sense of Style">The Sense of Style</a>
-        </h4>
-        <p class="fr-book-author">By Steven Pinker, José C. Vales</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Sense+of+Style+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Sense of Style on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7366712-M.jpg" alt="Cover for The Sense of Style" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Sense+of+Style+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sense of Style">The Sense of Style</a>
+</h4>
+<p class="fr-book-author">By Steven Pinker, José C. Vales</p>
         
-        <p class="fr-book-desc">First published 2014. Subjects: English language, writing style, grammar, Style, LANGUAGE ARTS &amp; DISCIPLINES / Style Manuals.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Sense+of+Style+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2014. Subjects: English language, writing style, grammar, Style, LANGUAGE ARTS &amp; DISCIPLINES / Style Manuals.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Sense+of+Style+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Because+Internet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Because Internet</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Language+Instinct&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Language Instinct</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Because+Internet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Because Internet</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Language+Instinct&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Language Instinct</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=garden-paths-why-some-sentences-trick-you-into-rereading-increasing-study-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study flash card set" data-ebay-reference="garden-paths-why-some-sentences-trick-you-into-rereading-increasing-study-flash-card-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 300PCS A7 Ruled Flash Cards 12.7x7.6cm with 6 Rings Color Study Set Pack UK"><img src="{{ '/assets/images/marketplace-covers/b9331f290195b13c5f5c.jpg' | relative_url }}" alt="Listing image for 300PCS A7 Ruled Flash Cards 12.7x7.6cm with 6 Rings Color Study Set Pack UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=garden-paths-why-some-sentences-trick-you-into-rereading-increasing-study-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study flash card set" data-ebay-reference="garden-paths-why-some-sentences-trick-you-into-rereading-increasing-study-flash-card-set" target="_blank" rel="sponsored noopener noreferrer">300PCS A7 Ruled Flash Cards 12.7x7.6cm with 6 Rings Color Study Set Pack UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=garden-paths-why-some-sentences-trick-you-into-rereading-increasing-study-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study flash card set" data-ebay-reference="garden-paths-why-some-sentences-trick-you-into-rereading-increasing-study-flash-card-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study flash card set">Search <span data-ebay-domain-label>eBay.co.uk</span>: study flash card set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=garden-paths-why-some-sentences-trick-you-into-rereading-increasing-study-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study flash card set" data-ebay-reference="garden-paths-why-some-sentences-trick-you-into-rereading-increasing-study-flash-card-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=garden-paths-why-some-sentences-trick-you-into-rereading-increasing-study-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study flash card set" data-ebay-reference="garden-paths-why-some-sentences-trick-you-into-rereading-increasing-study-flash-card-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 300PCS A7 Ruled Flash Cards 12.7x7.6cm with 6 Rings Color Study Set Pack UK"><img src="{{ '/assets/images/marketplace-covers/b9331f290195b13c5f5c.jpg' | relative_url }}" alt="Listing image for 300PCS A7 Ruled Flash Cards 12.7x7.6cm with 6 Rings Color Study Set Pack UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=garden-paths-why-some-sentences-trick-you-into-rereading-increasing-study-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study flash card set" data-ebay-reference="garden-paths-why-some-sentences-trick-you-into-rereading-increasing-study-flash-card-set" target="_blank" rel="sponsored noopener noreferrer">300PCS A7 Ruled Flash Cards 12.7x7.6cm with 6 Rings Color Study Set Pack UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=garden-paths-why-some-sentences-trick-you-into-rereading-increasing-study-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study flash card set" data-ebay-reference="garden-paths-why-some-sentences-trick-you-into-rereading-increasing-study-flash-card-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study flash card set">Search<span data-ebay-domain-label>eBay.co.uk</span>: study flash card set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=garden-paths-why-some-sentences-trick-you-into-rereading-increasing-study-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study flash card set" data-ebay-reference="garden-paths-why-some-sentences-trick-you-into-rereading-increasing-study-flash-card-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=garden-paths-why-some-sentences-trick-you-into-rereading-increasing-study-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study flash card set" data-ebay-reference="garden-paths-why-some-sentences-trick-you-into-rereading-increasing-study-flash-card-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 300 PCS 3x5 Inch Flash Cards with 6 Rings Multicolor Ruled Study Set Pack UK"><img src="{{ '/assets/images/marketplace-covers/b267e72233a1309d1c81.jpg' | relative_url }}" alt="Listing image for 300 PCS 3x5 Inch Flash Cards with 6 Rings Multicolor Ruled Study Set Pack UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=garden-paths-why-some-sentences-trick-you-into-rereading-increasing-study-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study flash card set" data-ebay-reference="garden-paths-why-some-sentences-trick-you-into-rereading-increasing-study-flash-card-set" target="_blank" rel="sponsored noopener noreferrer">300 PCS 3x5 Inch Flash Cards with 6 Rings Multicolor Ruled Study Set Pack UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=garden-paths-why-some-sentences-trick-you-into-rereading-increasing-study-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study flash card set" data-ebay-reference="garden-paths-why-some-sentences-trick-you-into-rereading-increasing-study-flash-card-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study flash card set">Search <span data-ebay-domain-label>eBay.co.uk</span>: study flash card set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=garden-paths-why-some-sentences-trick-you-into-rereading-increasing-study-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study flash card set" data-ebay-reference="garden-paths-why-some-sentences-trick-you-into-rereading-increasing-study-flash-card-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=garden-paths-why-some-sentences-trick-you-into-rereading-increasing-study-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study flash card set" data-ebay-reference="garden-paths-why-some-sentences-trick-you-into-rereading-increasing-study-flash-card-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 300 PCS 3x5 Inch Flash Cards with 6 Rings Multicolor Ruled Study Set Pack UK"><img src="{{ '/assets/images/marketplace-covers/b267e72233a1309d1c81.jpg' | relative_url }}" alt="Listing image for 300 PCS 3x5 Inch Flash Cards with 6 Rings Multicolor Ruled Study Set Pack UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=garden-paths-why-some-sentences-trick-you-into-rereading-increasing-study-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study flash card set" data-ebay-reference="garden-paths-why-some-sentences-trick-you-into-rereading-increasing-study-flash-card-set" target="_blank" rel="sponsored noopener noreferrer">300 PCS 3x5 Inch Flash Cards with 6 Rings Multicolor Ruled Study Set Pack UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=garden-paths-why-some-sentences-trick-you-into-rereading-increasing-study-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study flash card set" data-ebay-reference="garden-paths-why-some-sentences-trick-you-into-rereading-increasing-study-flash-card-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study flash card set">Search<span data-ebay-domain-label>eBay.co.uk</span>: study flash card set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=garden-paths-why-some-sentences-trick-you-into-rereading-increasing-study-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study flash card set" data-ebay-reference="garden-paths-why-some-sentences-trick-you-into-rereading-increasing-study-flash-card-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=garden-paths-why-some-sentences-trick-you-into-rereading-increasing-study-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study flash card set" data-ebay-reference="garden-paths-why-some-sentences-trick-you-into-rereading-increasing-study-flash-card-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Exam Revision Study Kit | Maths Set Flash Cards Pens Highlighters Stationery Bun"><img src="{{ '/assets/images/marketplace-covers/1e36f2a18ee8d6963a16.jpg' | relative_url }}" alt="Listing image for Exam Revision Study Kit | Maths Set Flash Cards Pens Highlighters Stationery Bun" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=garden-paths-why-some-sentences-trick-you-into-rereading-increasing-study-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study flash card set" data-ebay-reference="garden-paths-why-some-sentences-trick-you-into-rereading-increasing-study-flash-card-set" target="_blank" rel="sponsored noopener noreferrer">Exam Revision Study Kit | Maths Set Flash Cards Pens Highlighters Stationery Bun</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=garden-paths-why-some-sentences-trick-you-into-rereading-increasing-study-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study flash card set" data-ebay-reference="garden-paths-why-some-sentences-trick-you-into-rereading-increasing-study-flash-card-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study flash card set">Search <span data-ebay-domain-label>eBay.co.uk</span>: study flash card set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=garden-paths-why-some-sentences-trick-you-into-rereading-increasing-study-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study flash card set" data-ebay-reference="garden-paths-why-some-sentences-trick-you-into-rereading-increasing-study-flash-card-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=garden-paths-why-some-sentences-trick-you-into-rereading-increasing-study-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study flash card set" data-ebay-reference="garden-paths-why-some-sentences-trick-you-into-rereading-increasing-study-flash-card-set" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=garden-paths-why-some-sentences-trick-you-into-rereading-increasing-study-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study flash card set" data-ebay-reference="garden-paths-why-some-sentences-trick-you-into-rereading-increasing-study-flash-card-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Exam Revision Study Kit | Maths Set Flash Cards Pens Highlighters Stationery Bun"><img src="{{ '/assets/images/marketplace-covers/1e36f2a18ee8d6963a16.jpg' | relative_url }}" alt="Listing image for Exam Revision Study Kit | Maths Set Flash Cards Pens Highlighters Stationery Bun" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=garden-paths-why-some-sentences-trick-you-into-rereading-increasing-study-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study flash card set" data-ebay-reference="garden-paths-why-some-sentences-trick-you-into-rereading-increasing-study-flash-card-set" target="_blank" rel="sponsored noopener noreferrer">Exam Revision Study Kit | Maths Set Flash Cards Pens Highlighters Stationery Bun</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=garden-paths-why-some-sentences-trick-you-into-rereading-increasing-study-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study flash card set" data-ebay-reference="garden-paths-why-some-sentences-trick-you-into-rereading-increasing-study-flash-card-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study flash card set">Search<span data-ebay-domain-label>eBay.co.uk</span>: study flash card set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=garden-paths-why-some-sentences-trick-you-into-rereading-increasing-study-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study flash card set" data-ebay-reference="garden-paths-why-some-sentences-trick-you-into-rereading-increasing-study-flash-card-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=garden-paths-why-some-sentences-trick-you-into-rereading-increasing-study-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study flash card set" data-ebay-reference="garden-paths-why-some-sentences-trick-you-into-rereading-increasing-study-flash-card-set" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -569,7 +569,7 @@ In the context of increasing reading speed, garden-path sentences highlight a ke
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -589,7 +589,7 @@ In the context of increasing reading speed, garden-path sentences highlight a ke
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -621,7 +621,7 @@ In the context of increasing reading speed, garden-path sentences highlight a ke
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -673,7 +673,7 @@ In the context of increasing reading speed, garden-path sentences highlight a ke
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -718,7 +718,7 @@ In the context of increasing reading speed, garden-path sentences highlight a ke
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -759,126 +759,126 @@ In the context of increasing reading speed, garden-path sentences highlight a ke
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: people.umass.edu  
    Title: Clifton Staub Rayner ECEM  
-   Link: <a href="https://people.umass.edu/~cec/CliftonStaubRaynerECEM.pdf" target="_blank" rel="noopener noreferrer nofollow">https://people.umass.edu/~cec/CliftonStaubRaynerECEM.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UMass PeopleEye Movements in Reading Words and Sentencesby C Clifton Jr · Cited by 820 — (2003) data did significant garden-path effects...</p></details>
+   Link:<a href="https://people.umass.edu/~cec/CliftonStaubRaynerECEM.pdf" target="_blank" rel="noopener noreferrer nofollow">https://people.umass.edu/~cec/CliftonStaubRaynerECEM.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UMass PeopleEye Movements in Reading Words and Sentencesby C Clifton Jr · Cited by 820 — (2003) data did significant garden-path effects...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Garden-path sentence  
-   Link: <a href="https://en.wikipedia.org/wiki/Garden-path_sentence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Garden-path_sentence</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Garden-path_sentence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Garden-path_sentence</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: journals.plos.org  
-   Link: <a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0198620" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0198620</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>of ellipsis with garden-path antecedents in French...by D Paape · 2018 · Cited by 18 — In eye tracking, targeted regressions to the ante...</p></details>
+   Link:<a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0198620" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0198620</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of ellipsis with garden-path antecedents in French...by D Paape · 2018 · Cited by 18 — In eye tracking, targeted regressions to the ante...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: journals.plos.org  
-   Link: <a href="https://journals.plos.org/plosone/article/file?id=10.1371%2Fjournal.pone.0288817&amp;type=printable" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article/file?id=10.1371%2Fjournal.pone.0288817&amp;type=printable</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ONE - Research journalsby M Ceháková · 2023 · Cited by 24 — Previous studies have reliably shown that the initial misanalysis of garden-p...</p></details>
+   Link:<a href="https://journals.plos.org/plosone/article/file?id=10.1371%2Fjournal.pone.0288817&amp;type=printable" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article/file?id=10.1371%2Fjournal.pone.0288817&amp;type=printable</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ONE - Research journalsby M Ceháková · 2023 · Cited by 24 — Previous studies have reliably shown that the initial misanalysis of garden-p...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: journals.plos.org  
-   Link: <a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0288817" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0288817</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Garden-path sentences and the diversity of their (mis...by M Ceháková · 2023 · Cited by 24 — We argue that resulting representations...</p></details>
+   Link:<a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0288817" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0288817</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Garden-path sentences and the diversity of their (mis...by M Ceháková · 2023 · Cited by 24 — We argue that resulting representations...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: experts.illinois.edu  
    Title: retracing the garden path nonselective rereading and no reanalysi  
-   Link: <a href="https://experts.illinois.edu/en/publications/retracing-the-garden-path-nonselective-rereading-and-no-reanalysi/" target="_blank" rel="noopener noreferrer nofollow">https://experts.illinois.edu/en/publications/retracing-the-garden-path-nonselective-rereading-and-no-reanalysi/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Illinois ExpertsRetracing the garden-path: Nonselective rereading and no...by K Christianson · 2024 · Cited by 22 — The current study co...</p></details>
+   Link:<a href="https://experts.illinois.edu/en/publications/retracing-the-garden-path-nonselective-rereading-and-no-reanalysi/" target="_blank" rel="noopener noreferrer nofollow">https://experts.illinois.edu/en/publications/retracing-the-garden-path-nonselective-rereading-and-no-reanalysi/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Illinois ExpertsRetracing the garden-path: Nonselective rereading and no...by K Christianson · 2024 · Cited by 22 — The current study co...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med Why reread?  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/27150840/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/27150840/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence from garden-path and local...by K Christianson · 2017 · Cited by 92 — Two eye-tracking experiments were conducted to compare th...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/27150840/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/27150840/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence from garden-path and local...by K Christianson · 2017 · Cited by 92 — Two eye-tracking experiments were conducted to compare th...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/23273798.2021.1922727" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/23273798.2021.1922727</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineFull article: On the parsing of garden-path sentencesby H Fujita · 2021 · Cited by 29 — The present study [reports](&amp;#123;&amp;#123; &#x27;reports/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/23273798.2021.1922727" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/23273798.2021.1922727</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineFull article: On the parsing of garden-path sentencesby H Fujita · 2021 · Cited by 29 — The present study [reports](&amp;#123;&amp;#123; &#x27;reports/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: discovery.ucl.ac.uk  
-   Link: <a href="https://discovery.ucl.ac.uk/10098047/1/LBlott_PhDThesis_POSTCORRECTIONS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/10098047/1/LBlott_PhDThesis_POSTCORRECTIONS.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UCL DiscoveryDown the garden-path and back againIn agreement with the literature on garden-path sentences, the five experiments reported...</p></details>
+   Link:<a href="https://discovery.ucl.ac.uk/10098047/1/LBlott_PhDThesis_POSTCORRECTIONS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/10098047/1/LBlott_PhDThesis_POSTCORRECTIONS.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UCL DiscoveryDown the garden-path and back againIn agreement with the literature on garden-path sentences, the five experiments reported...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/41396621/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41396621/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Selective rereading in Chinese garden path sentencesby H Chen · Cited by 2 — The results provide clear evidence of selective reread...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/41396621/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41396621/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Selective rereading in Chinese garden path sentencesby H Chen · Cited by 2 — The results provide clear evidence of selective reread...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ferreiralab.faculty.ucdavis.edu  
    Title: Slattery et al. 2013 GardenPathCompetingRepresentations JML  
-   Link: <a href="https://ferreiralab.faculty.ucdavis.edu/wp-content/uploads/sites/222/2015/05/Slattery-et-al.-2013_GardenPathCompetingRepresentations_JML.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ferreiralab.faculty.ucdavis.edu/wp-content/uploads/sites/222/2015/05/Slattery-et-al.-2013_GardenPathCompetingRepresentations_JML.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ferreira LabLingering misinterpretations of garden path sentences...by TJ Slattery · 2013 · Cited by 244 — Sentences containing temporar...</p></details>
+   Link:<a href="https://ferreiralab.faculty.ucdavis.edu/wp-content/uploads/sites/222/2015/05/Slattery-et-al.-2013_GardenPathCompetingRepresentations_JML.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ferreiralab.faculty.ucdavis.edu/wp-content/uploads/sites/222/2015/05/Slattery-et-al.-2013_GardenPathCompetingRepresentations_JML.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ferreira LabLingering misinterpretations of garden path sentences...by TJ Slattery · 2013 · Cited by 244 — Sentences containing temporar...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ora.ox.ac.uk  
-   Link: <a href="https://ora.ox.ac.uk/objects/uuid%3Aa16f42e2-529d-47ae-ba51-50b75dd43899/files/rkh04dp70d" target="_blank" rel="noopener noreferrer nofollow">https://ora.ox.ac.uk/objects/uuid%3Aa16f42e2-529d-47ae-ba51-50b75dd43899/files/rkh04dp70d</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ford University Research ArchiveComprehension monitoring during reading: an eye-tracking...by AK Hessel · 2020 · Cited by 51 — This me...</p></details>
+   Link:<a href="https://ora.ox.ac.uk/objects/uuid%3Aa16f42e2-529d-47ae-ba51-50b75dd43899/files/rkh04dp70d" target="_blank" rel="noopener noreferrer nofollow">https://ora.ox.ac.uk/objects/uuid%3Aa16f42e2-529d-47ae-ba51-50b75dd43899/files/rkh04dp70d</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ford University Research ArchiveComprehension monitoring during reading: an eye-tracking...by AK Hessel · 2020 · Cited by 51 — This me...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/0163853X.2025.2513210" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/0163853X.2025.2513210</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Beyond initial misanalysis: the disruptive nature of garden-...by M Ceháková · 2025 · Cited by 3 — Garden-path sentences like (1) are fr...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/0163853X.2025.2513210" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/0163853X.2025.2513210</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Beyond initial misanalysis: the disruptive nature of garden-...by M Ceháková · 2025 · Cited by 3 — Garden-path sentences like (1) are fr...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/11202102_Overt_reanalysis_strategies_and_eye_movements_during_the_reading_of_mild_garden_path_sentences" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/11202102_Overt_reanalysis_strategies_and_eye_movements_during_the_reading_of_mild_garden_path_sentences</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Overt reanalysis strategies and eye movements...This study examined two key questions about rereading in Chinese garden-path sente...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/11202102_Overt_reanalysis_strategies_and_eye_movements_during_the_reading_of_mild_garden_path_sentences" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/11202102_Overt_reanalysis_strategies_and_eye_movements_during_the_reading_of_mild_garden_path_sentences</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Overt reanalysis strategies and eye movements...This study examined two key questions about rereading in Chinese garden-path sente...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
    Title: 372446524 Garden path sentences and the diversity of their misrepresentations  
-   Link: <a href="https://www.researchgate.net/publication/372446524_Garden-path_sentences_and_the_diversity_of_their_misrepresentations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/372446524_Garden-path_sentences_and_the_diversity_of_their_misrepresentations</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Garden-path sentences and the diversity of their (mis...18 Jul 2023 — Previous studies have reliably shown that the initial misana...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/372446524_Garden-path_sentences_and_the_diversity_of_their_misrepresentations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/372446524_Garden-path_sentences_and_the_diversity_of_their_misrepresentations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Garden-path sentences and the diversity of their (mis...18 Jul 2023 — Previous studies have reliably shown that the initial misana...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: centaur.reading.ac.uk  
    Title: Cent AUROn the parsing of garden-path sentences  
-   Link: <a href="https://centaur.reading.ac.uk/97834/21/23273798.2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centaur.reading.ac.uk/97834/21/23273798.2021.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the parsing of garden-path sentences - CentAURby H Fujita · 2021 · Cited by 29 — Previous studies have reported that temporarily ambiguou...</p></details>
+   Link:<a href="https://centaur.reading.ac.uk/97834/21/23273798.2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centaur.reading.ac.uk/97834/21/23273798.2021.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the parsing of garden-path sentences - CentAURby H Fujita · 2021 · Cited by 29 — Previous studies have reported that temporarily ambiguou...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/language-lab/the-sentence-that-tricks-almost-everyone-and-why-fd0a1e8ba33b" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/language-lab/the-sentence-that-tricks-almost-everyone-and-why-fd0a1e8ba33b</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>on, then forces you to revise when later words reveal...Read more...</p></details>
+   Link:<a href="https://medium.com/language-lab/the-sentence-that-tricks-almost-everyone-and-why-fd0a1e8ba33b" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/language-lab/the-sentence-that-tricks-almost-everyone-and-why-fd0a1e8ba33b</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on, then forces you to revise when later words reveal...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/journals/applied-psycholinguistics/article/realtime-comprehension-of-gardenpath-constructions-by-preschoolers-a-mandarin-perspective/14923E177D5C656003F8CEC424133FE2" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/applied-psycholinguistics/article/realtime-comprehension-of-gardenpath-constructions-by-preschoolers-a-mandarin-perspective/14923E177D5C656003F8CEC424133FE2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Real-time comprehension of garden-path constructions by...by P Zhou · 2021 · Cited by 7 — The present study investigated whether 4- and...</p></details>
+   Link:<a href="https://www.cambridge.org/core/journals/applied-psycholinguistics/article/realtime-comprehension-of-gardenpath-constructions-by-preschoolers-a-mandarin-perspective/14923E177D5C656003F8CEC424133FE2" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/applied-psycholinguistics/article/realtime-comprehension-of-gardenpath-constructions-by-preschoolers-a-mandarin-perspective/14923E177D5C656003F8CEC424133FE2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Real-time comprehension of garden-path constructions by...by P Zhou · 2021 · Cited by 7 — The present study investigated whether 4- and...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2605.18563" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.18563</a>  
+   Link:<a href="https://arxiv.org/abs/2605.18563" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.18563</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Garden Path Sentence Explained: The horse raced past the barn fell  
-   Link: <a href="https://www.youtube.com/watch?v=QdS4vB5pSvw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QdS4vB5pSvw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Do We Interpret Sentences? Parsing Strategies...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=QdS4vB5pSvw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QdS4vB5pSvw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Do We Interpret Sentences? Parsing Strategies...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Psycholinguistics: How Your Brain Understands Language  
-   Link: <a href="https://www.youtube.com/watch?v=vzzeiR9heNA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vzzeiR9heNA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sentence Processing. Garden Path and Constraint-Based Model...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vzzeiR9heNA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vzzeiR9heNA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sentence Processing. Garden Path and Constraint-Based Model...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: diva-portal.org  
-   Link: <a href="https://www.diva-portal.org/smash/get/diva2%3A428103/FULLTEXT01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.diva-portal.org/smash/get/diva2%3A428103/FULLTEXT01.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Are students in high school able to comprehend Garden-...by A Rönneke-Widerström · 2011 — The aim of this study was to investigate wheth...</p></details>
+   Link:<a href="https://www.diva-portal.org/smash/get/diva2%3A428103/FULLTEXT01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.diva-portal.org/smash/get/diva2%3A428103/FULLTEXT01.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Are students in high school able to comprehend Garden-...by A Rönneke-Widerström · 2011 — The aim of this study was to investigate wheth...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: ila.onlinelibrary.wiley.com  
-   Link: <a href="https://ila.onlinelibrary.wiley.com/doi/full/10.1002/rrq.70023" target="_blank" rel="noopener noreferrer nofollow">https://ila.onlinelibrary.wiley.com/doi/full/10.1002/rrq.70023</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eye Movements From a “Read‐Only” Task to Predict...by DC Mézière · 2025 · Cited by 3 — For example, research shows that readers tend to...</p></details>
+   Link:<a href="https://ila.onlinelibrary.wiley.com/doi/full/10.1002/rrq.70023" target="_blank" rel="noopener noreferrer nofollow">https://ila.onlinelibrary.wiley.com/doi/full/10.1002/rrq.70023</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eye Movements From a “Read‐Only” Task to Predict...by DC Mézière · 2025 · Cited by 3 — For example, research shows that readers tend to...</p></details>

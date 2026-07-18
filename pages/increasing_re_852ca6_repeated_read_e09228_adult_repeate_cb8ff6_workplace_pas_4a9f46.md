@@ -269,17 +269,17 @@ image: /assets/images/increasing_re_852ca6_repeated_read_e09228_adult_repeate_cb
 
 ## Introduction
 
-For adults trying to increase reading speed at work, the best passages for repeated reading are usually not generic fluency exercises. They are short, important documents that the reader already needs to use regularly. Repeated reading is most effective when it removes friction from familiar tasks rather than teaching entirely new content. A customer-service script, safety procedure, project summary, compliance checklist, or [technical]({{ 'technical-texts/' | relative_url }}) instruction sheet often delivers more practical benefit than rereading random articles because the gains [transfer]({{ 'transfer/' | relative_url }}) directly into everyday work. Research on adult literacy and reading fluency consistently emphasises the value of meaningful, engaging texts and the importance of practising with material that learners genuinely use. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/read/13468/chapter/5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies+2National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">Some methods of fluency improvement—for example, guided repeated reading...Read more...</span></span></span>
+For adults trying to increase reading speed at work, the best passages for repeated reading are usually not generic fluency exercises. They are short, important documents that the reader already needs to use regularly. Repeated reading is most effective when it removes friction from familiar tasks rather than teaching entirely new content. A customer-service script, safety procedure, project summary, compliance checklist, or [technical]({{ 'technical-texts/' | relative_url }}) instruction sheet often delivers more practical benefit than rereading random articles because the gains [transfer]({{ 'transfer/' | relative_url }}) directly into everyday work. Research on adult literacy and reading fluency consistently emphasises the value of meaningful, engaging texts and the importance of practising with material that learners genuinely use.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/read/13468/chapter/5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies+2National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">Some methods of fluency improvement—for example, guided repeated reading...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_repeated_read_e09228_adult_repeate_cb8ff6_workplace_pas_4a9f46-Illustration-1-dark.svg" | relative_url }}" alt="Work texts illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_repeated_read_e09228_adult_repeate_cb8ff6_workplace_pas_4a9f46-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_repeated_read_e09228_adult_repeate_cb8ff6_workplace_pas_4a9f46-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why authentic documents improve adult motivation
 
-Adults generally approach reading differently from school-age learners. They want reading [practice]({{ 'practice/' | relative_url }}) to solve a real problem: completing tasks faster, understanding instructions more efficiently, or reducing mistakes. Workplace literacy programmes have long recognised that training works best when it is tied to actual job requirements rather than abstract exercises. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.proliteracy.org/resources/workplace-literacy-guide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: proliteracy.org">[ProLiteracy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">proliteracy.org</span><span class="citation-popover-snippet">Workplace Literacy GuideThis guide offers insights into starting a workplace literacy program, exploring practices used in dif...</span></span></span>
+Adults generally approach reading differently from school-age learners. They want reading [practice]({{ 'practice/' | relative_url }}) to solve a real problem: completing tasks faster, understanding instructions more efficiently, or reducing mistakes. Workplace literacy programmes have long recognised that training works best when it is tied to actual job requirements rather than abstract exercises.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.proliteracy.org/resources/workplace-literacy-guide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: proliteracy.org">[ProLiteracy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">proliteracy.org</span><span class="citation-popover-snippet">Workplace Literacy GuideThis guide offers insights into starting a workplace literacy program, exploring practices used in dif...</span></span></span>
 
-Authentic documents help because they provide an immediate payoff. After several rereadings of a frequently used procedure or reference document, readers often spend less time decoding terminology, navigating sentence structures, or locating key information. Their attention can shift towards decision-making and application instead. This aligns with the broader fluency principle that increased automaticity frees mental resources for higher-level thinking. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/read/13468/chapter/5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies+2Shanahan on Literacy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">Some methods of fluency improvement—for example, guided repeated reading...Read more...</span></span></span>
+Authentic documents help because they provide an immediate payoff. After several rereadings of a frequently used procedure or reference document, readers often spend less time decoding terminology, navigating sentence structures, or locating key information. Their attention can shift towards decision-making and application instead. This aligns with the broader fluency principle that increased automaticity frees mental resources for higher-level thinking.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/read/13468/chapter/5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies+2Shanahan on Literacy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">Some methods of fluency improvement—for example, guided repeated reading...Read more...</span></span></span>
 
-Motivation also tends to remain higher when readers can see direct relevance. A warehouse employee may willingly reread a safety protocol that affects daily work, while a random practice passage may feel like a school exercise with little value beyond the training session itself. Adult literacy research repeatedly highlights the importance of meaningful engagement with texts and regular use of reading skills in real contexts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pedocs.de/volltexte/2021/22504/pdf/RELA_2021_2_Sulkuren_Nissinen_Malin_The_role_of.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pedocs.de">[Pedocs+2National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pedocs.de</span><span class="citation-popover-title">The role of informal learning in adults&#x27; literacy proficiency</span><span class="citation-popover-snippet">The role of informal learning in adults&#x27; literacy proficiencyNovember 25, 2021 — by S Sulkunen · 2021 · Cited by 20 — This study ex...</span><span class="citation-popover-meta">Published: November 25, 2021</span></span></span>
+Motivation also tends to remain higher when readers can see direct relevance. A warehouse employee may willingly reread a safety protocol that affects daily work, while a random practice passage may feel like a school exercise with little value beyond the training session itself. Adult literacy research repeatedly highlights the importance of meaningful engagement with texts and regular use of reading skills in real contexts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pedocs.de/volltexte/2021/22504/pdf/RELA_2021_2_Sulkuren_Nissinen_Malin_The_role_of.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pedocs.de">[Pedocs+2National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pedocs.de</span><span class="citation-popover-title">The role of informal learning in adults&#x27; literacy proficiency</span><span class="citation-popover-snippet">The role of informal learning in adults&#x27; literacy proficiencyNovember 25, 2021 — by S Sulkunen · 2021 · Cited by 20 — This study ex...</span><span class="citation-popover-meta">Published: November 25, 2021</span></span></span>
 
 ## Which workplace documents are worth rereading?
 
@@ -306,7 +306,7 @@ Examples include:
 
 **Frequently used technical instructions.** Engineers, technicians, healthcare workers, and IT staff often rely on recurring procedures where quick access to familiar information matters.
 
-**Emails, notices, and workplace messages.** Assessments of workplace reading commonly include practical materials such as emails, directions, policies, bulletins, websites, contracts, and regulations because these reflect real workplace literacy demands. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.act.org/content/act/en/products-and-services/act-workkeys/act-workkeys-assessments/workplace-documents.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: act.org">[ACT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">act.org</span><span class="citation-popover-snippet">ACT WorkKeys Workplace Documents AssessmentThe WorkKeys Workplace Documents assessment measures skills that individuals use when they...</span></span></span>
+**Emails, notices, and workplace messages.** Assessments of workplace reading commonly include practical materials such as emails, directions, policies, bulletins, websites, contracts, and regulations because these reflect real workplace literacy demands.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.act.org/content/act/en/products-and-services/act-workkeys/act-workkeys-assessments/workplace-documents.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: act.org">[ACT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">act.org</span><span class="citation-popover-snippet">ACT WorkKeys Workplace Documents AssessmentThe WorkKeys Workplace Documents assessment measures skills that individuals use when they...</span></span></span>
 
 A useful rule is that if a document is likely to be consulted many times over the next month, it is a better repeated-reading candidate than a text that will never be used again.
 
@@ -317,7 +317,7 @@ A useful rule is that if a document is likely to be consulted many times over th
 
 For most adults, shorter is usually better.
 
-Traditional repeated-reading research often uses passages ranging from roughly 50 to 200 words because they can be reread multiple times without excessive fatigue. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/blogs/shanahan-on-literacy/everything-you-wanted-know-about-repeated-reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-title">Reading Rockets Everything You Wanted to Know about Repeated Reading</span><span class="citation-popover-snippet">Reading RocketsEverything You Wanted to Know about Repeated ReadingAugust 4, 2017 — Repeated reading is a particular method proposed by S...</span><span class="citation-popover-meta">Published: August 4, 2017</span></span></span>
+Traditional repeated-reading research often uses passages ranging from roughly 50 to 200 words because they can be reread multiple times without excessive fatigue.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/blogs/shanahan-on-literacy/everything-you-wanted-know-about-repeated-reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-title">Reading Rockets Everything You Wanted to Know about Repeated Reading</span><span class="citation-popover-snippet">Reading RocketsEverything You Wanted to Know about Repeated ReadingAugust 4, 2017 — Repeated reading is a particular method proposed by S...</span><span class="citation-popover-meta">Published: August 4, 2017</span></span></span>
 
 In workplace settings, this does not mean documents must be limited to 200 words. Instead, long documents can be divided into practical sections:
 
@@ -338,7 +338,7 @@ The goal is not to memorise an entire handbook. The goal is to develop smoother,
 <img src="{{ "/assets/images/increasing_re_852ca6_repeated_read_e09228_adult_repeate_cb8ff6_workplace_pas_4a9f46-Illustration-2-dark.svg" | relative_url }}" alt="Work texts illustration 2" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_repeated_read_e09228_adult_repeate_cb8ff6_workplace_pas_4a9f46-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_repeated_read_e09228_adult_repeate_cb8ff6_workplace_pas_4a9f46-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When a document is too long or too hard
 
-Not every workplace text is suitable for repeated reading. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbslearningmedia.org/resource/ristrat.pd.reading.fluency.repread/fluency-repeated-reading/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbslearningmedia.org">[pbslearningmedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbslearningmedia.org</span><span class="citation-popover-title">Fluency: Repeated Reading &#124; PBS Learning Media</span><span class="citation-popover-snippet">Fluency: Repeated Reading &#124; PBS LearningMediaMay 23, 2016 — In this video, adult education instructor Tanya Johnson reads aloud and asks...</span><span class="citation-popover-meta">Published: May 23, 2016</span></span></span>
+Not every workplace text is suitable for repeated reading.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbslearningmedia.org/resource/ristrat.pd.reading.fluency.repread/fluency-repeated-reading/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbslearningmedia.org">[pbslearningmedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbslearningmedia.org</span><span class="citation-popover-title">Fluency: Repeated Reading &#124; PBS Learning Media</span><span class="citation-popover-snippet">Fluency: Repeated Reading &#124; PBS LearningMediaMay 23, 2016 — In this video, adult education instructor Tanya Johnson reads aloud and asks...</span><span class="citation-popover-meta">Published: May 23, 2016</span></span></span>
 
 ### Signs a document is too long
 
@@ -361,7 +361,7 @@ In these cases, selecting a single section usually produces better results than 
 
 ### Signs a document is too difficult
 
-Repeated reading is most useful when readers broadly understand the content but process it inefficiently. If comprehension is very weak, repeated reading alone may not solve the problem. Adult literacy researchers note that fluency practice should be paired with texts that are challenging yet still accessible and meaningful. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/read/13468/chapter/4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">Developing readers need to confront texts that are challenging, meaningful, and engaging. Texts should allow learners to practice compone...</span></span></span>
+Repeated reading is most useful when readers broadly understand the content but process it inefficiently. If comprehension is very weak, repeated reading alone may not solve the problem. Adult literacy researchers note that fluency practice should be paired with texts that are challenging yet still accessible and meaningful.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalacademies.org/read/13468/chapter/4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">Developing readers need to confront texts that are challenging, meaningful, and engaging. Texts should allow learners to practice compone...</span></span></span>
 
 [Warning signs]({{ 'warning-signs/' | relative_url }}) include:
 
@@ -387,7 +387,7 @@ Choosing passages in this way keeps practice closely connected to daily performa
 <img src="{{ "/assets/images/increasing_re_852ca6_repeated_read_e09228_adult_repeate_cb8ff6_workplace_pas_4a9f46-Illustration-3-dark.svg" | relative_url }}" alt="Work texts illustration 3" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_repeated_read_e09228_adult_repeate_cb8ff6_workplace_pas_4a9f46-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_repeated_read_e09228_adult_repeate_cb8ff6_workplace_pas_4a9f46-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A simple selection test
 
-Before committing to repeated reading, ask four questions: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbslearningmedia.org/resource/ristrat.pd.reading.fluency.repread/fluency-repeated-reading/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbslearningmedia.org">[pbslearningmedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbslearningmedia.org</span><span class="citation-popover-title">Fluency: Repeated Reading &#124; PBS Learning Media</span><span class="citation-popover-snippet">Fluency: Repeated Reading &#124; PBS LearningMediaMay 23, 2016 — In this video, adult education instructor Tanya Johnson reads aloud and asks...</span><span class="citation-popover-meta">Published: May 23, 2016</span></span></span>
+Before committing to repeated reading, ask four questions:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbslearningmedia.org/resource/ristrat.pd.reading.fluency.repread/fluency-repeated-reading/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbslearningmedia.org">[pbslearningmedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbslearningmedia.org</span><span class="citation-popover-title">Fluency: Repeated Reading &#124; PBS Learning Media</span><span class="citation-popover-snippet">Fluency: Repeated Reading &#124; PBS LearningMediaMay 23, 2016 — In this video, adult education instructor Tanya Johnson reads aloud and asks...</span><span class="citation-popover-meta">Published: May 23, 2016</span></span></span>
 
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
@@ -401,197 +401,197 @@ Before committing to repeated reading, ask four questions: <span class="citation
 
 If the answer to all four questions is yes, the document is usually a strong candidate.
 
-This approach reflects a broader finding from adult literacy research: reading skills develop most effectively when they are used in meaningful contexts. For adults seeking greater workplace fluency, the most valuable passages are often the documents already sitting on their desk, in their inbox, or on the systems they use every day. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pedocs.de/volltexte/2021/22504/pdf/RELA_2021_2_Sulkuren_Nissinen_Malin_The_role_of.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pedocs.de">[Pedocs+2ProLiteracy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pedocs.de</span><span class="citation-popover-title">The role of informal learning in adults&#x27; literacy proficiency</span><span class="citation-popover-snippet">The role of informal learning in adults&#x27; literacy proficiencyNovember 25, 2021 — by S Sulkunen · 2021 · Cited by 20 — This study ex...</span><span class="citation-popover-meta">Published: November 25, 2021</span></span></span>
+This approach reflects a broader finding from adult literacy research: reading skills develop most effectively when they are used in meaningful contexts. For adults seeking greater workplace fluency, the most valuable passages are often the documents already sitting on their desk, in their inbox, or on the systems they use every day.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pedocs.de/volltexte/2021/22504/pdf/RELA_2021_2_Sulkuren_Nissinen_Malin_The_role_of.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pedocs.de">[Pedocs+2ProLiteracy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pedocs.de</span><span class="citation-popover-title">The role of informal learning in adults&#x27; literacy proficiency</span><span class="citation-popover-snippet">The role of informal learning in adults&#x27; literacy proficiencyNovember 25, 2021 — by S Sulkunen · 2021 · Cited by 20 — This study ex...</span><span class="citation-popover-meta">Published: November 25, 2021</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Which work documents are worth rereading?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Which work documents are worth rereading?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The fluent reader on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/277217-M.jpg" alt="Cover for The fluent reader" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fluent reader">The fluent reader</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The fluent reader on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/277217-M.jpg" alt="Cover for The fluent reader" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fluent reader">The fluent reader</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Supports repeated reading of authentic documents.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports repeated reading of authentic documents.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Work on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lZpFCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Work" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Work">Deep Work</a>
-        </h4>
-        <p class="fr-book-author">By Cal Newport</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Work on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lZpFCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Work" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Work">Deep Work</a>
+</h4>
+<p class="fr-book-author">By Cal Newport</p>
         
-        <p class="fr-book-desc">Relevant for concentrated reading and workplace learning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant for concentrated reading and workplace learning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mSiOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mSiOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
         
-        <p class="fr-book-desc">Helps establish regular reading-practice routines.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps establish regular reading-practice routines.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Adult+Learner+Malcolm+S.+Knowles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Adult Learner on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9273820-M.jpg" alt="Cover for The Adult Learner" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Adult+Learner+Malcolm+S.+Knowles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Adult Learner">The Adult Learner</a>
-        </h4>
-        <p class="fr-book-author">By Malcolm S. Knowles, Elwood F. Holton III et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Adult+Learner+Malcolm+S.+Knowles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Adult Learner on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9273820-M.jpg" alt="Cover for The Adult Learner" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Adult+Learner+Malcolm+S.+Knowles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Adult Learner">The Adult Learner</a>
+</h4>
+<p class="fr-book-author">By Malcolm S. Knowles, Elwood F. Holton III et al.</p>
         
-        <p class="fr-book-desc">First published 2005. Subjects: Adult learning, Adult education, Teachers colleges, Education.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Adult+Learner+Malcolm+S.+Knowles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2005. Subjects: Adult learning, Adult education, Teachers colleges, Education.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Adult+Learner+Malcolm+S.+Knowles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The fluent reader</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Work&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Work</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The fluent reader</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Work&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Work</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Worth Wining 23.5” X 16.5” Original Video Store Poster Good RARE 1989 Poster"><img src="{{ '/assets/images/marketplace-covers/280910904308af1c5a33.jpg' | relative_url }}" alt="Listing image for Worth Wining 23.5” X 16.5” Original Video Store Poster Good RARE 1989 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Worth Wining 23.5” X 16.5” Original Video Store Poster Good RARE 1989 Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for worth poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: worth poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Worth Wining 23.5” X 16.5” Original Video Store Poster Good RARE 1989 Poster"><img src="{{ '/assets/images/marketplace-covers/280910904308af1c5a33.jpg' | relative_url }}" alt="Listing image for Worth Wining 23.5” X 16.5” Original Video Store Poster Good RARE 1989 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Worth Wining 23.5” X 16.5” Original Video Store Poster Good RARE 1989 Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for worth poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: worth poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Absolutely Worth It Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6d5e96016bb3ea71d0cb.jpg' | relative_url }}" alt="Listing image for Absolutely Worth It Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Absolutely Worth It Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for worth poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: worth poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Absolutely Worth It Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6d5e96016bb3ea71d0cb.jpg' | relative_url }}" alt="Listing image for Absolutely Worth It Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Absolutely Worth It Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for worth poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: worth poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WORTH WINNING FOLDED US ONE SHEET POSTER MARK HARMON MADELEINE STOWE 1989"><img src="{{ '/assets/images/marketplace-covers/140010be09375fb9d94e.jpg' | relative_url }}" alt="Listing image for WORTH WINNING FOLDED US ONE SHEET POSTER MARK HARMON MADELEINE STOWE 1989" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">WORTH WINNING FOLDED US ONE SHEET POSTER MARK HARMON MADELEINE STOWE 1989</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for worth poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: worth poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WORTH WINNING FOLDED US ONE SHEET POSTER MARK HARMON MADELEINE STOWE 1989"><img src="{{ '/assets/images/marketplace-covers/140010be09375fb9d94e.jpg' | relative_url }}" alt="Listing image for WORTH WINNING FOLDED US ONE SHEET POSTER MARK HARMON MADELEINE STOWE 1989" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">WORTH WINNING FOLDED US ONE SHEET POSTER MARK HARMON MADELEINE STOWE 1989</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for worth poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: worth poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WORTH WINNING (1989) One Sheet Movie Poster - Mark Harmon, Madeleine Stowe"><img src="{{ '/assets/images/marketplace-covers/d90d2ad5fab6542d2478.jpg' | relative_url }}" alt="Listing image for WORTH WINNING (1989) One Sheet Movie Poster - Mark Harmon, Madeleine Stowe" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">WORTH WINNING (1989) One Sheet Movie Poster - Mark Harmon, Madeleine Stowe</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for worth poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: worth poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WORTH WINNING (1989) One Sheet Movie Poster - Mark Harmon, Madeleine Stowe"><img src="{{ '/assets/images/marketplace-covers/d90d2ad5fab6542d2478.jpg' | relative_url }}" alt="Listing image for WORTH WINNING (1989) One Sheet Movie Poster - Mark Harmon, Madeleine Stowe" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">WORTH WINNING (1989) One Sheet Movie Poster - Mark Harmon, Madeleine Stowe</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for worth poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: worth poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=worth+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="worth poster -book -books -dvd" data-ebay-reference="work-texts-which-work-documents-are-worth-rereading-increasing-worth-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -607,7 +607,7 @@ This approach reflects a broader finding from adult literacy research: reading s
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -627,7 +627,7 @@ This approach reflects a broader finding from adult literacy research: reading s
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -659,7 +659,7 @@ This approach reflects a broader finding from adult literacy research: reading s
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -711,7 +711,7 @@ This approach reflects a broader finding from adult literacy research: reading s
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -756,7 +756,7 @@ This approach reflects a broader finding from adult literacy research: reading s
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -797,108 +797,108 @@ This approach reflects a broader finding from adult literacy research: reading s
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: proliteracy.org  
-   Link: <a href="https://www.proliteracy.org/resources/workplace-literacy-guide/" target="_blank" rel="noopener noreferrer nofollow">https://www.proliteracy.org/resources/workplace-literacy-guide/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Workplace Literacy GuideThis guide offers insights into starting a workplace literacy program, exploring practices used in dif...</p></details>
+   Link:<a href="https://www.proliteracy.org/resources/workplace-literacy-guide/" target="_blank" rel="noopener noreferrer nofollow">https://www.proliteracy.org/resources/workplace-literacy-guide/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Workplace Literacy GuideThis guide offers insights into starting a workplace literacy program, exploring practices used in dif...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: dvv-international.de  
-   Link: <a href="https://www.dvv-international.de/en/adult-education-and-development/editions/aed-612003/basic-education-and-literacy/adult-literacy-ndash-adult-motivation" target="_blank" rel="noopener noreferrer nofollow">https://www.dvv-international.de/en/adult-education-and-development/editions/aed-612003/basic-education-and-literacy/adult-literacy-ndash-adult-motivation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Adult Literacy – Adult MotivationThis text is a revised and extended version of the section on motivation on pages 6:5-6 of “Widening Lit...</p></details>
+   Link:<a href="https://www.dvv-international.de/en/adult-education-and-development/editions/aed-612003/basic-education-and-literacy/adult-literacy-ndash-adult-motivation" target="_blank" rel="noopener noreferrer nofollow">https://www.dvv-international.de/en/adult-education-and-development/editions/aed-612003/basic-education-and-literacy/adult-literacy-ndash-adult-motivation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Adult Literacy – Adult MotivationThis text is a revised and extended version of the section on motivation on pages 6:5-6 of “Widening Lit...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pedocs.de  
    Title: The role of informal learning in adults' literacy proficiency  
-   Link: <a href="https://www.pedocs.de/volltexte/2021/22504/pdf/RELA_2021_2_Sulkuren_Nissinen_Malin_The_role_of.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.pedocs.de/volltexte/2021/22504/pdf/RELA_2021_2_Sulkuren_Nissinen_Malin_The_role_of.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The role of informal learning in adults&#x27; literacy proficiencyNovember 25, 2021 — by S Sulkunen · 2021 · Cited by 20 — This study ex...</p></details>
+   Link:<a href="https://www.pedocs.de/volltexte/2021/22504/pdf/RELA_2021_2_Sulkuren_Nissinen_Malin_The_role_of.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.pedocs.de/volltexte/2021/22504/pdf/RELA_2021_2_Sulkuren_Nissinen_Malin_The_role_of.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The role of informal learning in adults&#x27; literacy proficiencyNovember 25, 2021 — by S Sulkunen · 2021 · Cited by 20 — This study ex...</p></details>
    Published: November 25, 2021  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: act.org  
-   Link: <a href="https://www.act.org/content/act/en/products-and-services/act-workkeys/act-workkeys-assessments/workplace-documents.html" target="_blank" rel="noopener noreferrer nofollow">https://www.act.org/content/act/en/products-and-services/act-workkeys/act-workkeys-assessments/workplace-documents.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ACT WorkKeys Workplace Documents AssessmentThe WorkKeys Workplace Documents assessment measures skills that individuals use when they...</p></details>
+   Link:<a href="https://www.act.org/content/act/en/products-and-services/act-workkeys/act-workkeys-assessments/workplace-documents.html" target="_blank" rel="noopener noreferrer nofollow">https://www.act.org/content/act/en/products-and-services/act-workkeys/act-workkeys-assessments/workplace-documents.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ACT WorkKeys Workplace Documents AssessmentThe WorkKeys Workplace Documents assessment measures skills that individuals use when they...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nationalacademies.org  
-   Link: <a href="https://www.nationalacademies.org/read/13468/chapter/5" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/13468/chapter/5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Some methods of fluency improvement—for example, guided repeated reading...Read more...</p></details>
+   Link:<a href="https://www.nationalacademies.org/read/13468/chapter/5" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/13468/chapter/5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Some methods of fluency improvement—for example, guided repeated reading...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nationalacademies.org  
-   Link: <a href="https://www.nationalacademies.org/read/13468/chapter/4" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/13468/chapter/4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Developing readers need to confront texts that are challenging, meaningful, and engaging. Texts should allow learners to practice compone...</p></details>
+   Link:<a href="https://www.nationalacademies.org/read/13468/chapter/4" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/13468/chapter/4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Developing readers need to confront texts that are challenging, meaningful, and engaging. Texts should allow learners to practice compone...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: shanahanonliteracy.com  
-   Link: <a href="https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Everything You Wanted to Know about Repeated ReadingRepeated reading usually leads to better [oral reading](&amp;#123;&amp;#123; &#x27;reading-aloud/&#x27; | relative_url &amp;#125;&amp;#125;) performance and reading compreh...</p></details>
+   Link:<a href="https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Everything You Wanted to Know about Repeated ReadingRepeated reading usually leads to better [oral reading](&amp;#123;&amp;#123; &#x27;reading-aloud/&#x27; | relative_url &amp;#125;&amp;#125;) performance and reading compreh...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: readingrockets.org  
    Title: Reading Rockets Everything You Wanted to Know about Repeated Reading  
-   Link: <a href="https://www.readingrockets.org/blogs/shanahan-on-literacy/everything-you-wanted-know-about-repeated-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/blogs/shanahan-on-literacy/everything-you-wanted-know-about-repeated-reading</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsEverything You Wanted to Know about Repeated ReadingAugust 4, 2017 — Repeated reading is a particular method proposed by S...</p></details>
+   Link:<a href="https://www.readingrockets.org/blogs/shanahan-on-literacy/everything-you-wanted-know-about-repeated-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/blogs/shanahan-on-literacy/everything-you-wanted-know-about-repeated-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsEverything You Wanted to Know about Repeated ReadingAugust 4, 2017 — Repeated reading is a particular method proposed by S...</p></details>
    Published: August 4, 2017  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pbslearningmedia.org  
    Title: Fluency: Repeated Reading | PBS Learning Media  
-   Link: <a href="https://www.pbslearningmedia.org/resource/ristrat.pd.reading.fluency.repread/fluency-repeated-reading/" target="_blank" rel="noopener noreferrer nofollow">https://www.pbslearningmedia.org/resource/ristrat.pd.reading.fluency.repread/fluency-repeated-reading/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fluency: Repeated Reading | PBS LearningMediaMay 23, 2016 — In this video, adult education instructor Tanya Johnson reads aloud and asks...</p></details>
+   Link:<a href="https://www.pbslearningmedia.org/resource/ristrat.pd.reading.fluency.repread/fluency-repeated-reading/" target="_blank" rel="noopener noreferrer nofollow">https://www.pbslearningmedia.org/resource/ristrat.pd.reading.fluency.repread/fluency-repeated-reading/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fluency: Repeated Reading | PBS LearningMediaMay 23, 2016 — In this video, adult education instructor Tanya Johnson reads aloud and asks...</p></details>
    Published: May 23, 2016  
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nala.ie  
-   Link: <a href="https://www.nala.ie/wp-content/uploads/2019/08/NALA-Guidelines-for-good-adult-literacy-work.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nala.ie/wp-content/uploads/2019/08/NALA-Guidelines-for-good-adult-literacy-work.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Guidelines for Good Adult Literacy Work is the main document for those working in th...</p></details>
+   Link:<a href="https://www.nala.ie/wp-content/uploads/2019/08/NALA-Guidelines-for-good-adult-literacy-work.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nala.ie/wp-content/uploads/2019/08/NALA-Guidelines-for-good-adult-literacy-work.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Guidelines for Good Adult Literacy Work is the main document for those working in th...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/266915115_Development_of_an_Evidence-Based_Reading_Fluency_Program_for_Adult_Literacy_Learners" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/266915115_Development_of_an_Evidence-Based_Reading_Fluency_Program_for_Adult_Literacy_Learners</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Development of an Evidence-Based Reading Fluency...In this article, the authors describe an evidence-based adult Guided Repeated Reading...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/266915115_Development_of_an_Evidence-Based_Reading_Fluency_Program_for_Adult_Literacy_Learners" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/266915115_Development_of_an_Evidence-Based_Reading_Fluency_Program_for_Adult_Literacy_Learners</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Development of an Evidence-Based Reading Fluency...In this article, the authors describe an evidence-based adult Guided Repeated Reading...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: everway.com  
-   Link: <a href="https://www.everway.com/products/everway-for-work/read-and-write/" target="_blank" rel="noopener noreferrer nofollow">https://www.everway.com/products/everway-for-work/read-and-write/</a>  
+   Link:<a href="https://www.everway.com/products/everway-for-work/read-and-write/" target="_blank" rel="noopener noreferrer nofollow">https://www.everway.com/products/everway-for-work/read-and-write/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/258142912_Developing_Reading_Fluency_With_Repeated_Reading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/258142912_Developing_Reading_Fluency_With_Repeated_Reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Developing Reading Fluency With Repeated ReadingRepeated reading represents an educa- tional strategy for building reading fluency...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/258142912_Developing_Reading_Fluency_With_Repeated_Reading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/258142912_Developing_Reading_Fluency_With_Repeated_Reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Developing Reading Fluency With Repeated ReadingRepeated reading represents an educa- tional strategy for building reading fluency...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: files.eric.ed.gov  
    Title: ERICA Modified Extensive Reading and Repeated Reading  
-   Link: <a href="https://files.eric.ed.gov/fulltext/EJ1380209.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/EJ1380209.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ERICby D Malakowsky · 2023 · Cited by 10 — The idea behind Automaticity Theory is to have students practice reading the same text again a...</p></details>
+   Link:<a href="https://files.eric.ed.gov/fulltext/EJ1380209.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/EJ1380209.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ERICby D Malakowsky · 2023 · Cited by 10 — The idea behind Automaticity Theory is to have students practice reading the same text again a...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: americanenglish.state.gov  
-   Link: <a href="https://americanenglish.state.gov/files/ae/resource_files/49_3_4_cohen-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://americanenglish.state.gov/files/ae/resource_files/49_3_4_cohen-1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fluency through the Repeated Reading Methodby J Cohen · Cited by 59 — To use PRR, simply select an interest- ing reading passage and have...</p></details>
+   Link:<a href="https://americanenglish.state.gov/files/ae/resource_files/49_3_4_cohen-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://americanenglish.state.gov/files/ae/resource_files/49_3_4_cohen-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fluency through the Repeated Reading Methodby J Cohen · Cited by 59 — To use PRR, simply select an interest- ing reading passage and have...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pld-literacy.org  
    Title: reading fluency continuous reading vs repeated reading  
-   Link: <a href="https://pld-literacy.org/reading-fluency-continuous-reading-vs-repeated-reading/?srsltid=AfmBOoqAy_si9N28zp_1wma3fB5_HN37Gz3SZ13ybPBBvlVPUfrNFsgB" target="_blank" rel="noopener noreferrer nofollow">https://pld-literacy.org/reading-fluency-continuous-reading-vs-repeated-reading/?srsltid=AfmBOoqAy_si9N28zp_1wma3fB5_HN37Gz3SZ13ybPBBvlVPUfrNFsgB</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Two Evidence-Based Strategies to Improve Reading Fluency10 Feb 2020 — This blog post by PLD includes a summary of the evidence base for h...</p></details>
+   Link:<a href="https://pld-literacy.org/reading-fluency-continuous-reading-vs-repeated-reading/?srsltid=AfmBOoqAy_si9N28zp_1wma3fB5_HN37Gz3SZ13ybPBBvlVPUfrNFsgB" target="_blank" rel="noopener noreferrer nofollow">https://pld-literacy.org/reading-fluency-continuous-reading-vs-repeated-reading/?srsltid=AfmBOoqAy_si9N28zp_1wma3fB5_HN37Gz3SZ13ybPBBvlVPUfrNFsgB</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Two Evidence-Based Strategies to Improve Reading Fluency10 Feb 2020 — This blog post by PLD includes a summary of the evidence base for h...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pld-literacy.org  
    Title: reading fluency continuous reading vs repeated reading  
-   Link: <a href="https://pld-literacy.org/reading-fluency-continuous-reading-vs-repeated-reading/?srsltid=AfmBOora0v3YdkrJkl6UdgkjSR6bFmRBNH0CFAV9Qbf3qul-TwKGV7Mb" target="_blank" rel="noopener noreferrer nofollow">https://pld-literacy.org/reading-fluency-continuous-reading-vs-repeated-reading/?srsltid=AfmBOora0v3YdkrJkl6UdgkjSR6bFmRBNH0CFAV9Qbf3qul-TwKGV7Mb</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Two Evidence-Based Strategies to Improve Reading Fluency10 Feb 2020 — Current research suggests reading a text non-repetitively has the s...</p></details>
+   Link:<a href="https://pld-literacy.org/reading-fluency-continuous-reading-vs-repeated-reading/?srsltid=AfmBOora0v3YdkrJkl6UdgkjSR6bFmRBNH0CFAV9Qbf3qul-TwKGV7Mb" target="_blank" rel="noopener noreferrer nofollow">https://pld-literacy.org/reading-fluency-continuous-reading-vs-repeated-reading/?srsltid=AfmBOora0v3YdkrJkl6UdgkjSR6bFmRBNH0CFAV9Qbf3qul-TwKGV7Mb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Two Evidence-Based Strategies to Improve Reading Fluency10 Feb 2020 — Current research suggests reading a text non-repetitively has the s...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: paadultedresources.org  
-   Link: <a href="https://www.paadultedresources.org/wp-content/uploads/2025/09/Evidence-Based-Reading-Instruction-for-the-Advanced-Adult-Reader.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.paadultedresources.org/wp-content/uploads/2025/09/Evidence-Based-Reading-Instruction-for-the-Advanced-Adult-Reader.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ows sufficient skills in alphabetics and fluency to support reading.Read more...</p></details>
+   Link:<a href="https://www.paadultedresources.org/wp-content/uploads/2025/09/Evidence-Based-Reading-Instruction-for-the-Advanced-Adult-Reader.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.paadultedresources.org/wp-content/uploads/2025/09/Evidence-Based-Reading-Instruction-for-the-Advanced-Adult-Reader.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ows sufficient skills in alphabetics and fluency to support reading.Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Improving Fluency with Guided, Repeated, Oral Reading Strategies Part 1  
-   Link: <a href="https://www.youtube.com/watch?v=67ztIQifm7A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=67ztIQifm7A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Improving Fluency with Oral Reading Strategies - Part 3: Duet Reading and Cross-generational Reading...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=67ztIQifm7A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=67ztIQifm7A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Improving Fluency with Oral Reading Strategies - Part 3: Duet Reading and Cross-generational Reading...</p></details>

@@ -298,7 +298,7 @@ One of the fastest ways to damage comprehension while [increasing]({{ 'increasin
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_argument_sign_3561fb-Illustration-1-dark.svg" | relative_url }}" alt="Signal words illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_argument_sign_3561fb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_argument_sign_3561fb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-A sentence can appear to support a strong conclusion until a single word such as “however”, “may”, “only”, or “although” changes its force. These words function as argument signals. They reveal whether a claim is broad or narrow, certain or tentative, supported or speculative. Research on discourse markers shows that readers use such signals to understand relationships between ideas and follow the structure of reasoning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://warwick.ac.uk/fac/soc/al/globalpad-rip/openhouse/academicenglishskills/grammar/discourse/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: warwick.ac.uk">[University of Warwick+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">warwick.ac.uk</span><span class="citation-popover-snippet">University of WarwickDiscourse Markers15 Jul 2020 — Discourse markers (words like &#x27;however&#x27;, &#x27;although&#x27; and &#x27;Nevertheless&#x27;) are referred...</span></span></span>
+A sentence can appear to support a strong conclusion until a single word such as “however”, “may”, “only”, or “although” changes its force. These words function as argument signals. They reveal whether a claim is broad or narrow, certain or tentative, supported or speculative. Research on discourse markers shows that readers use such signals to understand relationships between ideas and follow the structure of reasoning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://warwick.ac.uk/fac/soc/al/globalpad-rip/openhouse/academicenglishskills/grammar/discourse/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: warwick.ac.uk">[University of Warwick+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">warwick.ac.uk</span><span class="citation-popover-snippet">University of WarwickDiscourse Markers15 Jul 2020 — Discourse markers (words like &#x27;however&#x27;, &#x27;although&#x27; and &#x27;Nevertheless&#x27;) are referred...</span></span></span>
 
 For honest skimming, these signals are often more important than visually prominent text. They help fast readers preserve nuance rather than replacing careful understanding with an oversimplified summary.
 
@@ -313,7 +313,7 @@ Consider the difference:
 
 The topic is identical. The claim is not.
 
-The second sentence contains narrowing language. Words such as “may”, “some”, and “certain” reduce the scope and certainty of the statement. Academic writers often use these forms deliberately because evidence rarely supports universal conclusions. Writing specialists describe these expressions as hedges: language that softens or limits claims to match the available evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://writingcenter.gmu.edu/writing-resources/research-based-writing/hedges-softening-claims-in-academic-writing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.gmu.edu">[The Writing Center+2libguides.usask.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.gmu.edu</span><span class="citation-popover-title">hedges softening claims in academic writing</span><span class="citation-popover-snippet">The Writing CenterHedges: Softening Claims in Academic Writing17 Oct 2020 — With the help of the special language, called “hedges”, write...</span></span></span>
+The second sentence contains narrowing language. Words such as “may”, “some”, and “certain” reduce the scope and certainty of the statement. Academic writers often use these forms deliberately because evidence rarely supports universal conclusions. Writing specialists describe these expressions as hedges: language that softens or limits claims to match the available evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://writingcenter.gmu.edu/writing-resources/research-based-writing/hedges-softening-claims-in-academic-writing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.gmu.edu">[The Writing Center+2libguides.usask.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.gmu.edu</span><span class="citation-popover-title">hedges softening claims in academic writing</span><span class="citation-popover-snippet">The Writing CenterHedges: Softening Claims in Academic Writing17 Oct 2020 — With the help of the special language, called “hedges”, write...</span></span></span>
 
 Fast readers who ignore hedging frequently reconstruct the stronger version in memory. The result is not merely incomplete understanding but a different argument from the one the author actually made.
 
@@ -334,12 +334,12 @@ Words and [phrases]({{ 'phrases/' | relative_url }}) such as:
 * despite
 * nevertheless
 * yet
-* on the other hand <span class="citation-chip-wrap"><a class="citation-chip" href="https://journal.unilak.ac.id/index.php/REILA/article/download/15636/7161" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journal.unilak.ac.id">[journal.unilak.ac.id]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journal.unilak.ac.id</span><span class="citation-popover-snippet">Journal Universitas Lancang KuningA Discourse Marker (DM) Studyby KH Abidah · 2024 — Therefore, it needs discourse markers, such as &quot;simi...</span></span></span>
+* on the other hand<span class="citation-chip-wrap"><a class="citation-chip" href="https://journal.unilak.ac.id/index.php/REILA/article/download/15636/7161" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journal.unilak.ac.id">[journal.unilak.ac.id]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journal.unilak.ac.id</span><span class="citation-popover-snippet">Journal Universitas Lancang KuningA Discourse Marker (DM) Studyby KH Abidah · 2024 — Therefore, it needs discourse markers, such as &quot;simi...</span></span></span>
 * in contrast
 
 </div>
 
-signal that the reader should slow down. Discourse research consistently identifies these markers as guides that help readers recognise relationships between ideas and detect shifts in reasoning. University of Warwick+2Journal Universitas Lancang Kuning <span class="citation-link-wrap"><a class="citation-inline-link" href="https://warwick.ac.uk/fac/soc/al/globalpad-rip/openhouse/academicenglishskills/grammar/discourse/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: warwick.ac.uk">[warwick.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">warwick.ac.uk</span><span class="citation-popover-snippet">University of WarwickDiscourse Markers15 Jul 2020 — Discourse markers (words like &#x27;however&#x27;, &#x27;although&#x27; and &#x27;Nevertheless&#x27;) are referred...</span></span></span>
+signal that the reader should slow down. Discourse research consistently identifies these markers as guides that help readers recognise relationships between ideas and detect shifts in reasoning. University of Warwick+2Journal Universitas Lancang Kuning<span class="citation-link-wrap"><a class="citation-inline-link" href="https://warwick.ac.uk/fac/soc/al/globalpad-rip/openhouse/academicenglishskills/grammar/discourse/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: warwick.ac.uk">[warwick.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">warwick.ac.uk</span><span class="citation-popover-snippet">University of WarwickDiscourse Markers15 Jul 2020 — Discourse markers (words like &#x27;however&#x27;, &#x27;although&#x27; and &#x27;Nevertheless&#x27;) are referred...</span></span></span>
 
 A common pattern looks like this:
 
@@ -370,7 +370,7 @@ This simple check prevents many of the comprehension failures associated with fa
 
 A topic tells you what a text is about. A claim tells you what the author wants you to believe.
 
-Argument researchers and academic writing guides consistently describe arguments as claims supported by reasons and evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://writingcenter.unc.edu/tips-and-tools/argument/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.unc.edu">[The Writing Center+2University College London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.unc.edu</span><span class="citation-popover-title">The Writing Center Argument</span><span class="citation-popover-snippet">The Writing CenterArgument - The Writing CenterAn argument is usually a main idea, often called a “claim” or “thesis statement,” backed u...</span></span></span>
+Argument researchers and academic writing guides consistently describe arguments as claims supported by reasons and evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://writingcenter.unc.edu/tips-and-tools/argument/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.unc.edu">[The Writing Center+2University College London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.unc.edu</span><span class="citation-popover-title">The Writing Center Argument</span><span class="citation-popover-snippet">The Writing CenterArgument - The Writing CenterAn argument is usually a main idea, often called a “claim” or “thesis statement,” backed u...</span></span></span>
 
 The problem for skimmers is that topic words are easy to spot while claims are often hidden inside signal language.
 
@@ -420,13 +420,13 @@ Instead, look for evidence markers:
 * review
 * experiment
 * data
-* analysis <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/337256453_THE_ANALYSIS_OF_SKIMMING_AND_[SCANNING" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">the analysis of skimming and scanning technique to...by IR Aritonang · 2018 · Cited by 105 — The objective of this research is to find o...</span></span></span>
+* analysis<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/337256453_THE_ANALYSIS_OF_SKIMMING_AND_[SCANNING" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">the analysis of skimming and scanning technique to...by IR Aritonang · 2018 · Cited by 105 — The objective of this research is to find o...</span></span></span>
 * case study
 * meta-analysis
 
 </div>
 
-These terms indicate that the author is moving from assertion to support. Academic argument guidance consistently treats evidence as the element that distinguishes a claim from a mere opinion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://writingcenter.unc.edu/tips-and-tools/argument/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.unc.edu">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.unc.edu</span><span class="citation-popover-title">The Writing Center Argument</span><span class="citation-popover-snippet">The Writing CenterArgument - The Writing CenterAn argument is usually a main idea, often called a “claim” or “thesis statement,” backed u...</span></span></span>
+These terms indicate that the author is moving from assertion to support. Academic argument guidance consistently treats evidence as the element that distinguishes a claim from a mere opinion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://writingcenter.unc.edu/tips-and-tools/argument/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.unc.edu">[The Writing Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.unc.edu</span><span class="citation-popover-title">The Writing Center Argument</span><span class="citation-popover-snippet">The Writing CenterArgument - The Writing CenterAn argument is usually a main idea, often called a “claim” or “thesis statement,” backed u...</span></span></span>
 
 However, [evidence words]({{ 'evidence-limits/' | relative_url }}) should not automatically increase confidence.
 
@@ -478,7 +478,7 @@ Writers use two opposing families of signal words.
 * definitely
 * shows
 
-Research on academic writing repeatedly finds that hedges help writers align claims with evidence and avoid overstating conclusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://writingcenter.gmu.edu/writing-resources/research-based-writing/hedges-softening-claims-in-academic-writing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.gmu.edu">[The Writing Center+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.gmu.edu</span><span class="citation-popover-title">hedges softening claims in academic writing</span><span class="citation-popover-snippet">The Writing CenterHedges: Softening Claims in Academic Writing17 Oct 2020 — With the help of the special language, called “hedges”, write...</span></span></span>
+Research on academic writing repeatedly finds that hedges help writers align claims with evidence and avoid overstating conclusions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://writingcenter.gmu.edu/writing-resources/research-based-writing/hedges-softening-claims-in-academic-writing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: writingcenter.gmu.edu">[The Writing Center+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">writingcenter.gmu.edu</span><span class="citation-popover-title">hedges softening claims in academic writing</span><span class="citation-popover-snippet">The Writing CenterHedges: Softening Claims in Academic Writing17 Oct 2020 — With the help of the special language, called “hedges”, write...</span></span></span>
 
 For a skimmer, the practical question is not whether a word is hedging or boosting. The question is:
 
@@ -496,181 +496,181 @@ Signal typeTypical wordsQuestion to askContrasthowever, although, despite, yetWh
 
 This approach adds only a few seconds per page but dramatically reduces the risk of leaving with a distorted version of the argument.
 
-Research on reading and skimming consistently finds that faster reading tends to reduce comprehension compared with more [careful reading]({{ 'careful-reading/' | relative_url }}). The most effective protection against that loss is not reading every word. It is paying attention to the words that control how all the other words should be interpreted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12801452/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Reading and skimming clinical information: insights from...by MA Soltan · 2025 · Cited by 1 — Reading times are shorter and comprehen...</span></span></span>
+Research on reading and skimming consistently finds that faster reading tends to reduce comprehension compared with more [careful reading]({{ 'careful-reading/' | relative_url }}). The most effective protection against that loss is not reading every word. It is paying attention to the words that control how all the other words should be interpreted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12801452/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Reading and skimming clinical information: insights from...by MA Soltan · 2025 · Cited by 1 — Reading times are shorter and comprehen...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The small words that stop bad skimming. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The small words that stop bad skimming. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Critical Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Xg4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Critical Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Critical Thinking">Critical Thinking</a>
-        </h4>
-        <p class="fr-book-author">By Tom Chatfield</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Critical Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Xg4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Critical Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Critical Thinking">Critical Thinking</a>
+</h4>
+<p class="fr-book-author">By Tom Chatfield</p>
         
-        <p class="fr-book-desc">Focuses on evaluating claims, evidence, and reasoning signals.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating claims, evidence, and reasoning signals.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Critical+Thinking+by+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Helps readers identify the structure and meaning of arguments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Helps readers identify the structure and meaning of arguments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Provides background on how people simplify arguments and miss nuance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides background on how people simplify arguments and miss nuance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=%22They+Say+%2F+I+Say%22+Gerald+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open &quot;They Say / I Say&quot; on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8274551-M.jpg" alt="Cover for &quot;They Say / I Say&quot;" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=%22They+Say+%2F+I+Say%22+Gerald+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="&quot;They Say / I Say&quot;">&quot;They Say / I Say&quot;</a>
-        </h4>
-        <p class="fr-book-author">By Gerald Graff, Cathy Birkenstein</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=%22They+Say+%2F+I+Say%22+Gerald+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open &quot;They Say / I Say&quot; on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8274551-M.jpg" alt="Cover for &quot;They Say / I Say&quot;" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=%22They+Say+%2F+I+Say%22+Gerald+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="&quot;They Say / I Say&quot;">&quot;They Say / I Say&quot;</a>
+</h4>
+<p class="fr-book-author">By Gerald Graff, Cathy Birkenstein</p>
         
-        <p class="fr-book-desc">First published 2005. Subjects: Handbooks, manuals, Report writing, Rhetoric, English language, Persuasion (Rhetoric).</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=%22They+Say+%2F+I+Say%22+Gerald+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2005. Subjects: Handbooks, manuals, Report writing, Rhetoric, English language, Persuasion (Rhetoric).</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=%22They+Say+%2F+I+Say%22+Gerald+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Critical+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Critical+Thinking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Critical Thinking</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+study+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=signal-words-the-small-words-that-stop-bad-skimming-increasing-desk-study-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk study organizer" data-ebay-reference="signal-words-the-small-words-that-stop-bad-skimming-increasing-desk-study-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wooden Office Study Desk Pen Pencil Holder Storage Organizer Box Tidy Case Stand"><img src="{{ '/assets/images/marketplace-covers/cb1551eb30bec8d2ffbe.jpg' | relative_url }}" alt="Listing image for Wooden Office Study Desk Pen Pencil Holder Storage Organizer Box Tidy Case Stand" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+study+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=signal-words-the-small-words-that-stop-bad-skimming-increasing-desk-study-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk study organizer" data-ebay-reference="signal-words-the-small-words-that-stop-bad-skimming-increasing-desk-study-organizer" target="_blank" rel="sponsored noopener noreferrer">Wooden Office Study Desk Pen Pencil Holder Storage Organizer Box Tidy Case Stand</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+study+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=signal-words-the-small-words-that-stop-bad-skimming-increasing-desk-study-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk study organizer" data-ebay-reference="signal-words-the-small-words-that-stop-bad-skimming-increasing-desk-study-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk study organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk study organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+study+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=signal-words-the-small-words-that-stop-bad-skimming-increasing-desk-study-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk study organizer" data-ebay-reference="signal-words-the-small-words-that-stop-bad-skimming-increasing-desk-study-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+study+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=signal-words-the-small-words-that-stop-bad-skimming-increasing-desk-study-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk study organizer" data-ebay-reference="signal-words-the-small-words-that-stop-bad-skimming-increasing-desk-study-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wooden Office Study Desk Pen Pencil Holder Storage Organizer Box Tidy Case Stand"><img src="{{ '/assets/images/marketplace-covers/cb1551eb30bec8d2ffbe.jpg' | relative_url }}" alt="Listing image for Wooden Office Study Desk Pen Pencil Holder Storage Organizer Box Tidy Case Stand" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+study+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=signal-words-the-small-words-that-stop-bad-skimming-increasing-desk-study-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk study organizer" data-ebay-reference="signal-words-the-small-words-that-stop-bad-skimming-increasing-desk-study-organizer" target="_blank" rel="sponsored noopener noreferrer">Wooden Office Study Desk Pen Pencil Holder Storage Organizer Box Tidy Case Stand</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+study+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=signal-words-the-small-words-that-stop-bad-skimming-increasing-desk-study-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk study organizer" data-ebay-reference="signal-words-the-small-words-that-stop-bad-skimming-increasing-desk-study-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk study organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: desk study organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+study+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=signal-words-the-small-words-that-stop-bad-skimming-increasing-desk-study-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk study organizer" data-ebay-reference="signal-words-the-small-words-that-stop-bad-skimming-increasing-desk-study-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+study+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=signal-words-the-small-words-that-stop-bad-skimming-increasing-desk-study-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk study organizer" data-ebay-reference="signal-words-the-small-words-that-stop-bad-skimming-increasing-desk-study-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Under Desk Drawers Study Table Drawer Tray Pencil Storage Organizer Box Holder"><img src="{{ '/assets/images/marketplace-covers/33486c199d5fa156bbf4.jpg' | relative_url }}" alt="Listing image for Under Desk Drawers Study Table Drawer Tray Pencil Storage Organizer Box Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+study+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=signal-words-the-small-words-that-stop-bad-skimming-increasing-desk-study-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk study organizer" data-ebay-reference="signal-words-the-small-words-that-stop-bad-skimming-increasing-desk-study-organizer" target="_blank" rel="sponsored noopener noreferrer">Under Desk Drawers Study Table Drawer Tray Pencil Storage Organizer Box Holder</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+study+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=signal-words-the-small-words-that-stop-bad-skimming-increasing-desk-study-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk study organizer" data-ebay-reference="signal-words-the-small-words-that-stop-bad-skimming-increasing-desk-study-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk study organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk study organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+study+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=signal-words-the-small-words-that-stop-bad-skimming-increasing-desk-study-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk study organizer" data-ebay-reference="signal-words-the-small-words-that-stop-bad-skimming-increasing-desk-study-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+study+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=signal-words-the-small-words-that-stop-bad-skimming-increasing-desk-study-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk study organizer" data-ebay-reference="signal-words-the-small-words-that-stop-bad-skimming-increasing-desk-study-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Under Desk Drawers Study Table Drawer Tray Pencil Storage Organizer Box Holder"><img src="{{ '/assets/images/marketplace-covers/33486c199d5fa156bbf4.jpg' | relative_url }}" alt="Listing image for Under Desk Drawers Study Table Drawer Tray Pencil Storage Organizer Box Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+study+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=signal-words-the-small-words-that-stop-bad-skimming-increasing-desk-study-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk study organizer" data-ebay-reference="signal-words-the-small-words-that-stop-bad-skimming-increasing-desk-study-organizer" target="_blank" rel="sponsored noopener noreferrer">Under Desk Drawers Study Table Drawer Tray Pencil Storage Organizer Box Holder</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+study+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=signal-words-the-small-words-that-stop-bad-skimming-increasing-desk-study-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk study organizer" data-ebay-reference="signal-words-the-small-words-that-stop-bad-skimming-increasing-desk-study-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk study organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: desk study organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+study+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=signal-words-the-small-words-that-stop-bad-skimming-increasing-desk-study-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk study organizer" data-ebay-reference="signal-words-the-small-words-that-stop-bad-skimming-increasing-desk-study-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+study+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=signal-words-the-small-words-that-stop-bad-skimming-increasing-desk-study-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk study organizer" data-ebay-reference="signal-words-the-small-words-that-stop-bad-skimming-increasing-desk-study-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Office Study Desk Organizer Table Box Tidy Case Display Stationaries Pen Holder"><img src="{{ '/assets/images/marketplace-covers/5c9ca9153eac647ccfb2.jpg' | relative_url }}" alt="Listing image for Office Study Desk Organizer Table Box Tidy Case Display Stationaries Pen Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+study+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=signal-words-the-small-words-that-stop-bad-skimming-increasing-desk-study-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk study organizer" data-ebay-reference="signal-words-the-small-words-that-stop-bad-skimming-increasing-desk-study-organizer" target="_blank" rel="sponsored noopener noreferrer">Office Study Desk Organizer Table Box Tidy Case Display Stationaries Pen Holder</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+study+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=signal-words-the-small-words-that-stop-bad-skimming-increasing-desk-study-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk study organizer" data-ebay-reference="signal-words-the-small-words-that-stop-bad-skimming-increasing-desk-study-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk study organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk study organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+study+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=signal-words-the-small-words-that-stop-bad-skimming-increasing-desk-study-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk study organizer" data-ebay-reference="signal-words-the-small-words-that-stop-bad-skimming-increasing-desk-study-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+study+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=signal-words-the-small-words-that-stop-bad-skimming-increasing-desk-study-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk study organizer" data-ebay-reference="signal-words-the-small-words-that-stop-bad-skimming-increasing-desk-study-organizer" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+study+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=signal-words-the-small-words-that-stop-bad-skimming-increasing-desk-study-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk study organizer" data-ebay-reference="signal-words-the-small-words-that-stop-bad-skimming-increasing-desk-study-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Office Study Desk Organizer Table Box Tidy Case Display Stationaries Pen Holder"><img src="{{ '/assets/images/marketplace-covers/5c9ca9153eac647ccfb2.jpg' | relative_url }}" alt="Listing image for Office Study Desk Organizer Table Box Tidy Case Display Stationaries Pen Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+study+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=signal-words-the-small-words-that-stop-bad-skimming-increasing-desk-study-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk study organizer" data-ebay-reference="signal-words-the-small-words-that-stop-bad-skimming-increasing-desk-study-organizer" target="_blank" rel="sponsored noopener noreferrer">Office Study Desk Organizer Table Box Tidy Case Display Stationaries Pen Holder</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+study+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=signal-words-the-small-words-that-stop-bad-skimming-increasing-desk-study-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk study organizer" data-ebay-reference="signal-words-the-small-words-that-stop-bad-skimming-increasing-desk-study-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk study organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: desk study organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+study+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=signal-words-the-small-words-that-stop-bad-skimming-increasing-desk-study-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk study organizer" data-ebay-reference="signal-words-the-small-words-that-stop-bad-skimming-increasing-desk-study-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+study+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=signal-words-the-small-words-that-stop-bad-skimming-increasing-desk-study-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk study organizer" data-ebay-reference="signal-words-the-small-words-that-stop-bad-skimming-increasing-desk-study-organizer" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -686,7 +686,7 @@ Research on reading and skimming consistently finds that faster reading tends to
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -706,7 +706,7 @@ Research on reading and skimming consistently finds that faster reading tends to
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -738,7 +738,7 @@ Research on reading and skimming consistently finds that faster reading tends to
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -790,7 +790,7 @@ Research on reading and skimming consistently finds that faster reading tends to
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -835,7 +835,7 @@ Research on reading and skimming consistently finds that faster reading tends to
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -876,122 +876,122 @@ Research on reading and skimming consistently finds that faster reading tends to
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/273303212_The_Impact_of_Discourse_Markers_and_Relative_Clauses_on_the_Reading_Comprehension_of_EFL_Learners" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/273303212_The_Impact_of_Discourse_Markers_and_Relative_Clauses_on_the_Reading_Comprehension_of_EFL_Learners</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Impact of Discourse Markers and Relative Clauses on...30 Jun 2020 — These words and phrases support readers who are familiar with th...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/273303212_The_Impact_of_Discourse_Markers_and_Relative_Clauses_on_the_Reading_Comprehension_of_EFL_Learners" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/273303212_The_Impact_of_Discourse_Markers_and_Relative_Clauses_on_the_Reading_Comprehension_of_EFL_Learners</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Impact of Discourse Markers and Relative Clauses on...30 Jun 2020 — These words and phrases support readers who are familiar with th...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: libguides.usask.ca  
-   Link: <a href="https://libguides.usask.ca/c.php?g=418130&amp;p=4121136" target="_blank" rel="noopener noreferrer nofollow">https://libguides.usask.ca/c.php?g=418130&amp;p=4121136</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Writing Help: Style, Argument, and OrganizationLearners can strengthen their reasoning, argument analysis, information interpretation, an...</p></details>
+   Link:<a href="https://libguides.usask.ca/c.php?g=418130&amp;p=4121136" target="_blank" rel="noopener noreferrer nofollow">https://libguides.usask.ca/c.php?g=418130&amp;p=4121136</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Writing Help: Style, Argument, and OrganizationLearners can strengthen their reasoning, argument analysis, information interpretation, an...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/329703189_Strengthening_or_Weakening_Claims_in_Academic_Knowledge_Construction_A_Comparative_Study_of_Hedges_and_Boosters_in_Postgraduate_Academic_Writing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/329703189_Strengthening_or_Weakening_Claims_in_Academic_Knowledge_Construction_A_Comparative_Study_of_Hedges_and_Boosters_in_Postgraduate_Academic_Writing</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Strengthening or Weakening Claims in Academic...21 Dec 2018 — This paper reports on the findings of an exploratory study examining...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/329703189_Strengthening_or_Weakening_Claims_in_Academic_Knowledge_Construction_A_Comparative_Study_of_Hedges_and_Boosters_in_Postgraduate_Academic_Writing" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/329703189_Strengthening_or_Weakening_Claims_in_Academic_Knowledge_Construction_A_Comparative_Study_of_Hedges_and_Boosters_in_Postgraduate_Academic_Writing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Strengthening or Weakening Claims in Academic...21 Dec 2018 — This paper reports on the findings of an exploratory study examining...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12801452/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12801452/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading and skimming clinical information: insights from...by MA Soltan · 2025 · Cited by 1 — Reading times are shorter and comprehen...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12801452/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12801452/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading and skimming clinical information: insights from...by MA Soltan · 2025 · Cited by 1 — Reading times are shorter and comprehen...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/337256453_THE_ANALYSIS_OF_SKIMMING_AND_[SCANNING" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/337256453_THE_ANALYSIS_OF_SKIMMING_AND_[SCANNING</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the analysis of skimming and scanning technique to...by IR Aritonang · 2018 · Cited by 105 — The objective of this research is to find o...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/337256453_THE_ANALYSIS_OF_SKIMMING_AND_[SCANNING" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/337256453_THE_ANALYSIS_OF_SKIMMING_AND_[SCANNING</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the analysis of skimming and scanning technique to...by IR Aritonang · 2018 · Cited by 105 — The objective of this research is to find o...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/391201722_USING_SCANNING_AND_SKIMMING_STRATEGY_TO_IMPROVE_THE_STUDENTS%27_READING_COMPREHENSION" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391201722_USING_SCANNING_AND_SKIMMING_STRATEGY_TO_IMPROVE_THE_STUDENTS%27_READING_COMPREHENSION</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>menting scanning and skimming strategy.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/391201722_USING_SCANNING_AND_SKIMMING_STRATEGY_TO_IMPROVE_THE_STUDENTS%27_READING_COMPREHENSION" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391201722_USING_SCANNING_AND_SKIMMING_STRATEGY_TO_IMPROVE_THE_STUDENTS%27_READING_COMPREHENSION</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>menting scanning and skimming strategy.Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: warwick.ac.uk  
-   Link: <a href="https://warwick.ac.uk/fac/soc/al/globalpad-rip/openhouse/academicenglishskills/grammar/discourse/" target="_blank" rel="noopener noreferrer nofollow">https://warwick.ac.uk/fac/soc/al/globalpad-rip/openhouse/academicenglishskills/grammar/discourse/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>University of WarwickDiscourse Markers15 Jul 2020 — Discourse markers (words like &#x27;however&#x27;, &#x27;although&#x27; and &#x27;Nevertheless&#x27;) are referred...</p></details>
+   Link:<a href="https://warwick.ac.uk/fac/soc/al/globalpad-rip/openhouse/academicenglishskills/grammar/discourse/" target="_blank" rel="noopener noreferrer nofollow">https://warwick.ac.uk/fac/soc/al/globalpad-rip/openhouse/academicenglishskills/grammar/discourse/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of WarwickDiscourse Markers15 Jul 2020 — Discourse markers (words like &#x27;however&#x27;, &#x27;although&#x27; and &#x27;Nevertheless&#x27;) are referred...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: writingcenter.gmu.edu  
    Title: hedges softening claims in academic writing  
-   Link: <a href="https://writingcenter.gmu.edu/writing-resources/research-based-writing/hedges-softening-claims-in-academic-writing" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.gmu.edu/writing-resources/research-based-writing/hedges-softening-claims-in-academic-writing</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Writing CenterHedges: Softening Claims in Academic Writing17 Oct 2020 — With the help of the special language, called “hedges”, write...</p></details>
+   Link:<a href="https://writingcenter.gmu.edu/writing-resources/research-based-writing/hedges-softening-claims-in-academic-writing" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.gmu.edu/writing-resources/research-based-writing/hedges-softening-claims-in-academic-writing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Writing CenterHedges: Softening Claims in Academic Writing17 Oct 2020 — With the help of the special language, called “hedges”, write...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: journal.unilak.ac.id  
-   Link: <a href="https://journal.unilak.ac.id/index.php/REILA/article/download/15636/7161" target="_blank" rel="noopener noreferrer nofollow">https://journal.unilak.ac.id/index.php/REILA/article/download/15636/7161</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal Universitas Lancang KuningA Discourse Marker (DM) Studyby KH Abidah · 2024 — Therefore, it needs discourse markers, such as &quot;simi...</p></details>
+   Link:<a href="https://journal.unilak.ac.id/index.php/REILA/article/download/15636/7161" target="_blank" rel="noopener noreferrer nofollow">https://journal.unilak.ac.id/index.php/REILA/article/download/15636/7161</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Journal Universitas Lancang KuningA Discourse Marker (DM) Studyby KH Abidah · 2024 — Therefore, it needs discourse markers, such as &quot;simi...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: writingcenter.unc.edu  
    Title: The Writing Center Argument  
-   Link: <a href="https://writingcenter.unc.edu/tips-and-tools/argument/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/argument/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Writing CenterArgument - The Writing CenterAn argument is usually a main idea, often called a “claim” or “thesis statement,” backed u...</p></details>
+   Link:<a href="https://writingcenter.unc.edu/tips-and-tools/argument/" target="_blank" rel="noopener noreferrer nofollow">https://writingcenter.unc.edu/tips-and-tools/argument/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Writing CenterArgument - The Writing CenterAn argument is usually a main idea, often called a “claim” or “thesis statement,” backed u...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ucl.ac.uk  
-   Link: <a href="https://www.ucl.ac.uk/ioe/departments-and-centres/academic-writing-centre/resources-academic-reading-and-writing/argument-voice-structure" target="_blank" rel="noopener noreferrer nofollow">https://www.ucl.ac.uk/ioe/departments-and-centres/academic-writing-centre/resources-academic-reading-and-writing/argument-voice-structure</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>University College LondonArgument, voice, structureAn argument, in simple terms, is a claim plus support for that claim. Make sure you us...</p></details>
+   Link:<a href="https://www.ucl.ac.uk/ioe/departments-and-centres/academic-writing-centre/resources-academic-reading-and-writing/argument-voice-structure" target="_blank" rel="noopener noreferrer nofollow">https://www.ucl.ac.uk/ioe/departments-and-centres/academic-writing-centre/resources-academic-reading-and-writing/argument-voice-structure</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University College LondonArgument, voice, structureAn argument, in simple terms, is a claim plus support for that claim. Make sure you us...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12689893/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12689893/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>supporting evidence in L2 argumentative writingby R Yang · 2025 — Evidence integration is central to argumentative writing, yet the relat...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12689893/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12689893/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>supporting evidence in L2 argumentative writingby R Yang · 2025 — Evidence integration is central to argumentative writing, yet the relat...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: gcwritingcenter.commons.gc.cuny.edu  
-   Link: <a href="https://gcwritingcenter.commons.gc.cuny.edu/glossary/" target="_blank" rel="noopener noreferrer nofollow">https://gcwritingcenter.commons.gc.cuny.edu/glossary/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Writing Center - CUNYGood academic writing defines the meaning of all the [technical](&amp;#123;&amp;#123; &#x27;technical-texts/&#x27; | relative_url &amp;#125;&amp;#125;) terms it uses, thereby ensuring that readers are...</p></details>
+   Link:<a href="https://gcwritingcenter.commons.gc.cuny.edu/glossary/" target="_blank" rel="noopener noreferrer nofollow">https://gcwritingcenter.commons.gc.cuny.edu/glossary/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Writing Center - CUNYGood academic writing defines the meaning of all the [technical](&amp;#123;&amp;#123; &#x27;technical-texts/&#x27; | relative_url &amp;#125;&amp;#125;) terms it uses, thereby ensuring that readers are...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: test-english.com  
-   Link: <a href="https://test-english.com/explanation/b2/discourse-markers-linking-words/" target="_blank" rel="noopener noreferrer nofollow">https://test-english.com/explanation/b2/discourse-markers-linking-words/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Discourse markers – linking wordsDiscourse markers are very important to structure text or speech to connect sentences in a meaningful an...</p></details>
+   Link:<a href="https://test-english.com/explanation/b2/discourse-markers-linking-words/" target="_blank" rel="noopener noreferrer nofollow">https://test-english.com/explanation/b2/discourse-markers-linking-words/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Discourse markers – linking wordsDiscourse markers are very important to structure text or speech to connect sentences in a meaningful an...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/526960257896314/posts/1395978227661175/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/526960257896314/posts/1395978227661175/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skimming vs scanning when reading comprehensionWeren&#x27;t you people taught the difference between skimming and scanning when reading in hig...</p></details>
+   Link:<a href="https://www.facebook.com/groups/526960257896314/posts/1395978227661175/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/526960257896314/posts/1395978227661175/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skimming vs scanning when reading comprehensionWeren&#x27;t you people taught the difference between skimming and scanning when reading in hig...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: digilib.unikama.ac.id  
-   Link: <a href="https://digilib.unikama.ac.id/index.php?bid=36897&amp;fid=4028&amp;p=fstream-pdf" target="_blank" rel="noopener noreferrer nofollow">https://digilib.unikama.ac.id/index.php?bid=36897&amp;fid=4028&amp;p=fstream-pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>unikama.ac.idSTUDENTS&#x27; PERCEPTION TOWARDS SKIMMINGThis research focuses on the perception of students on the use of skimming-scanning tec...</p></details>
+   Link:<a href="https://digilib.unikama.ac.id/index.php?bid=36897&amp;fid=4028&amp;p=fstream-pdf" target="_blank" rel="noopener noreferrer nofollow">https://digilib.unikama.ac.id/index.php?bid=36897&amp;fid=4028&amp;p=fstream-pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>unikama.ac.idSTUDENTS&#x27; PERCEPTION TOWARDS SKIMMINGThis research focuses on the perception of students on the use of skimming-scanning tec...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: allinnovationjournal.com  
-   Link: <a href="https://allinnovationjournal.com/assets/archives/2025/vol7issue2/7013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://allinnovationjournal.com/assets/archives/2025/vol7issue2/7013.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arize the main idea within a time limit, while scanning tasks could involve...Read more...</p></details>
+   Link:<a href="https://allinnovationjournal.com/assets/archives/2025/vol7issue2/7013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://allinnovationjournal.com/assets/archives/2025/vol7issue2/7013.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>arize the main idea within a time limit, while scanning tasks could involve...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/934704834/Skimming-and-Scanning-Detailed" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/934704834/Skimming-and-Scanning-Detailed</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tifying texts worth deeper study and understanding the writer&#x27;s...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/934704834/Skimming-and-Scanning-Detailed" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/934704834/Skimming-and-Scanning-Detailed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tifying texts worth deeper study and understanding the writer&#x27;s...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/presentation/836373773/Discourse-Markers-for-Comparing-and-Contrasting-Extended" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/presentation/836373773/Discourse-Markers-for-Comparing-and-Contrasting-Extended</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>structure communication by guiding the listener or reader.Read more...</p></details>
+   Link:<a href="https://www.scribd.com/presentation/836373773/Discourse-Markers-for-Comparing-and-Contrasting-Extended" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/presentation/836373773/Discourse-Markers-for-Comparing-and-Contrasting-Extended</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>structure communication by guiding the listener or reader.Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/8910837/Discourse_markers_in_English_a_discourse_pragmatic_view" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/8910837/Discourse_markers_in_English_a_discourse_pragmatic_view</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Discourse markers in English: a discourse-pragmatic viewThe study of discourse markers reveals historical linguistic changes and polyfunc...</p></details>
+   Link:<a href="https://www.academia.edu/8910837/Discourse_markers_in_English_a_discourse_pragmatic_view" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/8910837/Discourse_markers_in_English_a_discourse_pragmatic_view</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Discourse markers in English: a discourse-pragmatic viewThe study of discourse markers reveals historical linguistic changes and polyfunc...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: oiccpress.com  
-   Link: <a href="https://oiccpress.com/jals/article/download/5590/2281/3301" target="_blank" rel="noopener noreferrer nofollow">https://oiccpress.com/jals/article/download/5590/2281/3301</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The present study sought to appraise three...Read more...</p></details>
+   Link:<a href="https://oiccpress.com/jals/article/download/5590/2281/3301" target="_blank" rel="noopener noreferrer nofollow">https://oiccpress.com/jals/article/download/5590/2281/3301</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The present study sought to appraise three...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: videnomlaesning.dk  
    Title: reading for understanding  
-   Link: <a href="https://www.videnomlaesning.dk/media/2526/reading-for-understanding.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.videnomlaesning.dk/media/2526/reading-for-understanding.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Toward an R&amp;D Program in Reading Comprehensionby C Snow · 2002 · Cited by 5123 — Research that would identify reader capabilities and lim...</p></details>
+   Link:<a href="https://www.videnomlaesning.dk/media/2526/reading-for-understanding.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.videnomlaesning.dk/media/2526/reading-for-understanding.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Toward an R&amp;D Program in Reading Comprehensionby C Snow · 2002 · Cited by 5123 — Research that would identify reader capabilities and lim...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: libguides.uvt.nl  
-   Link: <a href="https://libguides.uvt.nl/academic-reading/critical-reading-6" target="_blank" rel="noopener noreferrer nofollow">https://libguides.uvt.nl/academic-reading/critical-reading-6</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Uvt LibguidesAcademic reading: Analyzing arguments - LibGuidesAn argument consists of three elements: Claim: the opinion or conclusion th...</p></details>
+   Link:<a href="https://libguides.uvt.nl/academic-reading/critical-reading-6" target="_blank" rel="noopener noreferrer nofollow">https://libguides.uvt.nl/academic-reading/critical-reading-6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Uvt LibguidesAcademic reading: Analyzing arguments - LibGuidesAn argument consists of three elements: Claim: the opinion or conclusion th...</p></details>

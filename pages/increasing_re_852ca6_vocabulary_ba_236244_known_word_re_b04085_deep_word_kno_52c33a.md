@@ -269,7 +269,7 @@ image: /assets/images/increasing_re_852ca6_vocabulary_ba_236244_known_word_re_b0
 
 ## Introduction
 
-Recognising a word quickly is only part of fluent reading. Many reading slowdowns occur after recognition, when the reader must decide what a word means in a particular sentence. Deep word knowledge reduces this delay. Readers who know a word's meanings, typical uses, common partners, and subtle shades of meaning can identify the intended interpretation almost immediately. Readers with only partial knowledge often hesitate, test multiple possibilities, or reread earlier text before continuing. Research on [vocabulary]({{ 'knowledge/' | relative_url }}) depth, lexical quality, and [eye movements]({{ 'eye-tradeoff/' | relative_url }}) suggests that high-quality word knowledge supports faster and more accurate meaning retrieval, helping reading speed increase without sacrificing comprehension. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/abs/10.1080/10888430701530730" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online+2Pitt Sites]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineReading Ability: Lexical Quality to Comprehensionby C Perfetti · 2007 · Cited by 3420 — The lexical quality hypoth...</span></span></span>
+Recognising a word quickly is only part of fluent reading. Many reading slowdowns occur after recognition, when the reader must decide what a word means in a particular sentence. Deep word knowledge reduces this delay. Readers who know a word's meanings, typical uses, common partners, and subtle shades of meaning can identify the intended interpretation almost immediately. Readers with only partial knowledge often hesitate, test multiple possibilities, or reread earlier text before continuing. Research on [vocabulary]({{ 'knowledge/' | relative_url }}) depth, lexical quality, and [eye movements]({{ 'eye-tradeoff/' | relative_url }}) suggests that high-quality word knowledge supports faster and more accurate meaning retrieval, helping reading speed increase without sacrificing comprehension.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/abs/10.1080/10888430701530730" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online+2Pitt Sites]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineReading Ability: Lexical Quality to Comprehensionby C Perfetti · 2007 · Cited by 3420 — The lexical quality hypoth...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_vocabulary_ba_236244_known_word_re_b04085_deep_word_kno_52c33a-Illustration-1-dark.svg" | relative_url }}" alt="Word Depth illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_vocabulary_ba_236244_known_word_re_b04085_deep_word_kno_52c33a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_vocabulary_ba_236244_known_word_re_b04085_deep_word_kno_52c33a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,7 +288,7 @@ Deep word knowledge includes several connected forms of information:
 * Common [phrases]({{ 'phrases/' | relative_url }}) and collocations.
 * Nuances that distinguish one meaning from another.
 
-Charles Perfetti's Lexical Quality Hypothesis argues that skilled reading depends on high-quality word representations that combine precise spelling, pronunciation, and meaning information. When these representations are well specified, meaning retrieval becomes rapid and reliable. When they are incomplete, comprehension slows because additional processing is required. Taylor &amp; Francis Online+2Learning Research &amp; Development Center <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/abs/10.1080/10888430701530730" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[tandfonline.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineReading Ability: Lexical Quality to Comprehensionby C Perfetti · 2007 · Cited by 3420 — The lexical quality hypoth...</span></span></span>
+Charles Perfetti's Lexical Quality Hypothesis argues that skilled reading depends on high-quality word representations that combine precise spelling, pronunciation, and meaning information. When these representations are well specified, meaning retrieval becomes rapid and reliable. When they are incomplete, comprehension slows because additional processing is required. Taylor &amp; Francis Online+2Learning Research &amp; Development Center<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/abs/10.1080/10888430701530730" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[tandfonline.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineReading Ability: Lexical Quality to Comprehensionby C Perfetti · 2007 · Cited by 3420 — The lexical quality hypoth...</span></span></span>
 
 This distinction helps explain why two readers may recognise the same vocabulary but read at different speeds. One reader immediately selects the correct interpretation. The other recognises the word but still spends time deciding what it means.
 
@@ -310,7 +310,7 @@ Consider the word "volume":
 
 A skilled reader usually resolves the ambiguity almost automatically. A less experienced reader may briefly activate several possibilities before selecting the correct one.
 
-Research on lexical quality suggests that strong semantic representations allow readers to retrieve appropriate meanings quickly and suppress irrelevant alternatives more efficiently. High-quality word knowledge therefore reduces the amount of mental competition occurring during reading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/abs/10.1080/10888430701530730" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online+2ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineReading Ability: Lexical Quality to Comprehensionby C Perfetti · 2007 · Cited by 3420 — The lexical quality hypoth...</span></span></span>
+Research on lexical quality suggests that strong semantic representations allow readers to retrieve appropriate meanings quickly and suppress irrelevant alternatives more efficiently. High-quality word knowledge therefore reduces the amount of mental competition occurring during reading.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/abs/10.1080/10888430701530730" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online+2ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineReading Ability: Lexical Quality to Comprehensionby C Perfetti · 2007 · Cited by 3420 — The lexical quality hypoth...</span></span></span>
 
 The effect is often invisible because it happens within fractions of a second. Yet across hundreds or thousands of words, these tiny delays accumulate into noticeable differences in reading fluency.
 
@@ -327,7 +327,7 @@ Take a sentence such as:
 
 A reader with deep knowledge immediately activates the financial meaning. The riverbank interpretation is unlikely to remain active for long because the surrounding words strongly constrain meaning.
 
-However, readers with weaker semantic representations may spend additional time evaluating alternatives before reaching a stable interpretation. Research on eye movements shows that unfamiliarity, ambiguity, and uncertainty can increase fixation times and trigger additional processing during reading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/12127304_Learning_New_Word_Meanings_from_Context_A_Study_of_Eye_Movements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Learning New Word Meanings From Context: A Study of...January 1, 2001 — This study examined how readers establish the meanin...</span><span class="citation-popover-meta">Published: January 1, 2001</span></span></span>
+However, readers with weaker semantic representations may spend additional time evaluating alternatives before reaching a stable interpretation. Research on eye movements shows that unfamiliarity, ambiguity, and uncertainty can increase fixation times and trigger additional processing during reading.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/12127304_Learning_New_Word_Meanings_from_Context_A_Study_of_Eye_Movements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Learning New Word Meanings From Context: A Study of...January 1, 2001 — This study examined how readers establish the meanin...</span><span class="citation-popover-meta">Published: January 1, 2001</span></span></span>
 
 This does not necessarily produce conscious confusion. Often the slowdown appears only as slightly longer pauses on particular words or phrases. Nevertheless, those pauses reduce overall reading speed.
 
@@ -353,7 +353,7 @@ Readers expect phrases such as:
 
 These pairings are known as collocations.
 
-[Eye-tracking]({{ 'eye-tracking/' | relative_url }}) research has found that stronger collocations are generally processed more efficiently than weaker or less familiar combinations. Familiar word partnerships create expectations that reduce the effort required to interpret upcoming text. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.845590/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Frontiers Insights Into the Processing of Collocations During L2</span><span class="citation-popover-snippet">sights Into the Processing of Collocations During L2...March 30, 2022 — by H Li · 2022 · Cited by 13 — We report an eye movem...</span><span class="citation-popover-meta">Published: March 30, 2022</span></span></span>
+[Eye-tracking]({{ 'eye-tracking/' | relative_url }}) research has found that stronger collocations are generally processed more efficiently than weaker or less familiar combinations. Familiar word partnerships create expectations that reduce the effort required to interpret upcoming text.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.845590/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">Frontiers Insights Into the Processing of Collocations During L2</span><span class="citation-popover-snippet">sights Into the Processing of Collocations During L2...March 30, 2022 — by H Li · 2022 · Cited by 13 — We report an eye movem...</span><span class="citation-popover-meta">Published: March 30, 2022</span></span></span>
 
 For example, when readers encounter "strong evidence", the phrase is processed as a familiar semantic unit. Little interpretation work is required. If the text instead used an unusual combination, readers would need additional time to evaluate whether the phrase makes sense.
 
@@ -377,7 +377,7 @@ All involve presenting information, yet they differ in certainty and evidential 
 
 Readers who understand these distinctions can integrate the author's intended meaning immediately. Readers with weaker knowledge may grasp only a broad approximation and later need to revise their interpretation when subsequent sentences provide additional information.
 
-Reanalysis is expensive. When readers realise that an earlier interpretation was incomplete or incorrect, they often revisit previous text mentally or visually. Skilled readers still do this occasionally, but deep vocabulary knowledge reduces the frequency of such [corrections]({{ 'corrections/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/abs/10.1080/10888430701530730" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineReading Ability: Lexical Quality to Comprehensionby C Perfetti · 2007 · Cited by 3420 — The lexical quality hypoth...</span></span></span>
+Reanalysis is expensive. When readers realise that an earlier interpretation was incomplete or incorrect, they often revisit previous text mentally or visually. Skilled readers still do this occasionally, but deep vocabulary knowledge reduces the frequency of such [corrections]({{ 'corrections/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/abs/10.1080/10888430701530730" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineReading Ability: Lexical Quality to Comprehensionby C Perfetti · 2007 · Cited by 3420 — The lexical quality hypoth...</span></span></span>
 
 In practical terms, richer semantic knowledge prevents small misunderstandings from growing into larger comprehension problems.
 
@@ -399,7 +399,7 @@ When readers repeatedly see a word across different situations, they learn:
 
 </div>
 
-Studies of vocabulary learning and eye movements indicate that familiarity influences how efficiently readers process words in context. As experience accumulates, meaning retrieval becomes more reliable and requires less conscious effort. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://biblio.ugent.be/publication/8589862" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: biblio.ugent.be">[Biblio+2Macquarie University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">biblio.ugent.be</span><span class="citation-popover-snippet">Contextual word learning during reading in a second...by I Elgort · 2018 · Cited by 274 — Monitoring readers&#x27; eye movements provid...</span></span></span>
+Studies of vocabulary learning and eye movements indicate that familiarity influences how efficiently readers process words in context. As experience accumulates, meaning retrieval becomes more reliable and requires less conscious effort.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://biblio.ugent.be/publication/8589862" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: biblio.ugent.be">[Biblio+2Macquarie University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">biblio.ugent.be</span><span class="citation-popover-snippet">Contextual word learning during reading in a second...by I Elgort · 2018 · Cited by 274 — Monitoring readers&#x27; eye movements provid...</span></span></span>
 
 This is one reason experts often read rapidly within their own fields. Years of [exposure]({{ 'exposure/' | relative_url }}) have built detailed knowledge of specialised vocabulary and the contexts in which it appears. Meaning decisions that would slow a novice occur almost automatically for the expert.
 
@@ -423,181 +423,181 @@ A reader who knows a word deeply can:
 
 </div>
 
-These advantages reduce the number and length of processing delays that occur after word recognition. Deep word knowledge therefore acts as a bridge between recognising words and understanding sentences. The result is smoother comprehension, fewer interruptions, and faster reading that remains accurate rather than superficial. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/abs/10.1080/10888430701530730" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online+2Pitt Sites]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineReading Ability: Lexical Quality to Comprehensionby C Perfetti · 2007 · Cited by 3420 — The lexical quality hypoth...</span></span></span>
+These advantages reduce the number and length of processing delays that occur after word recognition. Deep word knowledge therefore acts as a bridge between recognising words and understanding sentences. The result is smoother comprehension, fewer interruptions, and faster reading that remains accurate rather than superficial.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/abs/10.1080/10888430701530730" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online+2Pitt Sites]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineReading Ability: Lexical Quality to Comprehensionby C Perfetti · 2007 · Cited by 3420 — The lexical quality hypoth...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Knowing a Word Is Not Enough. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Knowing a Word Is Not Enough. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bringing+Words+to+Life%2C+Second+Edition+Isabel+L.+Beck%2C+Margaret+G.+McKeown%2C+Linda+Kucan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bringing Words to Life, Second Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8186211-M.jpg" alt="Cover for Bringing Words to Life, Second Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bringing+Words+to+Life%2C+Second+Edition+Isabel+L.+Beck%2C+Margaret+G.+McKeown%2C+Linda+Kucan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bringing Words to Life, Second Edition">Bringing Words to Life, Second Edition</a>
-        </h4>
-        <p class="fr-book-author">By Isabel L. Beck, Margaret G. McKeown, Linda Kucan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bringing+Words+to+Life%2C+Second+Edition+Isabel+L.+Beck%2C+Margaret+G.+McKeown%2C+Linda+Kucan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bringing Words to Life, Second Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8186211-M.jpg" alt="Cover for Bringing Words to Life, Second Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bringing+Words+to+Life%2C+Second+Edition+Isabel+L.+Beck%2C+Margaret+G.+McKeown%2C+Linda+Kucan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bringing Words to Life, Second Edition">Bringing Words to Life, Second Edition</a>
+</h4>
+<p class="fr-book-author">By Isabel L. Beck, Margaret G. McKeown, Linda Kucan</p>
         
-        <p class="fr-book-desc">Directly addresses deep word knowledge, multiple meanings, vocabulary depth, and fluent comprehension.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bringing+Words+to+Life%2C+Second+Edition+Isabel+L.+Beck%2C+Margaret+G.+McKeown%2C+Linda+Kucan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses deep word knowledge, multiple meanings, vocabulary depth, and fluent comprehension.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bringing+Words+to+Life%2C+Second+Edition+Isabel+L.+Beck%2C+Margaret+G.+McKeown%2C+Linda+Kucan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Supports deeper interpretation and meaning extraction during reading.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Supports deeper interpretation and meaning extraction during reading.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Words%2C+Words%2C+Words+Janet+Allen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Words, Words, Words on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/819318-M.jpg" alt="Cover for Words, Words, Words" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Words%2C+Words%2C+Words+Janet+Allen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Words, Words, Words">Words, Words, Words</a>
-        </h4>
-        <p class="fr-book-author">By Janet Allen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Words%2C+Words%2C+Words+Janet+Allen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Words, Words, Words on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/819318-M.jpg" alt="Cover for Words, Words, Words" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Words%2C+Words%2C+Words+Janet+Allen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Words, Words, Words">Words, Words, Words</a>
+</h4>
+<p class="fr-book-author">By Janet Allen</p>
         
-        <p class="fr-book-desc">First published 1999. Subjects: Study and teaching, Language arts, Vocabulary.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Words%2C+Words%2C+Words+Janet+Allen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1999. Subjects: Study and teaching, Language arts, Vocabulary.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Words%2C+Words%2C+Words+Janet+Allen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Vocabulary+Book+Michael+F.+Graves&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Vocabulary Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/590638-M.jpg" alt="Cover for The Vocabulary Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Vocabulary+Book+Michael+F.+Graves&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Vocabulary Book">The Vocabulary Book</a>
-        </h4>
-        <p class="fr-book-author">By Michael F. Graves</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Vocabulary+Book+Michael+F.+Graves&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Vocabulary Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/590638-M.jpg" alt="Cover for The Vocabulary Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Vocabulary+Book+Michael+F.+Graves&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Vocabulary Book">The Vocabulary Book</a>
+</h4>
+<p class="fr-book-author">By Michael F. Graves</p>
         
-        <p class="fr-book-desc">First published 2005. Subjects: Vocabulary, Study and teaching, English language, study and teaching.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Vocabulary+Book+Michael+F.+Graves&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2005. Subjects: Vocabulary, Study and teaching, English language, study and teaching.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Vocabulary+Book+Michael+F.+Graves&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bringing+Words+to+Life%2C+Second+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bringing Words to Life, Second Edition</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Words%2C+Words%2C+Words&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Words, Words, Words</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bringing+Words+to+Life%2C+Second+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bringing Words to Life, Second Edition</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Words%2C+Words%2C+Words&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Words, Words, Words</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=language+learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-depth-why-knowing-a-word-is-not-enough-increasing-language-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language learning poster -book -books" data-ebay-reference="word-depth-why-knowing-a-word-is-not-enough-increasing-language-learning-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for My Arabic Alphabet Poster A3 Learning Teaching Arabic Language Kids Folded"><img src="{{ '/assets/images/marketplace-covers/b52c9882d115aaf9ce1f.jpg' | relative_url }}" alt="Listing image for My Arabic Alphabet Poster A3 Learning Teaching Arabic Language Kids Folded" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=language+learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-depth-why-knowing-a-word-is-not-enough-increasing-language-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language learning poster -book -books" data-ebay-reference="word-depth-why-knowing-a-word-is-not-enough-increasing-language-learning-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">My Arabic Alphabet Poster A3 Learning Teaching Arabic Language Kids Folded</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=language+learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-depth-why-knowing-a-word-is-not-enough-increasing-language-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language learning poster -book -books" data-ebay-reference="word-depth-why-knowing-a-word-is-not-enough-increasing-language-learning-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for language learning poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: language learning poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=language+learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-depth-why-knowing-a-word-is-not-enough-increasing-language-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language learning poster -book -books" data-ebay-reference="word-depth-why-knowing-a-word-is-not-enough-increasing-language-learning-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=language+learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-depth-why-knowing-a-word-is-not-enough-increasing-language-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language learning poster -book -books" data-ebay-reference="word-depth-why-knowing-a-word-is-not-enough-increasing-language-learning-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for My Arabic Alphabet Poster A3 Learning Teaching Arabic Language Kids Folded"><img src="{{ '/assets/images/marketplace-covers/b52c9882d115aaf9ce1f.jpg' | relative_url }}" alt="Listing image for My Arabic Alphabet Poster A3 Learning Teaching Arabic Language Kids Folded" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=language+learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-depth-why-knowing-a-word-is-not-enough-increasing-language-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language learning poster -book -books" data-ebay-reference="word-depth-why-knowing-a-word-is-not-enough-increasing-language-learning-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">My Arabic Alphabet Poster A3 Learning Teaching Arabic Language Kids Folded</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=language+learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-depth-why-knowing-a-word-is-not-enough-increasing-language-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language learning poster -book -books" data-ebay-reference="word-depth-why-knowing-a-word-is-not-enough-increasing-language-learning-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for language learning poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: language learning poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=language+learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-depth-why-knowing-a-word-is-not-enough-increasing-language-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language learning poster -book -books" data-ebay-reference="word-depth-why-knowing-a-word-is-not-enough-increasing-language-learning-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=language+learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-depth-why-knowing-a-word-is-not-enough-increasing-language-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language learning poster -book -books" data-ebay-reference="word-depth-why-knowing-a-word-is-not-enough-increasing-language-learning-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Arabic Alphabet Poster Learning Arabic Poster Alif Baa Language Kids Prints"><img src="{{ '/assets/images/marketplace-covers/9a42a64c2aefb2cd642b.jpg' | relative_url }}" alt="Listing image for Arabic Alphabet Poster Learning Arabic Poster Alif Baa Language Kids Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=language+learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-depth-why-knowing-a-word-is-not-enough-increasing-language-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language learning poster -book -books" data-ebay-reference="word-depth-why-knowing-a-word-is-not-enough-increasing-language-learning-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Arabic Alphabet Poster Learning Arabic Poster Alif Baa Language Kids Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=language+learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-depth-why-knowing-a-word-is-not-enough-increasing-language-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language learning poster -book -books" data-ebay-reference="word-depth-why-knowing-a-word-is-not-enough-increasing-language-learning-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for language learning poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: language learning poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=language+learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-depth-why-knowing-a-word-is-not-enough-increasing-language-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language learning poster -book -books" data-ebay-reference="word-depth-why-knowing-a-word-is-not-enough-increasing-language-learning-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=language+learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-depth-why-knowing-a-word-is-not-enough-increasing-language-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language learning poster -book -books" data-ebay-reference="word-depth-why-knowing-a-word-is-not-enough-increasing-language-learning-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Arabic Alphabet Poster Learning Arabic Poster Alif Baa Language Kids Prints"><img src="{{ '/assets/images/marketplace-covers/9a42a64c2aefb2cd642b.jpg' | relative_url }}" alt="Listing image for Arabic Alphabet Poster Learning Arabic Poster Alif Baa Language Kids Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=language+learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-depth-why-knowing-a-word-is-not-enough-increasing-language-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language learning poster -book -books" data-ebay-reference="word-depth-why-knowing-a-word-is-not-enough-increasing-language-learning-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Arabic Alphabet Poster Learning Arabic Poster Alif Baa Language Kids Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=language+learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-depth-why-knowing-a-word-is-not-enough-increasing-language-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language learning poster -book -books" data-ebay-reference="word-depth-why-knowing-a-word-is-not-enough-increasing-language-learning-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for language learning poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: language learning poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=language+learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-depth-why-knowing-a-word-is-not-enough-increasing-language-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language learning poster -book -books" data-ebay-reference="word-depth-why-knowing-a-word-is-not-enough-increasing-language-learning-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=language+learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-depth-why-knowing-a-word-is-not-enough-increasing-language-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language learning poster -book -books" data-ebay-reference="word-depth-why-knowing-a-word-is-not-enough-increasing-language-learning-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Arabic Alphabet Print Language Learning Chart Poster Print"><img src="{{ '/assets/images/marketplace-covers/a359e7195268f732f4ed.jpg' | relative_url }}" alt="Listing image for Arabic Alphabet Print Language Learning Chart Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=language+learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-depth-why-knowing-a-word-is-not-enough-increasing-language-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language learning poster -book -books" data-ebay-reference="word-depth-why-knowing-a-word-is-not-enough-increasing-language-learning-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Arabic Alphabet Print Language Learning Chart Poster Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=language+learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-depth-why-knowing-a-word-is-not-enough-increasing-language-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language learning poster -book -books" data-ebay-reference="word-depth-why-knowing-a-word-is-not-enough-increasing-language-learning-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for language learning poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: language learning poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=language+learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-depth-why-knowing-a-word-is-not-enough-increasing-language-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language learning poster -book -books" data-ebay-reference="word-depth-why-knowing-a-word-is-not-enough-increasing-language-learning-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=language+learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-depth-why-knowing-a-word-is-not-enough-increasing-language-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language learning poster -book -books" data-ebay-reference="word-depth-why-knowing-a-word-is-not-enough-increasing-language-learning-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=language+learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-depth-why-knowing-a-word-is-not-enough-increasing-language-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language learning poster -book -books" data-ebay-reference="word-depth-why-knowing-a-word-is-not-enough-increasing-language-learning-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Arabic Alphabet Print Language Learning Chart Poster Print"><img src="{{ '/assets/images/marketplace-covers/a359e7195268f732f4ed.jpg' | relative_url }}" alt="Listing image for Arabic Alphabet Print Language Learning Chart Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=language+learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-depth-why-knowing-a-word-is-not-enough-increasing-language-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language learning poster -book -books" data-ebay-reference="word-depth-why-knowing-a-word-is-not-enough-increasing-language-learning-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Arabic Alphabet Print Language Learning Chart Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=language+learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-depth-why-knowing-a-word-is-not-enough-increasing-language-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language learning poster -book -books" data-ebay-reference="word-depth-why-knowing-a-word-is-not-enough-increasing-language-learning-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for language learning poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: language learning poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=language+learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-depth-why-knowing-a-word-is-not-enough-increasing-language-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language learning poster -book -books" data-ebay-reference="word-depth-why-knowing-a-word-is-not-enough-increasing-language-learning-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=language+learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=word-depth-why-knowing-a-word-is-not-enough-increasing-language-learning-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="language learning poster -book -books" data-ebay-reference="word-depth-why-knowing-a-word-is-not-enough-increasing-language-learning-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -613,7 +613,7 @@ These advantages reduce the number and length of processing delays that occur af
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -633,7 +633,7 @@ These advantages reduce the number and length of processing delays that occur af
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -665,7 +665,7 @@ These advantages reduce the number and length of processing delays that occur af
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -717,7 +717,7 @@ These advantages reduce the number and length of processing delays that occur af
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -762,7 +762,7 @@ These advantages reduce the number and length of processing delays that occur af
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -803,157 +803,157 @@ These advantages reduce the number and length of processing delays that occur af
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sites.pitt.edu  
    Title: In what follows, we try to explain.Read more  
-   Link: <a href="https://sites.pitt.edu/~perfetti/PDF/Lexical%20quality%20hypothesis-%20Hart.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sites.pitt.edu/~perfetti/PDF/Lexical%20quality%20hypothesis-%20Hart.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pitt SitesLexical Quality Hypothesisby CA Perfetti · Cited by 1761 — So there it is: Our argument is that skill in reading comprehension...</p></details>
+   Link:<a href="https://sites.pitt.edu/~perfetti/PDF/Lexical%20quality%20hypothesis-%20Hart.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sites.pitt.edu/~perfetti/PDF/Lexical%20quality%20hypothesis-%20Hart.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pitt SitesLexical Quality Hypothesisby CA Perfetti · Cited by 1761 — So there it is: Our argument is that skill in reading comprehension...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: lrdc.pitt.edu  
    Title: Orthographic, phonological, and.Read more  
-   Link: <a href="https://www.lrdc.pitt.edu/perfettilab/pubpdfs/Reading%20Ability%20%28SSR%29%20scanned.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lrdc.pitt.edu/perfettilab/pubpdfs/Reading%20Ability%20%28SSR%29%20scanned.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Learning Research &amp; Development CenterReading Ability: Lexical Quality to Comprehensionby C Perfetti · 2007 · Cited by 3420 — More genera...</p></details>
+   Link:<a href="https://www.lrdc.pitt.edu/perfettilab/pubpdfs/Reading%20Ability%20%28SSR%29%20scanned.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lrdc.pitt.edu/perfettilab/pubpdfs/Reading%20Ability%20%28SSR%29%20scanned.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Learning Research &amp; Development CenterReading Ability: Lexical Quality to Comprehensionby C Perfetti · 2007 · Cited by 3420 — More genera...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: eric.ed.gov  
    Title: ERICReading Ability: Lexical Quality to Comprehension  
-   Link: <a href="https://eric.ed.gov/?id=EJ780930" target="_blank" rel="noopener noreferrer nofollow">https://eric.ed.gov/?id=EJ780930</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by C Perfetti · 2007 · Cited by 3427 — The lexical quality hypothesis (LQH) claims that variation in the quality of word representati...</p></details>
+   Link:<a href="https://eric.ed.gov/?id=EJ780930" target="_blank" rel="noopener noreferrer nofollow">https://eric.ed.gov/?id=EJ780930</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by C Perfetti · 2007 · Cited by 3427 — The lexical quality hypothesis (LQH) claims that variation in the quality of word representati...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/12127304_Learning_New_Word_Meanings_from_Context_A_Study_of_Eye_Movements" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/12127304_Learning_New_Word_Meanings_from_Context_A_Study_of_Eye_Movements</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Learning New Word Meanings From Context: A Study of...January 1, 2001 — This study examined how readers establish the meanin...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/12127304_Learning_New_Word_Meanings_from_Context_A_Study_of_Eye_Movements" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/12127304_Learning_New_Word_Meanings_from_Context_A_Study_of_Eye_Movements</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Learning New Word Meanings From Context: A Study of...January 1, 2001 — This study examined how readers establish the meanin...</p></details>
    Published: January 1, 2001  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Eye movement in reading  
-   Link: <a href="https://en.wikipedia.org/wiki/Eye_movement_in_reading" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eye_movement_in_reading</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Eye_movement_in_reading" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Eye_movement_in_reading</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sites.pitt.edu  
    Title: In what follows, we try to explain.Read more  
-   Link: <a href="https://sites.pitt.edu/~perfetti/PDF/Lexical%20quality%20hypothesis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sites.pitt.edu/~perfetti/PDF/Lexical%20quality%20hypothesis.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Quality Hypothesisby CA Perfetti · Cited by 1751 — So there it is: Our argument is that skill in reading comprehension rests to a conside...</p></details>
+   Link:<a href="https://sites.pitt.edu/~perfetti/PDF/Lexical%20quality%20hypothesis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sites.pitt.edu/~perfetti/PDF/Lexical%20quality%20hypothesis.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Quality Hypothesisby CA Perfetti · Cited by 1751 — So there it is: Our argument is that skill in reading comprehension rests to a conside...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
    Title: The lexical quality hypothesis | Request PDF  
-   Link: <a href="https://www.researchgate.net/publication/286433386_The_lexical_quality_hypothesis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/286433386_The_lexical_quality_hypothesis</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/286433386_The_lexical_quality_hypothesis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/286433386_The_lexical_quality_hypothesis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/254312976_Reading_Ability_Lexical_Quality_to_Comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/254312976_Reading_Ability_Lexical_Quality_to_Comprehension</a>  
+   Link:<a href="https://www.researchgate.net/publication/254312976_Reading_Ability_Lexical_Quality_to_Comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/254312976_Reading_Ability_Lexical_Quality_to_Comprehension</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Content word  
-   Link: <a href="https://en.wikipedia.org/wiki/Content_word" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Content_word</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Content word - WikipediaWhat Does It Mean To Know A Word? - The Literacy Architects...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Content_word" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Content_word</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Content word - WikipediaWhat Does It Mean To Know A Word? - The Literacy Architects...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: lexical.dev  
-   Link: <a href="https://lexical.dev/" target="_blank" rel="noopener noreferrer nofollow">https://lexical.dev/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lexical is a lean text editor framework. It is very lightweight, and exposes a set of modular packages that can be used to add com...</p></details>
+   Link:<a href="https://lexical.dev/" target="_blank" rel="noopener noreferrer nofollow">https://lexical.dev/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lexical is a lean text editor framework. It is very lightweight, and exposes a set of modular packages that can be used to add com...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=dJMl-dVQW0Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dJMl-dVQW0Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Brain&#x27;s Challenge: Processing: What Eye Movements During Reading Reveal About Processing Speed...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=dJMl-dVQW0Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dJMl-dVQW0Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Brain&#x27;s Challenge: Processing: What Eye Movements During Reading Reveal About Processing Speed...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Exploring vocabulary (secondary reading CPD)  
-   Link: <a href="https://www.youtube.com/watch?v=SV-4CPJXdtA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SV-4CPJXdtA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Perfetti - What is it like to be underwater in reading? - YouTube Perfetti - What is it like to be underwater in reading? - YouTube...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=SV-4CPJXdtA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SV-4CPJXdtA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Perfetti - What is it like to be underwater in reading? - YouTube Perfetti - What is it like to be underwater in reading? - YouTube...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/10888430701530730" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/10888430701530730</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineReading Ability: Lexical Quality to Comprehensionby C Perfetti · 2007 · Cited by 3420 — The lexical quality hypoth...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/abs/10.1080/10888430701530730" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/10888430701530730</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineReading Ability: Lexical Quality to Comprehensionby C Perfetti · 2007 · Cited by 3420 — The lexical quality hypoth...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: frontiersin.org  
    Title: Frontiers Insights Into the Processing of Collocations During L2  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.845590/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.845590/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>sights Into the Processing of Collocations During L2...March 30, 2022 — by H Li · 2022 · Cited by 13 — We report an eye movem...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.845590/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.845590/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sights Into the Processing of Collocations During L2...March 30, 2022 — by H Li · 2022 · Cited by 13 — We report an eye movem...</p></details>
    Published: March 30, 2022  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/23273798.2021.1922726" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/23273798.2021.1922726</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineIndependent effects of collocation strength and contextual...by H Li · 2021 · Cited by 24 — Eye movements are sen...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/23273798.2021.1922726" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/23273798.2021.1922726</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineIndependent effects of collocation strength and contextual...by H Li · 2021 · Cited by 24 — Eye movements are sen...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: biblio.ugent.be  
-   Link: <a href="https://biblio.ugent.be/publication/8589862" target="_blank" rel="noopener noreferrer nofollow">https://biblio.ugent.be/publication/8589862</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Contextual word learning during reading in a second...by I Elgort · 2018 · Cited by 274 — Monitoring readers&#x27; eye movements provid...</p></details>
+   Link:<a href="https://biblio.ugent.be/publication/8589862" target="_blank" rel="noopener noreferrer nofollow">https://biblio.ugent.be/publication/8589862</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Contextual word learning during reading in a second...by I Elgort · 2018 · Cited by 274 — Monitoring readers&#x27; eye movements provid...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchers.mq.edu.au  
    Title: Macquarie University Do reading times predict word learning?  
-   Link: <a href="https://researchers.mq.edu.au/files/409964595/393260565.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchers.mq.edu.au/files/409964595/393260565.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An eye–tracking...by I Elgort · 2024 · Cited by 9 — Our findings call for a cautious approach in making causative links between eye–move...</p></details>
+   Link:<a href="https://researchers.mq.edu.au/files/409964595/393260565.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchers.mq.edu.au/files/409964595/393260565.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An eye–tracking...by I Elgort · 2024 · Cited by 9 — Our findings call for a cautious approach in making causative links between eye–move...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/13670050.2024.2317860" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/13670050.2024.2317860</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How lexical quality predicts L2 reading comprehension in...by H Kwakkel · 2024 · Cited by 8 — This study investigated the impact of seco...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/13670050.2024.2317860" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/13670050.2024.2317860</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How lexical quality predicts L2 reading comprehension in...by H Kwakkel · 2024 · Cited by 8 — This study investigated the impact of seco...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: direct.mit.edu  
-   Link: <a href="https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00084/116138/Eye-Movement-Traces-of-Linguistic-Knowledge-in" target="_blank" rel="noopener noreferrer nofollow">https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00084/116138/Eye-Movement-Traces-of-Linguistic-Knowledge-in</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT DirectEye Movement Traces of Linguistic Knowledge in Native...Here we present a detailed analysis of the quantitative functional inf...</p></details>
+   Link:<a href="https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00084/116138/Eye-Movement-Traces-of-Linguistic-Knowledge-in" target="_blank" rel="noopener noreferrer nofollow">https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00084/116138/Eye-Movement-Traces-of-Linguistic-Knowledge-in</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MIT DirectEye Movement Traces of Linguistic Knowledge in Native...Here we present a detailed analysis of the quantitative functional inf...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: github.com  
-   Link: <a href="https://github.com/facebook/lexical" target="_blank" rel="noopener noreferrer nofollow">https://github.com/facebook/lexical</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Works with any UI framework, with official React bindings · Reliable &amp; Accessible - Built-in accessibility support and WCAG...Read more...</p></details>
+   Link:<a href="https://github.com/facebook/lexical" target="_blank" rel="noopener noreferrer nofollow">https://github.com/facebook/lexical</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Works with any UI framework, with official React bindings · Reliable &amp; Accessible - Built-in accessibility support and WCAG...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe influence of contextual diversity on eye movements  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4040263/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4040263/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by P Plummer · 2013 · Cited by 97 — An eye-movement experiment was conducted wherein the effects of word-frequency and contextual dive...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4040263/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4040263/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by P Plummer · 2013 · Cited by 97 — An eye-movement experiment was conducted wherein the effects of word-frequency and contextual dive...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: science.gov  
-   Link: <a href="https://www.science.gov/topicpages/l/lexical%2Bquality%2Bhypothesis" target="_blank" rel="noopener noreferrer nofollow">https://www.science.gov/topicpages/l/lexical%2Bquality%2Bhypothesis</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>out vocabulary instruction in terms of semantics (meaning)...Read more...</p></details>
+   Link:<a href="https://www.science.gov/topicpages/l/lexical%2Bquality%2Bhypothesis" target="_blank" rel="noopener noreferrer nofollow">https://www.science.gov/topicpages/l/lexical%2Bquality%2Bhypothesis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>out vocabulary instruction in terms of semantics (meaning)...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: studocu.vn  
-   Link: <a href="https://www.studocu.vn/vn/document/dai-hoc-su-pham-ha-noi/giao-duc-tieu-hoc/reading-ability-lexical-quality-and-comprehension-insights-sci-101/157050424" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.vn/vn/document/dai-hoc-su-pham-ha-noi/giao-duc-tieu-hoc/reading-ability-lexical-quality-and-comprehension-insights-sci-101/157050424</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>lity of word representations significantly impacts reading skills and...Read more...</p></details>
+   Link:<a href="https://www.studocu.vn/vn/document/dai-hoc-su-pham-ha-noi/giao-duc-tieu-hoc/reading-ability-lexical-quality-and-comprehension-insights-sci-101/157050424" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.vn/vn/document/dai-hoc-su-pham-ha-noi/giao-duc-tieu-hoc/reading-ability-lexical-quality-and-comprehension-insights-sci-101/157050424</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lity of word representations significantly impacts reading skills and...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: ejmste.com  
    Title: Journal of Research in Reading.Read m  
-   Link: <a href="https://www.ejmste.com/download/processing-academic-science-reading-texts-through-context-effects-evidence-from-eye-movements-4689.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ejmste.com/download/processing-academic-science-reading-texts-through-context-effects-evidence-from-eye-movements-4689.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>S Or-Kan · 2016 · Cited by 20 — Investigating the effects of [background](&amp;#123;&amp;#123; &#x27;expertise/&#x27; | relative_url &amp;#125;&amp;#125;) knowledg...</p></details>
+   Link:<a href="https://www.ejmste.com/download/processing-academic-science-reading-texts-through-context-effects-evidence-from-eye-movements-4689.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ejmste.com/download/processing-academic-science-reading-texts-through-context-effects-evidence-from-eye-movements-4689.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>S Or-Kan · 2016 · Cited by 20 — Investigating the effects of [background](&amp;#123;&amp;#123; &#x27;expertise/&#x27; | relative_url &amp;#125;&amp;#125;) knowledg...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: theliteracyarchitects.com  
-   Link: <a href="https://www.theliteracyarchitects.com/what-does-it-mean-to-know-a-word/" target="_blank" rel="noopener noreferrer nofollow">https://www.theliteracyarchitects.com/what-does-it-mean-to-know-a-word/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>o their reading proficiency (Perfetti, 2007).Read more...</p></details>
+   Link:<a href="https://www.theliteracyarchitects.com/what-does-it-mean-to-know-a-word/" target="_blank" rel="noopener noreferrer nofollow">https://www.theliteracyarchitects.com/what-does-it-mean-to-know-a-word/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>o their reading proficiency (Perfetti, 2007).Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: dev.taleafrica.com  
-   Link: <a href="https://dev.taleafrica.com/2021/03/29/word-knowledge-in-a-theory-of-reading-comprehension/" target="_blank" rel="noopener noreferrer nofollow">https://dev.taleafrica.com/2021/03/29/word-knowledge-in-a-theory-of-reading-comprehension/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>eTALE AfricaWord Knowledge in a Theory of Reading ComprehensionMar 29, 2021 — The Lexical Quality Hypothesis assumes that word knowledge...</p></details>
+   Link:<a href="https://dev.taleafrica.com/2021/03/29/word-knowledge-in-a-theory-of-reading-comprehension/" target="_blank" rel="noopener noreferrer nofollow">https://dev.taleafrica.com/2021/03/29/word-knowledge-in-a-theory-of-reading-comprehension/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>eTALE AfricaWord Knowledge in a Theory of Reading ComprehensionMar 29, 2021 — The Lexical Quality Hypothesis assumes that word knowledge...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=zQmf5TkJrJ8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zQmf5TkJrJ8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Read Faster (Tip #5) Vocabulary &amp; Knowledge...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=zQmf5TkJrJ8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zQmf5TkJrJ8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Read Faster (Tip #5) Vocabulary &amp; Knowledge...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: The Children of the Code Project  
-   Link: <a href="http://www.youtube.com/watch?v=frMZr8tJGPI&amp;feature=plcp" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=frMZr8tJGPI&amp;feature=plcp</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In this dialogue segment from our interview with Dr. Charles Perfetti we explore what it means to &#x27;read below proficiency&#x27; and talk about...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=frMZr8tJGPI&amp;feature=plcp" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=frMZr8tJGPI&amp;feature=plcp</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In this dialogue segment from our interview with Dr. Charles Perfetti we explore what it means to &#x27;read below proficiency&#x27; and talk about...</p></details>

@@ -294,7 +294,7 @@ image: /assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_purpose_setti_67
 
 ## Introduction
 
-A skim becomes useful only when it has a job to do. If your goal is simply “read this quickly”, your attention has no filter and every paragraph competes for equal importance. If your goal is “find the main claim”, “decide whether this source is relevant”, or “identify the evidence behind the conclusion”, [skimming]({{ 'skimming/' | relative_url }}) becomes a targeted search rather than hurried reading. Research on reading strategies consistently shows that readers perform better when they approach a text with a clear task or question, because the task guides attention toward relevant information and away from low-value detail. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.eric.ed.gov/fulltext/EJ1232383.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.eric.ed.gov">[ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.eric.ed.gov</span><span class="citation-popover-snippet">ERICSelective attention of L2 learners in task-based reading...by C Prichard · 2019 · Cited by 11 — Readers utilizing selective attentio...</span></span></span>
+A skim becomes useful only when it has a job to do. If your goal is simply “read this quickly”, your attention has no filter and every paragraph competes for equal importance. If your goal is “find the main claim”, “decide whether this source is relevant”, or “identify the evidence behind the conclusion”, [skimming]({{ 'skimming/' | relative_url }}) becomes a targeted search rather than hurried reading. Research on reading strategies consistently shows that readers perform better when they approach a text with a clear task or question, because the task guides attention toward relevant information and away from low-value detail.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.eric.ed.gov/fulltext/EJ1232383.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.eric.ed.gov">[ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.eric.ed.gov</span><span class="citation-popover-snippet">ERICSelective attention of L2 learners in task-based reading...by C Prichard · 2019 · Cited by 11 — Readers utilizing selective attentio...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_purpose_setti_6717ce-Illustration-1-dark.svg" | relative_url }}" alt="Set purpose illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_purpose_setti_6717ce-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_purpose_setti_6717ce-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -317,7 +317,7 @@ A useful skim question is specific and limited:
 
 </div>
 
-Notice that none of these questions asks for complete understanding. That is deliberate. Skimming is designed to support decisions, not replace comprehension. Guides to skimming consistently describe it as a selective method for extracting main ideas and obtaining an overview rather than mastering details. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://learningcenter.unc.edu/tips-and-tools/skimming/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learningcenter.unc.edu">[The Learning Center+2Butte-Glenn Community College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learningcenter.unc.edu</span><span class="citation-popover-title">The Learning Center Skimming</span><span class="citation-popover-snippet">The Learning CenterSkimming - UNC Learning CenterSkimming is a strategic, selective reading method in which you focus on the main ideas o...</span></span></span>
+Notice that none of these questions asks for complete understanding. That is deliberate. Skimming is designed to support decisions, not replace comprehension. Guides to skimming consistently describe it as a selective method for extracting main ideas and obtaining an overview rather than mastering details.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://learningcenter.unc.edu/tips-and-tools/skimming/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learningcenter.unc.edu">[The Learning Center+2Butte-Glenn Community College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learningcenter.unc.edu</span><span class="citation-popover-title">The Learning Center Skimming</span><span class="citation-popover-snippet">The Learning CenterSkimming - UNC Learning CenterSkimming is a strategic, selective reading method in which you focus on the main ideas o...</span></span></span>
 
 Consider the difference between two readers opening the same article about nutrition:
 
@@ -331,7 +331,7 @@ Reader B immediately knows where to look: the introduction, evidence sections, f
 
 ### Why questions improve speed
 
-Reading research often describes skilled readers as goal-directed. They monitor whether the text is helping them answer the task they began with and adjust attention accordingly. Purpose acts as a filter for what deserves processing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.eric.ed.gov/fulltext/EJ1232383.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.eric.ed.gov">[ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.eric.ed.gov</span><span class="citation-popover-snippet">ERICSelective attention of L2 learners in task-based reading...by C Prichard · 2019 · Cited by 11 — Readers utilizing selective attentio...</span></span></span>
+Reading research often describes skilled readers as goal-directed. They monitor whether the text is helping them answer the task they began with and adjust attention accordingly. Purpose acts as a filter for what deserves processing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.eric.ed.gov/fulltext/EJ1232383.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.eric.ed.gov">[ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.eric.ed.gov</span><span class="citation-popover-snippet">ERICSelective attention of L2 learners in task-based reading...by C Prichard · 2019 · Cited by 11 — Readers utilizing selective attentio...</span></span></span>
 
 Without a question, skimming tends to drift. Readers may spend time on vivid examples, anecdotes, or side points simply because those sections are interesting. A clear question prevents this kind of accidental [slow reading]({{ 'slow-reading/' | relative_url }}).
 
@@ -343,7 +343,7 @@ A practical way to think about skimming is as a decision stage.
 
 PurposeWhat to inspectWhen to stopGet the gistTitle, headings, introduction, conclusionWhen you can summarise the central idea in one or two sentencesCheck relevanceHeadings, summaries, key examplesWhen you can decide whether further reading is worthwhileFind evidenceData, figures, tables, citations, results sectionsWhen you know what evidence exists and how strong it appearsLocate an answerKeywords, topic sentences, highlighted termsWhen the specific question is answeredPrepare for deep readingStructure, major claims, section relationshipsWhen you have a mental map of the text
 
-This approach aligns with the long-standing distinction between skimming for overview and more detailed reading for understanding. Effective readers shift methods depending on their goals rather than treating reading as a single activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.butte.edu/departments/cas/tipsheets/readingstrategies/skimming_scanning.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: butte.edu">[Butte-Glenn Community College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">butte.edu</span><span class="citation-popover-title">Glenn Community College Skimming and Scanning</span><span class="citation-popover-snippet">Scanning is reading rapidly in order to find specific facts. While skimming...Read more...</span></span></span>
+This approach aligns with the long-standing distinction between skimming for overview and more detailed reading for understanding. Effective readers shift methods depending on their goals rather than treating reading as a single activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.butte.edu/departments/cas/tipsheets/readingstrategies/skimming_scanning.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: butte.edu">[Butte-Glenn Community College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">butte.edu</span><span class="citation-popover-title">Glenn Community College Skimming and Scanning</span><span class="citation-popover-snippet">Scanning is reading rapidly in order to find specific facts. While skimming...Read more...</span></span></span>
 
 A useful test is to ask: “What decision will I make after this skim?” If there is no decision, the purpose is probably too vague.
 
@@ -379,7 +379,7 @@ A skim usually cannot reliably reveal:
 
 </div>
 
-This distinction matters because familiarity can feel like understanding. Seeing headings, keywords, and conclusions creates a sense of recognition that may exceed actual comprehension. Reading researchers regularly distinguish between locating information and constructing a deep understanding of a text, which requires slower integration of ideas across sections. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/0163853X.2026.2623401?af=R" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineFull article: The Role of pre-reading task instructions in...Feb 19, 2026 — In this systematic review, we investi...</span></span></span>
+This distinction matters because familiarity can feel like understanding. Seeing headings, keywords, and conclusions creates a sense of recognition that may exceed actual comprehension. Reading researchers regularly distinguish between locating information and constructing a deep understanding of a text, which requires slower integration of ideas across sections.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/0163853X.2026.2623401?af=R" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online+2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineFull article: The Role of pre-reading task instructions in...Feb 19, 2026 — In this systematic review, we investi...</span></span></span>
 
 An honest reader therefore ends a skim with a limited conclusion:
 
@@ -416,184 +416,184 @@ Before moving your eyes across the page, spend a few seconds establishing the ta
 
 </div>
 
-This routine may feel slower at first because it adds a deliberate step [before reading]({{ 'before-reading/' | relative_url }}). In [practice]({{ 'practice/' | relative_url }}), it often saves time by preventing aimless scanning and unnecessary rereading. Skimming works best not when the reader moves fastest, but when the reader knows exactly what answer they are trying to find. teachenglishinkorea.org+3The Learning Center+3smekenseducation.com <span class="citation-link-wrap"><a class="citation-inline-link" href="https://learningcenter.unc.edu/tips-and-tools/skimming/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learningcenter.unc.edu">[learningcenter.unc.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learningcenter.unc.edu</span><span class="citation-popover-title">The Learning Center Skimming</span><span class="citation-popover-snippet">The Learning CenterSkimming - UNC Learning CenterSkimming is a strategic, selective reading method in which you focus on the main ideas o...</span></span></span>
+This routine may feel slower at first because it adds a deliberate step [before reading]({{ 'before-reading/' | relative_url }}). In [practice]({{ 'practice/' | relative_url }}), it often saves time by preventing aimless scanning and unnecessary rereading. Skimming works best not when the reader moves fastest, but when the reader knows exactly what answer they are trying to find. teachenglishinkorea.org+3The Learning Center+3smekenseducation.com<span class="citation-link-wrap"><a class="citation-inline-link" href="https://learningcenter.unc.edu/tips-and-tools/skimming/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learningcenter.unc.edu">[learningcenter.unc.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learningcenter.unc.edu</span><span class="citation-popover-title">The Learning Center Skimming</span><span class="citation-popover-snippet">The Learning CenterSkimming - UNC Learning CenterSkimming is a strategic, selective reading method in which you focus on the main ideas o...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_purpose_setti_6717ce-Illustration-3-dark.svg" | relative_url }}" alt="Set purpose illustration 3" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_purpose_setti_6717ce-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_purpose_setti_6717ce-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What should a skim prove before you start?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What should a skim prove before you start?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Directly addresses setting a reading purpose and deciding what a skim should accomplish.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Directly addresses setting a reading purpose and deciding what a skim should accomplish.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-        </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+</h4>
+<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Explains how purposeful learning beats passive exposure.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how purposeful learning beats passive exposure.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ultralearning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jyV2DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ultralearning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ultralearning">Ultralearning</a>
-        </h4>
-        <p class="fr-book-author">By Scott H. Young</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ultralearning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jyV2DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ultralearning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ultralearning">Ultralearning</a>
+</h4>
+<p class="fr-book-author">By Scott H. Young</p>
         
-        <p class="fr-book-desc">Emphasizes defining objectives before consuming information.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes defining objectives before consuming information.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Supports the idea that reading goals should match decision needs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports the idea that reading goals should match decision needs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ultralearning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ultralearning</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ultralearning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ultralearning</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=set-purpose-what-should-a-skim-prove-before-you-start-increasing-book-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book annotation kit" data-ebay-reference="set-purpose-what-should-a-skim-prove-before-you-start-increasing-book-annotation-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pastel Highlighter Tape Kit - 10 Removable Rolls for Effortless Book Annotation"><img src="{{ '/assets/images/marketplace-covers/a91b3a7fec623741e18c.jpg' | relative_url }}" alt="Listing image for Pastel Highlighter Tape Kit - 10 Removable Rolls for Effortless Book Annotation" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=set-purpose-what-should-a-skim-prove-before-you-start-increasing-book-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book annotation kit" data-ebay-reference="set-purpose-what-should-a-skim-prove-before-you-start-increasing-book-annotation-kit" target="_blank" rel="sponsored noopener noreferrer">Pastel Highlighter Tape Kit - 10 Removable Rolls for Effortless Book Annotation</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=set-purpose-what-should-a-skim-prove-before-you-start-increasing-book-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book annotation kit" data-ebay-reference="set-purpose-what-should-a-skim-prove-before-you-start-increasing-book-annotation-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for book annotation kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: book annotation kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=set-purpose-what-should-a-skim-prove-before-you-start-increasing-book-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book annotation kit" data-ebay-reference="set-purpose-what-should-a-skim-prove-before-you-start-increasing-book-annotation-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=set-purpose-what-should-a-skim-prove-before-you-start-increasing-book-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book annotation kit" data-ebay-reference="set-purpose-what-should-a-skim-prove-before-you-start-increasing-book-annotation-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pastel Highlighter Tape Kit - 10 Removable Rolls for Effortless Book Annotation"><img src="{{ '/assets/images/marketplace-covers/a91b3a7fec623741e18c.jpg' | relative_url }}" alt="Listing image for Pastel Highlighter Tape Kit - 10 Removable Rolls for Effortless Book Annotation" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=set-purpose-what-should-a-skim-prove-before-you-start-increasing-book-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book annotation kit" data-ebay-reference="set-purpose-what-should-a-skim-prove-before-you-start-increasing-book-annotation-kit" target="_blank" rel="sponsored noopener noreferrer">Pastel Highlighter Tape Kit - 10 Removable Rolls for Effortless Book Annotation</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=set-purpose-what-should-a-skim-prove-before-you-start-increasing-book-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book annotation kit" data-ebay-reference="set-purpose-what-should-a-skim-prove-before-you-start-increasing-book-annotation-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for book annotation kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: book annotation kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=set-purpose-what-should-a-skim-prove-before-you-start-increasing-book-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book annotation kit" data-ebay-reference="set-purpose-what-should-a-skim-prove-before-you-start-increasing-book-annotation-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=set-purpose-what-should-a-skim-prove-before-you-start-increasing-book-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book annotation kit" data-ebay-reference="set-purpose-what-should-a-skim-prove-before-you-start-increasing-book-annotation-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Book Annotation Kit A Selection of Semipermanent Marking Tools"><img src="{{ '/assets/images/marketplace-covers/69762bec20bd95818b71.jpg' | relative_url }}" alt="Listing image for Book Annotation Kit A Selection of Semipermanent Marking Tools" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=set-purpose-what-should-a-skim-prove-before-you-start-increasing-book-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book annotation kit" data-ebay-reference="set-purpose-what-should-a-skim-prove-before-you-start-increasing-book-annotation-kit" target="_blank" rel="sponsored noopener noreferrer">Book Annotation Kit A Selection of Semipermanent Marking Tools</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=set-purpose-what-should-a-skim-prove-before-you-start-increasing-book-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book annotation kit" data-ebay-reference="set-purpose-what-should-a-skim-prove-before-you-start-increasing-book-annotation-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for book annotation kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: book annotation kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=set-purpose-what-should-a-skim-prove-before-you-start-increasing-book-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book annotation kit" data-ebay-reference="set-purpose-what-should-a-skim-prove-before-you-start-increasing-book-annotation-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=set-purpose-what-should-a-skim-prove-before-you-start-increasing-book-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book annotation kit" data-ebay-reference="set-purpose-what-should-a-skim-prove-before-you-start-increasing-book-annotation-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Book Annotation Kit A Selection of Semipermanent Marking Tools"><img src="{{ '/assets/images/marketplace-covers/69762bec20bd95818b71.jpg' | relative_url }}" alt="Listing image for Book Annotation Kit A Selection of Semipermanent Marking Tools" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=set-purpose-what-should-a-skim-prove-before-you-start-increasing-book-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book annotation kit" data-ebay-reference="set-purpose-what-should-a-skim-prove-before-you-start-increasing-book-annotation-kit" target="_blank" rel="sponsored noopener noreferrer">Book Annotation Kit A Selection of Semipermanent Marking Tools</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=set-purpose-what-should-a-skim-prove-before-you-start-increasing-book-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book annotation kit" data-ebay-reference="set-purpose-what-should-a-skim-prove-before-you-start-increasing-book-annotation-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for book annotation kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: book annotation kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=set-purpose-what-should-a-skim-prove-before-you-start-increasing-book-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book annotation kit" data-ebay-reference="set-purpose-what-should-a-skim-prove-before-you-start-increasing-book-annotation-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=set-purpose-what-should-a-skim-prove-before-you-start-increasing-book-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book annotation kit" data-ebay-reference="set-purpose-what-should-a-skim-prove-before-you-start-increasing-book-annotation-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Book Annotation Kit Gift Box for Her – Reading Stationery Book Lover Gift"><img src="{{ '/assets/images/marketplace-covers/c9f2afef04f776aa2135.jpg' | relative_url }}" alt="Listing image for Book Annotation Kit Gift Box for Her – Reading Stationery Book Lover Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=set-purpose-what-should-a-skim-prove-before-you-start-increasing-book-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book annotation kit" data-ebay-reference="set-purpose-what-should-a-skim-prove-before-you-start-increasing-book-annotation-kit" target="_blank" rel="sponsored noopener noreferrer">Book Annotation Kit Gift Box for Her – Reading Stationery Book Lover Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=set-purpose-what-should-a-skim-prove-before-you-start-increasing-book-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book annotation kit" data-ebay-reference="set-purpose-what-should-a-skim-prove-before-you-start-increasing-book-annotation-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for book annotation kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: book annotation kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=set-purpose-what-should-a-skim-prove-before-you-start-increasing-book-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book annotation kit" data-ebay-reference="set-purpose-what-should-a-skim-prove-before-you-start-increasing-book-annotation-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=set-purpose-what-should-a-skim-prove-before-you-start-increasing-book-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book annotation kit" data-ebay-reference="set-purpose-what-should-a-skim-prove-before-you-start-increasing-book-annotation-kit" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=set-purpose-what-should-a-skim-prove-before-you-start-increasing-book-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book annotation kit" data-ebay-reference="set-purpose-what-should-a-skim-prove-before-you-start-increasing-book-annotation-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Book Annotation Kit Gift Box for Her – Reading Stationery Book Lover Gift"><img src="{{ '/assets/images/marketplace-covers/c9f2afef04f776aa2135.jpg' | relative_url }}" alt="Listing image for Book Annotation Kit Gift Box for Her – Reading Stationery Book Lover Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=set-purpose-what-should-a-skim-prove-before-you-start-increasing-book-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book annotation kit" data-ebay-reference="set-purpose-what-should-a-skim-prove-before-you-start-increasing-book-annotation-kit" target="_blank" rel="sponsored noopener noreferrer">Book Annotation Kit Gift Box for Her – Reading Stationery Book Lover Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=set-purpose-what-should-a-skim-prove-before-you-start-increasing-book-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book annotation kit" data-ebay-reference="set-purpose-what-should-a-skim-prove-before-you-start-increasing-book-annotation-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for book annotation kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: book annotation kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=book+annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=set-purpose-what-should-a-skim-prove-before-you-start-increasing-book-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book annotation kit" data-ebay-reference="set-purpose-what-should-a-skim-prove-before-you-start-increasing-book-annotation-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=book+annotation+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=set-purpose-what-should-a-skim-prove-before-you-start-increasing-book-annotation-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="book annotation kit" data-ebay-reference="set-purpose-what-should-a-skim-prove-before-you-start-increasing-book-annotation-kit" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -609,7 +609,7 @@ This routine may feel slower at first because it adds a deliberate step [before 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -629,7 +629,7 @@ This routine may feel slower at first because it adds a deliberate step [before 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -661,7 +661,7 @@ This routine may feel slower at first because it adds a deliberate step [before 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -713,7 +713,7 @@ This routine may feel slower at first because it adds a deliberate step [before 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -758,7 +758,7 @@ This routine may feel slower at first because it adds a deliberate step [before 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -799,102 +799,102 @@ This routine may feel slower at first because it adds a deliberate step [before 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: files.eric.ed.gov  
-   Link: <a href="https://files.eric.ed.gov/fulltext/EJ1232383.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/EJ1232383.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ERICSelective attention of L2 learners in task-based reading...by C Prichard · 2019 · Cited by 11 — Readers utilizing selective attentio...</p></details>
+   Link:<a href="https://files.eric.ed.gov/fulltext/EJ1232383.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/EJ1232383.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ERICSelective attention of L2 learners in task-based reading...by C Prichard · 2019 · Cited by 11 — Readers utilizing selective attentio...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: butte.edu  
    Title: Glenn Community College Skimming and [Scanning](&#123;&#123; 'scanning-vs-reading/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.butte.edu/departments/cas/tipsheets/readingstrategies/skimming_scanning.html" target="_blank" rel="noopener noreferrer nofollow">https://www.butte.edu/departments/cas/tipsheets/readingstrategies/skimming_scanning.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Scanning is reading rapidly in order to find specific facts. While skimming...Read more...</p></details>
+   Link:<a href="https://www.butte.edu/departments/cas/tipsheets/readingstrategies/skimming_scanning.html" target="_blank" rel="noopener noreferrer nofollow">https://www.butte.edu/departments/cas/tipsheets/readingstrategies/skimming_scanning.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scanning is reading rapidly in order to find specific facts. While skimming...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv What Makes Reading Comprehension Questions Easier?  
-   Link: <a href="https://arxiv.org/abs/1808.09384" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1808.09384</a>  
+   Link:<a href="https://arxiv.org/abs/1808.09384" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1808.09384</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1808.04926" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1808.04926</a>  
+   Link:<a href="https://arxiv.org/abs/1808.04926" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1808.04926</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: smekenseducation.com  
-   Link: <a href="https://www.smekenseducation.com/teach-readers-how-to-skim-long-texts/" target="_blank" rel="noopener noreferrer nofollow">https://www.smekenseducation.com/teach-readers-how-to-skim-long-texts/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Teach readers how to skim long textsSkimming is not reading faster; it&#x27;s reading more efficiently. Skimming in reading involves reading k...</p></details>
+   Link:<a href="https://www.smekenseducation.com/teach-readers-how-to-skim-long-texts/" target="_blank" rel="noopener noreferrer nofollow">https://www.smekenseducation.com/teach-readers-how-to-skim-long-texts/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Teach readers how to skim long textsSkimming is not reading faster; it&#x27;s reading more efficiently. Skimming in reading involves reading k...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: teachenglishinkorea.org  
    Title: teaching reading skills through skimming and scanning techniques  
-   Link: <a href="https://www.teachenglishinkorea.org/post/teaching-reading-skills-through-skimming-and-scanning-techniques" target="_blank" rel="noopener noreferrer nofollow">https://www.teachenglishinkorea.org/post/teaching-reading-skills-through-skimming-and-scanning-techniques</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This post explains how TEFL...Read more...</p></details>
+   Link:<a href="https://www.teachenglishinkorea.org/post/teaching-reading-skills-through-skimming-and-scanning-techniques" target="_blank" rel="noopener noreferrer nofollow">https://www.teachenglishinkorea.org/post/teaching-reading-skills-through-skimming-and-scanning-techniques</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This post explains how TEFL...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/0163853X.2026.2623401?af=R" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/0163853X.2026.2623401?af=R</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineFull article: The Role of pre-reading task instructions in...Feb 19, 2026 — In this systematic review, we investi...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/0163853X.2026.2623401?af=R" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/0163853X.2026.2623401?af=R</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineFull article: The Role of pre-reading task instructions in...Feb 19, 2026 — In this systematic review, we investi...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: learningcenter.unc.edu  
    Title: The Learning Center Skimming  
-   Link: <a href="https://learningcenter.unc.edu/tips-and-tools/skimming/" target="_blank" rel="noopener noreferrer nofollow">https://learningcenter.unc.edu/tips-and-tools/skimming/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Learning CenterSkimming - UNC Learning CenterSkimming is a strategic, selective reading method in which you focus on the main ideas o...</p></details>
+   Link:<a href="https://learningcenter.unc.edu/tips-and-tools/skimming/" target="_blank" rel="noopener noreferrer nofollow">https://learningcenter.unc.edu/tips-and-tools/skimming/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Learning CenterSkimming - UNC Learning CenterSkimming is a strategic, selective reading method in which you focus on the main ideas o...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: margotnote.com  
    Title: reading strategies  
-   Link: <a href="https://www.margotnote.com/blog/reading-strategies" target="_blank" rel="noopener noreferrer nofollow">https://www.margotnote.com/blog/reading-strategies</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Skimming means quick reading—faster than your normal reading speed. The aim is to take in chunks of information and make connections...R...</p></details>
+   Link:<a href="https://www.margotnote.com/blog/reading-strategies" target="_blank" rel="noopener noreferrer nofollow">https://www.margotnote.com/blog/reading-strategies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skimming means quick reading—faster than your normal reading speed. The aim is to take in chunks of information and make connections...R...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/337256453_THE_ANALYSIS_OF_SKIMMING_AND_SCANNING_TECHNIQUE_TO_IMPROVE_STUDENTS_IN_TEACHING_READING_COMPREHENSION" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/337256453_THE_ANALYSIS_OF_SKIMMING_AND_SCANNING_TECHNIQUE_TO_IMPROVE_STUDENTS_IN_TEACHING_READING_COMPREHENSION</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the analysis of skimming and scanning technique to...by IR Aritonang · 2018 · Cited by 105 — The objective of this research is to find o...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/337256453_THE_ANALYSIS_OF_SKIMMING_AND_SCANNING_TECHNIQUE_TO_IMPROVE_STUDENTS_IN_TEACHING_READING_COMPREHENSION" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/337256453_THE_ANALYSIS_OF_SKIMMING_AND_SCANNING_TECHNIQUE_TO_IMPROVE_STUDENTS_IN_TEACHING_READING_COMPREHENSION</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the analysis of skimming and scanning technique to...by IR Aritonang · 2018 · Cited by 105 — The objective of this research is to find o...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/530998190602214/posts/2677347952633883/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/530998190602214/posts/2677347952633883/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Applying skimming and scanning strategies in classroomSkimming and scanning are essential reading strategies that are commonly used by te...</p></details>
+   Link:<a href="https://www.facebook.com/groups/530998190602214/posts/2677347952633883/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/530998190602214/posts/2677347952633883/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Applying skimming and scanning strategies in classroomSkimming and scanning are essential reading strategies that are commonly used by te...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: gphisar.ac.in  
-   Link: <a href="https://gphisar.ac.in/wp-content/uploads/2024/12/DFT_SEM1_EL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gphisar.ac.in/wp-content/uploads/2024/12/DFT_SEM1_EL.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Techniques of reading: skimming and scanningIt allows the reader to convert a written text into a meaningful language with indepe...</p></details>
+   Link:<a href="https://gphisar.ac.in/wp-content/uploads/2024/12/DFT_SEM1_EL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gphisar.ac.in/wp-content/uploads/2024/12/DFT_SEM1_EL.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Techniques of reading: skimming and scanningIt allows the reader to convert a written text into a meaningful language with indepe...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: dspace.univ-ouargla.dz  
-   Link: <a href="https://dspace.univ-ouargla.dz/jspui/bitstream/123456789/15524/1/BERREGUI-BOULAACHAB.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dspace.univ-ouargla.dz/jspui/bitstream/123456789/15524/1/BERREGUI-BOULAACHAB.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Role of Skimming and Scanning in Developing Reading...by O BERREGUI · Cited by 5 — We have noticed that there is a strong relationship b...</p></details>
+   Link:<a href="https://dspace.univ-ouargla.dz/jspui/bitstream/123456789/15524/1/BERREGUI-BOULAACHAB.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dspace.univ-ouargla.dz/jspui/bitstream/123456789/15524/1/BERREGUI-BOULAACHAB.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Role of Skimming and Scanning in Developing Reading...by O BERREGUI · Cited by 5 — We have noticed that there is a strong relationship b...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/900183488/Detailed-Notes-on-Skimming" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/900183488/Detailed-Notes-on-Skimming</a>  
+   Link:<a href="https://www.scribd.com/document/900183488/Detailed-Notes-on-Skimming" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/900183488/Detailed-Notes-on-Skimming</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=3g2UYgOjbh0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3g2UYgOjbh0</a>  
+   Link:<a href="https://www.youtube.com/watch?v=3g2UYgOjbh0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3g2UYgOjbh0</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: utc.edu  
-   Link: <a href="https://www.utc.edu/enrollment-management-and-student-affairs/center-for-academic-support-and-advisement/tips-for-academic-success/skimming" target="_blank" rel="noopener noreferrer nofollow">https://www.utc.edu/enrollment-management-and-student-affairs/center-for-academic-support-and-advisement/tips-for-academic-success/skimming</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>They read according to their purpose and get the information they need quickly without wasting time.Read more...</p></details>
+   Link:<a href="https://www.utc.edu/enrollment-management-and-student-affairs/center-for-academic-support-and-advisement/tips-for-academic-success/skimming" target="_blank" rel="noopener noreferrer nofollow">https://www.utc.edu/enrollment-management-and-student-affairs/center-for-academic-support-and-advisement/tips-for-academic-success/skimming</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>They read according to their purpose and get the information they need quickly without wasting time.Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: oxfordlanguageclub.com  
-   Link: <a href="https://oxfordlanguageclub.com/page/blog/reading-strategies-skimming-scanning-and-detailed-reading" target="_blank" rel="noopener noreferrer nofollow">https://oxfordlanguageclub.com/page/blog/reading-strategies-skimming-scanning-and-detailed-reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skimming: This technique involves quickly glancing through a text to get the main idea. It&#x27;s...Read more...</p></details>
+   Link:<a href="https://oxfordlanguageclub.com/page/blog/reading-strategies-skimming-scanning-and-detailed-reading" target="_blank" rel="noopener noreferrer nofollow">https://oxfordlanguageclub.com/page/blog/reading-strategies-skimming-scanning-and-detailed-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skimming: This technique involves quickly glancing through a text to get the main idea. It&#x27;s...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: jalt-publications.org  
    Title: 2259 can reading strategies be successfully taught  
-   Link: <a href="https://jalt-publications.org/tlt/articles/2259-can-reading-strategies-be-successfully-taught" target="_blank" rel="noopener noreferrer nofollow">https://jalt-publications.org/tlt/articles/2259-can-reading-strategies-be-successfully-taught</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Can Reading Strategies be Successfully Taught?by PL Carrell · 2013 · Cited by 581 — This article is about reading strategies, and more pa...</p></details>
+   Link:<a href="https://jalt-publications.org/tlt/articles/2259-can-reading-strategies-be-successfully-taught" target="_blank" rel="noopener noreferrer nofollow">https://jalt-publications.org/tlt/articles/2259-can-reading-strategies-be-successfully-taught</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Can Reading Strategies be Successfully Taught?by PL Carrell · 2013 · Cited by 581 — This article is about reading strategies, and more pa...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: celtaromania.ro  
    Title: shedding light skimming  
-   Link: <a href="https://celtaromania.ro/shedding-light-skimming/" target="_blank" rel="noopener noreferrer nofollow">https://celtaromania.ro/shedding-light-skimming/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shedding Light on Skimming13 Mar 2026 — In the classroom the purpose of skimming is often to verify or reject the prediction made at the...</p></details>
+   Link:<a href="https://celtaromania.ro/shedding-light-skimming/" target="_blank" rel="noopener noreferrer nofollow">https://celtaromania.ro/shedding-light-skimming/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shedding Light on Skimming13 Mar 2026 — In the classroom the purpose of skimming is often to verify or reject the prediction made at the...</p></details>

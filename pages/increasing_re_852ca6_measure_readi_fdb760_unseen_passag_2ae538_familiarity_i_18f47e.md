@@ -275,7 +275,7 @@ image: /assets/images/increasing_re_852ca6_measure_readi_fdb760_unseen_passag_2a
 
 ## Introduction
 
-Rereading usually makes a passage feel easier, faster, and more understandable. That is exactly why it can be a useful training method when the goal is to build fluency. The problem arises when rereading is used to [measure]({{ 'measure/' | relative_url }}) progress. A reader who appears to have gained 30, 50, or even 100 words per minute on a familiar passage may not have improved by the same amount on completely new material. The score is being boosted not only by reading skill but also by familiarity. Research on repeated reading consistently shows improvements in fluency and comprehension on previously encountered texts, which is beneficial for [practice]({{ 'practice/' | relative_url }}) but can distort benchmark results if the same passages are reused. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shanahanonliteracy.com">[Shanahan on Literacy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shanahanonliteracy.com</span><span class="citation-popover-title">Shanahan on Literacy Everything You Wanted to Know about Repeated Reading Hi Dr</span><span class="citation-popover-snippet">Shanahan, My experience with severely dyslexic readers is that repeated reading tends to be demoralizing for them. The emphasis on the sp...</span></span></span>
+Rereading usually makes a passage feel easier, faster, and more understandable. That is exactly why it can be a useful training method when the goal is to build fluency. The problem arises when rereading is used to [measure]({{ 'measure/' | relative_url }}) progress. A reader who appears to have gained 30, 50, or even 100 words per minute on a familiar passage may not have improved by the same amount on completely new material. The score is being boosted not only by reading skill but also by familiarity. Research on repeated reading consistently shows improvements in fluency and comprehension on previously encountered texts, which is beneficial for [practice]({{ 'practice/' | relative_url }}) but can distort benchmark results if the same passages are reused.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shanahanonliteracy.com">[Shanahan on Literacy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shanahanonliteracy.com</span><span class="citation-popover-title">Shanahan on Literacy Everything You Wanted to Know about Repeated Reading Hi Dr</span><span class="citation-popover-snippet">Shanahan, My experience with severely dyslexic readers is that repeated reading tends to be demoralizing for them. The emphasis on the sp...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_measure_readi_fdb760_unseen_passag_2ae538_familiarity_i_18f47e-Illustration-1-dark.svg" | relative_url }}" alt="Familiarity Bias illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_measure_readi_fdb760_unseen_passag_2ae538_familiarity_i_18f47e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_measure_readi_fdb760_unseen_passag_2ae538_familiarity_i_18f47e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -300,7 +300,7 @@ A familiar passage provides several advantages:
 
 </div>
 
-These shortcuts lower the cognitive load of reading. Timothy Shanahan notes that repeated reading deliberately uses memory as a scaffold. [Short passages]({{ 'passage-length-0559bd/' | relative_url }}) are often chosen because readers can carry information from one reading into the next, making subsequent readings easier and faster. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shanahanonliteracy.com">[Shanahan on Literacy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shanahanonliteracy.com</span><span class="citation-popover-title">Shanahan on Literacy Everything You Wanted to Know about Repeated Reading Hi Dr</span><span class="citation-popover-snippet">Shanahan, My experience with severely dyslexic readers is that repeated reading tends to be demoralizing for them. The emphasis on the sp...</span></span></span>
+These shortcuts lower the cognitive load of reading. Timothy Shanahan notes that repeated reading deliberately uses memory as a scaffold. [Short passages]({{ 'passage-length-0559bd/' | relative_url }}) are often chosen because readers can carry information from one reading into the next, making subsequent readings easier and faster.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shanahanonliteracy.com">[Shanahan on Literacy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shanahanonliteracy.com</span><span class="citation-popover-title">Shanahan on Literacy Everything You Wanted to Know about Repeated Reading Hi Dr</span><span class="citation-popover-snippet">Shanahan, My experience with severely dyslexic readers is that repeated reading tends to be demoralizing for them. The emphasis on the sp...</span></span></span>
 
 This means that improved speed on a reread is not necessarily evidence that decoding, vocabulary knowledge, or comprehension processes have become more efficient in general. It may simply indicate that the reader already knows much of what the passage contains.
 
@@ -326,7 +326,7 @@ When a passage is familiar, readers often remember:
 
 As a result, comprehension tests become easier. The reader is no longer constructing understanding from scratch. Instead, they are partly retrieving information from memory.
 
-Research on [background]({{ 'expertise/' | relative_url }}) knowledge consistently shows that familiarity with content improves comprehension performance because readers can connect new information to existing mental frameworks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/02702711.2021.1888348" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">A critical review was conducted to determine the influence background knowledge has on the reading comprehension of primary school-aged c...</span></span></span>
+Research on [background]({{ 'expertise/' | relative_url }}) knowledge consistently shows that familiarity with content improves comprehension performance because readers can connect new information to existing mental frameworks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/02702711.2021.1888348" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">A critical review was conducted to determine the influence background knowledge has on the reading comprehension of primary school-aged c...</span></span></span>
 
 A reread represents an extreme version of familiarity. The reader does not merely know the topic; they have already processed the exact text. Consequently, higher comprehension scores after multiple readings may reflect memory support as much as improved reading ability.
 
@@ -370,13 +370,13 @@ Several changes occur simultaneously:
 2. Prediction becomes more accurate.
 3. Comprehension feels smoother.
 4. Confidence increases.
-5. Reading speed rises. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shanahanonliteracy.com">[shanahanonliteracy.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shanahanonliteracy.com</span><span class="citation-popover-title">Shanahan on Literacy Everything You Wanted to Know about Repeated Reading Hi Dr</span><span class="citation-popover-snippet">Shanahan, My experience with severely dyslexic readers is that repeated reading tends to be demoralizing for them. The emphasis on the sp...</span></span></span>
+5. Reading speed rises.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shanahanonliteracy.com">[shanahanonliteracy.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shanahanonliteracy.com</span><span class="citation-popover-title">Shanahan on Literacy Everything You Wanted to Know about Repeated Reading Hi Dr</span><span class="citation-popover-snippet">Shanahan, My experience with severely dyslexic readers is that repeated reading tends to be demoralizing for them. The emphasis on the sp...</span></span></span>
 
 </div>
 
 Because all of these changes are visible, readers naturally conclude that their overall reading ability has improved.
 
-Sometimes that conclusion is correct. Repeated reading has been shown to improve fluency and can contribute to broader reading development. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5097019/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by EA Stevens · 2016 · Cited by 370 — Results showed repeated reading (RR), multicomponent interventions, and assisted reading with au...</span></span></span>
+Sometimes that conclusion is correct. Repeated reading has been shown to improve fluency and can contribute to broader reading development.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5097019/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by EA Stevens · 2016 · Cited by 370 — Results showed repeated reading (RR), multicomponent interventions, and assisted reading with au...</span></span></span>
 
 However, benchmark scores alone cannot reveal how much of the gain comes from transferable skill and how much comes from familiarity with the tested passage. A reader who improves dramatically on a passage after six readings may show only modest improvement when presented with a new text of similar difficulty.
 
@@ -393,7 +393,7 @@ A practical way to separate the two effects is to distinguish between practice m
 
 ### Use rereading for training
 
-Repeated reading is well supported as a fluency-building technique. Research and literacy guidance have repeatedly found benefits for reading fluency and, in many cases, comprehension. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shanahanonliteracy.com">[Shanahan on Literacy+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shanahanonliteracy.com</span><span class="citation-popover-title">Shanahan on Literacy Everything You Wanted to Know about Repeated Reading Hi Dr</span><span class="citation-popover-snippet">Shanahan, My experience with severely dyslexic readers is that repeated reading tends to be demoralizing for them. The emphasis on the sp...</span></span></span>
+Repeated reading is well supported as a fluency-building technique. Research and literacy guidance have repeatedly found benefits for reading fluency and, in many cases, comprehension.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shanahanonliteracy.com">[Shanahan on Literacy+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shanahanonliteracy.com</span><span class="citation-popover-title">Shanahan on Literacy Everything You Wanted to Know about Repeated Reading Hi Dr</span><span class="citation-popover-snippet">Shanahan, My experience with severely dyslexic readers is that repeated reading tends to be demoralizing for them. The emphasis on the sp...</span></span></span>
 
 During practice, familiarity is helpful rather than problematic. The goal is to make processing easier.
 
@@ -411,7 +411,7 @@ The most trustworthy sign of progress is improvement that carries over to new ma
 
 ## What Familiarity Bias Really Tells You
 
-Familiarity bias does not mean rereading is ineffective. In fact, repeated reading works partly because familiarity reduces processing demands and allows readers to devote more attention to meaning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shanahanonliteracy.com">[Shanahan on Literacy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shanahanonliteracy.com</span><span class="citation-popover-title">Shanahan on Literacy Everything You Wanted to Know about Repeated Reading Hi Dr</span><span class="citation-popover-snippet">Shanahan, My experience with severely dyslexic readers is that repeated reading tends to be demoralizing for them. The emphasis on the sp...</span></span></span>
+Familiarity bias does not mean rereading is ineffective. In fact, repeated reading works partly because familiarity reduces processing demands and allows readers to devote more attention to meaning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shanahanonliteracy.com">[Shanahan on Literacy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shanahanonliteracy.com</span><span class="citation-popover-title">Shanahan on Literacy Everything You Wanted to Know about Repeated Reading Hi Dr</span><span class="citation-popover-snippet">Shanahan, My experience with severely dyslexic readers is that repeated reading tends to be demoralizing for them. The emphasis on the sp...</span></span></span>
 
 The caution is simply that practice results and benchmark results answer different questions.
 
@@ -424,194 +424,194 @@ For honest progress checks in reading speed, the second result is the one that m
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Rereading Makes Progress Look Bigger. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Rereading Makes Progress Look Bigger. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-        </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+</h4>
+<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Explains why familiarity can be mistaken for mastery.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why familiarity can be mistaken for mastery.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Promotes active engagement with unfamiliar texts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Promotes active engagement with unfamiliar texts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Don&#x27;t Students Like School? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kuEmEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Don&#x27;t Students Like School?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
-        </h4>
-        <p class="fr-book-author">By Daniel T. Willingham</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Don&#x27;t Students Like School? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kuEmEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Don&#x27;t Students Like School?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
+</h4>
+<p class="fr-book-author">By Daniel T. Willingham</p>
         
-        <p class="fr-book-desc">Covers cognitive mechanisms behind apparent learning gains.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers cognitive mechanisms behind apparent learning gains.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Peak on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rLECDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Peak" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Peak">Peak</a>
-        </h4>
-        <p class="fr-book-author">By Anders Ericsson, Robert Pool</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Peak on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rLECDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Peak" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Peak">Peak</a>
+</h4>
+<p class="fr-book-author">By Anders Ericsson, Robert Pool</p>
         
-        <p class="fr-book-desc">Distinguishes genuine skill growth from task familiarity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Distinguishes genuine skill growth from task familiarity.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Don&#x27;t Students Like School?</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Don&#x27;t Students Like School?</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer+file&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer file" data-ebay-reference="familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Expanding File 13 Pockets A4 Document Folder Stud Wallet Case Organiser"><img src="{{ '/assets/images/marketplace-covers/f3ec056d187288f2a2d9.jpg' | relative_url }}" alt="Listing image for Expanding File 13 Pockets A4 Document Folder Stud Wallet Case Organiser" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer+file&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer file" data-ebay-reference="familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file" target="_blank" rel="sponsored noopener noreferrer">Expanding File 13 Pockets A4 Document Folder Stud Wallet Case Organiser</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer+file&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer file" data-ebay-reference="familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for document organizer file">Search <span data-ebay-domain-label>eBay.co.uk</span>: document organizer file</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer+file&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer file" data-ebay-reference="familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer+file&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer file" data-ebay-reference="familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Expanding File 13 Pockets A4 Document Folder Stud Wallet Case Organiser"><img src="{{ '/assets/images/marketplace-covers/f3ec056d187288f2a2d9.jpg' | relative_url }}" alt="Listing image for Expanding File 13 Pockets A4 Document Folder Stud Wallet Case Organiser" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer+file&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer file" data-ebay-reference="familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file" target="_blank" rel="sponsored noopener noreferrer">Expanding File 13 Pockets A4 Document Folder Stud Wallet Case Organiser</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer+file&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer file" data-ebay-reference="familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for document organizer file">Search<span data-ebay-domain-label>eBay.co.uk</span>: document organizer file</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer+file&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer file" data-ebay-reference="familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer+file&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer file" data-ebay-reference="familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 Magazine File Holders Cardboard Document Storage Desk Organizer Box – 8/16/24"><img src="{{ '/assets/images/marketplace-covers/126ed70c7f09cda70e18.jpg' | relative_url }}" alt="Listing image for A4 Magazine File Holders Cardboard Document Storage Desk Organizer Box – 8/16/24" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer+file&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer file" data-ebay-reference="familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file" target="_blank" rel="sponsored noopener noreferrer">A4 Magazine File Holders Cardboard Document Storage Desk Organizer Box – 8/16/24</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer+file&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer file" data-ebay-reference="familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for document organizer file">Search <span data-ebay-domain-label>eBay.co.uk</span>: document organizer file</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer+file&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer file" data-ebay-reference="familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer+file&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer file" data-ebay-reference="familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 Magazine File Holders Cardboard Document Storage Desk Organizer Box – 8/16/24"><img src="{{ '/assets/images/marketplace-covers/126ed70c7f09cda70e18.jpg' | relative_url }}" alt="Listing image for A4 Magazine File Holders Cardboard Document Storage Desk Organizer Box – 8/16/24" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer+file&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer file" data-ebay-reference="familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file" target="_blank" rel="sponsored noopener noreferrer">A4 Magazine File Holders Cardboard Document Storage Desk Organizer Box – 8/16/24</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer+file&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer file" data-ebay-reference="familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for document organizer file">Search<span data-ebay-domain-label>eBay.co.uk</span>: document organizer file</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer+file&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer file" data-ebay-reference="familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer+file&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer file" data-ebay-reference="familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A-Z File Dividers A4 Document Organiser With Coloured Tabs A To Z"><img src="{{ '/assets/images/marketplace-covers/0aaa91d0a9843a9f8eb5.jpg' | relative_url }}" alt="Listing image for A-Z File Dividers A4 Document Organiser With Coloured Tabs A To Z" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer+file&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer file" data-ebay-reference="familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file" target="_blank" rel="sponsored noopener noreferrer">A-Z File Dividers A4 Document Organiser With Coloured Tabs A To Z</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer+file&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer file" data-ebay-reference="familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for document organizer file">Search <span data-ebay-domain-label>eBay.co.uk</span>: document organizer file</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer+file&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer file" data-ebay-reference="familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer+file&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer file" data-ebay-reference="familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A-Z File Dividers A4 Document Organiser With Coloured Tabs A To Z"><img src="{{ '/assets/images/marketplace-covers/0aaa91d0a9843a9f8eb5.jpg' | relative_url }}" alt="Listing image for A-Z File Dividers A4 Document Organiser With Coloured Tabs A To Z" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer+file&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer file" data-ebay-reference="familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file" target="_blank" rel="sponsored noopener noreferrer">A-Z File Dividers A4 Document Organiser With Coloured Tabs A To Z</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer+file&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer file" data-ebay-reference="familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for document organizer file">Search<span data-ebay-domain-label>eBay.co.uk</span>: document organizer file</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer+file&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer file" data-ebay-reference="familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer+file&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer file" data-ebay-reference="familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Life Book Document Organizer In Case I Go Missing Binder Folio File Folder"><img src="{{ '/assets/images/marketplace-covers/dd46836add13c87a3844.jpg' | relative_url }}" alt="Listing image for The Life Book Document Organizer In Case I Go Missing Binder Folio File Folder" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer+file&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer file" data-ebay-reference="familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file" target="_blank" rel="sponsored noopener noreferrer">The Life Book Document Organizer In Case I Go Missing Binder Folio File Folder</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer+file&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer file" data-ebay-reference="familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for document organizer file">Search <span data-ebay-domain-label>eBay.co.uk</span>: document organizer file</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer+file&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer file" data-ebay-reference="familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer+file&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer file" data-ebay-reference="familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer+file&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer file" data-ebay-reference="familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Life Book Document Organizer In Case I Go Missing Binder Folio File Folder"><img src="{{ '/assets/images/marketplace-covers/dd46836add13c87a3844.jpg' | relative_url }}" alt="Listing image for The Life Book Document Organizer In Case I Go Missing Binder Folio File Folder" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer+file&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer file" data-ebay-reference="familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file" target="_blank" rel="sponsored noopener noreferrer">The Life Book Document Organizer In Case I Go Missing Binder Folio File Folder</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer+file&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer file" data-ebay-reference="familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for document organizer file">Search<span data-ebay-domain-label>eBay.co.uk</span>: document organizer file</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer+file&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer file" data-ebay-reference="familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=document+organizer+file&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="document organizer file" data-ebay-reference="familiarity-bias-8f5872-why-rereading-makes-progress-look-bigger-increasing-document-organizer-file" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -627,7 +627,7 @@ For honest progress checks in reading speed, the second result is the one that m
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -647,7 +647,7 @@ For honest progress checks in reading speed, the second result is the one that m
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -679,7 +679,7 @@ For honest progress checks in reading speed, the second result is the one that m
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -731,7 +731,7 @@ For honest progress checks in reading speed, the second result is the one that m
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -776,7 +776,7 @@ For honest progress checks in reading speed, the second result is the one that m
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -817,107 +817,107 @@ For honest progress checks in reading speed, the second result is the one that m
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: shanahanonliteracy.com  
    Title: Shanahan on Literacy Everything You Wanted to Know about Repeated Reading Hi Dr  
-   Link: <a href="https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Shanahan, My experience with severely dyslexic readers is that repeated reading tends to be demoralizing for them. The emphasis on the sp...</p></details>
+   Link:<a href="https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/everything-you-wanted-to-know-about-repeated-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shanahan, My experience with severely dyslexic readers is that repeated reading tends to be demoralizing for them. The emphasis on the sp...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/02702711.2021.1888348" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/02702711.2021.1888348</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A critical review was conducted to determine the influence background knowledge has on the reading comprehension of primary school-aged c...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/02702711.2021.1888348" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/02702711.2021.1888348</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A critical review was conducted to determine the influence background knowledge has on the reading comprehension of primary school-aged c...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1666454/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1666454/full</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The experimental group demonstrated stronger analytical...Read more...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1666454/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1666454/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The experimental group demonstrated stronger analytical...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5097019/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5097019/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by EA Stevens · 2016 · Cited by 370 — Results showed repeated reading (RR), multicomponent interventions, and assisted reading with au...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5097019/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5097019/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by EA Stevens · 2016 · Cited by 370 — Results showed repeated reading (RR), multicomponent interventions, and assisted reading with au...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3320221/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3320221/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A synthesis of fluency interventions for secondary struggling...by J Wexler · 2008 · Cited by 242 — (2002) reported that using repeat...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3320221/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3320221/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A synthesis of fluency interventions for secondary struggling...by J Wexler · 2008 · Cited by 242 — (2002) reported that using repeat...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: shanahanonliteracy.com  
    Title: teaching fluency faqs  
-   Link: <a href="https://www.shanahanonliteracy.com/blog/teaching-fluency-faqs" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/teaching-fluency-faqs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Jul 27, 2024 — The National Reading Panel concluded that [oral reading](&amp;#123;&amp;#123; &#x27;reading-aloud/&#x27; | relative_url &amp;#125;&amp;#125;) practice with feedback and repetition was valuable in developing fl...</p></details>
+   Link:<a href="https://www.shanahanonliteracy.com/blog/teaching-fluency-faqs" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/teaching-fluency-faqs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jul 27, 2024 — The National Reading Panel concluded that [oral reading](&amp;#123;&amp;#123; &#x27;reading-aloud/&#x27; | relative_url &amp;#125;&amp;#125;) practice with feedback and repetition was valuable in developing fl...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: teachingbyscience.com  
    Title: Repeated Reading | Teaching By Science  
-   Link: <a href="https://www.teachingbyscience.com/repeated-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.teachingbyscience.com/repeated-reading</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 20, 2022 — Critics of Repeated Reading often suggest we use less repetitive strategies to teach fluency, this seems logical, as it wo...</p></details>
+   Link:<a href="https://www.teachingbyscience.com/repeated-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.teachingbyscience.com/repeated-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 20, 2022 — Critics of Repeated Reading often suggest we use less repetitive strategies to teach fluency, this seems logical, as it wo...</p></details>
    Published: May 20, 2022  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: education.qld.gov.au  
-   Link: <a href="https://education.qld.gov.au/curriculums/Documents/literature-review.pdf" target="_blank" rel="noopener noreferrer nofollow">https://education.qld.gov.au/curriculums/Documents/literature-review.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An overview of the literature effective teaching of readingThe evidence for the effectiveness of phonics instruction is extensive, with p...</p></details>
+   Link:<a href="https://education.qld.gov.au/curriculums/Documents/literature-review.pdf" target="_blank" rel="noopener noreferrer nofollow">https://education.qld.gov.au/curriculums/Documents/literature-review.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An overview of the literature effective teaching of readingThe evidence for the effectiveness of phonics instruction is extensive, with p...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: etd.ohiolink.edu  
-   Link: <a href="https://etd.ohiolink.edu/acprod/odb_etd/ws/send_file/send?accession=miami1245336955&amp;disposition=inline" target="_blank" rel="noopener noreferrer nofollow">https://etd.ohiolink.edu/acprod/odb_etd/ws/send_file/send?accession=miami1245336955&amp;disposition=inline</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>READINGby E Vincent · 2009 — Repeated reading (RR) is a well established reading intervention to increase fluency. However, few studies h...</p></details>
+   Link:<a href="https://etd.ohiolink.edu/acprod/odb_etd/ws/send_file/send?accession=miami1245336955&amp;disposition=inline" target="_blank" rel="noopener noreferrer nofollow">https://etd.ohiolink.edu/acprod/odb_etd/ws/send_file/send?accession=miami1245336955&amp;disposition=inline</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>READINGby E Vincent · 2009 — Repeated reading (RR) is a well established reading intervention to increase fluency. However, few studies h...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: naeducation.org  
-   Link: <a href="https://naeducation.org/wp-content/uploads/2020/06/The-Nature-and-Development-of-Reading-for-Understanding.pdf" target="_blank" rel="noopener noreferrer nofollow">https://naeducation.org/wp-content/uploads/2020/06/The-Nature-and-Development-of-Reading-for-Understanding.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 The Nature and Development of Reading for...by GN Cervetti · Cited by 14 — The RfU studies suggest that listening and reading comprehe...</p></details>
+   Link:<a href="https://naeducation.org/wp-content/uploads/2020/06/The-Nature-and-Development-of-Reading-for-Understanding.pdf" target="_blank" rel="noopener noreferrer nofollow">https://naeducation.org/wp-content/uploads/2020/06/The-Nature-and-Development-of-Reading-for-Understanding.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 The Nature and Development of Reading for...by GN Cervetti · Cited by 14 — The RfU studies suggest that listening and reading comprehe...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/398253041_Effect_of_Repeated_Reading_for_Developing_Reading_Fluency_and_Reading_Comprehension_in_EFL_Students_Pre_Experimental_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/398253041_Effect_of_Repeated_Reading_for_Developing_Reading_Fluency_and_Reading_Comprehension_in_EFL_Students_Pre_Experimental_Study</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Effect of Repeated Reading for Developing...29 May 2026 — Based on the results of the study, it was found that repeated reading wa...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/398253041_Effect_of_Repeated_Reading_for_Developing_Reading_Fluency_and_Reading_Comprehension_in_EFL_Students_Pre_Experimental_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/398253041_Effect_of_Repeated_Reading_for_Developing_Reading_Fluency_and_Reading_Comprehension_in_EFL_Students_Pre_Experimental_Study</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Effect of Repeated Reading for Developing...29 May 2026 — Based on the results of the study, it was found that repeated reading wa...</p></details>
    Published: May 2026  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: petaa.edu.au  
-   Link: <a href="https://petaa.edu.au/Mp/Mp/Curric-Res/PPs/PETAA-PAPER-232.aspx" target="_blank" rel="noopener noreferrer nofollow">https://petaa.edu.au/Mp/Mp/Curric-Res/PPs/PETAA-PAPER-232.aspx</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Text selection to facilitate reading instructionThis paper breaks down the text selection process for different types of teaching: readin...</p></details>
+   Link:<a href="https://petaa.edu.au/Mp/Mp/Curric-Res/PPs/PETAA-PAPER-232.aspx" target="_blank" rel="noopener noreferrer nofollow">https://petaa.edu.au/Mp/Mp/Curric-Res/PPs/PETAA-PAPER-232.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Text selection to facilitate reading instructionThis paper breaks down the text selection process for different types of teaching: readin...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: files.eric.ed.gov  
-   Link: <a href="https://files.eric.ed.gov/fulltext/ED531173.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/ED531173.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>repeated reading as a strategy to improve reading fluencyby K Berg · 2012 · Cited by 31 — The purpose of this action research project rep...</p></details>
+   Link:<a href="https://files.eric.ed.gov/fulltext/ED531173.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/ED531173.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>repeated reading as a strategy to improve reading fluencyby K Berg · 2012 · Cited by 31 — The purpose of this action research project rep...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s11881-999-0027-8" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11881-999-0027-8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkRepeated reading to enhance fluency: Old approaches and...by MS Meyer · 1999 · Cited by 839 — The effects of repeated readi...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s11881" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11881</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkRepeated reading to enhance fluency: Old approaches and...by MS Meyer · 1999 · Cited by 839 — The effects of repeated readi...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/271638628_Repeated_Reading_Effect_on_Reading_Fluency_and_Reading_Comprehension_in_Monolingual_and_Bilingual_EFL_Learners" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/271638628_Repeated_Reading_Effect_on_Reading_Fluency_and_Reading_Comprehension_in_Monolingual_and_Bilingual_EFL_Learners</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>d comprehension among monolingual and bilingual EFL students.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/271638628_Repeated_Reading_Effect_on_Reading_Fluency_and_Reading_Comprehension_in_Monolingual_and_Bilingual_EFL_Learners" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/271638628_Repeated_Reading_Effect_on_Reading_Fluency_and_Reading_Comprehension_in_Monolingual_and_Bilingual_EFL_Learners</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>d comprehension among monolingual and bilingual EFL students.Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: s3.amazonaws.com  
    Title: Repeated Reading Research into Practice  
-   Link: <a href="https://s3.amazonaws.com/media.lyrics2learn.com/production/articles/Repeated%20Reading-Research%20into%20Practice.pdf" target="_blank" rel="noopener noreferrer nofollow">https://s3.amazonaws.com/media.lyrics2learn.com/production/articles/Repeated%20Reading-Research%20into%20Practice.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Repeated Reading: Research Into PracticeMartinez and Roser. (1985) reported that repetitive read-alouds both at school and at home result...</p></details>
+   Link:<a href="https://s3.amazonaws.com/media.lyrics2learn.com/production/articles/Repeated%20Reading-Research%20into%20Practice.pdf" target="_blank" rel="noopener noreferrer nofollow">https://s3.amazonaws.com/media.lyrics2learn.com/production/articles/Repeated%20Reading-Research%20into%20Practice.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Repeated Reading: Research Into PracticeMartinez and Roser. (1985) reported that repetitive read-alouds both at school and at home result...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/sharingbestpractice/posts/1018301011836743/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/sharingbestpractice/posts/1018301011836743/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s, not just speed: 1. Automaticity / Word Recognition...</p></details>
+   Link:<a href="https://www.facebook.com/groups/sharingbestpractice/posts/1018301011836743/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/sharingbestpractice/posts/1018301011836743/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s, not just speed: 1. Automaticity / Word Recognition...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: readabilitymatters.org  
    Title: shanahan speed measure  
-   Link: <a href="https://readabilitymatters.org/articles/shanahan-speed-measure" target="_blank" rel="noopener noreferrer nofollow">https://readabilitymatters.org/articles/shanahan-speed-measure</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Timothy Shanahan on Speed as a Measure of...May 4, 2020 — Dr. Shanahan notes speed is used to draw inference about decoding and that &quot;gr...</p></details>
+   Link:<a href="https://readabilitymatters.org/articles/shanahan-speed-measure" target="_blank" rel="noopener noreferrer nofollow">https://readabilitymatters.org/articles/shanahan-speed-measure</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Timothy Shanahan on Speed as a Measure of...May 4, 2020 — Dr. Shanahan notes speed is used to draw inference about decoding and that &quot;gr...</p></details>
    Published: May 4, 2020  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: fisherpub.sjf.edu  
-   Link: <a href="https://fisherpub.sjf.edu/cgi/viewcontent.cgi?article=1225&amp;context=education_ETD_masters" target="_blank" rel="noopener noreferrer nofollow">https://fisherpub.sjf.edu/cgi/viewcontent.cgi?article=1225&amp;context=education_ETD_masters</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fisher Digital PublicationsUnderstanding the Relationship between Reading Fluency...by J Cotter · 2012 · Cited by 48 — In this study, st...</p></details>
+   Link:<a href="https://fisherpub.sjf.edu/cgi/viewcontent.cgi?article=1225&amp;context=education_ETD_masters" target="_blank" rel="noopener noreferrer nofollow">https://fisherpub.sjf.edu/cgi/viewcontent.cgi?article=1225&amp;context=education_ETD_masters</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fisher Digital PublicationsUnderstanding the Relationship between Reading Fluency...by J Cotter · 2012 · Cited by 48 — In this study, st...</p></details>

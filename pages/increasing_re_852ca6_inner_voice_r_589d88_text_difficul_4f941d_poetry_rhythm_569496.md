@@ -273,7 +273,7 @@ When the goal is [increasing]({{ 'increasing/' | relative_url }}) reading speed,
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_inner_voice_r_589d88_text_difficul_4f941d_poetry_rhythm_569496-Illustration-1-dark.svg" | relative_url }}" alt="Poetry rhythm illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_inner_voice_r_589d88_text_difficul_4f941d_poetry_rhythm_569496-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_inner_voice_r_589d88_text_difficul_4f941d_poetry_rhythm_569496-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Research on silent reading consistently shows that readers generate internal prosody—mental patterns of stress, [timing]({{ 'timing/' | relative_url }}), and intonation—even when no sound is produced. In poetry, these prosodic representations become especially important because metre, rhyme, and line structure are often part of the message rather than decorative extras. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ila.onlinelibrary.wiley.com/doi/10.1002/rrq.67" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ila.onlinelibrary.wiley.com">[ILA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ila.onlinelibrary.wiley.com</span><span class="citation-popover-title">ILAEvidence for Prosody in Silent Reading</span><span class="citation-popover-snippet">Gross - 201418 Dec 2013 — In two studies, we sought to understand whether the inner voice of skilled, adult readers preserves the prosodi...</span></span></span>
+Research on silent reading consistently shows that readers generate internal prosody—mental patterns of stress, [timing]({{ 'timing/' | relative_url }}), and intonation—even when no sound is produced. In poetry, these prosodic representations become especially important because metre, rhyme, and line structure are often part of the message rather than decorative extras.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ila.onlinelibrary.wiley.com/doi/10.1002/rrq.67" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ila.onlinelibrary.wiley.com">[ILA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ila.onlinelibrary.wiley.com</span><span class="citation-popover-title">ILAEvidence for Prosody in Silent Reading</span><span class="citation-popover-snippet">Gross - 201418 Dec 2013 — In two studies, we sought to understand whether the inner voice of skilled, adult readers preserves the prosodi...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nw_mrplwrdk" title="Speed Reading for Language Learning [Step-by-Step Tutorial]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nw_mrplwrdk" target="_blank" rel="noopener noreferrer">Speed Reading for Language Learning [Step-by-Step Tutorial]</a></p><p class="youtube-embed-meta">Channel: Mikel | Hyperpolyglot</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nw_mrplwrdk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nw_mrplwrdk">Open on YouTube</a></p></div></div></div>
@@ -282,11 +282,11 @@ Research on silent reading consistently shows that readers generate internal pro
 
 Poetry has long been associated with spoken performance, but modern evidence suggests that many of the same rhythmic processes appear during silent reading.
 
-Studies of silent reading indicate that readers construct an internal voice containing prosodic features such as emphasis, phrasing, and rhythm. Researchers have found that skilled readers do not merely process word meanings; they also generate patterns resembling spoken expression inside the mind. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ila.onlinelibrary.wiley.com/doi/10.1002/rrq.67" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ila.onlinelibrary.wiley.com">[ILA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ila.onlinelibrary.wiley.com</span><span class="citation-popover-title">ILAEvidence for Prosody in Silent Reading</span><span class="citation-popover-snippet">Gross - 201418 Dec 2013 — In two studies, we sought to understand whether the inner voice of skilled, adult readers preserves the prosodi...</span></span></span>
+Studies of silent reading indicate that readers construct an internal voice containing prosodic features such as emphasis, phrasing, and rhythm. Researchers have found that skilled readers do not merely process word meanings; they also generate patterns resembling spoken expression inside the mind.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ila.onlinelibrary.wiley.com/doi/10.1002/rrq.67" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ila.onlinelibrary.wiley.com">[ILA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ila.onlinelibrary.wiley.com</span><span class="citation-popover-title">ILAEvidence for Prosody in Silent Reading</span><span class="citation-popover-snippet">Gross - 201418 Dec 2013 — In two studies, we sought to understand whether the inner voice of skilled, adult readers preserves the prosodi...</span></span></span>
 
 For poetry, this matters because poems often organise language around predictable rhythmic expectations. A line may establish a metrical pattern and then deliberately break it. To notice the break, the reader must first be tracking the rhythm.
 
-[Eye-tracking]({{ 'eye-tracking/' | relative_url }}) studies of metered and rhymed poetry provide particularly relevant evidence. Researchers examining silent reading of conventionally metered poems found reading patterns consistent with rhythmic subvocalisation. Readers' [eye movements]({{ 'eye-tradeoff/' | relative_url }}) changed when expected rhyme or metrical patterns were disrupted, suggesting that they were actively constructing rhythmic expectations even while reading silently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8557949/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Rhythmic subvocalization: An eye-tracking study on silent...by J Beck · 2021 · Cited by 22 — The present study investigates effects o...</span></span></span>
+[Eye-tracking]({{ 'eye-tracking/' | relative_url }}) studies of metered and rhymed poetry provide particularly relevant evidence. Researchers examining silent reading of conventionally metered poems found reading patterns consistent with rhythmic subvocalisation. Readers' [eye movements]({{ 'eye-tradeoff/' | relative_url }}) changed when expected rhyme or metrical patterns were disrupted, suggesting that they were actively constructing rhythmic expectations even while reading silently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8557949/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Rhythmic subvocalization: An eye-tracking study on silent...by J Beck · 2021 · Cited by 22 — The present study investigates effects o...</span></span></span>
 
 This differs from many forms of informational reading. When scanning a report, rhythm is usually incidental. In poetry, rhythm is often part of comprehension itself.
 
@@ -297,7 +297,7 @@ This differs from many forms of informational reading. When scanning a report, r
 
 A poem can mean different things depending on how its internal voice is imagined.
 
-Consider a line with ambiguous emphasis. Stressing one word may imply contrast, irony, certainty, or doubt. Stressing another may shift the emotional centre of the line. Research on silent reading has shown that readers assign prosodic emphasis internally, not just when [reading aloud]({{ 'reading-aloud/' | relative_url }}). Experiments have demonstrated that silent readers mentally highlight important information in ways similar to spoken language. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ila.onlinelibrary.wiley.com/doi/10.1002/rrq.67" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ila.onlinelibrary.wiley.com">[ILA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ila.onlinelibrary.wiley.com</span><span class="citation-popover-title">ILAEvidence for Prosody in Silent Reading</span><span class="citation-popover-snippet">Gross - 201418 Dec 2013 — In two studies, we sought to understand whether the inner voice of skilled, adult readers preserves the prosodi...</span></span></span>
+Consider a line with ambiguous emphasis. Stressing one word may imply contrast, irony, certainty, or doubt. Stressing another may shift the emotional centre of the line. Research on silent reading has shown that readers assign prosodic emphasis internally, not just when [reading aloud]({{ 'reading-aloud/' | relative_url }}). Experiments have demonstrated that silent readers mentally highlight important information in ways similar to spoken language.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ila.onlinelibrary.wiley.com/doi/10.1002/rrq.67" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ila.onlinelibrary.wiley.com">[ILA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ila.onlinelibrary.wiley.com</span><span class="citation-popover-title">ILAEvidence for Prosody in Silent Reading</span><span class="citation-popover-snippet">Gross - 201418 Dec 2013 — In two studies, we sought to understand whether the inner voice of skilled, adult readers preserves the prosodi...</span></span></span>
 
 This is one reason poetry can resist rapid extraction of information. The reader is not simply identifying what the words denote. They are also interpreting:
 
@@ -312,9 +312,9 @@ This is one reason poetry can resist rapid extraction of information. The reader
 
 </div>
 
-Evidence from studies of inner speech further suggests that silent readers often generate surprisingly detailed vocal representations. Readers mentally simulate pitch, timing, and other speech characteristics during comprehension, especially when language encourages vivid vocal imagination. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofcognition.org/articles/10.5334/joc.141" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofcognition.org">[Journal of Cognition+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofcognition.org</span><span class="citation-popover-snippet">Journal of CognitionMental Simulations of Phonological Representations Are...by B Yao · 2021 · Cited by 18 — Recent research shows in si...</span></span></span>
+Evidence from studies of inner speech further suggests that silent readers often generate surprisingly detailed vocal representations. Readers mentally simulate pitch, timing, and other speech characteristics during comprehension, especially when language encourages vivid vocal imagination.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journalofcognition.org/articles/10.5334/joc.141" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofcognition.org">[Journal of Cognition+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofcognition.org</span><span class="citation-popover-snippet">Journal of CognitionMental Simulations of Phonological Representations Are...by B Yao · 2021 · Cited by 18 — Recent research shows in si...</span></span></span>
 
-For poetry, these imagined sound patterns can influence emotional response as well as interpretation. Recent work on poetry and auditory imagery indicates that internally hearing a poem may contribute to the emotional intensity readers experience while reading it silently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1509793/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersAuditory imagery and poetry-elicited emotions: a study on...by S Piţur · 2025 · Cited by 1 — Silent reading evokes auditory ima...</span></span></span>
+For poetry, these imagined sound patterns can influence emotional response as well as interpretation. Recent work on poetry and auditory imagery indicates that internally hearing a poem may contribute to the emotional intensity readers experience while reading it silently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1509793/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersAuditory imagery and poetry-elicited emotions: a study on...by S Piţur · 2025 · Cited by 1 — Silent reading evokes auditory ima...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_inner_voice_r_589d88_text_difficul_4f941d_poetry_rhythm_569496-Illustration-2-dark.svg" | relative_url }}" alt="Poetry rhythm illustration 2" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_inner_voice_r_589d88_text_difficul_4f941d_poetry_rhythm_569496-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_inner_voice_r_589d88_text_difficul_4f941d_poetry_rhythm_569496-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -326,7 +326,7 @@ Efficiency depends on the goal. If the objective is merely to identify the topic
 
 Poetry frequently compresses meaning into sound patterns. A reader who rushes past metre, line breaks, and emphasis may finish quickly but miss relationships that later require reconstruction. A reader who allows a moderate internal rhythm from the beginning may reach understanding with fewer passes through the text.
 
-The same principle appears in broader research on prosody and comprehension. Studies repeatedly find links between sensitivity to prosodic structure and successful understanding of written language. Prosody helps readers organise information, identify relationships, and build coherent interpretations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/1086296X14535170" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals+2ASHA Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsInterpreting the Relationships Among Prosody...by DD Paige · 2014 · Cited by 175 — The present study extends the relationsh...</span></span></span>
+The same principle appears in broader research on prosody and comprehension. Studies repeatedly find links between sensitivity to prosodic structure and successful understanding of written language. Prosody helps readers organise information, identify relationships, and build coherent interpretations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/1086296X14535170" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals+2ASHA Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsInterpreting the Relationships Among Prosody...by DD Paige · 2014 · Cited by 175 — The present study extends the relationsh...</span></span></span>
 
 For poetry, the cost of suppressing the inner voice can therefore exceed the time saved.
 
@@ -339,7 +339,7 @@ The practical lesson is not that poems must always be read slowly or that every 
 
 Readers seeking greater overall reading efficiency can think of poetry as a different operating mode. Informational prose often rewards reduced inner narration. Poems frequently reward increased attention to rhythm, stress, and imagined sound.
 
-Research on silent reading increasingly supports what many readers report intuitively: the inner voice is not merely leftover speech machinery. In texts built around rhythm and sound, it becomes part of the reading process itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ila.onlinelibrary.wiley.com/doi/10.1002/rrq.67" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ila.onlinelibrary.wiley.com">[ILA+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ila.onlinelibrary.wiley.com</span><span class="citation-popover-title">ILAEvidence for Prosody in Silent Reading</span><span class="citation-popover-snippet">Gross - 201418 Dec 2013 — In two studies, we sought to understand whether the inner voice of skilled, adult readers preserves the prosodi...</span></span></span>
+Research on silent reading increasingly supports what many readers report intuitively: the inner voice is not merely leftover speech machinery. In texts built around rhythm and sound, it becomes part of the reading process itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ila.onlinelibrary.wiley.com/doi/10.1002/rrq.67" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ila.onlinelibrary.wiley.com">[ILA+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ila.onlinelibrary.wiley.com</span><span class="citation-popover-title">ILAEvidence for Prosody in Silent Reading</span><span class="citation-popover-snippet">Gross - 201418 Dec 2013 — In two studies, we sought to understand whether the inner voice of skilled, adult readers preserves the prosodi...</span></span></span>
 
 For poetry, hearing the words in your head is often not a barrier to understanding. It is one of the mechanisms that creates understanding in the first place.
 
@@ -347,178 +347,178 @@ For poetry, hearing the words in your head is often not a barrier to understandi
 <img src="{{ "/assets/images/increasing_re_852ca6_inner_voice_r_589d88_text_difficul_4f941d_poetry_rhythm_569496-Illustration-3-dark.svg" | relative_url }}" alt="Poetry rhythm illustration 3" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_inner_voice_r_589d88_text_difficul_4f941d_poetry_rhythm_569496-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_inner_voice_r_589d88_text_difficul_4f941d_poetry_rhythm_569496-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why poems need a voice in your head. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why poems need a voice in your head. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Centered on matching reading strategy to text difficulty and purpose.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Centered on matching reading strategy to text difficulty and purpose.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Ode+Less+Travelled+CD+Stephen+Fry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ode Less Travelled CD on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/907889-M.jpg" alt="Cover for The Ode Less Travelled CD" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Ode+Less+Travelled+CD+Stephen+Fry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ode Less Travelled CD">The Ode Less Travelled CD</a>
-        </h4>
-        <p class="fr-book-author">By Stephen Fry</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Ode+Less+Travelled+CD+Stephen+Fry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ode Less Travelled CD on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/907889-M.jpg" alt="Cover for The Ode Less Travelled CD" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Ode+Less+Travelled+CD+Stephen+Fry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ode Less Travelled CD">The Ode Less Travelled CD</a>
+</h4>
+<p class="fr-book-author">By Stephen Fry</p>
         
-        <p class="fr-book-desc">First published 2005. Subjects: Authorship, Poetry, Fiction, Poetry, authorship, Poetics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Ode+Less+Travelled+CD+Stephen+Fry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2005. Subjects: Authorship, Poetry, Fiction, Poetry, authorship, Poetics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Ode+Less+Travelled+CD+Stephen+Fry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Rules+for+the+dance+Mary+Oliver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rules for the dance on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7251821-M.jpg" alt="Cover for Rules for the dance" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Rules+for+the+dance+Mary+Oliver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rules for the dance">Rules for the dance</a>
-        </h4>
-        <p class="fr-book-author">By Mary Oliver</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Rules+for+the+dance+Mary+Oliver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rules for the dance on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7251821-M.jpg" alt="Cover for Rules for the dance" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Rules+for+the+dance+Mary+Oliver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rules for the dance">Rules for the dance</a>
+</h4>
+<p class="fr-book-author">By Mary Oliver</p>
         
-        <p class="fr-book-desc">First published 1998. Subjects: Theory, Versification, Authorship, History and criticism, Poetry.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Rules+for+the+dance+Mary+Oliver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1998. Subjects: Theory, Versification, Authorship, History and criticism, Poetry.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Rules+for+the+dance+Mary+Oliver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Poetry+Handbook+Mary+Oliver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Poetry Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/116458-M.jpg" alt="Cover for A Poetry Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Poetry+Handbook+Mary+Oliver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Poetry Handbook">A Poetry Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Mary Oliver</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Poetry+Handbook+Mary+Oliver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Poetry Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/116458-M.jpg" alt="Cover for A Poetry Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Poetry+Handbook+Mary+Oliver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Poetry Handbook">A Poetry Handbook</a>
+</h4>
+<p class="fr-book-author">By Mary Oliver</p>
         
-        <p class="fr-book-desc">First published 1994. Subjects: Handbooks, manuals, History and criticism, English poetry, American poetry, Authorship.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Poetry+Handbook+Mary+Oliver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1994. Subjects: Handbooks, manuals, History and criticism, English poetry, American poetry, Authorship.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Poetry+Handbook+Mary+Oliver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Ode+Less+Travelled+CD&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Ode Less Travelled CD</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Rules+for+the+dance&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rules for the dance</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Ode+Less+Travelled+CD&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Ode Less Travelled CD</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Rules+for+the+dance&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rules for the dance</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=poetry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=poetry-rhythm-why-poems-need-a-voice-in-your-head-increasing-poetry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="poetry wall art" data-ebay-reference="poetry-rhythm-why-poems-need-a-voice-in-your-head-increasing-poetry-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Persian calligraphy poetry wall art canvas painting 30 x 40 cm"><img src="{{ '/assets/images/marketplace-covers/96decc8760c13e4771f1.jpg' | relative_url }}" alt="Listing image for Persian calligraphy poetry wall art canvas painting 30 x 40 cm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=poetry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=poetry-rhythm-why-poems-need-a-voice-in-your-head-increasing-poetry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="poetry wall art" data-ebay-reference="poetry-rhythm-why-poems-need-a-voice-in-your-head-increasing-poetry-wall-art" target="_blank" rel="sponsored noopener noreferrer">Persian calligraphy poetry wall art canvas painting 30 x 40 cm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=poetry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=poetry-rhythm-why-poems-need-a-voice-in-your-head-increasing-poetry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="poetry wall art" data-ebay-reference="poetry-rhythm-why-poems-need-a-voice-in-your-head-increasing-poetry-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for poetry wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: poetry wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=poetry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=poetry-rhythm-why-poems-need-a-voice-in-your-head-increasing-poetry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="poetry wall art" data-ebay-reference="poetry-rhythm-why-poems-need-a-voice-in-your-head-increasing-poetry-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=poetry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=poetry-rhythm-why-poems-need-a-voice-in-your-head-increasing-poetry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="poetry wall art" data-ebay-reference="poetry-rhythm-why-poems-need-a-voice-in-your-head-increasing-poetry-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Persian calligraphy poetry wall art canvas painting 30 x 40 cm"><img src="{{ '/assets/images/marketplace-covers/96decc8760c13e4771f1.jpg' | relative_url }}" alt="Listing image for Persian calligraphy poetry wall art canvas painting 30 x 40 cm" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=poetry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=poetry-rhythm-why-poems-need-a-voice-in-your-head-increasing-poetry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="poetry wall art" data-ebay-reference="poetry-rhythm-why-poems-need-a-voice-in-your-head-increasing-poetry-wall-art" target="_blank" rel="sponsored noopener noreferrer">Persian calligraphy poetry wall art canvas painting 30 x 40 cm</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=poetry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=poetry-rhythm-why-poems-need-a-voice-in-your-head-increasing-poetry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="poetry wall art" data-ebay-reference="poetry-rhythm-why-poems-need-a-voice-in-your-head-increasing-poetry-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for poetry wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: poetry wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=poetry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=poetry-rhythm-why-poems-need-a-voice-in-your-head-increasing-poetry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="poetry wall art" data-ebay-reference="poetry-rhythm-why-poems-need-a-voice-in-your-head-increasing-poetry-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=poetry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=poetry-rhythm-why-poems-need-a-voice-in-your-head-increasing-poetry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="poetry wall art" data-ebay-reference="poetry-rhythm-why-poems-need-a-voice-in-your-head-increasing-poetry-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Persian calligraphy poetry wall art canvas Jesus painting 40 x 50 cm"><img src="{{ '/assets/images/marketplace-covers/4b8c273328f7db634e96.jpg' | relative_url }}" alt="Listing image for Persian calligraphy poetry wall art canvas Jesus painting 40 x 50 cm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=poetry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=poetry-rhythm-why-poems-need-a-voice-in-your-head-increasing-poetry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="poetry wall art" data-ebay-reference="poetry-rhythm-why-poems-need-a-voice-in-your-head-increasing-poetry-wall-art" target="_blank" rel="sponsored noopener noreferrer">Persian calligraphy poetry wall art canvas Jesus painting 40 x 50 cm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=poetry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=poetry-rhythm-why-poems-need-a-voice-in-your-head-increasing-poetry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="poetry wall art" data-ebay-reference="poetry-rhythm-why-poems-need-a-voice-in-your-head-increasing-poetry-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for poetry wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: poetry wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=poetry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=poetry-rhythm-why-poems-need-a-voice-in-your-head-increasing-poetry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="poetry wall art" data-ebay-reference="poetry-rhythm-why-poems-need-a-voice-in-your-head-increasing-poetry-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=poetry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=poetry-rhythm-why-poems-need-a-voice-in-your-head-increasing-poetry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="poetry wall art" data-ebay-reference="poetry-rhythm-why-poems-need-a-voice-in-your-head-increasing-poetry-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Persian calligraphy poetry wall art canvas Jesus painting 40 x 50 cm"><img src="{{ '/assets/images/marketplace-covers/4b8c273328f7db634e96.jpg' | relative_url }}" alt="Listing image for Persian calligraphy poetry wall art canvas Jesus painting 40 x 50 cm" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=poetry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=poetry-rhythm-why-poems-need-a-voice-in-your-head-increasing-poetry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="poetry wall art" data-ebay-reference="poetry-rhythm-why-poems-need-a-voice-in-your-head-increasing-poetry-wall-art" target="_blank" rel="sponsored noopener noreferrer">Persian calligraphy poetry wall art canvas Jesus painting 40 x 50 cm</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=poetry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=poetry-rhythm-why-poems-need-a-voice-in-your-head-increasing-poetry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="poetry wall art" data-ebay-reference="poetry-rhythm-why-poems-need-a-voice-in-your-head-increasing-poetry-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for poetry wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: poetry wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=poetry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=poetry-rhythm-why-poems-need-a-voice-in-your-head-increasing-poetry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="poetry wall art" data-ebay-reference="poetry-rhythm-why-poems-need-a-voice-in-your-head-increasing-poetry-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=poetry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=poetry-rhythm-why-poems-need-a-voice-in-your-head-increasing-poetry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="poetry wall art" data-ebay-reference="poetry-rhythm-why-poems-need-a-voice-in-your-head-increasing-poetry-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WINE IS BOTTLED POETRY WALL ART STICKER, DECAL - Kitchen, Bar, Pub, Restaurant"><img src="{{ '/assets/images/marketplace-covers/54d951aad65931c4f270.jpg' | relative_url }}" alt="Listing image for WINE IS BOTTLED POETRY WALL ART STICKER, DECAL - Kitchen, Bar, Pub, Restaurant" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=poetry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=poetry-rhythm-why-poems-need-a-voice-in-your-head-increasing-poetry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="poetry wall art" data-ebay-reference="poetry-rhythm-why-poems-need-a-voice-in-your-head-increasing-poetry-wall-art" target="_blank" rel="sponsored noopener noreferrer">WINE IS BOTTLED POETRY WALL ART STICKER, DECAL - Kitchen, Bar, Pub, Restaurant</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=poetry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=poetry-rhythm-why-poems-need-a-voice-in-your-head-increasing-poetry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="poetry wall art" data-ebay-reference="poetry-rhythm-why-poems-need-a-voice-in-your-head-increasing-poetry-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for poetry wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: poetry wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=poetry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=poetry-rhythm-why-poems-need-a-voice-in-your-head-increasing-poetry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="poetry wall art" data-ebay-reference="poetry-rhythm-why-poems-need-a-voice-in-your-head-increasing-poetry-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=poetry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=poetry-rhythm-why-poems-need-a-voice-in-your-head-increasing-poetry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="poetry wall art" data-ebay-reference="poetry-rhythm-why-poems-need-a-voice-in-your-head-increasing-poetry-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=poetry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=poetry-rhythm-why-poems-need-a-voice-in-your-head-increasing-poetry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="poetry wall art" data-ebay-reference="poetry-rhythm-why-poems-need-a-voice-in-your-head-increasing-poetry-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WINE IS BOTTLED POETRY WALL ART STICKER, DECAL - Kitchen, Bar, Pub, Restaurant"><img src="{{ '/assets/images/marketplace-covers/54d951aad65931c4f270.jpg' | relative_url }}" alt="Listing image for WINE IS BOTTLED POETRY WALL ART STICKER, DECAL - Kitchen, Bar, Pub, Restaurant" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=poetry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=poetry-rhythm-why-poems-need-a-voice-in-your-head-increasing-poetry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="poetry wall art" data-ebay-reference="poetry-rhythm-why-poems-need-a-voice-in-your-head-increasing-poetry-wall-art" target="_blank" rel="sponsored noopener noreferrer">WINE IS BOTTLED POETRY WALL ART STICKER, DECAL - Kitchen, Bar, Pub, Restaurant</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=poetry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=poetry-rhythm-why-poems-need-a-voice-in-your-head-increasing-poetry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="poetry wall art" data-ebay-reference="poetry-rhythm-why-poems-need-a-voice-in-your-head-increasing-poetry-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for poetry wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: poetry wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=poetry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=poetry-rhythm-why-poems-need-a-voice-in-your-head-increasing-poetry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="poetry wall art" data-ebay-reference="poetry-rhythm-why-poems-need-a-voice-in-your-head-increasing-poetry-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=poetry+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=poetry-rhythm-why-poems-need-a-voice-in-your-head-increasing-poetry-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="poetry wall art" data-ebay-reference="poetry-rhythm-why-poems-need-a-voice-in-your-head-increasing-poetry-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -534,7 +534,7 @@ For poetry, hearing the words in your head is often not a barrier to understandi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -554,7 +554,7 @@ For poetry, hearing the words in your head is often not a barrier to understandi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -586,7 +586,7 @@ For poetry, hearing the words in your head is often not a barrier to understandi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -638,7 +638,7 @@ For poetry, hearing the words in your head is often not a barrier to understandi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -683,7 +683,7 @@ For poetry, hearing the words in your head is often not a barrier to understandi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -724,122 +724,122 @@ For poetry, hearing the words in your head is often not a barrier to understandi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ila.onlinelibrary.wiley.com  
    Title: ILAEvidence for Prosody in Silent Reading  
-   Link: <a href="https://ila.onlinelibrary.wiley.com/doi/10.1002/rrq.67" target="_blank" rel="noopener noreferrer nofollow">https://ila.onlinelibrary.wiley.com/doi/10.1002/rrq.67</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gross - 201418 Dec 2013 — In two studies, we sought to understand whether the inner voice of skilled, adult readers preserves the prosodi...</p></details>
+   Link:<a href="https://ila.onlinelibrary.wiley.com/doi/10.1002/rrq.67" target="_blank" rel="noopener noreferrer nofollow">https://ila.onlinelibrary.wiley.com/doi/10.1002/rrq.67</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gross - 201418 Dec 2013 — In two studies, we sought to understand whether the inner voice of skilled, adult readers preserves the prosodi...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12194486/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12194486/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the Prosodic Structure of Texts Reflected in Silent Reading...by M Palmović · 2025 — This study provides indirect evidence in favour of...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12194486/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12194486/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Prosodic Structure of Texts Reflected in Silent Reading...by M Palmović · 2025 — This study provides indirect evidence in favour of...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8557949/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8557949/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rhythmic subvocalization: An eye-tracking study on silent...by J Beck · 2021 · Cited by 22 — The present study investigates effects o...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8557949/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8557949/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rhythmic subvocalization: An eye-tracking study on silent...by J Beck · 2021 · Cited by 22 — The present study investigates effects o...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/1995-8692/13/3/25" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1995-8692/13/3/25</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rhythmic Subvocalization: An Eye-Tracking Study on...by J Beck · 2021 · Cited by 22 — The present study investigates effects of conv...</p></details>
+   Link:<a href="https://www.mdpi.com/1995-8692/13/3/25" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1995-8692/13/3/25</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rhythmic Subvocalization: An Eye-Tracking Study on...by J Beck · 2021 · Cited by 22 — The present study investigates effects of conv...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ila.onlinelibrary.wiley.com  
    Title: ILAEvidence for Prosody in Silent Reading  
-   Link: <a href="https://ila.onlinelibrary.wiley.com/doi/abs/10.1002/rrq.67" target="_blank" rel="noopener noreferrer nofollow">https://ila.onlinelibrary.wiley.com/doi/abs/10.1002/rrq.67</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Because the inner voice cannot be directly observed, we borrowed the cap-emphasis...Read more...</p></details>
+   Link:<a href="https://ila.onlinelibrary.wiley.com/doi/abs/10.1002/rrq.67" target="_blank" rel="noopener noreferrer nofollow">https://ila.onlinelibrary.wiley.com/doi/abs/10.1002/rrq.67</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Because the inner voice cannot be directly observed, we borrowed the cap-emphasis...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCMental Simulations of Phonological Representations  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7792465/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7792465/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by B Yao · 2021 · Cited by 18 — The findings suggest that a more vivid inner speech is mentally activated during silent reading of dir...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7792465/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7792465/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by B Yao · 2021 · Cited by 18 — The findings suggest that a more vivid inner speech is mentally activated during silent reading of dir...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3198452/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3198452/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Speech during Silent Reading Reflects the Reader&#x27;s...by R Filik · 2011 · Cited by 113 — The current study suggests that inner speech is...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3198452/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3198452/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Speech during Silent Reading Reflects the Reader&#x27;s...by R Filik · 2011 · Cited by 113 — The current study suggests that inner speech is...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pubs.asha.org  
-   Link: <a href="https://pubs.asha.org/doi/10.1044/2023_PERSP-23-00170" target="_blank" rel="noopener noreferrer nofollow">https://pubs.asha.org/doi/10.1044/2023_PERSP-23-00170</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ASHA PublicationsThe Role of Prosody in Reading Comprehension for...The purposes of this clinical focus article are to describe differen...</p></details>
+   Link:<a href="https://pubs.asha.org/doi/10.1044/2023_PERSP-23-00170" target="_blank" rel="noopener noreferrer nofollow">https://pubs.asha.org/doi/10.1044/2023_PERSP-23-00170</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ASHA PublicationsThe Role of Prosody in Reading Comprehension for...The purposes of this clinical focus article are to describe differen...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: journalofcognition.org  
-   Link: <a href="https://journalofcognition.org/articles/10.5334/joc.141" target="_blank" rel="noopener noreferrer nofollow">https://journalofcognition.org/articles/10.5334/joc.141</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of CognitionMental Simulations of Phonological Representations Are...by B Yao · 2021 · Cited by 18 — Recent research shows in si...</p></details>
+   Link:<a href="https://journalofcognition.org/articles/10.5334/joc.141" target="_blank" rel="noopener noreferrer nofollow">https://journalofcognition.org/articles/10.5334/joc.141</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of CognitionMental Simulations of Phonological Representations Are...by B Yao · 2021 · Cited by 18 — Recent research shows in si...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1509793/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1509793/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersAuditory imagery and poetry-elicited emotions: a study on...by S Piţur · 2025 · Cited by 1 — Silent reading evokes auditory ima...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1509793/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1509793/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersAuditory imagery and poetry-elicited emotions: a study on...by S Piţur · 2025 · Cited by 1 — Silent reading evokes auditory ima...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/1086296X14535170" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1086296X14535170</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsInterpreting the Relationships Among Prosody...by DD Paige · 2014 · Cited by 175 — The present study extends the relationsh...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/1086296X14535170" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1086296X14535170</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsInterpreting the Relationships Among Prosody...by DD Paige · 2014 · Cited by 175 — The present study extends the relationsh...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s11097-024-09966-x" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11097-024-09966-x</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of silent reading | Phenomenology and the...by C Barbero · 2024 · Cited by 6 — What the reader&#x27;s eye tells the mind&#x27;s ear: [Silent readin](&amp;#123;&amp;#123; &#x27;inner-rhythm/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s11097-024-09966-x" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11097-024-09966-x</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of silent reading | Phenomenology and the...by C Barbero · 2024 · Cited by 6 — What the reader&#x27;s eye tells the mind&#x27;s ear: [Silent readin](&amp;#123;&amp;#123; &#x27;inner-rhythm/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ies.ed.gov  
-   Link: <a href="https://ies.ed.gov/use-work/awards/development-oral-and-silent-reading-fluency-and-their-relation-reading-comprehension-first-through" target="_blank" rel="noopener noreferrer nofollow">https://ies.ed.gov/use-work/awards/development-oral-and-silent-reading-fluency-and-their-relation-reading-comprehension-first-through</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Institute of Education SciencesDevelopment of Oral and Silent Reading Fluency and Their...The goals of this study were to: (1) explore d...</p></details>
+   Link:<a href="https://ies.ed.gov/use-work/awards/development-oral-and-silent-reading-fluency-and-their-relation-reading-comprehension-first-through" target="_blank" rel="noopener noreferrer nofollow">https://ies.ed.gov/use-work/awards/development-oral-and-silent-reading-fluency-and-their-relation-reading-comprehension-first-through</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Institute of Education SciencesDevelopment of Oral and Silent Reading Fluency and Their...The goals of this study were to: (1) explore d...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: asu.elsevierpure.com  
-   Link: <a href="https://asu.elsevierpure.com/en/publications/what-the-readers-eye-tells-the-minds-ear-silent-reading-activates/" target="_blank" rel="noopener noreferrer nofollow">https://asu.elsevierpure.com/en/publications/what-the-readers-eye-tells-the-minds-ear-silent-reading-activates/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the reader&#x27;s eye tells the mind&#x27;s ear: Silent reading...by M Abramson · 1997 · Cited by 186 — The present study examined the similarity...</p></details>
+   Link:<a href="https://asu.elsevierpure.com/en/publications/what-the-readers-eye-tells-the-minds-ear-silent-reading-activates/" target="_blank" rel="noopener noreferrer nofollow">https://asu.elsevierpure.com/en/publications/what-the-readers-eye-tells-the-minds-ear-silent-reading-activates/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the reader&#x27;s eye tells the mind&#x27;s ear: Silent reading...by M Abramson · 1997 · Cited by 186 — The present study examined the similarity...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/259542722_Evidence_for_Prosody_in_Silent_Reading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/259542722_Evidence_for_Prosody_in_Silent_Reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Because the inner voice cannot be directly observed, we borrowed the cap-emphasis technique (e.g....Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/259542722_Evidence_for_Prosody_in_Silent_Reading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/259542722_Evidence_for_Prosody_in_Silent_Reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Because the inner voice cannot be directly observed, we borrowed the cap-emphasis technique (e.g....Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: scholarworks.gvsu.edu  
    Title: Scholar Works Evidence for Prosody in Silent Reading  
-   Link: <a href="https://scholarworks.gvsu.edu/cgi/viewcontent.cgi?article=1019&amp;context=oapsf_articles" target="_blank" rel="noopener noreferrer nofollow">https://scholarworks.gvsu.edu/cgi/viewcontent.cgi?article=1019&amp;context=oapsf_articles</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence for Prosody in Silent Reading - ScholarWorks@GVSUby J Gross · 2014 · Cited by 49 — In two studies, we sought to unde...</p></details>
+   Link:<a href="https://scholarworks.gvsu.edu/cgi/viewcontent.cgi?article=1019&amp;context=oapsf_articles" target="_blank" rel="noopener noreferrer nofollow">https://scholarworks.gvsu.edu/cgi/viewcontent.cgi?article=1019&amp;context=oapsf_articles</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence for Prosody in Silent Reading - ScholarWorks@GVSUby J Gross · 2014 · Cited by 49 — In two studies, we sought to unde...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
    Title: (PDF) Inner Prosody In Silent Poetry Reading  
-   Link: <a href="https://www.researchgate.net/publication/400757425_Inner_Prosody_In_Silent_Poetry_Reading_The_Role_of_Subvocalisation_and_Imagined_Voice" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400757425_Inner_Prosody_In_Silent_Poetry_Reading_The_Role_of_Subvocalisation_and_Imagined_Voice</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Role of...13 Feb 2026 — The article explores the phenomenon of inner prosody during silent poem reading, focusing on the role of sub...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/400757425_Inner_Prosody_In_Silent_Poetry_Reading_The_Role_of_Subvocalisation_and_Imagined_Voice" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400757425_Inner_Prosody_In_Silent_Poetry_Reading_The_Role_of_Subvocalisation_and_Imagined_Voice</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Role of...13 Feb 2026 — The article explores the phenomenon of inner prosody during silent poem reading, focusing on the role of sub...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: mtholyoke.edu  
    Title: professor studies silent inner voice  
-   Link: <a href="https://www.mtholyoke.edu/news/news-stories/professor-studies-silent-inner-voice" target="_blank" rel="noopener noreferrer nofollow">https://www.mtholyoke.edu/news/news-stories/professor-studies-silent-inner-voice</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>13 Jan 2016 — Professor Mara Breen studies how we “hear” the words we read, and what happens when the brain expects one word but gets ano...</p></details>
+   Link:<a href="https://www.mtholyoke.edu/news/news-stories/professor-studies-silent-inner-voice" target="_blank" rel="noopener noreferrer nofollow">https://www.mtholyoke.edu/news/news-stories/professor-studies-silent-inner-voice</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>13 Jan 2016 — Professor Mara Breen studies how we “hear” the words we read, and what happens when the brain expects one word but gets ano...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ora.ox.ac.uk  
-   Link: <a href="https://ora.ox.ac.uk/objects/uuid%3Adfe9f411-fa39-48db-9fc3-b61ed41deb1e/files/dsf2685900" target="_blank" rel="noopener noreferrer nofollow">https://ora.ox.ac.uk/objects/uuid%3Adfe9f411-fa39-48db-9fc3-b61ed41deb1e/files/dsf2685900</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ox.ac.ukL2 readers&#x27; experiences of silent reading, reading aloud and...by E Mok · 2023 · Cited by 1 — Results suggest that readers acces...</p></details>
+   Link:<a href="https://ora.ox.ac.uk/objects/uuid%3Adfe9f411-fa39-48db-9fc3-b61ed41deb1e/files/dsf2685900" target="_blank" rel="noopener noreferrer nofollow">https://ora.ox.ac.uk/objects/uuid%3Adfe9f411-fa39-48db-9fc3-b61ed41deb1e/files/dsf2685900</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ox.ac.ukL2 readers&#x27; experiences of silent reading, reading aloud and...by E Mok · 2023 · Cited by 1 — Results suggest that readers acces...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/25742442.2022.2163582" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/25742442.2022.2163582</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Subvocalization during Preparatory and Non...by EB Greenspon · 2023 · Cited by 5 — Our findings suggest that pitch imagery recruits subv...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/abs/10.1080/25742442.2022.2163582" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/25742442.2022.2163582</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Subvocalization during Preparatory and Non...by EB Greenspon · 2023 · Cited by 5 — Our findings suggest that pitch imagery recruits subv...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Sub-vocalization, Comprehension, and a Simple Way to Increase Reading Speed  
-   Link: <a href="https://www.youtube.com/watch?v=hG5TFHI-dNI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hG5TFHI-dNI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Subvocalization | Things About Speed Reading Nobody Tells You...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=hG5TFHI-dNI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hG5TFHI-dNI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Subvocalization | Things About Speed Reading Nobody Tells You...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Subvocalization | Things About Speed Reading Nobody Tells You  
-   Link: <a href="https://www.youtube.com/watch?v=DGDkTyOt7gQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DGDkTyOt7gQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Speed Reading for Language Learning [Step-by-Step Tutorial]...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=DGDkTyOt7gQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DGDkTyOt7gQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Speed Reading for Language Learning [Step-by-Step Tutorial]...</p></details>

@@ -269,7 +269,7 @@ image: /assets/images/increasing_re_852ca6_rsvp_reading_26badc_fixed_timing_110c
 
 ## Introduction
 
-Rapid Serial Visual Presentation (RSVP) reading can make reading feel dramatically faster because words arrive at a relentless pace and visible progress is easy to [measure]({{ 'measure/' | relative_url }}). The critical question, however, is not how many words pass through the eyes but how much meaning survives afterwards. Research on RSVP consistently shows that speed gains eventually stop translating into equivalent gains in understanding. As presentation rates rise, readers may continue consuming words more quickly while losing detail, weakening memory for the text, and struggling to connect ideas across sentences. The result is a growing gap between apparent reading speed and actual comprehension. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/328925418_Rapid_serial_visual_presentation_Degradation_of_inferential_reading_comprehension_as_a_function_of_speed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">We tested the method using 209 participants divided into six groups.Read more</span><span class="citation-popover-snippet">ResearchGate(PDF) Rapid serial visual presentation: Degradation of...Mar 4, 2020 — RSVP is perhaps the best method of presenting text in...</span></span></span>
+Rapid Serial Visual Presentation (RSVP) reading can make reading feel dramatically faster because words arrive at a relentless pace and visible progress is easy to [measure]({{ 'measure/' | relative_url }}). The critical question, however, is not how many words pass through the eyes but how much meaning survives afterwards. Research on RSVP consistently shows that speed gains eventually stop translating into equivalent gains in understanding. As presentation rates rise, readers may continue consuming words more quickly while losing detail, weakening memory for the text, and struggling to connect ideas across sentences. The result is a growing gap between apparent reading speed and actual comprehension.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/328925418_Rapid_serial_visual_presentation_Degradation_of_inferential_reading_comprehension_as_a_function_of_speed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">We tested the method using 209 participants divided into six groups.Read more</span><span class="citation-popover-snippet">ResearchGate(PDF) Rapid serial visual presentation: Degradation of...Mar 4, 2020 — RSVP is perhaps the best method of presenting text in...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_rsvp_reading_26badc_fixed_timing_110cf1_rsvp_speed_tr_fbaed8-Illustration-1-dark.svg" | relative_url }}" alt="Speed Tradeoff illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_rsvp_reading_26badc_fixed_timing_110cf1_rsvp_speed_tr_fbaed8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_rsvp_reading_26badc_fixed_timing_110cf1_rsvp_speed_tr_fbaed8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -277,7 +277,7 @@ Rapid Serial Visual Presentation (RSVP) reading can make reading feel dramatical
 
 One reason RSVP is persuasive is that it removes many visible signs of effort. Traditional reading involves pauses, [eye movements]({{ 'eye-tradeoff/' | relative_url }}), occasional rereading, and uneven pacing. RSVP replaces these behaviours with a smooth stream of words appearing in a single location.
 
-This creates a powerful impression of efficiency. Readers may cover a passage in half the time and feel productive because they never stop moving forward. Yet the sensation of fluency can be misleading. Cognitive psychologists have long noted that people often judge understanding by how easily information is processed rather than by how accurately it can later be recalled or explained. RSVP amplifies this effect because progress is constant and highly visible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/29461715/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Modern Speed-Reading Apps Do Not Foster...by D Acklin · 2017 · Cited by 24 — Instead, comprehension was most affected by reading s...</span></span></span>
+This creates a powerful impression of efficiency. Readers may cover a passage in half the time and feel productive because they never stop moving forward. Yet the sensation of fluency can be misleading. Cognitive psychologists have long noted that people often judge understanding by how easily information is processed rather than by how accurately it can later be recalled or explained. RSVP amplifies this effect because progress is constant and highly visible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/29461715/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Modern Speed-Reading Apps Do Not Foster...by D Acklin · 2017 · Cited by 24 — Instead, comprehension was most affected by reading s...</span></span></span>
 
 The distinction matters because reading has multiple layers:
 
@@ -292,7 +292,7 @@ The distinction matters because reading has multiple layers:
 
 </div>
 
-A reader may succeed at the first layer while performance declines on the later ones. The words keep arriving, but understanding falls behind. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/328925418_Rapid_serial_visual_presentation_Degradation_of_inferential_reading_comprehension_as_a_function_of_speed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">We tested the method using 209 participants divided into six groups.Read more</span><span class="citation-popover-snippet">ResearchGate(PDF) Rapid serial visual presentation: Degradation of...Mar 4, 2020 — RSVP is perhaps the best method of presenting text in...</span></span></span>
+A reader may succeed at the first layer while performance declines on the later ones. The words keep arriving, but understanding falls behind.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/328925418_Rapid_serial_visual_presentation_Degradation_of_inferential_reading_comprehension_as_a_function_of_speed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">We tested the method using 209 participants divided into six groups.Read more</span><span class="citation-popover-snippet">ResearchGate(PDF) Rapid serial visual presentation: Degradation of...Mar 4, 2020 — RSVP is perhaps the best method of presenting text in...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dfOiXkebDQA" title="What Does “RSVP” Mean?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dfOiXkebDQA" target="_blank" rel="noopener noreferrer">What Does “RSVP” Mean?</a></p><p class="youtube-embed-meta">Channel: History of Simple Things</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dfOiXkebDQA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dfOiXkebDQA">Open on YouTube</a></p></div></div></div>
@@ -301,15 +301,15 @@ A reader may succeed at the first layer while performance declines on the later 
 
 The most useful evidence comes from studies that increase RSVP speed and then test what readers actually remember and infer.
 
-In one study involving more than 200 participants, researchers compared traditional reading with RSVP at rates ranging from 250 to 500 words per minute. Reading speed increased as expected, but inferential comprehension—the ability to connect ideas and derive meaning beyond explicitly stated facts—declined as presentation speed rose. The researchers described a degradation of inferential comprehension as a function of speed, indicating that faster delivery eventually outpaced the cognitive processes needed to construct meaning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/328925418_Rapid_serial_visual_presentation_Degradation_of_inferential_reading_comprehension_as_a_function_of_speed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2InderScience Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">We tested the method using 209 participants divided into six groups.Read more</span><span class="citation-popover-snippet">ResearchGate(PDF) Rapid serial visual presentation: Degradation of...Mar 4, 2020 — RSVP is perhaps the best method of presenting text in...</span></span></span>
+In one study involving more than 200 participants, researchers compared traditional reading with RSVP at rates ranging from 250 to 500 words per minute. Reading speed increased as expected, but inferential comprehension—the ability to connect ideas and derive meaning beyond explicitly stated facts—declined as presentation speed rose. The researchers described a degradation of inferential comprehension as a function of speed, indicating that faster delivery eventually outpaced the cognitive processes needed to construct meaning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/328925418_Rapid_serial_visual_presentation_Degradation_of_inferential_reading_comprehension_as_a_function_of_speed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2InderScience Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">We tested the method using 209 participants divided into six groups.Read more</span><span class="citation-popover-snippet">ResearchGate(PDF) Rapid serial visual presentation: Degradation of...Mar 4, 2020 — RSVP is perhaps the best method of presenting text in...</span></span></span>
 
-Other work comparing modern [speed-reading]({{ 'myths/' | relative_url }}) apps with conventional reading found that comprehension was strongly affected by presentation speed. Static text generally produced better comprehension than RSVP formats, and slower RSVP settings produced better retention of exact information than faster settings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/29461715/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Modern Speed-Reading Apps Do Not Foster...by D Acklin · 2017 · Cited by 24 — Instead, comprehension was most affected by reading s...</span></span></span>
+Other work comparing modern [speed-reading]({{ 'myths/' | relative_url }}) apps with conventional reading found that comprehension was strongly affected by presentation speed. Static text generally produced better comprehension than RSVP formats, and slower RSVP settings produced better retention of exact information than faster settings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/29461715/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Modern Speed-Reading Apps Do Not Foster...by D Acklin · 2017 · Cited by 24 — Instead, comprehension was most affected by reading s...</span></span></span>
 
 The pattern is not that comprehension suddenly collapses at one precise threshold. Instead, there is a gradual trade-off:
 
 Reading outcomeEffect of [increasing]({{ 'increasing/' | relative_url }}) RSVP speedBasic word recognitionOften remains strongGeneral gistCan remain acceptable for a whileRecall of detailsTends to weakenInferential understandingDeclines more noticeablyLong-term retentionOften suffers further
 
-This helps explain why readers sometimes believe they are understanding everything when objective testing shows otherwise. They retain enough of the main idea to feel successful, even as finer layers of comprehension deteriorate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/328925418_Rapid_serial_visual_presentation_Degradation_of_inferential_reading_comprehension_as_a_function_of_speed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">We tested the method using 209 participants divided into six groups.Read more</span><span class="citation-popover-snippet">ResearchGate(PDF) Rapid serial visual presentation: Degradation of...Mar 4, 2020 — RSVP is perhaps the best method of presenting text in...</span></span></span>
+This helps explain why readers sometimes believe they are understanding everything when objective testing shows otherwise. They retain enough of the main idea to feel successful, even as finer layers of comprehension deteriorate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/328925418_Rapid_serial_visual_presentation_Degradation_of_inferential_reading_comprehension_as_a_function_of_speed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">We tested the method using 209 participants divided into six groups.Read more</span><span class="citation-popover-snippet">ResearchGate(PDF) Rapid serial visual presentation: Degradation of...Mar 4, 2020 — RSVP is perhaps the best method of presenting text in...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JL4WMHyUhdc" title="Do Speed Reading Apps &amp; Techniques Really Work? - College Info Geek" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JL4WMHyUhdc" target="_blank" rel="noopener noreferrer">Do Speed Reading Apps &amp; Techniques Really Work? - College Info Geek</a></p><p class="youtube-embed-meta">Channel: Thomas Frank &middot; Views: 261.2K &middot; Uploaded: September 2015 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JL4WMHyUhdc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JL4WMHyUhdc">Open on YouTube</a></p></div></div></div>
@@ -320,7 +320,7 @@ The most revealing finding in RSVP research is that understanding often fails no
 
 Language comprehension depends on combining information over time. A reader encountering a complex argument, a cause-and-effect explanation, or a subtle narrative shift must hold earlier information in memory while incorporating new information. This integration process requires flexible [timing]({{ 'timing/' | relative_url }}).
 
-Under RSVP, every word receives roughly the same opportunity for processing. Difficult passages do not automatically receive extra attention. The stream continues whether the reader has fully integrated the previous idea or not. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tsw.it/wp-content/uploads/Rapid-serial-visual-presentation-in-reading-The-case-of-Spritz-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tsw.it">[TSW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tsw.it</span><span class="citation-popover-title">Rapid serial visual presentation in reading The case of Spritz 1</span><span class="citation-popover-snippet">Rapid serial visual presentation in reading: The case of Spritzby S Benedetto · 2015 · Cited by 99 — By requiring eye movements to be...</span></span></span>
+Under RSVP, every word receives roughly the same opportunity for processing. Difficult passages do not automatically receive extra attention. The stream continues whether the reader has fully integrated the previous idea or not.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tsw.it/wp-content/uploads/Rapid-serial-visual-presentation-in-reading-The-case-of-Spritz-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tsw.it">[TSW]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tsw.it</span><span class="citation-popover-title">Rapid serial visual presentation in reading The case of Spritz 1</span><span class="citation-popover-snippet">Rapid serial visual presentation in reading: The case of Spritzby S Benedetto · 2015 · Cited by 99 — By requiring eye movements to be...</span></span></span>
 
 The problem becomes particularly visible when texts require:
 
@@ -335,7 +335,7 @@ The problem becomes particularly visible when texts require:
 
 </div>
 
-These tasks depend on building relationships among ideas rather than merely recognising words. As speed increases, the cognitive bottleneck shifts from seeing words to constructing meaning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/328925418_Rapid_serial_visual_presentation_Degradation_of_inferential_reading_comprehension_as_a_function_of_speed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">We tested the method using 209 participants divided into six groups.Read more</span><span class="citation-popover-snippet">ResearchGate(PDF) Rapid serial visual presentation: Degradation of...Mar 4, 2020 — RSVP is perhaps the best method of presenting text in...</span></span></span>
+These tasks depend on building relationships among ideas rather than merely recognising words. As speed increases, the cognitive bottleneck shifts from seeing words to constructing meaning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/328925418_Rapid_serial_visual_presentation_Degradation_of_inferential_reading_comprehension_as_a_function_of_speed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">We tested the method using 209 participants divided into six groups.Read more</span><span class="citation-popover-snippet">ResearchGate(PDF) Rapid serial visual presentation: Degradation of...Mar 4, 2020 — RSVP is perhaps the best method of presenting text in...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_rsvp_reading_26badc_fixed_timing_110cf1_rsvp_speed_tr_fbaed8-Illustration-2-dark.svg" | relative_url }}" alt="Speed Tradeoff illustration 2" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_rsvp_reading_26badc_fixed_timing_110cf1_rsvp_speed_tr_fbaed8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_rsvp_reading_26badc_fixed_timing_110cf1_rsvp_speed_tr_fbaed8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -343,17 +343,17 @@ These tasks depend on building relationships among ideas rather than merely reco
 
 One reason understanding deteriorates is the loss of [regressions]({{ 'lookbacks/' | relative_url }})—the brief backward eye movements that occur naturally during ordinary reading.
 
-Eye-tracking research shows that readers regularly move their eyes back to earlier text. These regressions are not signs of failure. They are part of successful comprehension, allowing readers to verify relationships, resolve ambiguity, and recover from misunderstandings. Some studies estimate that readers reread portions of text roughly 10–15% of the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://today.ucsd.edu/story/dont_believe_what_you_read_only_once_speed_reading_apps_may_impair_reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: today.ucsd.edu">[UC San Diego Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">today.ucsd.edu</span><span class="citation-popover-title">dont believe what you read only once speed reading apps may impair reading</span><span class="citation-popover-snippet">UC San Diego TodaySpeed-Reading Apps May Impair Reading Comprehension22 Apr 2014 — Studies have shown that readers make regressions, movi...</span></span></span>
+Eye-tracking research shows that readers regularly move their eyes back to earlier text. These regressions are not signs of failure. They are part of successful comprehension, allowing readers to verify relationships, resolve ambiguity, and recover from misunderstandings. Some studies estimate that readers reread portions of text roughly 10–15% of the time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://today.ucsd.edu/story/dont_believe_what_you_read_only_once_speed_reading_apps_may_impair_reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: today.ucsd.edu">[UC San Diego Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">today.ucsd.edu</span><span class="citation-popover-title">dont believe what you read only once speed reading apps may impair reading</span><span class="citation-popover-snippet">UC San Diego TodaySpeed-Reading Apps May Impair Reading Comprehension22 Apr 2014 — Studies have shown that readers make regressions, movi...</span></span></span>
 
 RSVP largely removes this behaviour. Once a word disappears, the reader cannot naturally glance back. Some applications add rewind functions, but these are slower and less seamless than ordinary rereading.
 
-The consequence is subtle. Readers may continue moving through text rapidly while accumulating small misunderstandings. Each individual error may seem minor, but the effects compound across a paragraph or chapter. By the end, readers often retain the broad topic while missing important relationships and details. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://today.ucsd.edu/story/dont_believe_what_you_read_only_once_speed_reading_apps_may_impair_reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: today.ucsd.edu">[UC San Diego Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">today.ucsd.edu</span><span class="citation-popover-title">dont believe what you read only once speed reading apps may impair reading</span><span class="citation-popover-snippet">UC San Diego TodaySpeed-Reading Apps May Impair Reading Comprehension22 Apr 2014 — Studies have shown that readers make regressions, movi...</span></span></span>
+The consequence is subtle. Readers may continue moving through text rapidly while accumulating small misunderstandings. Each individual error may seem minor, but the effects compound across a paragraph or chapter. By the end, readers often retain the broad topic while missing important relationships and details.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://today.ucsd.edu/story/dont_believe_what_you_read_only_once_speed_reading_apps_may_impair_reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: today.ucsd.edu">[UC San Diego Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">today.ucsd.edu</span><span class="citation-popover-title">dont believe what you read only once speed reading apps may impair reading</span><span class="citation-popover-snippet">UC San Diego TodaySpeed-Reading Apps May Impair Reading Comprehension22 Apr 2014 — Studies have shown that readers make regressions, movi...</span></span></span>
 
 ## Complex Text Reveals the Trade-off Most Clearly
 
 The speed-understanding gap is usually smaller for simple material than for demanding material.
 
-Short emails, familiar news topics, routine updates, and highly predictable content can often tolerate faster presentation because readers already possess much of the required context. In these cases, RSVP may function similarly to an aggressive form of skimming. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/technology/2017/apr/08/speed-reading-apps-can-you-really-read-novel-in-your-lunch-hour" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
+Short emails, familiar news topics, routine updates, and highly predictable content can often tolerate faster presentation because readers already possess much of the required context. In these cases, RSVP may function similarly to an aggressive form of skimming.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/technology/2017/apr/08/speed-reading-apps-can-you-really-read-novel-in-your-lunch-hour" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
 
 The situation changes when readers encounter:
 
@@ -368,7 +368,7 @@ The situation changes when readers encounter:
 
 </div>
 
-In such material, understanding depends heavily on reflection, comparison, and integration. Faster word delivery does not reduce the amount of cognitive work required. It simply compresses the time available to perform it. Research repeatedly finds that as RSVP rates rise, comprehension costs become more apparent for these more demanding forms of reading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/328925418_Rapid_serial_visual_presentation_Degradation_of_inferential_reading_comprehension_as_a_function_of_speed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2Nottingham ePrints]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">We tested the method using 209 participants divided into six groups.Read more</span><span class="citation-popover-snippet">ResearchGate(PDF) Rapid serial visual presentation: Degradation of...Mar 4, 2020 — RSVP is perhaps the best method of presenting text in...</span></span></span>
+In such material, understanding depends heavily on reflection, comparison, and integration. Faster word delivery does not reduce the amount of cognitive work required. It simply compresses the time available to perform it. Research repeatedly finds that as RSVP rates rise, comprehension costs become more apparent for these more demanding forms of reading.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/328925418_Rapid_serial_visual_presentation_Degradation_of_inferential_reading_comprehension_as_a_function_of_speed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2Nottingham ePrints]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">We tested the method using 209 participants divided into six groups.Read more</span><span class="citation-popover-snippet">ResearchGate(PDF) Rapid serial visual presentation: Degradation of...Mar 4, 2020 — RSVP is perhaps the best method of presenting text in...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JzDUijOW-IU" title="Does RSVP Reading Work For Everyone? - Ultimate Study Hacks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JzDUijOW-IU" target="_blank" rel="noopener noreferrer">Does RSVP Reading Work For Everyone? - Ultimate Study Hacks</a></p><p class="youtube-embed-meta">Channel: Ultimate Study Hacks &middot; Views: 244 &middot; Uploaded: June 2025 &middot; Length: 3 minutes 23 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JzDUijOW-IU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JzDUijOW-IU">Open on YouTube</a></p></div></div></div>
@@ -387,7 +387,7 @@ After a reading session, try answering questions such as:
 
 If speed increases but performance on these tasks falls, the gain is largely cosmetic rather than functional.
 
-A useful comparison method is to read similar passages at different RSVP rates and then test comprehension immediately and again after a delay. Many readers discover that the highest speed that feels comfortable is not the highest speed that preserves understanding. The optimum rate is usually lower than the maximum rate they can tolerate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/328925418_Rapid_serial_visual_presentation_Degradation_of_inferential_reading_comprehension_as_a_function_of_speed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">We tested the method using 209 participants divided into six groups.Read more</span><span class="citation-popover-snippet">ResearchGate(PDF) Rapid serial visual presentation: Degradation of...Mar 4, 2020 — RSVP is perhaps the best method of presenting text in...</span></span></span>
+A useful comparison method is to read similar passages at different RSVP rates and then test comprehension immediately and again after a delay. Many readers discover that the highest speed that feels comfortable is not the highest speed that preserves understanding. The optimum rate is usually lower than the maximum rate they can tolerate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/328925418_Rapid_serial_visual_presentation_Degradation_of_inferential_reading_comprehension_as_a_function_of_speed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate+2PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">We tested the method using 209 participants divided into six groups.Read more</span><span class="citation-popover-snippet">ResearchGate(PDF) Rapid serial visual presentation: Degradation of...Mar 4, 2020 — RSVP is perhaps the best method of presenting text in...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_rsvp_reading_26badc_fixed_timing_110cf1_rsvp_speed_tr_fbaed8-Illustration-3-dark.svg" | relative_url }}" alt="Speed Tradeoff illustration 3" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_rsvp_reading_26badc_fixed_timing_110cf1_rsvp_speed_tr_fbaed8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_rsvp_reading_26badc_fixed_timing_110cf1_rsvp_speed_tr_fbaed8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -395,197 +395,197 @@ A useful comparison method is to read similar passages at different RSVP rates a
 
 For readers interested in increasing reading speed, the most important lesson is that comprehension does not scale automatically with presentation rate. RSVP can increase the number of words encountered per minute, but once the stream outruns the brain's ability to connect, retain, and interpret information, further speed gains become largely illusory.
 
-The evidence suggests that the key question is not “How fast can I receive words?” but “How fast can I still remember, explain, and use what I read?” When those abilities begin to decline, RSVP speed gains have stopped matching understanding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/328925418_Rapid_serial_visual_presentation_Degradation_of_inferential_reading_comprehension_as_a_function_of_speed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[The Guardian+3ResearchGate+3PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">We tested the method using 209 participants divided into six groups.Read more</span><span class="citation-popover-snippet">ResearchGate(PDF) Rapid serial visual presentation: Degradation of...Mar 4, 2020 — RSVP is perhaps the best method of presenting text in...</span></span></span>
+The evidence suggests that the key question is not “How fast can I receive words?” but “How fast can I still remember, explain, and use what I read?” When those abilities begin to decline, RSVP speed gains have stopped matching understanding.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/328925418_Rapid_serial_visual_presentation_Degradation_of_inferential_reading_comprehension_as_a_function_of_speed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[The Guardian+3ResearchGate+3PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">We tested the method using 209 participants divided into six groups.Read more</span><span class="citation-popover-snippet">ResearchGate(PDF) Rapid serial visual presentation: Degradation of...Mar 4, 2020 — RSVP is perhaps the best method of presenting text in...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Faster Words Mean Less Understanding. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Faster Words Mean Less Understanding. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Directly addresses the difference between moving through text quickly and achieving genuine comprehension.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Directly addresses the difference between moving through text quickly and achieving genuine comprehension.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Organized+Mind+by+Daniel+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Organized Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=F78cBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Organized Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Organized+Mind+by+Daniel+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Organized Mind">The Organized Mind</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Levitin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Organized+Mind+by+Daniel+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Organized Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=F78cBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Organized Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Organized+Mind+by+Daniel+Levitin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Organized Mind">The Organized Mind</a>
+</h4>
+<p class="fr-book-author">By Daniel Levitin</p>
         
-        <p class="fr-book-desc">Explores attention, information processing, and cognitive limits relevant to rapid reading claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Organized+Mind+by+Daniel+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores attention, information processing, and cognitive limits relevant to rapid reading claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Organized+Mind+by+Daniel+Levitin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Moonwalking+with+Einstein+by+Joshua+Foer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Moonwalking with Einstein on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bFTl2b80zyQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Moonwalking with Einstein" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Moonwalking+with+Einstein+by+Joshua+Foer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Moonwalking with Einstein">Moonwalking with Einstein</a>
-        </h4>
-        <p class="fr-book-author">By Joshua Foer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Moonwalking+with+Einstein+by+Joshua+Foer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Moonwalking with Einstein on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bFTl2b80zyQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Moonwalking with Einstein" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Moonwalking+with+Einstein+by+Joshua+Foer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Moonwalking with Einstein">Moonwalking with Einstein</a>
+</h4>
+<p class="fr-book-author">By Joshua Foer</p>
         
-        <p class="fr-book-desc">Provides accessible insight into memory formation and why consuming information quickly is not the same as remembering it.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Moonwalking+with+Einstein+by+Joshua+Foer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides accessible insight into memory formation and why consuming information quickly is not the same as remembering it.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Moonwalking+with+Einstein+by+Joshua+Foer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oneWAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-        </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oneWAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+</h4>
+<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Examines how durable understanding is created and why perceived fluency can mislead learners.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how durable understanding is created and why perceived fluency can mislead learners.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Organized+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Organized Mind</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Moonwalking+with+Einstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Moonwalking with Einstein</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Organized+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Organized Mind</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Moonwalking+with+Einstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Moonwalking with Einstein</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;SHIRLEY BASSEY&#x27; 7&quot;VINYL WHEN YOU SMILE. IN A 10&quot; X 8&quot; FRAME MEMORABILIA SALE £8"><img src="{{ '/assets/images/marketplace-covers/752361b93cee137e90e8.jpg' | relative_url }}" alt="Listing image for &#x27;SHIRLEY BASSEY&#x27; 7&quot;VINYL WHEN YOU SMILE. IN A 10&quot; X 8&quot; FRAME MEMORABILIA SALE £8" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">&#x27;SHIRLEY BASSEY&#x27; 7&quot;VINYL WHEN YOU SMILE. IN A 10&quot; X 8&quot; FRAME MEMORABILIA SALE £8</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for when memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: when memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;SHIRLEY BASSEY&#x27; 7&quot;VINYL WHEN YOU SMILE. IN A 10&quot; X 8&quot; FRAME MEMORABILIA SALE £8"><img src="{{ '/assets/images/marketplace-covers/752361b93cee137e90e8.jpg' | relative_url }}" alt="Listing image for &#x27;SHIRLEY BASSEY&#x27; 7&quot;VINYL WHEN YOU SMILE. IN A 10&quot; X 8&quot; FRAME MEMORABILIA SALE £8" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">&#x27;SHIRLEY BASSEY&#x27; 7&quot;VINYL WHEN YOU SMILE. IN A 10&quot; X 8&quot; FRAME MEMORABILIA SALE £8</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for when memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: when memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Skiing Memorabilia Soft beever like Toy + red heart -Wolf Whistles when pressed"><img src="{{ '/assets/images/marketplace-covers/6b762440ad419aa98b00.jpg' | relative_url }}" alt="Listing image for Skiing Memorabilia Soft beever like Toy + red heart -Wolf Whistles when pressed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Skiing Memorabilia Soft beever like Toy + red heart -Wolf Whistles when pressed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for when memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: when memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Skiing Memorabilia Soft beever like Toy + red heart -Wolf Whistles when pressed"><img src="{{ '/assets/images/marketplace-covers/6b762440ad419aa98b00.jpg' | relative_url }}" alt="Listing image for Skiing Memorabilia Soft beever like Toy + red heart -Wolf Whistles when pressed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Skiing Memorabilia Soft beever like Toy + red heart -Wolf Whistles when pressed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for when memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: when memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MEMORABILIA ,ENGLISH IN AUSTRALIA , MYSELF WHEN LAURA , MONOGRAPH ONE , BOOKLET"><img src="{{ '/assets/images/marketplace-covers/7d78848bf05e7c6f6366.jpg' | relative_url }}" alt="Listing image for MEMORABILIA ,ENGLISH IN AUSTRALIA , MYSELF WHEN LAURA , MONOGRAPH ONE , BOOKLET" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">MEMORABILIA ,ENGLISH IN AUSTRALIA , MYSELF WHEN LAURA , MONOGRAPH ONE , BOOKLET</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for when memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: when memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MEMORABILIA ,ENGLISH IN AUSTRALIA , MYSELF WHEN LAURA , MONOGRAPH ONE , BOOKLET"><img src="{{ '/assets/images/marketplace-covers/7d78848bf05e7c6f6366.jpg' | relative_url }}" alt="Listing image for MEMORABILIA ,ENGLISH IN AUSTRALIA , MYSELF WHEN LAURA , MONOGRAPH ONE , BOOKLET" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">MEMORABILIA ,ENGLISH IN AUSTRALIA , MYSELF WHEN LAURA , MONOGRAPH ONE , BOOKLET</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for when memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: when memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Zero 7 / When It Falls Promo CD New &amp; Concert Ticket Stubs Mint Rare Memorabilia"><img src="{{ '/assets/images/marketplace-covers/674aa8524c0db5429bb0.jpg' | relative_url }}" alt="Listing image for Zero 7 / When It Falls Promo CD New &amp; Concert Ticket Stubs Mint Rare Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Zero 7 / When It Falls Promo CD New &amp; Concert Ticket Stubs Mint Rare Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for when memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: when memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Zero 7 / When It Falls Promo CD New &amp; Concert Ticket Stubs Mint Rare Memorabilia"><img src="{{ '/assets/images/marketplace-covers/674aa8524c0db5429bb0.jpg' | relative_url }}" alt="Listing image for Zero 7 / When It Falls Promo CD New &amp; Concert Ticket Stubs Mint Rare Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Zero 7 / When It Falls Promo CD New &amp; Concert Ticket Stubs Mint Rare Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for when memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: when memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=when+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="when memorabilia -book -books -dvd" data-ebay-reference="speed-tradeoff-when-faster-words-mean-less-understanding-increasing-when-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -601,7 +601,7 @@ The evidence suggests that the key question is not “How fast can I receive wor
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -621,7 +621,7 @@ The evidence suggests that the key question is not “How fast can I receive wor
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -653,7 +653,7 @@ The evidence suggests that the key question is not “How fast can I receive wor
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -705,7 +705,7 @@ The evidence suggests that the key question is not “How fast can I receive wor
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -750,7 +750,7 @@ The evidence suggests that the key question is not “How fast can I receive wor
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -791,165 +791,165 @@ The evidence suggests that the key question is not “How fast can I receive wor
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: researchgate.net  
    Title: We tested the method using 209 participants divided into six groups.Read more  
-   Link: <a href="https://www.researchgate.net/publication/328925418_Rapid_serial_visual_presentation_Degradation_of_inferential_reading_comprehension_as_a_function_of_speed" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/328925418_Rapid_serial_visual_presentation_Degradation_of_inferential_reading_comprehension_as_a_function_of_speed</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Rapid serial visual presentation: Degradation of...Mar 4, 2020 — RSVP is perhaps the best method of presenting text in...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/328925418_Rapid_serial_visual_presentation_Degradation_of_inferential_reading_comprehension_as_a_function_of_speed" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/328925418_Rapid_serial_visual_presentation_Degradation_of_inferential_reading_comprehension_as_a_function_of_speed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Rapid serial visual presentation: Degradation of...Mar 4, 2020 — RSVP is perhaps the best method of presenting text in...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: tsw.it  
    Title: Rapid serial visual presentation in reading The case of Spritz 1  
-   Link: <a href="https://www.tsw.it/wp-content/uploads/Rapid-serial-visual-presentation-in-reading-The-case-of-Spritz-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.tsw.it/wp-content/uploads/Rapid-serial-visual-presentation-in-reading-The-case-of-Spritz-1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rapid serial visual presentation in reading: The case of Spritzby S Benedetto · 2015 · Cited by 99 — By requiring eye movements to be...</p></details>
+   Link:<a href="https://www.tsw.it/wp-content/uploads/Rapid-serial-visual-presentation-in-reading-The-case-of-Spritz-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.tsw.it/wp-content/uploads/Rapid-serial-visual-presentation-in-reading-The-case-of-Spritz-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rapid serial visual presentation in reading: The case of Spritzby S Benedetto · 2015 · Cited by 99 — By requiring eye movements to be...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: inderscience.com  
-   Link: <a href="https://www.inderscience.com/info/inarticle.php?artid=96118" target="_blank" rel="noopener noreferrer nofollow">https://www.inderscience.com/info/inarticle.php?artid=96118</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Article: Rapid serial visual presentation: degradation of...by F Di Nocera · 2018 · Cited by 10 —...</p></details>
+   Link:<a href="https://www.inderscience.com/info/inarticle.php?artid=96118" target="_blank" rel="noopener noreferrer nofollow">https://www.inderscience.com/info/inarticle.php?artid=96118</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Article: Rapid serial visual presentation: degradation of...by F Di Nocera · 2018 · Cited by 10 —...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
    Title: 270650767 Rapid serial visual presentation in reading The case of Spritz  
-   Link: <a href="https://www.researchgate.net/publication/270650767_Rapid_serial_visual_presentation_in_reading_The_case_of_Spritz" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/270650767_Rapid_serial_visual_presentation_in_reading_The_case_of_Spritz</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rapid serial visual presentation in reading: The case of SpritzThis finding agrees with that of Benedetto et al., (2015) who claimed that...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/270650767_Rapid_serial_visual_presentation_in_reading_The_case_of_Spritz" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/270650767_Rapid_serial_visual_presentation_in_reading_The_case_of_Spritz</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rapid serial visual presentation in reading: The case of SpritzThis finding agrees with that of Benedetto et al., (2015) who claimed that...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/348899982_The_Relationship_Between_Reading_Strategy_Use_and_Reading_Comprehension_as_Mediated_by_Reading_Rate_The_Case_of_Eye_Movement_Training_by_Rapid_Serial_Visual_Presentation_RSVP" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/348899982_The_Relationship_Between_Reading_Strategy_Use_and_Reading_Comprehension_as_Mediated_by_Reading_Rate_The_Case_of_Eye_Movement_Training_by_Rapid_Serial_Visual_Presentation_RSVP</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Relationship Between Reading Strategy Use...30 Jan 2021 — The [purpose](&amp;#123;&amp;#123; &#x27;purpose/&#x27; | relative_url &amp;#125;&amp;#125;) of the current study was to examine the relationship bet...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/348899982_The_Relationship_Between_Reading_Strategy_Use_and_Reading_Comprehension_as_Mediated_by_Reading_Rate_The_Case_of_Eye_Movement_Training_by_Rapid_Serial_Visual_Presentation_RSVP" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/348899982_The_Relationship_Between_Reading_Strategy_Use_and_Reading_Comprehension_as_Mediated_by_Reading_Rate_The_Case_of_Eye_Movement_Training_by_Rapid_Serial_Visual_Presentation_RSVP</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Relationship Between Reading Strategy Use...30 Jan 2021 — The [purpose](&amp;#123;&amp;#123; &#x27;purpose/&#x27; | relative_url &amp;#125;&amp;#125;) of the current study was to examine the relationship bet...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/327269635_Rapid_Serial_Visual_Presentation_degradation_of_inferential_reading_comprehension_as_a_function_of_speed" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/327269635_Rapid_Serial_Visual_Presentation_degradation_of_inferential_reading_comprehension_as_a_function_of_speed</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rapid Serial Visual Presentation: degradation of inferential...The current study explored variables that may affect reading comprehensio...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/327269635_Rapid_Serial_Visual_Presentation_degradation_of_inferential_reading_comprehension_as_a_function_of_speed" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/327269635_Rapid_Serial_Visual_Presentation_degradation_of_inferential_reading_comprehension_as_a_function_of_speed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rapid Serial Visual Presentation: degradation of inferential...The current study explored variables that may affect reading comprehensio...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/316499956_Modern_Speed-Reading_Apps_Do_Not_Foster_Reading_Comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/316499956_Modern_Speed-Reading_Apps_Do_Not_Foster_Reading_Comprehension</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>erbatim understanding and faster speeds (1000 wpm) improving inferential...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/316499956_Modern_Speed-Reading_Apps_Do_Not_Foster_Reading_Comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/316499956_Modern_Speed-Reading_Apps_Do_Not_Foster_Reading_Comprehension</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>erbatim understanding and faster speeds (1000 wpm) improving inferential...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: rsvp.club  
-   Link: <a href="https://rsvp.club/" target="_blank" rel="noopener noreferrer nofollow">https://rsvp.club/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Welcome to RSVPRSVP is an exclusive membership community for Vivacious, Growing, Luxury Wedding and &amp; Party Professionals.Read more...</p></details>
+   Link:<a href="https://rsvp.club/" target="_blank" rel="noopener noreferrer nofollow">https://rsvp.club/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Welcome to RSVPRSVP is an exclusive membership community for Vivacious, Growing, Luxury Wedding and &amp; Party Professionals.Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/29461715/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29461715/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Modern Speed-Reading Apps Do Not Foster...by D Acklin · 2017 · Cited by 24 — Instead, comprehension was most affected by reading s...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/29461715/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29461715/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Modern Speed-Reading Apps Do Not Foster...by D Acklin · 2017 · Cited by 24 — Instead, comprehension was most affected by reading s...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: inderscienceonline.com  
-   Link: <a href="https://www.inderscienceonline.com/doi/abs/10.1504/IJHFE.2018.096118" target="_blank" rel="noopener noreferrer nofollow">https://www.inderscienceonline.com/doi/abs/10.1504/IJHFE.2018.096118</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>InderScience OnlineRapid serial visual presentation: degradation of inferential...by FD Nocera · 2018 · Cited by 10 — We tested the meth...</p></details>
+   Link:<a href="https://www.inderscienceonline.com/doi/abs/10.1504/IJHFE.2018.096118" target="_blank" rel="noopener noreferrer nofollow">https://www.inderscienceonline.com/doi/abs/10.1504/IJHFE.2018.096118</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>InderScience OnlineRapid serial visual presentation: degradation of inferential...by FD Nocera · 2018 · Cited by 10 — We tested the meth...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: theguardian.com  
    Title: The Guardian Is speed reading a waste of time?  
-   Link: <a href="https://www.theguardian.com/education/2016/jul/20/is-speed-reading-a-waste-of-time" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/education/2016/jul/20/is-speed-reading-a-waste-of-time</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Higher education20 Jul 2016 — In a study directly comparing traditional reading with RSVP reading, it was found that literal comprehens...</p></details>
+   Link:<a href="https://www.theguardian.com/education/2016/jul/20/is-speed-reading-a-waste-of-time" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/education/2016/jul/20/is-speed-reading-a-waste-of-time</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Higher education20 Jul 2016 — In a study directly comparing traditional reading with RSVP reading, it was found that literal comprehens...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: today.ucsd.edu  
    Title: dont believe what you read only once speed reading apps may impair reading  
-   Link: <a href="https://today.ucsd.edu/story/dont_believe_what_you_read_only_once_speed_reading_apps_may_impair_reading" target="_blank" rel="noopener noreferrer nofollow">https://today.ucsd.edu/story/dont_believe_what_you_read_only_once_speed_reading_apps_may_impair_reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UC San Diego TodaySpeed-Reading Apps May Impair Reading Comprehension22 Apr 2014 — Studies have shown that readers make regressions, movi...</p></details>
+   Link:<a href="https://today.ucsd.edu/story/dont_believe_what_you_read_only_once_speed_reading_apps_may_impair_reading" target="_blank" rel="noopener noreferrer nofollow">https://today.ucsd.edu/story/dont_believe_what_you_read_only_once_speed_reading_apps_may_impair_reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UC San Diego TodaySpeed-Reading Apps May Impair Reading Comprehension22 Apr 2014 — Studies have shown that readers make regressions, movi...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/technology/2017/apr/08/speed-reading-apps-can-you-really-read-novel-in-your-lunch-hour" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2017/apr/08/speed-reading-apps-can-you-really-read-novel-in-your-lunch-hour</a>  
+   Link:<a href="https://www.theguardian.com/technology/2017/apr/08/speed-reading-apps-can-you-really-read-novel-in-your-lunch-hour" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2017/apr/08/speed-reading-apps-can-you-really-read-novel-in-your-lunch-hour</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: eprints.nottingham.ac.uk  
-   Link: <a href="https://eprints.nottingham.ac.uk/45183/" target="_blank" rel="noopener noreferrer nofollow">https://eprints.nottingham.ac.uk/45183/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nottingham ePrintsThe impact of Rapid Serial Visual Presentation (RSVP) on...by Z Boo · Cited by 11 — To address this, the current study...</p></details>
+   Link:<a href="https://eprints.nottingham.ac.uk/45183/" target="_blank" rel="noopener noreferrer nofollow">https://eprints.nottingham.ac.uk/45183/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nottingham ePrintsThe impact of Rapid Serial Visual Presentation (RSVP) on...by Z Boo · Cited by 11 — To address this, the current study...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/RSVP" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RSVP</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RSVPRSVP is an initialism derived from the French phrase &quot;Répondez s&#x27;il vous plaît&quot;, [1] meaning &quot;please respond&quot; (literally &quot;respond...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/RSVP" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/RSVP</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RSVPRSVP is an initialism derived from the French phrase &quot;Répondez s&#x27;il vous plaît&quot;, [1] meaning &quot;please respond&quot; (literally &quot;respond...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Rapid serial visual presentation  
-   Link: <a href="https://en.wikipedia.org/wiki/Rapid_serial_visual_presentation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rapid_serial_visual_presentation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rapid serial visual presentationProponents of RSVP-based readers claim that removing the need for eye movements allows much higher wor...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Rapid_serial_visual_presentation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rapid_serial_visual_presentation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rapid serial visual presentationProponents of RSVP-based readers claim that removing the need for eye movements allows much higher wor...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4835101/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4835101/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Cognitive Factors Imposing “Speed Limits” on...by S Primativo · 2016 · Cited by 37 — In the present study we quantified the weight o...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4835101/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4835101/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Cognitive Factors Imposing “Speed Limits” on...by S Primativo · 2016 · Cited by 37 — In the present study we quantified the weight o...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/41277242/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41277242/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>reading comprehension in young adults with...by S Moussaoui · Cited by 1 — Results: ADHD participants performed better in the RSVP condi...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/41277242/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41277242/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>reading comprehension in young adults with...by S Moussaoui · Cited by 1 — Results: ADHD participants performed better in the RSVP condi...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8590178/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8590178/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>comparison of reading, in people with simulated and actual...by F Akthar · 2021 · Cited by 10 — Comprehension was better overall with sc...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8590178/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8590178/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>comparison of reading, in people with simulated and actual...by F Akthar · 2021 · Cited by 10 — Comprehension was better overall with sc...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: scispace.com  
    Title: rapid serial visual presentation 27gn49j3  
-   Link: <a href="https://scispace.com/topics/rapid-serial-visual-presentation-27gn49j3?paper_page=185" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/topics/rapid-serial-visual-presentation-27gn49j3?paper_page=185</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rapid serial visual presentation | 1187 PublicationsIn this study, we propose a biometric authentication system based on electroencephalo...</p></details>
+   Link:<a href="https://scispace.com/topics/rapid-serial-visual-presentation-27gn49j3?paper_page=185" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/topics/rapid-serial-visual-presentation-27gn49j3?paper_page=185</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rapid serial visual presentation | 1187 PublicationsIn this study, we propose a biometric authentication system based on electroencephalo...</p></details>
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: readlite.in  
-   Link: <a href="https://readlite.in/concepts/rsvp-reading" target="_blank" rel="noopener noreferrer nofollow">https://readlite.in/concepts/rsvp-reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RSVP Reading: Does One-Word-at-a-Time Display Work?Eye movement researchers have studied rapid serial visual presentation extensively, an...</p></details>
+   Link:<a href="https://readlite.in/concepts/rsvp-reading" target="_blank" rel="noopener noreferrer nofollow">https://readlite.in/concepts/rsvp-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RSVP Reading: Does One-Word-at-a-Time Display Work?Eye movement researchers have studied rapid serial visual presentation extensively, an...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: erickimphotography.com  
-   Link: <a href="https://erickimphotography.com/the-landscape-of-fast-reading-science-technology-education-and-field-applications/" target="_blank" rel="noopener noreferrer nofollow">https://erickimphotography.com/the-landscape-of-fast-reading-science-technology-education-and-field-applications/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Landscape of Fast Reading: Science, Technology...9 Jan 2026 — Some users report that at very high RSVP speeds, comprehension and com...</p></details>
+   Link:<a href="https://erickimphotography.com/the-landscape-of-fast-reading-science-technology-education-and-field-applications/" target="_blank" rel="noopener noreferrer nofollow">https://erickimphotography.com/the-landscape-of-fast-reading-science-technology-education-and-field-applications/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Landscape of Fast Reading: Science, Technology...9 Jan 2026 — Some users report that at very high RSVP speeds, comprehension and com...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: stillreader.com  
-   Link: <a href="https://stillreader.com/" target="_blank" rel="noopener noreferrer nofollow">https://stillreader.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Still — Speed Reading App | Read Faster, Retain More...Still is a science-backed speed reading app using RSVP technology...</p></details>
+   Link:<a href="https://stillreader.com/" target="_blank" rel="noopener noreferrer nofollow">https://stillreader.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Still — Speed Reading App | Read Faster, Retain More...Still is a science-backed speed reading app using RSVP technology...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: rsvpify.com  
-   Link: <a href="https://rsvpify.com/" target="_blank" rel="noopener noreferrer nofollow">https://rsvpify.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Create a truly custom experience with powerful event management tools and unmatched flexibility.Read more...</p></details>
+   Link:<a href="https://rsvpify.com/" target="_blank" rel="noopener noreferrer nofollow">https://rsvpify.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Create a truly custom experience with powerful event management tools and unmatched flexibility.Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: psychology.stackexchange.com  
-   Link: <a href="https://psychology.stackexchange.com/questions/265/is-it-possible-to-improve-reading-speed-and-visual-comprehension-by-doing-exerci" target="_blank" rel="noopener noreferrer nofollow">https://psychology.stackexchange.com/questions/265/is-it-possible-to-improve-reading-speed-and-visual-comprehension-by-doing-exerci</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>it possible to improve reading speed and visual...Feb 4, 2012 — The only trick that does help is Rapid Serial Visualization Presentation...</p></details>
+   Link:<a href="https://psychology.stackexchange.com/questions/265/is-it-possible-to-improve-reading-speed-and-visual-comprehension-by-doing-exerci" target="_blank" rel="noopener noreferrer nofollow">https://psychology.stackexchange.com/questions/265/is-it-possible-to-improve-reading-speed-and-visual-comprehension-by-doing-exerci</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>it possible to improve reading speed and visual...Feb 4, 2012 — The only trick that does help is Rapid Serial Visualization Presentation...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: iso.mit.edu  
    Title: rsvp and the etiquette of responding to invitations  
-   Link: <a href="https://iso.mit.edu/americanisms/rsvp-and-the-etiquette-of-responding-to-invitations/" target="_blank" rel="noopener noreferrer nofollow">https://iso.mit.edu/americanisms/rsvp-and-the-etiquette-of-responding-to-invitations/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and the etiquette of responding to invitationsProper etiquette for a wedding invitation dictates that you should absolutely send an RSVP...</p></details>
+   Link:<a href="https://iso.mit.edu/americanisms/rsvp-and-the-etiquette-of-responding-to-invitations/" target="_blank" rel="noopener noreferrer nofollow">https://iso.mit.edu/americanisms/rsvp-and-the-etiquette-of-responding-to-invitations/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and the etiquette of responding to invitationsProper etiquette for a wedding invitation dictates that you should absolutely send an RSVP...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: jotform.com  
    Title: What does RSVP stand for? (meaning, examples,  
-   Link: <a href="https://www.jotform.com/blog/rsvp-meaning/" target="_blank" rel="noopener noreferrer nofollow">https://www.jotform.com/blog/rsvp-meaning/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 8, 2026 — RSVP means “répondez s&#x27;il vous plaît,” which translates to “please respond.” It&#x27;s a polite way of asking for confirmation o...</p></details>
+   Link:<a href="https://www.jotform.com/blog/rsvp-meaning/" target="_blank" rel="noopener noreferrer nofollow">https://www.jotform.com/blog/rsvp-meaning/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 8, 2026 — RSVP means “répondez s&#x27;il vous plaît,” which translates to “please respond.” It&#x27;s a polite way of asking for confirmation o...</p></details>
    Published: May 8, 2026  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: behavioralscientist.org  
    Title: speed reading apps open research questions  
-   Link: <a href="https://behavioralscientist.org/speed-reading-apps-open-research-questions/" target="_blank" rel="noopener noreferrer nofollow">https://behavioralscientist.org/speed-reading-apps-open-research-questions/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Bee-tween the Lines: BeeLine Reader and Spritz...27 May 2014 — BeeLine Reader improves reading speed for most users and may be p...</p></details>
+   Link:<a href="https://behavioralscientist.org/speed-reading-apps-open-research-questions/" target="_blank" rel="noopener noreferrer nofollow">https://behavioralscientist.org/speed-reading-apps-open-research-questions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Bee-tween the Lines: BeeLine Reader and Spritz...27 May 2014 — BeeLine Reader improves reading speed for most users and may be p...</p></details>
    Published: May 2014  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: files01.core.ac.uk  
-   Link: <a href="https://files01.core.ac.uk/download/pdf/159635828.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files01.core.ac.uk/download/pdf/159635828.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>serial visual presentation: degradation of inferential...by F Di Nocera · 2018 · Cited by 10 — (2018) &#x27;Rapid serial visual presentation...</p></details>
+   Link:<a href="https://files01.core.ac.uk/download/pdf/159635828.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files01.core.ac.uk/download/pdf/159635828.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>serial visual presentation: degradation of inferential...by F Di Nocera · 2018 · Cited by 10 — (2018) &#x27;Rapid serial visual presentation...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2018/07/speed-reading-fact-or-fiction/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2018/07/speed-reading-fact-or-fiction/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Speed Reading: Fact or Fiction?by W Vanderlinde · Cited by 2 — Studies have shown that RSVP does increase speed but it also reduces compr...</p></details>
+   Link:<a href="https://skepticalinquirer.org/2018/07/speed-reading-fact-or-fiction/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2018/07/speed-reading-fact-or-fiction/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Speed Reading: Fact or Fiction?by W Vanderlinde · Cited by 2 — Studies have shown that RSVP does increase speed but it also reduces compr...</p></details>

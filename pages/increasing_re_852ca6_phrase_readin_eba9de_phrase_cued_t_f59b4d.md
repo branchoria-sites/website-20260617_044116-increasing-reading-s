@@ -288,21 +288,21 @@ image: /assets/images/increasing_re_852ca6_phrase_readin_eba9de_phrase_cued_t_f5
 
 ## Introduction
 
-Phrase-cued text is a reading support in which a passage is marked to show where natural phrase boundaries occur. Slashes, extra spacing, line breaks, or other visual markers help readers see how words belong together, making sentence structure visible rather than leaving it entirely implicit. The goal is not to make readers dependent on marked text. Instead, phrase-cued passages act as a temporary scaffold that helps developing readers internalise phrasing so that ordinary, unmarked text eventually feels smoother and easier to read. Research and classroom guidance have consistently linked phrase-cued reading with improvements in fluency, prosody, and comprehension when used as part of broader fluency instruction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://literacy.virginia.edu/sites/g/files/jsddwu1006/files/2023-05/the_reading_sourcebook_phrase_cued_reading_1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: literacy.virginia.edu">[literacy.virginia.edu+2interventioncentral.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">literacy.virginia.edu</span><span class="citation-popover-snippet">Open source on virginia.edu.</span></span></span>
+Phrase-cued text is a reading support in which a passage is marked to show where natural phrase boundaries occur. Slashes, extra spacing, line breaks, or other visual markers help readers see how words belong together, making sentence structure visible rather than leaving it entirely implicit. The goal is not to make readers dependent on marked text. Instead, phrase-cued passages act as a temporary scaffold that helps developing readers internalise phrasing so that ordinary, unmarked text eventually feels smoother and easier to read. Research and classroom guidance have consistently linked phrase-cued reading with improvements in fluency, prosody, and comprehension when used as part of broader fluency instruction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://literacy.virginia.edu/sites/g/files/jsddwu1006/files/2023-05/the_reading_sourcebook_phrase_cued_reading_1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: literacy.virginia.edu">[literacy.virginia.edu+2interventioncentral.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">literacy.virginia.edu</span><span class="citation-popover-snippet">Open source on virginia.edu.</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_phrase_cued_t_f59b4d-Illustration-1-dark.svg" | relative_url }}" alt="Cued Text illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_phrase_cued_t_f59b4d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_phrase_cued_t_f59b4d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the wider effort of [increasing]({{ 'increasing/' | relative_url }}) reading speed, phrase-cued text matters because many struggling readers process sentences word by word. By highlighting meaningful groups of words, the scaffold encourages larger units of processing and reduces unnecessary pauses that interrupt comprehension. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets+2ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-title">Reading Rockets Fluency</span><span class="citation-popover-snippet">Reading RocketsFluency: IntroductionFluent readers read aloud effortlessly and with expression — their reading sounds natural, as if they...</span></span></span>
+Within the wider effort of [increasing]({{ 'increasing/' | relative_url }}) reading speed, phrase-cued text matters because many struggling readers process sentences word by word. By highlighting meaningful groups of words, the scaffold encourages larger units of processing and reduces unnecessary pauses that interrupt comprehension.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[Reading Rockets+2ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-title">Reading Rockets Fluency</span><span class="citation-popover-snippet">Reading RocketsFluency: IntroductionFluent readers read aloud effortlessly and with expression — their reading sounds natural, as if they...</span></span></span>
 
 ## Do slash marks really improve reading fluency?
 
 The short answer is yes, but mainly when they are used to teach phrasing rather than as a permanent reading format.
 
-Studies and reviews associated with Timothy Rasinski's work on phrase-cued texts argue that proficient readers naturally "chunk" text into meaningful units. Because written language does not visibly mark many phrase boundaries, less fluent readers may not know where those chunks begin and end. Adding cues can make those boundaries easier to recognise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/105345129402900307" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDeveloping Syntactic Sensitivity in Reading Through...by TV Rasinski · 1994 · Cited by 61 — Highlights the benefits of deve...</span></span></span>
+Studies and reviews associated with Timothy Rasinski's work on phrase-cued texts argue that proficient readers naturally "chunk" text into meaningful units. Because written language does not visibly mark many phrase boundaries, less fluent readers may not know where those chunks begin and end. Adding cues can make those boundaries easier to recognise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/105345129402900307" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDeveloping Syntactic Sensitivity in Reading Through...by TV Rasinski · 1994 · Cited by 61 — Highlights the benefits of deve...</span></span></span>
 
-More recent summaries of fluency instruction continue to describe phrase-cued reading as an effective support for developing prosody—the rhythm, stress, and phrasing of fluent reading—and for helping readers connect sentence structure with meaning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/full/10.1111/1467-9817.70002" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library+2Savvas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">1467 9817.70002</span><span class="citation-popover-snippet">Wiley Online LibraryPairing phrase‐cued text with readers theatre: Effects on...by E Rodgers · 2025 · Cited by 2 — Another method that h...</span></span></span>
+More recent summaries of fluency instruction continue to describe phrase-cued reading as an effective support for developing prosody—the rhythm, stress, and phrasing of fluent reading—and for helping readers connect sentence structure with meaning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/full/10.1111/1467-9817.70002" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library+2Savvas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">1467 9817.70002</span><span class="citation-popover-snippet">Wiley Online LibraryPairing phrase‐cued text with readers theatre: Effects on...by E Rodgers · 2025 · Cited by 2 — Another method that h...</span></span></span>
 
-The benefit should not be understood as a direct shortcut to faster reading. Instead, the scaffold improves how readers organise language. When readers begin grouping words appropriately, reading often becomes smoother and more efficient, and speed may improve as a consequence of reduced effort and better automaticity. National Center on Improving Literacy+2Reading Rockets <span class="citation-link-wrap"><a class="citation-inline-link" href="https://improvingliteracy.org/resource/why-does-fluent-reading-matter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: improvingliteracy.org">[improvingliteracy.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">improvingliteracy.org</span><span class="citation-popover-title">National Center on Improving Literacy Why Does Fluent Reading Matter?</span><span class="citation-popover-snippet">National Center on Improving LiteracyWhy Does Fluent Reading Matter? - NCILFluency with text is the ability to read words, phrases, sente...</span></span></span>
+The benefit should not be understood as a direct shortcut to faster reading. Instead, the scaffold improves how readers organise language. When readers begin grouping words appropriately, reading often becomes smoother and more efficient, and speed may improve as a consequence of reduced effort and better automaticity. National Center on Improving Literacy+2Reading Rockets<span class="citation-link-wrap"><a class="citation-inline-link" href="https://improvingliteracy.org/resource/why-does-fluent-reading-matter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: improvingliteracy.org">[improvingliteracy.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">improvingliteracy.org</span><span class="citation-popover-title">National Center on Improving Literacy Why Does Fluent Reading Matter?</span><span class="citation-popover-snippet">National Center on Improving LiteracyWhy Does Fluent Reading Matter? - NCILFluency with text is the ability to read words, phrases, sente...</span></span></span>
 
 ## What phrase-cued text looks like
 
@@ -312,13 +312,13 @@ An ordinary sentence might appear as:
 
 *The tired doctor checked the notes before speaking to the family.*
 
-A phrase-cued version might appear as: <span class="citation-chip-wrap"><a class="citation-chip" href="http://www.youtube.com/watch?v=HBoGXHTQfD4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Phrase-Cued Reading</span><span class="citation-popover-snippet">Phrase-Cued Reading</span></span></span>
+A phrase-cued version might appear as:<span class="citation-chip-wrap"><a class="citation-chip" href="http://www.youtube.com/watch?v=HBoGXHTQfD4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Phrase-Cued Reading</span><span class="citation-popover-snippet">Phrase-Cued Reading</span></span></span>
 
 *The tired doctor / checked the notes / before speaking to the family.*
 
-Some programmes use curved "scoops" beneath [word groups]({{ 'word-groups/' | relative_url }}). Others place each phrase on a separate line or use extra spacing. Older students are often given subtler slash marks, while younger readers may benefit from more visually obvious cues. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nexus.aimpa.org/lesson-toolkits/phrased-text-reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nexus.aimpa.org">[AIM Nexus+2Savvas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nexus.aimpa.org</span><span class="citation-popover-title">AIM Nexus Phrased Text Reading</span><span class="citation-popover-snippet">AIM NexusPhrased Text Reading - AIM NexusPhrased text reading is one way to support students with the expression component of fluency. Th...</span></span></span>
+Some programmes use curved "scoops" beneath [word groups]({{ 'word-groups/' | relative_url }}). Others place each phrase on a separate line or use extra spacing. Older students are often given subtler slash marks, while younger readers may benefit from more visually obvious cues.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nexus.aimpa.org/lesson-toolkits/phrased-text-reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nexus.aimpa.org">[AIM Nexus+2Savvas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nexus.aimpa.org</span><span class="citation-popover-title">AIM Nexus Phrased Text Reading</span><span class="citation-popover-snippet">AIM NexusPhrased Text Reading - AIM NexusPhrased text reading is one way to support students with the expression component of fluency. Th...</span></span></span>
 
-The important point is that the markings are intended to represent meaningful language units rather than arbitrary pauses. Readers are learning where ideas fit together, not merely where to stop for breath. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://literacy.virginia.edu/sites/g/files/jsddwu1006/files/2023-05/the_reading_sourcebook_phrase_cued_reading_1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: literacy.virginia.edu">[literacy.virginia.edu+2interventioncentral.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">literacy.virginia.edu</span><span class="citation-popover-snippet">Open source on virginia.edu.</span></span></span>
+The important point is that the markings are intended to represent meaningful language units rather than arbitrary pauses. Readers are learning where ideas fit together, not merely where to stop for breath.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://literacy.virginia.edu/sites/g/files/jsddwu1006/files/2023-05/the_reading_sourcebook_phrase_cued_reading_1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: literacy.virginia.edu">[literacy.virginia.edu+2interventioncentral.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">literacy.virginia.edu</span><span class="citation-popover-snippet">Open source on virginia.edu.</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_phrase_cued_t_f59b4d-Illustration-2-dark.svg" | relative_url }}" alt="Cued Text illustration 2" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_phrase_cued_t_f59b4d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_phrase_readin_eba9de_phrase_cued_t_f59b4d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -328,26 +328,26 @@ Phrase-cued text works because it externalises a skill that fluent readers perfo
 
 ### It makes syntax easier to see
 
-Many readers who decode accurately still struggle to recognise sentence structure in real time. Phrase cues expose relationships that are normally hidden within a continuous line of print. Readers can more easily identify [noun phrases]({{ 'noun-phrases/' | relative_url }}), [verb phrases]({{ 'verb-phrases/' | relative_url }}), clauses, and other meaningful units. Rasinski's work specifically links phrase-cued reading to developing sensitivity to syntax and sentence organisation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/105345129402900307" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDeveloping Syntactic Sensitivity in Reading Through...by TV Rasinski · 1994 · Cited by 61 — Highlights the benefits of deve...</span></span></span>
+Many readers who decode accurately still struggle to recognise sentence structure in real time. Phrase cues expose relationships that are normally hidden within a continuous line of print. Readers can more easily identify [noun phrases]({{ 'noun-phrases/' | relative_url }}), [verb phrases]({{ 'verb-phrases/' | relative_url }}), clauses, and other meaningful units. Rasinski's work specifically links phrase-cued reading to developing sensitivity to syntax and sentence organisation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/105345129402900307" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsDeveloping Syntactic Sensitivity in Reading Through...by TV Rasinski · 1994 · Cited by 61 — Highlights the benefits of deve...</span></span></span>
 
 ### It supports prosody
 
-Fluent reading is not only about accuracy and speed. It also involves expression and natural phrasing. Educational organisations such as Reading Rockets and the National Center on Improving Literacy describe fluency as a combination of accuracy, rate, and expression. Phrase cues help readers practise where emphasis and pauses naturally belong, making [oral reading]({{ 'reading-aloud/' | relative_url }}) sound more like spoken language. Reading Rockets+2National Center on Improving Literacy <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[readingrockets.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-title">Reading Rockets Fluency</span><span class="citation-popover-snippet">Reading RocketsFluency: IntroductionFluent readers read aloud effortlessly and with expression — their reading sounds natural, as if they...</span></span></span>
+Fluent reading is not only about accuracy and speed. It also involves expression and natural phrasing. Educational organisations such as Reading Rockets and the National Center on Improving Literacy describe fluency as a combination of accuracy, rate, and expression. Phrase cues help readers practise where emphasis and pauses naturally belong, making [oral reading]({{ 'reading-aloud/' | relative_url }}) sound more like spoken language. Reading Rockets+2National Center on Improving Literacy<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingrockets.org">[readingrockets.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingrockets.org</span><span class="citation-popover-title">Reading Rockets Fluency</span><span class="citation-popover-snippet">Reading RocketsFluency: IntroductionFluent readers read aloud effortlessly and with expression — their reading sounds natural, as if they...</span></span></span>
 
 ### It reduces cognitive overload
 
-When a reader processes one word at a time, working memory can become overloaded before the sentence meaning is assembled. Phrase boundaries encourage readers to hold larger chunks of language together, making it easier to maintain the thread of meaning across a sentence. This is one reason phrase-cued instruction is often associated with improvements in comprehension as well as oral fluency. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.interventioncentral.org/academic-interventions/reading-comprehension/phrase-cued-text-lessons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interventioncentral.org">[interventioncentral.org+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interventioncentral.org</span><span class="citation-popover-snippet">Phrase-Cued Text LessonsDESCRIPTION: Phrase-cued texts are a means to train students to recognize the natural pauses that occur between p...</span></span></span>
+When a reader processes one word at a time, working memory can become overloaded before the sentence meaning is assembled. Phrase boundaries encourage readers to hold larger chunks of language together, making it easier to maintain the thread of meaning across a sentence. This is one reason phrase-cued instruction is often associated with improvements in comprehension as well as oral fluency.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.interventioncentral.org/academic-interventions/reading-comprehension/phrase-cued-text-lessons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: interventioncentral.org">[interventioncentral.org+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">interventioncentral.org</span><span class="citation-popover-snippet">Phrase-Cued Text LessonsDESCRIPTION: Phrase-cued texts are a means to train students to recognize the natural pauses that occur between p...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mMej4PNoP8c" title="Improving Reading Fluency: Tips for phrase cued reading for new intervention teachers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mMej4PNoP8c" target="_blank" rel="noopener noreferrer">Improving Reading Fluency: Tips for phrase cued reading for new intervention teachers</a></p><p class="youtube-embed-meta">Channel: Emily Muccianti &middot; Views: 2.9K &middot; Uploaded: March 2023 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mMej4PNoP8c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mMej4PNoP8c">Open on YouTube</a></p></div></div></div>
 
 ## Why phrase-cued text is a scaffold, not a destination
 
-A common misunderstanding is that readers should continue using heavily marked passages indefinitely. Most fluency specialists treat phrase-cued text as instructional support rather than an end state. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.savvas.com/resource-center/blogs-and-podcasts/savvas-insights/2025/strategies-to-improve-oral-reading-fluency" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: savvas.com">[Savvas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">savvas.com</span><span class="citation-popover-title">Oral Reading Fluency Strategies for Older Students Phrase-cued texts can be a helpful scaffold for students who struggle with phrasing an</span><span class="citation-popover-snippet">These texts include visual markers such as slashes or added ...Read more</span></span></span>
+A common misunderstanding is that readers should continue using heavily marked passages indefinitely. Most fluency specialists treat phrase-cued text as instructional support rather than an end state.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.savvas.com/resource-center/blogs-and-podcasts/savvas-insights/2025/strategies-to-improve-oral-reading-fluency" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: savvas.com">[Savvas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">savvas.com</span><span class="citation-popover-title">Oral Reading Fluency Strategies for Older Students Phrase-cued texts can be a helpful scaffold for students who struggle with phrasing an</span><span class="citation-popover-snippet">These texts include visual markers such as slashes or added ...Read more</span></span></span>
 
 The [purpose]({{ 'purpose/' | relative_url }}) of the markings is to teach readers how phrasing works. Once readers begin recognising phrase boundaries independently, the visual support becomes less necessary. In the same way that training wheels help a child learn balance but are eventually removed, phrase cues are meant to fade as skill develops.
 
-This distinction matters because fluent reading in everyday life occurs with ordinary text. Readers ultimately need to transfer their understanding of phrasing to books, articles, and digital content that contain no visible phrase markings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.linkedin.com/posts/jennifer-throndsen-phd-1b833261_do-your-students-struggle-with-reading-fluency-activity-7417422921456996352--T9x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">Boost Reading Fluency with Evidence-Based Phrase-Cued...Phrase-cued reading is an evidence-based strategy that can help.... And...</span></span></span>
+This distinction matters because fluent reading in everyday life occurs with ordinary text. Readers ultimately need to transfer their understanding of phrasing to books, articles, and digital content that contain no visible phrase markings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.linkedin.com/posts/jennifer-throndsen-phd-1b833261_do-your-students-struggle-with-reading-fluency-activity-7417422921456996352--T9x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">Boost Reading Fluency with Evidence-Based Phrase-Cued...Phrase-cued reading is an evidence-based strategy that can help.... And...</span></span></span>
 
 ## How to remove the scaffold without losing rhythm
 
@@ -355,7 +355,7 @@ The most effective implementations gradually reduce support instead of removing 
 
 A typical progression looks like this:
 
-1. **Teacher-marked text** – the reader practises with clearly cued phrase boundaries. <span class="citation-chip-wrap"><a class="citation-chip" href="http://www.youtube.com/watch?v=HBoGXHTQfD4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Phrase-Cued Reading</span><span class="citation-popover-snippet">Phrase-Cued Reading</span></span></span>
+1. **Teacher-marked text** – the reader practises with clearly cued phrase boundaries.<span class="citation-chip-wrap"><a class="citation-chip" href="http://www.youtube.com/watch?v=HBoGXHTQfD4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Phrase-Cued Reading</span><span class="citation-popover-snippet">Phrase-Cued Reading</span></span></span>
 2. **Modelled reading** – a skilled reader demonstrates appropriate phrasing while the learner follows along.
 3. **Guided rereading** – the learner rereads the same passage, using the cues less consciously each time.
 4. **Partially cued text** – fewer phrase markers appear, requiring more independent judgement.
@@ -384,162 +384,162 @@ Phrase-cued text occupies a specific place within fluency instruction. It is not
 When readers learn to recognise meaningful language units automatically, reading tends to become smoother, more expressive, and less effortful. As that happens, reading speed often increases naturally because fewer mental resources are spent managing the mechanics of sentence structure. The visible cues are only temporary, but the phrasing habits they help build can remain long after the marks have disappeared. [ERIC+3literacy.virginia.edu+3Savvas](https://literacy.virginia.edu/sites/g/files/jsddwu1006/files/2023-05/the_reading_sourcebook_phrase_cued_reading_1.pdf)
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Do slash marks really improve reading fluency?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Do slash marks really improve reading fluency?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Covers reading strategies and efficient processing of complex texts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Covers reading strategies and efficient processing of complex texts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Language+at+the+Speed+of+Sight+Mark+Seidenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Language at the Speed of Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10546551-M.jpg" alt="Cover for Language at the Speed of Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Language+at+the+Speed+of+Sight+Mark+Seidenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Language at the Speed of Sight">Language at the Speed of Sight</a>
-        </h4>
-        <p class="fr-book-author">By Mark Seidenberg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Language+at+the+Speed+of+Sight+Mark+Seidenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Language at the Speed of Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10546551-M.jpg" alt="Cover for Language at the Speed of Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Language+at+the+Speed+of+Sight+Mark+Seidenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Language at the Speed of Sight">Language at the Speed of Sight</a>
+</h4>
+<p class="fr-book-author">By Mark Seidenberg</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Reading (higher education), Language experience approach in education, Cognition disorders, Psycholinguis...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Language+at+the+Speed+of+Sight+Mark+Seidenberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Reading (higher education), Language experience approach in education, Cognition disorders, Psycholinguis...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Language+at+the+Speed+of+Sight+Mark+Seidenberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+fluent+reader+Timothy+V.+Rasinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The fluent reader on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+fluent+reader+Timothy+V.+Rasinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fluent reader">The fluent reader</a>
-        </h4>
-        <p class="fr-book-author">By Timothy V. Rasinski</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+fluent+reader+Timothy+V.+Rasinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The fluent reader on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+fluent+reader+Timothy+V.+Rasinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fluent reader">The fluent reader</a>
+</h4>
+<p class="fr-book-author">By Timothy V. Rasinski</p>
         
-        <p class="fr-book-desc">First published 2010. Subjects: Oral reading, Reading, Study and teaching, Readers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+fluent+reader+Timothy+V.+Rasinski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2010. Subjects: Oral reading, Reading, Study and teaching, Readers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+fluent+reader+Timothy+V.+Rasinski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Shifting+the+Balance+Jan+Burkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Shifting the Balance on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Shifting+the+Balance+Jan+Burkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Shifting the Balance">Shifting the Balance</a>
-        </h4>
-        <p class="fr-book-author">By Jan Burkins, Kari Yates</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Shifting+the+Balance+Jan+Burkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Shifting the Balance on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Shifting+the+Balance+Jan+Burkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Shifting the Balance">Shifting the Balance</a>
+</h4>
+<p class="fr-book-author">By Jan Burkins, Kari Yates</p>
         
-        <p class="fr-book-desc">First published 2021. Subjects: Education.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Shifting+the+Balance+Jan+Burkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2021. Subjects: Education.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Shifting+the+Balance+Jan+Burkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Language+at+the+Speed+of+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Language at the Speed of Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The fluent reader</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Language+at+the+Speed+of+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Language at the Speed of Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+fluent+reader&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The fluent reader</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cued-text-do-slash-marks-really-improve-reading-fluency-increasing-literacy-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy classroom poster -book -books" data-ebay-reference="cued-text-do-slash-marks-really-improve-reading-fluency-increasing-literacy-classroom-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rare 1904-1909 Japanese Woodblock Classroom Poster - Meiji Era Literacy Chart"><img src="{{ '/assets/images/marketplace-covers/d811268f23783443ea90.jpg' | relative_url }}" alt="Listing image for Rare 1904-1909 Japanese Woodblock Classroom Poster - Meiji Era Literacy Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cued-text-do-slash-marks-really-improve-reading-fluency-increasing-literacy-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy classroom poster -book -books" data-ebay-reference="cued-text-do-slash-marks-really-improve-reading-fluency-increasing-literacy-classroom-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Rare 1904-1909 Japanese Woodblock Classroom Poster - Meiji Era Literacy Chart</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cued-text-do-slash-marks-really-improve-reading-fluency-increasing-literacy-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy classroom poster -book -books" data-ebay-reference="cued-text-do-slash-marks-really-improve-reading-fluency-increasing-literacy-classroom-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for literacy classroom poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: literacy classroom poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cued-text-do-slash-marks-really-improve-reading-fluency-increasing-literacy-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy classroom poster -book -books" data-ebay-reference="cued-text-do-slash-marks-really-improve-reading-fluency-increasing-literacy-classroom-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cued-text-do-slash-marks-really-improve-reading-fluency-increasing-literacy-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy classroom poster -book -books" data-ebay-reference="cued-text-do-slash-marks-really-improve-reading-fluency-increasing-literacy-classroom-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rare 1904-1909 Japanese Woodblock Classroom Poster - Meiji Era Literacy Chart"><img src="{{ '/assets/images/marketplace-covers/d811268f23783443ea90.jpg' | relative_url }}" alt="Listing image for Rare 1904-1909 Japanese Woodblock Classroom Poster - Meiji Era Literacy Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cued-text-do-slash-marks-really-improve-reading-fluency-increasing-literacy-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy classroom poster -book -books" data-ebay-reference="cued-text-do-slash-marks-really-improve-reading-fluency-increasing-literacy-classroom-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Rare 1904-1909 Japanese Woodblock Classroom Poster - Meiji Era Literacy Chart</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cued-text-do-slash-marks-really-improve-reading-fluency-increasing-literacy-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy classroom poster -book -books" data-ebay-reference="cued-text-do-slash-marks-really-improve-reading-fluency-increasing-literacy-classroom-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for literacy classroom poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: literacy classroom poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cued-text-do-slash-marks-really-improve-reading-fluency-increasing-literacy-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy classroom poster -book -books" data-ebay-reference="cued-text-do-slash-marks-really-improve-reading-fluency-increasing-literacy-classroom-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cued-text-do-slash-marks-really-improve-reading-fluency-increasing-literacy-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy classroom poster -book -books" data-ebay-reference="cued-text-do-slash-marks-really-improve-reading-fluency-increasing-literacy-classroom-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 X More Key Words School Classroom Poster Prompts For Literacy English Teaching"><img src="{{ '/assets/images/marketplace-covers/f822c7fb8ab43ac5498c.jpg' | relative_url }}" alt="Listing image for 2 X More Key Words School Classroom Poster Prompts For Literacy English Teaching" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cued-text-do-slash-marks-really-improve-reading-fluency-increasing-literacy-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy classroom poster -book -books" data-ebay-reference="cued-text-do-slash-marks-really-improve-reading-fluency-increasing-literacy-classroom-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">2 X More Key Words School Classroom Poster Prompts For Literacy English Teaching</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cued-text-do-slash-marks-really-improve-reading-fluency-increasing-literacy-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy classroom poster -book -books" data-ebay-reference="cued-text-do-slash-marks-really-improve-reading-fluency-increasing-literacy-classroom-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for literacy classroom poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: literacy classroom poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cued-text-do-slash-marks-really-improve-reading-fluency-increasing-literacy-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy classroom poster -book -books" data-ebay-reference="cued-text-do-slash-marks-really-improve-reading-fluency-increasing-literacy-classroom-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cued-text-do-slash-marks-really-improve-reading-fluency-increasing-literacy-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy classroom poster -book -books" data-ebay-reference="cued-text-do-slash-marks-really-improve-reading-fluency-increasing-literacy-classroom-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cued-text-do-slash-marks-really-improve-reading-fluency-increasing-literacy-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy classroom poster -book -books" data-ebay-reference="cued-text-do-slash-marks-really-improve-reading-fluency-increasing-literacy-classroom-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 X More Key Words School Classroom Poster Prompts For Literacy English Teaching"><img src="{{ '/assets/images/marketplace-covers/f822c7fb8ab43ac5498c.jpg' | relative_url }}" alt="Listing image for 2 X More Key Words School Classroom Poster Prompts For Literacy English Teaching" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cued-text-do-slash-marks-really-improve-reading-fluency-increasing-literacy-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy classroom poster -book -books" data-ebay-reference="cued-text-do-slash-marks-really-improve-reading-fluency-increasing-literacy-classroom-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">2 X More Key Words School Classroom Poster Prompts For Literacy English Teaching</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cued-text-do-slash-marks-really-improve-reading-fluency-increasing-literacy-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy classroom poster -book -books" data-ebay-reference="cued-text-do-slash-marks-really-improve-reading-fluency-increasing-literacy-classroom-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for literacy classroom poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: literacy classroom poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cued-text-do-slash-marks-really-improve-reading-fluency-increasing-literacy-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy classroom poster -book -books" data-ebay-reference="cued-text-do-slash-marks-really-improve-reading-fluency-increasing-literacy-classroom-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+classroom+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cued-text-do-slash-marks-really-improve-reading-fluency-increasing-literacy-classroom-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy classroom poster -book -books" data-ebay-reference="cued-text-do-slash-marks-really-improve-reading-fluency-increasing-literacy-classroom-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -555,7 +555,7 @@ When readers learn to recognise meaningful language units automatically, reading
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -575,7 +575,7 @@ When readers learn to recognise meaningful language units automatically, reading
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -607,7 +607,7 @@ When readers learn to recognise meaningful language units automatically, reading
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -659,7 +659,7 @@ When readers learn to recognise meaningful language units automatically, reading
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -704,7 +704,7 @@ When readers learn to recognise meaningful language units automatically, reading
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -745,185 +745,185 @@ When readers learn to recognise meaningful language units automatically, reading
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: literacy.virginia.edu  
-   Link: <a href="https://literacy.virginia.edu/sites/g/files/jsddwu1006/files/2023-05/the_reading_sourcebook_phrase_cued_reading_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://literacy.virginia.edu/sites/g/files/jsddwu1006/files/2023-05/the_reading_sourcebook_phrase_cued_reading_1.pdf</a>  
+   Link:<a href="https://literacy.virginia.edu/sites/g/files/jsddwu1006/files/2023-05/the_reading_sourcebook_phrase_cued_reading_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://literacy.virginia.edu/sites/g/files/jsddwu1006/files/2023-05/the_reading_sourcebook_phrase_cued_reading_1.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: interventioncentral.org  
-   Link: <a href="https://www.interventioncentral.org/academic-interventions/reading-comprehension/phrase-cued-text-lessons" target="_blank" rel="noopener noreferrer nofollow">https://www.interventioncentral.org/academic-interventions/reading-comprehension/phrase-cued-text-lessons</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Phrase-Cued Text LessonsDESCRIPTION: Phrase-cued texts are a means to train students to recognize the natural pauses that occur between p...</p></details>
+   Link:<a href="https://www.interventioncentral.org/academic-interventions/reading-comprehension/phrase-cued-text-lessons" target="_blank" rel="noopener noreferrer nofollow">https://www.interventioncentral.org/academic-interventions/reading-comprehension/phrase-cued-text-lessons</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Phrase-Cued Text LessonsDESCRIPTION: Phrase-cued texts are a means to train students to recognize the natural pauses that occur between p...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: onlinelibrary.wiley.com  
    Title: 1467 9817.70002  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/1467-9817.70002" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1111/1467-9817.70002</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryPairing phrase‐cued text with readers theatre: Effects on...by E Rodgers · 2025 · Cited by 2 — Another method that h...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/1467-9817.70002" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1111/1467-9817.70002</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryPairing phrase‐cued text with readers theatre: Effects on...by E Rodgers · 2025 · Cited by 2 — Another method that h...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/397287122_The_Effects_of_Phrase-Cued_Reading_on_Reading_Fluency_and_Comprehension_in_Children_with_Borderline_Intellectual_Functioning" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397287122_The_Effects_of_Phrase-Cued_Reading_on_Reading_Fluency_and_Comprehension_in_Children_with_Borderline_Intellectual_Functioning</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Effects of Phrase-Cued Reading on Reading Fluency...Nov 7, 2025 — Conclusion: The phrase-cued reading strategy was found to be effec...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/397287122_The_Effects_of_Phrase-Cued_Reading_on_Reading_Fluency_and_Comprehension_in_Children_with_Borderline_Intellectual_Functioning" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397287122_The_Effects_of_Phrase-Cued_Reading_on_Reading_Fluency_and_Comprehension_in_Children_with_Borderline_Intellectual_Functioning</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Effects of Phrase-Cued Reading on Reading Fluency...Nov 7, 2025 — Conclusion: The phrase-cued reading strategy was found to be effec...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/jennifer-throndsen-phd-1b833261_do-your-students-struggle-with-reading-fluency-activity-7417422921456996352--T9x" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/jennifer-throndsen-phd-1b833261_do-your-students-struggle-with-reading-fluency-activity-7417422921456996352--T9x</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Boost Reading Fluency with Evidence-Based Phrase-Cued...Phrase-cued reading is an evidence-based strategy that can help.... And...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/jennifer-throndsen-phd-1b833261_do-your-students-struggle-with-reading-fluency-activity-7417422921456996352--T9x" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/jennifer-throndsen-phd-1b833261_do-your-students-struggle-with-reading-fluency-activity-7417422921456996352--T9x</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Boost Reading Fluency with Evidence-Based Phrase-Cued...Phrase-cued reading is an evidence-based strategy that can help.... And...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: phrase.com  
-   Link: <a href="https://phrase.com/" target="_blank" rel="noopener noreferrer nofollow">https://phrase.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI-Powered Localization &amp; Translation PlatformPhrase is the AI-powered localization platform for enterprise teams. Automate workf...</p></details>
+   Link:<a href="https://phrase.com/" target="_blank" rel="noopener noreferrer nofollow">https://phrase.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AI-Powered Localization &amp; Translation PlatformPhrase is the AI-powered localization platform for enterprise teams. Automate workf...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: eu.phrase.com  
-   Link: <a href="https://eu.phrase.com/idm-ui/signin" target="_blank" rel="noopener noreferrer nofollow">https://eu.phrase.com/idm-ui/signin</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>· LoginWelcome to Phrase. New around here? Sign up.. EU data center. Username or email. Password. Forgot password? Keep me logged in for...</p></details>
+   Link:<a href="https://eu.phrase.com/idm-ui/signin" target="_blank" rel="noopener noreferrer nofollow">https://eu.phrase.com/idm-ui/signin</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>· LoginWelcome to Phrase. New around here? Sign up.. EU data center. Username or email. Password. Forgot password? Keep me logged in for...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/326792180_The_Effect_of_Phrase-Cued_Text_Strategy_on_Students%27_Reading_Comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/326792180_The_Effect_of_Phrase-Cued_Text_Strategy_on_Students%27_Reading_Comprehension</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Effect of Phrase-Cued Text Strategy on Students...Mar 26, 2026 — The purpose of this research was to know the significant effe...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/326792180_The_Effect_of_Phrase-Cued_Text_Strategy_on_Students%27_Reading_Comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/326792180_The_Effect_of_Phrase-Cued_Text_Strategy_on_Students%27_Reading_Comprehension</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Effect of Phrase-Cued Text Strategy on Students...Mar 26, 2026 — The purpose of this research was to know the significant effe...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Phrase-Cued Reading  
-   Link: <a href="http://www.youtube.com/watch?v=HBoGXHTQfD4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=HBoGXHTQfD4</a>  
+   Link:<a href="http://www.youtube.com/watch?v=HBoGXHTQfD4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=HBoGXHTQfD4</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/105345129402900307" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/105345129402900307</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsDeveloping Syntactic Sensitivity in Reading Through...by TV Rasinski · 1994 · Cited by 61 — Highlights the benefits of deve...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/105345129402900307" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/105345129402900307</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsDeveloping Syntactic Sensitivity in Reading Through...by TV Rasinski · 1994 · Cited by 61 — Highlights the benefits of deve...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: readingrockets.org  
    Title: Reading Rockets Fluency  
-   Link: <a href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsFluency: IntroductionFluent readers read aloud effortlessly and with expression — their reading sounds natural, as if they...</p></details>
+   Link:<a href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsFluency: IntroductionFluent readers read aloud effortlessly and with expression — their reading sounds natural, as if they...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: improvingliteracy.org  
    Title: National Center on Improving Literacy Why Does Fluent Reading Matter?  
-   Link: <a href="https://improvingliteracy.org/resource/why-does-fluent-reading-matter/" target="_blank" rel="noopener noreferrer nofollow">https://improvingliteracy.org/resource/why-does-fluent-reading-matter/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Center on Improving LiteracyWhy Does Fluent Reading Matter? - NCILFluency with text is the ability to read words, [phrases](&amp;#123;&amp;#123; &#x27;phrases/&#x27; | relative_url &amp;#125;&amp;#125;), sente...</p></details>
+   Link:<a href="https://improvingliteracy.org/resource/why-does-fluent-reading-matter/" target="_blank" rel="noopener noreferrer nofollow">https://improvingliteracy.org/resource/why-does-fluent-reading-matter/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Center on Improving LiteracyWhy Does Fluent Reading Matter? - NCILFluency with text is the ability to read words, [phrases](&amp;#123;&amp;#123; &#x27;phrases/&#x27; | relative_url &amp;#125;&amp;#125;), sente...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: shanahanonliteracy.com  
    Title: teaching fluency faqs  
-   Link: <a href="https://www.shanahanonliteracy.com/blog/teaching-fluency-faqs" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/teaching-fluency-faqs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jul 27, 2024 — The National Reading Panel concluded that oral reading practice with feedback and repetition was valuable in developing fl...</p></details>
+   Link:<a href="https://www.shanahanonliteracy.com/blog/teaching-fluency-faqs" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/teaching-fluency-faqs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jul 27, 2024 — The National Reading Panel concluded that oral reading practice with feedback and repetition was valuable in developing fl...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nexus.aimpa.org  
    Title: AIM Nexus Phrased Text Reading  
-   Link: <a href="https://nexus.aimpa.org/lesson-toolkits/phrased-text-reading" target="_blank" rel="noopener noreferrer nofollow">https://nexus.aimpa.org/lesson-toolkits/phrased-text-reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AIM NexusPhrased Text Reading - AIM NexusPhrased text reading is one way to support students with the expression component of fluency. Th...</p></details>
+   Link:<a href="https://nexus.aimpa.org/lesson-toolkits/phrased-text-reading" target="_blank" rel="noopener noreferrer nofollow">https://nexus.aimpa.org/lesson-toolkits/phrased-text-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AIM NexusPhrased Text Reading - AIM NexusPhrased text reading is one way to support students with the expression component of fluency. Th...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fluency: In DepthRepeated oral reading of familiar texts can substantially improve reading fluency in typical elementary students as well...</p></details>
+   Link:<a href="https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/reading-101/reading-101-learning-modules/course-modules/fluency/depth</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fluency: In DepthRepeated oral reading of familiar texts can substantially improve reading fluency in typical elementary students as well...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/topics/fluency/articles/developing-fluent-readers" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/fluency/articles/developing-fluent-readers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsDeveloping Fluent ReadersResearch over the past two decades has identified repeated reading as the key strategy for improv...</p></details>
+   Link:<a href="https://www.readingrockets.org/topics/fluency/articles/developing-fluent-readers" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/topics/fluency/articles/developing-fluent-readers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading RocketsDeveloping Fluent ReadersResearch over the past two decades has identified repeated reading as the key strategy for improv...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: readingrockets.org  
    Title: everything you wanted know about repeated reading  
-   Link: <a href="https://www.readingrockets.org/blogs/shanahan-on-literacy/everything-you-wanted-know-about-repeated-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/blogs/shanahan-on-literacy/everything-you-wanted-know-about-repeated-reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Everything You Wanted to Know about Repeated ReadingAug 4, 2017 — Repeated reading is a particular method proposed by S. Jay Samuels to d...</p></details>
+   Link:<a href="https://www.readingrockets.org/blogs/shanahan-on-literacy/everything-you-wanted-know-about-repeated-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/blogs/shanahan-on-literacy/everything-you-wanted-know-about-repeated-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Everything You Wanted to Know about Repeated ReadingAug 4, 2017 — Repeated reading is a particular method proposed by S. Jay Samuels to d...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: landmarkoutreach.org  
    Title: Learn how strategies like chunking, modeling, repeated  
-   Link: <a href="https://www.landmarkoutreach.org/strategies/fluency-interventions-text-and-passage-level/" target="_blank" rel="noopener noreferrer nofollow">https://www.landmarkoutreach.org/strategies/fluency-interventions-text-and-passage-level/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Landmark OutreachFluency Interventions at the Text and Passage LevelsApr 16, 2025 — Explore effective text-level fluency interventions to...</p></details>
+   Link:<a href="https://www.landmarkoutreach.org/strategies/fluency-interventions-text-and-passage-level/" target="_blank" rel="noopener noreferrer nofollow">https://www.landmarkoutreach.org/strategies/fluency-interventions-text-and-passage-level/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Landmark OutreachFluency Interventions at the Text and Passage LevelsApr 16, 2025 — Explore effective text-level fluency interventions to...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/classroom/classroom-strategies/audio-assisted-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/classroom/classroom-strategies/audio-assisted-reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Audio-Assisted ReadingWhy use audio-assisted reading? · It helps to build fluency skills including proper phrasing and expression. · It h...</p></details>
+   Link:<a href="https://www.readingrockets.org/classroom/classroom-strategies/audio-assisted-reading" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/classroom/classroom-strategies/audio-assisted-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Audio-Assisted ReadingWhy use audio-assisted reading? · It helps to build fluency skills including proper phrasing and expression. · It h...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: readingrockets.org  
-   Link: <a href="https://www.readingrockets.org/classroom/classroom-strategies/timed-repeated-readings" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/classroom/classroom-strategies/timed-repeated-readings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Timed Repeated ReadingsThe goal of timed repeated readings is to increase reading speed, accuracy, and expression through repeated practi...</p></details>
+   Link:<a href="https://www.readingrockets.org/classroom/classroom-strategies/timed-repeated-readings" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/classroom/classroom-strategies/timed-repeated-readings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Timed Repeated ReadingsThe goal of timed repeated readings is to increase reading speed, accuracy, and expression through repeated practi...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: readingrockets.org  
    Title: can we really teach prosody and why would we want  
-   Link: <a href="https://www.readingrockets.org/blogs/shanahan-on-literacy/can-we-really-teach-prosody-and-why-would-we-want" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/blogs/shanahan-on-literacy/can-we-really-teach-prosody-and-why-would-we-want</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>To?Jul 5, 2023 — We are told that oral reading fluencyFluency is the ability to read a text accurately, at a good pace, and with proper e...</p></details>
+   Link:<a href="https://www.readingrockets.org/blogs/shanahan-on-literacy/can-we-really-teach-prosody-and-why-would-we-want" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/blogs/shanahan-on-literacy/can-we-really-teach-prosody-and-why-would-we-want</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>To?Jul 5, 2023 — We are told that oral reading fluencyFluency is the ability to read a text accurately, at a good pace, and with proper e...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: readingrockets.org  
    Title: teaching fluency faqs  
-   Link: <a href="https://www.readingrockets.org/blogs/shanahan-on-literacy/teaching-fluency-faqs" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/blogs/shanahan-on-literacy/teaching-fluency-faqs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jul 31, 2024 — Find answers to 14 commonly asked questions about teaching reading fluency, including the amount of fluency instruction, t...</p></details>
+   Link:<a href="https://www.readingrockets.org/blogs/shanahan-on-literacy/teaching-fluency-faqs" target="_blank" rel="noopener noreferrer nofollow">https://www.readingrockets.org/blogs/shanahan-on-literacy/teaching-fluency-faqs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jul 31, 2024 — Find answers to 14 commonly asked questions about teaching reading fluency, including the amount of fluency instruction, t...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: shanahanonliteracy.com  
-   Link: <a href="https://www.shanahanonliteracy.com/blog/teaching-oral-reading-fluency-to-older-students" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/teaching-oral-reading-fluency-to-older-students</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Teaching Oral Reading Fluency to Older Students04 Dec 2021 — Fluency refers to the ability to read text accurately, with automaticity, an...</p></details>
+   Link:<a href="https://www.shanahanonliteracy.com/blog/teaching-oral-reading-fluency-to-older-students" target="_blank" rel="noopener noreferrer nofollow">https://www.shanahanonliteracy.com/blog/teaching-oral-reading-fluency-to-older-students</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Teaching Oral Reading Fluency to Older Students04 Dec 2021 — Fluency refers to the ability to read text accurately, with automaticity, an...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: continentalpress.com  
    Title: reading fluency  
-   Link: <a href="https://www.continentalpress.com/blog/reading-fluency/?srsltid=AfmBOoq9zedAU7b7ypYleJaOPPu5dSvWoonsNicmzBIJ4lcQyNAp9sxf" target="_blank" rel="noopener noreferrer nofollow">https://www.continentalpress.com/blog/reading-fluency/?srsltid=AfmBOoq9zedAU7b7ypYleJaOPPu5dSvWoonsNicmzBIJ4lcQyNAp9sxf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Build Reading Fluency With Evidence-Based Instruction21 Dec 2023 — We&#x27;ll also explore how to improve reading fluency with research-backed...</p></details>
+   Link:<a href="https://www.continentalpress.com/blog/reading-fluency/?srsltid=AfmBOoq9zedAU7b7ypYleJaOPPu5dSvWoonsNicmzBIJ4lcQyNAp9sxf" target="_blank" rel="noopener noreferrer nofollow">https://www.continentalpress.com/blog/reading-fluency/?srsltid=AfmBOoq9zedAU7b7ypYleJaOPPu5dSvWoonsNicmzBIJ4lcQyNAp9sxf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Build Reading Fluency With Evidence-Based Instruction21 Dec 2023 — We&#x27;ll also explore how to improve reading fluency with research-backed...</p></details>
 
 ### Additional References
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: teacherspayteachers.com  
-   Link: <a href="https://www.teacherspayteachers.com/browse/free?search=fluency+phrasing+activities" target="_blank" rel="noopener noreferrer nofollow">https://www.teacherspayteachers.com/browse/free?search=fluency+phrasing+activities</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fluency Phrasing ActivitiesFREE FLUENCY PRACTICE-FOCUS ON PHRASING STRATEGY: FOCUS ON PHRASING How to use PHRASE-CUED TEXT to help studen...</p></details>
+   Link:<a href="https://www.teacherspayteachers.com/browse/free?search=fluency+phrasing+activities" target="_blank" rel="noopener noreferrer nofollow">https://www.teacherspayteachers.com/browse/free?search=fluency+phrasing+activities</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fluency Phrasing ActivitiesFREE FLUENCY PRACTICE-FOCUS ON PHRASING STRATEGY: FOCUS ON PHRASING How to use PHRASE-CUED TEXT to help studen...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: sarahsnippets.com  
-   Link: <a href="https://sarahsnippets.com/fluency-phrased-reading-scooping/" target="_blank" rel="noopener noreferrer nofollow">https://sarahsnippets.com/fluency-phrased-reading-scooping/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Phrased Reading: Foundations of Fluency SkillsDiscover the benefits of phrased reading. Help students group words meaningfully to boost r...</p></details>
+   Link:<a href="https://sarahsnippets.com/fluency-phrased-reading-scooping/" target="_blank" rel="noopener noreferrer nofollow">https://sarahsnippets.com/fluency-phrased-reading-scooping/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Phrased Reading: Foundations of Fluency SkillsDiscover the benefits of phrased reading. Help students group words meaningfully to boost r...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: sortools.com  
-   Link: <a href="https://sortools.com/phrase_cue.html" target="_blank" rel="noopener noreferrer nofollow">https://sortools.com/phrase_cue.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Phrase-Cued Text GeneratorPhrase-cued text is a strategy for teaching reading fluency. Cues, or dashes, are inserted after punctuation ma...</p></details>
+   Link:<a href="https://sortools.com/phrase_cue.html" target="_blank" rel="noopener noreferrer nofollow">https://sortools.com/phrase_cue.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Phrase-Cued Text GeneratorPhrase-cued text is a strategy for teaching reading fluency. Cues, or dashes, are inserted after punctuation ma...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: sortools.com  
-   Link: <a href="https://sortools.com/timed_repeated.html" target="_blank" rel="noopener noreferrer nofollow">https://sortools.com/timed_repeated.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Timed Repeated Reading GeneratorWelcome to the Repeated Reading Text Generator! Timed Repeated Reading is an instructional technique desi...</p></details>
+   Link:<a href="https://sortools.com/timed_repeated.html" target="_blank" rel="noopener noreferrer nofollow">https://sortools.com/timed_repeated.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Timed Repeated Reading GeneratorWelcome to the Repeated Reading Text Generator! Timed Repeated Reading is an instructional technique desi...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: cde.state.co.us  
-   Link: <a href="https://www.cde.state.co.us/coloradoliteracy/k12trainingfacilitatorguidemodule4" target="_blank" rel="noopener noreferrer nofollow">https://www.cde.state.co.us/coloradoliteracy/k12trainingfacilitatorguidemodule4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4: Creating Fluent ReadersIf facilitating the Oral Reading Fluency Assessment activity of the Assessing Prosody subsection, record the or...</p></details>
+   Link:<a href="https://www.cde.state.co.us/coloradoliteracy/k12trainingfacilitatorguidemodule4" target="_blank" rel="noopener noreferrer nofollow">https://www.cde.state.co.us/coloradoliteracy/k12trainingfacilitatorguidemodule4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4: Creating Fluent ReadersIf facilitating the Oral Reading Fluency Assessment activity of the Assessing Prosody subsection, record the or...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: allohio.org  
-   Link: <a href="https://allohio.org/wp-content/uploads/2025/03/PL10-Module-Resource-Guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://allohio.org/wp-content/uploads/2025/03/PL10-Module-Resource-Guide.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>teaching for reading fluencyDeveloping Reading Fluency through Practice. Phrase-Cued Reading. Phrase-cued... You also learned about high...</p></details>
+   Link:<a href="https://allohio.org/wp-content/uploads/2025/03/PL10-Module-Resource-Guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://allohio.org/wp-content/uploads/2025/03/PL10-Module-Resource-Guide.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>teaching for reading fluencyDeveloping Reading Fluency through Practice. Phrase-Cued Reading. Phrase-cued... You also learned about high...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DJaJcroRcQB/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DJaJcroRcQB/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>With phrase-cued reading, we&#x27;re taking the guesswork out of where phrases should be broken...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DJaJcroRcQB/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DJaJcroRcQB/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>With phrase-cued reading, we&#x27;re taking the guesswork out of where phrases should be broken...Read more...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: file.pepperpd.com  
    Title: CDEM4 HO Evidence Based Strategies for Fluency Building.docx  
-   Link: <a href="https://file.pepperpd.com/Pepper/Colorado/CDEM4_K12/handouts/CDEM4_HO_Evidence-Based_Strategies_for_Fluency_Building.docx.pdf" target="_blank" rel="noopener noreferrer nofollow">https://file.pepperpd.com/Pepper/Colorado/CDEM4_K12/handouts/CDEM4_HO_Evidence-Based_Strategies_for_Fluency_Building.docx.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PepperPhrase-cued reading is used to help students read with natural syntactic phrasing and with expression. A phrase-cued text is a pass...</p></details>
+   Link:<a href="https://file.pepperpd.com/Pepper/Colorado/CDEM4_K12/handouts/CDEM4_HO_Evidence-Based_Strategies_for_Fluency_Building.docx.pdf" target="_blank" rel="noopener noreferrer nofollow">https://file.pepperpd.com/Pepper/Colorado/CDEM4_K12/handouts/CDEM4_HO_Evidence-Based_Strategies_for_Fluency_Building.docx.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PepperPhrase-cued reading is used to help students read with natural syntactic phrasing and with expression. A phrase-cued text is a pass...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: literacyedventures.com  
    Title: research backed fluency strategies that work  
-   Link: <a href="https://www.literacyedventures.com/blog/research-backed-fluency-strategies-that-work" target="_blank" rel="noopener noreferrer nofollow">https://www.literacyedventures.com/blog/research-backed-fluency-strategies-that-work</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why it works: Fluent readers don&#x27;t read word by word—they read in phrases, grouping words naturally to reflect meaning.Read more...</p></details>
+   Link:<a href="https://www.literacyedventures.com/blog/research-backed-fluency-strategies-that-work" target="_blank" rel="noopener noreferrer nofollow">https://www.literacyedventures.com/blog/research-backed-fluency-strategies-that-work</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why it works: Fluent readers don&#x27;t read word by word—they read in phrases, grouping words naturally to reflect meaning.Read more...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ajqrl1vi7OU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ajqrl1vi7OU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>n teachers... Improving Fluency with Guided, Repeated, Oral Reading...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ajqrl1vi7OU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ajqrl1vi7OU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n teachers... Improving Fluency with Guided, Repeated, Oral Reading...</p></details>

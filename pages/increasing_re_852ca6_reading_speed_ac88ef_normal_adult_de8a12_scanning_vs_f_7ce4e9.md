@@ -269,19 +269,19 @@ image: /assets/images/increasing_re_852ca6_reading_speed_ac88ef_normal_adult_de8
 
 ## Introduction
 
-When people report reading at 600, 1,000, or even several thousand words per minute, the first question should not be “How fast are they reading?” but “What kind of reading are they doing?” The distinction matters because scanning, [skimming]({{ 'skimming/' | relative_url }}), and reading for full comprehension are different tasks with different goals. A person can move through text very quickly when searching for a date, name, keyword, or main idea, yet read much more slowly when trying to understand every argument, example, and implication. Research on reading speed consistently shows that [normal adult]({{ 'wpm-ranges/' | relative_url }}) reading for comprehension is far slower than the speeds often associated with scanning techniques. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://biblio.ugent.be/publication/8647789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: biblio.ugent.be">[Ghent University Bibliography]</a><span class="citation-popover" role="note"><span class="citation-popover-source">biblio.ugent.be</span><span class="citation-popover-title">Ghent University Bibliography How many words do we read per minute?</span><span class="citation-popover-snippet">A review and meta...by M Brysbaert · 2019 · Cited by 879 — For silent reading of English non-fiction most adults fall in the range of 17...</span></span></span>
+When people report reading at 600, 1,000, or even several thousand words per minute, the first question should not be “How fast are they reading?” but “What kind of reading are they doing?” The distinction matters because scanning, [skimming]({{ 'skimming/' | relative_url }}), and reading for full comprehension are different tasks with different goals. A person can move through text very quickly when searching for a date, name, keyword, or main idea, yet read much more slowly when trying to understand every argument, example, and implication. Research on reading speed consistently shows that [normal adult]({{ 'wpm-ranges/' | relative_url }}) reading for comprehension is far slower than the speeds often associated with scanning techniques.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://biblio.ugent.be/publication/8647789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: biblio.ugent.be">[Ghent University Bibliography]</a><span class="citation-popover" role="note"><span class="citation-popover-source">biblio.ugent.be</span><span class="citation-popover-title">Ghent University Bibliography How many words do we read per minute?</span><span class="citation-popover-snippet">A review and meta...by M Brysbaert · 2019 · Cited by 879 — For silent reading of English non-fiction most adults fall in the range of 17...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef_normal_adult_de8a12_scanning_vs_f_7ce4e9-Illustration-1-dark.svg" | relative_url }}" alt="Scanning vs Reading illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef_normal_adult_de8a12_scanning_vs_f_7ce4e9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef_normal_adult_de8a12_scanning_vs_f_7ce4e9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Confusing these tasks creates many of the myths surrounding [speed reading]({{ 'myths/' | relative_url }}). Much of what is presented as extraordinary reading speed is actually efficient information search rather than complete understanding of a text. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Speed_reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Speed reading</span><span class="citation-popover-snippet">Speed reading</span></span></span>
+Confusing these tasks creates many of the myths surrounding [speed reading]({{ 'myths/' | relative_url }}). Much of what is presented as extraordinary reading speed is actually efficient information search rather than complete understanding of a text.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Speed_reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Speed reading</span><span class="citation-popover-snippet">Speed reading</span></span></span>
 
 ## Are You Reading Fast or Just Scanning?
 
-Scanning is a purposeful reading strategy designed to locate specific information quickly. Instead of processing every sentence, the reader selectively searches for cues that match a goal. Examples include looking for a meeting time in a report, finding a statistic in a research paper, or checking a manual for a particular instruction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.utc.edu/enrollment-management-and-student-affairs/center-for-academic-support-and-advisement/tips-for-academic-success/skimming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: utc.edu">[University of Tennessee at Chattanooga]</a><span class="citation-popover" role="note"><span class="citation-popover-source">utc.edu</span><span class="citation-popover-snippet">They are each used for different purposes, and they are not meant to be used all...Read more...</span></span></span>
+Scanning is a purposeful reading strategy designed to locate specific information quickly. Instead of processing every sentence, the reader selectively searches for cues that match a goal. Examples include looking for a meeting time in a report, finding a statistic in a research paper, or checking a manual for a particular instruction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.utc.edu/enrollment-management-and-student-affairs/center-for-academic-support-and-advisement/tips-for-academic-success/skimming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: utc.edu">[University of Tennessee at Chattanooga]</a><span class="citation-popover" role="note"><span class="citation-popover-source">utc.edu</span><span class="citation-popover-snippet">They are each used for different purposes, and they are not meant to be used all...Read more...</span></span></span>
 
-Reading for full comprehension has a different objective. The reader aims to understand the author's meaning, follow relationships between ideas, evaluate evidence, and retain information. This requires attention to much more of the text and often involves rereading difficult passages. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7198234/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">One page of text: Eye movements during regular and thorough...by A Strukelj · 2018 · Cited by 86 — Eye movements during regular readi...</span></span></span>
+Reading for full comprehension has a different objective. The reader aims to understand the author's meaning, follow relationships between ideas, evaluate evidence, and retain information. This requires attention to much more of the text and often involves rereading difficult passages.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7198234/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">One page of text: Eye movements during regular and thorough...by A Strukelj · 2018 · Cited by 86 — Eye movements during regular readi...</span></span></span>
 
-Eye-tracking research shows that people alter their behaviour dramatically depending on the task. When instructed to skim, readers make fewer and shorter fixations, skip more words, and spend less time rereading. When instructed to read thoroughly, they slow down, revisit earlier material more often, and achieve better comprehension. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7198234/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">One page of text: Eye movements during regular and thorough...by A Strukelj · 2018 · Cited by 86 — Eye movements during regular readi...</span></span></span>
+Eye-tracking research shows that people alter their behaviour dramatically depending on the task. When instructed to skim, readers make fewer and shorter fixations, skip more words, and spend less time rereading. When instructed to read thoroughly, they slow down, revisit earlier material more often, and achieve better comprehension.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7198234/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">One page of text: Eye movements during regular and thorough...by A Strukelj · 2018 · Cited by 86 — Eye movements during regular readi...</span></span></span>
 
 The key point is that scanning is not a failed version of reading. It is a specialised tool optimised for a different purpose.
 
@@ -299,9 +299,9 @@ Common examples include:
 * Checking a timetable or schedule.
 * Identifying whether a document contains relevant information [before reading]({{ 'before-reading/' | relative_url }}) it in depth.
 
-In these situations, reading every sentence would be inefficient. Skilled readers often scan headings, topic sentences, highlighted terms, charts, and keywords to determine where detailed attention is needed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.utc.edu/enrollment-management-and-student-affairs/center-for-academic-support-and-advisement/tips-for-academic-success/skimming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: utc.edu">[University of Tennessee at Chattanooga]</a><span class="citation-popover" role="note"><span class="citation-popover-source">utc.edu</span><span class="citation-popover-snippet">They are each used for different purposes, and they are not meant to be used all...Read more...</span></span></span>
+In these situations, reading every sentence would be inefficient. Skilled readers often scan headings, topic sentences, highlighted terms, charts, and keywords to determine where detailed attention is needed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.utc.edu/enrollment-management-and-student-affairs/center-for-academic-support-and-advisement/tips-for-academic-success/skimming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: utc.edu">[University of Tennessee at Chattanooga]</a><span class="citation-popover" role="note"><span class="citation-popover-source">utc.edu</span><span class="citation-popover-snippet">They are each used for different purposes, and they are not meant to be used all...Read more...</span></span></span>
 
-Research on information-seeking behaviour shows that readers change their eye movements when searching for answers. Their attention becomes concentrated on text regions most likely to contain the needed information rather than being distributed evenly across the entire passage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2009.14780" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Bridging Information-Seeking Human Gaze and Machine Reading Comprehension</span><span class="citation-popover-snippet">Bridging Information-Seeking Human Gaze and Machine Reading ComprehensionSeptember 30, 2020...</span><span class="citation-popover-meta">Published: September 30, 2020</span></span></span>
+Research on information-seeking behaviour shows that readers change their eye movements when searching for answers. Their attention becomes concentrated on text regions most likely to contain the needed information rather than being distributed evenly across the entire passage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2009.14780" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Bridging Information-Seeking Human Gaze and Machine Reading Comprehension</span><span class="citation-popover-snippet">Bridging Information-Seeking Human Gaze and Machine Reading ComprehensionSeptember 30, 2020...</span><span class="citation-popover-meta">Published: September 30, 2020</span></span></span>
 
 This ability can dramatically increase apparent words-per-minute rates because large portions of text are skipped entirely. However, the resulting speed reflects selective extraction of information, not comprehensive understanding.
 
@@ -311,11 +311,11 @@ This ability can dramatically increase apparent words-per-minute rates because l
 
 Words per minute sounds like a straightforward measurement, but it hides a critical question: comprehension of what?
 
-A reader scanning a document may move through hundreds or thousands of words per minute because they are not processing every sentence. A reader studying a legal contract, scientific article, or technical manual may move far more slowly while gaining a much deeper understanding. Comparing those speeds as if they represent the same activity is misleading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Speed_reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Speed reading</span><span class="citation-popover-snippet">Speed reading</span></span></span>
+A reader scanning a document may move through hundreds or thousands of words per minute because they are not processing every sentence. A reader studying a legal contract, scientific article, or technical manual may move far more slowly while gaining a much deeper understanding. Comparing those speeds as if they represent the same activity is misleading.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Speed_reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Speed reading</span><span class="citation-popover-snippet">Speed reading</span></span></span>
 
-This problem becomes especially visible in discussions of speed reading. Researchers have repeatedly noted that claims of extremely high reading speeds often involve trade-offs between speed and comprehension. Eye-tracking and cognitive studies indicate that comprehension becomes increasingly difficult to maintain as reading speeds move far beyond normal adult ranges, particularly for unfamiliar or complex material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Speed_reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Speed reading</span><span class="citation-popover-snippet">Speed reading</span></span></span>
+This problem becomes especially visible in discussions of speed reading. Researchers have repeatedly noted that claims of extremely high reading speeds often involve trade-offs between speed and comprehension. Eye-tracking and cognitive studies indicate that comprehension becomes increasingly difficult to maintain as reading speeds move far beyond normal adult ranges, particularly for unfamiliar or complex material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Speed_reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Speed reading</span><span class="citation-popover-snippet">Speed reading</span></span></span>
 
-Some well-known demonstrations of extraordinary reading rates also use comprehension tests focused on gist or major points rather than detailed recall. A reader may correctly identify the main argument of a text while missing important nuances, qualifications, or supporting evidence. For many real-world tasks, those missing details matter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Speed_reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Speed reading</span><span class="citation-popover-snippet">Speed reading</span></span></span>
+Some well-known demonstrations of extraordinary reading rates also use comprehension tests focused on gist or major points rather than detailed recall. A reader may correctly identify the main argument of a text while missing important nuances, qualifications, or supporting evidence. For many real-world tasks, those missing details matter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Speed_reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Speed reading</span><span class="citation-popover-snippet">Speed reading</span></span></span>
 
 This is why a claim such as “I read at 1,[500 wpm]({{ '500-wpm/' | relative_url }})” is incomplete without explaining whether the task involved:
 
@@ -338,9 +338,9 @@ Each task places different demands on the reader.
 
 One reason speed-reading claims remain attractive is that scanning can feel like understanding. Readers often recognise familiar concepts and remember key points, creating the impression that everything has been absorbed.
 
-However, deeper comprehension depends on processes that take time. Readers must integrate information across sentences, connect ideas across paragraphs, resolve ambiguities, and update their mental model of the text as they proceed. These processes are harder to sustain when large portions of text are skipped. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/10888438.2025.2612649" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineFull article: Testing the Speed-Accuracy Trade-Off in Readingby L Schwalm · 2026 — Brysbaert&#x27;s (Citation2019) meta...</span></span></span>
+However, deeper comprehension depends on processes that take time. Readers must integrate information across sentences, connect ideas across paragraphs, resolve ambiguities, and update their mental model of the text as they proceed. These processes are harder to sustain when large portions of text are skipped.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tandfonline.com/doi/full/10.1080/10888438.2025.2612649" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineFull article: Testing the Speed-Accuracy Trade-Off in Readingby L Schwalm · 2026 — Brysbaert&#x27;s (Citation2019) meta...</span></span></span>
 
-Research comparing different reading goals shows that thorough reading produces longer reading times, more rereading, and higher comprehension outcomes than skimming. The additional time is not wasted; it is part of the cognitive work required for understanding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7198234/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">One page of text: Eye movements during regular and thorough...by A Strukelj · 2018 · Cited by 86 — Eye movements during regular readi...</span></span></span>
+Research comparing different reading goals shows that thorough reading produces longer reading times, more rereading, and higher comprehension outcomes than skimming. The additional time is not wasted; it is part of the cognitive work required for understanding.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7198234/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">One page of text: Eye movements during regular and thorough...by A Strukelj · 2018 · Cited by 86 — Eye movements during regular readi...</span></span></span>
 
 This does not mean scanning is ineffective. It means that scanning and comprehension serve different objectives and should be evaluated by different standards.
 
@@ -348,7 +348,7 @@ This does not mean scanning is ineffective. It means that scanning and comprehen
 <img src="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef_normal_adult_de8a12_scanning_vs_f_7ce4e9-Illustration-3-dark.svg" | relative_url }}" alt="Scanning vs Reading illustration 3" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef_normal_adult_de8a12_scanning_vs_f_7ce4e9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef_normal_adult_de8a12_scanning_vs_f_7ce4e9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Choosing the Right Approach for the Task
 
-The most effective readers are not those who always read fast. They are those who adjust their speed to match their purpose. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.utc.edu/enrollment-management-and-student-affairs/center-for-academic-support-and-advisement/tips-for-academic-success/skimming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: utc.edu">[University of Tennessee at Chattanooga]</a><span class="citation-popover" role="note"><span class="citation-popover-source">utc.edu</span><span class="citation-popover-snippet">They are each used for different purposes, and they are not meant to be used all...Read more...</span></span></span>
+The most effective readers are not those who always read fast. They are those who adjust their speed to match their purpose.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.utc.edu/enrollment-management-and-student-affairs/center-for-academic-support-and-advisement/tips-for-academic-success/skimming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: utc.edu">[University of Tennessee at Chattanooga]</a><span class="citation-popover" role="note"><span class="citation-popover-source">utc.edu</span><span class="citation-popover-snippet">They are each used for different purposes, and they are not meant to be used all...Read more...</span></span></span>
 
 A practical way to think about reading tasks is:
 
@@ -363,194 +363,194 @@ In the context of increasing reading speed, this distinction is crucial. Improvi
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Are You Reading Fast or Just Scanning?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Are You Reading Fast or Just Scanning?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Directly discusses inspectional reading, skimming, and deep comprehension.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Directly discusses inspectional reading, skimming, and deep comprehension.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Breakthrough rapid reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/84360-M.jpg" alt="Cover for Breakthrough rapid reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breakthrough rapid reading">Breakthrough rapid reading</a>
-        </h4>
-        <p class="fr-book-author">By Peter Kump</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Breakthrough rapid reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/84360-M.jpg" alt="Cover for Breakthrough rapid reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breakthrough rapid reading">Breakthrough rapid reading</a>
+</h4>
+<p class="fr-book-author">By Peter Kump</p>
         
-        <p class="fr-book-desc">First published 1979. Subjects: Speed reading, Rapid reading, Du shu fang fa.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1979. Subjects: Speed reading, Rapid reading, Du shu fang fa.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Speed Reading Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/375099-M.jpg" alt="Cover for The Speed Reading Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Speed Reading Book">The Speed Reading Book</a>
-        </h4>
-        <p class="fr-book-author">By Tony Buzan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Speed Reading Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/375099-M.jpg" alt="Cover for The Speed Reading Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Speed Reading Book">The Speed Reading Book</a>
+</h4>
+<p class="fr-book-author">By Tony Buzan</p>
         
-        <p class="fr-book-desc">First published 1997. Subjects: Speed reading, Développement d&#x27;aptitudes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1997. Subjects: Speed reading, Développement d&#x27;aptitudes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Speed+Reading+Book+Tony+Buzan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+complete+idiot%27s+guide+to+speed+reading+Abby+Marks-Beale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The complete idiot&#x27;s guide to speed reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10431192-M.jpg" alt="Cover for The complete idiot&#x27;s guide to speed reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+complete+idiot%27s+guide+to+speed+reading+Abby+Marks-Beale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The complete idiot&#x27;s guide to speed reading">The complete idiot&#x27;s guide to speed reading</a>
-        </h4>
-        <p class="fr-book-author">By Abby Marks-Beale</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+complete+idiot%27s+guide+to+speed+reading+Abby+Marks-Beale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The complete idiot&#x27;s guide to speed reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10431192-M.jpg" alt="Cover for The complete idiot&#x27;s guide to speed reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+complete+idiot%27s+guide+to+speed+reading+Abby+Marks-Beale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The complete idiot&#x27;s guide to speed reading">The complete idiot&#x27;s guide to speed reading</a>
+</h4>
+<p class="fr-book-author">By Abby Marks-Beale</p>
         
-        <p class="fr-book-desc">First published 2008. Subjects: Nonfiction, Reference, Speed reading.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+complete+idiot%27s+guide+to+speed+reading+Abby+Marks-Beale&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2008. Subjects: Nonfiction, Reference, Speed reading.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+complete+idiot%27s+guide+to+speed+reading+Abby+Marks-Beale&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Breakthrough rapid reading</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Speed+Reading+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Speed Reading Book</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Breakthrough rapid reading</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Speed+Reading+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Speed Reading Book</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=are+you+reading+mug+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="are you reading mug -book -books -dvd" data-ebay-reference="scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for If You Are Reading This You Are Standing Too Close - Antisocial Gift Mug"><img src="{{ '/assets/images/marketplace-covers/c2556fc151c7f8bbc5b7.jpg' | relative_url }}" alt="Listing image for If You Are Reading This You Are Standing Too Close - Antisocial Gift Mug" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=are+you+reading+mug+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="are you reading mug -book -books -dvd" data-ebay-reference="scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">If You Are Reading This You Are Standing Too Close - Antisocial Gift Mug</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=are+you+reading+mug+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="are you reading mug -book -books -dvd" data-ebay-reference="scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for are you reading mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: are you reading mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=are+you+reading+mug+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="are you reading mug -book -books -dvd" data-ebay-reference="scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=are+you+reading+mug+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="are you reading mug -book -books -dvd" data-ebay-reference="scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for If You Are Reading This You Are Standing Too Close - Antisocial Gift Mug"><img src="{{ '/assets/images/marketplace-covers/c2556fc151c7f8bbc5b7.jpg' | relative_url }}" alt="Listing image for If You Are Reading This You Are Standing Too Close - Antisocial Gift Mug" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=are+you+reading+mug+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="are you reading mug -book -books -dvd" data-ebay-reference="scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">If You Are Reading This You Are Standing Too Close - Antisocial Gift Mug</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=are+you+reading+mug+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="are you reading mug -book -books -dvd" data-ebay-reference="scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for are you reading mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: are you reading mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=are+you+reading+mug+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="are you reading mug -book -books -dvd" data-ebay-reference="scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=are+you+reading+mug+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="are you reading mug -book -books -dvd" data-ebay-reference="scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for If you are reading this Coffee Mug , ADHD, ADHD Coffee Mug, Funny Mug"><img src="{{ '/assets/images/marketplace-covers/445e9aaabff2c610761d.jpg' | relative_url }}" alt="Listing image for If you are reading this Coffee Mug , ADHD, ADHD Coffee Mug, Funny Mug" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=are+you+reading+mug+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="are you reading mug -book -books -dvd" data-ebay-reference="scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">If you are reading this Coffee Mug , ADHD, ADHD Coffee Mug, Funny Mug</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=are+you+reading+mug+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="are you reading mug -book -books -dvd" data-ebay-reference="scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for are you reading mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: are you reading mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=are+you+reading+mug+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="are you reading mug -book -books -dvd" data-ebay-reference="scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=are+you+reading+mug+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="are you reading mug -book -books -dvd" data-ebay-reference="scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for If you are reading this Coffee Mug , ADHD, ADHD Coffee Mug, Funny Mug"><img src="{{ '/assets/images/marketplace-covers/445e9aaabff2c610761d.jpg' | relative_url }}" alt="Listing image for If you are reading this Coffee Mug , ADHD, ADHD Coffee Mug, Funny Mug" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=are+you+reading+mug+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="are you reading mug -book -books -dvd" data-ebay-reference="scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">If you are reading this Coffee Mug , ADHD, ADHD Coffee Mug, Funny Mug</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=are+you+reading+mug+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="are you reading mug -book -books -dvd" data-ebay-reference="scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for are you reading mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: are you reading mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=are+you+reading+mug+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="are you reading mug -book -books -dvd" data-ebay-reference="scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=are+you+reading+mug+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="are you reading mug -book -books -dvd" data-ebay-reference="scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Coffe Mug Cup: In My Dream World Bpoks Are Free And Reading Makes You Thin"><img src="{{ '/assets/images/marketplace-covers/925a521311ffdb217bea.jpg' | relative_url }}" alt="Listing image for Coffe Mug Cup: In My Dream World Bpoks Are Free And Reading Makes You Thin" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=are+you+reading+mug+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="are you reading mug -book -books -dvd" data-ebay-reference="scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Coffe Mug Cup: In My Dream World Bpoks Are Free And Reading Makes You Thin</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=are+you+reading+mug+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="are you reading mug -book -books -dvd" data-ebay-reference="scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for are you reading mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: are you reading mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=are+you+reading+mug+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="are you reading mug -book -books -dvd" data-ebay-reference="scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=are+you+reading+mug+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="are you reading mug -book -books -dvd" data-ebay-reference="scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Coffe Mug Cup: In My Dream World Bpoks Are Free And Reading Makes You Thin"><img src="{{ '/assets/images/marketplace-covers/925a521311ffdb217bea.jpg' | relative_url }}" alt="Listing image for Coffe Mug Cup: In My Dream World Bpoks Are Free And Reading Makes You Thin" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=are+you+reading+mug+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="are you reading mug -book -books -dvd" data-ebay-reference="scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Coffe Mug Cup: In My Dream World Bpoks Are Free And Reading Makes You Thin</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=are+you+reading+mug+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="are you reading mug -book -books -dvd" data-ebay-reference="scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for are you reading mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: are you reading mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=are+you+reading+mug+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="are you reading mug -book -books -dvd" data-ebay-reference="scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=are+you+reading+mug+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="are you reading mug -book -books -dvd" data-ebay-reference="scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Owl Crate Jr. Matilda Roald Dahl Coffee Mug You Are Not Alone Reading Quote Cup"><img src="{{ '/assets/images/marketplace-covers/c1b206415e92242aafdb.jpg' | relative_url }}" alt="Listing image for Owl Crate Jr. Matilda Roald Dahl Coffee Mug You Are Not Alone Reading Quote Cup" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=are+you+reading+mug+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="are you reading mug -book -books -dvd" data-ebay-reference="scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Owl Crate Jr. Matilda Roald Dahl Coffee Mug You Are Not Alone Reading Quote Cup</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=are+you+reading+mug+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="are you reading mug -book -books -dvd" data-ebay-reference="scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for are you reading mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: are you reading mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=are+you+reading+mug+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="are you reading mug -book -books -dvd" data-ebay-reference="scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=are+you+reading+mug+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="are you reading mug -book -books -dvd" data-ebay-reference="scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=are+you+reading+mug+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="are you reading mug -book -books -dvd" data-ebay-reference="scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Owl Crate Jr. Matilda Roald Dahl Coffee Mug You Are Not Alone Reading Quote Cup"><img src="{{ '/assets/images/marketplace-covers/c1b206415e92242aafdb.jpg' | relative_url }}" alt="Listing image for Owl Crate Jr. Matilda Roald Dahl Coffee Mug You Are Not Alone Reading Quote Cup" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=are+you+reading+mug+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="are you reading mug -book -books -dvd" data-ebay-reference="scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Owl Crate Jr. Matilda Roald Dahl Coffee Mug You Are Not Alone Reading Quote Cup</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=are+you+reading+mug+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="are you reading mug -book -books -dvd" data-ebay-reference="scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for are you reading mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: are you reading mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=are+you+reading+mug+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="are you reading mug -book -books -dvd" data-ebay-reference="scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=are+you+reading+mug+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="are you reading mug -book -books -dvd" data-ebay-reference="scanning-vs-reading-are-you-reading-fast-or-just-scanning-increasing-are-you-reading-mug-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -566,7 +566,7 @@ In the context of increasing reading speed, this distinction is crucial. Improvi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -586,7 +586,7 @@ In the context of increasing reading speed, this distinction is crucial. Improvi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -618,7 +618,7 @@ In the context of increasing reading speed, this distinction is crucial. Improvi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -670,7 +670,7 @@ In the context of increasing reading speed, this distinction is crucial. Improvi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -715,7 +715,7 @@ In the context of increasing reading speed, this distinction is crucial. Improvi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -756,115 +756,115 @@ In the context of increasing reading speed, this distinction is crucial. Improvi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Speed reading  
-   Link: <a href="https://en.wikipedia.org/wiki/Speed_reading" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Speed_reading</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Speed_reading" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Speed_reading</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7198234/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7198234/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>One page of text: Eye movements during regular and thorough...by A Strukelj · 2018 · Cited by 86 — Eye movements during regular readi...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7198234/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7198234/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>One page of text: Eye movements during regular and thorough...by A Strukelj · 2018 · Cited by 86 — Eye movements during regular readi...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv Bridging Information-Seeking Human Gaze and Machine Reading Comprehension  
-   Link: <a href="https://arxiv.org/abs/2009.14780" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2009.14780</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bridging Information-Seeking Human Gaze and Machine Reading ComprehensionSeptember 30, 2020...</p></details>
+   Link:<a href="https://arxiv.org/abs/2009.14780" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2009.14780</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bridging Information-Seeking Human Gaze and Machine Reading ComprehensionSeptember 30, 2020...</p></details>
    Published: September 30, 2020  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv Decoding Reading Goals from Eye Movements  
-   Link: <a href="https://arxiv.org/abs/2410.20779" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2410.20779</a>  
+   Link:<a href="https://arxiv.org/abs/2410.20779" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2410.20779</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Silent reading  
-   Link: <a href="https://en.wikipedia.org/wiki/Silent_reading" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Silent_reading</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Silent reading - WikipediaHow many words do we read per minute? A review and meta...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Silent_reading" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Silent_reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Silent reading - WikipediaHow many words do we read per minute? A review and meta...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: biblio.ugent.be  
    Title: Ghent University Bibliography How many words do we read per minute?  
-   Link: <a href="https://biblio.ugent.be/publication/8647789" target="_blank" rel="noopener noreferrer nofollow">https://biblio.ugent.be/publication/8647789</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A review and meta...by M Brysbaert · 2019 · Cited by 879 — For silent reading of English non-fiction most adults fall in the range of 17...</p></details>
+   Link:<a href="https://biblio.ugent.be/publication/8647789" target="_blank" rel="noopener noreferrer nofollow">https://biblio.ugent.be/publication/8647789</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A review and meta...by M Brysbaert · 2019 · Cited by 879 — For silent reading of English non-fiction most adults fall in the range of 17...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: utc.edu  
-   Link: <a href="https://www.utc.edu/enrollment-management-and-student-affairs/center-for-academic-support-and-advisement/tips-for-academic-success/skimming" target="_blank" rel="noopener noreferrer nofollow">https://www.utc.edu/enrollment-management-and-student-affairs/center-for-academic-support-and-advisement/tips-for-academic-success/skimming</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>They are each used for different purposes, and they are not meant to be used all...Read more...</p></details>
+   Link:<a href="https://www.utc.edu/enrollment-management-and-student-affairs/center-for-academic-support-and-advisement/tips-for-academic-success/skimming" target="_blank" rel="noopener noreferrer nofollow">https://www.utc.edu/enrollment-management-and-student-affairs/center-for-academic-support-and-advisement/tips-for-academic-success/skimming</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>They are each used for different purposes, and they are not meant to be used all...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/10888438.2025.2612649" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10888438.2025.2612649</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineFull article: Testing the Speed-Accuracy Trade-Off in Readingby L Schwalm · 2026 — Brysbaert&#x27;s (Citation2019) meta...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/10888438.2025.2612649" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10888438.2025.2612649</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineFull article: Testing the Speed-Accuracy Trade-Off in Readingby L Schwalm · 2026 — Brysbaert&#x27;s (Citation2019) meta...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/22590519/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22590519/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>speed, comprehension and eye movements while...by H Miyata · 2012 · Cited by 60 — The present study examined relationships between readi...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/22590519/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22590519/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>speed, comprehension and eye movements while...by H Miyata · 2012 · Cited by 60 — The present study examined relationships between readi...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>movements, the [perceptual span](&amp;#123;&amp;#123; &#x27;perceptual-span/&#x27; | relative_url &amp;#125;&amp;#125;), and reading speed - PMCby K Rayner · 2010 · Cited by 477 — The main findings were that fast readers (read...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3075059/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>movements, the [perceptual span](&amp;#123;&amp;#123; &#x27;perceptual-span/&#x27; | relative_url &amp;#125;&amp;#125;), and reading speed - PMCby K Rayner · 2010 · Cited by 477 — The main findings were that fast readers (read...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10360968/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10360968/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by M Brysbaert · 2023 · Cited by 12 — First, it was found that the average reading rate in silent reading is not 300 wpm but 240 wpm (...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10360968/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10360968/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by M Brysbaert · 2023 · Cited by 12 — First, it was found that the average reading rate in silent reading is not 300 wpm but 240 wpm (...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/326197941_The_Effectiveness_of_Skimming_and_Scanning_Strategies_in_Improving_Comprehension_and_Reading_Speed_Rates_to_Students_of_English_Study_Programme" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/326197941_The_Effectiveness_of_Skimming_and_Scanning_Strategies_in_Improving_Comprehension_and_Reading_Speed_Rates_to_Students_of_English_Study_Programme</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Effectiveness of Skimming and Scanning Strategies in...20 May 2021 — Evidence suggests that when implemented correctly, skimming imp...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/326197941_The_Effectiveness_of_Skimming_and_Scanning_Strategies_in_Improving_Comprehension_and_Reading_Speed_Rates_to_Students_of_English_Study_Programme" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/326197941_The_Effectiveness_of_Skimming_and_Scanning_Strategies_in_Improving_Comprehension_and_Reading_Speed_Rates_to_Students_of_English_Study_Programme</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Effectiveness of Skimming and Scanning Strategies in...20 May 2021 — Evidence suggests that when implemented correctly, skimming imp...</p></details>
    Published: May 2021  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/figure/Distribution-of-reading-rates-for-fiction-books_fig4_335174808" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Distribution-of-reading-rates-for-fiction-books_fig4_335174808</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Figure 5: Distribution of reading rates for fiction booksWe estimate that the average silent reading rate for adults in English is 238 wo...</p></details>
+   Link:<a href="https://www.researchgate.net/figure/Distribution-of-reading-rates-for-fiction-books_fig4_335174808" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Distribution-of-reading-rates-for-fiction-books_fig4_335174808</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Figure 5: Distribution of reading rates for fiction booksWe estimate that the average silent reading rate for adults in English is 238 wo...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/349683634_One_page_of_text_Eye_movements_during_regular_and_thorough_reading_skimming_and_spell_checking" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/349683634_One_page_of_text_Eye_movements_during_regular_and_thorough_reading_skimming_and_spell_checking</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) One page of text: Eye movements during regular and...Eye movements during regular reading, thorough reading, skimming, and spell c...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/349683634_One_page_of_text_Eye_movements_during_regular_and_thorough_reading_skimming_and_spell_checking" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/349683634_One_page_of_text_Eye_movements_during_regular_and_thorough_reading_skimming_and_spell_checking</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) One page of text: Eye movements during regular and...Eye movements during regular reading, thorough reading, skimming, and spell c...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/curious/speed-reading-is-a-myth-676be05df30c" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/curious/speed-reading-is-a-myth-676be05df30c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Speed Reading Is a MythThe available scientific evidence demonstrates that there is a trade-off between speed and accuracy — as readers s...</p></details>
+   Link:<a href="https://medium.com/curious/speed-reading-is-a-myth-676be05df30c" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/curious/speed-reading-is-a-myth-676be05df30c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Speed Reading Is a MythThe available scientific evidence demonstrates that there is a trade-off between speed and accuracy — as readers s...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: bowdoin.edu  
-   Link: <a href="https://www.bowdoin.edu/baldwin-center/pdf/handout-speed-reading.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bowdoin.edu/baldwin-center/pdf/handout-speed-reading.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Speed Reading StrategiesSkimming and scanning are reading techniques that use keywords to move quickly through a text for slightly differ...</p></details>
+   Link:<a href="https://www.bowdoin.edu/baldwin-center/pdf/handout-speed-reading.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bowdoin.edu/baldwin-center/pdf/handout-speed-reading.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Speed Reading StrategiesSkimming and scanning are reading techniques that use keywords to move quickly through a text for slightly differ...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: research.chalmers.se  
-   Link: <a href="https://research.chalmers.se/publication/544089/file/544089_Fulltext.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.chalmers.se/publication/544089/file/544089_Fulltext.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Speed and Reading Comprehension in an...meta-analysis: 238 words per minute (wpm) for non-fiction texts. Few studies measuring reading s...</p></details>
+   Link:<a href="https://research.chalmers.se/publication/544089/file/544089_Fulltext.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.chalmers.se/publication/544089/file/544089_Fulltext.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Speed and Reading Comprehension in an...meta-analysis: 238 words per minute (wpm) for non-fiction texts. Few studies measuring reading s...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/books/comments/oet3ym/the_false_promise_of_speed_reading_why_you_should/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/books/comments/oet3ym/the_false_promise_of_speed_reading_why_you_should/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>why you should read slowly if you want to understandThe advice is to simply scan the words in a text with the result of increasing readin...</p></details>
+   Link:<a href="https://www.reddit.com/r/books/comments/oet3ym/the_false_promise_of_speed_reading_why_you_should/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/books/comments/oet3ym/the_false_promise_of_speed_reading_why_you_should/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>why you should read slowly if you want to understandThe advice is to simply scan the words in a text with the result of increasing readin...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: speedreading.com  
-   Link: <a href="https://speedreading.com/research/comprehension-[speed-tradeoff" target="_blank" rel="noopener noreferrer nofollow">https://speedreading.com/research/comprehension-[speed-tradeoff</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Speed Reading Comprehension Trade-Off | SpeedReading.comSpeed reading comprehension trade-off explained: why speed impacts understanding...</p></details>
+   Link:<a href="https://speedreading.com/research/comprehension-[speed-tradeoff" target="_blank" rel="noopener noreferrer nofollow">https://speedreading.com/research/comprehension-[speed-tradeoff</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Speed Reading Comprehension Trade-Off | SpeedReading.comSpeed reading comprehension trade-off explained: why speed impacts understanding...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: waseda.elsevierpure.com  
    Title: reading speed comprehension and eye movements while reading japan  
-   Link: <a href="https://waseda.elsevierpure.com/en/publications/reading-speed-comprehension-and-eye-movements-while-reading-japan/" target="_blank" rel="noopener noreferrer nofollow">https://waseda.elsevierpure.com/en/publications/reading-speed-comprehension-and-eye-movements-while-reading-japan/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>speed, comprehension and eye movements while...by H Miyata · 2012 · Cited by 60 — The present study examined relationships between readi...</p></details>
+   Link:<a href="https://waseda.elsevierpure.com/en/publications/reading-speed-comprehension-and-eye-movements-while-reading-japan/" target="_blank" rel="noopener noreferrer nofollow">https://waseda.elsevierpure.com/en/publications/reading-speed-comprehension-and-eye-movements-while-reading-japan/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>speed, comprehension and eye movements while...by H Miyata · 2012 · Cited by 60 — The present study examined relationships between readi...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/2018/07/speed-reading-fact-or-fiction/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2018/07/speed-reading-fact-or-fiction/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>imes faster than normal readers, but their reading comprehension was much lower and...Read mo...</p></details>
+   Link:<a href="https://skepticalinquirer.org/2018/07/speed-reading-fact-or-fiction/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2018/07/speed-reading-fact-or-fiction/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>imes faster than normal readers, but their reading comprehension was much lower and...Read mo...</p></details>

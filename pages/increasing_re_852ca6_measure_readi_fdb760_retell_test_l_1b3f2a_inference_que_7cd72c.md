@@ -275,7 +275,7 @@ image: /assets/images/increasing_re_852ca6_measure_readi_fdb760_retell_test_l_1b
 
 ## Introduction
 
-When people increase their reading speed, the first thing they often check is whether they can retell the passage afterwards. That is useful, but it can create a false sense of success. A reader may remember the main events, facts, or argument structure while missing the relationships that give those facts meaning. Inference questions help expose this problem because they require the reader to connect information, draw conclusions, identify causes, interpret motives, or recognise implications that were not stated directly. Research on reading comprehension consistently treats inference-making as a central component of deep understanding rather than a separate extra skill. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nfer.ac.uk/media/1aafth05/edr01.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nfer.ac.uk">[NFER+2Keys to Literacy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nfer.ac.uk</span><span class="citation-popover-title">NFEREffective teaching of inference skills for reading</span><span class="citation-popover-snippet">October 8, 2009 — by A Kispal · 2008 · Cited by 126 — The ability to make inferences is, in simple terms, the ability to use two or more...</span><span class="citation-popover-meta">Published: October 8, 2009</span></span></span>
+When people increase their reading speed, the first thing they often check is whether they can retell the passage afterwards. That is useful, but it can create a false sense of success. A reader may remember the main events, facts, or argument structure while missing the relationships that give those facts meaning. Inference questions help expose this problem because they require the reader to connect information, draw conclusions, identify causes, interpret motives, or recognise implications that were not stated directly. Research on reading comprehension consistently treats inference-making as a central component of deep understanding rather than a separate extra skill.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nfer.ac.uk/media/1aafth05/edr01.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nfer.ac.uk">[NFER+2Keys to Literacy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nfer.ac.uk</span><span class="citation-popover-title">NFEREffective teaching of inference skills for reading</span><span class="citation-popover-snippet">October 8, 2009 — by A Kispal · 2008 · Cited by 126 — The ability to make inferences is, in simple terms, the ability to use two or more...</span><span class="citation-popover-meta">Published: October 8, 2009</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_measure_readi_fdb760_retell_test_l_1b3f2a_inference_que_7cd72c-Illustration-1-dark.svg" | relative_url }}" alt="Inference Checks illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_measure_readi_fdb760_retell_test_l_1b3f2a_inference_que_7cd72c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_measure_readi_fdb760_retell_test_l_1b3f2a_inference_que_7cd72c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -285,11 +285,11 @@ For readers working on speed, inference checks are valuable because they reveal 
 
 Retelling and inference-making overlap, but they are not identical. A retell mainly asks the reader to reconstruct what was presented. Inference questions ask the reader to reconstruct what was implied.
 
-This distinction matters because many comprehension failures occur between sentences rather than within them. Readers must connect pronouns to earlier references, identify unstated causes, recognise assumptions, and integrate information spread across a passage. The National Foundation for Educational Research defines inference as using two or more pieces of information from a text to arrive at an additional meaning that is not explicitly stated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nfer.ac.uk/media/1aafth05/edr01.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nfer.ac.uk">[NFER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nfer.ac.uk</span><span class="citation-popover-title">NFEREffective teaching of inference skills for reading</span><span class="citation-popover-snippet">October 8, 2009 — by A Kispal · 2008 · Cited by 126 — The ability to make inferences is, in simple terms, the ability to use two or more...</span><span class="citation-popover-meta">Published: October 8, 2009</span></span></span>
+This distinction matters because many comprehension failures occur between sentences rather than within them. Readers must connect pronouns to earlier references, identify unstated causes, recognise assumptions, and integrate information spread across a passage. The National Foundation for Educational Research defines inference as using two or more pieces of information from a text to arrive at an additional meaning that is not explicitly stated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nfer.ac.uk/media/1aafth05/edr01.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nfer.ac.uk">[NFER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nfer.ac.uk</span><span class="citation-popover-title">NFEREffective teaching of inference skills for reading</span><span class="citation-popover-snippet">October 8, 2009 — by A Kispal · 2008 · Cited by 126 — The ability to make inferences is, in simple terms, the ability to use two or more...</span><span class="citation-popover-meta">Published: October 8, 2009</span></span></span>
 
 A reader who increases speed may still produce an acceptable retelling while failing to make these connections. For example, they might remember that a company launched a product and later reported losses, yet fail to infer that the product launch likely contributed to the financial outcome. The facts survive; the relationship between them does not.
 
-Research examining retelling as a comprehension [measure]({{ 'measure/' | relative_url }}) has found that retells capture only part of comprehension and do not fully represent higher-order processes. The relationship between retell performance and other comprehension measures is significant but moderate, indicating that important aspects of understanding remain unmeasured when retelling is used alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7806198/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCIs Retell a Valid Measure of Reading Comprehension?</span><span class="citation-popover-snippet">by Y Cao · 2020 · Cited by 78 — Retell is used widely as a measure of reading comprehension. In this meta-analysis, we evaluated the r...</span></span></span>
+Research examining retelling as a comprehension [measure]({{ 'measure/' | relative_url }}) has found that retells capture only part of comprehension and do not fully represent higher-order processes. The relationship between retell performance and other comprehension measures is significant but moderate, indicating that important aspects of understanding remain unmeasured when retelling is used alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7806198/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCIs Retell a Valid Measure of Reading Comprehension?</span><span class="citation-popover-snippet">by Y Cao · 2020 · Cited by 78 — Retell is used widely as a measure of reading comprehension. In this meta-analysis, we evaluated the r...</span></span></span>
 
 Inference questions therefore serve as a diagnostic tool for the specific kind of comprehension erosion that often accompanies overly aggressive speed increases.
 
@@ -322,11 +322,11 @@ An inference question asks:
 
 </div>
 
-Inferential comprehension is commonly described as the ability to move beyond the words on the page and determine what those words imply. It requires readers to combine textual information with reasoning rather than simply retrieve a stated fact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lexialearning.com/blog/3-types-of-reading-comprehension-compared-inferential-literal-and-evaluative" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lexialearning.com">[Lexia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lexialearning.com</span><span class="citation-popover-title">Lexia3 Types of Reading Comprehension Compared</span><span class="citation-popover-snippet">Lexia9 Feb 2026 — Using inferential comprehension, students can bridge their literal understanding of a text with higher-level critical t...</span></span></span>
+Inferential comprehension is commonly described as the ability to move beyond the words on the page and determine what those words imply. It requires readers to combine textual information with reasoning rather than simply retrieve a stated fact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lexialearning.com/blog/3-types-of-reading-comprehension-compared-inferential-literal-and-evaluative" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lexialearning.com">[Lexia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lexialearning.com</span><span class="citation-popover-title">Lexia3 Types of Reading Comprehension Compared</span><span class="citation-popover-snippet">Lexia9 Feb 2026 — Using inferential comprehension, students can bridge their literal understanding of a text with higher-level critical t...</span></span></span>
 
 This distinction is particularly useful when evaluating faster reading because shallow reading often preserves factual recall longer than inferential understanding. Readers may retain isolated details even after the connections among those details begin to weaken.
 
-Studies of reading and [skimming]({{ 'skimming/' | relative_url }}) behaviour repeatedly find that comprehension losses tend to appear in deeper understanding before they appear in basic recall. Faster reading can preserve gist while reducing precision, integration, and detailed comprehension. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://speedreading.com/research/comprehension-speed-tradeoff.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: speedreading.com">[SpeedReading.com+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">speedreading.com</span><span class="citation-popover-title">Speed Reading.com Speed Reading Comprehension Trade-Off &#124; Speed Reading.com Does speed reading hurt comprehension?</span><span class="citation-popover-snippet">At higher speeds, detailed comprehension usually declines. Is skimming the same as speed reading? No. Skimming focuses on ...Read more</span></span></span>
+Studies of reading and [skimming]({{ 'skimming/' | relative_url }}) behaviour repeatedly find that comprehension losses tend to appear in deeper understanding before they appear in basic recall. Faster reading can preserve gist while reducing precision, integration, and detailed comprehension.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://speedreading.com/research/comprehension-speed-tradeoff.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: speedreading.com">[SpeedReading.com+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">speedreading.com</span><span class="citation-popover-title">Speed Reading.com Speed Reading Comprehension Trade-Off &#124; Speed Reading.com Does speed reading hurt comprehension?</span><span class="citation-popover-snippet">At higher speeds, detailed comprehension usually declines. Is skimming the same as speed reading? No. Skimming focuses on ...Read more</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vyW4S2tCyMI" title="How To Speed Read: 2x Faster With NO LOSS In Comprehension" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vyW4S2tCyMI" target="_blank" rel="noopener noreferrer">How To Speed Read: 2x Faster With NO LOSS In Comprehension</a></p><p class="youtube-embed-meta">Channel: Will Chow &middot; Views: 96.5K &middot; Uploaded: August 2015 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vyW4S2tCyMI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vyW4S2tCyMI">Open on YouTube</a></p></div></div></div>
@@ -354,7 +354,7 @@ Other useful inference formats include:
 * What most likely caused the outcome described in the final paragraph?
 * Which earlier event best explains the character's decision?
 
-These questions test whether the reader connected events across the text. Cause-and-effect reasoning is frequently classified as inferential comprehension rather than simple recall. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.eric.ed.gov/fulltext/ED243090.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.eric.ed.gov">[ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.eric.ed.gov</span><span class="citation-popover-title">ERICDifferences in Literal and Inferential Comphension</span><span class="citation-popover-snippet">In grade 2, there were two literal comprehension and three inferential comprehension questions. for...Read more...</span></span></span>
+These questions test whether the reader connected events across the text. Cause-and-effect reasoning is frequently classified as inferential comprehension rather than simple recall.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.eric.ed.gov/fulltext/ED243090.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.eric.ed.gov">[ERIC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.eric.ed.gov</span><span class="citation-popover-title">ERICDifferences in Literal and Inferential Comphension</span><span class="citation-popover-snippet">In grade 2, there were two literal comprehension and three inferential comprehension questions. for...Read more...</span></span></span>
 
 **Motivation questions**
 
@@ -368,7 +368,7 @@ These questions reveal whether the reader tracked intentions and goals rather th
 * What is the most likely consequence if the trend continues?
 * What would probably happen next?
 
-Prediction depends on constructing a coherent mental model of the text rather than remembering a sentence verbatim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4753814/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Therefore, we tested a reading strategy training...</span></span></span>
+Prediction depends on constructing a coherent mental model of the text rather than remembering a sentence verbatim.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4753814/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Therefore, we tested a reading strategy training...</span></span></span>
 
 **Relationship questions**
 
@@ -382,7 +382,7 @@ These are especially effective for non-fiction because they test whether the rea
 * Who does “they” refer to in this section?
 * Which earlier statement helps explain this paragraph?
 
-Research on reading comprehension and inference assessment frequently highlights these bridging connections because readers must integrate information across sentences and paragraphs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://aclanthology.org/2025.bea-1.31.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aclanthology.org">[ACL Anthology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aclanthology.org</span><span class="citation-popover-snippet">ACL AnthologyAutomatic Generation of Inference Making Questions for...July 7, 2025 — by WA Ma · Cited by 1 — This paper demonstrates our...</span><span class="citation-popover-meta">Published: July 7, 2025</span></span></span>
+Research on reading comprehension and inference assessment frequently highlights these bridging connections because readers must integrate information across sentences and paragraphs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://aclanthology.org/2025.bea-1.31.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aclanthology.org">[ACL Anthology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aclanthology.org</span><span class="citation-popover-snippet">ACL AnthologyAutomatic Generation of Inference Making Questions for...July 7, 2025 — by WA Ma · Cited by 1 — This paper demonstrates our...</span><span class="citation-popover-meta">Published: July 7, 2025</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_measure_readi_fdb760_retell_test_l_1b3f2a_inference_que_7cd72c-Illustration-2-dark.svg" | relative_url }}" alt="Inference Checks illustration 2" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_measure_readi_fdb760_retell_test_l_1b3f2a_inference_que_7cd72c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_measure_readi_fdb760_retell_test_l_1b3f2a_inference_que_7cd72c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -420,7 +420,7 @@ This pattern is less common but can occur with highly experienced readers who fo
 
 This is the target outcome. It suggests that increased speed has not significantly damaged either information retention or deeper comprehension.
 
-Educational assessment research frequently distinguishes factual and inferential questions for precisely this reason: they measure different aspects of understanding and can reveal different weaknesses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9754047/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Inferential narrative comprehension ability of young school...by MF Westerveld · 2021 · Cited by 17 — Comprehension questions were ca...</span></span></span>
+Educational assessment research frequently distinguishes factual and inferential questions for precisely this reason: they measure different aspects of understanding and can reveal different weaknesses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9754047/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Inferential narrative comprehension ability of young school...by MF Westerveld · 2021 · Cited by 17 — Comprehension questions were ca...</span></span></span>
 
 ## A practical benchmark for speed-reading practice
 
@@ -428,7 +428,7 @@ When testing a new reading pace, inference questions should become harder before
 
 Suppose a reader moves from 250 to 320 words per minute and can still answer factual questions correctly. That result alone does not prove comprehension has been preserved. If performance on inference questions drops sharply, the faster pace may be preserving surface understanding while weakening the deeper mental model of the text.
 
-This is consistent with research suggesting that effective comprehension depends on inference generation, integration, and comprehension monitoring. When reading becomes too rapid, these processes may be disrupted even when readers continue to grasp the general gist. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/full/10.1111/1467-9817.12417" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Does speed‐reading training work, and if so, why?</span><span class="citation-popover-snippet">M Klimovich · 2023 · Cited by 20 — This finding suggests that increased reading speed disrupts normal integrative comprehen...</span></span></span>
+This is consistent with research suggesting that effective comprehension depends on inference generation, integration, and comprehension monitoring. When reading becomes too rapid, these processes may be disrupted even when readers continue to grasp the general gist.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://onlinelibrary.wiley.com/doi/full/10.1111/1467-9817.12417" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Does speed‐reading training work, and if so, why?</span><span class="citation-popover-snippet">M Klimovich · 2023 · Cited by 20 — This finding suggests that increased reading speed disrupts normal integrative comprehen...</span></span></span>
 
 For readers trying to increase speed without sacrificing understanding, inference questions provide one of the clearest warning signals. Retelling can show that the story or argument was remembered. Inference checks show whether the hidden links between ideas survived the acceleration.
 
@@ -436,178 +436,178 @@ For readers trying to increase speed without sacrificing understanding, inferenc
 <img src="{{ "/assets/images/increasing_re_852ca6_measure_readi_fdb760_retell_test_l_1b3f2a_inference_que_7cd72c-Illustration-3-dark.svg" | relative_url }}" alt="Inference Checks illustration 3" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_measure_readi_fdb760_retell_test_l_1b3f2a_inference_que_7cd72c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_measure_readi_fdb760_retell_test_l_1b3f2a_inference_que_7cd72c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The questions that expose shallow fast reading. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The questions that expose shallow fast reading. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Encourages analytical reading and interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Encourages analytical reading and interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Summarizing%2C+paraphrasing%2C+and+retelling+Emily+Kissner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Summarizing, paraphrasing, and retelling on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2385448-M.jpg" alt="Cover for Summarizing, paraphrasing, and retelling" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Summarizing%2C+paraphrasing%2C+and+retelling+Emily+Kissner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Summarizing, paraphrasing, and retelling">Summarizing, paraphrasing, and retelling</a>
-        </h4>
-        <p class="fr-book-author">By Emily Kissner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Summarizing%2C+paraphrasing%2C+and+retelling+Emily+Kissner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Summarizing, paraphrasing, and retelling on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2385448-M.jpg" alt="Cover for Summarizing, paraphrasing, and retelling" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Summarizing%2C+paraphrasing%2C+and+retelling+Emily+Kissner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Summarizing, paraphrasing, and retelling">Summarizing, paraphrasing, and retelling</a>
+</h4>
+<p class="fr-book-author">By Emily Kissner</p>
         
-        <p class="fr-book-desc">First published 2006. Subjects: Composition and exercises, English language, Reading comprehension, Study and teaching, English language,...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Summarizing%2C+paraphrasing%2C+and+retelling+Emily+Kissner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2006. Subjects: Composition and exercises, English language, Reading comprehension, Study and teaching, English language,...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Summarizing%2C+paraphrasing%2C+and+retelling+Emily+Kissner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Breakthrough rapid reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/84360-M.jpg" alt="Cover for Breakthrough rapid reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breakthrough rapid reading">Breakthrough rapid reading</a>
-        </h4>
-        <p class="fr-book-author">By Peter Kump</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Breakthrough rapid reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/84360-M.jpg" alt="Cover for Breakthrough rapid reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breakthrough rapid reading">Breakthrough rapid reading</a>
+</h4>
+<p class="fr-book-author">By Peter Kump</p>
         
-        <p class="fr-book-desc">First published 1979. Subjects: Speed reading, Rapid reading, Du shu fang fa.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1979. Subjects: Speed reading, Rapid reading, Du shu fang fa.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Understanding+and+Teaching+Reading+Comprehension+Jane+Oakhill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding and Teaching Reading Comprehension on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Understanding+and+Teaching+Reading+Comprehension+Jane+Oakhill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding and Teaching Reading Comprehension">Understanding and Teaching Reading Comprehension</a>
-        </h4>
-        <p class="fr-book-author">By Jane Oakhill, Kate Cain et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Understanding+and+Teaching+Reading+Comprehension+Jane+Oakhill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding and Teaching Reading Comprehension on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Understanding+and+Teaching+Reading+Comprehension+Jane+Oakhill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding and Teaching Reading Comprehension">Understanding and Teaching Reading Comprehension</a>
+</h4>
+<p class="fr-book-author">By Jane Oakhill, Kate Cain et al.</p>
         
-        <p class="fr-book-desc">First published 2014. Subjects: Reading comprehension.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Understanding+and+Teaching+Reading+Comprehension+Jane+Oakhill&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2014. Subjects: Reading comprehension.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Understanding+and+Teaching+Reading+Comprehension+Jane+Oakhill&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Summarizing%2C+paraphrasing%2C+and+retelling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Summarizing, paraphrasing, and retelling</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Breakthrough rapid reading</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Summarizing%2C+paraphrasing%2C+and+retelling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Summarizing, paraphrasing, and retelling</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Breakthrough rapid reading</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inference-checks-the-questions-that-expose-shallow-fast-reading-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="inference-checks-the-questions-that-expose-shallow-fast-reading-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TOWL 4 Test of Written Language assessment kit / SEN, ALN, Literacy, school"><img src="{{ '/assets/images/marketplace-covers/8bff2c480feb01ce2715.jpg' | relative_url }}" alt="Listing image for TOWL 4 Test of Written Language assessment kit / SEN, ALN, Literacy, school" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inference-checks-the-questions-that-expose-shallow-fast-reading-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="inference-checks-the-questions-that-expose-shallow-fast-reading-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer">TOWL 4 Test of Written Language assessment kit / SEN, ALN, Literacy, school</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inference-checks-the-questions-that-expose-shallow-fast-reading-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="inference-checks-the-questions-that-expose-shallow-fast-reading-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for literacy assessment kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: literacy assessment kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inference-checks-the-questions-that-expose-shallow-fast-reading-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="inference-checks-the-questions-that-expose-shallow-fast-reading-increasing-literacy-assessment-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inference-checks-the-questions-that-expose-shallow-fast-reading-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="inference-checks-the-questions-that-expose-shallow-fast-reading-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TOWL 4 Test of Written Language assessment kit / SEN, ALN, Literacy, school"><img src="{{ '/assets/images/marketplace-covers/8bff2c480feb01ce2715.jpg' | relative_url }}" alt="Listing image for TOWL 4 Test of Written Language assessment kit / SEN, ALN, Literacy, school" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inference-checks-the-questions-that-expose-shallow-fast-reading-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="inference-checks-the-questions-that-expose-shallow-fast-reading-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer">TOWL 4 Test of Written Language assessment kit / SEN, ALN, Literacy, school</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inference-checks-the-questions-that-expose-shallow-fast-reading-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="inference-checks-the-questions-that-expose-shallow-fast-reading-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for literacy assessment kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: literacy assessment kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inference-checks-the-questions-that-expose-shallow-fast-reading-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="inference-checks-the-questions-that-expose-shallow-fast-reading-increasing-literacy-assessment-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inference-checks-the-questions-that-expose-shallow-fast-reading-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="inference-checks-the-questions-that-expose-shallow-fast-reading-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DEVELOPMENTAL READING ASSESSMENT DRA MANUAL FOR K3 LITERACY JOETTA BEAVER"><img src="{{ '/assets/images/marketplace-covers/588788312481d0d50bdc.jpg' | relative_url }}" alt="Listing image for DEVELOPMENTAL READING ASSESSMENT DRA MANUAL FOR K3 LITERACY JOETTA BEAVER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inference-checks-the-questions-that-expose-shallow-fast-reading-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="inference-checks-the-questions-that-expose-shallow-fast-reading-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer">DEVELOPMENTAL READING ASSESSMENT DRA MANUAL FOR K3 LITERACY JOETTA BEAVER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inference-checks-the-questions-that-expose-shallow-fast-reading-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="inference-checks-the-questions-that-expose-shallow-fast-reading-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for literacy assessment kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: literacy assessment kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inference-checks-the-questions-that-expose-shallow-fast-reading-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="inference-checks-the-questions-that-expose-shallow-fast-reading-increasing-literacy-assessment-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inference-checks-the-questions-that-expose-shallow-fast-reading-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="inference-checks-the-questions-that-expose-shallow-fast-reading-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DEVELOPMENTAL READING ASSESSMENT DRA MANUAL FOR K3 LITERACY JOETTA BEAVER"><img src="{{ '/assets/images/marketplace-covers/588788312481d0d50bdc.jpg' | relative_url }}" alt="Listing image for DEVELOPMENTAL READING ASSESSMENT DRA MANUAL FOR K3 LITERACY JOETTA BEAVER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inference-checks-the-questions-that-expose-shallow-fast-reading-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="inference-checks-the-questions-that-expose-shallow-fast-reading-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer">DEVELOPMENTAL READING ASSESSMENT DRA MANUAL FOR K3 LITERACY JOETTA BEAVER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inference-checks-the-questions-that-expose-shallow-fast-reading-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="inference-checks-the-questions-that-expose-shallow-fast-reading-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for literacy assessment kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: literacy assessment kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inference-checks-the-questions-that-expose-shallow-fast-reading-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="inference-checks-the-questions-that-expose-shallow-fast-reading-increasing-literacy-assessment-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inference-checks-the-questions-that-expose-shallow-fast-reading-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="inference-checks-the-questions-that-expose-shallow-fast-reading-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Engage Literacy Benchmark Assessment Kit Level A-P Capstone Classroom 60 texts"><img src="{{ '/assets/images/marketplace-covers/a98b5b437a435a3d0766.jpg' | relative_url }}" alt="Listing image for Engage Literacy Benchmark Assessment Kit Level A-P Capstone Classroom 60 texts" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inference-checks-the-questions-that-expose-shallow-fast-reading-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="inference-checks-the-questions-that-expose-shallow-fast-reading-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer">Engage Literacy Benchmark Assessment Kit Level A-P Capstone Classroom 60 texts</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inference-checks-the-questions-that-expose-shallow-fast-reading-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="inference-checks-the-questions-that-expose-shallow-fast-reading-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for literacy assessment kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: literacy assessment kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inference-checks-the-questions-that-expose-shallow-fast-reading-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="inference-checks-the-questions-that-expose-shallow-fast-reading-increasing-literacy-assessment-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inference-checks-the-questions-that-expose-shallow-fast-reading-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="inference-checks-the-questions-that-expose-shallow-fast-reading-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inference-checks-the-questions-that-expose-shallow-fast-reading-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="inference-checks-the-questions-that-expose-shallow-fast-reading-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Engage Literacy Benchmark Assessment Kit Level A-P Capstone Classroom 60 texts"><img src="{{ '/assets/images/marketplace-covers/a98b5b437a435a3d0766.jpg' | relative_url }}" alt="Listing image for Engage Literacy Benchmark Assessment Kit Level A-P Capstone Classroom 60 texts" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inference-checks-the-questions-that-expose-shallow-fast-reading-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="inference-checks-the-questions-that-expose-shallow-fast-reading-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer">Engage Literacy Benchmark Assessment Kit Level A-P Capstone Classroom 60 texts</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inference-checks-the-questions-that-expose-shallow-fast-reading-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="inference-checks-the-questions-that-expose-shallow-fast-reading-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for literacy assessment kit">Search<span data-ebay-domain-label>eBay.co.uk</span>: literacy assessment kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inference-checks-the-questions-that-expose-shallow-fast-reading-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="inference-checks-the-questions-that-expose-shallow-fast-reading-increasing-literacy-assessment-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=literacy+assessment+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=inference-checks-the-questions-that-expose-shallow-fast-reading-increasing-literacy-assessment-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="literacy assessment kit" data-ebay-reference="inference-checks-the-questions-that-expose-shallow-fast-reading-increasing-literacy-assessment-kit" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -623,7 +623,7 @@ For readers trying to increase speed without sacrificing understanding, inferenc
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -643,7 +643,7 @@ For readers trying to increase speed without sacrificing understanding, inferenc
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -675,7 +675,7 @@ For readers trying to increase speed without sacrificing understanding, inferenc
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -727,7 +727,7 @@ For readers trying to increase speed without sacrificing understanding, inferenc
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -772,7 +772,7 @@ For readers trying to increase speed without sacrificing understanding, inferenc
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -813,156 +813,156 @@ For readers trying to increase speed without sacrificing understanding, inferenc
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nfer.ac.uk  
    Title: NFEREffective teaching of inference skills for reading  
-   Link: <a href="https://www.nfer.ac.uk/media/1aafth05/edr01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nfer.ac.uk/media/1aafth05/edr01.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>October 8, 2009 — by A Kispal · 2008 · Cited by 126 — The ability to make inferences is, in simple terms, the ability to use two or more...</p></details>
+   Link:<a href="https://www.nfer.ac.uk/media/1aafth05/edr01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nfer.ac.uk/media/1aafth05/edr01.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>October 8, 2009 — by A Kispal · 2008 · Cited by 126 — The ability to make inferences is, in simple terms, the ability to use two or more...</p></details>
    Published: October 8, 2009  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4753814/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4753814/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Therefore, we tested a reading strategy training...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4753814/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4753814/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Therefore, we tested a reading strategy training...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCIs Retell a Valid Measure of Reading Comprehension?  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7806198/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7806198/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by Y Cao · 2020 · Cited by 78 — Retell is used widely as a measure of reading comprehension. In this meta-analysis, we evaluated the r...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7806198/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7806198/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by Y Cao · 2020 · Cited by 78 — Retell is used widely as a measure of reading comprehension. In this meta-analysis, we evaluated the r...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: speedreading.com  
-   Link: <a href="https://speedreading.com/research/comprehension-[speed-tradeoff" target="_blank" rel="noopener noreferrer nofollow">https://speedreading.com/research/comprehension-[speed-tradeoff</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>At higher speeds, detailed comprehension usually declines. Is skimming the same as [speed reading](&amp;#123;&amp;#123; &#x27;myths/&#x27; | relative_url &amp;#125;&amp;#125;)? No. Skimming focuses on...Read more...</p></details>
+   Link:<a href="https://speedreading.com/research/comprehension-[speed-tradeoff" target="_blank" rel="noopener noreferrer nofollow">https://speedreading.com/research/comprehension-[speed-tradeoff</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>At higher speeds, detailed comprehension usually declines. Is skimming the same as [speed reading](&amp;#123;&amp;#123; &#x27;myths/&#x27; | relative_url &amp;#125;&amp;#125;)? No. Skimming focuses on...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12801452/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12801452/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>and skimming clinical information: insights from...by MA Soltan · 2025 · Cited by 1 — Reading times are shorter and comprehension is poo...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12801452/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12801452/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and skimming clinical information: insights from...by MA Soltan · 2025 · Cited by 1 — Reading times are shorter and comprehension is poo...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: onlinelibrary.wiley.com  
    Title: Online Library Does speed‐reading training work, and if so, why?  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/1467-9817.12417" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1111/1467-9817.12417</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>M Klimovich · 2023 · Cited by 20 — This finding suggests that increased reading speed disrupts normal integrative comprehen...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/1467-9817.12417" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1111/1467-9817.12417</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>M Klimovich · 2023 · Cited by 20 — This finding suggests that increased reading speed disrupts normal integrative comprehen...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: files.eric.ed.gov  
    Title: ERICDifferences in Literal and Inferential Comphension  
-   Link: <a href="https://files.eric.ed.gov/fulltext/ED243090.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/ED243090.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In grade 2, there were two literal comprehension and three inferential comprehension questions. for...Read more...</p></details>
+   Link:<a href="https://files.eric.ed.gov/fulltext/ED243090.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/ED243090.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In grade 2, there were two literal comprehension and three inferential comprehension questions. for...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/303941199_Children%27s_Reading_for_Meaning_A_Situation_Model_Perspective_on_Deep_Text_Comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/303941199_Children%27s_Reading_for_Meaning_A_Situation_Model_Perspective_on_Deep_Text_Comprehension</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Situation Model Perspective on Deep Text Comprehension14 Jun 2016 — This thesis examines the higher-order comprehension processes in re...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/303941199_Children%27s_Reading_for_Meaning_A_Situation_Model_Perspective_on_Deep_Text_Comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/303941199_Children%27s_Reading_for_Meaning_A_Situation_Model_Perspective_on_Deep_Text_Comprehension</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Situation Model Perspective on Deep Text Comprehension14 Jun 2016 — This thesis examines the higher-order comprehension processes in re...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: onlinelibrary.wiley.com  
    Title: 1460 6984.12620  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/10.1111/1460-6984.12620" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1111/1460-6984.12620</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryAssessment of inference‐making in children using...24 May 2021 — The study compared coherence inference-making in tw...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/10.1111/1460-6984.12620" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1111/1460-6984.12620</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryAssessment of inference‐making in children using...24 May 2021 — The study compared coherence inference-making in tw...</p></details>
    Published: May 2021  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9754047/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9754047/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inferential narrative comprehension ability of young school...by MF Westerveld · 2021 · Cited by 17 — Comprehension questions were ca...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9754047/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9754047/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inferential narrative comprehension ability of young school...by MF Westerveld · 2021 · Cited by 17 — Comprehension questions were ca...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/354445160_Inferential_narrative_comprehension_ability_of_young_school-age_children_on_the_autism_spectrum" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/354445160_Inferential_narrative_comprehension_ability_of_young_school-age_children_on_the_autism_spectrum</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inferential narrative comprehension ability of young school-...3 Feb 2026 — Comprehension questions were categorized into factual and in...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/354445160_Inferential_narrative_comprehension_ability_of_young_school-age_children_on_the_autism_spectrum" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/354445160_Inferential_narrative_comprehension_ability_of_young_school-age_children_on_the_autism_spectrum</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inferential narrative comprehension ability of young school-...3 Feb 2026 — Comprehension questions were categorized into factual and in...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/360827597_The_Effects_of_Retelling_on_Reading_Comprehension_Focusing_on_Different_Levels_of_Comprehension_and_Non-Textual_Information_in_Retelling_Protocols" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/360827597_The_Effects_of_Retelling_on_Reading_Comprehension_Focusing_on_Different_Levels_of_Comprehension_and_Non-Textual_Information_in_Retelling_Protocols</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Effects of Retelling on Reading ComprehensionThis study investigated the effects of three types of questions (i.e., literal que...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/360827597_The_Effects_of_Retelling_on_Reading_Comprehension_Focusing_on_Different_Levels_of_Comprehension_and_Non-Textual_Information_in_Retelling_Protocols" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/360827597_The_Effects_of_Retelling_on_Reading_Comprehension_Focusing_on_Different_Levels_of_Comprehension_and_Non-Textual_Information_in_Retelling_Protocols</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Effects of Retelling on Reading ComprehensionThis study investigated the effects of three types of questions (i.e., literal que...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/399897944_Testing_the_Speed-Accuracy_Trade-Off_in_Reading_Effects_of_Reading_Speed_on_Comprehension_and_Eye_Movements" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399897944_Testing_the_Speed-Accuracy_Trade-Off_in_Reading_Effects_of_Reading_Speed_on_Comprehension_and_Eye_Movements</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>While both improve with age...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/399897944_Testing_the_Speed-Accuracy_Trade-Off_in_Reading_Effects_of_Reading_Speed_on_Comprehension_and_Eye_Movements" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399897944_Testing_the_Speed-Accuracy_Trade-Off_in_Reading_Effects_of_Reading_Speed_on_Comprehension_and_Eye_Movements</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>While both improve with age...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: keystoliteracy.com  
    Title: making inferences to support comprehension  
-   Link: <a href="https://keystoliteracy.com/blog/making-inferences-to-support-comprehension/" target="_blank" rel="noopener noreferrer nofollow">https://keystoliteracy.com/blog/making-inferences-to-support-comprehension/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>8 Oct 2024 — A reader makes inferences by establishing appropriate, meaningful connections between separate pieces of information literal...</p></details>
+   Link:<a href="https://keystoliteracy.com/blog/making-inferences-to-support-comprehension/" target="_blank" rel="noopener noreferrer nofollow">https://keystoliteracy.com/blog/making-inferences-to-support-comprehension/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>8 Oct 2024 — A reader makes inferences by establishing appropriate, meaningful connections between separate pieces of information literal...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: lexialearning.com  
    Title: Lexia3 Types of Reading Comprehension Compared  
-   Link: <a href="https://www.lexialearning.com/blog/3-types-of-reading-comprehension-compared-inferential-literal-and-evaluative" target="_blank" rel="noopener noreferrer nofollow">https://www.lexialearning.com/blog/3-types-of-reading-comprehension-compared-inferential-literal-and-evaluative</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lexia9 Feb 2026 — Using inferential comprehension, students can bridge their literal understanding of a text with higher-level critical t...</p></details>
+   Link:<a href="https://www.lexialearning.com/blog/3-types-of-reading-comprehension-compared-inferential-literal-and-evaluative" target="_blank" rel="noopener noreferrer nofollow">https://www.lexialearning.com/blog/3-types-of-reading-comprehension-compared-inferential-literal-and-evaluative</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lexia9 Feb 2026 — Using inferential comprehension, students can bridge their literal understanding of a text with higher-level critical t...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: study.com  
-   Link: <a href="https://study.com/academy/lesson/reading-comprehension-literal-inferential-evaluative.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/reading-comprehension-literal-inferential-evaluative.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Comprehension | Inferential, Literal &amp; EvaluativeInferential comprehension requires the reader to look beyond what is read in the...</p></details>
+   Link:<a href="https://study.com/academy/lesson/reading-comprehension-literal-inferential-evaluative.html" target="_blank" rel="noopener noreferrer nofollow">https://study.com/academy/lesson/reading-comprehension-literal-inferential-evaluative.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Comprehension | Inferential, Literal &amp; EvaluativeInferential comprehension requires the reader to look beyond what is read in the...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: aclanthology.org  
-   Link: <a href="https://aclanthology.org/2025.bea-1.31.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aclanthology.org/2025.bea-1.31.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ACL AnthologyAutomatic Generation of Inference Making Questions for...July 7, 2025 — by WA Ma · Cited by 1 — This paper demonstrates our...</p></details>
+   Link:<a href="https://aclanthology.org/2025.bea-1.31.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aclanthology.org/2025.bea-1.31.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ACL AnthologyAutomatic Generation of Inference Making Questions for...July 7, 2025 — by WA Ma · Cited by 1 — This paper demonstrates our...</p></details>
    Published: July 7, 2025  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: eric.ed.gov  
-   Link: <a href="https://eric.ed.gov/?id=ED613854" target="_blank" rel="noopener noreferrer nofollow">https://eric.ed.gov/?id=ED613854</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by NS McIntyre · 2020 · Cited by 40 — This study investigated the development of two key skills, narrative and inference abilities, t...</p></details>
+   Link:<a href="https://eric.ed.gov/?id=ED613854" target="_blank" rel="noopener noreferrer nofollow">https://eric.ed.gov/?id=ED613854</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by NS McIntyre · 2020 · Cited by 40 — This study investigated the development of two key skills, narrative and inference abilities, t...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: bowdoin.edu  
-   Link: <a href="https://www.bowdoin.edu/baldwin-center/pdf/handout-speed-reading.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bowdoin.edu/baldwin-center/pdf/handout-speed-reading.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Speed Reading StrategiesSkimming and [scanning](&amp;#123;&amp;#123; &#x27;scanning-vs-reading/&#x27; | relative_url &amp;#125;&amp;#125;) are reading techniques that use keywords to move quickly through a text for slightly differ...</p></details>
+   Link:<a href="https://www.bowdoin.edu/baldwin-center/pdf/handout-speed-reading.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bowdoin.edu/baldwin-center/pdf/handout-speed-reading.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Speed Reading StrategiesSkimming and [scanning](&amp;#123;&amp;#123; &#x27;scanning-vs-reading/&#x27; | relative_url &amp;#125;&amp;#125;) are reading techniques that use keywords to move quickly through a text for slightly differ...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: susanfitzell.com  
-   Link: <a href="https://susanfitzell.com/teaching-higher-order-comprehension-2/" target="_blank" rel="noopener noreferrer nofollow">https://susanfitzell.com/teaching-higher-order-comprehension-2/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Teaching Fact vs Opinion for Reading ComprehensionAs students advance in their studies, reading progresses from simple recall and recitat...</p></details>
+   Link:<a href="https://susanfitzell.com/teaching-higher-order-comprehension-2/" target="_blank" rel="noopener noreferrer nofollow">https://susanfitzell.com/teaching-higher-order-comprehension-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Teaching Fact vs Opinion for Reading ComprehensionAs students advance in their studies, reading progresses from simple recall and recitat...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: utc.edu  
-   Link: <a href="https://www.utc.edu/enrollment-management-and-student-affairs/center-for-academic-support-and-advisement/tips-for-academic-success/skimming" target="_blank" rel="noopener noreferrer nofollow">https://www.utc.edu/enrollment-management-and-student-affairs/center-for-academic-support-and-advisement/tips-for-academic-success/skimming</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>They are each used for different purposes, and they are not meant to be used all...Read more...</p></details>
+   Link:<a href="https://www.utc.edu/enrollment-management-and-student-affairs/center-for-academic-support-and-advisement/tips-for-academic-success/skimming" target="_blank" rel="noopener noreferrer nofollow">https://www.utc.edu/enrollment-management-and-student-affairs/center-for-academic-support-and-advisement/tips-for-academic-success/skimming</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>They are each used for different purposes, and they are not meant to be used all...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: hal.science  
-   Link: <a href="https://hal.science/hal-05001737/document" target="_blank" rel="noopener noreferrer nofollow">https://hal.science/hal-05001737/document</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of reading time constraints on text...by N Vibert · 2025 · Cited by 3 — 444) pointed out, “While faster readers may often be...</p></details>
+   Link:<a href="https://hal.science/hal-05001737/document" target="_blank" rel="noopener noreferrer nofollow">https://hal.science/hal-05001737/document</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of reading time constraints on text...by N Vibert · 2025 · Cited by 3 — 444) pointed out, “While faster readers may often be...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/898427525/Speed-Reading" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/898427525/Speed-Reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>estions, skimming the introduction and conclusion is advised.Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/898427525/Speed-Reading" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/898427525/Speed-Reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>estions, skimming the introduction and conclusion is advised.Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/09593543211043805" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/09593543211043805</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>role of inferences in reading comprehension: A critical...Training inference making skills using a situation model approach improves rea...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/09593543211043805" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/09593543211043805</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>role of inferences in reading comprehension: A critical...Training inference making skills using a situation model approach improves rea...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: school-page.com  
    Title: Explore how AI can help generate diverse  
-   Link: <a href="https://www.school-page.com/articles/balanced-question-types-factual-inferential-critical-thinking" target="_blank" rel="noopener noreferrer nofollow">https://www.school-page.com/articles/balanced-question-types-factual-inferential-critical-thinking</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Balanced Question Types: Factual, Inferential, and Critical...Learn to create comprehensive reading assessments using Factual, Inferenti...</p></details>
+   Link:<a href="https://www.school-page.com/articles/balanced-question-types-factual-inferential-critical-thinking" target="_blank" rel="noopener noreferrer nofollow">https://www.school-page.com/articles/balanced-question-types-factual-inferential-critical-thinking</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Balanced Question Types: Factual, Inferential, and Critical...Learn to create comprehensive reading assessments using Factual, Inferenti...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/10888438.2025.2612649" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10888438.2025.2612649</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This study investigates whether the natural reading rate aligns with the rate optimal for reading comprehension.Read more...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/10888438.2025.2612649" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10888438.2025.2612649</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This study investigates whether the natural reading rate aligns with the rate optimal for reading comprehension.Read more...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: How to Make Inferences in Reading? Use Text Evidence Like This  
-   Link: <a href="https://www.youtube.com/watch?v=yg6HalYLM5Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yg6HalYLM5Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Making inferences in informational texts | Reading | Khan Academy...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yg6HalYLM5Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yg6HalYLM5Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Making inferences in informational texts | Reading | Khan Academy...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2227-7102/15/6/654" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2227-7102/15/6/654</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inferential Reading Skills in High School: A Study on...by A Nadalini · 2025 · Cited by 17 — Reading comprehension of connected texts is...</p></details>
+   Link:<a href="https://www.mdpi.com/2227-7102/15/6/654" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2227-7102/15/6/654</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inferential Reading Skills in High School: A Study on...by A Nadalini · 2025 · Cited by 17 — Reading comprehension of connected texts is...</p></details>

@@ -275,17 +275,17 @@ image: /assets/images/increasing_re_852ca6_reading_speed_ac88ef_why_500_wpm_m_0b
 
 ## Introduction
 
-A reader can skim a text at around 500 words per minute and still feel as though they understood it because the human brain is surprisingly good at constructing a broad picture from incomplete information. When people skim, they often retain the topic, the author's main claim, and the overall direction of the argument. What they lose are the supporting details, qualifications, examples, and chains of reasoning that make the argument precise. Research on reading and [speed reading]({{ 'myths/' | relative_url }}) consistently finds that higher speeds can preserve moderate comprehension of the gist even as deeper understanding declines. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 514 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</span></span></span>
+A reader can skim a text at around 500 words per minute and still feel as though they understood it because the human brain is surprisingly good at constructing a broad picture from incomplete information. When people skim, they often retain the topic, the author's main claim, and the overall direction of the argument. What they lose are the supporting details, qualifications, examples, and chains of reasoning that make the argument precise. Research on reading and [speed reading]({{ 'myths/' | relative_url }}) consistently finds that higher speeds can preserve moderate comprehension of the gist even as deeper understanding declines.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 514 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef_why_500_wpm_m_0bf92d_general_under_392154-Illustration-1-dark.svg" | relative_url }}" alt="Main idea illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef_why_500_wpm_m_0bf92d_general_under_392154-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef_why_500_wpm_m_0bf92d_general_under_392154-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This is one reason speed-reading claims can sound convincing. If readers are later asked to summarise the main point of an article, they may perform well. If they are asked to explain why the author reached that conclusion, identify [exceptions]({{ 'exceptions/' | relative_url }}), or recall specific evidence, performance tends to deteriorate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/227760582_The_effects_of_reading_speed_and_reading_patterns_on_the_understanding_of_text_read_from_screen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">The effects of reading speed and reading patterns on...June 1, 2000 — Using a range of question types, comprehension was mea...</span><span class="citation-popover-meta">Published: June 1, 2000</span></span></span>
+This is one reason speed-reading claims can sound convincing. If readers are later asked to summarise the main point of an article, they may perform well. If they are asked to explain why the author reached that conclusion, identify [exceptions]({{ 'exceptions/' | relative_url }}), or recall specific evidence, performance tends to deteriorate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/227760582_The_effects_of_reading_speed_and_reading_patterns_on_the_understanding_of_text_read_from_screen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">The effects of reading speed and reading patterns on...June 1, 2000 — Using a range of question types, comprehension was mea...</span><span class="citation-popover-meta">Published: June 1, 2000</span></span></span>
 
 ## Why 500 WPM Feels Clearer Than It Is
 
 The key mechanism is that texts are highly redundant. Authors repeat themes, signal important ideas through headings and topic sentences, and organise information in predictable ways. Readers do not need to process every word equally to grasp the central message.
 
-When skimming, attention naturally gravitates towards information-rich parts of the text: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalgeographic.com/science/article/reading-skimming-attention" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalgeographic.com">[nationalgeographic.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalgeographic.com</span><span class="citation-popover-title">reading skimming attention</span><span class="citation-popover-snippet">Is there a &#x27;right&#x27; way to read?17 Jan 2025 — Studies suggest that the one way to improve reading speed while retaining comprehension is t...</span></span></span>
+When skimming, attention naturally gravitates towards information-rich parts of the text:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalgeographic.com/science/article/reading-skimming-attention" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalgeographic.com">[nationalgeographic.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalgeographic.com</span><span class="citation-popover-title">reading skimming attention</span><span class="citation-popover-snippet">Is there a &#x27;right&#x27; way to read?17 Jan 2025 — Studies suggest that the one way to improve reading speed while retaining comprehension is t...</span></span></span>
 
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
@@ -298,7 +298,7 @@ When skimming, attention naturally gravitates towards information-rich parts of 
 
 </div>
 
-Less attention is given to grammatical glue, transitional [phrases]({{ 'phrases/' | relative_url }}), supporting examples, and secondary explanations. Because many texts place their main point in prominent locations, readers can often reconstruct the overall message even after skipping substantial amounts of detail. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britishcouncil.org/voices-magazine/how-help-english-learners-read-more-quickly" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britishcouncil.org">[British Council+2IH World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britishcouncil.org</span><span class="citation-popover-title">how help english learners read more quickly</span><span class="citation-popover-snippet">Another reading skill...Read more...</span></span></span>
+Less attention is given to grammatical glue, transitional [phrases]({{ 'phrases/' | relative_url }}), supporting examples, and secondary explanations. Because many texts place their main point in prominent locations, readers can often reconstruct the overall message even after skipping substantial amounts of detail.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.britishcouncil.org/voices-magazine/how-help-english-learners-read-more-quickly" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britishcouncil.org">[British Council+2IH World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britishcouncil.org</span><span class="citation-popover-title">how help english learners read more quickly</span><span class="citation-popover-snippet">Another reading skill...Read more...</span></span></span>
 
 This process creates a convincing sense of understanding. The reader knows what the text is "about", which is often enough to answer broad questions such as "What was the author's argument?" or "What was the article discussing?"
 
@@ -324,7 +324,7 @@ Readers commonly retain:
 
 For example, after [skimming]({{ 'skimming/' | relative_url }}) an article about climate policy, a reader may correctly report that the author supports a particular policy approach and understand the main reasons offered in its favour. They may also remember one striking statistic or anecdote.
 
-This ability to extract the "gist" is well recognised in reading research and language education. Skimming is often explicitly taught as a method for obtaining an overview before engaging with a text in more detail. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.teachingenglish.org.uk/professional-development/teachers/teaching-knowledge-database/d-h/gist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: teachingenglish.org.uk">[TeachingEnglish+2Butte-Glenn Community College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">teachingenglish.org.uk</span><span class="citation-popover-snippet">GistReading a text for gist is known as skimming. Example Before answering detailed comprehension questions on a short sto...</span></span></span>
+This ability to extract the "gist" is well recognised in reading research and language education. Skimming is often explicitly taught as a method for obtaining an overview before engaging with a text in.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.teachingenglish.org.uk/professional-development/teachers/teaching-knowledge-database/d-h/gist" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: teachingenglish.org.uk">[TeachingEnglish+2Butte-Glenn Community College]</a><span class="citation-popover" role="note"><span class="citation-popover-source">teachingenglish.org.uk</span><span class="citation-popover-snippet">GistReading a text for gist is known as skimming. Example Before answering detailed comprehension questions on a short sto...</span></span></span>
 
 The result is not an illusion in the sense of being entirely false. The reader genuinely has learned something. The problem is that the information retained is often much shallower than the feeling of comprehension suggests.
 
@@ -350,7 +350,7 @@ These include:
 
 Imagine a report that concludes a treatment appears effective. A reader skimming at 500 wpm may remember that conclusion. What they may miss is a paragraph explaining that the evidence comes from a small sample, that the effect was modest, or that the results may not generalise beyond a specific population.
 
-These losses occur because detailed comprehension requires more than recognising important words. Readers must connect sentences, evaluate relationships between ideas, and update a mental model of the text as new information arrives. Those processes take time. When reading accelerates substantially, readers spend less time re-reading, checking ambiguities, and integrating information. [Eye-tracking]({{ 'eye-tracking/' | relative_url }}) studies show that skimming involves shorter viewing times and reduced re-reading compared with reading for full comprehension. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12801452/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Reading and skimming clinical information: insights from...by MA Soltan · 2025 — Reading times are shorter and comprehension is poore...</span></span></span>
+These losses occur because detailed comprehension requires more than recognising important words. Readers must connect sentences, evaluate relationships between ideas, and update a mental model of the text as new information arrives. Those processes take time. When reading accelerates substantially, readers spend less time re-reading, checking ambiguities, and integrating information. [Eye-tracking]({{ 'eye-tracking/' | relative_url }}) studies show that skimming involves shorter viewing times and reduced re-reading compared with reading for full comprehension.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12801452/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Reading and skimming clinical information: insights from...by MA Soltan · 2025 — Reading times are shorter and comprehension is poore...</span></span></span>
 
 This helps explain why readers often remember conclusions better than the reasoning behind them.
 
@@ -377,7 +377,7 @@ That final step is particularly important. Readers frequently supplement missing
 
 This predictive ability is efficient, but it also creates overconfidence. The reader may feel they understood the complete argument when, in reality, they reconstructed portions of it from assumptions rather than from the text itself.
 
-Researchers studying skimming have repeatedly found that readers can answer broad, higher-level questions more successfully than questions requiring precise recall of details. Text structure is often retained better than specific factual content. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/227760582_The_effects_of_reading_speed_and_reading_patterns_on_the_understanding_of_text_read_from_screen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">The effects of reading speed and reading patterns on...June 1, 2000 — Using a range of question types, comprehension was mea...</span><span class="citation-popover-meta">Published: June 1, 2000</span></span></span>
+Researchers studying skimming have repeatedly found that readers can answer broad, higher-level questions more successfully than questions requiring precise recall of details. Text structure is often retained better than specific factual content.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/227760582_The_effects_of_reading_speed_and_reading_patterns_on_the_understanding_of_text_read_from_screen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">The effects of reading speed and reading patterns on...June 1, 2000 — Using a range of question types, comprehension was mea...</span><span class="citation-popover-meta">Published: June 1, 2000</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef_why_500_wpm_m_0bf92d_general_under_392154-Illustration-3-dark.svg" | relative_url }}" alt="Main idea illustration 3" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef_why_500_wpm_m_0bf92d_general_under_392154-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_reading_speed_ac88ef_why_500_wpm_m_0bf92d_general_under_392154-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -407,169 +407,169 @@ Many readers who feel they understood a text discover that these questions are m
 
 Another useful test is delayed recall. Immediately after skimming, the main idea is often easy to describe. A day later, details that were never deeply encoded are much more likely to have vanished, leaving only a vague summary.
 
-This distinction mirrors the broader finding in reading research: [increasing]({{ 'increasing/' | relative_url }}) speed often preserves moderate understanding of a text's general meaning while reducing the depth, accuracy, and durability of comprehension. Readers can obtain a useful overview quickly, but the overview should not be mistaken for full mastery of the material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 514 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</span></span></span>
+This distinction mirrors the broader finding in reading research: [increasing]({{ 'increasing/' | relative_url }}) speed often preserves moderate understanding of a text's general meaning while reducing the depth, accuracy, and durability of comprehension. Readers can obtain a useful overview quickly, but the overview should not be mistaken for full mastery of the material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed+2Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med How Do We Read, and Can Speed Reading Help?</span><span class="citation-popover-snippet">by K Rayner · 2016 · Cited by 514 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jv2BdHXRD3Q" title="The Science Behind Reading Speed - College Info Geek" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jv2BdHXRD3Q" target="_blank" rel="noopener noreferrer">The Science Behind Reading Speed - College Info Geek</a></p><p class="youtube-embed-meta">Channel: Thomas Frank &middot; Views: 815.0K &middot; Uploaded: September 2015 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jv2BdHXRD3Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jv2BdHXRD3Q">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why 500 WPM Feels Clearer Than It Is. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why 500 WPM Feels Clearer Than It Is. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Remember+Everything+You+Read&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Remember Everything You Read on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/234992-M.jpg" alt="Cover for Remember Everything You Read" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Remember+Everything+You+Read&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Remember Everything You Read">Remember Everything You Read</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Remember+Everything+You+Read&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Remember Everything You Read on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/234992-M.jpg" alt="Cover for Remember Everything You Read" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Remember+Everything+You+Read&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Remember Everything You Read">Remember Everything You Read</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Directly addresses fast reading and the trade-off between speed and comprehension.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Remember+Everything+You+Read&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses fast reading and the trade-off between speed and comprehension.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Remember+Everything+You+Read&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Focuses on deep comprehension rather than superficial familiarity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Focuses on deep comprehension rather than superficial familiarity.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Breakthrough rapid reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/84360-M.jpg" alt="Cover for Breakthrough rapid reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breakthrough rapid reading">Breakthrough rapid reading</a>
-        </h4>
-        <p class="fr-book-author">By Peter Kump</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Breakthrough rapid reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/84360-M.jpg" alt="Cover for Breakthrough rapid reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breakthrough rapid reading">Breakthrough rapid reading</a>
+</h4>
+<p class="fr-book-author">By Peter Kump</p>
         
-        <p class="fr-book-desc">First published 1979. Subjects: Speed reading, Rapid reading, Du shu fang fa.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1979. Subjects: Speed reading, Rapid reading, Du shu fang fa.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Breakthrough+rapid+reading+Peter+Kump&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=10+days+to+faster+reading+Abby+Marks-Beale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 10 days to faster reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9453897-M.jpg" alt="Cover for 10 days to faster reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=10+days+to+faster+reading+Abby+Marks-Beale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="10 days to faster reading">10 days to faster reading</a>
-        </h4>
-        <p class="fr-book-author">By Abby Marks-Beale</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=10+days+to+faster+reading+Abby+Marks-Beale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 10 days to faster reading on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9453897-M.jpg" alt="Cover for 10 days to faster reading" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=10+days+to+faster+reading+Abby+Marks-Beale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="10 days to faster reading">10 days to faster reading</a>
+</h4>
+<p class="fr-book-author">By Abby Marks-Beale</p>
         
-        <p class="fr-book-desc">First published 2001. Subjects: Speed reading.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=10+days+to+faster+reading+Abby+Marks-Beale&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2001. Subjects: Speed reading.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=10+days+to+faster+reading+Abby+Marks-Beale&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Remember+Everything+You+Read&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Remember Everything You Read</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Breakthrough rapid reading</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Remember+Everything+You+Read&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Remember Everything You Read</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Breakthrough+rapid+reading&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Breakthrough rapid reading</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=than+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=main-idea-fae110-why-500-wpm-feels-clearer-than-it-is-increasing-than-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="than poster -book -books -dvd" data-ebay-reference="main-idea-fae110-why-500-wpm-feels-clearer-than-it-is-increasing-than-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DARKER THAN AMBER 1970 BRITISH QUAD POSTER ROD TAYLOR SUZY KENDALL JAMES BOOTH"><img src="{{ '/assets/images/marketplace-covers/2d9ca8cf3ddcc03065f2.jpg' | relative_url }}" alt="Listing image for DARKER THAN AMBER 1970 BRITISH QUAD POSTER ROD TAYLOR SUZY KENDALL JAMES BOOTH" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=than+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=main-idea-fae110-why-500-wpm-feels-clearer-than-it-is-increasing-than-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="than poster -book -books -dvd" data-ebay-reference="main-idea-fae110-why-500-wpm-feels-clearer-than-it-is-increasing-than-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">DARKER THAN AMBER 1970 BRITISH QUAD POSTER ROD TAYLOR SUZY KENDALL JAMES BOOTH</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=than+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=main-idea-fae110-why-500-wpm-feels-clearer-than-it-is-increasing-than-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="than poster -book -books -dvd" data-ebay-reference="main-idea-fae110-why-500-wpm-feels-clearer-than-it-is-increasing-than-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for than poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: than poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=than+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=main-idea-fae110-why-500-wpm-feels-clearer-than-it-is-increasing-than-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="than poster -book -books -dvd" data-ebay-reference="main-idea-fae110-why-500-wpm-feels-clearer-than-it-is-increasing-than-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=than+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=main-idea-fae110-why-500-wpm-feels-clearer-than-it-is-increasing-than-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="than poster -book -books -dvd" data-ebay-reference="main-idea-fae110-why-500-wpm-feels-clearer-than-it-is-increasing-than-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DARKER THAN AMBER 1970 BRITISH QUAD POSTER ROD TAYLOR SUZY KENDALL JAMES BOOTH"><img src="{{ '/assets/images/marketplace-covers/2d9ca8cf3ddcc03065f2.jpg' | relative_url }}" alt="Listing image for DARKER THAN AMBER 1970 BRITISH QUAD POSTER ROD TAYLOR SUZY KENDALL JAMES BOOTH" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=than+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=main-idea-fae110-why-500-wpm-feels-clearer-than-it-is-increasing-than-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="than poster -book -books -dvd" data-ebay-reference="main-idea-fae110-why-500-wpm-feels-clearer-than-it-is-increasing-than-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">DARKER THAN AMBER 1970 BRITISH QUAD POSTER ROD TAYLOR SUZY KENDALL JAMES BOOTH</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=than+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=main-idea-fae110-why-500-wpm-feels-clearer-than-it-is-increasing-than-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="than poster -book -books -dvd" data-ebay-reference="main-idea-fae110-why-500-wpm-feels-clearer-than-it-is-increasing-than-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for than poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: than poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=than+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=main-idea-fae110-why-500-wpm-feels-clearer-than-it-is-increasing-than-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="than poster -book -books -dvd" data-ebay-reference="main-idea-fae110-why-500-wpm-feels-clearer-than-it-is-increasing-than-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=than+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=main-idea-fae110-why-500-wpm-feels-clearer-than-it-is-increasing-than-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="than poster -book -books -dvd" data-ebay-reference="main-idea-fae110-why-500-wpm-feels-clearer-than-it-is-increasing-than-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Extreme - More Than Words - Song Lyric Art Poster Print - Sizes A4 A3"><img src="{{ '/assets/images/marketplace-covers/bd871fa9f6371e8c676f.jpg' | relative_url }}" alt="Listing image for Extreme - More Than Words - Song Lyric Art Poster Print - Sizes A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=than+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=main-idea-fae110-why-500-wpm-feels-clearer-than-it-is-increasing-than-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="than poster -book -books -dvd" data-ebay-reference="main-idea-fae110-why-500-wpm-feels-clearer-than-it-is-increasing-than-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Extreme - More Than Words - Song Lyric Art Poster Print - Sizes A4 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=than+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=main-idea-fae110-why-500-wpm-feels-clearer-than-it-is-increasing-than-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="than poster -book -books -dvd" data-ebay-reference="main-idea-fae110-why-500-wpm-feels-clearer-than-it-is-increasing-than-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for than poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: than poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=than+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=main-idea-fae110-why-500-wpm-feels-clearer-than-it-is-increasing-than-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="than poster -book -books -dvd" data-ebay-reference="main-idea-fae110-why-500-wpm-feels-clearer-than-it-is-increasing-than-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=than+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=main-idea-fae110-why-500-wpm-feels-clearer-than-it-is-increasing-than-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="than poster -book -books -dvd" data-ebay-reference="main-idea-fae110-why-500-wpm-feels-clearer-than-it-is-increasing-than-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=than+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=main-idea-fae110-why-500-wpm-feels-clearer-than-it-is-increasing-than-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="than poster -book -books -dvd" data-ebay-reference="main-idea-fae110-why-500-wpm-feels-clearer-than-it-is-increasing-than-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Extreme - More Than Words - Song Lyric Art Poster Print - Sizes A4 A3"><img src="{{ '/assets/images/marketplace-covers/bd871fa9f6371e8c676f.jpg' | relative_url }}" alt="Listing image for Extreme - More Than Words - Song Lyric Art Poster Print - Sizes A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=than+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=main-idea-fae110-why-500-wpm-feels-clearer-than-it-is-increasing-than-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="than poster -book -books -dvd" data-ebay-reference="main-idea-fae110-why-500-wpm-feels-clearer-than-it-is-increasing-than-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Extreme - More Than Words - Song Lyric Art Poster Print - Sizes A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=than+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=main-idea-fae110-why-500-wpm-feels-clearer-than-it-is-increasing-than-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="than poster -book -books -dvd" data-ebay-reference="main-idea-fae110-why-500-wpm-feels-clearer-than-it-is-increasing-than-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for than poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: than poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=than+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=main-idea-fae110-why-500-wpm-feels-clearer-than-it-is-increasing-than-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="than poster -book -books -dvd" data-ebay-reference="main-idea-fae110-why-500-wpm-feels-clearer-than-it-is-increasing-than-poster-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=than+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=main-idea-fae110-why-500-wpm-feels-clearer-than-it-is-increasing-than-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="than poster -book -books -dvd" data-ebay-reference="main-idea-fae110-why-500-wpm-feels-clearer-than-it-is-increasing-than-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -585,7 +585,7 @@ This distinction mirrors the broader finding in reading research: [increasing]({
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -605,7 +605,7 @@ This distinction mirrors the broader finding in reading research: [increasing]({
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -637,7 +637,7 @@ This distinction mirrors the broader finding in reading research: [increasing]({
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -689,7 +689,7 @@ This distinction mirrors the broader finding in reading research: [increasing]({
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -734,7 +734,7 @@ This distinction mirrors the broader finding in reading research: [increasing]({
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -775,137 +775,137 @@ This distinction mirrors the broader finding in reading research: [increasing]({
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/227760582_The_effects_of_reading_speed_and_reading_patterns_on_the_understanding_of_text_read_from_screen" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/227760582_The_effects_of_reading_speed_and_reading_patterns_on_the_understanding_of_text_read_from_screen</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The effects of reading speed and reading patterns on...June 1, 2000 — Using a range of question types, comprehension was mea...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/227760582_The_effects_of_reading_speed_and_reading_patterns_on_the_understanding_of_text_read_from_screen" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/227760582_The_effects_of_reading_speed_and_reading_patterns_on_the_understanding_of_text_read_from_screen</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The effects of reading speed and reading patterns on...June 1, 2000 — Using a range of question types, comprehension was mea...</p></details>
    Published: June 1, 2000  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12801452/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12801452/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading and skimming clinical information: insights from...by MA Soltan · 2025 — Reading times are shorter and comprehension is poore...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12801452/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12801452/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading and skimming clinical information: insights from...by MA Soltan · 2025 — Reading times are shorter and comprehension is poore...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: butte.edu  
    Title: Glenn Community College Skimming and Scanning  
-   Link: <a href="https://www.butte.edu/departments/cas/tipsheets/readingstrategies/skimming_scanning.html" target="_blank" rel="noopener noreferrer nofollow">https://www.butte.edu/departments/cas/tipsheets/readingstrategies/skimming_scanning.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Skimming and Scanning - TIP SheetSkimming is reading rapidly in order to get a general overview of the material. Scanning is reading rapi...</p></details>
+   Link:<a href="https://www.butte.edu/departments/cas/tipsheets/readingstrategies/skimming_scanning.html" target="_blank" rel="noopener noreferrer nofollow">https://www.butte.edu/departments/cas/tipsheets/readingstrategies/skimming_scanning.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skimming and Scanning - TIP SheetSkimming is reading rapidly in order to get a general overview of the material. Scanning is reading rapi...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/290492746_So_Much_to_Read_So_Little_Time_How_Do_We_Read_and_Can_Speed_Reading_Help" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/290492746_So_Much_to_Read_So_Little_Time_How_Do_We_Read_and_Can_Speed_Reading_Help</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It is unlikely that readers will be able to double or triple their reading speeds.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/290492746_So_Much_to_Read_So_Little_Time_How_Do_We_Read_and_Can_Speed_Reading_Help" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/290492746_So_Much_to_Read_So_Little_Time_How_Do_We_Read_and_Can_Speed_Reading_Help</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It is unlikely that readers will be able to double or triple their reading speeds.Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/337256453_THE_ANALYSIS_OF_SKIMMING_AND_SCANNING_TECHNIQUE_TO_IMPROVE_STUDENTS_IN_TEACHING_READING_COMPREHENSION" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/337256453_THE_ANALYSIS_OF_SKIMMING_AND_SCANNING_TECHNIQUE_TO_IMPROVE_STUDENTS_IN_TEACHING_READING_COMPREHENSION</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Data collection...Read...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/337256453_THE_ANALYSIS_OF_SKIMMING_AND_SCANNING_TECHNIQUE_TO_IMPROVE_STUDENTS_IN_TEACHING_READING_COMPREHENSION" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/337256453_THE_ANALYSIS_OF_SKIMMING_AND_SCANNING_TECHNIQUE_TO_IMPROVE_STUDENTS_IN_TEACHING_READING_COMPREHENSION</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Data collection...Read...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/394586016_The_Effect_of_Skimming_Method_towards_Students%27_Reading_Comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394586016_The_Effect_of_Skimming_Method_towards_Students%27_Reading_Comprehension</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>rediction encourage deeper cognitive processing by requiring students to connect...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/394586016_The_Effect_of_Skimming_Method_towards_Students%27_Reading_Comprehension" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394586016_The_Effect_of_Skimming_Method_towards_Students%27_Reading_Comprehension</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rediction encourage deeper cognitive processing by requiring students to connect...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/383627958_The_Reality_of_Speed_Reading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/383627958_The_Reality_of_Speed_Reading</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Reality of Speed ReadingSep 1, 2024 — Despite claims of reading at 1000 words per minute, true comprehension at such speeds is...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/383627958_The_Reality_of_Speed_Reading" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/383627958_The_Reality_of_Speed_Reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Reality of Speed ReadingSep 1, 2024 — Despite claims of reading at 1000 words per minute, true comprehension at such speeds is...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med How Do We Read, and Can Speed Reading Help?  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26769745/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by K Rayner · 2016 · Cited by 514 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/26769745/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26769745/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by K Rayner · 2016 · Cited by 514 — The research shows that there is a trade-off between speed and accuracy. It is unlikely that re...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: journals.sagepub.com  
    Title: Sage Journals So Much to Read, So Little Time  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/1529100615623267" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1529100615623267</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It is unlikely that readers will be able to double or triple their reading speeds (e.g...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/1529100615623267" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1529100615623267</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It is unlikely that readers will be able to double or triple their reading speeds (e.g...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: britishcouncil.org  
    Title: how help english learners read more quickly  
-   Link: <a href="https://www.britishcouncil.org/voices-magazine/how-help-english-learners-read-more-quickly" target="_blank" rel="noopener noreferrer nofollow">https://www.britishcouncil.org/voices-magazine/how-help-english-learners-read-more-quickly</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Another reading skill...Read more...</p></details>
+   Link:<a href="https://www.britishcouncil.org/voices-magazine/how-help-english-learners-read-more-quickly" target="_blank" rel="noopener noreferrer nofollow">https://www.britishcouncil.org/voices-magazine/how-help-english-learners-read-more-quickly</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Another reading skill...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ihworld.com  
    Title: shedding light on skimming  
-   Link: <a href="https://ihworld.com/ih-journal/issues/issue-47/shedding-light-on-skimming/" target="_blank" rel="noopener noreferrer nofollow">https://ihworld.com/ih-journal/issues/issue-47/shedding-light-on-skimming/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>28 Nov 2019 — Gist reading is about getting the ideas of the text by skimming it rapidly and ignoring the grammatical words. When we skim...</p></details>
+   Link:<a href="https://ihworld.com/ih-journal/issues/issue-47/shedding-light-on-skimming/" target="_blank" rel="noopener noreferrer nofollow">https://ihworld.com/ih-journal/issues/issue-47/shedding-light-on-skimming/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>28 Nov 2019 — Gist reading is about getting the ideas of the text by skimming it rapidly and ignoring the grammatical words. When we skim...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: teachingenglish.org.uk  
-   Link: <a href="https://www.teachingenglish.org.uk/professional-development/teachers/teaching-knowledge-database/d-h/gist" target="_blank" rel="noopener noreferrer nofollow">https://www.teachingenglish.org.uk/professional-development/teachers/teaching-knowledge-database/d-h/gist</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GistReading a text for gist is known as skimming. Example Before answering detailed comprehension questions on a short sto...</p></details>
+   Link:<a href="https://www.teachingenglish.org.uk/professional-development/teachers/teaching-knowledge-database/d-h/gist" target="_blank" rel="noopener noreferrer nofollow">https://www.teachingenglish.org.uk/professional-development/teachers/teaching-knowledge-database/d-h/gist</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GistReading a text for gist is known as skimming. Example Before answering detailed comprehension questions on a short sto...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: psychologicalscience.org  
    Title: speed reading  
-   Link: <a href="https://www.psychologicalscience.org/publications/speed_reading.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/publications/speed_reading.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>So Much to Read, So Little Time: How Do We Read, and...13 Jan 2016 — The report shows there is no quick and easy way to improve reading...</p></details>
+   Link:<a href="https://www.psychologicalscience.org/publications/speed_reading.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/publications/speed_reading.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>So Much to Read, So Little Time: How Do We Read, and...13 Jan 2016 — The report shows there is no quick and easy way to improve reading...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/34516216/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/34516216/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rate and most efficient listening rate are highly...by V Kuperman · 2021 · Cited by 34 — We ran a new study specifically comparing spont...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/34516216/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/34516216/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rate and most efficient listening rate are highly...by V Kuperman · 2021 · Cited by 34 — We ran a new study specifically comparing spont...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=D2aZ3THL8BQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=D2aZ3THL8BQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Speed Readers Won&#x27;t Tell YouReading fast leads to misunderstandings. Good authors pick their words precisely and by skimming through...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=D2aZ3THL8BQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=D2aZ3THL8BQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Speed Readers Won&#x27;t Tell YouReading fast leads to misunderstandings. Good authors pick their words precisely and by skimming through...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: oxfordlanguageclub.com  
-   Link: <a href="https://oxfordlanguageclub.com/page/blog/reading-strategies-skimming-scanning-and-detailed-reading" target="_blank" rel="noopener noreferrer nofollow">https://oxfordlanguageclub.com/page/blog/reading-strategies-skimming-scanning-and-detailed-reading</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Strategies: Skimming, Scanning, and Detailed...Skimming: This technique involves quickly glancing through a text to get the main...</p></details>
+   Link:<a href="https://oxfordlanguageclub.com/page/blog/reading-strategies-skimming-scanning-and-detailed-reading" target="_blank" rel="noopener noreferrer nofollow">https://oxfordlanguageclub.com/page/blog/reading-strategies-skimming-scanning-and-detailed-reading</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading Strategies: Skimming, Scanning, and Detailed...Skimming: This technique involves quickly glancing through a text to get the main...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: faculty.cas.usf.edu  
    Title: Rayner Schotter Masson Potter Treiman 2016 PSPI  
-   Link: <a href="https://faculty.cas.usf.edu/eschotter/papers/Rayner_Schotter_Masson_Potter_Treiman_2016_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://faculty.cas.usf.edu/eschotter/papers/Rayner_Schotter_Masson_Potter_Treiman_2016_PSPI.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Do We Read, and Can Speed Reading Help?by K Rayner · 2016 · Cited by 516 — It is unlikely that readers will be able to double or triple t...</p></details>
+   Link:<a href="https://faculty.cas.usf.edu/eschotter/papers/Rayner_Schotter_Masson_Potter_Treiman_2016_PSPI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://faculty.cas.usf.edu/eschotter/papers/Rayner_Schotter_Masson_Potter_Treiman_2016_PSPI.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Do We Read, and Can Speed Reading Help?by K Rayner · 2016 · Cited by 516 — It is unlikely that readers will be able to double or triple t...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: theguardian.com  
    Title: speed reading claims discredited by new report  
-   Link: <a href="https://www.theguardian.com/books/2016/jan/29/speed-reading-claims-discredited-by-new-report" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/books/2016/jan/29/speed-reading-claims-discredited-by-new-report</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Books29 Jan 2016 — Companies and apps that promise to rapidly increase reading speeds are on a hiding to nothing, according to new resear...</p></details>
+   Link:<a href="https://www.theguardian.com/books/2016/jan/29/speed-reading-claims-discredited-by-new-report" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/books/2016/jan/29/speed-reading-claims-discredited-by-new-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Books29 Jan 2016 — Companies and apps that promise to rapidly increase reading speeds are on a hiding to nothing, according to new resear...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reader.ku.edu  
    Title: How many words do we read per minute (1)  
-   Link: <a href="https://reader.ku.edu/sites/reader/files/2024-01/How%20many%20words%20do%20we%20read%20per%20minute%20%281%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://reader.ku.edu/sites/reader/files/2024-01/How%20many%20words%20do%20we%20read%20per%20minute%20%281%29.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>many words do we read per minuteby M Brysbaert · Cited by 823 — In a review paper on speed reading, Rayner, Schotter, Masson, Potter, and...</p></details>
+   Link:<a href="https://reader.ku.edu/sites/reader/files/2024-01/How%20many%20words%20do%20we%20read%20per%20minute%20%281%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://reader.ku.edu/sites/reader/files/2024-01/How%20many%20words%20do%20we%20read%20per%20minute%20%281%29.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>many words do we read per minuteby M Brysbaert · Cited by 823 — In a review paper on speed reading, Rayner, Schotter, Masson, Potter, and...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: erickimphotography.com  
-   Link: <a href="https://erickimphotography.com/the-landscape-of-fast-reading-science-technology-education-and-field-applications/" target="_blank" rel="noopener noreferrer nofollow">https://erickimphotography.com/the-landscape-of-fast-reading-science-technology-education-and-field-applications/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Landscape of Fast Reading: Science, Technology...9 Jan 2026 — Skilled readers typically average 200–400 words per minute (wpm) with...</p></details>
+   Link:<a href="https://erickimphotography.com/the-landscape-of-fast-reading-science-technology-education-and-field-applications/" target="_blank" rel="noopener noreferrer nofollow">https://erickimphotography.com/the-landscape-of-fast-reading-science-technology-education-and-field-applications/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Landscape of Fast Reading: Science, Technology...9 Jan 2026 — Skilled readers typically average 200–400 words per minute (wpm) with...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: zmescience.com  
    Title: Does speed-reading really work?  
-   Link: <a href="https://www.zmescience.com/science/psychology-science/speed-reading-4323/" target="_blank" rel="noopener noreferrer nofollow">https://www.zmescience.com/science/psychology-science/speed-reading-4323/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Not if you want to...13 Apr 2016 — Research suggests, however, that for the most part speed-reading hurts comprehension. The best thing...</p></details>
+   Link:<a href="https://www.zmescience.com/science/psychology-science/speed-reading-4323/" target="_blank" rel="noopener noreferrer nofollow">https://www.zmescience.com/science/psychology-science/speed-reading-4323/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Not if you want to...13 Apr 2016 — Research suggests, however, that for the most part speed-reading hurts comprehension. The best thing...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: speedreading.com  
-   Link: <a href="https://speedreading.com/research/comprehension-[speed-tradeoff" target="_blank" rel="noopener noreferrer nofollow">https://speedreading.com/research/comprehension-[speed-tradeoff</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Speed Reading Comprehension Trade-Off | SpeedReading.comAcross reviews, dense-text comprehension drops sharply beyond roughly 500-600 WPM...</p></details>
+   Link:<a href="https://speedreading.com/research/comprehension-[speed-tradeoff" target="_blank" rel="noopener noreferrer nofollow">https://speedreading.com/research/comprehension-[speed-tradeoff</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Speed Reading Comprehension Trade-Off | SpeedReading.comAcross reviews, dense-text comprehension drops sharply beyond roughly 500-600 WPM...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: cambridgeenglish.org  
    Title: 735100 studies in language testing volume 29  
-   Link: <a href="https://www.cambridgeenglish.org/Images/735100-studies-in-language-testing-volume-29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridgeenglish.org/Images/735100-studies-in-language-testing-volume-29.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>They compared this to their American subjects who had a mean reading speed of 254 wpm and a reading...Read more...</p></details>
+   Link:<a href="https://www.cambridgeenglish.org/Images/735100-studies-in-language-testing-volume-29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridgeenglish.org/Images/735100-studies-in-language-testing-volume-29.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>They compared this to their American subjects who had a mean reading speed of 254 wpm and a reading...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: nationalgeographic.com  
    Title: reading skimming attention  
-   Link: <a href="https://www.nationalgeographic.com/science/article/reading-skimming-attention" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/science/article/reading-skimming-attention</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is there a &#x27;right&#x27; way to read?17 Jan 2025 — Studies suggest that the one way to improve reading speed while retaining comprehension is t...</p></details>
+   Link:<a href="https://www.nationalgeographic.com/science/article/reading-skimming-attention" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/science/article/reading-skimming-attention</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is there a &#x27;right&#x27; way to read?17 Jan 2025 — Studies suggest that the one way to improve reading speed while retaining comprehension is t...</p></details>

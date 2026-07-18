@@ -269,7 +269,7 @@ image: /assets/images/increasing_re_852ca6_rereading_reg_828352_slow_down_les_65
 
 ## Introduction
 
-One of the most effective ways to increase reading speed for difficult material is to stop trying to read all parts of a document at the same pace. Dense texts often contain a small number of passages that determine the meaning of everything that follows. [Definitions]({{ 'definitions/' | relative_url }}), exception clauses, formulas, assumptions, procedures, and decision rules are common examples. When readers rush through these sections, they frequently create misunderstandings that require extensive rereading later. A slower first pass through high-impact passages can therefore reduce total reading time, even if it briefly lowers words-per-minute speed. Research on reading comprehension, working memory, and [eye movements]({{ 'eye-tradeoff/' | relative_url }}) consistently shows that difficult material increases the need for rereading and comprehension repair when understanding is incomplete. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5247542/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Lancaster EPrints]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHow working memory relates to children&#x27;s reading</span><span class="citation-popover-snippet">by S Nouwens · 2016 · Cited by 200 — Working memory is considered a well-established predictor of individual variation in reading comp...</span></span></span>
+One of the most effective ways to increase reading speed for difficult material is to stop trying to read all parts of a document at the same pace. Dense texts often contain a small number of passages that determine the meaning of everything that follows. [Definitions]({{ 'definitions/' | relative_url }}), exception clauses, formulas, assumptions, procedures, and decision rules are common examples. When readers rush through these sections, they frequently create misunderstandings that require extensive rereading later. A slower first pass through high-impact passages can therefore reduce total reading time, even if it briefly lowers words-per-minute speed. Research on reading comprehension, working memory, and [eye movements]({{ 'eye-tradeoff/' | relative_url }}) consistently shows that difficult material increases the need for rereading and comprehension repair when understanding is incomplete.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5247542/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Lancaster EPrints]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHow working memory relates to children&#x27;s reading</span><span class="citation-popover-snippet">by S Nouwens · 2016 · Cited by 200 — Working memory is considered a well-established predictor of individual variation in reading comp...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_rereading_reg_828352_slow_down_les_65c208_slow_first_de_78041f-Illustration-1-dark.svg" | relative_url }}" alt="Dense Texts illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_rereading_reg_828352_slow_down_les_65c208_slow_first_de_78041f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_rereading_reg_828352_slow_down_les_65c208_slow_first_de_78041f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -283,7 +283,7 @@ Not every sentence deserves equal attention. Dense documents usually contain “
 
 Technical and legal documents often introduce specialised definitions near the beginning. These definitions may appear straightforward, but later sections frequently depend on them.
 
-A contract, for example, may define a term such as “Confidential Information” in one section and then reference it dozens of times elsewhere. Missing a single qualification inside that definition can distort the interpretation of multiple clauses. Practical guidance for contract review often recommends paying special attention to defined terms before attempting a broader reading because misunderstandings compound later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tenthings.blog/2019/08/28/ten-things-how-to-read-a-contract/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tenthings.blog">[In-House Counsel Essentials]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tenthings.blog</span><span class="citation-popover-title">ten things how to read a contract</span><span class="citation-popover-snippet">Then make your careful second pass through the contract. When a defined...Read more...</span></span></span>
+A contract, for example, may define a term such as “Confidential Information” in one section and then reference it dozens of times elsewhere. Missing a single qualification inside that definition can distort the interpretation of multiple clauses. Practical guidance for contract review often recommends paying special attention to defined terms before attempting a broader reading because misunderstandings compound later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tenthings.blog/2019/08/28/ten-things-how-to-read-a-contract/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tenthings.blog">[In-House Counsel Essentials]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tenthings.blog</span><span class="citation-popover-title">ten things how to read a contract</span><span class="citation-popover-snippet">Then make your careful second pass through the contract. When a defined...Read more...</span></span></span>
 
 The same pattern appears in scientific papers. A study's operational definition of a variable may determine how every result should be interpreted. Skimming the definition can make later findings appear contradictory when they are not.
 
@@ -293,7 +293,7 @@ Dense texts frequently communicate their most important information through qual
 
 Readers often process a sentence such as “The procedure applies to all users” very quickly. The real difficulty may appear later in a phrase such as “except when operating under emergency conditions” or “unless otherwise specified in Appendix B”.
 
-Legal and regulatory writing is particularly dependent on conditional language. A reader who moves too quickly may understand the general rule but miss the exception that governs the specific situation. The result is not a minor misunderstanding but a complete reversal of meaning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thecybersolicitor.com/p/how-to-read-legal-docs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecybersolicitor.com">[The Cyber Solicitor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecybersolicitor.com</span><span class="citation-popover-title">Let&#x27;s be honest, reading legal documents sucks. When I say legal documents ...Read more</span><span class="citation-popover-snippet">The Cyber SolicitorYou are reading legal docs wrong - by Mahdi AssanJanuary 23, 2026 — 23 Jan 2026 — Reading legal text is not the same a...</span></span></span>
+Legal and regulatory writing is particularly dependent on conditional language. A reader who moves too quickly may understand the general rule but miss the exception that governs the specific situation. The result is not a minor misunderstanding but a complete reversal of meaning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thecybersolicitor.com/p/how-to-read-legal-docs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecybersolicitor.com">[The Cyber Solicitor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecybersolicitor.com</span><span class="citation-popover-title">Let&#x27;s be honest, reading legal documents sucks. When I say legal documents ...Read more</span><span class="citation-popover-snippet">The Cyber SolicitorYou are reading legal docs wrong - by Mahdi AssanJanuary 23, 2026 — 23 Jan 2026 — Reading legal text is not the same a...</span></span></span>
 
 ### Formulas and Symbolic Relationships
 
@@ -331,7 +331,7 @@ The cost of rereading procedural text is usually greater than rereading descript
 
 The main reason slow-first reading works is that dense texts place heavier demands on working memory.
 
-Working memory helps readers hold information while integrating new material into an evolving mental model. Research consistently identifies working memory as an important predictor of reading comprehension because readers must simultaneously retain earlier information and process incoming information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5247542/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Lancaster EPrints]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHow working memory relates to children&#x27;s reading</span><span class="citation-popover-snippet">by S Nouwens · 2016 · Cited by 200 — Working memory is considered a well-established predictor of individual variation in reading comp...</span></span></span>
+Working memory helps readers hold information while integrating new material into an evolving mental model. Research consistently identifies working memory as an important predictor of reading comprehension because readers must simultaneously retain earlier information and process incoming information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5247542/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2Lancaster EPrints]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHow working memory relates to children&#x27;s reading</span><span class="citation-popover-snippet">by S Nouwens · 2016 · Cited by 200 — Working memory is considered a well-established predictor of individual variation in reading comp...</span></span></span>
 
 When readers accelerate through difficult passages, several things can happen:
 
@@ -343,7 +343,7 @@ When readers accelerate through difficult passages, several things can happen:
 
 The result often appears as confusion several paragraphs later rather than immediately. Readers then face a larger task: locating the original passage, rebuilding context, and repairing their understanding.
 
-Eye-tracking research helps explain why this occurs. Reading naturally involves backward eye movements known as regressions. Around 10–15% of eye movements during ordinary reading are regressions, and difficult text tends to increase their occurrence. Researchers view many of these regressions as part of a comprehension-repair process rather than simple visual correction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.cambridge.org/97811084/15354/excerpt/9781108415354_excerpt.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.cambridge.org">[Cambridge Assets+2Reading Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.cambridge.org</span><span class="citation-popover-snippet">Cambridge AssetsChapter 1 Introduction to Eye-TrackingAbout 10–15 per cent of the time, readers move their eyes back (regress) to previou...</span></span></span>
+Eye-tracking research helps explain why this occurs. Reading naturally involves backward eye movements known as regressions. Around 10–15% of eye movements during ordinary reading are regressions, and difficult text tends to increase their occurrence. Researchers view many of these regressions as part of a comprehension-repair process rather than simple visual correction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://assets.cambridge.org/97811084/15354/excerpt/9781108415354_excerpt.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.cambridge.org">[Cambridge Assets+2Reading Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.cambridge.org</span><span class="citation-popover-snippet">Cambridge AssetsChapter 1 Introduction to Eye-TrackingAbout 10–15 per cent of the time, readers move their eyes back (regress) to previou...</span></span></span>
 
 For dense documents, the goal is not to eliminate regressions completely. The goal is to reduce large, costly regressions caused by misunderstanding foundational material.
 
@@ -387,7 +387,7 @@ Contracts, compliance documents, safety procedures, medical guidance, and critic
 
 The cost of misunderstanding may include financial loss, regulatory errors, safety problems, or significant rework. In these contexts, [careful reading]({{ 'careful-reading/' | relative_url }}) is not merely a comprehension strategy; it is a risk-management strategy.
 
-Research on legal language illustrates the challenge. Even trained lawyers often comprehend and recall complex legalese less effectively than equivalent material written in clearer language. Dense drafting therefore increases the need for deliberate reading rather than rewarding speed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10266064/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEven lawyers do not like legalese</span><span class="citation-popover-snippet">by E Martínez · 2023 · Cited by 24 — Experiment 1 revealed that lawyers, like laypeople, were less able to recall and comprehend legal...</span></span></span>
+Research on legal language illustrates the challenge. Even trained lawyers often comprehend and recall complex legalese less effectively than equivalent material written in clearer language. Dense drafting therefore increases the need for deliberate reading rather than rewarding speed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10266064/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEven lawyers do not like legalese</span><span class="citation-popover-snippet">by E Martínez · 2023 · Cited by 24 — Experiment 1 revealed that lawyers, like laypeople, were less able to recall and comprehend legal...</span></span></span>
 
 ## A Practical Slow-First Checklist
 
@@ -466,197 +466,197 @@ Readers often judge efficiency by how quickly they move through pages. Dense doc
 
 A reader who spends thirty extra seconds understanding a definition may avoid ten minutes of reconstruction later. A reader who carefully interprets a formula may avoid repeatedly revisiting earlier chapters. A reader who pauses on an exception clause may avoid misunderstanding an entire contract.
 
-For complex material, the fastest route through the document is often not the fastest-looking route. Strategic slowing at the points where meaning is concentrated reduces comprehension failures, lowers backtracking costs, and ultimately supports faster completion of difficult reading tasks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.3758/s13421-012-0244-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer+2Cambridge Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">The function of regressions in reading: Backward eye...by RW Booth · 2013 · Cited by 134 — Regressions make up 15 %–25 % of eye...</span></span></span>
+For complex material, the fastest route through the document is often not the fastest-looking route. Strategic slowing at the points where meaning is concentrated reduces comprehension failures, lowers backtracking costs, and ultimately supports faster completion of difficult reading tasks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.3758/s13421-012-0244-y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer+2Cambridge Assets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">The function of regressions in reading: Backward eye...by RW Booth · 2013 · Cited by 134 — Regressions make up 15 %–25 % of eye...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Where Slowing Down Saves the Most Time. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Where Slowing Down Saves the Most Time. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Teaches adjusting reading speed based on text difficulty and importance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Teaches adjusting reading speed based on text difficulty and importance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Work on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lZpFCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Work" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Work">Deep Work</a>
-        </h4>
-        <p class="fr-book-author">By Cal Newport</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Work on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lZpFCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Work" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Work">Deep Work</a>
+</h4>
+<p class="fr-book-author">By Cal Newport</p>
         
-        <p class="fr-book-desc">Supports concentrated reading of high-stakes material.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports concentrated reading of high-stakes material.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ultralearning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jyV2DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ultralearning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ultralearning">Ultralearning</a>
-        </h4>
-        <p class="fr-book-author">By Scott H. Young</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ultralearning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jyV2DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ultralearning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ultralearning">Ultralearning</a>
+</h4>
+<p class="fr-book-author">By Scott H. Young</p>
         
-        <p class="fr-book-desc">Encourages strategic effort allocation to critical information.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages strategic effort allocation to critical information.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Reading+Mind+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading Mind on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Reading+Mind+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading Mind">Reading Mind</a>
-        </h4>
-        <p class="fr-book-author">By Daniel T. Willingham</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Reading+Mind+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Reading Mind on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Reading+Mind+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Reading Mind">Reading Mind</a>
+</h4>
+<p class="fr-book-author">By Daniel T. Willingham</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Reading, Reading comprehension, Cognitive psychology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Reading+Mind+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Reading, Reading comprehension, Cognitive psychology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Reading+Mind+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Work&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Work</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ultralearning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ultralearning</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Work&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Work</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ultralearning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ultralearning</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+stand+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading stand t shirt" data-ebay-reference="dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DOM If You Can Read This You&#x27;re Standing Too Close gray T Shirt, men&#x27;s Size S"><img src="{{ '/assets/images/marketplace-covers/058db4f811242a96c7ee.jpg' | relative_url }}" alt="Listing image for DOM If You Can Read This You&#x27;re Standing Too Close gray T Shirt, men&#x27;s Size S" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+stand+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading stand t shirt" data-ebay-reference="dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt" target="_blank" rel="sponsored noopener noreferrer">DOM If You Can Read This You&#x27;re Standing Too Close gray T Shirt, men&#x27;s Size S</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+stand+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading stand t shirt" data-ebay-reference="dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading stand t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: reading stand t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+stand+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading stand t shirt" data-ebay-reference="dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+stand+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading stand t shirt" data-ebay-reference="dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DOM If You Can Read This You&#x27;re Standing Too Close gray T Shirt, men&#x27;s Size S"><img src="{{ '/assets/images/marketplace-covers/058db4f811242a96c7ee.jpg' | relative_url }}" alt="Listing image for DOM If You Can Read This You&#x27;re Standing Too Close gray T Shirt, men&#x27;s Size S" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+stand+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading stand t shirt" data-ebay-reference="dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt" target="_blank" rel="sponsored noopener noreferrer">DOM If You Can Read This You&#x27;re Standing Too Close gray T Shirt, men&#x27;s Size S</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+stand+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading stand t shirt" data-ebay-reference="dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading stand t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: reading stand t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+stand+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading stand t shirt" data-ebay-reference="dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+stand+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading stand t shirt" data-ebay-reference="dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for If You Can Read This You Are Standing Too Close T Shirt Funny Joke Haters"><img src="{{ '/assets/images/marketplace-covers/2a97080db19bb815e5c3.jpg' | relative_url }}" alt="Listing image for If You Can Read This You Are Standing Too Close T Shirt Funny Joke Haters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+stand+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading stand t shirt" data-ebay-reference="dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt" target="_blank" rel="sponsored noopener noreferrer">If You Can Read This You Are Standing Too Close T Shirt Funny Joke Haters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+stand+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading stand t shirt" data-ebay-reference="dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading stand t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: reading stand t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+stand+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading stand t shirt" data-ebay-reference="dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+stand+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading stand t shirt" data-ebay-reference="dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for If You Can Read This You Are Standing Too Close T Shirt Funny Joke Haters"><img src="{{ '/assets/images/marketplace-covers/2a97080db19bb815e5c3.jpg' | relative_url }}" alt="Listing image for If You Can Read This You Are Standing Too Close T Shirt Funny Joke Haters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+stand+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading stand t shirt" data-ebay-reference="dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt" target="_blank" rel="sponsored noopener noreferrer">If You Can Read This You Are Standing Too Close T Shirt Funny Joke Haters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+stand+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading stand t shirt" data-ebay-reference="dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading stand t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: reading stand t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+stand+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading stand t shirt" data-ebay-reference="dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+stand+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading stand t shirt" data-ebay-reference="dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Tshirt If You Can Read This You&#x27;re Standing Too Close Short/Long Sleeve"><img src="{{ '/assets/images/marketplace-covers/6313cc8bff1e6d57fe73.jpg' | relative_url }}" alt="Listing image for Funny Tshirt If You Can Read This You&#x27;re Standing Too Close Short/Long Sleeve" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+stand+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading stand t shirt" data-ebay-reference="dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Funny Tshirt If You Can Read This You&#x27;re Standing Too Close Short/Long Sleeve</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+stand+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading stand t shirt" data-ebay-reference="dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading stand t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: reading stand t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+stand+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading stand t shirt" data-ebay-reference="dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+stand+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading stand t shirt" data-ebay-reference="dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Tshirt If You Can Read This You&#x27;re Standing Too Close Short/Long Sleeve"><img src="{{ '/assets/images/marketplace-covers/6313cc8bff1e6d57fe73.jpg' | relative_url }}" alt="Listing image for Funny Tshirt If You Can Read This You&#x27;re Standing Too Close Short/Long Sleeve" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+stand+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading stand t shirt" data-ebay-reference="dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Funny Tshirt If You Can Read This You&#x27;re Standing Too Close Short/Long Sleeve</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+stand+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading stand t shirt" data-ebay-reference="dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading stand t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: reading stand t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+stand+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading stand t shirt" data-ebay-reference="dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+stand+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading stand t shirt" data-ebay-reference="dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for If You Can Read This You&#x27;re Standing Too Close Men&#x27;s T-Shirt Size XL Long Sleeve"><img src="{{ '/assets/images/marketplace-covers/a5ab197acb1db5731bd1.jpg' | relative_url }}" alt="Listing image for If You Can Read This You&#x27;re Standing Too Close Men&#x27;s T-Shirt Size XL Long Sleeve" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+stand+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading stand t shirt" data-ebay-reference="dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt" target="_blank" rel="sponsored noopener noreferrer">If You Can Read This You&#x27;re Standing Too Close Men&#x27;s T-Shirt Size XL Long Sleeve</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+stand+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading stand t shirt" data-ebay-reference="dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading stand t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: reading stand t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+stand+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading stand t shirt" data-ebay-reference="dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+stand+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading stand t shirt" data-ebay-reference="dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+stand+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading stand t shirt" data-ebay-reference="dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for If You Can Read This You&#x27;re Standing Too Close Men&#x27;s T-Shirt Size XL Long Sleeve"><img src="{{ '/assets/images/marketplace-covers/a5ab197acb1db5731bd1.jpg' | relative_url }}" alt="Listing image for If You Can Read This You&#x27;re Standing Too Close Men&#x27;s T-Shirt Size XL Long Sleeve" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+stand+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading stand t shirt" data-ebay-reference="dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt" target="_blank" rel="sponsored noopener noreferrer">If You Can Read This You&#x27;re Standing Too Close Men&#x27;s T-Shirt Size XL Long Sleeve</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+stand+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading stand t shirt" data-ebay-reference="dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reading stand t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: reading stand t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+stand+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading stand t shirt" data-ebay-reference="dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=reading+stand+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reading stand t shirt" data-ebay-reference="dense-texts-18e4ea-where-slowing-down-saves-the-most-time-increasing-reading-stand-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -672,7 +672,7 @@ For complex material, the fastest route through the document is often not the fa
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -692,7 +692,7 @@ For complex material, the fastest route through the document is often not the fa
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -724,7 +724,7 @@ For complex material, the fastest route through the document is often not the fa
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -776,7 +776,7 @@ For complex material, the fastest route through the document is often not the fa
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -821,7 +821,7 @@ For complex material, the fastest route through the document is often not the fa
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -862,85 +862,85 @@ For complex material, the fastest route through the document is often not the fa
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCHow working memory relates to children's reading  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5247542/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5247542/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by S Nouwens · 2016 · Cited by 200 — Working memory is considered a well-established predictor of individual variation in reading comp...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5247542/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5247542/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by S Nouwens · 2016 · Cited by 200 — Working memory is considered a well-established predictor of individual variation in reading comp...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.3758/s13421-012-0244-y" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13421-012-0244-y</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The function of regressions in reading: Backward eye...by RW Booth · 2013 · Cited by 134 — Regressions make up 15 %–25 % of eye...</p></details>
+   Link:<a href="https://link.springer.com/article/10.3758/s13421-012-0244-y" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13421-012-0244-y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The function of regressions in reading: Backward eye...by RW Booth · 2013 · Cited by 134 — Regressions make up 15 %–25 % of eye...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: assets.cambridge.org  
-   Link: <a href="https://assets.cambridge.org/97811084/15354/excerpt/9781108415354_excerpt.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.cambridge.org/97811084/15354/excerpt/9781108415354_excerpt.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge AssetsChapter 1 Introduction to Eye-TrackingAbout 10–15 per cent of the time, readers move their eyes back (regress) to previou...</p></details>
+   Link:<a href="https://assets.cambridge.org/97811084/15354/excerpt/9781108415354_excerpt.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.cambridge.org/97811084/15354/excerpt/9781108415354_excerpt.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge AssetsChapter 1 Introduction to Eye-TrackingAbout 10–15 per cent of the time, readers move their eyes back (regress) to previou...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCEven lawyers do not like legalese  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10266064/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10266064/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by E Martínez · 2023 · Cited by 24 — Experiment 1 revealed that lawyers, like laypeople, were less able to recall and comprehend legal...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10266064/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10266064/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by E Martínez · 2023 · Cited by 24 — Experiment 1 revealed that lawyers, like laypeople, were less able to recall and comprehend legal...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: eprints.lancs.ac.uk  
-   Link: <a href="https://eprints.lancs.ac.uk/id/document/57069" target="_blank" rel="noopener noreferrer nofollow">https://eprints.lancs.ac.uk/id/document/57069</a>  
+   Link:<a href="https://eprints.lancs.ac.uk/id/document/57069" target="_blank" rel="noopener noreferrer nofollow">https://eprints.lancs.ac.uk/id/document/57069</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: tenthings.blog  
    Title: ten things how to read a contract  
-   Link: <a href="https://tenthings.blog/2019/08/28/ten-things-how-to-read-a-contract/" target="_blank" rel="noopener noreferrer nofollow">https://tenthings.blog/2019/08/28/ten-things-how-to-read-a-contract/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Then make your careful second pass through the contract. When a defined...Read more...</p></details>
+   Link:<a href="https://tenthings.blog/2019/08/28/ten-things-how-to-read-a-contract/" target="_blank" rel="noopener noreferrer nofollow">https://tenthings.blog/2019/08/28/ten-things-how-to-read-a-contract/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Then make your careful second pass through the contract. When a defined...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: thecybersolicitor.com  
-   Link: <a href="https://www.thecybersolicitor.com/p/how-to-read-legal-docs" target="_blank" rel="noopener noreferrer nofollow">https://www.thecybersolicitor.com/p/how-to-read-legal-docs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cyber SolicitorYou are reading legal docs wrong - by Mahdi AssanJanuary 23, 2026 — 23 Jan 2026 — Reading legal text is not the same a...</p></details>
+   Link:<a href="https://www.thecybersolicitor.com/p/how-to-read-legal-docs" target="_blank" rel="noopener noreferrer nofollow">https://www.thecybersolicitor.com/p/how-to-read-legal-docs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Cyber SolicitorYou are reading legal docs wrong - by Mahdi AssanJanuary 23, 2026 — 23 Jan 2026 — Reading legal text is not the same a...</p></details>
    Published: January 23, 2026  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: research.reading.ac.uk  
    Title: 2025 03 Tromso Eye Tracking Workshop Session 1 Handout  
-   Link: <a href="https://research.reading.ac.uk/psylinglab/wp-content/uploads/sites/25/2025/03/2025-03-Tromso-Eye-Tracking-Workshop-Session-1-Handout.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.reading.ac.uk/psylinglab/wp-content/uploads/sites/25/2025/03/2025-03-Tromso-Eye-Tracking-Workshop-Session-1-Handout.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>➢ About 10-15% of eye-movements are regressions to earlier portions of...Read more...</p></details>
+   Link:<a href="https://research.reading.ac.uk/psylinglab/wp-content/uploads/sites/25/2025/03/2025-03-Tromso-Eye-Tracking-Workshop-Session-1-Handout.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.reading.ac.uk/psylinglab/wp-content/uploads/sites/25/2025/03/2025-03-Tromso-Eye-Tracking-Workshop-Session-1-Handout.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>➢ About 10-15% of eye-movements are regressions to earlier portions of...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12821705/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12821705/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rethinking Musical Stimuli...by KJ Leikvoll · 2025 — This article examines the nature of musical stimuli used in eye-movement research o...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12821705/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12821705/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rethinking Musical Stimuli...by KJ Leikvoll · 2025 — This article examines the nature of musical stimuli used in eye-movement research o...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1495986377308906/posts/4193746370866213/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1495986377308906/posts/4193746370866213/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Importance of reading contracts carefullyAll of you that sign contracts with others make sure you read it all or have a lawyer read it al...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1495986377308906/posts/4193746370866213/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1495986377308906/posts/4193746370866213/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Importance of reading contracts carefullyAll of you that sign contracts with others make sure you read it all or have a lawyer read it al...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/tessa-manuello_legaldesign-contracts-innovation-activity-7307756283053371392-IFZ7" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/tessa-manuello_legaldesign-contracts-innovation-activity-7307756283053371392-IFZ7</a>  
+   Link:<a href="https://www.linkedin.com/posts/tessa-manuello_legaldesign-contracts-innovation-activity-7307756283053371392-IFZ7" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/tessa-manuello_legaldesign-contracts-innovation-activity-7307756283053371392-IFZ7</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nacd.org  
-   Link: <a href="https://www.nacd.org/nacd-research-the-role-of-working-memory-in-reading-comprehension/" target="_blank" rel="noopener noreferrer nofollow">https://www.nacd.org/nacd-research-the-role-of-working-memory-in-reading-comprehension/</a>  
+   Link:<a href="https://www.nacd.org/nacd-research-the-role-of-working-memory-in-reading-comprehension/" target="_blank" rel="noopener noreferrer nofollow">https://www.nacd.org/nacd-research-the-role-of-working-memory-in-reading-comprehension/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtu.be  
-   Link: <a href="https://youtu.be/h9ven4N67i0" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/h9ven4N67i0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;For more information about digital literacy, English language and study skills for distance learners, visit us at [https://www.bbc.co.uk/l...&quot;](https://www.bbc.co.uk/l...&quot;)...</p></details>
+   Link:<a href="https://youtu.be/h9ven4N67i0" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/h9ven4N67i0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;For more information about digital literacy, English language and study skills for distance learners, visit us at [https://www.bbc.co.uk/l...&quot;](https://www.bbc.co.uk/l...&quot;)...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: bclawreview.bc.edu  
-   Link: <a href="https://bclawreview.bc.edu/articles/320/files/63a92425205eb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bclawreview.bc.edu/articles/320/files/63a92425205eb.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Boston College Law ReviewTHE DUTY TO READ THE UNREADABLEby U Benoliel · 2019 · Cited by 277 — Abstract: The duty to read doctrine is a we...</p></details>
+   Link:<a href="https://bclawreview.bc.edu/articles/320/files/63a92425205eb.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bclawreview.bc.edu/articles/320/files/63a92425205eb.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Boston College Law ReviewTHE DUTY TO READ THE UNREADABLEby U Benoliel · 2019 · Cited by 277 — Abstract: The duty to read doctrine is a we...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: arno.uvt.nl  
    Title: nl Effects of Foregrounding on Reading Behavior: An Eye  
-   Link: <a href="https://arno.uvt.nl/show.cgi?fid=135356" target="_blank" rel="noopener noreferrer nofollow">https://arno.uvt.nl/show.cgi?fid=135356</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>httpMindless reading revisited: Eye movements during reading and [scanning](&amp;#123;&amp;#123; &#x27;scanning-vs-reading/&#x27; | relative_url &amp;#125;&amp;#125;) are different. Perception &amp; Psychophysics, 58, 734...</p></details>
+   Link:<a href="https://arno.uvt.nl/show.cgi?fid=135356" target="_blank" rel="noopener noreferrer nofollow">https://arno.uvt.nl/show.cgi?fid=135356</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>httpMindless reading revisited: Eye movements during reading and [scanning](&amp;#123;&amp;#123; &#x27;scanning-vs-reading/&#x27; | relative_url &amp;#125;&amp;#125;) are different. Perception &amp; Psychophysics, 58, 734...</p></details>
 
 7
 
@@ -949,23 +949,23 @@ For complex material, the fastest route through the document is often not the fa
 7. Rayner,
 
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: tmalsburg.github.io  
-   Link: <a href="https://tmalsburg.github.io/MeziereEtAl2021MS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tmalsburg.github.io/MeziereEtAl2021MS.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>accades are regressions, which move the eyes back to a previous part of...Read more...</p></details>
+   Link:<a href="https://tmalsburg.github.io/MeziereEtAl2021MS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tmalsburg.github.io/MeziereEtAl2021MS.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>accades are regressions, which move the eyes back to a previous part of...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/20182207" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/20182207</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eye Movements in Reading: Recent Developmentsby K Rayner · 1993 · Cited by 83 — of eye movements during reading is that about 10% to...</p></details>
+   Link:<a href="https://www.jstor.org/stable/20182207" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/20182207</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eye Movements in Reading: Recent Developmentsby K Rayner · 1993 · Cited by 83 — of eye movements during reading is that about 10% to...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Ask_Lawyers/comments/lnc7k5/why_are_legal_documents_always_so_verbose/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Ask_Lawyers/comments/lnc7k5/why_are_legal_documents_always_so_verbose/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nt and it took a page saying what is basically &#x27;do not...</p></details>
+   Link:<a href="https://www.reddit.com/r/Ask_Lawyers/comments/lnc7k5/why_are_legal_documents_always_so_verbose/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Ask_Lawyers/comments/lnc7k5/why_are_legal_documents_always_so_verbose/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nt and it took a page saying what is basically &#x27;do not...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: thoughtgenic.com  
    Title: ten things how to read a contract  
-   Link: <a href="https://thoughtgenic.com/ten-things-how-to-read-a-contract/" target="_blank" rel="noopener noreferrer nofollow">https://thoughtgenic.com/ten-things-how-to-read-a-contract/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ten Things – How to Read a Contract: Complete Guide9 Feb 2026 — Learn 10 essential tips to read contracts confidently, spot risks, unders...</p></details>
+   Link:<a href="https://thoughtgenic.com/ten-things-how-to-read-a-contract/" target="_blank" rel="noopener noreferrer nofollow">https://thoughtgenic.com/ten-things-how-to-read-a-contract/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ten Things – How to Read a Contract: Complete Guide9 Feb 2026 — Learn 10 essential tips to read contracts confidently, spot risks, unders...</p></details>

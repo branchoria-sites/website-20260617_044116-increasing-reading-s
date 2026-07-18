@@ -279,7 +279,7 @@ A third pass is where reading stops being reconnaissance and becomes investigati
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_three_pass_sk_1f5b04_need_third_pa_ff6081-Illustration-1-dark.svg" | relative_url }}" alt="Need Third Pass illustration 1" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_three_pass_sk_1f5b04_need_third_pa_ff6081-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_three_pass_sk_1f5b04_need_third_pa_ff6081-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Many readers assume that every report, article, white paper, or academic paper deserves close scrutiny. In [practice]({{ 'practice/' | relative_url }}), the opposite is true. The original three-pass method was designed so that readers could decide early whether a text justified deeper effort. After the first and second passes, you should have enough information to judge relevance, credibility, and potential value before investing substantial time in detailed reading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ccr.sigcomm.org/online/files/p83-keshavA.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ccr.sigcomm.org">[CCR+2경민수의 블로그]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ccr.sigcomm.org</span><span class="citation-popover-snippet">2. THE THREE-PASS APPROACH. The key idea is that you should read the...Read more...</span></span></span>
+Many readers assume that every report, article, white paper, or academic paper deserves close scrutiny. In [practice]({{ 'practice/' | relative_url }}), the opposite is true. The original three-pass method was designed so that readers could decide early whether a text justified deeper effort. After the first and second passes, you should have enough information to judge relevance, credibility, and potential value before investing substantial time in detailed reading.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ccr.sigcomm.org/online/files/p83-keshavA.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ccr.sigcomm.org">[CCR+2경민수의 블로그]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ccr.sigcomm.org</span><span class="citation-popover-snippet">2. THE THREE-PASS APPROACH. The key idea is that you should read the...Read more...</span></span></span>
 
 ## Signals That a Deeper Read Is Justified
 
@@ -298,7 +298,7 @@ A third pass is usually warranted when one or more of the following conditions a
 
 </div>
 
-Keshav's widely cited three-pass framework treats the third pass as a reconstruction exercise: the reader should be able to follow the author's reasoning in enough detail to identify assumptions, weaknesses, and missing steps. That level of effort is only worthwhile when the document's importance justifies it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ccr.sigcomm.org/online/files/p83-keshavA.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ccr.sigcomm.org">[CCR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ccr.sigcomm.org</span><span class="citation-popover-snippet">2. THE THREE-PASS APPROACH. The key idea is that you should read the...Read more...</span></span></span>
+Keshav's widely cited three-pass framework treats the third pass as a reconstruction exercise: the reader should be able to follow the author's reasoning in enough detail to identify assumptions, weaknesses, and missing steps. That level of effort is only worthwhile when the document's importance justifies it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ccr.sigcomm.org/online/files/p83-keshavA.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ccr.sigcomm.org">[CCR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ccr.sigcomm.org</span><span class="citation-popover-snippet">2. THE THREE-PASS APPROACH. The key idea is that you should read the...Read more...</span></span></span>
 
 ### A Practical Importance Test
 
@@ -336,7 +336,7 @@ After a successful first and second pass, you should usually know:
 
 </div>
 
-If those questions are answered and no major decisions depend on the details, further reading often provides diminishing returns. Several university reading guides describe [skimming]({{ 'skimming/' | relative_url }}) as a deliberate strategy for identifying which texts deserve concentrated attention and which do not. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://help.open.ac.uk/critical-reading-techniques/use-an-efficient-approach" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: help.open.ac.uk">[Open University Help+2The Learning Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">help.open.ac.uk</span><span class="citation-popover-snippet">Open University HelpUse an efficient approach: Critical reading techniquesScanning and skimming · get an indication of the scope and cont...</span></span></span>
+If those questions are answered and no major decisions depend on the details, further reading often provides diminishing returns. Several university reading guides describe [skimming]({{ 'skimming/' | relative_url }}) as a deliberate strategy for identifying which texts deserve concentrated attention and which do not.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://help.open.ac.uk/critical-reading-techniques/use-an-efficient-approach" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: help.open.ac.uk">[Open University Help+2The Learning Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">help.open.ac.uk</span><span class="citation-popover-snippet">Open University HelpUse an efficient approach: Critical reading techniquesScanning and skimming · get an indication of the scope and cont...</span></span></span>
 
 Common examples include:
 
@@ -396,7 +396,7 @@ ImportanceConsequence of ErrorRecommended ActionLowLowStop after first or second
 
 For example, a 60-page policy report may be highly interesting but have little impact on your current work. In that case, a thorough second pass may be enough. By contrast, a short [technical]({{ 'technical-texts/' | relative_url }}) memo that influences a major purchasing or research decision may deserve a full third pass despite its modest length.
 
-Reading experts consistently emphasise that reading strategy should be guided by purpose. Skimming and selective reading are most effective when readers consciously match effort to objectives rather than treating every text the same way. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalgeographic.com/science/article/reading-skimming-attention" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalgeographic.com">[National Geographic+2Open University Help]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalgeographic.com</span><span class="citation-popover-title">reading skimming attention</span><span class="citation-popover-snippet">National GeographicIs there a &#x27;right&#x27; way to read?17 Jan 2025 — According to experts, skimming—where you skip over words and sections to...</span></span></span>
+Reading experts consistently emphasise that reading strategy should be guided by purpose. Skimming and selective reading are most effective when readers consciously match effort to objectives rather than treating every text the same way.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalgeographic.com/science/article/reading-skimming-attention" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalgeographic.com">[National Geographic+2Open University Help]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalgeographic.com</span><span class="citation-popover-title">reading skimming attention</span><span class="citation-popover-snippet">National GeographicIs there a &#x27;right&#x27; way to read?17 Jan 2025 — According to experts, skimming—where you skip over words and sections to...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Gv5ku0eoY6k" title="How To Read A Paper Quickly &amp; Effectively | Easy Research Reading Technique" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Gv5ku0eoY6k" target="_blank" rel="noopener noreferrer">How To Read A Paper Quickly &amp; Effectively | Easy Research Reading Technique</a></p><p class="youtube-embed-meta">Channel: Dr Amina Yonis</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Gv5ku0eoY6k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Gv5ku0eoY6k">Open on YouTube</a></p></div></div></div>
@@ -407,184 +407,184 @@ One of the most common mistakes in speed-oriented reading is assuming that effic
 
 If a first pass reveals irrelevance, stop. If a second pass provides enough understanding for your purpose, stop. Reserve the third pass for documents whose details matter.
 
-That discipline is what makes the three-pass approach effective. The goal is not to read everything deeply. The goal is to identify the small fraction of documents that truly deserve deep attention and spend your time there. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ccr.sigcomm.org/online/files/p83-keshavA.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ccr.sigcomm.org">[CCR+2경민수의 블로그]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ccr.sigcomm.org</span><span class="citation-popover-snippet">2. THE THREE-PASS APPROACH. The key idea is that you should read the...Read more...</span></span></span>
+That discipline is what makes the three-pass approach effective. The goal is not to read everything deeply. The goal is to identify the small fraction of documents that truly deserve deep attention and spend your time there.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ccr.sigcomm.org/online/files/p83-keshavA.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ccr.sigcomm.org">[CCR+2경민수의 블로그]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ccr.sigcomm.org</span><span class="citation-popover-snippet">2. THE THREE-PASS APPROACH. The key idea is that you should read the...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_three_pass_sk_1f5b04_need_third_pa_ff6081-Illustration-3-dark.svg" | relative_url }}" alt="Need Third Pass illustration 3" data-theme-src-dark="{{ "/assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_three_pass_sk_1f5b04_need_third_pa_ff6081-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/increasing_re_852ca6_honest_skimmi_aabcf8_three_pass_sk_1f5b04_need_third_pa_ff6081-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Does This Document Really Need a Third Pass?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Does This Document Really Need a Third Pass?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
-        </h4>
-        <p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
-        <p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
-        <p class="fr-book-desc">Directly addresses inspectional versus analytical reading and when deeper reading is justified.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Z5PpkQadm5EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Read a Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Book">How to Read a Book</a>
+</h4>
+<p class="fr-book-author">By Mortimer J. Adler, Charles Van Doren</p>
+<p class="fr-book-popularity">Rating: 4.0/5 from 41 Google Books ratings</p>
+<p class="fr-book-desc">Directly addresses inspectional versus analytical reading and when deeper reading is justified.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Read+a+Book+by+Mortimer+J.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Encourages slowing down when stakes and evidence warrant deeper scrutiny.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages slowing down when stakes and evidence warrant deeper scrutiny.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9500448-M.jpg" alt="Cover for The Art of Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Statistics">The Art of Statistics</a>
-        </h4>
-        <p class="fr-book-author">By David Spiegelhalter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Statistics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9500448-M.jpg" alt="Cover for The Art of Statistics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Statistics">The Art of Statistics</a>
+</h4>
+<p class="fr-book-author">By David Spiegelhalter</p>
         
-        <p class="fr-book-desc">First published 2019. Subjects: Statistics, Popular works.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2019. Subjects: Statistics, Popular works.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Art+of+Statistics+David+Spiegelhalter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Critical+Thinking+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Critical Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14063829-M.jpg" alt="Cover for Critical Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Critical+Thinking+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Critical Thinking">Critical Thinking</a>
-        </h4>
-        <p class="fr-book-author">By Tom Chatfield</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Critical+Thinking+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Critical Thinking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14063829-M.jpg" alt="Cover for Critical Thinking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Critical+Thinking+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Critical Thinking">Critical Thinking</a>
+</h4>
+<p class="fr-book-author">By Tom Chatfield</p>
         
-        <p class="fr-book-desc">First published 2017. Subjects: Critical thinking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Critical+Thinking+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2017. Subjects: Critical thinking.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Critical+Thinking+Tom+Chatfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Statistics</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Statistics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Statistics</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-third-pass-does-this-document-really-need-a-third-pass-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="need-third-pass-does-this-document-really-need-a-third-pass-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage Office Home"><img src="{{ '/assets/images/marketplace-covers/c4ba66d9ac362939999e.jpg' | relative_url }}" alt="Listing image for Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage Office Home" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-third-pass-does-this-document-really-need-a-third-pass-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="need-third-pass-does-this-document-really-need-a-third-pass-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage Office Home</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-third-pass-does-this-document-really-need-a-third-pass-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="need-third-pass-does-this-document-really-need-a-third-pass-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-third-pass-does-this-document-really-need-a-third-pass-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="need-third-pass-does-this-document-really-need-a-third-pass-increasing-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-third-pass-does-this-document-really-need-a-third-pass-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="need-third-pass-does-this-document-really-need-a-third-pass-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage Office Home"><img src="{{ '/assets/images/marketplace-covers/c4ba66d9ac362939999e.jpg' | relative_url }}" alt="Listing image for Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage Office Home" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-third-pass-does-this-document-really-need-a-third-pass-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="need-third-pass-does-this-document-really-need-a-third-pass-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage Office Home</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-third-pass-does-this-document-really-need-a-third-pass-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="need-third-pass-does-this-document-really-need-a-third-pass-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-third-pass-does-this-document-really-need-a-third-pass-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="need-third-pass-does-this-document-really-need-a-third-pass-increasing-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-third-pass-does-this-document-really-need-a-third-pass-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="need-third-pass-does-this-document-really-need-a-third-pass-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Office Study Desk Organizer Table Box Tidy Case Wooden Pen Pencil Storage Holder"><img src="{{ '/assets/images/marketplace-covers/ed40463974a57f4e909b.jpg' | relative_url }}" alt="Listing image for Office Study Desk Organizer Table Box Tidy Case Wooden Pen Pencil Storage Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-third-pass-does-this-document-really-need-a-third-pass-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="need-third-pass-does-this-document-really-need-a-third-pass-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Office Study Desk Organizer Table Box Tidy Case Wooden Pen Pencil Storage Holder</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-third-pass-does-this-document-really-need-a-third-pass-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="need-third-pass-does-this-document-really-need-a-third-pass-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-third-pass-does-this-document-really-need-a-third-pass-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="need-third-pass-does-this-document-really-need-a-third-pass-increasing-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-third-pass-does-this-document-really-need-a-third-pass-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="need-third-pass-does-this-document-really-need-a-third-pass-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Office Study Desk Organizer Table Box Tidy Case Wooden Pen Pencil Storage Holder"><img src="{{ '/assets/images/marketplace-covers/ed40463974a57f4e909b.jpg' | relative_url }}" alt="Listing image for Office Study Desk Organizer Table Box Tidy Case Wooden Pen Pencil Storage Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-third-pass-does-this-document-really-need-a-third-pass-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="need-third-pass-does-this-document-really-need-a-third-pass-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">Office Study Desk Organizer Table Box Tidy Case Wooden Pen Pencil Storage Holder</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-third-pass-does-this-document-really-need-a-third-pass-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="need-third-pass-does-this-document-really-need-a-third-pass-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-third-pass-does-this-document-really-need-a-third-pass-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="need-third-pass-does-this-document-really-need-a-third-pass-increasing-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-third-pass-does-this-document-really-need-a-third-pass-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="need-third-pass-does-this-document-really-need-a-third-pass-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for OSCO Bamboo Desk Organiser | 6 Compartments | 1 Drawer | Office Tidy | Stationer"><img src="{{ '/assets/images/marketplace-covers/acce59ee37094e6800bd.jpg' | relative_url }}" alt="Listing image for OSCO Bamboo Desk Organiser | 6 Compartments | 1 Drawer | Office Tidy | Stationer" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-third-pass-does-this-document-really-need-a-third-pass-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="need-third-pass-does-this-document-really-need-a-third-pass-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">OSCO Bamboo Desk Organiser | 6 Compartments | 1 Drawer | Office Tidy | Stationer</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-third-pass-does-this-document-really-need-a-third-pass-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="need-third-pass-does-this-document-really-need-a-third-pass-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-third-pass-does-this-document-really-need-a-third-pass-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="need-third-pass-does-this-document-really-need-a-third-pass-increasing-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-third-pass-does-this-document-really-need-a-third-pass-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="need-third-pass-does-this-document-really-need-a-third-pass-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-third-pass-does-this-document-really-need-a-third-pass-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="need-third-pass-does-this-document-really-need-a-third-pass-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for OSCO Bamboo Desk Organiser | 6 Compartments | 1 Drawer | Office Tidy | Stationer"><img src="{{ '/assets/images/marketplace-covers/acce59ee37094e6800bd.jpg' | relative_url }}" alt="Listing image for OSCO Bamboo Desk Organiser | 6 Compartments | 1 Drawer | Office Tidy | Stationer" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-third-pass-does-this-document-really-need-a-third-pass-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="need-third-pass-does-this-document-really-need-a-third-pass-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">OSCO Bamboo Desk Organiser | 6 Compartments | 1 Drawer | Office Tidy | Stationer</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-third-pass-does-this-document-really-need-a-third-pass-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="need-third-pass-does-this-document-really-need-a-third-pass-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-third-pass-does-this-document-really-need-a-third-pass-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="need-third-pass-does-this-document-really-need-a-third-pass-increasing-desk-organizer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=need-third-pass-does-this-document-really-need-a-third-pass-increasing-desk-organizer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk organizer" data-ebay-reference="need-third-pass-does-this-document-really-need-a-third-pass-increasing-desk-organizer" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -600,7 +600,7 @@ That discipline is what makes the three-pass approach effective. The goal is not
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -620,7 +620,7 @@ That discipline is what makes the three-pass approach effective. The goal is not
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -652,7 +652,7 @@ That discipline is what makes the three-pass approach effective. The goal is not
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -704,7 +704,7 @@ That discipline is what makes the three-pass approach effective. The goal is not
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -749,7 +749,7 @@ That discipline is what makes the three-pass approach effective. The goal is not
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -790,78 +790,78 @@ That discipline is what makes the three-pass approach effective. The goal is not
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ccr.sigcomm.org  
-   Link: <a href="https://ccr.sigcomm.org/online/files/p83-keshavA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ccr.sigcomm.org/online/files/p83-keshavA.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2. THE THREE-PASS APPROACH. The key idea is that you should read the...Read more...</p></details>
+   Link:<a href="https://ccr.sigcomm.org/online/files/p83-keshavA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ccr.sigcomm.org/online/files/p83-keshavA.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2. THE THREE-PASS APPROACH. The key idea is that you should read the...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: help.open.ac.uk  
-   Link: <a href="https://help.open.ac.uk/critical-reading-techniques/use-an-efficient-approach" target="_blank" rel="noopener noreferrer nofollow">https://help.open.ac.uk/critical-reading-techniques/use-an-efficient-approach</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Open University HelpUse an efficient approach: Critical reading techniquesScanning and skimming · get an indication of the scope and cont...</p></details>
+   Link:<a href="https://help.open.ac.uk/critical-reading-techniques/use-an-efficient-approach" target="_blank" rel="noopener noreferrer nofollow">https://help.open.ac.uk/critical-reading-techniques/use-an-efficient-approach</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Open University HelpUse an efficient approach: Critical reading techniquesScanning and skimming · get an indication of the scope and cont...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: learningcenter.unc.edu  
    Title: The Learning Center Skimming  
-   Link: <a href="https://learningcenter.unc.edu/tips-and-tools/skimming/" target="_blank" rel="noopener noreferrer nofollow">https://learningcenter.unc.edu/tips-and-tools/skimming/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Learning CenterSkimming - The Learning CenterSkimming is a strategic, selective reading method in which you focus on the main ideas o...</p></details>
+   Link:<a href="https://learningcenter.unc.edu/tips-and-tools/skimming/" target="_blank" rel="noopener noreferrer nofollow">https://learningcenter.unc.edu/tips-and-tools/skimming/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Learning CenterSkimming - The Learning CenterSkimming is a strategic, selective reading method in which you focus on the main ideas o...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nationalgeographic.com  
    Title: reading skimming attention  
-   Link: <a href="https://www.nationalgeographic.com/science/article/reading-skimming-attention" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/science/article/reading-skimming-attention</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National GeographicIs there a &#x27;right&#x27; way to read?17 Jan 2025 — According to experts, skimming—where you skip over words and sections to...</p></details>
+   Link:<a href="https://www.nationalgeographic.com/science/article/reading-skimming-attention" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/science/article/reading-skimming-attention</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National GeographicIs there a &#x27;right&#x27; way to read?17 Jan 2025 — According to experts, skimming—where you skip over words and sections to...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/data-science/how-to-read-scientific-papers-df3afd454179" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/data-science/how-to-read-scientific-papers-df3afd454179</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How To Read Scientific PapersThe three-pass approach (tl;dr); The first pass: The bird&#x27;s-eye view; The second pass: Grasp the content; Th...</p></details>
+   Link:<a href="https://medium.com/data-science/how-to-read-scientific-papers-df3afd454179" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/data-science/how-to-read-scientific-papers-df3afd454179</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How To Read Scientific PapersThe three-pass approach (tl;dr); The first pass: The bird&#x27;s-eye view; The second pass: Grasp the content; Th...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: masterpiecek12.org  
-   Link: <a href="https://masterpiecek12.org/stop-skimming-unlock-deeper-lasting-understanding/" target="_blank" rel="noopener noreferrer nofollow">https://masterpiecek12.org/stop-skimming-unlock-deeper-lasting-understanding/</a>  
+   Link:<a href="https://masterpiecek12.org/stop-skimming-unlock-deeper-lasting-understanding/" target="_blank" rel="noopener noreferrer nofollow">https://masterpiecek12.org/stop-skimming-unlock-deeper-lasting-understanding/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: teachbritannica.com  
-   Link: <a href="https://teachbritannica.com/academic-toolkits/strategies-for-deep-reading/" target="_blank" rel="noopener noreferrer nofollow">https://teachbritannica.com/academic-toolkits/strategies-for-deep-reading/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Strategies for Deep ReadingEngage in active pre-reading by skimming the material and formulating questions before detail-oriented reading...</p></details>
+   Link:<a href="https://teachbritannica.com/academic-toolkits/strategies-for-deep-reading/" target="_blank" rel="noopener noreferrer nofollow">https://teachbritannica.com/academic-toolkits/strategies-for-deep-reading/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Strategies for Deep ReadingEngage in active pre-reading by skimming the material and formulating questions before detail-oriented reading...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/emmanueltsekleves_phdlife-academictwitter-activity-7422270957064491008-Wb0s" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/emmanueltsekleves_phdlife-academictwitter-activity-7422270957064491008-Wb0s</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Boost Reading Speed by 70% with the Three-Pass ApproachWrite for Pass 1: • A clear abstract • Informative headings • A strong figure or t...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/emmanueltsekleves_phdlife-academictwitter-activity-7422270957064491008-Wb0s" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/emmanueltsekleves_phdlife-academictwitter-activity-7422270957064491008-Wb0s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Boost Reading Speed by 70% with the Three-Pass ApproachWrite for Pass 1: • A clear abstract • Informative headings • A strong figure or t...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: blog-sc.hku.hk  
    Title: reading papers efficiently with the three pass approach  
-   Link: <a href="https://blog-sc.hku.hk/reading-papers-efficiently-with-the-three-pass-approach/" target="_blank" rel="noopener noreferrer nofollow">https://blog-sc.hku.hk/reading-papers-efficiently-with-the-three-pass-approach/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Keshav noted, the first pass helps readers to get a general idea of a paper. It usually takes five to ten minutes to glance at the title...</p></details>
+   Link:<a href="https://blog-sc.hku.hk/reading-papers-efficiently-with-the-three-pass-approach/" target="_blank" rel="noopener noreferrer nofollow">https://blog-sc.hku.hk/reading-papers-efficiently-with-the-three-pass-approach/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Keshav noted, the first pass helps readers to get a general idea of a paper. It usually takes five to ten minutes to glance at the title...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: utc.edu  
-   Link: <a href="https://www.utc.edu/enrollment-management-and-student-affairs/center-for-academic-support-and-advisement/tips-for-academic-success/skimming" target="_blank" rel="noopener noreferrer nofollow">https://www.utc.edu/enrollment-management-and-student-affairs/center-for-academic-support-and-advisement/tips-for-academic-success/skimming</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>University of Tennessee at ChattanoogaSkimming and [Scanning](&amp;#123;&amp;#123; &#x27;scanning-vs-reading/&#x27; | relative_url &amp;#125;&amp;#125;) | University of Tennessee at...With skimming, your overall understanding is...</p></details>
+   Link:<a href="https://www.utc.edu/enrollment-management-and-student-affairs/center-for-academic-support-and-advisement/tips-for-academic-success/skimming" target="_blank" rel="noopener noreferrer nofollow">https://www.utc.edu/enrollment-management-and-student-affairs/center-for-academic-support-and-advisement/tips-for-academic-success/skimming</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of Tennessee at ChattanoogaSkimming and [Scanning](&amp;#123;&amp;#123; &#x27;scanning-vs-reading/&#x27; | relative_url &amp;#125;&amp;#125;) | University of Tennessee at...With skimming, your overall understanding is...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: libguides.exeter.ac.uk  
    Title: exeter.ac.uk Academic Reading: Reading Strategies  
-   Link: <a href="https://libguides.exeter.ac.uk/c.php?g=727783&amp;p=5297946" target="_blank" rel="noopener noreferrer nofollow">https://libguides.exeter.ac.uk/c.php?g=727783&amp;p=5297946</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reading: Reading Strategies - LibGuides9 Mar 2026 — Without structured approaches such as skimming, scanning, and critical reading, it ca...</p></details>
+   Link:<a href="https://libguides.exeter.ac.uk/c.php?g=727783&amp;p=5297946" target="_blank" rel="noopener noreferrer nofollow">https://libguides.exeter.ac.uk/c.php?g=727783&amp;p=5297946</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reading: Reading Strategies - LibGuides9 Mar 2026 — Without structured approaches such as skimming, scanning, and critical reading, it ca...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: dl.acm.org  
-   Link: <a href="https://dl.acm.org/doi/10.1145/1273445.1273458" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/10.1145/1273445.1273458</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I also describe how to use this method to do a literature survey.Read more...</p></details>
+   Link:<a href="https://dl.acm.org/doi/10.1145/1273445.1273458" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/10.1145/1273445.1273458</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I also describe how to use this method to do a literature survey.Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: concordia.ca  
    Title: reading strategies skimming vs close reading  
-   Link: <a href="https://www.concordia.ca/cunews/offices/vprgs/gradproskills/blogs/2022/10/13/reading-strategies-skimming-vs-close-reading.html" target="_blank" rel="noopener noreferrer nofollow">https://www.concordia.ca/cunews/offices/vprgs/gradproskills/blogs/2022/10/13/reading-strategies-skimming-vs-close-reading.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Concordia UniversityReading Strategies: Skimming vs Close Reading | News12 Oct 2022 — Contrary to scanning, which requires you to search...</p></details>
+   Link:<a href="https://www.concordia.ca/cunews/offices/vprgs/gradproskills/blogs/2022/10/13/reading-strategies-skimming-vs-close-reading.html" target="_blank" rel="noopener noreferrer nofollow">https://www.concordia.ca/cunews/offices/vprgs/gradproskills/blogs/2022/10/13/reading-strategies-skimming-vs-close-reading.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Concordia UniversityReading Strategies: Skimming vs Close Reading | News12 Oct 2022 — Contrary to scanning, which requires you to search...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: <a href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/reading-comprehension-strategies" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/reading-comprehension-strategies</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The strategies focus mainly on language comprehension...Read more...</p></details>
+   Link:<a href="https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/reading-comprehension-strategies" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/reading-comprehension-strategies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The strategies focus mainly on language comprehension...Read more...</p></details>
